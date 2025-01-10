@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Research experience through collaborative teams in bioprocessing for conversion of waste into products of value]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>391099.00</AwardTotalIntnAmount>
+<AwardAmount>391099</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Patricia Simmons</SignBlockName>
+<PO_EMAI>psimmons@nsf.gov</PO_EMAI>
+<PO_PHON>7032925143</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Closing the loop on biological wastes is a critical global challenge given the expectation that the Earth will support roughly 9 billion people by 2050. Biological wastes are rich resources that contain a range of nutrients as well as water. Many of the molecules found in bio-waste can be transformed into products of value to society – fertilizers, protein, energy, clean water, medicine, and advanced biomaterials. This project promotes scientific progress and advances the health, prosperity, and welfare of the nation, consistent with the NSF’s mission. It does this by engaging cohorts of budding researchers into research projects aimed at converting biological waste materials back into products of value. At the same time, it trains student participants on how to conduct research and, of equal importance, how to communicate that work to the broader community. Participant students will be recruited from populations that are underrepresented in technical fields, as well as populations who currently lack access to research opportunities. The outcome will be a better-trained, diverse scientific workforce, which will help deliver solutions that benefit both people and the environment.&lt;br/&gt;&lt;br/&gt;The objective of this project is to establish a new REU site that integrates undergraduate students in team-based research projects focused on converting biological wastes into products of value. The proposed REU site will provide a 10-week summer research experience for ten students each year, over a 3 year period. REU students will be paired with faculty teams working in four different areas: 1) use of fish waste for sustainable aquaponics vegetable production, 2) upgrading wastewater nutrients into zooplankton fish feed, 3) transforming cellulose into sensors for infectious disease detection, and 4) conversion of lignin into adhesives and carbon fiber. As the most abundant biopolymers on Earth, cellulose and lignin are widely available in a range of waste biomass resources. REU student participants will not only gain research experience through this project, they will also receive training on teamwork and communication best practices through a suite of professional development opportunities. These efforts will yield two major outcomes: 1) a cohort of young researchers, many from underrepresented groups, who have strong understanding of interdisciplinary team-based research, and 2) publications showcasing the work of these students to the broader research community.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Division of Engineering Education and Centers (Directorate for Engineering), and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/02/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050742</AwardID>
+<Investigator>
+<FirstName>Sushil</FirstName>
+<LastName>Adhikari</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sushil Adhikari</PI_FULL_NAME>
+<EmailAddress><![CDATA[sza0016@auburn.edu]]></EmailAddress>
+<NSF_ID>000511488</NSF_ID>
+<StartDate>03/02/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brendan</FirstName>
+<LastName>Higgins</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brendan Higgins</PI_FULL_NAME>
+<EmailAddress><![CDATA[bth0023@auburn.edu]]></EmailAddress>
+<NSF_ID>000667950</NSF_ID>
+<StartDate>03/02/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Auburn University]]></Name>
+<CityName>AUBURN</CityName>
+<ZipCode>368490001</ZipCode>
+<PhoneNumber>3348444438</PhoneNumber>
+<StreetAddress><![CDATA[321-A INGRAM HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DMQNDJDHTDG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AUBURN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DMQNDJDHTDG4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Auburn University]]></Name>
+<CityName>Auburn University</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>368490001</ZipCode>
+<StreetAddress><![CDATA[310 Samford Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>136000</Code>
+<Text>EWFD-Eng Workforce Development</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~391099</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span style="font-family: Aptos; font-size: small;">From 2021-2024, our REU site trained 27 budding undergraduate researchers on converting biological wastes into products of value to society. As the world population grows, waste streams also grow and virgin resources become depleted. It is therefore imperative that we train future generations on developing better ways to not only recycling our wastes but upcycling them into even more valuable products and services.</span></p> <p><span style="text-decoration: underline;"><span style="font-family: Aptos; font-size: small;">Intellectual Merit:</span></span></p> <p><span style="font-family: Aptos; font-size: small;">The students who participated in our site developed new approaches to grow vegetables and produce fish feeds from wastewater. They develop sensors from waste cellulose, converted poultry processing wastes into clean bioenergy, and made plastics and adhesives from biomass. The REU students contributed to significant scientific advances in these areas. For example, multiple students contributed new knowledge on using a &ldquo;split root&rdquo; system that enables vegetables like tomatoes and kale to grow in saltwater from fish aquaculture. Without the split root technology, these plants cannot grow in saltwater. Other students developed adhesives made from waste biomass that were nearly as strong as conventional adhesives made from petroleum. Multiple students also developed liquid crystals (like what is in a phone screen) using nanocellulose which is obtained from plants. So far, two articles have been submitted for peer review based on the work of this project: one is published and the other is under review.</span></p> <p><span style="text-decoration: underline;"><span style="font-family: Aptos; font-size: small;">Broader Impacts:</span></span></p> <p><span style="font-family: Aptos; font-size: small;">The projects that these students engaged in not only provided them with fundamental laboratory skills, they also learned about leadership and how to function on diverse research teams. The problem of converting waste into products of value requires many different skill sets and areas of expertise; hence a team approach is necessary. Our REU students engaged in hands-on workshops each week that taught them about their personal leadership style, best practices in research, and how to read and write technical documents. External evaluation of our site revealed measurable increases in the REU students&rsquo; ability to work independently on a research project, to collect and analyze data, design experiments, and support scientific claims with evidence. These findings were consistent across all three years of our program. Most of the fellows from our 2021-2022 cohort have now graduated from their undergraduate institution and over half of them are attending or currently applying to graduate school. The others are either employed or finishing their undergraduate degree. 75% of our REU students were female, 33% were from racial groups underrepresented in engineering, and 30% were from institutions with limited research opportunity.</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 11/06/2024<br> Modified by: Brendan&nbsp;Higgins</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  From 2021-2024, our REU site trained 27 budding undergraduate researchers on converting biological wastes into products of value to society. As the world population grows, waste streams also grow and virgin resources become depleted. It is therefore imperative that we train future generations on developing better ways to not only recycling our wastes but upcycling them into even more valuable products and services.   Intellectual Merit:   The students who participated in our site developed new approaches to grow vegetables and produce fish feeds from wastewater. They develop sensors from waste cellulose, converted poultry processing wastes into clean bioenergy, and made plastics and adhesives from biomass. The REU students contributed to significant scientific advances in these areas. For example, multiple students contributed new knowledge on using a split root system that enables vegetables like tomatoes and kale to grow in saltwater from fish aquaculture. Without the split root technology, these plants cannot grow in saltwater. Other students developed adhesives made from waste biomass that were nearly as strong as conventional adhesives made from petroleum. Multiple students also developed liquid crystals (like what is in a phone screen) using nanocellulose which is obtained from plants. So far, two articles have been submitted for peer review based on the work of this project: one is published and the other is under review.   Broader Impacts:   The projects that these students engaged in not only provided them with fundamental laboratory skills, they also learned about leadership and how to function on diverse research teams. The problem of converting waste into products of value requires many different skill sets and areas of expertise; hence a team approach is necessary. Our REU students engaged in hands-on workshops each week that taught them about their personal leadership style, best practices in research, and how to read and write technical documents. External evaluation of our site revealed measurable increases in the REU students ability to work independently on a research project, to collect and analyze data, design experiments, and support scientific claims with evidence. These findings were consistent across all three years of our program. Most of the fellows from our 2021-2022 cohort have now graduated from their undergraduate institution and over half of them are attending or currently applying to graduate school. The others are either employed or finishing their undergraduate degree. 75% of our REU students were female, 33% were from racial groups underrepresented in engineering, and 30% were from institutions with limited research opportunity.        Last Modified: 11/06/2024       Submitted by: BrendanHiggins]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

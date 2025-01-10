@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Wireless implantable optoelectronic arrays for untethered high performance cardiac monitoring and modulation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>392248.00</AwardTotalIntnAmount>
+<AwardAmount>392248</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yogesh Gianchandani</SignBlockName>
+<PO_EMAI>ygiancha@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Life-threatening cardiovascular diseases including heart failure and heart rhythm disorders (arrhythmias) have significant impact on the quality of life, morbidity, and mortality. Ventricular arrhythmias alone are responsible for 300,000 sudden cardiac deaths in the United States per year. The development of effective therapeutic and diagnostic approaches requires detailed understanding of the complex underlying pathophysiology of heart failure and arrhythmias. However, this is limited by available experimental cardiovascular electrophysiology technologies. This multidisciplinary project will develop the next generation of wireless multifunctional optoelectronic array tools for cardiac monitoring and modulation. Such a technology is critical for developmental, structural, and functional cardiac studies. It will lead to new insights in cardiovascular disease pathogenesis and facilitate the development of therapeutic/diagnostic options for various types of arrhythmias and heart failure. This multidisciplinary project will be integrated with educational/outreach activities, including adopting the results of this project into various courses being taught at the George Washington University, hands-on research training for undergraduate students from different disciplinary programs, and directly engaging underrepresented K-12 students. Results from this project will also be used in The George Washington University Pre-College Summer Immersion Program to boost underrepresented high school students' interests in biomedical engineering.&lt;br/&gt;&lt;br/&gt;Current cardiac electrophysiology research is often based on acute in vitro and ex vivo experiments using cardiomyocytes or explanted hearts. Chronic in vivo cardiovascular studies on awake, freely behaving animals will offer some of the greatest areas of opportunity for understanding the complex pathogenesis of cardiovascular diseases. The goal of the project is to develop wireless, implantable optogenetic modulation and electrical sensing arrays to enable significant new opportunities for basic and translational cardiovascular studies with freely behaving animal subjects. This project includes three research objectives: (1) Develop cellular scale flexible transparent microelectrode arrays with superior electrochemical, optical, and mechanical properties for high-resolution electrophysiology. Efficient biocompatible encapsulation strategies will be explored for studying chronic disease models using the microelectrode arrays. (2) Design wireless, subdermally implantable, multifunctional, multisite microsystems consisting of transparent microelectrode arrays and microscale inorganic light-emitting diodes for simultaneous crosstalk-free electrophysiological recording and optogenetic modulation. (3) Validate the microsystems by studying the roles of specific cardiomyocytes and multisite pacing strategies in ventricular arrhythmias termination and in heart failure in freely moving mouse models. The wireless features of the devices will minimize adverse effects (e.g. motion artifacts, severe tissue damages, etc.) of conventional tethered, wired techniques associated with fiber optic cables and electrical wires. The proposed work will build upon the principal investigators' expertise in innovative materials, bioelectronic device fabrications, circuit designs, and cardiovascular physiology. The multifunctional implantable array tools will offer cardiovascular research community currently unavailable technological platforms for chronic research into the basic operating principles of cardiovascular physiology on freely moving animals and allow future development of therapeutic/diagnostic approaches in clinical medicine. The project will reveal the key parameters in designing high performance cellular scale transparent microelectrode arrays, provide versatile approaches for constructing minimally invasive wireless multifunctional bioelectronic interfaces, and demonstrate important new insights in cardiovascular physiology research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011093</AwardID>
+<Investigator>
+<FirstName>Igor</FirstName>
+<LastName>Efimov</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Igor R Efimov</PI_FULL_NAME>
+<EmailAddress><![CDATA[igor.efimov@northwestern.edu]]></EmailAddress>
+<NSF_ID>000792865</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Luyao</FirstName>
+<LastName>Lu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luyao Lu</PI_FULL_NAME>
+<EmailAddress><![CDATA[luyaolu@gwu.edu]]></EmailAddress>
+<NSF_ID>000800256</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Washington University]]></Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200520042</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress><![CDATA[1918 F ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECR5E2LU5BL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE WASHINGTON UNIVERSITY (THE)</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Washington University]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200520086</ZipCode>
+<StreetAddress><![CDATA[1922 F Street NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>104E</Code>
+<Text>MEMS/NEMS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~392248</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Cardiac arrhythmias are life-threatening heart diseases that have significant negative effects on the quality of life, morbidity, and mortality. They are poorly understood partially due to the limited methods available to effectively study cardiac physiology and evaluate the treatment options. The goals of this project were to develop implantable microsystems integrating optogenetic modulation and electrical sensing modalities and validate their capabilities for studying cardiac arrhythmias in transgenic small animals.</p> <p><strong>Intellectual Merit</strong>: Our research in this project integrated materials science, microfabrication, circuit designs with cardiology. Major activities and unique contributions include: (1) development of innovative flexible and stretchable transparent microelectrode array technologies based on nanomaterials. The sizes of the microelectrodes range from a few hundred micrometers to several tens of micrometers. (2) performing systematic electrical, optical, mechanical measurements with modeling to evaluate the performance of the microelectrodes and generate novel understandings of their structure-property relationships for cardiac applications. (3) applying transparent microelectrode array technologies to investigating cardiac physiology during arrhythmias. (4) creating soft optoelectronic devices integrating microelectrodes with light-emitting diodes (LEDs) in flexible single-site and array (up to 16-channel microelectrodes and four-channel LEDs) platforms for spatiotemporal mapping and pacing of genetically modified animal hearts. The device fabrication and integration process could be applied to various microelectrode and optoelectronic semiconductor materials. The devices were used to study the efficacy of single site and multisite electrical and optogenetic pacing strategies and compare their effects on treating cardiac arrhythmias. During the award period, our team has already produced six research articles and two review articles. We have also filed a patent.</p> <p><strong>Broader Impacts</strong>: This project made significant contributions to the creation of innovative bioelectronic interfaces for wide applications in cardiac research. These engineering innovations facilitate the future development of therapeutic and diagnostic approaches for heart diseases. The project's outcomes also include integrating research into education and outreach activities, as well as disseminating knowledge to a broader audience. Five PhD students, two Master's students, thirteen undergraduate students (including ten female undergraduate students), four high school students participated in this project. The students were trained in different aspects of device fabrication, animal experiments, data analysis, benchtop characterizations, paper writing, and presentations. The students have received multiple awards, published research papers, and presented their work at conferences as a result of their research. Four undergraduate researchers pursued graduate degrees after participating in this project and graduation. The research outcomes on implantable cardiac device designs were disseminated into undergraduate and graduate level courses and introduced to more than 100 high school students attending pre-college summer programs.</p><br> <p>  Last Modified: 08/02/2024<br> Modified by: Luyao&nbsp;Lu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Cardiac arrhythmias are life-threatening heart diseases that have significant negative effects on the quality of life, morbidity, and mortality. They are poorly understood partially due to the limited methods available to effectively study cardiac physiology and evaluate the treatment options. The goals of this project were to develop implantable microsystems integrating optogenetic modulation and electrical sensing modalities and validate their capabilities for studying cardiac arrhythmias in transgenic small animals.   Intellectual Merit: Our research in this project integrated materials science, microfabrication, circuit designs with cardiology. Major activities and unique contributions include: (1) development of innovative flexible and stretchable transparent microelectrode array technologies based on nanomaterials. The sizes of the microelectrodes range from a few hundred micrometers to several tens of micrometers. (2) performing systematic electrical, optical, mechanical measurements with modeling to evaluate the performance of the microelectrodes and generate novel understandings of their structure-property relationships for cardiac applications. (3) applying transparent microelectrode array technologies to investigating cardiac physiology during arrhythmias. (4) creating soft optoelectronic devices integrating microelectrodes with light-emitting diodes (LEDs) in flexible single-site and array (up to 16-channel microelectrodes and four-channel LEDs) platforms for spatiotemporal mapping and pacing of genetically modified animal hearts. The device fabrication and integration process could be applied to various microelectrode and optoelectronic semiconductor materials. The devices were used to study the efficacy of single site and multisite electrical and optogenetic pacing strategies and compare their effects on treating cardiac arrhythmias. During the award period, our team has already produced six research articles and two review articles. We have also filed a patent.   Broader Impacts: This project made significant contributions to the creation of innovative bioelectronic interfaces for wide applications in cardiac research. These engineering innovations facilitate the future development of therapeutic and diagnostic approaches for heart diseases. The project's outcomes also include integrating research into education and outreach activities, as well as disseminating knowledge to a broader audience. Five PhD students, two Master's students, thirteen undergraduate students (including ten female undergraduate students), four high school students participated in this project. The students were trained in different aspects of device fabrication, animal experiments, data analysis, benchtop characterizations, paper writing, and presentations. The students have received multiple awards, published research papers, and presented their work at conferences as a result of their research. Four undergraduate researchers pursued graduate degrees after participating in this project and graduation. The research outcomes on implantable cardiac device designs were disseminated into undergraduate and graduate level courses and introduced to more than 100 high school students attending pre-college summer programs.     Last Modified: 08/02/2024       Submitted by: LuyaoLu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Designed Expanded Co-Crystals for Guest Structure Determination]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>422890.00</AwardTotalIntnAmount>
+<AwardAmount>422890</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nitsa Rosenzweig</SignBlockName>
+<PO_EMAI>nirosenz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927256</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Description&lt;br/&gt;&lt;br/&gt;To understand biology and to design medical interventions, it is essential to observe the structure adopted by large biological molecules. One of the main methods for determining those structures is to coax the molecules into arranging themselves into a crystal, and then to collect the diffraction pattern that results when these crystals are exposed to an X-ray beam. This conventional process has a high failure rate. Researchers have therefore long sought to develop scaffold crystals that can organize guest molecules.&lt;br/&gt;&lt;br/&gt;This project will produce a new class of candidate scaffold crystals. Technically, these new crystalline superstructures are co-crystals, since they are composed of both protein and DNA building blocks. To identify the most promising materials in this family, the team will use computational design and all-atom simulations to evaluate candidates for experimental validation. These new crystal materials will feature a modular design where “DNA struts” with any desired sequence are exposed to open channels that are large enough to permit the movement of guest proteins. The research team will grow crystals in which these DNA struts have sequences that are specifically recognized by certain DNA-binding proteins. When these guest proteins latch onto their target DNA they will join the crystal lattice and become observable via X-ray diffraction. This approach circumvents the haphazard crystal growth process that is the basis for conventional crystallography. The resulting materials may therefore provide a transformative method for scientists to routinely and easily observe atomic details for the complexes between DNA and DNA-binding proteins, complexes that drive critically important life processes such as transcription and regulation.&lt;br/&gt;&lt;br/&gt;Broader Impacts: Precise control of the 3-D position of functional molecules within a scaffold crystal opens the door for materials with unprecedented performance for diverse additional applications including biosensing, catalysis, energy conversion, biomedicine, and biotechnology. To partially explore these alternative applications, the team will provide mentorship and funding for 3 years of undergraduate-led biomolecular design teams (2020, 2021, and 2022), with each project culminating in the international BIOMOD competition. Inspiring and training the next generation of students to innovate at the biomaterials design frontier will directly accelerate the pace of discovery, to the benefit of the scientific community and the nation.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Technical Description&lt;br/&gt;&lt;br/&gt;The team will use atomistic modeling and simulation to design “expandable” protein:DNA co-crystal structures. The approach is pragmatic: re-engineering protein-DNA systems that are already known to form co-crystals. Inserted DNA struts will be tuned to preserve existing crystallographic contacts and symmetry. Co-crystals will be grown, optimized, and stabilized using crosslinking and ligation chemistry. Critically, large solvent channels in the resulting co-crystals will permit post-crystallization additive molecular assembly, using the inserted DNA struts with the appropriate sequence for site-specific capture of cognate DNA-binding molecules. This approach circumvents the haphazard nucleation and growth that underlies conventional crystallography. The team will determine if DNA-binding molecules captured by the scaffold crystal become visible via X-ray diffraction. &lt;br/&gt;&lt;br/&gt;Goal 1.  Design candidate engineered co-crystals. Use all-atom simulations to prioritize variants for experimental validation.&lt;br/&gt;Goal 2.  Express, purify, and crystallize novel designed crystals composed of engineered protein and DNA building blocks. Optimize crystal growth by varying the length and sequence of the DNA blocks.&lt;br/&gt;Goal 3.  Stabilize designed co-crystals using chemical crosslinking. Capture a guest protein that binds specifically to the DNA sequences that were inserted into the struts.&lt;br/&gt;&lt;br/&gt;The proposed materials have unique aspects that warrant investigation as a potential platform technology. [1] The design and experimental validation of highly porous protein:DNA co-crystals as scaffolds is unknown, as is [2] the subsequent site-specific capture of DNA-binding proteins therein. Unlike conventional biomolecular crystals, the proposed scaffold crystals [3] have pore sizes that may be expanded by changing the number of base pairs present within DNA struts, and [4] have topologies that are amenable to modular incorporation of arbitrary DNA sequences. This project will focus on the structural biology application of these materials, but side applications (e.g. biosensing or catalysis) may be the focus of the 3 annual undergraduate BIOMOD biomolecular design teams for whom the project will provide mentorship and funding.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003748</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Snow</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher D Snow</PI_FULL_NAME>
+<EmailAddress><![CDATA[christopher.snow@colostate.edu]]></EmailAddress>
+<NSF_ID>000649403</NSF_ID>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName>FORT COLLINS</CityName>
+<ZipCode>805212807</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress><![CDATA[601 S HOWES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LT9CXX8L19G1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLORADO STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName>Fort Collins</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>805214593</ZipCode>
+<StreetAddress><![CDATA[200 West Lake Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>762300</Code>
+<Text>BIOMATERIALS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~124486</FUND_OBLG>
+<FUND_OBLG>2021~181361</FUND_OBLG>
+<FUND_OBLG>2022~117043</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project advanced the development of a new type of microscopic crystal that can be used to study important biological molecules and potentially deliver therapeutic drugs. These crystals are made by combining DNA building blocks (the molecule that carries genetic information) with DNA-binding proteins in a way that creates regular, repeating pores throughout the structure. The resulting modular scaffold crystals have potential applications in structural biology that are under continuing investigation.</p> <p><strong>Key Achievements</strong></p> <p>Our team successfully created and improved several versions of these DNA-protein crystals. We were able to:</p> <ul> <li>Expand the size of the pores in the crystal structure, making them large enough to hold protein-sized guest molecules</li> <li>We published two papers on chemical methods to strengthen the crystals by creating bonds between their components</li> <li>We showed that these crystals can also capture and hold guest RNA molecules</li> <li>We designed new types of crystals using advanced computer programs that use machine learning to predict how molecules will arrange themselves</li> </ul> <p>&nbsp;</p> <p>Our demonstration that this family of crystals can be chemically reinforced to make them more stable is important since tunable stability is crucial for potential medical applications, as the crystals need to remain intact long enough to deliver their cargo to the right location in the body.</p> <p><strong>Scientific Impact</strong></p> <p>This research provides scientists with new tools for studying how proteins interact with DNA, which is fundamental to understanding many biological processes. Traditional methods often struggle to reveal these interactions in detail, but our crystal system offers a new way to capture and study these molecules. This could help researchers better understand how genes are controlled and how certain diseases develop.</p> <p><strong>Broader Benefits to Society</strong></p> <p>Beyond the scientific advances, this project has contributed to society in several important ways:</p> <ol> <li><strong>Medical Applications</strong>: The technology we're developing could lead to better ways to deliver therapeutic drugs to specific locations in the body, potentially making treatments more effective with fewer side effects.</li> <li><strong>Education and Training</strong>: The project provided valuable research experience to ten undergraduate students and several graduate students, with a particular focus on supporting women and underrepresented groups in science. This included special opportunities through the Multicultural Undergraduate Research, Arts and Leadership Symposium (MURALS) program. The project also supported a semi-autonomous student organization dedicated to biomolecular research.</li> <li><strong>Technology Development</strong>: The methods we developed for strengthening these crystals could be useful for other applications in biotechnology and materials science.</li> <li><strong>Structural Biology</strong>: Methods to allow scientists to determine the detailed structure of proteins and protein-DNA complexes are essential to uncover how biology works at the atomic scale. Ongoing research is using the scaffold crystals developed in this research grant to help determine the structure of guest proteins.&nbsp;</li> </ol> <p>Thus, in summary, this research lays the groundwork for future advances in structural biology, medicine, and biotechnology.</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/29/2024<br> Modified by: Christopher&nbsp;D&nbsp;Snow</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2003748/2003748_10675815_1730250144820_ICC_core_concept_3--rgov-214x142.png" original="/por/images/Reports/POR/2024/2003748/2003748_10675815_1730250144820_ICC_core_concept_3--rgov-800width.png" title="Expanded Protein DNA Co-Crystals"><img src="/por/images/Reports/POR/2024/2003748/2003748_10675815_1730250144820_ICC_core_concept_3--rgov-66x44.png" alt="Expanded Protein DNA Co-Crystals"></a> <div class="imageCaptionContainer"> <div class="imageCaption">By taking advantage of the crystal symmetry, we designed and experimentally validated new expanded versions of our scaffold crystal which is composed of protein (purple) and DNA (blue). The resulting porous crystals are modular and can serve as a molecular pegboard for guest installation.</div> <div class="imageCredit">Ethan Shields</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Christopher&nbsp;D&nbsp;Snow <div class="imageTitle">Expanded Protein DNA Co-Crystals</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2003748/2003748_10675815_1730249484121_Stacked_DNA_chemical_ligation--rgov-214x142.png" original="/por/images/Reports/POR/2024/2003748/2003748_10675815_1730249484121_Stacked_DNA_chemical_ligation--rgov-800width.png" title="Chemical Ligation of Stacked DNA"><img src="/por/images/Reports/POR/2024/2003748/2003748_10675815_1730249484121_Stacked_DNA_chemical_ligation--rgov-66x44.png" alt="Chemical Ligation of Stacked DNA"></a> <div class="imageCaptionContainer"> <div class="imageCaption">We have optimized the chemistry for chemical ligation of stacked DNA within the crystals, thereby enabling tunable stability of the scaffold crystals.</div> <div class="imageCredit">Christopher Snow</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Christopher&nbsp;D&nbsp;Snow <div class="imageTitle">Chemical Ligation of Stacked DNA</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project advanced the development of a new type of microscopic crystal that can be used to study important biological molecules and potentially deliver therapeutic drugs. These crystals are made by combining DNA building blocks (the molecule that carries genetic information) with DNA-binding proteins in a way that creates regular, repeating pores throughout the structure. The resulting modular scaffold crystals have potential applications in structural biology that are under continuing investigation.   Key Achievements   Our team successfully created and improved several versions of these DNA-protein crystals. We were able to:  Expand the size of the pores in the crystal structure, making them large enough to hold protein-sized guest molecules We published two papers on chemical methods to strengthen the crystals by creating bonds between their components We showed that these crystals can also capture and hold guest RNA molecules We designed new types of crystals using advanced computer programs that use machine learning to predict how molecules will arrange themselves       Our demonstration that this family of crystals can be chemically reinforced to make them more stable is important since tunable stability is crucial for potential medical applications, as the crystals need to remain intact long enough to deliver their cargo to the right location in the body.   Scientific Impact   This research provides scientists with new tools for studying how proteins interact with DNA, which is fundamental to understanding many biological processes. Traditional methods often struggle to reveal these interactions in detail, but our crystal system offers a new way to capture and study these molecules. This could help researchers better understand how genes are controlled and how certain diseases develop.   Broader Benefits to Society   Beyond the scientific advances, this project has contributed to society in several important ways:  Medical Applications: The technology we're developing could lead to better ways to deliver therapeutic drugs to specific locations in the body, potentially making treatments more effective with fewer side effects. Education and Training: The project provided valuable research experience to ten undergraduate students and several graduate students, with a particular focus on supporting women and underrepresented groups in science. This included special opportunities through the Multicultural Undergraduate Research, Arts and Leadership Symposium (MURALS) program. The project also supported a semi-autonomous student organization dedicated to biomolecular research. Technology Development: The methods we developed for strengthening these crystals could be useful for other applications in biotechnology and materials science. Structural Biology: Methods to allow scientists to determine the detailed structure of proteins and protein-DNA complexes are essential to uncover how biology works at the atomic scale. Ongoing research is using the scaffold crystals developed in this research grant to help determine the structure of guest proteins.    Thus, in summary, this research lays the groundwork for future advances in structural biology, medicine, and biotechnology.        Last Modified: 10/29/2024       Submitted by: ChristopherDSnow]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

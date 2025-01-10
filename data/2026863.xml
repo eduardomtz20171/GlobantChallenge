@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: EarthCube Data Capabilities: Project Pythia: A Community Learning Resource for Geoscientists]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>379311.00</AwardTotalIntnAmount>
+<AwardAmount>379311</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06010000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>RISE</Abbreviation>
+<LongName>Div of Res, Innovation, Synergies, &amp; Edu</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sean Kennan</SignBlockName>
+<PO_EMAI>skennan@nsf.gov</PO_EMAI>
+<PO_PHON>7032927575</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Project Pythia will provide a public, web-accessible training resource that will help educate current, and aspiring, earth scientists to more effectively use both the Scientific Python Ecosystem and Cloud Computing to make sense of huge volumes of numerical scientific data. Numerical simulations run on supercomputers are used in the study of climate, weather, atmospheric chemistry, wildfires, space weather, and more. Similarly, a tremendous volume of digital data produced by numerical simulations, or observations made with instruments, are analyzed with the help of powerful computers and software. Scientists thus need to be able to effectively analyze, manipulate, and make sense of potentially vast volumes of data. This project focuses on two technologies that have emerged and are being adopted by scientific communities relatively recently: Cloud Computing platforms and a software ecosystem of scientific tools built around the open source programming language called Python. &lt;br/&gt;&lt;br/&gt;Project Pythia will construct and deploy a trusted, community-oriented education and training resource to improve computing literacy in all areas relevant to the analysis of geoscientific data, with a particular emphasis on moving workflows to the Cloud.  Project Pythia will leverage Jupyter Notebooks as the primary delivery mechanism for training examples, curricula, and as an interactive computing platform.  The content for Project Pythia will be hosted on GitHub and maintained using an Open Development model that will facilitate and encourage contributions from a broad user community, as well as help ensure the long-term sustainability of the project. Content development and new user growth will be catalyzed through data-intensive classroom and research activities at SUNY at Albany. The result will be one of the world's go-to, community-owned sites for geoscientists and students who want to know what tools to use and how to use them to explore geoscience data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026863</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Rose</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian Rose</PI_FULL_NAME>
+<EmailAddress><![CDATA[brose@albany.edu]]></EmailAddress>
+<NSF_ID>000672538</NSF_ID>
+<StartDate>08/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY at Albany]]></Name>
+<CityName>ALBANY</CityName>
+<ZipCode>122220100</ZipCode>
+<PhoneNumber>5184374974</PhoneNumber>
+<StreetAddress><![CDATA[1400 WASHINGTON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NHH3T1Z96H29</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NHH3T1Z96H29</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Albany]]></Name>
+<CityName>Albany</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>122220001</ZipCode>
+<StreetAddress><![CDATA[1400 Washintongton Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>807400</Code>
+<Text>EarthCube</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~379311</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-c932a26f-7fff-90d5-051d-747a5bfc9c63"> </span></p>  <p dir="ltr"><span>Researchers in many different scientific disciplines are increasingly reliant on an ever changing collection of information technologies to support their day to day work as more and more digital data about the world around us become available. Thus, scientists must possess not only a deep knowledge of their specific field, they must also possess a relatively high degree of computer literacy.&nbsp; The analysis of what can amount to troves of numerical data typically requires the use of a multitude of highly specialized software packages and the ability to write computer programs that combine these packages into useful workflows. In recent years, many scientists have coalesced around freely available Open Source tools that better enable Open Science: science that is more reproducible, transparent, inclusive and collaborative. For many geoscientists studying the earth&rsquo;s land, atmosphere and oceans, the Python programming language and a vast collection of software packages known as the Scientific Python Ecosystem (SPE), has become the environment of choice. Similarly, a growing number of scientists are migrating their work to public and private cloud computing platforms. Becoming proficient with new tools and new ways of doing things takes time. For scientists who have heretofore used other, older programming languages, commercial software, or &ldquo;traditional&rdquo; computing resources the barriers to transitioning can be steep.&nbsp;</span></p>  <p>&nbsp;</p>  <p dir="ltr"><span>Project Pythia was developed to serve as a community training resource for Python-based geoscientific computing with a strong focus on helping enable Open Science. Pythia has two core goals: (1) reducing knowledge barriers by developing open, interactive, web- accessible learning resources built on public, cloud-hosted datasets that &ldquo;just work&rdquo; for users; and (2) growing an inclusive Open Science community around this content. Pythia has developed two primary educational resources: Pythia Foundations, and Pythia Cookbooks, served via the Project Pythia&nbsp; website: https://projectpythia.org. This content, along with the infrastructure and social practices that sustain it, are our response to the challenges listed above.</span></p>  <p>&nbsp;</p>  <p dir="ltr"><span>Foundations is a geoscience-flavored introduction to the essential earth science tools in the SPE, plus Python environment management tools (Conda), basics of version control (Git), and effective use of GitHub as an open source communication and sharing platform. In other words, it covers the foundational knowledge that&rsquo;s needed to get started as an Open Science citizen-practitioner.&nbsp;</span></p>  <p>&nbsp;</p>  <p dir="ltr"><span>Cookbooks are crowd-sourced collections of advanced, domain-specific tutorials and exemplar workflows (or recipes) that build upon Foundations with explicit links to necessary background knowledge. The Pythia Cookbook Gallery provides a well-ordered collection of accessible, reusable, and reproducible workflows. It is used as both a training tool, and to bootstrap the development of customized workflows to support a specific scientific need.</span></p>  <p>&nbsp;</p>  <p dir="ltr"><span>All freely available Pythia content is delivered in the form of Jupyter Notebooks: a web-based interactive computing framework that allows users to create and share documents containing live code, equations, visualizations, and narrative text.</span></p>  <p>&nbsp;</p>  <p dir="ltr"><span>Project Pythia resources are in use by tens of thousands scientists and students worldwide, both as a self paced training resource for individuals and as part of classroom curriculums. The community of users has grown steadily over the duration of the award as can be seen by the continuously updated usage metrics available from </span><a href="https://projectpythia.org/metrics.html"><span>https://projectpythia.org/metrics.html</span></a><span>. Finally, the community of volunteer contributors to the project has grown as well, helping ensure that the content stays fresh and is continuously enhanced.</span></p>  <p>&nbsp;</p>  <p>&nbsp;</p>  <p>Classrooms at the University at Albany were a key testbed for Pythia educational resources (both graduate and undergraduate levels). Three doctoral students received direct support from this award to contribute to the community project while pursuing basic, data-intensive research in climate dynamics. Scientific use cases from these students' doctoral research resulted in new or expanded Cookbooks, and all three received immersive training in the practices of open science.</p><br> <p>  Last Modified: 12/31/2024<br> Modified by: Brian&nbsp;Rose</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[       Researchers in many different scientific disciplines are increasingly reliant on an ever changing collection of information technologies to support their day to day work as more and more digital data about the world around us become available. Thus, scientists must possess not only a deep knowledge of their specific field, they must also possess a relatively high degree of computer literacy. The analysis of what can amount to troves of numerical data typically requires the use of a multitude of highly specialized software packages and the ability to write computer programs that combine these packages into useful workflows. In recent years, many scientists have coalesced around freely available Open Source tools that better enable Open Science: science that is more reproducible, transparent, inclusive and collaborative. For many geoscientists studying the earths land, atmosphere and oceans, the Python programming language and a vast collection of software packages known as the Scientific Python Ecosystem (SPE), has become the environment of choice. Similarly, a growing number of scientists are migrating their work to public and private cloud computing platforms. Becoming proficient with new tools and new ways of doing things takes time. For scientists who have heretofore used other, older programming languages, commercial software, or traditional computing resources the barriers to transitioning can be steep.        Project Pythia was developed to serve as a community training resource for Python-based geoscientific computing with a strong focus on helping enable Open Science. Pythia has two core goals: (1) reducing knowledge barriers by developing open, interactive, web- accessible learning resources built on public, cloud-hosted datasets that just work for users; and (2) growing an inclusive Open Science community around this content. Pythia has developed two primary educational resources: Pythia Foundations, and Pythia Cookbooks, served via the Project Pythia website: https://projectpythia.org. This content, along with the infrastructure and social practices that sustain it, are our response to the challenges listed above.        Foundations is a geoscience-flavored introduction to the essential earth science tools in the SPE, plus Python environment management tools (Conda), basics of version control (Git), and effective use of GitHub as an open source communication and sharing platform. In other words, it covers the foundational knowledge thats needed to get started as an Open Science citizen-practitioner.        Cookbooks are crowd-sourced collections of advanced, domain-specific tutorials and exemplar workflows (or recipes) that build upon Foundations with explicit links to necessary background knowledge. The Pythia Cookbook Gallery provides a well-ordered collection of accessible, reusable, and reproducible workflows. It is used as both a training tool, and to bootstrap the development of customized workflows to support a specific scientific need.        All freely available Pythia content is delivered in the form of Jupyter Notebooks: a web-based interactive computing framework that allows users to create and share documents containing live code, equations, visualizations, and narrative text.        Project Pythia resources are in use by tens of thousands scientists and students worldwide, both as a self paced training resource for individuals and as part of classroom curriculums. The community of users has grown steadily over the duration of the award as can be seen by the continuously updated usage metrics available from https://projectpythia.org/metrics.html. Finally, the community of volunteer contributors to the project has grown as well, helping ensure that the content stays fresh and is continuously enhanced.            Classrooms at the University at Albany were a key testbed for Pythia educational resources (both graduate and undergraduate levels). Three doctoral students received direct support from this award to contribute to the community project while pursuing basic, data-intensive research in climate dynamics. Scientific use cases from these students' doctoral research resulted in new or expanded Cookbooks, and all three received immersive training in the practices of open science.     Last Modified: 12/31/2024       Submitted by: BrianRose]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

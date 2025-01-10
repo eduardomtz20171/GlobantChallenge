@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI-RP: Development and Commercialization of a Sensor for Lead in Water]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>549998.00</AwardTotalIntnAmount>
+<AwardAmount>714485</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Partnerships for Innovation - Technology Translation (PFI-TT) project addresses lead poisoning in drinking water. Currently, there is a lack of devices that continuously monitor lead on the market. As a result, in multiple cities across the US, thousands of children are exhibit increased lead concentration in their blood. This project will develop a lead monitoring system for drinking water that will be accessible, inexpensive, and simple to operate in households. The device will operate in a similar manner to a fire alarm alerting households when lead concentrations exceed safe levels. The innovations in this research will enhance the scientific and technological understanding of mechanisms and devices to detect low concentrations of toxic metals in water. The proposed research will build an Accademia-Industry partnership needed to address lead poisoning in drinking water through continued monitoring by an advanced sensor. The industrial partner commits to commercializing the technology from the proposed research and to bring the sensor to the market. &lt;br/&gt; &lt;br/&gt;The proposed project is focused on creating a sensor and related technology for measuring lead concentrations in drinking water. Reliable detection and quantification of low concentrations of lead in water is a challenging but important task, given the negative health impacts of this heavy metal, particularly on children. Currently, there is a lack of continuously monitoring lead devices on the market. To address this, a new sensing element is proposed based on carbon nanotube fibers that lower the limit of detection and allow the sensor electrode to be miniaturized. The sensor uses an electrochemical analytical technique to sense lead in water. This approach offers simultaneous multielement detection for lead, copper, cadmium and mercury with 3.5 parts per trillion limit of detection for lead, outperforming any similar devices.  Due to its simplicity and compactness, the sensor allows deployment in industrial facilities processing water as well as in households. Factors that control the reliability and robustness of the sensors and electrochemical reactions will be determined in preparation of the device for mass production by a leading national water processing industry. The main goal of this project is to provide water consumers with a simple and inexpensive tool for lead quantification.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/08/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016484</AwardID>
+<Investigator>
+<FirstName>Vesselin</FirstName>
+<LastName>Shanov</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vesselin N Shanov</PI_FULL_NAME>
+<EmailAddress><![CDATA[vesselin.shanov@uc.edu]]></EmailAddress>
+<NSF_ID>000269666</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Noe</FirstName>
+<LastName>Alvarez</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Noe Alvarez</PI_FULL_NAME>
+<EmailAddress><![CDATA[noe.alvarez@uc.edu]]></EmailAddress>
+<NSF_ID>000760039</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gusphyl</FirstName>
+<LastName>Justin</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gusphyl A Justin</PI_FULL_NAME>
+<EmailAddress><![CDATA[gjustin@aosmith.com]]></EmailAddress>
+<NSF_ID>000818441</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Cincinnati Main Campus]]></Name>
+<CityName>CINCINNATI</CityName>
+<ZipCode>452202872</ZipCode>
+<PhoneNumber>5135564358</PhoneNumber>
+<StreetAddress><![CDATA[2600 CLIFTON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DZ4YCZ3QSPR5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CINCINNATI UNIV OF</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DZ4YCZ3QSPR5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Cincinnati Main Campus]]></Name>
+<CityName>Cincinnati</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>452210222</ZipCode>
+<StreetAddress><![CDATA[2600 Clifton Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>150400</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>166200</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~549998</FUND_OBLG>
+<FUND_OBLG>2021~54550</FUND_OBLG>
+<FUND_OBLG>2022~109937</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Project Outcomes Report</strong></p> <p>The presence of lead (Pb) and other heavy metals in drinking water can lead to substantial health problems, particularly in young children. The objective of this project is to accelerate the development of technologies for real-time detection of heavy metals, particularly lead, in drinking water with targeted limits of detection (LOD) on the order of single digit parts per billion (ppb). Emphasis was placed in progressing the technology to meet highly focused specifications for commercial viability. Beyond the sensitivity requirement of 2 ppb LOD and 1 ppb resolution, we sought to build a device that can monitor continuously or semi-continuously in water for Pb without the need for chemical reagents. Based on feedback from our industry partner, a cost target of $10 - $20 USD was imperative for viability of the technology in potential water treatment applications.</p> <p><strong>Major accomplishments:</strong></p> <ul> <li>Consistently achieved lower limits of quantification of 2 ppb-Image 1. </li> <li>Demonstrated method and developed intellectual property for electrochemical reduction of water pH for Pb particulate dissolution and quantification of Pb content.</li> <li>Low-cost prototype instrumentation and associated software for electrochemical detection was developed-Image 2. </li> <li>Identified alternative manufacturing processes for carbon nanotube (CNT)-based sensors to reduce the complexity and cost for scaled up production. </li> <li>CNT posts have been successfully grown and incorporated into a heavy metal sensor which demonstrated increased sensitivity and manufacturability.</li> </ul> <p><strong>&nbsp;</strong><strong>Major challenges addressed:</strong></p> <ul> <li>Variable water chemistry impacting sensor measurement of Pb (due to the presence of interfering ions like Cu, Zn and dissolved oxygen), has been resolved.</li> <li>Presence of Pb particulates adversely impacting the lead measurement accuracy, has been overcome. &nbsp;</li> <li>Manufacturing of nanomaterial (CNT thread) based sensors within stringent cost target constraints identified as major roadblock but addressed via introduction of CNT posts as sensors. </li> <li>The limitations of the low-cost electrochemical methods for detection of non-electroactive particulates in water have been successfully tackled by employing appropriate chemistry.</li> </ul> <p><strong>&nbsp;</strong><strong>Limits of detection</strong></p> <p>The EPA limit for Pb is 15 ppb and the World Health Organization limit is 10 ppb. One of the important outcomes of this project was that we have been able to consistently demonstrate that our technology (based on a combination of nanomaterials and electrochemistry) has a high sensitivity to Pb and Cu with quantification capabilities of 1 &ndash; 2 ppb and 1 ppb resolution. Our goal was to show that we can consistently differentiate between Pb concentrations above and below 5 ppb. The CNT threads &ndash; our nanomaterial of choice &ndash; and the overall architecture of the sensor electrodes (macroscale electrode with micro and nano features) used for detecting the heavy metals allowed us the possibility of measuring multiple heavy metals at the 1-2 ppb level simultaneously within 5 &ndash; 10 minutes.</p> <p><strong>Detection of Pb without using of chemical reagents</strong></p> <p>Through this proposal we have identified and developed methods to reduce the pH of water thus dissolving the particulate Pb for subsequent detection, including electrochemical pH reduction. Our team has explored methods for particulate detection that allowed to dissolve lead particulate forms in drinking water without using chemical reagents. This technique has been tested in dissolving and quantifying lead content from particulates released and extracted from hundred-year-old lead pipes in Cincinnati. The obtained results related to this topic have been already published and patent-protected by our team.</p> <p><strong>Water chemistry and interferents</strong></p> <p>The use of the sensor in testing Pb in water samples from a variety of locations has revealed the complexity in achieving high accuracy with electrochemical sensors. Variability in dissolved oxygen, and concentrations of interfering ions like copper, zinc, and other impurities were shown to adversely impact the sensor measurement of Pb.</p> <p><strong>Manufacturability of nanomaterial-based sensors</strong></p> <p>Electrochemical instrumentation over the years has seen substantial improvements in noise reduction, sensitivity, size decrease and lower cost. We believe that there is little concern on the electronics side about achieving the desired performance and cost target. However, there are challenges on the manufacturing side of the nanomaterial-based sensors. To address these challenges, we have started exploring other methods for assembling CNTs as microelectrodes that could potentially be more compatible with the current electronic industry. Thus, we made changes during the CNT synthesis process where CNTs are grown as small diameter-controlled posts for their incorporation as individual sensors. This new strategy will allow us to assemble hundreds of CNT microelectrodes as sensors, which can be easily adopted by traditional manufacturing processes. The current results are highly encouraging as described in our recent publication in ACS journal.</p> <p>Due to the increased interest from the students working on this project, additional sensor work was initiated. The obtained results have been supported and published through this funding. Future leaders in innovation and entrepreneurship have been successfully trained. The project supported 3 post-doctoral fellows, 5 PhD, 1 MS, and 4 undergradute students. Five of the graduate studebts have already graduated and are employed.</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/19/2024<br> Modified by: Vesselin&nbsp;N&nbsp;Shanov</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2016484/2016484_10705855_1723666217959_Image_1--rgov-214x142.BMP" original="/por/images/Reports/POR/2024/2016484/2016484_10705855_1723666217959_Image_1--rgov-800width.BMP" title="Image 1. CNT post sensor manufacturing and performance"><img src="/por/images/Reports/POR/2024/2016484/2016484_10705855_1723666217959_Image_1--rgov-66x44.BMP" alt="Image 1. CNT post sensor manufacturing and performance"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Schematic illustration of the CNT post electrode fabrication and its Pb2+ detection at a level of 2 ppb.</div> <div class="imageCredit">PI and UC Co-PI</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Vesselin&nbsp;N&nbsp;Shanov <div class="imageTitle">Image 1. CNT post sensor manufacturing and performance</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2016484/2016484_10705855_1723667096781_Image_2--rgov-214x142.BMP" original="/por/images/Reports/POR/2024/2016484/2016484_10705855_1723667096781_Image_2--rgov-800width.BMP" title="Image 2. Prototype Potentiostat with Water and Dust Protective Enclosure for Field Testing"><img src="/por/images/Reports/POR/2024/2016484/2016484_10705855_1723667096781_Image_2--rgov-66x44.BMP" alt="Image 2. Prototype Potentiostat with Water and Dust Protective Enclosure for Field Testing"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The potentiostat components used results in an estimated cost to the consumer of $100 to $200 USD. Potentiostats sold on the market today are typically  greater than $2000.</div> <div class="imageCredit">Co-PI from the Industrial Partner A. O. Smith</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Vesselin&nbsp;N&nbsp;Shanov <div class="imageTitle">Image 2. Prototype Potentiostat with Water and Dust Protective Enclosure for Field Testing</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Outcomes Report   The presence of lead (Pb) and other heavy metals in drinking water can lead to substantial health problems, particularly in young children. The objective of this project is to accelerate the development of technologies for real-time detection of heavy metals, particularly lead, in drinking water with targeted limits of detection (LOD) on the order of single digit parts per billion (ppb). Emphasis was placed in progressing the technology to meet highly focused specifications for commercial viability. Beyond the sensitivity requirement of 2 ppb LOD and 1 ppb resolution, we sought to build a device that can monitor continuously or semi-continuously in water for Pb without the need for chemical reagents. Based on feedback from our industry partner, a cost target of $10 - $20 USD was imperative for viability of the technology in potential water treatment applications.   Major accomplishments:  Consistently achieved lower limits of quantification of 2 ppb-Image 1.  Demonstrated method and developed intellectual property for electrochemical reduction of water pH for Pb particulate dissolution and quantification of Pb content. Low-cost prototype instrumentation and associated software for electrochemical detection was developed-Image 2.  Identified alternative manufacturing processes for carbon nanotube (CNT)-based sensors to reduce the complexity and cost for scaled up production.  CNT posts have been successfully grown and incorporated into a heavy metal sensor which demonstrated increased sensitivity and manufacturability.    Major challenges addressed:  Variable water chemistry impacting sensor measurement of Pb (due to the presence of interfering ions like Cu, Zn and dissolved oxygen), has been resolved. Presence of Pb particulates adversely impacting the lead measurement accuracy, has been overcome.  Manufacturing of nanomaterial (CNT thread) based sensors within stringent cost target constraints identified as major roadblock but addressed via introduction of CNT posts as sensors.  The limitations of the low-cost electrochemical methods for detection of non-electroactive particulates in water have been successfully tackled by employing appropriate chemistry.    Limits of detection   The EPA limit for Pb is 15 ppb and the World Health Organization limit is 10 ppb. One of the important outcomes of this project was that we have been able to consistently demonstrate that our technology (based on a combination of nanomaterials and electrochemistry) has a high sensitivity to Pb and Cu with quantification capabilities of 1  2 ppb and 1 ppb resolution. Our goal was to show that we can consistently differentiate between Pb concentrations above and below 5 ppb. The CNT threads  our nanomaterial of choice  and the overall architecture of the sensor electrodes (macroscale electrode with micro and nano features) used for detecting the heavy metals allowed us the possibility of measuring multiple heavy metals at the 1-2 ppb level simultaneously within 5  10 minutes.   Detection of Pb without using of chemical reagents   Through this proposal we have identified and developed methods to reduce the pH of water thus dissolving the particulate Pb for subsequent detection, including electrochemical pH reduction. Our team has explored methods for particulate detection that allowed to dissolve lead particulate forms in drinking water without using chemical reagents. This technique has been tested in dissolving and quantifying lead content from particulates released and extracted from hundred-year-old lead pipes in Cincinnati. The obtained results related to this topic have been already published and patent-protected by our team.   Water chemistry and interferents   The use of the sensor in testing Pb in water samples from a variety of locations has revealed the complexity in achieving high accuracy with electrochemical sensors. Variability in dissolved oxygen, and concentrations of interfering ions like copper, zinc, and other impurities were shown to adversely impact the sensor measurement of Pb.   Manufacturability of nanomaterial-based sensors   Electrochemical instrumentation over the years has seen substantial improvements in noise reduction, sensitivity, size decrease and lower cost. We believe that there is little concern on the electronics side about achieving the desired performance and cost target. However, there are challenges on the manufacturing side of the nanomaterial-based sensors. To address these challenges, we have started exploring other methods for assembling CNTs as microelectrodes that could potentially be more compatible with the current electronic industry. Thus, we made changes during the CNT synthesis process where CNTs are grown as small diameter-controlled posts for their incorporation as individual sensors. This new strategy will allow us to assemble hundreds of CNT microelectrodes as sensors, which can be easily adopted by traditional manufacturing processes. The current results are highly encouraging as described in our recent publication in ACS journal.   Due to the increased interest from the students working on this project, additional sensor work was initiated. The obtained results have been supported and published through this funding. Future leaders in innovation and entrepreneurship have been successfully trained. The project supported 3 post-doctoral fellows, 5 PhD, 1 MS, and 4 undergradute students. Five of the graduate studebts have already graduated and are employed.        Last Modified: 10/19/2024       Submitted by: VesselinNShanov]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

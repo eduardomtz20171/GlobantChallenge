@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Modulating Single-Atom Catalytic Centers in Well-Defined Metal Oxide Nanocrystal Surfaces for Oxygen Evolution Reaction]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>348883.00</AwardTotalIntnAmount>
+<AwardAmount>354283</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert McCabe</SignBlockName>
+<PO_EMAI>rmccabe@nsf.gov</PO_EMAI>
+<PO_PHON>7032924826</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The development of renewable alternatives to fossil fuel-based energy is one of the most critical scientific challenges of the United States. Electrocatalysis is a cornerstone to bridging renewable electrical energy resources (solar, hydro, and wind power, etc.) with chemical transformations central to energy storage and conversion. The project will develop an emerging class of electrocatalytic materials to maximize the efficiency of hydrogen fuel production from water. The outcome of this project makes a major contribution to hydrogen fuel technology development and supports the nation’s efforts to diversify energy supply and reduce the dependence on non-renewable energy sources. The knowledge generated from this project will advance general understanding and research in catalysis and other technologies, including batteries and sensors. The research is supplemented by a range of educational and outreach activities primarily for K-12 and undergraduate students from underrepresented groups to increase their interest in careers as scientists and engineers.&lt;br/&gt;&lt;br/&gt;This project represents a cross-disciplinary and cross-institute effort to develop well-defined single atom catalysts for the oxygen evolution reaction (OER) - the key barrier reaction for water electrolyzer and renewable hydrogen production. The project integrates the co-investigators' respective expertise in experimental and computational catalysis to address three questions paramount to OER catalysis: how to identify or construct well-defined catalytic centers for OER; how to delineate unambiguously the atomistic mechanism for OER at this center; and how to leverage the mechanistic understanding and the synthetic technique to fine-tune catalytic centers for optimal kinetics.  The primary strategy is to computationally design and precisely synthesize single-atom catalytic centers (e.g. cobalt) in the surface of well-defined and chemically stable metal oxide nanocrystals, thereby optimizing the OER performance through mechanistic understanding and synthetic modulation. Three specific tasks are included: (1) synthesizing cobalt single-atom catalytic centers with diverse and controllable metal oxide phase, composition, and surface facets; (2) understanding dependence of the reaction mechanism and kinetics on composition and atomic structure through a combination of computational and experimental approaches; and (3) using this understanding to conduct in silico scanning of reasonable compositions, combined with Machine Learning based on the validated computational model, followed by experimental synthesis of the predicted best candidates to identify the optimal single-atom and metal oxide compositions. Educational outreach involves the participation of undergraduate and K-12 students in summer research internships in the investigators’ laboratories as well as visits by the investigators and graduate students to the minority-serving partner institutions to deliver short courses based on their research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004808</AwardID>
+<Investigator>
+<FirstName>Sen</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sen Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[sz3t@virginia.edu]]></EmailAddress>
+<NSF_ID>000748498</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>Charlottesville</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229044319</ZipCode>
+<StreetAddress><![CDATA[409 McCormick Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>140100</Code>
+<Text>Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~348883</FUND_OBLG>
+<FUND_OBLG>2023~5400</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><em><span style="text-decoration: underline;">Intellectual Merit</span></em>: This project advances the understanding of single-atom electrocatalysts for the oxygen evolution reaction (OER). Single-atom electrocatalysts, with their well-defined atomic structures, enable in-depth investigation of structure-activity relationships for the OER in alkaline electrolytes, contributing to the development of efficient catalysts for alkaline water electrolysis. Over the course of the project, eight manuscripts have been produced, including publications in <em>Nat. Catal.</em>, <em>Nat. Mater.</em>, <em>Nat. Synth.</em>, and <em>J. Am. Chem. Soc. </em>Key research outcomes include: [1] A colloidal chemistry approach was developed to synthesize Co-doped TiO<sub>2</sub> nanorods with single-atom Co incorporated into the well-defined brookite TiO<sub>2</sub> (210) surface. These Co single-atom sites exhibit high OER turnover frequencies. Using grand canonical quantum mechanics calculations, the research elucidated the catalytic reaction kinetics of Co-TiO<sub>2</sub> as a function of applied potential, revealing an adsorbate evolution mechanism for the OER. [2] The differential electrochemical mass spectrometry (DEMS) technique coupled with <sup>18</sup>O isotope labeling was applied to uncover the OER mechanism for Ni-doped RuO<sub>2</sub> catalysts. [3] The DEMS technique, coupled with in-situ surface-enhanced infrared absorption spectroscopy, was further utilized to identify a critical reaction intermediate (NO) in the electrochemical reduction of nitrate to ammonia. [4] A novel class of atomically precise CeO<sub>x</sub> materials, Ce<sub>24</sub>O<sub>28</sub>(OH)<sub>8</sub>, was developed via colloidal synthesis. This material is a promising host for incorporating single-atom Co for OER catalysis.</p>  <p><em><span style="text-decoration: underline;">Broader Impacts</span></em>: The project has provided comprehensive training in nanocrystal synthesis, electrochemistry, and DFT modeling, supporting a diverse group of researchers at the University of Virginia. Over the past four years, the grant has supported the work of 3 Ph.D. students, 2 postdoctoral researchers, and 4 undergraduate students. Following research on this project, two Ph.D. graduates are pursuing academic careers as postdoctoral researchers, and one became a tenure-track assistant professor. One postdoc transitioned to a senior research scientist role in industry, while another continues postdoctoral work within the group. Additionally, a visiting undergraduate intern, Hunter Caplan from Muhlenberg College, participated in a summer internship funded by the grant in 2023.</p>  <p>The project&rsquo;s findings have been widely disseminated through more than 30 seminars and invited talks at professional conferences by the PI and students. The PI has led the Virginia Clean Energy and Catalysis Club (VA CECC) since 2021, organizing annual summits to foster collaboration among Virginia researchers, disseminate recent advancements, and establish pipelines to recruit talented undergraduates from primarily undergraduate institutions and underrepresented minority groups into energy research at Virginia graduate programs. The PI organized the VA CECC virtual summit in 2021 and in-person summits in 2022 and 2023. This project has not only advanced scientific knowledge in catalysis but also supported the development of a diverse, skilled workforce and fostered collaboration across academia, industry, and underrepresented communities to address future energy challenges.</p><br> <p>  Last Modified: 12/01/2024<br> Modified by: Sen&nbsp;Zhang</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit: This project advances the understanding of single-atom electrocatalysts for the oxygen evolution reaction (OER). Single-atom electrocatalysts, with their well-defined atomic structures, enable in-depth investigation of structure-activity relationships for the OER in alkaline electrolytes, contributing to the development of efficient catalysts for alkaline water electrolysis. Over the course of the project, eight manuscripts have been produced, including publications in Nat. Catal., Nat. Mater., Nat. Synth., and J. Am. Chem. Soc. Key research outcomes include: [1] A colloidal chemistry approach was developed to synthesize Co-doped TiO2 nanorods with single-atom Co incorporated into the well-defined brookite TiO2 (210) surface. These Co single-atom sites exhibit high OER turnover frequencies. Using grand canonical quantum mechanics calculations, the research elucidated the catalytic reaction kinetics of Co-TiO2 as a function of applied potential, revealing an adsorbate evolution mechanism for the OER. [2] The differential electrochemical mass spectrometry (DEMS) technique coupled with 18O isotope labeling was applied to uncover the OER mechanism for Ni-doped RuO2 catalysts. [3] The DEMS technique, coupled with in-situ surface-enhanced infrared absorption spectroscopy, was further utilized to identify a critical reaction intermediate (NO) in the electrochemical reduction of nitrate to ammonia. [4] A novel class of atomically precise CeOx materials, Ce24O28(OH)8, was developed via colloidal synthesis. This material is a promising host for incorporating single-atom Co for OER catalysis.    Broader Impacts: The project has provided comprehensive training in nanocrystal synthesis, electrochemistry, and DFT modeling, supporting a diverse group of researchers at the University of Virginia. Over the past four years, the grant has supported the work of 3 Ph.D. students, 2 postdoctoral researchers, and 4 undergraduate students. Following research on this project, two Ph.D. graduates are pursuing academic careers as postdoctoral researchers, and one became a tenure-track assistant professor. One postdoc transitioned to a senior research scientist role in industry, while another continues postdoctoral work within the group. Additionally, a visiting undergraduate intern, Hunter Caplan from Muhlenberg College, participated in a summer internship funded by the grant in 2023.    The projects findings have been widely disseminated through more than 30 seminars and invited talks at professional conferences by the PI and students. The PI has led the Virginia Clean Energy and Catalysis Club (VA CECC) since 2021, organizing annual summits to foster collaboration among Virginia researchers, disseminate recent advancements, and establish pipelines to recruit talented undergraduates from primarily undergraduate institutions and underrepresented minority groups into energy research at Virginia graduate programs. The PI organized the VA CECC virtual summit in 2021 and in-person summits in 2022 and 2023. This project has not only advanced scientific knowledge in catalysis but also supported the development of a diverse, skilled workforce and fostered collaboration across academia, industry, and underrepresented communities to address future energy challenges.     Last Modified: 12/01/2024       Submitted by: SenZhang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

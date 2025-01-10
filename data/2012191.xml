@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Investigating Quantum Coherence using Structured Electron Interferometry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>572321.00</AwardTotalIntnAmount>
+<AwardAmount>572321</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John D. Gillaspy</SignBlockName>
+<PO_EMAI>jgillasp@nsf.gov</PO_EMAI>
+<PO_PHON>7032927173</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>General audience abstract:&lt;br/&gt;&lt;br/&gt;This project will enable and expand quantum-inspired measurements with electrons. The vast majority of modern developments in quantum measurement and quantum information technologies use photons, the smallest unit of light, as a central component. Yet the wavelike nature of photons still places fundamental limits on the smallest length scale at which this can be applied. Many of these quantum measurement protocols can be implemented with matter waves as well, but the technologies used to generate, manipulate, apply, and detect matter waves are not as well-developed as those for photons. This project develops new quantum techniques in the electron microscope, such as interaction-free measurements using electrons, and applies them to explore various phenomenon at the nanoscale. This will provide new quantum electron microscopy tools that can be used to reduce the size of quantum devices, similar to how conventional electron microscopes enabled the reduction in size of classical electronic computing components. In addition to providing training to graduate and undergraduate students in advanced microscopy and nanoscience, this project will engage first-year STEM majors as well, providing a “bridge” over the summer into their second year by introducing them to programming, data analysis, electron microscopy, nanofabrication, and optical physics.&lt;br/&gt;&lt;br/&gt;Technical audience abstract:&lt;br/&gt;&lt;br/&gt;The research team will develop and use tools to both prepare and measure the coherence and the phase of free electron wavefunctions inside electron microscopes. Nanoscale diffraction holograms provide a way to coherently manipulate the phase profile of individual electrons as well as measure them. For example, diffraction holograms produce free electron wavefunctions with helical phase profiles that provide a new way to probe the chirality and spatial coherence of nanoscale plasmonics. Electron-transparent phase gratings serve as optimized beamsplitters for electrons, which are used in this project to create electron interferometers with large path separation, useful for measuring electric and magnetic fields at the nanoscale. Interaction-free measurement protocols will also be explored, which could enable high resolution electron microscopy of easily damaged materials. The project connects with a broad spectrum of sciences and applications, enabling unique opportunities for project participants in a range of disciplines and industries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012191</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>McMorran</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin J McMorran</PI_FULL_NAME>
+<EmailAddress><![CDATA[mcmorran@uoregon.edu]]></EmailAddress>
+<NSF_ID>000709172</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Oregon Eugene]]></Name>
+<CityName>EUGENE</CityName>
+<ZipCode>974031905</ZipCode>
+<PhoneNumber>5413465131</PhoneNumber>
+<StreetAddress><![CDATA[1776 E 13TH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z3FGN9MF92U2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OREGON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Z3FGN9MF92U2</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oregon]]></Name>
+<CityName>Eugene</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>974025219</ZipCode>
+<StreetAddress><![CDATA[5219 University of Oregon]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124100</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~572321</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong><span>Intellectual Merits</span></strong></p>  <p>The goal of this project was to explore new types of measurements in electron microscopy and spectroscopy using quantum physics. To this end,&nbsp;the project develops ways to prepare, measure, and use both the wave-like and particle-like nature of free electrons traveling through the vacuum inside electron microscopes.<strong>&nbsp;</strong></p>  <p>We created a device in which single electrons travel two separated paths through the electron microscope. To do this, we made two nanofabricated gratings to coherently &ldquo;split&rdquo; the electron wave into two or more paths, such that each individual path traveled a superposition of two routes through the system.&nbsp;&nbsp;This device is called an electron Mach-Zehnder interferometer, and it&nbsp;enables new experiments and measurements inside conventional electron microscopes. For example, we used this tool to demonstrate that the electron retains its wavelike nature &ndash; the superposition state &ndash; even when the electron interacted with a target object of study and transferred energy to it.&nbsp;&nbsp;In this setup, a fast electron in a superposition of two paths passed on both the left and right side of a metallic nanoparticle. Both electron paths excited a dipole transition in the nanoparticle &ndash; in this case, an optical excitation called a surface plasmon polariton. We showed that the quantum superposition of the electron did not get destroyed due to this inelastic interaction with an environment &ndash; the wavefunction did not collapse - and interference between the two paths could still be observed in electrons. This has potential applications for electron spectroscopic measurements of materials.&nbsp;</p>  <p>This project also demonstrated quantum-enhanced measurement technique known as &ldquo;interaction-free&rdquo; measurement in which an interferometer is used to detect a opaque object without interacting with it. This experiment was based on a thought experiment proposed by Elitzur and Vaidman in which an interferometer could be to used for &ldquo;quantum interrogation&rdquo; to detect the presence of a hypothetical object such as a bomb without triggering it. The electron interferometer was tuned such that one of the possible outputs was near zero under normal conditions due to destructive interference of the electron wavefunction. Yet when an object is introduced to block one path of the electron interferometer, electrons could now be detected in this dark output, providing information about the presence of the object without interacting with it. This measurement scheme can potentially be used to improve the image contrast sensitive samples in an electron microscope before the electron beam destroys it, providing a significant improvement when imagine the molecular structure of biological matter and pharmaceuticals.&nbsp;</p>  <p>These results were published in peer-reviewed scientific articles in professional journals (including two Physical Review Letters), many referreed conference papers, and numerous presentations at international scientific conferences. Results were also communicated in published PhD dissertations and various invited seminars and colloquium talks.</p>  <p><strong><span>Broader Impacts</span></strong></p>  <p>The McMorran lab shared this research with non-scientists, novice physics students, and trained advanced PhD students in several ways. With NSF support, a summer bridge course was designed and implemented to engage first- and second-year undergraduate students on research. The grant supported lab and instrument costs associated with this course, which involved 11 undergraduates in summer 2021 and 5 undergraduates in 2022. In 2023, 3 undergraduates continued beyond summer working on related projects. This curriculum included new classroom activities and exercises for existing physics courses, such as the UO&rsquo;s introductory calculus-based physics sequence, as well as dedicated summer projects courses. Four undergraduate students remained in the group and continued to work on research related to this project, two as part of the NSF REU program. Several undergraduates associated with the work were encouraged to attend the Microscopy and Microanalysis conference in Portland, Oregon. To share this with non-scientists, the McMorran lab communicated results in interviews for popular news articles and participated in several science outreach activities to engage the public in science discoveries. The major effort was leading science-themed booths at the Oregon Country Fair.&nbsp;Theses physics booths attract hundreds of visitors of all ages from a large range of backgrounds, politics, ancestry, beliefs, and socioeconomic status. Here the PI performed numerous physics demonstrations and answered wide-ranging questions about technology and physics. Seven physics PhD students contributed to the project and gained useful training, and are now beginning careers in high technology industry.</p>  <p>All project participants developed proficiency in theoretical and experimental physics, computational data analysis and simulation, technical writing, and scientific communication. Students participating in the project learned optical theory, hologram design, nanoscale engineering and fabrication, electron microscopy, and quantitative image and data analysis, and advanced software development. Graduate students prepared and delivered regular presentations at group meetings and gave oral presentations at international conferences.&nbsp;This general skill set and specific research knowledge developed while training students working on this project are both in high demand within industry, thus providing an immediate broader impact to society.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 01/01/2025<br> Modified by: Benjamin&nbsp;J&nbsp;Mcmorran</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merits    The goal of this project was to explore new types of measurements in electron microscopy and spectroscopy using quantum physics. To this end,the project develops ways to prepare, measure, and use both the wave-like and particle-like nature of free electrons traveling through the vacuum inside electron microscopes.    We created a device in which single electrons travel two separated paths through the electron microscope. To do this, we made two nanofabricated gratings to coherently split the electron wave into two or more paths, such that each individual path traveled a superposition of two routes through the system.This device is called an electron Mach-Zehnder interferometer, and itenables new experiments and measurements inside conventional electron microscopes. For example, we used this tool to demonstrate that the electron retains its wavelike nature  the superposition state  even when the electron interacted with a target object of study and transferred energy to it.In this setup, a fast electron in a superposition of two paths passed on both the left and right side of a metallic nanoparticle. Both electron paths excited a dipole transition in the nanoparticle  in this case, an optical excitation called a surface plasmon polariton. We showed that the quantum superposition of the electron did not get destroyed due to this inelastic interaction with an environment  the wavefunction did not collapse - and interference between the two paths could still be observed in electrons. This has potential applications for electron spectroscopic measurements of materials.    This project also demonstrated quantum-enhanced measurement technique known as interaction-free measurement in which an interferometer is used to detect a opaque object without interacting with it. This experiment was based on a thought experiment proposed by Elitzur and Vaidman in which an interferometer could be to used for quantum interrogation to detect the presence of a hypothetical object such as a bomb without triggering it. The electron interferometer was tuned such that one of the possible outputs was near zero under normal conditions due to destructive interference of the electron wavefunction. Yet when an object is introduced to block one path of the electron interferometer, electrons could now be detected in this dark output, providing information about the presence of the object without interacting with it. This measurement scheme can potentially be used to improve the image contrast sensitive samples in an electron microscope before the electron beam destroys it, providing a significant improvement when imagine the molecular structure of biological matter and pharmaceuticals.    These results were published in peer-reviewed scientific articles in professional journals (including two Physical Review Letters), many referreed conference papers, and numerous presentations at international scientific conferences. Results were also communicated in published PhD dissertations and various invited seminars and colloquium talks.    Broader Impacts    The McMorran lab shared this research with non-scientists, novice physics students, and trained advanced PhD students in several ways. With NSF support, a summer bridge course was designed and implemented to engage first- and second-year undergraduate students on research. The grant supported lab and instrument costs associated with this course, which involved 11 undergraduates in summer 2021 and 5 undergraduates in 2022. In 2023, 3 undergraduates continued beyond summer working on related projects. This curriculum included new classroom activities and exercises for existing physics courses, such as the UOs introductory calculus-based physics sequence, as well as dedicated summer projects courses. Four undergraduate students remained in the group and continued to work on research related to this project, two as part of the NSF REU program. Several undergraduates associated with the work were encouraged to attend the Microscopy and Microanalysis conference in Portland, Oregon. To share this with non-scientists, the McMorran lab communicated results in interviews for popular news articles and participated in several science outreach activities to engage the public in science discoveries. The major effort was leading science-themed booths at the Oregon Country Fair.Theses physics booths attract hundreds of visitors of all ages from a large range of backgrounds, politics, ancestry, beliefs, and socioeconomic status. Here the PI performed numerous physics demonstrations and answered wide-ranging questions about technology and physics. Seven physics PhD students contributed to the project and gained useful training, and are now beginning careers in high technology industry.    All project participants developed proficiency in theoretical and experimental physics, computational data analysis and simulation, technical writing, and scientific communication. Students participating in the project learned optical theory, hologram design, nanoscale engineering and fabrication, electron microscopy, and quantitative image and data analysis, and advanced software development. Graduate students prepared and delivered regular presentations at group meetings and gave oral presentations at international conferences.This general skill set and specific research knowledge developed while training students working on this project are both in high demand within industry, thus providing an immediate broader impact to society.         Last Modified: 01/01/2025       Submitted by: BenjaminJMcmorran]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

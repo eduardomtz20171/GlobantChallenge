@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: A New Sanidine-Liquid Hygrometer: Experiments, Calibration and Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/10/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>135252.00</AwardTotalIntnAmount>
+<AwardAmount>135252</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Wade</SignBlockName>
+<PO_EMAI>jwade@nsf.gov</PO_EMAI>
+<PO_PHON>7032924739</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The composition of potassium feldspar, a common in continental magmatic rocks, can record the intensive conditions it experiences as it is growing from a melt. The research team will calibrate a water-dependent geothermometer based on sanidine compositions. The calibration will be applicable to determine the conditions of crystallization of some of the world's most-important and best-studied suites, including voluminous (&gt;1000 cubic kilometers) ignimbrites and batholithic plutons. Six undergraduates from Sonoma State, a Hispanic-serving institution, will participate in the project, including 3 from a program that promotes STEM fields to under-represented groups. Three students from a high-school internship program will participate. Three undergraduates from Davis, a Hispanic-serving institution, will also participate. &lt;br/&gt;&lt;br/&gt;This project will generate new phase equilibria results, a hygrometer applicable to sanidine- and anorthoclase-bearing magmas, and a new method for estimating the equilibration temperatures and H2O contents of plutonic rocks. Silicic magmas represent the final products of planetary differentiation and can erupt in enormous volumes. Voluminous silicic eruptions require that short- or long-lived volumes of mush (crystals + melt) must exist in the crust. However, there is ongoing debate about the origins and lifespans of such systems, with conflicting views from numerical models, isotopic and trace element data, and the plutonic and volcanic records. The intensive variables recorded by potassium feldspar have been underutilized in this debate, largely due to a lack of appropriate models. This project will involve experimental calibration of a new K-feldspar hygrometer/thermometer that will constrain the conditions (i.e., temperature, pressure, H2O content) of formation, storage, and extraction of a broad range of silicic magmas. Six undergraduates from Sonoma State, a Hispanic-serving institution, will participate in the project, including 3 from a program that promotes STEM fields to under-represented groups. Three students from a high-school internship program will participate. Three undergraduates from Davis, a Hispanic-serving institution, will also participate.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022465</AwardID>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Waters</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laura Waters</PI_FULL_NAME>
+<EmailAddress><![CDATA[laura.waters@nmt.edu]]></EmailAddress>
+<NSF_ID>000769600</NSF_ID>
+<StartDate>03/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New Mexico Institute of Mining and Technology]]></Name>
+<CityName>SOCORRO</CityName>
+<ZipCode>878014681</ZipCode>
+<PhoneNumber>5758355496</PhoneNumber>
+<StreetAddress><![CDATA[801 LEROY PL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HZJ2JZUALWN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW MEXICO INSTITUTE OF MINING AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Mexico Institute of Mining and Technology]]></Name>
+<CityName/>
+<StateCode>NM</StateCode>
+<ZipCode>878014681</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>722200</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~135252</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Understanding the storage conditions of a volcanic rock prior to its eruption enables geologists to provide more accurate hazard assessments. However, decoding pre-eruptive magmatic storage conditions requires information about the chemistry of minerals and glasses in the rocks, models and experimental tests. The objective of this study was to collect the chemistry for silica rich volcanic rocks (rhyolites) that have yet to be studied, conduct experiments to develop a calibration for a new model based on the mineral sanidine (KAlSi<sub>3</sub>O<sub>8</sub>). We sampled rocks from Valles Caldera, NM, USA and analyzed the minerals and glasses they contained. By incorporating mineral compositions into existing models, we found the rhyolites have average pre-eruptive temperatures ranging from 742&ndash;824 &deg;C, H<sub>2</sub>O contents ranging from4.4&ndash;6.0 wt% H<sub>2</sub>O and pressures range from 130-376 MPa (~4-10 km). We then tested those conditions by using high-temperature and high-pressure experiments to reproduce the minerals and glasses in those rhyolites. The experiments produced the first phase diagram for these rhyolites from Valles Caldera. The experiments confirm the storage conditions recorded by the natural samples and yielded a new dataset of sanidine-glass pairs, which will be used as the calibration for a new model hygrometer that will provide estimate of the water present in the melt prior to eruption and degassing (an image of the model predicted water contents for experiments v. the known water contents from experiments is provided). Through this work, we will provide a new means of assessing magmatic storage conditions using sanidine. We also supported undergraduate and graduate students from under-represented groups in the geological sciences. Funds from this work were also used to support two poster sessions for ~20 graduate students to present their research at a small workshop.</p><br> <p>  Last Modified: 09/04/2024<br> Modified by: Laura&nbsp;Waters</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725421814936_Final_Public_Figure3v2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725421814936_Final_Public_Figure3v2--rgov-800width.jpg" title="Cross polarized image of a thin section"><img src="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725421814936_Final_Public_Figure3v2--rgov-66x44.jpg" alt="Cross polarized image of a thin section"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The minerals and glass from the chip of rock are shown in thin section in cross polarized light. The minerals include: sanidine, anorthoclase, quartz, biotite, hornblende and Fe-Ti oxides.</div> <div class="imageCredit">Magdalen Grismer</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Laura&nbsp;Waters <div class="imageTitle">Cross polarized image of a thin section</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725420916451_Final_Public_Figure2_v2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725420916451_Final_Public_Figure2_v2--rgov-800width.jpg" title="Section of rhyolite being prepared for analysis"><img src="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725420916451_Final_Public_Figure2_v2--rgov-66x44.jpg" alt="Section of rhyolite being prepared for analysis"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A sample of rhyolite that is being prepared for a thin section is shown after it was cut with a rock saw. This rock contains: glass, sanidine, anorthoclase, quartz, biotite, hornblende and Fe-Ti oxides.</div> <div class="imageCredit">Magdalen Grismer</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Laura&nbsp;Waters <div class="imageTitle">Section of rhyolite being prepared for analysis</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725422543084_Final_Public_Figure5v2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725422543084_Final_Public_Figure5v2--rgov-800width.jpg" title="Phase stability diagram created from experiments"><img src="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725422543084_Final_Public_Figure5v2--rgov-66x44.jpg" alt="Phase stability diagram created from experiments"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The experiments are used to create a map of the stability of different mineral phases in the experiments. The phase stability diagram is used to confirm magmatic storage conditions and confirms that the magmas from Valles were stored at ~750�C and 100-200 MPa (3-6 km).</div> <div class="imageCredit">Magdalen Grismer</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Laura&nbsp;Waters <div class="imageTitle">Phase stability diagram created from experiments</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725421953289_Final_Public_Figure4--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725421953289_Final_Public_Figure4--rgov-800width.jpg" title="Crystals grown in experiments are shown with a capsule"><img src="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725421953289_Final_Public_Figure4--rgov-66x44.jpg" alt="Crystals grown in experiments are shown with a capsule"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Sanidine crystals and glasses grown in experiments are shown with an experimental capsule. Data from these materials are used to evaluate the storage conditions recorded by the minerals.</div> <div class="imageCredit">Laura Waters</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Laura&nbsp;Waters <div class="imageTitle">Crystals grown in experiments are shown with a capsule</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725420697754_Final_Public_Figures1V2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725420697754_Final_Public_Figures1V2--rgov-800width.jpg" title="Graduate student Magdalen Grismer examines an obsidian block"><img src="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725420697754_Final_Public_Figures1V2--rgov-66x44.jpg" alt="Graduate student Magdalen Grismer examines an obsidian block"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Graduate student Magdalen Grismer examines a block of high-silica rhyolite (obsidian) in Valles Caldera, NM, USA</div> <div class="imageCredit">Laura Waters</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Laura&nbsp;Waters <div class="imageTitle">Graduate student Magdalen Grismer examines an obsidian block</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725422343876_Final_Public_Figure6v2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725422343876_Final_Public_Figure6v2--rgov-800width.jpg" title="Model outputs of H2O compared with known values"><img src="/por/images/Reports/POR/2024/2022465/2022465_10628475_1725422343876_Final_Public_Figure6v2--rgov-66x44.jpg" alt="Model outputs of H2O compared with known values"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The model outputs of H2O from the  new sanidine hygrometer are compared with the known values. The model can reproduce water contents within 0.4 wt% and is best used in systems with 2-7 wt% H2O.</div> <div class="imageCredit">Laura Waters</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Laura&nbsp;Waters <div class="imageTitle">Model outputs of H2O compared with known values</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Understanding the storage conditions of a volcanic rock prior to its eruption enables geologists to provide more accurate hazard assessments. However, decoding pre-eruptive magmatic storage conditions requires information about the chemistry of minerals and glasses in the rocks, models and experimental tests. The objective of this study was to collect the chemistry for silica rich volcanic rocks (rhyolites) that have yet to be studied, conduct experiments to develop a calibration for a new model based on the mineral sanidine (KAlSi3O8). We sampled rocks from Valles Caldera, NM, USA and analyzed the minerals and glasses they contained. By incorporating mineral compositions into existing models, we found the rhyolites have average pre-eruptive temperatures ranging from 742824 C, H2O contents ranging from4.46.0 wt% H2O and pressures range from 130-376 MPa (~4-10 km). We then tested those conditions by using high-temperature and high-pressure experiments to reproduce the minerals and glasses in those rhyolites. The experiments produced the first phase diagram for these rhyolites from Valles Caldera. The experiments confirm the storage conditions recorded by the natural samples and yielded a new dataset of sanidine-glass pairs, which will be used as the calibration for a new model hygrometer that will provide estimate of the water present in the melt prior to eruption and degassing (an image of the model predicted water contents for experiments v. the known water contents from experiments is provided). Through this work, we will provide a new means of assessing magmatic storage conditions using sanidine. We also supported undergraduate and graduate students from under-represented groups in the geological sciences. Funds from this work were also used to support two poster sessions for ~20 graduate students to present their research at a small workshop.     Last Modified: 09/04/2024       Submitted by: LauraWaters]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

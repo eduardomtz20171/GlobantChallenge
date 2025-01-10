@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Chromosome organization in cellular development]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephen DiFazio</SignBlockName>
+<PO_EMAI>sdifazio@nsf.gov</PO_EMAI>
+<PO_PHON>7032924517</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to uncover how human cells regulate their chromosome organization during cell division. During cell division, chromosomes will duplicate and divide equally among two daughter cells. Abnormalities in chromosome segregation that occur during cell division in humans can lead to detrimental consequences and disease. This project supports a research group in a Hispanic serving institution dedicated to understanding the fundamental principles of chromosome organization. It also provides a strong foundation for recruitment and accessibility of under-represented student populations in the life sciences. Opportunities for engagement with life science research will also be made available to multiple populations in the local community, including community college and high school students as well as adult seniors, in order to promote diversity and equity in STEM fields. &lt;br/&gt;&lt;br/&gt;Homologous chromosome pairing in mitosis can lead to allelic mis-regulation and genome instability in human somatic cells. Little is known about how homologous chromosome pairing is prevented throughout the cell cycle during embryogenesis and adulthood. The research project will explore this largely untouched biological paradigm. Experiments are planned to specifically test whether compartmentalization of one haploid set from the other is conserved at interphase, and thus throughout the cell cycle. Two types of parthenogenic cells will be used to further determine if this compartmentalization depends on the parental origin of the centromere. This comprehensive study will generate new mechanistic information of the previously unrecognized haploid set-based chromosome organization. Further, it will reveal, for the first time, the underlying molecular mechanisms for higher-order chromosome organization during the cell cycle. These results should open up a new avenue to explore the importance of higher-order chromosome organization in development that will be critically important for elucidating new mechanisms of cellular function.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027746</AwardID>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>Hua</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lisa L Hua</PI_FULL_NAME>
+<EmailAddress><![CDATA[hual@sonoma.edu]]></EmailAddress>
+<NSF_ID>000814881</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Sonoma State University]]></Name>
+<CityName>ROHNERT PARK</CityName>
+<ZipCode>949283613</ZipCode>
+<PhoneNumber>7076643972</PhoneNumber>
+<StreetAddress><![CDATA[1801 E COTATI AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GZ6NCMJFL6R4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SONOMA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Sonoma State University]]></Name>
+<CityName>Rohnert Park</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>949283609</ZipCode>
+<StreetAddress><![CDATA[1801 East Cotati Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111200</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~600000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1">Our understanding of how chromosomes keep their distance during the cell cycle is still evolving. In our research, we found that chromosome components cluster on either side of the centrosome and along the cell's vertical axis during different phases, from prophase to G1 interphase. Using advanced live cell imaging, we discovered that while chromosomes mostly move within their own cluster, they do not cross over to the other cluster. This finding has led us to propose a new model that explains how these movements are constrained by the cell's internal structure during mitosis.</p> <p class="p1">Our study focuses on chromosome behavior during cell division in human cells, a process that, if disrupted, can lead to serious problems like cancer. Chromosomes hold an individual&rsquo;s DNA and are responsible for ensuring the even distribution of genetic material between new cells during division. By tracking individual chromosomes with cutting-edge microscopy, we observed that they oscillate but remain confined to one side of the cell&rsquo;s internal axis defined by the centrosomes. This restriction continues even as the spindle structure forms and disassembles, providing insight into chromosome movements and their implications for genetic disorders.</p> <p class="p1">This grant has allowed me to train 40 undergraduate students and 8 graduate students over the past four years, many of whom have gone on to pursue advanced degrees or careers in health-related fields. Notably, students from underrepresented backgrounds, particularly those of Latino/a descent, have shown increased academic success and engagement. These students have been essential in investigating how chromosomes are organized during the cell cycle and their role in cell development. Our lab is focused on the mechanisms that prevent chromosome pairing in somatic cells, which is vital for maintaining genetic stability in daughter cells.</p> <p class="p1">Both undergraduate and graduate students have actively participated in all aspects of the grant related research, from designing experiments to data collection and analysis. They have engaged in cell culture, chromosome painting, and data acquisition using advanced laser scanning microscopy, as well as creating 3D images of chromosomes with specialized software. Through this hands-on experience, students have gained valuable skills in experimental design, molecular biology, and cell culture techniques under my guidance. Our research has led to the publication of one review paper and another manuscript currently under revision, titled &ldquo;Ipsilateral restriction of chromosome movement along a centrosome and apical-basal axis during the cell cycle.&rdquo; This manuscript is co-authored by my graduate students, Christian Casas and Gabriel Quintero Plancarte, and is part of their thesis work. Additionally, undergraduate students have contributed to three articles for the McNairs undergraduate research journal and four Senior Honors Theses.</p> <p class="p1">My students have presented their findings at various conferences, including the Annual CSU-wide Biotechnology Symposium and the West Coast Biological Sciences Undergraduate Research Symposium. A total of 29 students showcased their work at the Annual SSU Graduate and Undergraduate Research Symposium. I have also delivered invited seminars at several prestigious institutions, including Harvard Medical School and a Gordon Research conference in Italy.</p> <p class="p1">The grant has further supported summer research training for 17 students from local community colleges, high schools, and universities, in collaboration with Biotech Partners to help underrepresented students gain experience in biotechnology. Through these initiatives, we aim to foster academic and professional growth in this critical field.</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/29/2024<br> Modified by: Lisa&nbsp;L&nbsp;Hua</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2027746/2027746_10690218_1730244024480_lab_group_photo_1_7_31_24--rgov-214x142.png" original="/por/images/Reports/POR/2024/2027746/2027746_10690218_1730244024480_lab_group_photo_1_7_31_24--rgov-800width.png" title="Hua lab photo"><img src="/por/images/Reports/POR/2024/2027746/2027746_10690218_1730244024480_lab_group_photo_1_7_31_24--rgov-66x44.png" alt="Hua lab photo"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The Hua lab consists of undergraduate and MS graduate students.</div> <div class="imageCredit">Alyssa Stadie</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Lisa&nbsp;L&nbsp;Hua <div class="imageTitle">Hua lab photo</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2027746/2027746_10690218_1730244636803_Centromere_Distribution_During_Mitosis--rgov-214x142.png" original="/por/images/Reports/POR/2024/2027746/2027746_10690218_1730244636803_Centromere_Distribution_During_Mitosis--rgov-800width.png" title="Centromere distribution in Mitosis"><img src="/por/images/Reports/POR/2024/2027746/2027746_10690218_1730244636803_Centromere_Distribution_During_Mitosis--rgov-66x44.png" alt="Centromere distribution in Mitosis"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Distribution of centromeric DNA satellite sequences in fixed primary human cells at metaphase.</div> <div class="imageCredit">Lisa L Hua</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Lisa&nbsp;L&nbsp;Hua <div class="imageTitle">Centromere distribution in Mitosis</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Our understanding of how chromosomes keep their distance during the cell cycle is still evolving. In our research, we found that chromosome components cluster on either side of the centrosome and along the cell's vertical axis during different phases, from prophase to G1 interphase. Using advanced live cell imaging, we discovered that while chromosomes mostly move within their own cluster, they do not cross over to the other cluster. This finding has led us to propose a new model that explains how these movements are constrained by the cell's internal structure during mitosis.   Our study focuses on chromosome behavior during cell division in human cells, a process that, if disrupted, can lead to serious problems like cancer. Chromosomes hold an individuals DNA and are responsible for ensuring the even distribution of genetic material between new cells during division. By tracking individual chromosomes with cutting-edge microscopy, we observed that they oscillate but remain confined to one side of the cells internal axis defined by the centrosomes. This restriction continues even as the spindle structure forms and disassembles, providing insight into chromosome movements and their implications for genetic disorders.   This grant has allowed me to train 40 undergraduate students and 8 graduate students over the past four years, many of whom have gone on to pursue advanced degrees or careers in health-related fields. Notably, students from underrepresented backgrounds, particularly those of Latino/a descent, have shown increased academic success and engagement. These students have been essential in investigating how chromosomes are organized during the cell cycle and their role in cell development. Our lab is focused on the mechanisms that prevent chromosome pairing in somatic cells, which is vital for maintaining genetic stability in daughter cells.   Both undergraduate and graduate students have actively participated in all aspects of the grant related research, from designing experiments to data collection and analysis. They have engaged in cell culture, chromosome painting, and data acquisition using advanced laser scanning microscopy, as well as creating 3D images of chromosomes with specialized software. Through this hands-on experience, students have gained valuable skills in experimental design, molecular biology, and cell culture techniques under my guidance. Our research has led to the publication of one review paper and another manuscript currently under revision, titled Ipsilateral restriction of chromosome movement along a centrosome and apical-basal axis during the cell cycle. This manuscript is co-authored by my graduate students, Christian Casas and Gabriel Quintero Plancarte, and is part of their thesis work. Additionally, undergraduate students have contributed to three articles for the McNairs undergraduate research journal and four Senior Honors Theses.   My students have presented their findings at various conferences, including the Annual CSU-wide Biotechnology Symposium and the West Coast Biological Sciences Undergraduate Research Symposium. A total of 29 students showcased their work at the Annual SSU Graduate and Undergraduate Research Symposium. I have also delivered invited seminars at several prestigious institutions, including Harvard Medical School and a Gordon Research conference in Italy.   The grant has further supported summer research training for 17 students from local community colleges, high schools, and universities, in collaboration with Biotech Partners to help underrepresented students gain experience in biotechnology. Through these initiatives, we aim to foster academic and professional growth in this critical field.        Last Modified: 10/29/2024       Submitted by: LisaLHua]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

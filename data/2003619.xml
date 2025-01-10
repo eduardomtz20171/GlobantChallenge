@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Multidimensional and Nonlinear Kinetics in Complex Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>458500.00</AwardTotalIntnAmount>
+<AwardAmount>458500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+<PO_EMAI>kcook@nsf.gov</PO_EMAI>
+<PO_PHON>7032927490</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging program and co-funding from the Chemical Structures, Dynamics, and Mechanisms - A program, Professor Mark Berg and his group at the University of South Carolina are developing new methods for probing chemical changes that occur when a system is perturbed by illumination with powerful laser light.  The research group is particularly interested in the response of a system to multiple perturbations, in contrast to more conventional approaches which use a single perturbation.  These “multidimensional” experiments are uniquely useful for understanding complex materials where otherwise identical molecules may have their responses altered by their local environment.  The research focuses on perturbing systems using ultrafast laser pulses then monitoring very fast responses (less than a trillionth of a second), enabling the elementary steps of a reaction to be observed before molecular motion reorganizes the local environment.  Dr. Berg actively recruits undergraduates from both within and outside chemistry to provide a cross-disciplinary research experience.  Graduate students are trained in advanced optics, spectroscopy, electronics and data-processing methods.  Professor Berg is involved with workshops familiarizing students (especially those from underrepresented groups) with graduate school opportunities.  He is also active in a partnership between the University and the Graduate Education for Minorities (GEM) Fellowship Program aimed at increasing the number of students from underrepresented groups who go on to graduate studies in STEM fields.   &lt;br/&gt;&lt;br/&gt;As many liquids cool, they spontaneously form microstructures that lead to a very rapid increase in viscosity.  Multidimensional spectroscopic experiments are designed to examine the initial formation of these microstructures to see if they are sufficient to explain the observed changes in macroscopic properties.  Independent control of the polarization and phase of up to six laser pulses enables investigation of the local structure, fluidity and reaction dynamics in microstructures created by soaps and detergents.  These microstructures range from simple micelles that solubilize organic materials in water to the complex bilayer membranes that are ubiquitous in cells.  The Berg laboratory provides a highly interdisciplinary environment for graduate and undergraduate students involved in the research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003619</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Berg</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark A Berg</PI_FULL_NAME>
+<EmailAddress><![CDATA[berg@sc.edu]]></EmailAddress>
+<NSF_ID>000381621</NSF_ID>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of South Carolina at Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>292083403</ZipCode>
+<PhoneNumber>8037777093</PhoneNumber>
+<StreetAddress><![CDATA[1600 HAMPTON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J22LNTMEDP73</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTH CAROLINA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q93ZDA59ZAR5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Carolina at Columbia]]></Name>
+<CityName>Columbia</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>292083406</ZipCode>
+<StreetAddress><![CDATA[631 Sumter St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>910100</Code>
+<Text>CSD-Chem Strcture and Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~458500</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Multidimensional and nonlinear kinetics are new, broad concepts for learning about the rates of chemical processes.&nbsp; In this project, a research group led by Prof. Mark Berg at the University of South Carolina has developed and demonstrated these general concepts in several specific contexts.&nbsp; In the area of ultrafast spectroscopy (faster than one billionth of a second), a set of multidimensional experiments has challenged existing models for micelles.&nbsp; Micelles are nanometer-sized droplets of a material suspended in water.&nbsp; They occur widely in applications from household detergents, to industrial materials processing, to long-lasting drug formulations.&nbsp; Textbook illustrations of micelles show the molecules within them as highly ordered.&nbsp; The multidimensional experiments performed in this project failed to find the molecular motions predicted by this picture.&nbsp; Rather, the results suggest a much more disordered structure that becomes increasingly viscous toward the micelle's center.&nbsp; &nbsp;</p> <p>The challenges of this study lead to the development of innovative technologies for studying chemical and biochemical dynamics, both in hardware and in software.&nbsp; In hardware, deformable mirrors, which were developed to correct aberrations in optical telescopes, were repurposed as a rapid phase modulator.&nbsp; In this role, they can used to reject noise in laser-based measurements of rates in chemical processes.&nbsp; In software, new methods were developed to visualize and quantify the results of both standard and multidimensional measurements of chemical rates.&nbsp; These methods are aimed at processes that are complex in the sense that they have a spread of rates, not a single rate.&nbsp; They are novel in that no model of the underlying process is needed to analysis the result of an experiment: it is a "data-first" approach to studying chemical dynamics. &nbsp;Both these hardware and software advances were demonstrated in ultrafast measurements of molecular rotation, but the ideas extend directly to studying the rates of many different processes on many different timescales.</p> <p>For the last 25 years or more, instruments to measure the motion of single, isolated molecules have rapidly advanced.&nbsp; The resulting datasets are very large, but the individual data points are noisy and low quality -- a typical "big data" problem.&nbsp; This project demonstrated a new direction in data analysis that uses nonlinear and multidimensional correlation functions.&nbsp; The ability to remove noise and bias from the data is greatly improved.&nbsp; The advantages of these methods were demonstrated by re-analyzing existing datasets and revealing information missed in the original analyses.&nbsp; Studies of molecular dynamics in both ordinary and supercooled liquids and of both computer simulations and single-molecule experiments were used to demonstrate the general principles.&nbsp; A proposal was made to redirect the design of single-molecule experiments to increase their effective time resolution by a factor of a thousand.</p> <p>To broaden the impact of this project, the PI collaborated with the GEM consortium, a nonprofit organization dedicated to increasing the number of students from underrepresented groups entering graduate programs.&nbsp; After using the GEM database to identify underrepresented students interested in chemistry, the PI emailed over 200 of them, showing them potential research projects that matched their interests and offering them expedited application to the University of South Carolina's PhD program in Chemistry.&nbsp; To give undergraduate students a broadening research experience, five different students, most pursuing degrees in other fields (two in Math and two in Molecular Biology), conducted research that exposed them to forefront problems in Chemical Physics.</p><br> <p>  Last Modified: 11/04/2024<br> Modified by: Mark&nbsp;A&nbsp;Berg</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Multidimensional and nonlinear kinetics are new, broad concepts for learning about the rates of chemical processes. In this project, a research group led by Prof. Mark Berg at the University of South Carolina has developed and demonstrated these general concepts in several specific contexts. In the area of ultrafast spectroscopy (faster than one billionth of a second), a set of multidimensional experiments has challenged existing models for micelles. Micelles are nanometer-sized droplets of a material suspended in water. They occur widely in applications from household detergents, to industrial materials processing, to long-lasting drug formulations. Textbook illustrations of micelles show the molecules within them as highly ordered. The multidimensional experiments performed in this project failed to find the molecular motions predicted by this picture. Rather, the results suggest a much more disordered structure that becomes increasingly viscous toward the micelle's center.    The challenges of this study lead to the development of innovative technologies for studying chemical and biochemical dynamics, both in hardware and in software. In hardware, deformable mirrors, which were developed to correct aberrations in optical telescopes, were repurposed as a rapid phase modulator. In this role, they can used to reject noise in laser-based measurements of rates in chemical processes. In software, new methods were developed to visualize and quantify the results of both standard and multidimensional measurements of chemical rates. These methods are aimed at processes that are complex in the sense that they have a spread of rates, not a single rate. They are novel in that no model of the underlying process is needed to analysis the result of an experiment: it is a "data-first" approach to studying chemical dynamics. Both these hardware and software advances were demonstrated in ultrafast measurements of molecular rotation, but the ideas extend directly to studying the rates of many different processes on many different timescales.   For the last 25 years or more, instruments to measure the motion of single, isolated molecules have rapidly advanced. The resulting datasets are very large, but the individual data points are noisy and low quality -- a typical "big data" problem. This project demonstrated a new direction in data analysis that uses nonlinear and multidimensional correlation functions. The ability to remove noise and bias from the data is greatly improved. The advantages of these methods were demonstrated by re-analyzing existing datasets and revealing information missed in the original analyses. Studies of molecular dynamics in both ordinary and supercooled liquids and of both computer simulations and single-molecule experiments were used to demonstrate the general principles. A proposal was made to redirect the design of single-molecule experiments to increase their effective time resolution by a factor of a thousand.   To broaden the impact of this project, the PI collaborated with the GEM consortium, a nonprofit organization dedicated to increasing the number of students from underrepresented groups entering graduate programs. After using the GEM database to identify underrepresented students interested in chemistry, the PI emailed over 200 of them, showing them potential research projects that matched their interests and offering them expedited application to the University of South Carolina's PhD program in Chemistry. To give undergraduate students a broadening research experience, five different students, most pursuing degrees in other fields (two in Math and two in Molecular Biology), conducted research that exposed them to forefront problems in Chemical Physics.     Last Modified: 11/04/2024       Submitted by: MarkABerg]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Integrated Computational and Experimental (ICE) REU at North Carolina State University]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>284672.00</AwardTotalIntnAmount>
+<AwardAmount>284672</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomislav Pintauer</SignBlockName>
+<PO_EMAI>tompinta@nsf.gov</PO_EMAI>
+<PO_PHON>7032927168</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Research Experiences for Undergraduates (REU) Sites award to North Carolina State University (NCSU) supports the training of 10 students for 10 weeks during the summers of 2022-2024. At this site, supported by the Department of Defense in partnership with the NSF REU program and the Division of Chemistry, students take part in research projects spanning the field of chemistry. This program integrates computation and experiment, such that the computational component provides a unifying theme across a diverse set of projects. Participants will engage in a series of activities that facilitate their professional development including workshops on ethics, preparing a poster, applying and preparing for graduate school or industrial careers, and science communication. Participants will also learn about industrial and governmental research and non-research career options so that they can make informed decisions about their own career and educational paths. Other social activities offered on campus provide participants opportunities to interact with fellow researchers in other undergraduate research programs to gain a sense of community and collegial support.&lt;br/&gt;&lt;br/&gt;Available student research projects at this REU site cover many topics in chemistry including: materials science (polymer synthesis, nanomaterials synthesis), life sciences (biomolecule-directed synthesis, biomolecule sensing, and biomolecular interaction studies), and energy sciences (homogeneous and heterogeneous catalysis, electron capture, biofuels, photochemistry), as well as research in more traditional chemistry sub-fields (organic, inorganic, physical and analytical). An advantage of the integrated computational/experimental nature of program is that the computational aspect serves as a unifying theme for participants regardless of the nature of the individual research project. The program takes advantage of the geographic location of NCSU and exposes students to careers in non-academic settings in the Research Triangle Park (RTP) area. Additionally, students participate in various activities organized by the NCSU Office of Undergraduate Research that are designed to encourage interaction with other undergraduate researchers and aid in their professional development as they embark on future careers. The program aims to recruit students from underrepresented groups (persons of color, women, and first generation college students) from local HBCUs (Historically Black Colleges and Universities), rural and non-urban primarily undergraduate institutions, and from Puerto Rican institutions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/04/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050765</AwardID>
+<Investigator>
+<FirstName>Elon</FirstName>
+<LastName>Ison</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elon A Ison</PI_FULL_NAME>
+<EmailAddress><![CDATA[eaison@ncsu.edu]]></EmailAddress>
+<NSF_ID>000511188</NSF_ID>
+<StartDate>03/04/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elena</FirstName>
+<LastName>Jakubikova</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elena Jakubikova</PI_FULL_NAME>
+<EmailAddress><![CDATA[ejakubi@ncsu.edu]]></EmailAddress>
+<NSF_ID>000596952</NSF_ID>
+<StartDate>03/04/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName/>
+<StateCode>NC</StateCode>
+<ZipCode>276958204</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>V14900</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>7736</Code>
+<Text>DOD ASSURE PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0421</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002122RB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~284672</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Goals</p>  <ul>  <li>To assist students in career and academic decisions by broadening their perspectives on chemical research careers.</li>  <li>To provide students from underrepresented groups, women, and first-generation college students with research opportunities and ultimately to increase the number of students from these groups in STEM fields.</li>  </ul>  <p>Outcomes</p>  <p>1. Participants: Twenty students were selected sponsored by the NSF through the REU program. Twenty-one students were in-person at NCSU. Five students were in-person at Reed College and Western Oregon University in Portland and remote at NCSU.&nbsp;</p>  <p>2. Demographics</p>  <p>PUIs (sponsored by the NSF) = 100%.</p>  <p>% PUIs = 96%</p>  <p>Underrepresented Groups = ~ 44%.</p>  <p>Women = ~78%</p>  <p>Student Class = 3 sophomores, 4 juniors, 2 freshman</p>  <p>Schools = North Carolina State University, Reed College, Inter American University of Puerto Rico, The College of New Jersey, Kean University, Ithaca College, University of Arkansas at Pine Bluff, Western Carolina University, Carleton College, Goucher College, Reed College, Western Oregon University, Willamette University, Davidson College.</p>  <p>Publications from this grant (REU students underlined)</p>  <ul>  <li>Mohammad Nuruzzaman, Brandon M. Colella, Chiamaka P. Uzoewulu, Alissa E. Meo, Elizabeth J. Gross, Seiya Ishizawa, Sravani Sana, He Zhang, <span style="text-decoration: underline;">Meredith E. Hoff</span>, Bryce T. W. Medlock, Emily C. Joyner, Shinichi Sato, Elon A. Ison, Zibo Li, and Jun Ohata. "Hexafluoroisopropanol as a Bioconjugation Medium of Ultrafast, Tryptophan-Selective Catalysis." <em>J. Am. Chem. Soc. 2024, 146, 6773&minus;6783</em>.<em>&nbsp;</em></li>  <li>Mohammad Nuruzzaman, Brandon M. Colella, Zeinab M. Nizam, Isaac JiHoon Cho, Julia Zagorski and Jun Ohata. "Redox-neutral, metal-free tryptophan labeling of polypeptides in hexafluoroisopropanol (HFIP)." <em>RSC Chem. Biol., 2024, 5, 963.</em><em>&nbsp;</em></li>  </ul>  <p>&nbsp;</p><br> <p>  Last Modified: 12/23/2024<br> Modified by: Elon&nbsp;A&nbsp;Ison</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Goals    To assist students in career and academic decisions by broadening their perspectives on chemical research careers.  To provide students from underrepresented groups, women, and first-generation college students with research opportunities and ultimately to increase the number of students from these groups in STEM fields.      Outcomes    1. Participants: Twenty students were selected sponsored by the NSF through the REU program. Twenty-one students were in-person at NCSU. Five students were in-person at Reed College and Western Oregon University in Portland and remote at NCSU.    2. Demographics    PUIs (sponsored by the NSF) = 100%.    % PUIs = 96%    Underrepresented Groups = ~ 44%.    Women = ~78%    Student Class = 3 sophomores, 4 juniors, 2 freshman    Schools = North Carolina State University, Reed College, Inter American University of Puerto Rico, The College of New Jersey, Kean University, Ithaca College, University of Arkansas at Pine Bluff, Western Carolina University, Carleton College, Goucher College, Reed College, Western Oregon University, Willamette University, Davidson College.    Publications from this grant (REU students underlined)    Mohammad Nuruzzaman, Brandon M. Colella, Chiamaka P. Uzoewulu, Alissa E. Meo, Elizabeth J. Gross, Seiya Ishizawa, Sravani Sana, He Zhang, Meredith E. Hoff, Bryce T. W. Medlock, Emily C. Joyner, Shinichi Sato, Elon A. Ison, Zibo Li, and Jun Ohata. "Hexafluoroisopropanol as a Bioconjugation Medium of Ultrafast, Tryptophan-Selective Catalysis." J. Am. Chem. Soc. 2024, 146, 67736783.  Mohammad Nuruzzaman, Brandon M. Colella, Zeinab M. Nizam, Isaac JiHoon Cho, Julia Zagorski and Jun Ohata. "Redox-neutral, metal-free tryptophan labeling of polypeptides in hexafluoroisopropanol (HFIP)." RSC Chem. Biol., 2024, 5, 963.           Last Modified: 12/23/2024       Submitted by: ElonAIson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

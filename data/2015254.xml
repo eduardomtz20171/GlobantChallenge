@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Programming the Existing and Emerging Memory Systems for Extreme-scale Parallel Performance]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>498674.00</AwardTotalIntnAmount>
+<AwardAmount>498674</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>High performance computing (HPC) focuses on using numerical model to simulate complex science and engineering phenomena, such as galaxies, weather and climate, molecular interactions, electric power grids, and aircraft in flight.  Over the next decade the goal is to build HPC parallel system capable of extreme-scale performance (one exaflop (1018)operations per second) and processing exabyte (1018) of data. However, one of the biggest challenges of achieving extreme-scale performance is what is known as the hardware memory wall, which is about the growing gap between the speed of computation performed by CPU and the speed of supplying data to the CPU from memory systems (about x100 time slower). The low performance efficiency of modern HPC system (average &lt;60% and could be as low as 5%) manifests the memory wall impact since a huge amount of computation cycles are wasted for waiting for the arrival of input data.  It becomes very critical to create effective software solutions for achieving the computation potential of hardware and for improving the efficiency and usability of the existing and future computing system. Such solutions will significantly benefit a broad range of disciplines that use parallel computers to solve scientific and engineering problems, and accelerate scientific discovery and problem solving to improve quality of life of the society. &lt;br/&gt;This CAREER project develops innovative software techniques to address the programming and performance challenges of the existing and emerging memory systems: 1) a portable abstract machine model for programming, compiling and executing parallel applications, 2) new programming interface and model for data mapping, movement, and consistency, and 3) machine-aware compilation and data-aware scheduling techniques to realize an asynchronous task flow execution model to hide the latency of data movement. It addresses the memory wall challenge by developing a memory-centric programming paradigm for helping achieve extreme-scale performance of parallel applications with minimum impairment to programmability. For education, the project involves a broader community starting from high school in the area of HPC and computer science.</AbstractNarration>
+<MinAmdLetterDate>01/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015254</AwardID>
+<Investigator>
+<FirstName>Yonghong</FirstName>
+<LastName>Yan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yonghong Yan</PI_FULL_NAME>
+<EmailAddress><![CDATA[yyan7@uncc.edu]]></EmailAddress>
+<NSF_ID>000604781</NSF_ID>
+<StartDate>01/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of North Carolina at Charlotte]]></Name>
+<CityName>CHARLOTTE</CityName>
+<ZipCode>282230001</ZipCode>
+<PhoneNumber>7046871888</PhoneNumber>
+<StreetAddress><![CDATA[9201 UNIVERSITY CITY BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JB33DT84JNA5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NEYCH3CVBTR6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Charlotte]]></Name>
+<CityName/>
+<StateCode>NC</StateCode>
+<ZipCode>282230001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>287800</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~8030</FUND_OBLG>
+<FUND_OBLG>2018~125937</FUND_OBLG>
+<FUND_OBLG>2019~130146</FUND_OBLG>
+<FUND_OBLG>2020~234561</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-6a3c4aa4-7fff-7cff-34b1-10934f849f79"> </span></p> <p dir="ltr">In this five-year project, we have accomplished the following research findings, software development, outreach activities, and mentoring and education tasks. We have used OpenMP programming models as our baseline to conduct the activities for heterogeneous systems.&nbsp;</p> <p dir="ltr"><span>Exploring OpenMP extensions to support performance programming and advanced architecture features:&nbsp;</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>We have explored extensions to OpenMP map clauses for enabling data mapping between storage and GPU memory, thus by-passing host memory.&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We have explored OpenMP extensions to support data shuffling between threads via registers, thus by-passing DRAM-based data sharing between threads on GPUs.&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We have implemented and extended OpenMP metadirectives to support runtime adaptation and machine-learning based adaptation of computation.&nbsp;</span></p> </li> </ul> <p dir="ltr"><span>Compiler and runtime implementation for OpenMP:</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>We have developed a standalone OpenMP parser that can be used in different compilers.&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We have implemented source-to-source compiler support for OpenMP SIMD constructs for both Intel AVX and ARM SVE vector instructions.&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We have proposed and implemented Unified Parallel Intermediate Representation (UPIR) for parallel programming models.&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We have explored using knowledge graphs for generating and analyzing program call graphs.&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We have developed a source-to-source OpenMP compiler to support research based on OpenMP for parallel programming.&nbsp;</span></p> </li> </ul> <p dir="ltr"><span>Evaluation, benchmarks, performance study and tools support</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>We have developed a CUDA microbenchmark suite to evaluate the different optimization techniques for GPU programming.&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We have implemented a convolutional neural network using OpenMP on multiple GPUs</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We have evaluated multiple thread-based programming models including OepnMP, OpenACC, Cilk, TBB, etc</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We have developed cloud-based data race detection services that combine multiple data-race detection tools</span></p> </li> </ul> <p dir="ltr"><span>Software and Tools for Education&nbsp;</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>We have developed freecompilercamp infrastructure for cloud-based training of compiler development</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We have developed an online interactive OpenMP programming book using Jupyter notebook and large-language models.&nbsp;</span></p> </li> </ul> <p>&nbsp;</p> <p dir="ltr"><span>Outreach Activities:</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>We have organized every year between 2017 - 2023 a workshop at SC for memory centric high performance computing. Every year, a copyrighted proceedings has been produced and the workshop attracted audiences from 70-120.&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We have participated in outreach activities for introducing high school students to computer systems and parallel computing.&nbsp;</span></p> </li> </ul> <p>&nbsp;</p> <p dir="ltr"><span>Mentor and advising</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>One Ph.D. student funded with this project graduated in 2023, and joined Intel working for OpenMP compiler.&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Two Ph.D. students funded with this project has passed proposal defense by 2024</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Two undergraduate students involved in this project moved on to study their master degree.&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>One master student involved in this project moved on to study his Ph.D.&nbsp;</span></p> </li> </ul> <p>&nbsp;</p><br> <p>  Last Modified: 08/20/2024<br> Modified by: Yonghong&nbsp;Yan</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      In this five-year project, we have accomplished the following research findings, software development, outreach activities, and mentoring and education tasks. We have used OpenMP programming models as our baseline to conduct the activities for heterogeneous systems.   Exploring OpenMP extensions to support performance programming and advanced architecture features:     We have explored extensions to OpenMP map clauses for enabling data mapping between storage and GPU memory, thus by-passing host memory.     We have explored OpenMP extensions to support data shuffling between threads via registers, thus by-passing DRAM-based data sharing between threads on GPUs.     We have implemented and extended OpenMP metadirectives to support runtime adaptation and machine-learning based adaptation of computation.     Compiler and runtime implementation for OpenMP:     We have developed a standalone OpenMP parser that can be used in different compilers.     We have implemented source-to-source compiler support for OpenMP SIMD constructs for both Intel AVX and ARM SVE vector instructions.     We have proposed and implemented Unified Parallel Intermediate Representation (UPIR) for parallel programming models.     We have explored using knowledge graphs for generating and analyzing program call graphs.     We have developed a source-to-source OpenMP compiler to support research based on OpenMP for parallel programming.     Evaluation, benchmarks, performance study and tools support     We have developed a CUDA microbenchmark suite to evaluate the different optimization techniques for GPU programming.     We have implemented a convolutional neural network using OpenMP on multiple GPUs     We have evaluated multiple thread-based programming models including OepnMP, OpenACC, Cilk, TBB, etc     We have developed cloud-based data race detection services that combine multiple data-race detection tools     Software and Tools for Education     We have developed freecompilercamp infrastructure for cloud-based training of compiler development     We have developed an online interactive OpenMP programming book using Jupyter notebook and large-language models.        Outreach Activities:     We have organized every year between 2017 - 2023 a workshop at SC for memory centric high performance computing. Every year, a copyrighted proceedings has been produced and the workshop attracted audiences from 70-120.     We have participated in outreach activities for introducing high school students to computer systems and parallel computing.        Mentor and advising     One Ph.D. student funded with this project graduated in 2023, and joined Intel working for OpenMP compiler.     Two Ph.D. students funded with this project has passed proposal defense by 2024     Two undergraduate students involved in this project moved on to study their master degree.     One master student involved in this project moved on to study his Ph.D.          Last Modified: 08/20/2024       Submitted by: YonghongYan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

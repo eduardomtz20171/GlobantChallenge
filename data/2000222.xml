@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Magnetic Reconnection in Kinetic Turbulent Plasmas]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>544734.00</AwardTotalIntnAmount>
+<AwardAmount>589734</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andreas Keiling</SignBlockName>
+<PO_EMAI>akeiling@nsf.gov</PO_EMAI>
+<PO_PHON>7032927834</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Understanding the close interconnection between turbulence and magnetic reconnection has been of increasing importance to the broader solar and space physics community.  Turbulence is a fundamental physical process of transferring energy from large-scale motions to small kinetic scales, where the turbulence energy is dissipated as plasma heat and particle energization.  Magnetic reconnection is a universal physical process that converts magnetic energy to plasma kinetic and thermal energies.  Both processes critically influence the dynamics and energetics in systems such as the solar corona, solar wind, and planetary magnetospheres.  Magnetic reconnection has been observed in turbulent environments such as the solar wind and the Earth's magneto-sheath.  It has been suggested to contribute to energy dissipation of the turbulence and changes in the turbulent cascade by spacecraft observations, simulations and theory.  Present knowledge on the physics underlying how magnetic reconnection influences turbulence, and vice versa, is at the very early stages of development.  In this regard, the main purpose of this 3-year research project is to improve the physical understanding of the interconnection between magnetic reconnection and turbulence.  The main goal of the project is to develop a new technique for identifying and examining reconnection activity using gyro-kinetic simulations of plasma turbulence.  The project will support the research of an early-career female scientist, and it will provide research opportunities to undergraduate students at Dartmouth College.  These are vital for the education and training of the next generations of scientists, thus contributing to a more diverse STEM workforce in the U.S. The outcome of this research project is expected to yield an improved understanding of the connection between magnetic reconnection and space plasma turbulence, hence leading to more accurate modeling and predictions of the space weather conditions surrounding the Earth.  This will contribute to the stability, economy, and technology advancement of the society --- both nationally and globally.&lt;br/&gt;&lt;br/&gt;This 3-year research project has three science objectives. The first objective is to identify active reconnecting X-points in fully non-linear kinetic turbulence.  The second objective is to examine the properties of magnetic reconnection in Alfvenic turbulence.  The third objective is to assess the role of reconnection in the heating of magnetized turbulence.  The project is directly relevant to the NSF's Solar-Terrestrial Research program, because it would provide important knowledge and an innovative technique for understanding the nature of turbulence and reconnection in space and astrophysical plasmas.  This knowledge will be critical for the modeling and predictions of space weather from the surface of the Sun to the Earth and beyond.  The new technique will be applicable for analyzing spacecraft data from missions such as MMS, Parker Solar Probe, and Solar Orbiter.  The research and EPO agenda of this project supports the Strategic Goals of the AGS Division in discovery, learning, diversity, and interdisciplinary research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2000222</AwardID>
+<Investigator>
+<FirstName>Tak Chu</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tak Chu Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[tak.chu.li@dartmouth.edu]]></EmailAddress>
+<NSF_ID>000808224</NSF_ID>
+<StartDate>03/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yi-Hsin</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yi-Hsin Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[yhliu10@gmail.com]]></EmailAddress>
+<NSF_ID>000680271</NSF_ID>
+<StartDate>03/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Dartmouth College]]></Name>
+<CityName>HANOVER</CityName>
+<ZipCode>037552170</ZipCode>
+<PhoneNumber>6036463007</PhoneNumber>
+<StreetAddress><![CDATA[7 LEBANON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NH02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EB8ASJBCFER9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF DARTMOUTH COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>T4MWFG59C6R3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Dartmouth College]]></Name>
+<CityName>HANOVER</CityName>
+<StateCode>NH</StateCode>
+<ZipCode>037551404</ZipCode>
+<StreetAddress><![CDATA[6127 Wilder Laboratory]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NH02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152300</Code>
+<Text>SOLAR-TERRESTRIAL</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~544734</FUND_OBLG>
+<FUND_OBLG>2023~45000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp;</p> <div>SCIENCE OUTCOMES:</div> <div><br /> <div> <div>Understanding the fundamental physics in the plasma medium that surrounds the Sun-Earth system, the heliosphere, is important for advancing knowledge in heliophysics, as well as improving our capability to model and predict space weather conditions that produce events such as solar flares and geomagnetic storms that can affect our everyday life.&nbsp;</div> <div></div> <div>The primary science objectives of this project is: (i) to develop an innovative and effective technique that is widely applicable to heliophysics research, including numerical simulations and spacecraft observations, and (ii) to investigate important properties of magnetic reconnection in plasma turbulence. Magnetic reconnection is a ubiquitous process in the&nbsp;heliosphere. It releases magnetic energy from magnetic fields in plasmas. Turbulence governs the transfer of energy from large global scales to small micro scales in plasmas. Current research in heliophysics seeks to understand the fundamental process of magnetic reconnection in space plasma turbulence, but examining magnetic reconnection in complex turbulent systems has long been a highly challenging task. In this project, we have developed an innovative technique, the magnetic flux transport (MFT) method, for identifying magnetic reconnection in turbulence. MFT has been demonstrated to accurately identify reconnection in numerical simulations of turbulence. As a component on spacecraft observations, we used data from NASA's Magnetospheric Multiscale mission that orbits the Earth and collects data in the magnetospheric plasma. We demonstrated the capability and accuracy of the MFT method statistically by directly&nbsp;measuring the evidence for magnetic reconnection with MFT throughout Earth's magnetosphere. MFT has been subsequently reviewed as one of the advanced analysis methods of space observations of magnetic reconnection, contributing a Space Science Review that is in collaboration with the International Space Science Institute.</div> <div><br />Applications of the MFT method to a three-dimensional simulation of turbulence led to the discovery of highly extended reconnection lines. These reconnection lines start in small regions and extend along the magnetic field in the turbulence. The evolution of the extended reconnection is consistent with propagation of magnetic tension waves in turbulence, which highlights the interplay between magnetic reconnection and turbulent&nbsp;dynamics. The result encourages future investigations on the interconnection between the two fundamental processes.&nbsp;</div> <div><br />The project has thus provided an innovative method for identifying magnetic reconnection in turbulence that is applicable to numerical simulations and spacecraft observations, and improved our understanding of the properties of magnetic reconnection in turbulence. The science outcomes reflect the objectives of the project.&nbsp;</div> <div><br /><br />BROADER IMPACTS: <div><br />This project has important broader impacts that benefit society, especially in its contribution to the diversity and growth of the STEM field in the US. The project supported the career development of an early-career female scientist, provided research and training opportunities for a female graduate student, and mentoring opportunities for the principal investigators.&nbsp;The research project carried out by the student contributed to her PhD thesis. She graduated from UCLA and became a postdoctoral researcher at the University of Colorado Boulder in 2021, staying in the same field of heliophysics. The project also furthered the professional development of the principal investigator through co-organization of a conference session at the European Geosciences Union's 2022 General Assembly to address a timely topic in heliophysics, and promote collaboration in the heliophysics community. The project has contributed to a diverse, growing STEM field in the US.</div> </div> </div> </div> <p>&nbsp;</p><br> <p>  Last Modified: 08/27/2024<br> Modified by: Tak Chu&nbsp;Li</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2000222/2000222_10655620_1724760593854_Outcomes_NSF_2024_2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2000222/2000222_10655620_1724760593854_Outcomes_NSF_2024_2--rgov-800width.jpg" title="Science outcome"><img src="/por/images/Reports/POR/2024/2000222/2000222_10655620_1724760593854_Outcomes_NSF_2024_2--rgov-66x44.jpg" alt="Science outcome"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The discovery of highly extended reconnection lines</div> <div class="imageCredit">Tak Chu Li</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Tak Chu&nbsp;Li <div class="imageTitle">Science outcome</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2000222/2000222_10655620_1724760517476_Outcomes_NSF_2024_1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2000222/2000222_10655620_1724760517476_Outcomes_NSF_2024_1--rgov-800width.jpg" title="Science outcome"><img src="/por/images/Reports/POR/2024/2000222/2000222_10655620_1724760517476_Outcomes_NSF_2024_1--rgov-66x44.jpg" alt="Science outcome"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The magnetic flux transport method developed to identify magnetic reconnection in turbulence in numerical simulations and spacecraft observations has been applied to heliophysics research.  The goal is to understand the fundamental physics of plasmas in the Sun-Earth connected system.</div> <div class="imageCredit">Tak Chu Li</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Tak Chu&nbsp;Li <div class="imageTitle">Science outcome</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2000222/2000222_10655620_1724761289852_Outcomes_NSF_2024_3--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2000222/2000222_10655620_1724761289852_Outcomes_NSF_2024_3--rgov-800width.jpg" title="Broader Impacts"><img src="/por/images/Reports/POR/2024/2000222/2000222_10655620_1724761289852_Outcomes_NSF_2024_3--rgov-66x44.jpg" alt="Broader Impacts"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Diversity and growth of STEM</div> <div class="imageCredit">Tak Chu Li</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Tak Chu&nbsp;Li <div class="imageTitle">Broader Impacts</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   SCIENCE OUTCOMES:    Understanding the fundamental physics in the plasma medium that surrounds the Sun-Earth system, the heliosphere, is important for advancing knowledge in heliophysics, as well as improving our capability to model and predict space weather conditions that produce events such as solar flares and geomagnetic storms that can affect our everyday life.  The primary science objectives of this project is: (i) to develop an innovative and effective technique that is widely applicable to heliophysics research, including numerical simulations and spacecraft observations, and (ii) to investigate important properties of magnetic reconnection in plasma turbulence. Magnetic reconnection is a ubiquitous process in theheliosphere. It releases magnetic energy from magnetic fields in plasmas. Turbulence governs the transfer of energy from large global scales to small micro scales in plasmas. Current research in heliophysics seeks to understand the fundamental process of magnetic reconnection in space plasma turbulence, but examining magnetic reconnection in complex turbulent systems has long been a highly challenging task. In this project, we have developed an innovative technique, the magnetic flux transport (MFT) method, for identifying magnetic reconnection in turbulence. MFT has been demonstrated to accurately identify reconnection in numerical simulations of turbulence. As a component on spacecraft observations, we used data from NASA's Magnetospheric Multiscale mission that orbits the Earth and collects data in the magnetospheric plasma. We demonstrated the capability and accuracy of the MFT method statistically by directlymeasuring the evidence for magnetic reconnection with MFT throughout Earth's magnetosphere. MFT has been subsequently reviewed as one of the advanced analysis methods of space observations of magnetic reconnection, contributing a Space Science Review that is in collaboration with the International Space Science Institute.  Applications of the MFT method to a three-dimensional simulation of turbulence led to the discovery of highly extended reconnection lines. These reconnection lines start in small regions and extend along the magnetic field in the turbulence. The evolution of the extended reconnection is consistent with propagation of magnetic tension waves in turbulence, which highlights the interplay between magnetic reconnection and turbulentdynamics. The result encourages future investigations on the interconnection between the two fundamental processes.  The project has thus provided an innovative method for identifying magnetic reconnection in turbulence that is applicable to numerical simulations and spacecraft observations, and improved our understanding of the properties of magnetic reconnection in turbulence. The science outcomes reflect the objectives of the project.   BROADER IMPACTS:  This project has important broader impacts that benefit society, especially in its contribution to the diversity and growth of the STEM field in the US. The project supported the career development of an early-career female scientist, provided research and training opportunities for a female graduate student, and mentoring opportunities for the principal investigators.The research project carried out by the student contributed to her PhD thesis. She graduated from UCLA and became a postdoctoral researcher at the University of Colorado Boulder in 2021, staying in the same field of heliophysics. The project also furthered the professional development of the principal investigator through co-organization of a conference session at the European Geosciences Union's 2022 General Assembly to address a timely topic in heliophysics, and promote collaboration in the heliophysics community. The project has contributed to a diverse, growing STEM field in the US.           Last Modified: 08/27/2024       Submitted by: Tak ChuLi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

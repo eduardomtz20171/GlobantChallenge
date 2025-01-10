@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Digitization TCN: Collaborative Research: Mobilizing Millions of Marine Mollusks of the Eastern Seaboard]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>58762.00</AwardTotalIntnAmount>
+<AwardAmount>58762</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reed Beaman</SignBlockName>
+<PO_EMAI>rsbeaman@nsf.gov</PO_EMAI>
+<PO_PHON>7032927163</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Eastern Seaboard of the United States (ESB, U.S. Exclusive Economic Zone) stretches from the Canadian border on the Atlantic along nearly 6,000 km of eastern coastline, around the Floridian Peninsula, and along the Gulf of Mexico to the south end of the Texan coast, including 18 U.S. states. The ESB region is densely populated, with 47% of the U.S. population expected to inhabit the counties adjacent to the shoreline by 2021. Habitat loss, pollution, overfishing, and climate change threaten commercially and ecologically important marine species all along the ESB. This project will make occurrence data with map coordinates available for over 3,000 species of mollusks that find their habitat along the ESB, including mussels, clams, conchs, snails, and squid. Data from these ecologically and commercially important species (over 4.5 million individual specimens) will be made available through public online data portals. While the geographic ranges for many species of mollusks are well-known, the extent of their distribution within the seafloor habitats they occupy is unknown. Adding map coordinates to occurrence records for live-collected mollusks in natural history collections will provide detailed knowledge of distributions. Because natural history collections have specimens collected from the mid-1800s to present, these occurrence records can help track distributional changes over time and lead to better fisheries and conservation management.  &lt;br/&gt;&lt;br/&gt;One hundred million mollusk specimens have been documented in natural history collections across North America, and the breadth, depth, and growth of these collections is exceptionally well-known compared to other invertebrate taxa. Mollusks are among the best sampled group of animals, with some species having over 2,000 digital records available in natural history collections making them extremely well-suited for environmental and biogeographical studies that track faunal change over time and space. However, already-digitized mollusk lots are missing essential data such as collecting date (30% of records) and reliable georeferences (85% of records). This project will generate reliable geo-coordinate data for all covered specimen lots using a collaborative georeferencing project in GeoLocate.  GeoLocate will add layers for bathymetric data, benthic habitat, and marine conservation areas. Incorporating bathymetry into GeoLocate to determine the extent of locations will also provide that capability for complex elevational data for terrestrial species. Important trait data will also be incorporated. For the first time, molluscan occurrence data will distinguish between live- and dead-collected specimens, with a defined vocabulary for traits added to each record. Due to the long persistence of molluscan shells, the live/dead- collected distinction is crucial for all studies of biotic change using mollusks. Information on collecting dates will be refined where possible to increase resolution for detecting biotic changes. The data will be shared through public data repositories, including iDigBio, GBIF, OBIS, and the InvertEBase Symbiota portal.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001546</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Pearce</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy A Pearce</PI_FULL_NAME>
+<EmailAddress><![CDATA[pearcet@carnegiemnh.org]]></EmailAddress>
+<NSF_ID>000427388</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carnegie Institute]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152134080</ZipCode>
+<PhoneNumber>4126223232</PhoneNumber>
+<StreetAddress><![CDATA[4400 FORBES AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NUSUNWWJWKJ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie Institute]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152134080</ZipCode>
+<StreetAddress><![CDATA[4400 Forbes Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>085Y00</Code>
+<Text>Infrastructure Capacity for Bi</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6895</Code>
+<Text>DIGITIZATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~58762</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This digitization effort partnered Carnegie Museum of Natural History with 14 other U.S. institutions in a Thematic Collections Network (TCN) to determine coordinates and make internet-accessible an estimated 535,000 specimen lots containing 4.5 million specimens from the US east coast (ESB). Carnegie Museum of Natural History, specifically, set out to &nbsp;(a) determine coordinates from locality descriptions for its marine mollusks from the U.S. Eastern Seaboard (ESB); (b) photograph its ESB type specimens; and (c) create a museum display about marine mollusks from ESB.</p> <p>Determine coordinates from locality descriptions for marine mollusks from the U.S. Eastern Seaboard (ESB): Knowing the coordinates (e.g., latitude and longitude) where a specimen was collected allows it to be mapped, and these coordinates dramatically increase the specimen&rsquo;s use to scientists, conservation workers, land managers, and nature enthusiasts. This project determined coordinates from the locality descriptions of 11,674 mollusk records (102,642 individuals) from the U.S. Eastern Seaboard (ESB) that are housed in the Carnegie Museum of Natural History Section of Mollusks (CM). The museum made this information internet-accessible through the online data aggregator InvertEBase.org. Each specimen record corresponds with a specimen lot, which contains specimens of a single species from a single locality collected at a single time; on average, there are about 8-9 individual specimens per lot. CM&rsquo;s contribution to the project represents about 2.2% of the specimen records across the entire TCN. These enhanced, openly accessible data records facilitate varied efforts by users from researchers to hobbyists, particularly those efforts that rely on understanding distributions of organisms, including range extensions of invading species and range reductions of endangered species.</p> <p>Photograph ESB type specimens: During this project, the museum imaged seven of its primary types of marine mollusks from the ESB, including five sea snails and two scallops. Type specimens are usually the original specimen from which someone described a new species. Type specimens are immensely important to researchers because they provide a standard for recognizing the species. Having internet-accessible photographs of type specimens saves researcher effort and potential damage to the specimens by allowing researchers around the world to examine photographs of these specimens without needing to travel to Carnegie Museum.</p> <p>Create a museum display about marine mollusks from ESB: The museum&rsquo;s newly created in-gallery display, entitled &ldquo;Spotlight on Science: Where&rsquo;d you find that shell?&rdquo;, opened at Carnegie Museum on 17 May 2024, and enlightens museum visitors about shells they can find along the seashore, how sea mollusks are important for future ocean health, and how their own beachcombing activities can contribute to science as long as they record the locations where they found the shells. Two exciting features of the display are (a) a map highlighting which mollusks can be found in each of 4 north to south latitudinal zones along the east coast, and (b) speakers playing the sound of a healthy oyster reef. The exhibit briefly introduces five species of shells: quahog clams, busyconid whelks, slipper snails, moon snails, and oysters. QR codes link to blogs the museum created to give more detailed information on each of these species. Blogs discuss the cultural importance of wampum made from quahogs; how moving at a snail&rsquo;s pace influences distributions of whelk populations; the sex changing stacking of slipper snails; the predatory practices of moon snails; and the ecosystem services provided by oyster reefs and the fact that larval oysters move toward the sound of a healthy reef. This web page (<a href="https://carnegiemnh.org/explore/spotlight-on-science/">https://carnegiemnh.org/explore/spotlight-on-science/</a>) explains more about the display.</p> <p>Through this project, the museum also trained two collection assistants and 12 volunteers, including three high school students and three college students. These workers gained appreciation for how museums operate, how the information in museums is used, and gained skills in species identification, data entry and database use, georeferencing, collection management, and collection organization.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/05/2024<br> Modified by: Timothy&nbsp;A&nbsp;Pearce</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2001546/2001546_10690175_1730831441472_Where_you_got_that_shell--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2001546/2001546_10690175_1730831441472_Where_you_got_that_shell--rgov-800width.jpg" title="Where you got that shell"><img src="/por/images/Reports/POR/2024/2001546/2001546_10690175_1730831441472_Where_you_got_that_shell--rgov-66x44.jpg" alt="Where you got that shell"></a> <div class="imageCaptionContainer"> <div class="imageCaption">US Eastern Seaboard display at Carnegie Museum of Natural History, shows marine mollusks of eastern US and their relevance.</div> <div class="imageCredit">Sabrina Spiher Robinson</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Timothy&nbsp;A&nbsp;Pearce <div class="imageTitle">Where you got that shell</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2001546/2001546_10690175_1730831093651_US_Eastern_Seaboard_4_zones--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2001546/2001546_10690175_1730831093651_US_Eastern_Seaboard_4_zones--rgov-800width.jpg" title="Eastern Seaboard four zones"><img src="/por/images/Reports/POR/2024/2001546/2001546_10690175_1730831093651_US_Eastern_Seaboard_4_zones--rgov-66x44.jpg" alt="Eastern Seaboard four zones"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Carnegie Museum Display showing US Eastern Seaboard in four zones with mollusks found in each zone; also plays sound of a healthy oyster reef.</div> <div class="imageCredit">Sabrina Spiher Robinson</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Timothy&nbsp;A&nbsp;Pearce <div class="imageTitle">Eastern Seaboard four zones</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This digitization effort partnered Carnegie Museum of Natural History with 14 other U.S. institutions in a Thematic Collections Network (TCN) to determine coordinates and make internet-accessible an estimated 535,000 specimen lots containing 4.5 million specimens from the US east coast (ESB). Carnegie Museum of Natural History, specifically, set out to (a) determine coordinates from locality descriptions for its marine mollusks from the U.S. Eastern Seaboard (ESB); (b) photograph its ESB type specimens; and (c) create a museum display about marine mollusks from ESB.   Determine coordinates from locality descriptions for marine mollusks from the U.S. Eastern Seaboard (ESB): Knowing the coordinates (e.g., latitude and longitude) where a specimen was collected allows it to be mapped, and these coordinates dramatically increase the specimens use to scientists, conservation workers, land managers, and nature enthusiasts. This project determined coordinates from the locality descriptions of 11,674 mollusk records (102,642 individuals) from the U.S. Eastern Seaboard (ESB) that are housed in the Carnegie Museum of Natural History Section of Mollusks (CM). The museum made this information internet-accessible through the online data aggregator InvertEBase.org. Each specimen record corresponds with a specimen lot, which contains specimens of a single species from a single locality collected at a single time; on average, there are about 8-9 individual specimens per lot. CMs contribution to the project represents about 2.2% of the specimen records across the entire TCN. These enhanced, openly accessible data records facilitate varied efforts by users from researchers to hobbyists, particularly those efforts that rely on understanding distributions of organisms, including range extensions of invading species and range reductions of endangered species.   Photograph ESB type specimens: During this project, the museum imaged seven of its primary types of marine mollusks from the ESB, including five sea snails and two scallops. Type specimens are usually the original specimen from which someone described a new species. Type specimens are immensely important to researchers because they provide a standard for recognizing the species. Having internet-accessible photographs of type specimens saves researcher effort and potential damage to the specimens by allowing researchers around the world to examine photographs of these specimens without needing to travel to Carnegie Museum.   Create a museum display about marine mollusks from ESB: The museums newly created in-gallery display, entitled Spotlight on Science: Whered you find that shell?, opened at Carnegie Museum on 17 May 2024, and enlightens museum visitors about shells they can find along the seashore, how sea mollusks are important for future ocean health, and how their own beachcombing activities can contribute to science as long as they record the locations where they found the shells. Two exciting features of the display are (a) a map highlighting which mollusks can be found in each of 4 north to south latitudinal zones along the east coast, and (b) speakers playing the sound of a healthy oyster reef. The exhibit briefly introduces five species of shells: quahog clams, busyconid whelks, slipper snails, moon snails, and oysters. QR codes link to blogs the museum created to give more detailed information on each of these species. Blogs discuss the cultural importance of wampum made from quahogs; how moving at a snails pace influences distributions of whelk populations; the sex changing stacking of slipper snails; the predatory practices of moon snails; and the ecosystem services provided by oyster reefs and the fact that larval oysters move toward the sound of a healthy reef. This web page (https://carnegiemnh.org/explore/spotlight-on-science/) explains more about the display.   Through this project, the museum also trained two collection assistants and 12 volunteers, including three high school students and three college students. These workers gained appreciation for how museums operate, how the information in museums is used, and gained skills in species identification, data entry and database use, georeferencing, collection management, and collection organization.        Last Modified: 11/05/2024       Submitted by: TimothyAPearce]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: SARE: Security and Functionality of Energy Storage Devices from an External Electromagnetic Attack]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ale Lukaszew</SignBlockName>
+<PO_EMAI>rlukasze@nsf.gov</PO_EMAI>
+<PO_PHON>7032928103</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project supports fundamental research that contributes to new knowledge in the safety and security of energy storage devices under an electromagnetic attack. Energy storage devices are ubiquitous in the modern world, but they are very sensitive to electromagnetic radiation originating from internal devices or external sources. This project investigates the impact of electromagnetic radiation on the state of energy storage devices and their health/safety conditions. The research outcomes will enable the development of technologies and energy storage system designs that can detect, mitigate, and prevent detrimental interference from electromagnetic radiation and to protect the performance, safety, and security of energy storage devices used in the healthcare, energy, biomedical, aerospace, and chemical and automotive industries, which benefit the U.S. economy and society. This research involves several disciplines including electrochemistry, electromagnetics, manufacturing, control, and materials science. The multi-disciplinary approach helps broaden the participation of women and underrepresented groups in research and positively impacts engineering/science education and training.&lt;br/&gt;&lt;br/&gt;The project studies the fundamental relationship between electromagnetic fields and the performance, safety, and security of energy storage devices and their management systems through non-destructive experimental measurements. The study will identify the effects of electromagnetic radiation on battery status and electrochemical behavior, including state of charge, state of health, battery degradation physics, and cycling performance. The study explores the possible damage or accelerated degradation due to overcharge and over-discharge caused by the excess current generation from electromagnetic radiation. The team tests different operating conditions (current, voltage range) and temperature, device design, packing, and chemistry by an integrated measurement coupled with an electrochemical and electromagnetic field scan analysis. Furthermore, the effects of the strength, frequency, and direction of electromagnetic field on battery damage and degradation are examined by measuring the battery degradation and functionality. The study also relies on a coupled electrochemical-electromagnetic model with degradation physics, along with advanced material characterization technique to improve the understanding of the non-destructive measurement results.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028992</AwardID>
+<Investigator>
+<FirstName>Jonghyun</FirstName>
+<LastName>Park</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonghyun Park</PI_FULL_NAME>
+<EmailAddress><![CDATA[parkjonghy@mst.edu]]></EmailAddress>
+<NSF_ID>000677836</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chulsoon</FirstName>
+<LastName>Hwang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chulsoon Hwang</PI_FULL_NAME>
+<EmailAddress><![CDATA[hwangc@mst.edu]]></EmailAddress>
+<NSF_ID>000735116</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>ROLLA</CityName>
+<ZipCode>654091330</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress><![CDATA[300 W. 12TH STREET]]></StreetAddress>
+<StreetAddress2><![CDATA[202 CENTENNIAL HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y6MGH342N169</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>Rolla</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>654096506</ZipCode>
+<StreetAddress><![CDATA[300 W 12th Street, 202 Centennia]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>089Z</Code>
+<Text>Materials Under Extreme Conditions</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>098E</Code>
+<Text>Antennas and Electromagnetics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The goal of this project was to understand the impact of electromagnetic fields on battery performance and to utilize the findings to enhance battery performance. Two important achievements were understanding the role of bulk current injection (BCI) on battery performance and leveraging this knowledge for fast charging and low-temperature operation.</p>  <p>First, BCI has proven to be a promising technique for enhancing the fast-charging performance of lithium-ion batteries by addressing key issues such as lithium plating, thermal instability, and side reactions at high states of charge (SOC). This targeted application helped prevent uneven lithium-ion deposition, thereby reducing the risk of dendrite formation. When BCI was activated, the terminal voltage exhibited a momentary drop followed by rapid stabilization, indicating improved ion transport and reduced internal resistance within the cell. This behavior translated into a measurable increase in specific capacity, which consistently remained higher in cycles where BCI was applied. Additionally, the slope of capacity fade in these cycles was noticeably gentler, demonstrating that BCI improved the long-term electrochemical stability of the batteries. However, BCI exposure also increased cell temperature, which could exacerbate side reactions if not carefully managed. By optimizing the timing and duration of BCI application&mdash;particularly by limiting its use to high SOC levels&mdash;the study achieved faster charge acceptance while minimizing thermal and electrochemical degradation.</p>  <p>Second, beyond improving fast charging, BCI proved to be a powerful tool for thermal management, especially under extreme temperature conditions. At room temperature, brief and optimized BCI exposure effectively suppressed lithium plating and improved charge acceptance while keeping heat generation within acceptable limits. In colder environments, such as -10&deg;C, continuous BCI application served as a controlled heating mechanism, raising the battery&rsquo;s operational temperature to near-ambient levels and mitigating the adverse effects of reduced ion mobility. This heating allowed for stable charge and discharge cycles, ensuring consistent electrochemical performance even in sub-zero temperatures. Thermal analysis revealed that, without BCI, cells experienced a significant decline in performance under cold conditions, whereas BCI application maintained both specific capacity and thermal stability. At room temperature, careful timing of BCI use prevented overheating, while in cold environments, it sustained operational efficiency by counteracting temperature-induced performance drops.</p>  <p>These findings underscore BCI&rsquo;s versatility as both a performance enhancement tool and a thermal management solution. The dual benefits of enhanced charging capabilities and effective temperature control make BCI a promising strategy for advancing lithium-ion battery technologies, particularly in applications requiring reliable operation under diverse environmental conditions, such as electric vehicles and energy storage systems.</p>  <p>Regarding education, three PhD students and two undergraduate students participated in the project, gaining exposure to cutting-edge battery manufacturing and characterization. Training in fabrication, assembly of lithium-ion battery coin cells, battery testing, BCI generation, and characterization has equipped them with skills and critical thinking for their future careers. For the dissemination of research outcomes, three journal papers been published, with three manuscripts pending. The PIs or their PhD students have presented their findings in several presentations.</p>  <p>The findings and techniques developed through this project are poised to make a substantial impact on battery technology by deepening the understanding of BCI in lithium-ion batteries. This research introduces novel insights into enhancing specific capacity, mitigating lithium plating, and optimizing battery performance under extreme conditions. By investigating the effects of BCI on various materials and frequencies, the project broadens the knowledge base and opens new avenues for innovative battery design. The methodologies developed, including high-frequency modeling and thermal management strategies, serve as valuable tools for both theoretical exploration and practical applications.</p>  <p>Furthermore, the interdisciplinary approach and training initiatives established during the project will play a pivotal role in shaping the next generation of researchers and professionals, driving advancements in battery technology and energy storage. The project&rsquo;s findings are expected to influence multiple disciplines, such as materials science, electrical engineering, and thermal management. The insights gained into BCI optimization have the potential to enhance other electrochemical systems and energy storage technologies, benefiting industries including electronics, electric vehicles, and renewable energy.</p>  <p>Additionally, the focus on thermal and electrochemical characterization methods could lead to advancements in sensor technology and environmental monitoring. By fostering collaboration and innovation across fields, the project&rsquo;s interdisciplinary framework lays the groundwork for applications in energy systems, medical devices, and other sectors that demand precise energy management and material property control.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/20/2024<br> Modified by: Jonghyun&nbsp;Park</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The goal of this project was to understand the impact of electromagnetic fields on battery performance and to utilize the findings to enhance battery performance. Two important achievements were understanding the role of bulk current injection (BCI) on battery performance and leveraging this knowledge for fast charging and low-temperature operation.    First, BCI has proven to be a promising technique for enhancing the fast-charging performance of lithium-ion batteries by addressing key issues such as lithium plating, thermal instability, and side reactions at high states of charge (SOC). This targeted application helped prevent uneven lithium-ion deposition, thereby reducing the risk of dendrite formation. When BCI was activated, the terminal voltage exhibited a momentary drop followed by rapid stabilization, indicating improved ion transport and reduced internal resistance within the cell. This behavior translated into a measurable increase in specific capacity, which consistently remained higher in cycles where BCI was applied. Additionally, the slope of capacity fade in these cycles was noticeably gentler, demonstrating that BCI improved the long-term electrochemical stability of the batteries. However, BCI exposure also increased cell temperature, which could exacerbate side reactions if not carefully managed. By optimizing the timing and duration of BCI applicationparticularly by limiting its use to high SOC levelsthe study achieved faster charge acceptance while minimizing thermal and electrochemical degradation.    Second, beyond improving fast charging, BCI proved to be a powerful tool for thermal management, especially under extreme temperature conditions. At room temperature, brief and optimized BCI exposure effectively suppressed lithium plating and improved charge acceptance while keeping heat generation within acceptable limits. In colder environments, such as -10C, continuous BCI application served as a controlled heating mechanism, raising the batterys operational temperature to near-ambient levels and mitigating the adverse effects of reduced ion mobility. This heating allowed for stable charge and discharge cycles, ensuring consistent electrochemical performance even in sub-zero temperatures. Thermal analysis revealed that, without BCI, cells experienced a significant decline in performance under cold conditions, whereas BCI application maintained both specific capacity and thermal stability. At room temperature, careful timing of BCI use prevented overheating, while in cold environments, it sustained operational efficiency by counteracting temperature-induced performance drops.    These findings underscore BCIs versatility as both a performance enhancement tool and a thermal management solution. The dual benefits of enhanced charging capabilities and effective temperature control make BCI a promising strategy for advancing lithium-ion battery technologies, particularly in applications requiring reliable operation under diverse environmental conditions, such as electric vehicles and energy storage systems.    Regarding education, three PhD students and two undergraduate students participated in the project, gaining exposure to cutting-edge battery manufacturing and characterization. Training in fabrication, assembly of lithium-ion battery coin cells, battery testing, BCI generation, and characterization has equipped them with skills and critical thinking for their future careers. For the dissemination of research outcomes, three journal papers been published, with three manuscripts pending. The PIs or their PhD students have presented their findings in several presentations.    The findings and techniques developed through this project are poised to make a substantial impact on battery technology by deepening the understanding of BCI in lithium-ion batteries. This research introduces novel insights into enhancing specific capacity, mitigating lithium plating, and optimizing battery performance under extreme conditions. By investigating the effects of BCI on various materials and frequencies, the project broadens the knowledge base and opens new avenues for innovative battery design. The methodologies developed, including high-frequency modeling and thermal management strategies, serve as valuable tools for both theoretical exploration and practical applications.    Furthermore, the interdisciplinary approach and training initiatives established during the project will play a pivotal role in shaping the next generation of researchers and professionals, driving advancements in battery technology and energy storage. The projects findings are expected to influence multiple disciplines, such as materials science, electrical engineering, and thermal management. The insights gained into BCI optimization have the potential to enhance other electrochemical systems and energy storage technologies, benefiting industries including electronics, electric vehicles, and renewable energy.    Additionally, the focus on thermal and electrochemical characterization methods could lead to advancements in sensor technology and environmental monitoring. By fostering collaboration and innovation across fields, the projects interdisciplinary framework lays the groundwork for applications in energy systems, medical devices, and other sectors that demand precise energy management and material property control.         Last Modified: 12/20/2024       Submitted by: JonghyunPark]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Operator theoretic methods for identification and verification of dynamical systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>229350.00</AwardTotalIntnAmount>
+<AwardAmount>237350</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Kuh</SignBlockName>
+<PO_EMAI>akuh@nsf.gov</PO_EMAI>
+<PO_PHON>7032924714</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Widespread use of automation in many sectors of society has yielded a large amount of data regarding historical behaviors for a variety of dynamical systems, such as unmanned aerial, marine, and ground vehicles, biological systems, and weather systems. This project aims to develop novel algorithms to discover governing rules that explain the observed behaviors (i.e., trajectories) of dynamical systems. Discovery of underlying models, while useful for analysis and control, can be computationally challenging. For example, traditional modeling methods rely on derivatives, and can be hampered by even modest amounts of measurement noise that derails numerical differentiation. Such methods treat each measurement of the output of a dynamical system as a separate data point. The data points are then related back to the underlying model using numerical differentiation. Instead, in this project, the entire trajectory is treated as a unit of interest. The sequence of measured data points is treated as a sampled, noisy representation of that trajectory, and is related back to the underlying model using numerical integration. It is hypothesized that treating trajectories of dynamical systems as the fundamental unit of data can yield better data-driven techniques for analysis and control of dynamical systems, and this project aims to develop such data-driven identification and verification techniques. To broaden the impact of the research, the team will also develop week-long workshops for undergraduate students that teach data science and artificial intelligence (AI) concepts through video games. To facilitate early introduction to machine learning, the team will also develop versions of the AI workshops that are suitable to be offered during high school summer camps.&lt;br/&gt; &lt;br/&gt;The specific aim of this project is to develop a new theoretical framework to process a large amount of time-series data and to apply the framework to yield robust and flexible tools for the study of nonlinear dynamical systems. In the proposed approach, trajectory information is embedded in a reproducing kernel Hilbert space (RKHS) through what are called occupation kernels. The occupation kernels are tied to the original dynamics through a densely defined operator, the Liouville operator. Occupation kernels and Liouville operators result in a nontrivial generalization of contemporary methods that study finite-dimensional nonlinear optimization problems by lifting them into infinite dimensional linear programs over the spaces of measures. The proposed approach facilitates lifting into linear programs over function spaces instead of measure spaces, and as a result, tools from function theory and approximation theory become available for design and analysis of algorithms. The specific aims of the project include: studying fundamental properties of occupation kernels and Liouville operators over RKHSs, applications to nonlinear system identification, study of the pre-inner product space that results from the action of the adjoint of a Liouville operator on an occupation kernel, and applications of the framework to solve motion tomography problems. The developed tools will be validated by solving identification and verification problems for unmanned ground, air, or underwater vehicles.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027976</AwardID>
+<Investigator>
+<FirstName>Joel</FirstName>
+<LastName>Rosenfeld</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joel A Rosenfeld</PI_FULL_NAME>
+<EmailAddress><![CDATA[rosenfeldj@usf.edu]]></EmailAddress>
+<NSF_ID>000678999</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of South Florida]]></Name>
+<CityName>TAMPA</CityName>
+<ZipCode>336205800</ZipCode>
+<PhoneNumber>8139742897</PhoneNumber>
+<StreetAddress><![CDATA[4202 E FOWLER AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NKAZLXLL7Z91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTH FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Florida]]></Name>
+<CityName/>
+<StateCode>FL</StateCode>
+<ZipCode>336205700</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>760700</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>092E</Code>
+<Text>Control systems &amp; applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~229350</FUND_OBLG>
+<FUND_OBLG>2021~8000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Intellectual Merit</p>  <p>Better understanding of engineering and physical systems allows for us to predict and control the outcomes of an experiment or task. Classically, simple systems were described using "first principles" or, essentially, Newton's Laws of Motion. However, today we wish to make predictions concerning many complicated and interconnected systems, where descriptions of the dynamics using first principles are either intractible or impossible. This drives the need for computational tools that can discover either the complete dynamics from a few observations, to identify and describe critical subsystems, or to at least capture the dominant behavior of the system.</p>  <p>Research into system identification is a very important and contemporary, and while there are many extant approaches to this problem, there is still a large number of open questions conerning how to best approach it; including the best approach to mathematically embed observed examples or data, and how to best leverage those embeddings to produce a model for an observed system.</p>  <p>When we first introduced our approach to parameter identification in a pre-print in 2019, the current standard was the SINDy method, which required numerical derivatives of the trajectories and then used an l1 regularization to obtain a reduced order model for the system. However, the use of numerical derivatives stacked a second ill-posed problem on top of the problem for system identification. Our approach turned this problem on its head and used numerical integration combined with the chain rule instead, which was recently published in SIAM's Journal of Control and Optimization. Since this time that our preprint was available, there have been a number of integral based approaches that have emerged, most notably weak SINDy, that addressed the same weaknesses that we first observed. And as noted above, we have begun to generalize this weak SINDy method to an operator theoretic method using weighted composition operators.</p>  <p>Our approach hinged on a theoretical basis that used RKHSs and occupation kernels. These same occupation kernels now allow for an embedding of trajectory data as a function in a Hilbert space, and this embedding can be used in a variety of ways. One such way is as a generalization of the radon transform, which was discussed in previous reports for motion tomography. These embeddings can also be leveraged for operator theoretic learning. In particular, our occupation kernel allow for the Koopman composition operator to be bypassed in Dynamic Mode Decompositions. Bypassing the Koopman operator means that we can learn a continuous time dynamical system directly and without an artificial discretization that gets introduced when a time step is selected for the definition of the Koopman operator. Instead, we leveraged Liouville operators, and these Liouville operators depend on the dynamics in a linear fashion, which allows for the integration of partial knowledge as demonstrated in Year 3 efforts. Our work has given the first point-wise convergent DMD routine through the singular DMD algorithm, which is a major theoretical breakthrough for DMD routines, which have in the past only guaranteed almost everywhere convergence, potentially allowing failure on an uncountable number of points.</p>  <p>---</p>  <p>Broader Impacts</p>  <p>In addition to the research outcomes described above and in the publication list, this project led to the development of several new graduate courses, online educational resources accessible to the public, several research talks, and workshops. It also contributed to funding three PhD students, one whom graduated during the project.</p>  <p>The three graduate courses that were developed were an Introduction to Tomography, Data Driven Methods in Dynamical Systems, and An Introduction to Control Theory. Each of these courses directly related to the content of the proposal, where the efforts of the proposal essentially generalize the methods of Computed Tomography and medical imaging and adapt them to the identification of dynamical systems. Data Driven Method in Dynamical Systems was designed to communicate specifically the achievements made during this project, and An Introduction to Control Theory serves as an introduction to the discpline of control theory where these system identification techniques are frequently applied.</p>  <p>Three workshops were held at three different conferences. In 2020 we conducted a workshop at the American Control Conference titled "Exploring Interplay between Dynamical Systems and Function Spaces: A Unifying Presentationof Dynamics Mode Decomposition and Occupation Measures," at the&nbsp;25th International Symposium on Mathematical Theory of Networks and Systems &ldquo;Lifting Techniques for Data-Driven Modeling and Control" in 2022, and&nbsp;at the&nbsp;26th International Symposium on Mathematical Theory of Networks and Systems "Operator Theoretic Methods in Identification and Control" in 2024.</p>  <p>Finally, several YouTube playlists were created to help communicate the results of the project, each corresponding to the above mentioned graduate courses and can be found at http://www.thatmaththing.com/, which leads to the ThatMathThing YouTube Channel.</p><br> <p>  Last Modified: 11/29/2024<br> Modified by: Joel&nbsp;A&nbsp;Rosenfeld</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit    Better understanding of engineering and physical systems allows for us to predict and control the outcomes of an experiment or task. Classically, simple systems were described using "first principles" or, essentially, Newton's Laws of Motion. However, today we wish to make predictions concerning many complicated and interconnected systems, where descriptions of the dynamics using first principles are either intractible or impossible. This drives the need for computational tools that can discover either the complete dynamics from a few observations, to identify and describe critical subsystems, or to at least capture the dominant behavior of the system.    Research into system identification is a very important and contemporary, and while there are many extant approaches to this problem, there is still a large number of open questions conerning how to best approach it; including the best approach to mathematically embed observed examples or data, and how to best leverage those embeddings to produce a model for an observed system.    When we first introduced our approach to parameter identification in a pre-print in 2019, the current standard was the SINDy method, which required numerical derivatives of the trajectories and then used an l1 regularization to obtain a reduced order model for the system. However, the use of numerical derivatives stacked a second ill-posed problem on top of the problem for system identification. Our approach turned this problem on its head and used numerical integration combined with the chain rule instead, which was recently published in SIAM's Journal of Control and Optimization. Since this time that our preprint was available, there have been a number of integral based approaches that have emerged, most notably weak SINDy, that addressed the same weaknesses that we first observed. And as noted above, we have begun to generalize this weak SINDy method to an operator theoretic method using weighted composition operators.    Our approach hinged on a theoretical basis that used RKHSs and occupation kernels. These same occupation kernels now allow for an embedding of trajectory data as a function in a Hilbert space, and this embedding can be used in a variety of ways. One such way is as a generalization of the radon transform, which was discussed in previous reports for motion tomography. These embeddings can also be leveraged for operator theoretic learning. In particular, our occupation kernel allow for the Koopman composition operator to be bypassed in Dynamic Mode Decompositions. Bypassing the Koopman operator means that we can learn a continuous time dynamical system directly and without an artificial discretization that gets introduced when a time step is selected for the definition of the Koopman operator. Instead, we leveraged Liouville operators, and these Liouville operators depend on the dynamics in a linear fashion, which allows for the integration of partial knowledge as demonstrated in Year 3 efforts. Our work has given the first point-wise convergent DMD routine through the singular DMD algorithm, which is a major theoretical breakthrough for DMD routines, which have in the past only guaranteed almost everywhere convergence, potentially allowing failure on an uncountable number of points.    ---    Broader Impacts    In addition to the research outcomes described above and in the publication list, this project led to the development of several new graduate courses, online educational resources accessible to the public, several research talks, and workshops. It also contributed to funding three PhD students, one whom graduated during the project.    The three graduate courses that were developed were an Introduction to Tomography, Data Driven Methods in Dynamical Systems, and An Introduction to Control Theory. Each of these courses directly related to the content of the proposal, where the efforts of the proposal essentially generalize the methods of Computed Tomography and medical imaging and adapt them to the identification of dynamical systems. Data Driven Method in Dynamical Systems was designed to communicate specifically the achievements made during this project, and An Introduction to Control Theory serves as an introduction to the discpline of control theory where these system identification techniques are frequently applied.    Three workshops were held at three different conferences. In 2020 we conducted a workshop at the American Control Conference titled "Exploring Interplay between Dynamical Systems and Function Spaces: A Unifying Presentationof Dynamics Mode Decomposition and Occupation Measures," at the25th International Symposium on Mathematical Theory of Networks and Systems Lifting Techniques for Data-Driven Modeling and Control" in 2022, andat the26th International Symposium on Mathematical Theory of Networks and Systems "Operator Theoretic Methods in Identification and Control" in 2024.    Finally, several YouTube playlists were created to help communicate the results of the project, each corresponding to the above mentioned graduate courses and can be found at http://www.thatmaththing.com/, which leads to the ThatMathThing YouTube Channel.     Last Modified: 11/29/2024       Submitted by: JoelARosenfeld]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

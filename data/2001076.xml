@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Biomimetic Redox Chemistry for Antiviral Application]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>302958.00</AwardTotalIntnAmount>
+<AwardAmount>302958</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nitsa Rosenzweig</SignBlockName>
+<PO_EMAI>nirosenz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927256</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>PART 1:   NON-TECHNICAL SUMMARY&lt;br/&gt; &lt;br/&gt;Reactive oxygen species (ROS) can be used to disinfect a wide range of pathogens, such as viruses, bacteria, and fungi. ROS is an attractive disinfectant as it decomposes into non-toxic degradation products (water and oxygen). However, ROS is highly reactive and can be hazardous to store and transport. This project aims at utilizing a unique chemistry found in mussel adhesive proteins to create a portable biomaterial that can be activated to generate ROS. The antiviral capability of the generated ROS will be tested against different viruses with varying properties and levels of chemical resistance. The biomaterial itself does not contain ROS and is only activated to generate ROS by a simple hydration process. The proposed biomimetic material can potentially be used as a portable, light-weight disinfectant for preventing viral infection. The proposed research will engage undergraduate and graduate students, as well as underrepresented community college students, in interdisciplinary research involving polymeric materials, biomimetic chemistry, and antiviral research. Additionally, investigators will develop a new polymeric biomaterials module as part of the Michigan Technology University Summer Youth Program to introduce high school students in hands-on activities related to the use of biomaterials as a drug carrier. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;PART 2:   TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;The proposed work aims at harvesting the byproduct of a unique reduction-oxidation chemistry found in mussel adhesive proteins for antiviral application. Polymers are functionalized with the adhesive molecule, catechol, which generate hydrogen peroxide during autoxidation. To enhance the antiviral capability of catechol-containing materials, polymer architecture and composition, as well as the reactivity of catechol will be tuned to create polymer systems that are optimized to generate potent radical-based ROS, such as superoxide anion and hydroxyl radical. The ability for the generated ROS to inactivate both enveloped and non-enveloped viruses as well as a herpes virus will be explored. Results from this proposal will provide a greater understanding on the dose, duration, and type of ROS needed to inactivate different types of viruses with varying properties and levels of biocide resistance. ROS is generated on-demand when the material is hydrated in an aqueous solution with neutral pH. This process involves the conversion of molecular oxygen in the solution to ROS, through the oxidation of the catechol moiety. This approach is drastically different from other existing approaches that contain ROS, require externally provided chemical reactants, or require external energy sources to generate ROS. The material does not contain a reservoir for storing the reactive ROS, which greatly simplifies how it could be stored and transported.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001076</AwardID>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruce P Lee</PI_FULL_NAME>
+<EmailAddress><![CDATA[bplee@mtu.edu]]></EmailAddress>
+<NSF_ID>000606183</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Caryn</FirstName>
+<LastName>Heldt</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Caryn Heldt</PI_FULL_NAME>
+<EmailAddress><![CDATA[heldt@mtu.edu]]></EmailAddress>
+<NSF_ID>000571994</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan Technological University]]></Name>
+<CityName>HOUGHTON</CityName>
+<ZipCode>499311200</ZipCode>
+<PhoneNumber>9064871885</PhoneNumber>
+<StreetAddress><![CDATA[1400 TOWNSEND DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GKMSN3DA6P91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN TECHNOLOGICAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GKMSN3DA6P91</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan Technological University]]></Name>
+<CityName>Houghton</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>499311295</ZipCode>
+<StreetAddress><![CDATA[1400 Townsend Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>762300</Code>
+<Text>BIOMATERIALS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~80586</FUND_OBLG>
+<FUND_OBLG>2021~108979</FUND_OBLG>
+<FUND_OBLG>2022~113393</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Catechol is an adhesive moiety found in mussel adhesive proteins. When it oxidizes, it generates reactive oxygen species (ROS) as a byproduct. ROS is a broad-spectrum biocide that is effective against a wide range of pathogens (e.g., viruses, bacteria, fungi) and is produced by inflammatory cells as a natural disinfectant and can promote wound healing. This project aimed at leveraging this unique biomimetic chemistry to engineer novel biomaterials for antiviral applications. We created a variety of biomaterials ranging from microgels to surface coatings that contain catechol. When these biomaterials are hydrated by an aqueous solution, molecular oxygen in the solution oxidizes catechol to generate ROS, such as hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>). In essence, these biomaterials can be activated by water to release the disinfectant on command.</p> <p>Microgels were created to continuously generate millimolar levels of H<sub>2</sub>O<sub>2</sub> over a period of 4 days and the generated H<sub>2</sub>O<sub>2</sub> effectively killed both Gram-positive and Gram-negative bacteria and disinfected viruses. However, H<sub>2</sub>O<sub>2</sub> is a mild disinfectant and was only partially effective against non-enveloped porcine parvovirus (PPV). PPV was used as a model virus for human parvovirus B19. PPV is a highly chemical resistant virus and challenging to inactivate. To increase the antiviral activity of the microgel, an iron-containing compound, hematin, was further attached on to the microgel (Figure 1). Iron converted the catechol-generated H<sub>2</sub>O<sub>2</sub> to a more potent hydroxy radical, which reduced the infectivity of PPV and an enveloped bovine viral diarrhea virus (BVDV) by 99.97 and 99.997%, respectively. The generated hydroxy radical was also effective in degrading organic dyes. Given the extremely short half-life (10<sup>&minus;9</sup> s) of hydroxy radical, the ability to generate hydroxy radicals on command makes this biomaterial an attractive option for in-situ generation of the radical. This microgel is potentially suitable to function as a portable source for releasing disinfectants for water purification.</p> <p>A coating that can be activated by moisture found in the respiratory droplets could be a convenient and effective way to control the spread of airborne pathogens and reduce fomite transmission. We coated a self-disinfecting coating on the surface of polypropylene (PP) fabric, a material often used in the fabrication of face masks (Figure 2). To enable the coating to generate sufficient levels of H<sub>2</sub>O<sub>2</sub> using the limited amount of moisture found in respiratory droplets, chemically modified catechol with enhanced oxidation rate was utilized. The self-disinfecting coating effectively killed both Gram-positive and Gram-negative bacteria and reduced the infectivity of both BVDV and human coronavirus 229E by as much as 99.7%. The reported self-disinfecting coating can potentially minimize users&rsquo; unintended exposure to the disinfectants. Unlike other existing coatings that are activated by externally applied stimuli such as heat and light, our moisture-activated coating provides an alternative solution that does not require a user to actively turn "on" or "off" the antipathogenic function.</p> <p>Technology generated from this NSF award potentially has long lasting societal impacts. ROS is an ideal disinfectant because it decomposes into benign degradation products, oxygen and water. However, ROS is hazardous to store and transport. Our material does not contain ROS and ROS is only generated upon hydration. The simplicity in the fabrication, activation, storage and transport of these biomaterials enable this technology to function as a source of disinfectant for a wide range of applications, ranging from wound dressing for military personnel to disinfectant for hospitals or surgery suites in underdeveloped countries. Additionally, the ability for the proposed material to generate the more potent free radical-based ROS will enable it to function as a potable biomaterial for water decontamination.</p><br> <p>  Last Modified: 08/05/2024<br> Modified by: Bruce&nbsp;P&nbsp;Lee</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2001076/2001076_10678506_1722793949805_Picture1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2001076/2001076_10678506_1722793949805_Picture1--rgov-800width.jpg" title="Figure 1"><img src="/por/images/Reports/POR/2024/2001076/2001076_10678506_1722793949805_Picture1--rgov-66x44.jpg" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Portable, dry powder-based disinfectant that generates potent reactive oxygen species when hydrated, and can be used to kill bacteria, inactivate viruses, and degrade organic dyes.</div> <div class="imageCredit">Bruce Lee</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Bruce&nbsp;P&nbsp;Lee <div class="imageTitle">Figure 1</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2001076/2001076_10678506_1722793761604_Picture2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2001076/2001076_10678506_1722793761604_Picture2--rgov-800width.jpg" title="Figure 2"><img src="/por/images/Reports/POR/2024/2001076/2001076_10678506_1722793761604_Picture2--rgov-66x44.jpg" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Polymer fabric coated with self-disinfecting coating which could be activated by respiratory droplet to generate hydrogen peroxide as a disinfectant for killing bacteria and inactivating viruses.</div> <div class="imageCredit">Bruce Lee</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Bruce&nbsp;P&nbsp;Lee <div class="imageTitle">Figure 2</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Catechol is an adhesive moiety found in mussel adhesive proteins. When it oxidizes, it generates reactive oxygen species (ROS) as a byproduct. ROS is a broad-spectrum biocide that is effective against a wide range of pathogens (e.g., viruses, bacteria, fungi) and is produced by inflammatory cells as a natural disinfectant and can promote wound healing. This project aimed at leveraging this unique biomimetic chemistry to engineer novel biomaterials for antiviral applications. We created a variety of biomaterials ranging from microgels to surface coatings that contain catechol. When these biomaterials are hydrated by an aqueous solution, molecular oxygen in the solution oxidizes catechol to generate ROS, such as hydrogen peroxide (H2O2). In essence, these biomaterials can be activated by water to release the disinfectant on command.   Microgels were created to continuously generate millimolar levels of H2O2 over a period of 4 days and the generated H2O2 effectively killed both Gram-positive and Gram-negative bacteria and disinfected viruses. However, H2O2 is a mild disinfectant and was only partially effective against non-enveloped porcine parvovirus (PPV). PPV was used as a model virus for human parvovirus B19. PPV is a highly chemical resistant virus and challenging to inactivate. To increase the antiviral activity of the microgel, an iron-containing compound, hematin, was further attached on to the microgel (Figure 1). Iron converted the catechol-generated H2O2 to a more potent hydroxy radical, which reduced the infectivity of PPV and an enveloped bovine viral diarrhea virus (BVDV) by 99.97 and 99.997%, respectively. The generated hydroxy radical was also effective in degrading organic dyes. Given the extremely short half-life (109 s) of hydroxy radical, the ability to generate hydroxy radicals on command makes this biomaterial an attractive option for in-situ generation of the radical. This microgel is potentially suitable to function as a portable source for releasing disinfectants for water purification.   A coating that can be activated by moisture found in the respiratory droplets could be a convenient and effective way to control the spread of airborne pathogens and reduce fomite transmission. We coated a self-disinfecting coating on the surface of polypropylene (PP) fabric, a material often used in the fabrication of face masks (Figure 2). To enable the coating to generate sufficient levels of H2O2 using the limited amount of moisture found in respiratory droplets, chemically modified catechol with enhanced oxidation rate was utilized. The self-disinfecting coating effectively killed both Gram-positive and Gram-negative bacteria and reduced the infectivity of both BVDV and human coronavirus 229E by as much as 99.7%. The reported self-disinfecting coating can potentially minimize users unintended exposure to the disinfectants. Unlike other existing coatings that are activated by externally applied stimuli such as heat and light, our moisture-activated coating provides an alternative solution that does not require a user to actively turn "on" or "off" the antipathogenic function.   Technology generated from this NSF award potentially has long lasting societal impacts. ROS is an ideal disinfectant because it decomposes into benign degradation products, oxygen and water. However, ROS is hazardous to store and transport. Our material does not contain ROS and ROS is only generated upon hydration. The simplicity in the fabrication, activation, storage and transport of these biomaterials enable this technology to function as a source of disinfectant for a wide range of applications, ranging from wound dressing for military personnel to disinfectant for hospitals or surgery suites in underdeveloped countries. Additionally, the ability for the proposed material to generate the more potent free radical-based ROS will enable it to function as a potable biomaterial for water decontamination.     Last Modified: 08/05/2024       Submitted by: BrucePLee]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

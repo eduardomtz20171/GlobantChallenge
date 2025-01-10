@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI-TT: Scalable solid state neutron and gamma detectors for diverse industrial applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>249392.00</AwardTotalIntnAmount>
+<AwardAmount>249392</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Partnerships for Innovation - Technology Translation (PFI-TT) project is to develop low cost, high performance, portable radiation detectors that have applications ranging from homeland security to medical treatment.  With this technology, it may be possible for police officers, fire firefighters and first responders to monitor for the presence of  Medical staff could monitor the production of neutrons and γ-rays during heavy ion cancer treatments to collect data on the long-term impact of secondary radiation.  Just as important as the technology development is the talent development that will take place during this project.  This project will support one graduate student and one postdoctoral researcher that will be trained in the area of radiation detectors, nuclear electronics, and prototype development and entrepreneurship.  The design and use of radiation detectors and their associated electronics are quickly becoming lost skill sets, so this PFI project also addresses workforce development in needed areas.  &lt;br/&gt;&lt;br/&gt;The proposed project seeks to demonstrate low cost, high count rate, γ-ray detectors based on halide inorganic perovskites.  These devices will be integrated with neutron detection / amplification schemes to enable simultaneous neutron and γ-ray detectors. A traditional γ-ray spectroscopic system consists of a detector, either a scintillator and a photomultiplier tube or a high purity Ge solid state semiconductor detector, a pre-amplifier, an amplifier, an analog-to-digital converter and a multichannel analyzer. Although effective, these systems are expensive, lack ruggedness and portability, and are not easily scaled. The main goal of this PFI-TT project is to demonstrate and integrate CsPbX3 (X=Cl, Br, I or any combination) semiconductor single crystals as the material of choice for γ-ray sensing and combine neutron and gamma-ray detection in a prototype using the same charge amplification scheme, which reduces the overall cost of the system while enabling rugged and scalable radiation sensing.  The gamma-ray detection approach moves away from the traditional use of perovskite as scintillators, but instead uses the materials as the active sensing element in solid-state charge and neutral particle detection. Composition, electrical properties, and device engineering are some of the unknowns to be elucidated during the program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/06/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2044675</AwardID>
+<Investigator>
+<FirstName>MANUEL</FirstName>
+<LastName>QUEVEDO-lopez</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>MANUEL QUEVEDO-lopez</PI_FULL_NAME>
+<EmailAddress><![CDATA[MANQUELOP@GMAIL.COM]]></EmailAddress>
+<NSF_ID>000751859</NSF_ID>
+<StartDate>07/06/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Luigi</FirstName>
+<LastName>Colombo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luigi Colombo</PI_FULL_NAME>
+<EmailAddress><![CDATA[colombo@rdusagroup.com]]></EmailAddress>
+<NSF_ID>000817874</NSF_ID>
+<StartDate>07/06/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Dallas]]></Name>
+<CityName>RICHARDSON</CityName>
+<ZipCode>750803021</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress><![CDATA[800 WEST CAMPBELL RD.]]></StreetAddress>
+<StreetAddress2><![CDATA[SP2.25]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJCVPNN1WFS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT DALLAS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The university of Texas at Dallas]]></Name>
+<CityName>Richardson</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>750803021</ZipCode>
+<StreetAddress><![CDATA[800 W. Campbell Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>166200</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8616</Code>
+<Text>Instr Rsrch,Metro&amp;Std NanTech</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~249392</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>We report inorganic halide perovskites, such as CsPbBr3 as &nbsp;promising materials for photon detection.They not only possess interesting electronic and optoelectronic properties, but the material is alsothermally and environmentally stable. One of the most appealing aspects of perovskite materials is thattheir composition can be tuned to dramatically impact carrier mobility, carrier concentration, band gap,etc. Such unique composition tuning enables applications such as solar cells, LEDs, sensors, batteries,transistors, memories, lasers, photodetectors, X-ray, and radiation sensor, among many others.Nonetheless, a detailed study of perovskite composition with respect to high energy photon detection islacking. In this report, we aimed at understanding how the inorganic halide perovskite compositioninfluences high energy photon detection. Furthermore, we explore the role of perovskite compositionand microstructure to elucidate the damage mechanism upon UV, X-ray, and gamma rays aiming at theidentification and synthesis of the most stable perovskite phase and composition to fabricate photondetectors with long term stability. &nbsp;</p>  <p>&nbsp;</p>  <p>Mechanochemical synthesis of halide perovskites</p>  <p>Mechanochemical synthesis is a processing technique of solids in which mechanical and chemicalphenomena are coupled on a molecular scale. Commonly known as ball-milling, it consist in the use of mechanical phenomena to induce chemical reactions. Advantages of this technique include cost-effectiveness, reliability, ease of operation, reproducible results due to energy and speed control, andapplicability in wet and dry conditions on a wide range of materials. The milling occurs due tomechanical friction provided to the system by the rotary motion of the container between the grindingmedium, such as balls of the same or various sizes, and the ground material. By grinding the perovskiteprecursor binary salts, the desired phase can be formed according to the following equation:AX(s) + BX2(s) &minus;&rarr; ABX3(s) (eq. 1)where A is a monovalent cation (commonly methylammonium MA; CH3NH3+, formamidinium FA;CH(NH2)2+, or cesium Cs+). B is a divalent cation (Pb2+, Sn2+ or Cd2+); and X a monovalent halide anion(commonly I&minus;, Br&minus;, or Cl&minus;).</p>  <p>Perovskites such as CsPbBr3, CsPbCl3, MAPbBr3, MAPbCl3, MAPbI3, FAPbBr3, and CsCdBr3 havebeen obtained using the ball milling method. Moreover, it is essential to highlight that the ion exchange inA-, B- and X-sites can happen with the perovskites synthesis by varying the precursor ratios.&nbsp;</p>  <p>Using the CsPbBr3 film precursors obtained by ball milling, our team has further demonstrated asolution-free Close Space Sublimation (CSS) process to deposit 8-9 &micro;m CsPbBr3 films with largecolumnar grains across the entire film thickness. As an example, since CsPbBr3 melts congruently at ~570&deg;C, sublimation from CsPbBr3 powder or crystals can produce stoichiometric films. CSS is a near-thermalequilibrium deposition process; it results in films with reduced defects, large grains, high materialutilization, and a high growth rate.</p>  <p>Doping and composition control is a key to tune the optoelectronic properties of halideperovskites. Our team has studied and developed a simple, solvent-free, versatile ion exchange method to control CsPbBr3 film composition and morphology. Tthicker films are needed to increase the absorption probability of highenergy X-rays, which is also a requirement for gamma ray absorption and subsequent detection. Using theCsPbBr3 powders obtained by the mechanochemical synthesis procedure previously described, we prepared a slurry using a-terpineol, n-dodecane and ethylcellulose solution. 130 &micro;m thick CsPbBr3 filmswere then deposited on a glass substrate using the doctor blade technique. The as-deposited films showed good-enough properties to fabricate pn junctions with the same ITO/Ga2O3/CsPbBr3/Audevice configuration to measure radiation sensitivity. The pn junctions didn&rsquo;t show any diode behavior but exhibited characteristic photoresistor characteristics. Photon sensitivity in the range of 103 microGy air-1cm-2 was obtained even though the film has lots of voids and is not as dense as we would like tohave. To improve the particle coalescence, improve density, and increase grain size, we sprayed the filmswith a 0.2 M CsPbBr3 solution (DMSO as solvent) to then be annealed at 85 oC for 5 mins. The spray treatmentserves a recrystallization treatment as bigger grains were obtained as can be easily seen in the SEMimages. Impact of grain growth to X-ray absorption needs to be further assessed, but these results show asimple technique to improve film quality with the additional benefit of increasing the grain size hopefully translating into better device performance.</p><br> <p>  Last Modified: 12/30/2024<br> Modified by: Manuel&nbsp;Quevedo-Lopez</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  We report inorganic halide perovskites, such as CsPbBr3 as promising materials for photon detection.They not only possess interesting electronic and optoelectronic properties, but the material is alsothermally and environmentally stable. One of the most appealing aspects of perovskite materials is thattheir composition can be tuned to dramatically impact carrier mobility, carrier concentration, band gap,etc. Such unique composition tuning enables applications such as solar cells, LEDs, sensors, batteries,transistors, memories, lasers, photodetectors, X-ray, and radiation sensor, among many others.Nonetheless, a detailed study of perovskite composition with respect to high energy photon detection islacking. In this report, we aimed at understanding how the inorganic halide perovskite compositioninfluences high energy photon detection. Furthermore, we explore the role of perovskite compositionand microstructure to elucidate the damage mechanism upon UV, X-ray, and gamma rays aiming at theidentification and synthesis of the most stable perovskite phase and composition to fabricate photondetectors with long term stability.         Mechanochemical synthesis of halide perovskites    Mechanochemical synthesis is a processing technique of solids in which mechanical and chemicalphenomena are coupled on a molecular scale. Commonly known as ball-milling, it consist in the use of mechanical phenomena to induce chemical reactions. Advantages of this technique include cost-effectiveness, reliability, ease of operation, reproducible results due to energy and speed control, andapplicability in wet and dry conditions on a wide range of materials. The milling occurs due tomechanical friction provided to the system by the rotary motion of the container between the grindingmedium, such as balls of the same or various sizes, and the ground material. By grinding the perovskiteprecursor binary salts, the desired phase can be formed according to the following equation:AX(s) + BX2(s)  ABX3(s) (eq. 1)where A is a monovalent cation (commonly methylammonium MA; CH3NH3+, formamidinium FA;CH(NH2)2+, or cesium Cs+). B is a divalent cation (Pb2+, Sn2+ or Cd2+); and X a monovalent halide anion(commonly I, Br, or Cl).    Perovskites such as CsPbBr3, CsPbCl3, MAPbBr3, MAPbCl3, MAPbI3, FAPbBr3, and CsCdBr3 havebeen obtained using the ball milling method. Moreover, it is essential to highlight that the ion exchange inA-, B- and X-sites can happen with the perovskites synthesis by varying the precursor ratios.    Using the CsPbBr3 film precursors obtained by ball milling, our team has further demonstrated asolution-free Close Space Sublimation (CSS) process to deposit 8-9 m CsPbBr3 films with largecolumnar grains across the entire film thickness. As an example, since CsPbBr3 melts congruently at ~570C, sublimation from CsPbBr3 powder or crystals can produce stoichiometric films. CSS is a near-thermalequilibrium deposition process; it results in films with reduced defects, large grains, high materialutilization, and a high growth rate.    Doping and composition control is a key to tune the optoelectronic properties of halideperovskites. Our team has studied and developed a simple, solvent-free, versatile ion exchange method to control CsPbBr3 film composition and morphology. Tthicker films are needed to increase the absorption probability of highenergy X-rays, which is also a requirement for gamma ray absorption and subsequent detection. Using theCsPbBr3 powders obtained by the mechanochemical synthesis procedure previously described, we prepared a slurry using a-terpineol, n-dodecane and ethylcellulose solution. 130 m thick CsPbBr3 filmswere then deposited on a glass substrate using the doctor blade technique. The as-deposited films showed good-enough properties to fabricate pn junctions with the same ITO/Ga2O3/CsPbBr3/Audevice configuration to measure radiation sensitivity. The pn junctions didnt show any diode behavior but exhibited characteristic photoresistor characteristics. Photon sensitivity in the range of 103 microGy air-1cm-2 was obtained even though the film has lots of voids and is not as dense as we would like tohave. To improve the particle coalescence, improve density, and increase grain size, we sprayed the filmswith a 0.2 M CsPbBr3 solution (DMSO as solvent) to then be annealed at 85 oC for 5 mins. The spray treatmentserves a recrystallization treatment as bigger grains were obtained as can be easily seen in the SEMimages. Impact of grain growth to X-ray absorption needs to be further assessed, but these results show asimple technique to improve film quality with the additional benefit of increasing the grain size hopefully translating into better device performance.     Last Modified: 12/30/2024       Submitted by: ManuelQuevedo-Lopez]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

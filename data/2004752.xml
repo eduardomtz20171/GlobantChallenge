@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Understanding the interplay of precipitates and dislocations on the reversible martensitic transformation in cyclically actuated NiTiHf shape memory alloys]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>494826.00</AwardTotalIntnAmount>
+<AwardAmount>494826</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Madison</SignBlockName>
+<PO_EMAI>jmadison@nsf.gov</PO_EMAI>
+<PO_PHON>7032922937</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY&lt;br/&gt;Shape memory alloys (SMAs) can contract and extend, like an artificial muscle, upon cooling and heating through a process called martensitic transformation. Similar to muscles, shape memory alloys experience fatigue after a number of operation cycles. The fatigue of shape memory alloys is triggered and then exacerbated by the creation and accumulation of ultra-small crystalline defects called dislocations. Recent work has shown that the fatigue life of the SMAs can be dramatically improved by incorporating nano-sized particles. The purpose of this project is to provide fundamental understanding of how these nano-particles influence the fatigue of these SMAs by using advanced and in situ electron microscopy to watch the interactions of the nanoparticles with the defects in real time. These insights will accelerate the development of fatigue-resistant and durable super-elastic SMAs that may beneficially impact a wide variety of critical technologies, including aerospace, energy conversion, biomedical, defense, and transportation. This project will also provide multidisciplinary STEM educational and career advancement opportunities for underrepresented students through the Louis Stokes Alliance for Minority Participation program, as well as online STEM course material based on this research.&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;The goal of the project is to develop a fundamental understanding of the interplay between nanoprecipitates, dislocations, and martensitic transformation, during thermo-mechanically induced, reversible martensitic transformation. The new knowledge gained will elucidate how their interactions control fatigue performance (both functional and structural) in cyclically actuated high-temperature shape memory alloys (SMAs). The central hypothesis is that the nanoprecipitates will suppress the transformation-induced dislocation multiplication, glide, and rearrangement during thermal cycling, thus dramatically modifying granular-level microstructure, and consequently the fatigue performance. The experimental tasks to be undertaken include: 1) identify precipitate characteristics, associated elastic strain, and local chemistry, 2) determine the effect of precipitates on the transformation-induced dislocation generation and structure evolution, 3) assess the effect of precipitate-dislocation interactions on the austenite and martensite microstructure evolution and the resultant functional fatigue, and 4) identify the role of precipitate-dislocation interaction on persistent slip band formation and crack initiation and growth (structural fatigue) in cyclically actuated SMAs. The experimental results will be used to develop a detailed description of the cyclic reversible martensitic transformation and fatigue responses in precipitate-bearing SMAs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004752</AwardID>
+<Investigator>
+<FirstName>Ibrahim</FirstName>
+<LastName>Karaman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ibrahim Karaman</PI_FULL_NAME>
+<EmailAddress><![CDATA[ikaraman@tamu.edu]]></EmailAddress>
+<NSF_ID>000310022</NSF_ID>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yu Kelvin</FirstName>
+<LastName>Xie</LastName>
+<PI_MID_INIT>X</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yu Kelvin X Xie</PI_FULL_NAME>
+<EmailAddress><![CDATA[kelvin_xie@tamu.edu]]></EmailAddress>
+<NSF_ID>000796710</NSF_ID>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Department of Materials Science and Engineering, TEES]]></Name>
+<CityName>College Station</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778454645</ZipCode>
+<StreetAddress><![CDATA[575 Ross St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177100</Code>
+<Text>METAL &amp; METALLIC NANOSTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~494826</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project first investigated the microstructure of Ni50.3Ti29.7Hf20 high-temperature shape memory alloys (hereafter referred to as NiTiHf SMA) at room temperature before any testing. Utilizing advanced microscopy, we examined the detailed structures at the sub-micron scale of these alloys subjected to solution treatment, revealing the presence of four distinct martensite variants. This configuration differs from other similar SMAs (e.g., NiTi) and sheds light on the unique transformation behavior of NiTiHf SMAs, offering insights into martensitic characteristics in SMAs (Fig. 1).</p> <p>Next, we studied the aging effects on the NiTiHf SMAs. Aging processes in these alloys lead to precipitate formation, refining the martensite plates, reducing variant numbers, and enhancing overall thermomechanical properties. Specifically, aged samples demonstrated increased transformation temperatures and superior thermal stability, with only slightly sacrificed actuation strain compared to their solution-treated counterparts. These enhancements, driven by precipitates altering the microstructure and twin interface characteristics, provide important information for advancing the microstructure engineering of SMAs in high-temperature applications (Fig. 2).</p> <p>We further investigated the fatigue properties and the resultant microstructures of NiTiHf SMA samples subjected to various aging conditions through thermomechanical testing. The as-extruded samples (precipitate-free) exhibited the highest actuation strain but the lowest fatigue life, whereas the peak-aged samples maintained optimal thermal and mechanical stability. The furnace-cooled samples demonstrated the lowest actuation strain and apparent functional fatigue (i.e., a more rapid loss of transformation strain). Significant cracking was observed in the as-extruded samples post-fatigue testing compared to the other two, suggesting the beneficial effect of precipitates to suppress crack nucleation and propagation. However, when the precipitates evolved to be too big, they &ldquo;poison&rdquo; the SMAs, leading to a more rapid increase in the non-transformable retained martensite and a more apparent functional fatigue. These findings elucidate the impact of aging conditions on the alloys' fatigue behavior, providing guidance for enhancing performance in high-temperature applications (Fig. 3).</p> <p>Moreover, this project supported three Ph.D. students. It also enabled the engagement with K-12 students and their parent during Aggieland Saturday (a TAMU campus-wide engineering showcase event) by demonstrating the shape memory effect of the &ldquo;mechanical muscles&rdquo;. This hands-on experience not only inspired many students to consider careers in science and engineering but also showcased the exciting possibilities within these fields (Fig. 4). Supported by the project, the PI also created two online courses on YouTube&nbsp; &ndash; Introduction to Dislocations and Phase Transformation in Solids, with nearly 0.5 million views of the channel. These educational videos serve as a valuable resource, enhancing learning and understanding of complex materials science concepts among a global audience. Their accessibility and depth have not only broadened educational outreach but also sparked increased interest in materials science and engineering topics.</p><br> <p>  Last Modified: 05/30/2024<br> Modified by: Yu Kelvin&nbsp;X&nbsp;Xie</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2004752/2004752_10685998_1717101854277_Fig_1_landscape--rgov-214x142.png" original="/por/images/Reports/POR/2024/2004752/2004752_10685998_1717101854277_Fig_1_landscape--rgov-800width.png" title="Fig. 1"><img src="/por/images/Reports/POR/2024/2004752/2004752_10685998_1717101854277_Fig_1_landscape--rgov-66x44.png" alt="Fig. 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Colored variant map and atomic models showing the four different martensite variants and the orientation relationship between them in solution-treated Ni50.3Ti29.7Hf20 HTSMA.</div> <div class="imageCredit">Jiaqi Dong/Kelvin Xie</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Yu Kelvin&nbsp;X&nbsp;Xie <div class="imageTitle">Fig. 1</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2004752/2004752_10685998_1717102196617_Graphic_abs_03--rgov-214x142.png" original="/por/images/Reports/POR/2024/2004752/2004752_10685998_1717102196617_Graphic_abs_03--rgov-800width.png" title="Fig. 3"><img src="/por/images/Reports/POR/2024/2004752/2004752_10685998_1717102196617_Graphic_abs_03--rgov-66x44.png" alt="Fig. 3"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Thermomechanical properties of Ni50.3Ti29.7Hf20 HTSMA with different aging conditions, and their dominant microstructures after fatigue.</div> <div class="imageCredit">Jiaqi Dong/Kelvin Xie</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Yu Kelvin&nbsp;X&nbsp;Xie <div class="imageTitle">Fig. 3</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2004752/2004752_10685998_1717102627285_Fig_4_landscape--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2004752/2004752_10685998_1717102627285_Fig_4_landscape--rgov-800width.jpg" title="Fig. 4"><img src="/por/images/Reports/POR/2024/2004752/2004752_10685998_1717102627285_Fig_4_landscape--rgov-66x44.jpg" alt="Fig. 4"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Photos showing the PI doing demo to K-12 students and their parents with shape memory alloys on Aggieland Saturday in 2024.</div> <div class="imageCredit">Farhan Zarhin/Kelvin Xie</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Yu Kelvin&nbsp;X&nbsp;Xie <div class="imageTitle">Fig. 4</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2004752/2004752_10685998_1717101998150_graphic_abs_02_with_background--rgov-214x142.png" original="/por/images/Reports/POR/2024/2004752/2004752_10685998_1717101998150_graphic_abs_02_with_background--rgov-800width.png" title="Fig. 2"><img src="/por/images/Reports/POR/2024/2004752/2004752_10685998_1717101998150_graphic_abs_02_with_background--rgov-66x44.png" alt="Fig. 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Thermomechanical properties of solution-treated and precipitate-bearing Ni50.3Ti29.7Hf20 HTSMA, and orientation maps on each sample showing their predominant microstructure.</div> <div class="imageCredit">Jiaqi Dong/Kelvin Xie</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Yu Kelvin&nbsp;X&nbsp;Xie <div class="imageTitle">Fig. 2</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project first investigated the microstructure of Ni50.3Ti29.7Hf20 high-temperature shape memory alloys (hereafter referred to as NiTiHf SMA) at room temperature before any testing. Utilizing advanced microscopy, we examined the detailed structures at the sub-micron scale of these alloys subjected to solution treatment, revealing the presence of four distinct martensite variants. This configuration differs from other similar SMAs (e.g., NiTi) and sheds light on the unique transformation behavior of NiTiHf SMAs, offering insights into martensitic characteristics in SMAs (Fig. 1).   Next, we studied the aging effects on the NiTiHf SMAs. Aging processes in these alloys lead to precipitate formation, refining the martensite plates, reducing variant numbers, and enhancing overall thermomechanical properties. Specifically, aged samples demonstrated increased transformation temperatures and superior thermal stability, with only slightly sacrificed actuation strain compared to their solution-treated counterparts. These enhancements, driven by precipitates altering the microstructure and twin interface characteristics, provide important information for advancing the microstructure engineering of SMAs in high-temperature applications (Fig. 2).   We further investigated the fatigue properties and the resultant microstructures of NiTiHf SMA samples subjected to various aging conditions through thermomechanical testing. The as-extruded samples (precipitate-free) exhibited the highest actuation strain but the lowest fatigue life, whereas the peak-aged samples maintained optimal thermal and mechanical stability. The furnace-cooled samples demonstrated the lowest actuation strain and apparent functional fatigue (i.e., a more rapid loss of transformation strain). Significant cracking was observed in the as-extruded samples post-fatigue testing compared to the other two, suggesting the beneficial effect of precipitates to suppress crack nucleation and propagation. However, when the precipitates evolved to be too big, they poison the SMAs, leading to a more rapid increase in the non-transformable retained martensite and a more apparent functional fatigue. These findings elucidate the impact of aging conditions on the alloys' fatigue behavior, providing guidance for enhancing performance in high-temperature applications (Fig. 3).   Moreover, this project supported three Ph.D. students. It also enabled the engagement with K-12 students and their parent during Aggieland Saturday (a TAMU campus-wide engineering showcase event) by demonstrating the shape memory effect of the mechanical muscles. This hands-on experience not only inspired many students to consider careers in science and engineering but also showcased the exciting possibilities within these fields (Fig. 4). Supported by the project, the PI also created two online courses on YouTube  Introduction to Dislocations and Phase Transformation in Solids, with nearly 0.5 million views of the channel. These educational videos serve as a valuable resource, enhancing learning and understanding of complex materials science concepts among a global audience. Their accessibility and depth have not only broadened educational outreach but also sparked increased interest in materials science and engineering topics.     Last Modified: 05/30/2024       Submitted by: Yu KelvinXXie]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

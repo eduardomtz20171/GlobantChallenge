@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Shape-Based Imputation and Estimation of Fragmented, Noisy Curves with Application to the Reconstruction of Fossil Bovid Teeth]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>28512.00</AwardTotalIntnAmount>
+<AwardAmount>28512</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Statistical analysis of shape data is relevant to a wide array of fields including biology, anthropology, chemistry, and medicine, to name just a few. Current methods for analyzing shape data generally focus on shapes that are fully observed. This project will develop methods for analyzing shapes that are only partially observed. Traditional missing data techniques are not applicable in the shape setting when 1) shapes are defined by functions and 2) shape-preserving transformations (e.g. translation, rotation, scaling, re-parameterization, etc.) must be accounted for. This project will formalize and harness this perspective for data obtained from fragmentary fossil tooth images of the Family Bovidae (antelopes and buffaloes) as partially observed curves, representing the outlines of imaged objects, possibly with measurement error. The resulting taxonomic identifications will generate more robust estimates of the ecologically sensitive bovids. These improved estimates, in turn, afford novel insight into the paleoenvironmental context of early human evolution.&lt;br/&gt; &lt;br/&gt;The main goal of this project is to develop statistical methods for the analysis of partially observed shapes (i.e., fragmented curves). This goal will be accomplished via two different approaches: 1) developing computational methods for imputing a fragmented curve by matching and completing it based on a template or donor curve obtained from a sample of fully observed curves, and 2) developing Bayesian model-based methods for estimation and classification of the shape of a noisy, fragmented curve using an empirical prior on the overall shape of the curve. Both approaches will be built using Riemannian geometric tools for shape analysis that ensure proper invariance to shape preserving transformations including translation, scaling (when appropriate), rotation, and re-parameterization. These methods will be developed with the motivating application of the analysis and taxonomic classification of fractured and complete fossil teeth from the Family Bovidae. By generating a proxy for paleoenvironmental conditions, the project seeks to advance our understanding of the relationship between environmental change and hominin evolution.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015236</AwardID>
+<Investigator>
+<FirstName>Juliet</FirstName>
+<LastName>Brophy</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Juliet K Brophy</PI_FULL_NAME>
+<EmailAddress><![CDATA[jbrophy@lsu.edu]]></EmailAddress>
+<NSF_ID>000530547</NSF_ID>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Louisiana State University]]></Name>
+<CityName>BATON ROUGE</CityName>
+<ZipCode>708030001</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress><![CDATA[202 HIMES HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECQEYCHRNKJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LOUISIANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Louisiana State University and A&M College]]></Name>
+<CityName>Baton Rouge</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>708034105</ZipCode>
+<StreetAddress><![CDATA[227 Howe Russell]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~28512</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-b8433cd0-7fff-9b82-c15d-45e95403f98f"> </span></p>  <p dir="ltr"><span>Anthropological researchers typically rely on fossil animals in the Family Bovidae (e.g. antelopes and buffaloes) to reconstruct past environments of our early human ancestors. Bovids reflect distinct ecological adaptations in terms of diet, habitat, water dependence, and seasonal migrations that vary according to their respective ecological niches. Bovid remains, especially isolated teeth, dominate the South African fossil faunal assemblages. Unfortunately, the taxonomic identification of these specimens is often imprecise and subjective, a difficulty compounded by the fragmentary nature of the associated assemblages. Previous research found that bovids from southern Africa could be taxonomically identified using the shape of the occlusal (chewing) surface of their fully observed teeth. However, broken bovid teeth are common in the fossil record.&nbsp;</span></p>  <p dir="ltr"><span>Current methods for analyzing shape data generally focus on shapes that are fully observed. Through this project, we developed methods for analyzing shapes that are only partially observed, which is a common occurrence in many applied contexts. Traditional missing data techniques are not applicable in the shape setting since shapes are defined by functions and shape-preserving transformations (e.g. translation, rotation, scaling, re-parameterization, etc.) must be accounted for. Thus, this project developed statistical methods for the analysis of partially observed shapes (i.e., fragmented curves). This goal was accomplished via two different approaches: 1) developing computational methods for imputing a fragmented curve by matching and completing it based on a template or donor curve obtained from a sample of fully observed curves, and 2) developing Bayesian model-based methods for estimation and classification of the shape of a noisy, fragmented curve using an empirical prior on the overall shape of the curve. The outcomes from the project significantly enhance our understanding of missing data in the context of functional and shape data analysis. The motivation for the methodological advances in this project stems from those interested in classifying the aforementioned broken bovid teeth fossils for the purposes of reconstructing past environments in the interest of studying early human behavior. Broken bovid teeth are often identified only to the taxonomic Family or Tribe, if they are considered at all. If the broken bovid teeth can be identified even just to genus level, more bovid teeth can be used in the analyses and the paleoenvironments of our early human ancestors could be reconstructed more precisely. As we reconstruct paleoenvironments across southern Africa over time, we will better understand the relationship between environmental change and human adaptations. Furthermore, the methods are applicable in many different contexts including computer vision (objects observed with occlusions) and medicine (boundaries of organs that are difficult to identify due to image resolution and contrast).</span></p>  <p dir="ltr"><span>Numerous presentations and publications by the investigators resulted from this research which helped advance several fields of study. This project also had a large student impact. Graduate and undergraduate students were involved which allowed them to gain knowledge in the fields of Bayesian modeling and inference and functional and shape data analysis. Many of the graduate students and one undergraduate presented their research at various conferences. This advanced their study in multiple ways including (1) interacting with senior, world-renowned researchers in our field, (2) getting feedback on their research, and (3) developing invaluable presentation skills. The methods and results were also incorporated into classes.&nbsp;</span></p>  <p dir="ltr"><span>In addition to the work developing statistical methods, the funding from this grant allowed the collaborating anthropologist to travel to South Africa to collect additional images of both fossil and extant bovid teeth, notably increasing the collection of fractured bovid teeth to use as an application of the methods developed here. These new images, along with previously collected images, were processed by undergraduates in the associated lab and are now being stored in a database developed as part of this project. This database is accessible to any scientific researcher who may find this collection of images useful in their research.</span></p>  <p dir="ltr"><span>&nbsp;</span>Finally, the results of this research laid the groundwork for this line of study that allowed us to submit a more ambitious, larger scale follow-up grant, which would apply the results from this grant to advance the science further.&nbsp; &nbsp;</p>  <div><span><br /></span></div>  <p>&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/31/2024<br> Modified by: Juliet&nbsp;K&nbsp;Brophy</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[       Anthropological researchers typically rely on fossil animals in the Family Bovidae (e.g. antelopes and buffaloes) to reconstruct past environments of our early human ancestors. Bovids reflect distinct ecological adaptations in terms of diet, habitat, water dependence, and seasonal migrations that vary according to their respective ecological niches. Bovid remains, especially isolated teeth, dominate the South African fossil faunal assemblages. Unfortunately, the taxonomic identification of these specimens is often imprecise and subjective, a difficulty compounded by the fragmentary nature of the associated assemblages. Previous research found that bovids from southern Africa could be taxonomically identified using the shape of the occlusal (chewing) surface of their fully observed teeth. However, broken bovid teeth are common in the fossil record.    Current methods for analyzing shape data generally focus on shapes that are fully observed. Through this project, we developed methods for analyzing shapes that are only partially observed, which is a common occurrence in many applied contexts. Traditional missing data techniques are not applicable in the shape setting since shapes are defined by functions and shape-preserving transformations (e.g. translation, rotation, scaling, re-parameterization, etc.) must be accounted for. Thus, this project developed statistical methods for the analysis of partially observed shapes (i.e., fragmented curves). This goal was accomplished via two different approaches: 1) developing computational methods for imputing a fragmented curve by matching and completing it based on a template or donor curve obtained from a sample of fully observed curves, and 2) developing Bayesian model-based methods for estimation and classification of the shape of a noisy, fragmented curve using an empirical prior on the overall shape of the curve. The outcomes from the project significantly enhance our understanding of missing data in the context of functional and shape data analysis. The motivation for the methodological advances in this project stems from those interested in classifying the aforementioned broken bovid teeth fossils for the purposes of reconstructing past environments in the interest of studying early human behavior. Broken bovid teeth are often identified only to the taxonomic Family or Tribe, if they are considered at all. If the broken bovid teeth can be identified even just to genus level, more bovid teeth can be used in the analyses and the paleoenvironments of our early human ancestors could be reconstructed more precisely. As we reconstruct paleoenvironments across southern Africa over time, we will better understand the relationship between environmental change and human adaptations. Furthermore, the methods are applicable in many different contexts including computer vision (objects observed with occlusions) and medicine (boundaries of organs that are difficult to identify due to image resolution and contrast).    Numerous presentations and publications by the investigators resulted from this research which helped advance several fields of study. This project also had a large student impact. Graduate and undergraduate students were involved which allowed them to gain knowledge in the fields of Bayesian modeling and inference and functional and shape data analysis. Many of the graduate students and one undergraduate presented their research at various conferences. This advanced their study in multiple ways including (1) interacting with senior, world-renowned researchers in our field, (2) getting feedback on their research, and (3) developing invaluable presentation skills. The methods and results were also incorporated into classes.    In addition to the work developing statistical methods, the funding from this grant allowed the collaborating anthropologist to travel to South Africa to collect additional images of both fossil and extant bovid teeth, notably increasing the collection of fractured bovid teeth to use as an application of the methods developed here. These new images, along with previously collected images, were processed by undergraduates in the associated lab and are now being stored in a database developed as part of this project. This database is accessible to any scientific researcher who may find this collection of images useful in their research.    Finally, the results of this research laid the groundwork for this line of study that allowed us to submit a more ambitious, larger scale follow-up grant, which would apply the results from this grant to advance the science further.                 Last Modified: 12/31/2024       Submitted by: JulietKBrophy]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

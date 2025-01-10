@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Summer Undergraduate Math Research at Yale]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+<PO_EMAI>sgdewint@nsf.gov</PO_EMAI>
+<PO_PHON>7032922599</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Summer Undergraduate Math Research at Yale (SUMRY) is a nine-week summer program hosted by the Mathematics Department at Yale University with the primary goal of engaging a diverse group of undergraduate students in original mathematics research. We hope to build the diversity of the mathematics community by providing opportunities for women and underrepresented students at this early stage in their training. The ability to communicate mathematics is emphasized and groups give weekly presentations, receiving constructive feedback from their mentors and peers throughout the summer, culminating in talks at regional and national undergraduate research conferences. We have a weekly colloquium (learning) seminar where mentors and visiting researchers give accessible talks on their own research. There are numerous professional development activities, graduate school admission events and panels, and workshops on presenting and writing mathematics. Students write final papers and results are submitted for academic publication. &lt;br/&gt;&lt;br/&gt;Yale is a vibrant international center for research and students are fully immersed in the Yale research community during their summer on campus. Each summer 24 undergraduate students work on one of six projects, each project directed by a faculty mentor. The mentors choose a problem from their own field of research, which include: differential geometry, graph theory, homogeneous dynamics, metric number theory and dynamics, groups and symmetry, combinatorics, hyperbolic manifolds, data recovery, image processing, and topological data analysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/18/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050398</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Brock</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey F Brock</PI_FULL_NAME>
+<EmailAddress><![CDATA[jeffrey.brock@yale.edu]]></EmailAddress>
+<NSF_ID>000258062</NSF_ID>
+<StartDate>02/18/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ian</FirstName>
+<LastName>Adelstein</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ian Adelstein</PI_FULL_NAME>
+<EmailAddress><![CDATA[ian.adelstein@yale.edu]]></EmailAddress>
+<NSF_ID>000835981</NSF_ID>
+<StartDate>02/18/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065113572</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>New Haven</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065208283</ZipCode>
+<StreetAddress><![CDATA[10 Hillhouse Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>733500</Code>
+<Text>WORKFORCE IN THE MATHEMAT SCI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~400000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-b967c496-7fff-6f56-3ca3-aed506461fd6"> </span></p> <p dir="ltr"><span>Summer Undergraduate Math Research at Yale (SUMRY) is a nine-week summer REU program hosted by the Mathematics Department at Yale University with the primary goal of engaging a diverse group of undergraduate students in original mathematics research. We hope to build the diversity of the mathematics community by providing research opportunities for women and underrepresented students at this early stage in their training.&nbsp;</span></p> <p dir="ltr"><span>This grant provided partial support for the SUMRY REU programs in summers 2021-2024. During this period, we hosted and trained 90 undergraduate student researchers working on 19 distinct projects. We welcomed 23 different research mentors, many participating multiple times, resulting in an average student to mentor ratio of 2.2 to 1. The small project groups (4-5 students per group) ensure that students are able to learn from their peers and find space for their own ideas and questions in group meetings. We know finding good mentors is an important aspect of continuing one&rsquo;s training in mathematics, and are excited to boast an incredibly strong and diverse group of program mentors. All of the Senior Personnel and Research Mentors from this grant are women or from underrepresented groups (or both).</span></p> <p dir="ltr"><span>We engage undergraduate students in open problems that are both accessible and have real mathematical value. The ability to communicate mathematics is emphasized, and groups give weekly presentations, receiving constructive feedback from their mentors and peers throughout the summer. These weekly presentations culminate in talks at regional and national research conferences. Students prepare final papers and results are submitted for academic publication. To date the program has produced 34 published/accepted papers with an additional 10 preprints posted to the arxiv. In addition to these research activities, we have a weekly colloquium (learning) seminar where mentors and visiting researchers give accessible talks on their own work. Students are introduced to mathematics beyond their respective projects, and indeed are exposed to many ideas that are not traditionally covered in an undergraduate curriculum. The program supports projects in both pure and applied math, allowing students to gain exposure to both fields through their participation. Faculty mentors are recruited both from Yale and externally, and are often joined by postdoc and graduate student co-mentors. This vertical integration allows students to learn from researchers at various stages of their training, and gain experience with this more collaborative model of research. Finally, we host numerous professional development activities, graduate school admission events and panels, and workshops on presenting and writing mathematics.</span></p> <p dir="ltr"><span>We achieved major improvements to the program over the period of this grant, including our newfound ability to provide free communal dorm housing to all participants - this was unanimously cited by students as an integral component in creating a socially inclusive and welcoming community. The receipt of the NSF grant allowed SUMRY to transform itself from a relatively small program exclusively for Yale undergraduates, to a national REU program averaging 24 students per summer. National recruitment has allowed SUMRY to diversify its class along many dimensions, and the program exceeded gender parity and increased participation by students from underrepresented groups in each of the years since the grant. We have also been able to matriculate at least half of NSF funded students from institutions with limited research opportunities in STEM. During the period of the grant, 52.2% of students were external to Yale, and more than half of these students matriculated from non-R1 schools.</span></p> <p dir="ltr"><span>Once this diverse group is on campus, we take great measures to build a welcoming and inclusive community during the summer. We host daily teas and weekly lunches where students and faculty get to know each other on a personal level. We hold a weekly equity and inclusivity seminar, allowing time and space to reflect on the values of our program and provide a forum to discuss ways in which we can make mathematics a more welcoming and inclusive community. These discussions are student-led and often include pieces written by participating students and faculty. We organize many social activities, including game nights, hiking, beach trips, sports, and movie nights. It is our hope that the program will not only be mathematically fruitful but also a realization of the community that we believe mathematics can be.</span></p> <p dir="ltr"><span>We believe an undergraduate research experience in a welcoming community is an integral component in the decision to pursue further training in mathematics, and it is our hope that this program will contribute to the increased diversity of the mathematics community, both at the graduate student level and beyond.</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 11/15/2024<br> Modified by: Ian&nbsp;Adelstein</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      Summer Undergraduate Math Research at Yale (SUMRY) is a nine-week summer REU program hosted by the Mathematics Department at Yale University with the primary goal of engaging a diverse group of undergraduate students in original mathematics research. We hope to build the diversity of the mathematics community by providing research opportunities for women and underrepresented students at this early stage in their training.   This grant provided partial support for the SUMRY REU programs in summers 2021-2024. During this period, we hosted and trained 90 undergraduate student researchers working on 19 distinct projects. We welcomed 23 different research mentors, many participating multiple times, resulting in an average student to mentor ratio of 2.2 to 1. The small project groups (4-5 students per group) ensure that students are able to learn from their peers and find space for their own ideas and questions in group meetings. We know finding good mentors is an important aspect of continuing ones training in mathematics, and are excited to boast an incredibly strong and diverse group of program mentors. All of the Senior Personnel and Research Mentors from this grant are women or from underrepresented groups (or both).   We engage undergraduate students in open problems that are both accessible and have real mathematical value. The ability to communicate mathematics is emphasized, and groups give weekly presentations, receiving constructive feedback from their mentors and peers throughout the summer. These weekly presentations culminate in talks at regional and national research conferences. Students prepare final papers and results are submitted for academic publication. To date the program has produced 34 published/accepted papers with an additional 10 preprints posted to the arxiv. In addition to these research activities, we have a weekly colloquium (learning) seminar where mentors and visiting researchers give accessible talks on their own work. Students are introduced to mathematics beyond their respective projects, and indeed are exposed to many ideas that are not traditionally covered in an undergraduate curriculum. The program supports projects in both pure and applied math, allowing students to gain exposure to both fields through their participation. Faculty mentors are recruited both from Yale and externally, and are often joined by postdoc and graduate student co-mentors. This vertical integration allows students to learn from researchers at various stages of their training, and gain experience with this more collaborative model of research. Finally, we host numerous professional development activities, graduate school admission events and panels, and workshops on presenting and writing mathematics.   We achieved major improvements to the program over the period of this grant, including our newfound ability to provide free communal dorm housing to all participants - this was unanimously cited by students as an integral component in creating a socially inclusive and welcoming community. The receipt of the NSF grant allowed SUMRY to transform itself from a relatively small program exclusively for Yale undergraduates, to a national REU program averaging 24 students per summer. National recruitment has allowed SUMRY to diversify its class along many dimensions, and the program exceeded gender parity and increased participation by students from underrepresented groups in each of the years since the grant. We have also been able to matriculate at least half of NSF funded students from institutions with limited research opportunities in STEM. During the period of the grant, 52.2% of students were external to Yale, and more than half of these students matriculated from non-R1 schools.   Once this diverse group is on campus, we take great measures to build a welcoming and inclusive community during the summer. We host daily teas and weekly lunches where students and faculty get to know each other on a personal level. We hold a weekly equity and inclusivity seminar, allowing time and space to reflect on the values of our program and provide a forum to discuss ways in which we can make mathematics a more welcoming and inclusive community. These discussions are student-led and often include pieces written by participating students and faculty. We organize many social activities, including game nights, hiking, beach trips, sports, and movie nights. It is our hope that the program will not only be mathematically fruitful but also a realization of the community that we believe mathematics can be.   We believe an undergraduate research experience in a welcoming community is an integral component in the decision to pursue further training in mathematics, and it is our hope that this program will contribute to the increased diversity of the mathematics community, both at the graduate student level and beyond.        Last Modified: 11/15/2024       Submitted by: IanAdelstein]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

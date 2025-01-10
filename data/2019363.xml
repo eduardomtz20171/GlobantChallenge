@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Rank-based Inference for Complex and Noisy High-dimensional Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>290000.00</AwardTotalIntnAmount>
+<AwardAmount>290000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cheryl Eavey</SignBlockName>
+<PO_EMAI>ceavey@nsf.gov</PO_EMAI>
+<PO_PHON>7032927269</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research project will develop a unified set of statistical, computational, and software tools to address data mining and discovery science challenges in the analysis of complex and noisy high-dimensional data. Data with these characteristics are common in many fields, including the health sciences, economics, finance, and neuroscience. However, statistical methods to analyze these types of data have not kept up with the development of new technologies and new datasets. This project will develop robust data analysis methods that are scalable to large complex datasets. The ability to minimize the impact of high dimensionality, data complexity, and noisiness on data analysis will facilitate new discoveries in important areas such as health and economics. The project will conduct both theoretical and empirical studies. Publicly available software will be disseminated to complement the research activities. The investigator will mentor graduate students in statistics and social sciences and will seek to broaden the participation of underrepresented groups.&lt;br/&gt;&lt;br/&gt;This project will develop multivariate rank-based methods that are robust to model misspecification, outliers, missing values, and data dependency. Three problems associated with rank-based inference for complex and noisy high-dimensional data will be addressed. First, multivariate rank-based statistical methods for robust functional principal component analysis will be developed. These new methods will improve on current functional principal component analysis tools for noisy data and will be applied to the analysis of physical activity data. Motivated in part by studies of complex and noisy stock market and neuroimaging data, the project will devise multivariate rank-based dependence measures as new quantifications for measuring between-group dependences. The new quantifications will simultaneously incorporate nonlinear dependence measurement, consistency of testing, robustness, and distribution-freeness. Building on the second activity, the project will estimate group-level networks through multivariate rank-based dependence measures to characterize conditional instead of marginal independence structure.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019363</AwardID>
+<Investigator>
+<FirstName>Fang</FirstName>
+<LastName>Han</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fang Han</PI_FULL_NAME>
+<EmailAddress><![CDATA[fanghan@uw.edu]]></EmailAddress>
+<NSF_ID>000730144</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981951016</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress><![CDATA[4333 BROOKLYN AVE NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981950001</ZipCode>
+<StreetAddress><![CDATA[4333 Brooklyn Ave NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>133300</Code>
+<Text>Methodology, Measuremt &amp; Stats</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~290000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Proposal Objective</strong><br />This proposal seeks to develop a comprehensive suite of statistical, computational, and software tools designed to address the challenges of data mining and discovery science in the analysis of complex, noisy, and high-dimensional data. Such datasets are ubiquitous in various disciplines, including health informatics, economics, finance, and neuroscience, where extracting meaningful insights is critical for advancing both theoretical understanding and practical applications. The tools developed under this proposal will be particularly tailored to analyze vast repositories of publicly available functional and time-series data from these fields. However, their utility extends to other domains, underscoring their broad applicability.</p>  <p>The central focus of this work lies in the creation of scalable and robust rank-based methodologies to enable high-throughput estimation of scientifically important features extracted from large, intricate systems. By emphasizing computational efficiency and robustness, these tools will empower researchers to handle increasingly complex datasets, uncovering patterns and insights that were previously inaccessible. This approach bridges statistical theory and computational innovation, ensuring that the solutions are both practical for real-world applications and rooted in rigorous methodology.</p>  <p><strong>Intellectual Merit</strong><br />The impact of this project is already evident through the acceptance of eight papers in leading journals, including <em>Annals of Statistics</em> (AOS), <em>Biometrika</em>, <em>Journal of the American Statistical Association</em> (JASA), and <em>Bernoulli</em>. These publications have advanced the state of the art in statistical inference and laid the groundwork for new directions in high-dimensional data analysis. The project has also catalyzed the development of a vibrant research community focused on optimal transport-based statistical inference, a rapidly evolving area with broad applications. A workshop organized under the support of this award brought together leading experts and emerging scholars to exchange ideas and explore new frontiers in the field.</p>  <p>Moreover, the project addresses emerging demands for robust and interpretable machine learning methods, particularly in biological and social science applications where explainability is crucial. The new methods developed under this proposal are not only innovative but are also supported by foundational theoretical research. This ensures that the results rest on a solid theoretical foundation, with every aspect of the methods comprehensively understood and rigorously validated. By emphasizing both innovation and rigor, the project contributes to the dual goals of advancing theoretical knowledge and ensuring practical applicability.</p>  <p><strong>Broader Impacts</strong><br />The research supported by this project has had significant broader impacts, both within the academic community and beyond. Talks on the findings have been delivered at numerous statistics departments, conferences, and workshops, fostering interdisciplinary dialogue and inspiring new collaborations. These presentations have reached a diverse audience, including experts in statistics, machine learning, and domain-specific applications such as neuroscience and economics, helping to disseminate the project's results to a broad range of stakeholders.</p>  <p>An invited review article summarizing the supported work, authored by the Principal Investigator (PI) Dr. Han, was published in the 2021 issue of <em>Bernoulli News</em>. This article provides an accessible overview of the research findings, making them available to a wider audience and positioning them as a reference point for future studies.</p>  <p>The project&rsquo;s emphasis on robust and explainable methodologies also aligns with the growing societal demand for trustworthy and transparent data analysis methods. By addressing challenges in key application areas such as health informatics and social sciences, the research contributes to domains with direct implications for public well-being. Furthermore, the training and mentorship opportunities provided under this award have supported the development of the next generation of researchers, equipping them with the tools and knowledge needed to tackle the challenges of analyzing high-dimensional data.</p>  <p>In summary, this proposal represents a significant step forward in the development of scalable, robust, and theoretically grounded tools for high-dimensional data analysis, with wide-ranging applications and transformative potential across multiple disciplines.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/02/2024<br> Modified by: Fang&nbsp;Han</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Proposal Objective This proposal seeks to develop a comprehensive suite of statistical, computational, and software tools designed to address the challenges of data mining and discovery science in the analysis of complex, noisy, and high-dimensional data. Such datasets are ubiquitous in various disciplines, including health informatics, economics, finance, and neuroscience, where extracting meaningful insights is critical for advancing both theoretical understanding and practical applications. The tools developed under this proposal will be particularly tailored to analyze vast repositories of publicly available functional and time-series data from these fields. However, their utility extends to other domains, underscoring their broad applicability.    The central focus of this work lies in the creation of scalable and robust rank-based methodologies to enable high-throughput estimation of scientifically important features extracted from large, intricate systems. By emphasizing computational efficiency and robustness, these tools will empower researchers to handle increasingly complex datasets, uncovering patterns and insights that were previously inaccessible. This approach bridges statistical theory and computational innovation, ensuring that the solutions are both practical for real-world applications and rooted in rigorous methodology.    Intellectual Merit The impact of this project is already evident through the acceptance of eight papers in leading journals, including Annals of Statistics (AOS), Biometrika, Journal of the American Statistical Association (JASA), and Bernoulli. These publications have advanced the state of the art in statistical inference and laid the groundwork for new directions in high-dimensional data analysis. The project has also catalyzed the development of a vibrant research community focused on optimal transport-based statistical inference, a rapidly evolving area with broad applications. A workshop organized under the support of this award brought together leading experts and emerging scholars to exchange ideas and explore new frontiers in the field.    Moreover, the project addresses emerging demands for robust and interpretable machine learning methods, particularly in biological and social science applications where explainability is crucial. The new methods developed under this proposal are not only innovative but are also supported by foundational theoretical research. This ensures that the results rest on a solid theoretical foundation, with every aspect of the methods comprehensively understood and rigorously validated. By emphasizing both innovation and rigor, the project contributes to the dual goals of advancing theoretical knowledge and ensuring practical applicability.    Broader Impacts The research supported by this project has had significant broader impacts, both within the academic community and beyond. Talks on the findings have been delivered at numerous statistics departments, conferences, and workshops, fostering interdisciplinary dialogue and inspiring new collaborations. These presentations have reached a diverse audience, including experts in statistics, machine learning, and domain-specific applications such as neuroscience and economics, helping to disseminate the project's results to a broad range of stakeholders.    An invited review article summarizing the supported work, authored by the Principal Investigator (PI) Dr. Han, was published in the 2021 issue of Bernoulli News. This article provides an accessible overview of the research findings, making them available to a wider audience and positioning them as a reference point for future studies.    The projects emphasis on robust and explainable methodologies also aligns with the growing societal demand for trustworthy and transparent data analysis methods. By addressing challenges in key application areas such as health informatics and social sciences, the research contributes to domains with direct implications for public well-being. Furthermore, the training and mentorship opportunities provided under this award have supported the development of the next generation of researchers, equipping them with the tools and knowledge needed to tackle the challenges of analyzing high-dimensional data.    In summary, this proposal represents a significant step forward in the development of scalable, robust, and theoretically grounded tools for high-dimensional data analysis, with wide-ranging applications and transformative potential across multiple disciplines.         Last Modified: 12/02/2024       Submitted by: FangHan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

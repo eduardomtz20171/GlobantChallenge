@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CIF: AF: Small: A Perturbed Markov Chains Approach to Studying Centrality, Mixing and Reinforcement Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>350555.00</AwardTotalIntnAmount>
+<AwardAmount>350555</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Fowler</SignBlockName>
+<PO_EMAI>jafowler@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>By their key role in facilitating many modern innovations such as Internet search via the PageRank algorithm or enabling robot movement using reinforcement learning, Markov chains are an important and versatile modeling plus analysis tool. Further examples of applications of Markov chains include algorithms in recommendation engines, simulation of complex systems using Monte-Carlo methods, inference such as community detection in social networks using random walks, and in analyzing configurations for complex systems, such as extent of opinion spread in social networks. The goal of this project is to develop new foundational results on Markov chains using perturbations of them that are easier to analyze and to simulate, with the end result being both a better understanding of the original Markov chain and the development of novel and efficient algorithms for applications, such as in reinforcement learning and other artificial-intelligence paradigms. &lt;br/&gt;&lt;br/&gt;The project activities center around the development of mathematical tools to analyze key properties such as convergence to the stationary distribution and mixing of Markov chains using their perturbations, and the use these theoretical advances to develop novel estimation algorithms with provable performance guarantees for PageRank estimation and for reinforcement learning. The specific goals are divided into three thrusts. The first will study properties that are preserved in the perturbed chain from the original chain, and any accompanying implications on inference and optimization problems that Markov chains are used for. The second will study the implications of the general results from the first thrust on the PageRank Markov chain along with Personalized PageRank Markov chains, with the emphasis on accurate but low-complexity estimation. Drawing connections between PageRank estimation and reinforcement learning, the third thrust will develop efficient policy-evaluation and policy-iteration methods for general discounted-cost problems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008130</AwardID>
+<Investigator>
+<FirstName>Vijay</FirstName>
+<LastName>Subramanian</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vijay G Subramanian</PI_FULL_NAME>
+<EmailAddress><![CDATA[vgsubram@umich.edu]]></EmailAddress>
+<NSF_ID>000610770</NSF_ID>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481092122</ZipCode>
+<StreetAddress><![CDATA[1301 Beal Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779600</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>779700</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~350555</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>The project developed mathematical tools to analyze convergence to the  stationary distribution and mixing of general Markov chains using a reset based perturbation. These theoretical advances were used to develop novel  estimation algorithms for PageRank  estimation and for reinforcement learning with provable performance guarantees. </span>We took a broad perspective so that the developed methods could be used in many contexts. Here we considered several aspects that arise in application domains such as communication netoworks and networking systems, and multi-agent systems. The aspects we concentrated on were: 1) complex stochastic dynamics; 2) countable state-spaces; 3) sampling-based measurements of systems for decision-making; 4) multi-agents aspects like information asymmetry and achieving scalability; 5) constraints on operation arising from power limitations or safety.&nbsp;</p> <p>Our findings can be broadly summarized as follows:</p> <ol> <li>Mixing analysis of general Markov chains: We studied connections between Markov chains and their perturbations using reset. Here we studied how the stationary distribution and mixing properties varied with the perturbations. We showed a trichotomy in the behavior of the stationary distribution as the perturbation magnitude varied with respect to the mixing time of the underlying Markov chain. We showed Markov chains with pre-cutoff are senstive to perturbations, i.e., there exist small perturbations that can move the stationary distribution far away, and this is almost a necessary and sufficient condition.</li> <li>Information state based RL algorithms for multi-agent systems: A key step in being able to develop RL algorithms with provable performance guarantees for the unknown model setting in decentralized multi-agent teams is to characterize an approximate information state that is not only sufficient for a dynamic programming but also has good regret (to control sub-optimality of the control policies developed). For a large class of multi-agent teams, we provided a direct characterization of an information state that allows for optimal solutions---these were studied for decentralized dynamic teams with and without constraints, dynamic games, and dynamic games of teams. For dynamic games and games of teams, we developed strategy independent information states, and showed the strategy dependent information states can be problematic. As the information state may also grow with time, this framework then was used to study when a good time-invariant approximate information state can be developed. </li> <li>Learning-based optimal control of queueing system models of communication networks: Optimal control in many systems, particularly continuous-time queueing systems, is not easily amenable to reinforcement learning (RL) methods owing to the lack of dense reward signals and due to complex structures inherent in these system. Using model-class knowledge, however, information rewards (to predict the data generated) are available. Using these alternate signals, we explored the design of optimal controls. We studied three problems in this context: 1) optimal admission control to an Erlang-blocking system with unknown service rate and holding cost; 2) optimal admission control to a single-server with unknown service rate and holding cost; and 3) parametric countable state controlled Markov chains. For these we developed low-regret learning-based optimal control algorithms using either a perturbed maximum-likelihood estimate or Thompson sampling.</li> <li>Learning-based optimal control of multi-agent systems with applications to networking systems: Building on our information-state work, we studied algorithms for cooperative systems with multiple-agents with the goal to develop optimal control methodologies in a data-driven manner. Within this topic we also looked at a decentralized multi-agent formulation for wireless media streaming. This involved the development of learning-based control for partially observed Markov decision processes with constraints. In the wireless media streaming problem feedback delays creates information asymmetry and a decentralized team control problem. We have developed a decentralized team formulation and planning solution. We developed a general result for control of such decentralized team systems with joint constraints, and applied that to the video-streaming problem to develop not only scalable optimal algorithms but learning-based solutions.</li> <li>We studied several other problems: studied a new branching processing that emerged as the local weak limit of a new random graph family based on bilateral preferences; proved the connectivity conjecture for the new random graph family based on bilateral preferences mentioned earlier; studied evolution of cascades and seeding on modular networks; studied a social learning problem with stubborn agents that modeled fake news bots; studied stable and scalable chunk-sharing policies in peer-to-peer networks like BitTorrent.</li> </ol><br> <p>  Last Modified: 11/17/2024<br> Modified by: Vijay&nbsp;G&nbsp;Subramanian</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The project developed mathematical tools to analyze convergence to the  stationary distribution and mixing of general Markov chains using a reset based perturbation. These theoretical advances were used to develop novel  estimation algorithms for PageRank  estimation and for reinforcement learning with provable performance guarantees. We took a broad perspective so that the developed methods could be used in many contexts. Here we considered several aspects that arise in application domains such as communication netoworks and networking systems, and multi-agent systems. The aspects we concentrated on were: 1) complex stochastic dynamics; 2) countable state-spaces; 3) sampling-based measurements of systems for decision-making; 4) multi-agents aspects like information asymmetry and achieving scalability; 5) constraints on operation arising from power limitations or safety.   Our findings can be broadly summarized as follows:  Mixing analysis of general Markov chains: We studied connections between Markov chains and their perturbations using reset. Here we studied how the stationary distribution and mixing properties varied with the perturbations. We showed a trichotomy in the behavior of the stationary distribution as the perturbation magnitude varied with respect to the mixing time of the underlying Markov chain. We showed Markov chains with pre-cutoff are senstive to perturbations, i.e., there exist small perturbations that can move the stationary distribution far away, and this is almost a necessary and sufficient condition. Information state based RL algorithms for multi-agent systems: A key step in being able to develop RL algorithms with provable performance guarantees for the unknown model setting in decentralized multi-agent teams is to characterize an approximate information state that is not only sufficient for a dynamic programming but also has good regret (to control sub-optimality of the control policies developed). For a large class of multi-agent teams, we provided a direct characterization of an information state that allows for optimal solutions---these were studied for decentralized dynamic teams with and without constraints, dynamic games, and dynamic games of teams. For dynamic games and games of teams, we developed strategy independent information states, and showed the strategy dependent information states can be problematic. As the information state may also grow with time, this framework then was used to study when a good time-invariant approximate information state can be developed.  Learning-based optimal control of queueing system models of communication networks: Optimal control in many systems, particularly continuous-time queueing systems, is not easily amenable to reinforcement learning (RL) methods owing to the lack of dense reward signals and due to complex structures inherent in these system. Using model-class knowledge, however, information rewards (to predict the data generated) are available. Using these alternate signals, we explored the design of optimal controls. We studied three problems in this context: 1) optimal admission control to an Erlang-blocking system with unknown service rate and holding cost; 2) optimal admission control to a single-server with unknown service rate and holding cost; and 3) parametric countable state controlled Markov chains. For these we developed low-regret learning-based optimal control algorithms using either a perturbed maximum-likelihood estimate or Thompson sampling. Learning-based optimal control of multi-agent systems with applications to networking systems: Building on our information-state work, we studied algorithms for cooperative systems with multiple-agents with the goal to develop optimal control methodologies in a data-driven manner. Within this topic we also looked at a decentralized multi-agent formulation for wireless media streaming. This involved the development of learning-based control for partially observed Markov decision processes with constraints. In the wireless media streaming problem feedback delays creates information asymmetry and a decentralized team control problem. We have developed a decentralized team formulation and planning solution. We developed a general result for control of such decentralized team systems with joint constraints, and applied that to the video-streaming problem to develop not only scalable optimal algorithms but learning-based solutions. We studied several other problems: studied a new branching processing that emerged as the local weak limit of a new random graph family based on bilateral preferences; proved the connectivity conjecture for the new random graph family based on bilateral preferences mentioned earlier; studied evolution of cascades and seeding on modular networks; studied a social learning problem with stubborn agents that modeled fake news bots; studied stable and scalable chunk-sharing policies in peer-to-peer networks like BitTorrent.      Last Modified: 11/17/2024       Submitted by: VijayGSubramanian]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Tensors, Topics, Truth, and Time: Methods for Real Tensor Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>299873.00</AwardTotalIntnAmount>
+<AwardAmount>299873</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With the recent surge of applications involving large-scale data comes a critical need to develop efficient, robust, and practical methods for data analysis. With more and more applications having multi-modal data (data coming from many distinct sources and of different types, often having a temporal component), the need for mathematical developments to handle and understand this data is critical. The key mathematical object at the heart of such study is the tensor — a multi-dimensional array that can be viewed as an algebraic extension of the common notion of a mathematical matrix.  The mathematics of tensors has received a lot of recent attention, however, there are still many key lacunae in the scientific understanding of these objects as well as their use in modern data analytic techniques. The project focuses on the development of computationally feasible methods to detect patterns within such tensor data as well as the geometric properties of tensors that can be used for compression. The team will partner with the California Innocence Project (CIP), a nonprofit whose goal is to free innocent persons who have been convicted of a crime. The data involved are inmate letters and case files, all of which are highly multi-modal since they include, for example, court documents, interview testimonials, forensic data, images, and more. The goals in this context will be to facilitate the assessment procedure that CIP uses to decide what cases are likely to be successful, what commonalities they share, and what populations may need more attention. The partnership with CIP will serve not only as a means of direct societal impact but also as a feedback mechanism to test and validate the developed mathematical approaches.&lt;br/&gt;&lt;br/&gt;We focus on two technical thrusts. The first thrust is centered around methods to detect patterns in tensor data without impossible unfoldings, in an online setting, and allowing for topic structures. The second thrust focuses on dimension reduction, developing geometry preserving reduction maps that act on tensors and map to tensors, along with related important methods that utilize such maps. The first thrust will go beyond existing research in several ways. First, it will provide much improved topic detection in dynamic applications. Second, it will develop provable convergence of features in the stochastic online setting. Third, it will offer improved topic structures using a deep model. The second thrust focuses on the mathematics of tensor dimension reduction and will provide provable guarantees for such, along with analysis of the related algorithms. Such practical techniques and understanding simply do not yet exist for true tensor data. The proposed research program will therefore further mathematical understanding of tensor geometries while also providing practical approaches that can be used in any field needing to analyze multi-modal data. The transition of these results to society will be facilitated through connections between the PI and nonprofits, including the California Innocence Project. The project also includes a novel outreach and educational component, including integration of high school student programs, community change programs, teachers, and future teachers in summer workshops and events throughout the year.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011140</AwardID>
+<Investigator>
+<FirstName>Deanna</FirstName>
+<LastName>Needell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deanna Needell</PI_FULL_NAME>
+<EmailAddress><![CDATA[deanna@math.ucla.edu]]></EmailAddress>
+<NSF_ID>000600078</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244200</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951555</ZipCode>
+<StreetAddress><![CDATA[520 Portola Plaza, MS 7620C]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~299873</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The overarching theme of this project was to design efficient and accurate practical large-scale techniques for data analysis of multi-modal data that are currently not addressed in the literature. Two running examples throughout the project were an application to Lyme disease data and to innocence projects, nonprofits who work to free innocent people from prison. Both applications served as an important application in their own right, as well as motivating examples for testing and feedback of our approaches.</p> <p>At the heart of data analysis are mathematical objects that hold data. Often, these are tables of data, called matrices, that consist of rows and columns of data. For example, rows may correspond to individuals and columns their attributes. However, multi-modal data often requires more than just rows and columns, which are generally referred to as modes. Data with three modes for example might consist of a mode for individuals, one for their attributes, and one for time, if perhaps the person&rsquo;s attributes change over various time stamps. This type of data is best represented by the mathematical object called the tensor, a higher dimensional version of a matrix. Although a natural generalization of the well-understood matrix, the mathematical properties of tensors are far more complex and less studied.</p> <p>The first goal of this project was to design innovative topic modeling techniques for tensor data.Topic modeling is a technique in machine learning for revealing latent themes in a dataset. Learning how these topics emerge (i.e. new topics are formed), evolve (i.e. topics gradually change meaning), and fade (i.e. topics disappear in importance) is of particular interest for temporal data in tensor form. However, most existing methods for topic detection use modifications of techniques for matrix factorization, applied to &ldquo;unfolded&rdquo; versions of the tensor data. When the data is large-scale, accurately identifying the topics that align over the entire tensor and especially their changes using this kind of approach is near impossible and far from robust. We developed novel tensor factorization methods that allow for the discovery of topics and patterns within the data without the need to unfold or destroy the natural structure of the data. These include online methods that apply to streaming data or data that is changing over time, data that is so large it cannot be loaded into memory, as well as data that has a hierarchical structure within its topics or themes. All of our developed methods are efficient in terms of computation, and are supported through rigorous testing across a wide array of applications. In addition, our tensor-based methods have been applied to MyLymeData to detect different manifestations of persistent Lyme disease, and also to data from The California Innocence Project to create a tool for topic-based search of case files.</p> <p>Our second goal was focused on methods for compression, or dimension reduction, of large-scale tensor data that still retains its intrinsic information. We refer to such compression as geometry-preserving dimension reduction. Applications for this type of dimension reduction are widespread throughout all areas of signal processing and data science. Prior techniques for this type of compression to tensor data again required the tensor to be &ldquo;unfolded&rdquo; and then measurements were taken of this unfolded matrix. In the case of many modes and high dimensional data, this is completely impractical, as the size of the measurement operator needed to apply to the unfolded data defeats any purpose of compression to begin with. For that reason, we developed a dimension reduction approach that does not require any unfolding, and designed measurement operators that apply &ldquo;modewise&rdquo; to the tensor, meaning the tensor does not need to be unfolded, and the operators are significantly smaller and become practical. We provide rigorous mathematical guarantees that this approach is robust and preserves essentially the same level of geometry as previous approaches, with a huge reduction in computation and storage. We applied this framework of approaches to many public datasets including video and image data, showcasing the competitiveness of the approach and its computational savings.</p> <p>This grant also funded summer undergraduate research programs in which the students developed techniques and applied them to the MyLymeData and criminal justice datasets. It also funded four PhD students who worked on these methods and their theoretical guarantees. All work was discussed regularly with the board of lymedisease.org, the attorneys at the California Innocence Project (and now The Innocence Center), and publications and software were written for the medical community, criminal justice community, and mathematical communities from our approaches.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/01/2024<br> Modified by: Deanna&nbsp;Needell</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The overarching theme of this project was to design efficient and accurate practical large-scale techniques for data analysis of multi-modal data that are currently not addressed in the literature. Two running examples throughout the project were an application to Lyme disease data and to innocence projects, nonprofits who work to free innocent people from prison. Both applications served as an important application in their own right, as well as motivating examples for testing and feedback of our approaches.   At the heart of data analysis are mathematical objects that hold data. Often, these are tables of data, called matrices, that consist of rows and columns of data. For example, rows may correspond to individuals and columns their attributes. However, multi-modal data often requires more than just rows and columns, which are generally referred to as modes. Data with three modes for example might consist of a mode for individuals, one for their attributes, and one for time, if perhaps the persons attributes change over various time stamps. This type of data is best represented by the mathematical object called the tensor, a higher dimensional version of a matrix. Although a natural generalization of the well-understood matrix, the mathematical properties of tensors are far more complex and less studied.   The first goal of this project was to design innovative topic modeling techniques for tensor data.Topic modeling is a technique in machine learning for revealing latent themes in a dataset. Learning how these topics emerge (i.e. new topics are formed), evolve (i.e. topics gradually change meaning), and fade (i.e. topics disappear in importance) is of particular interest for temporal data in tensor form. However, most existing methods for topic detection use modifications of techniques for matrix factorization, applied to unfolded versions of the tensor data. When the data is large-scale, accurately identifying the topics that align over the entire tensor and especially their changes using this kind of approach is near impossible and far from robust. We developed novel tensor factorization methods that allow for the discovery of topics and patterns within the data without the need to unfold or destroy the natural structure of the data. These include online methods that apply to streaming data or data that is changing over time, data that is so large it cannot be loaded into memory, as well as data that has a hierarchical structure within its topics or themes. All of our developed methods are efficient in terms of computation, and are supported through rigorous testing across a wide array of applications. In addition, our tensor-based methods have been applied to MyLymeData to detect different manifestations of persistent Lyme disease, and also to data from The California Innocence Project to create a tool for topic-based search of case files.   Our second goal was focused on methods for compression, or dimension reduction, of large-scale tensor data that still retains its intrinsic information. We refer to such compression as geometry-preserving dimension reduction. Applications for this type of dimension reduction are widespread throughout all areas of signal processing and data science. Prior techniques for this type of compression to tensor data again required the tensor to be unfolded and then measurements were taken of this unfolded matrix. In the case of many modes and high dimensional data, this is completely impractical, as the size of the measurement operator needed to apply to the unfolded data defeats any purpose of compression to begin with. For that reason, we developed a dimension reduction approach that does not require any unfolding, and designed measurement operators that apply modewise to the tensor, meaning the tensor does not need to be unfolded, and the operators are significantly smaller and become practical. We provide rigorous mathematical guarantees that this approach is robust and preserves essentially the same level of geometry as previous approaches, with a huge reduction in computation and storage. We applied this framework of approaches to many public datasets including video and image data, showcasing the competitiveness of the approach and its computational savings.   This grant also funded summer undergraduate research programs in which the students developed techniques and applied them to the MyLymeData and criminal justice datasets. It also funded four PhD students who worked on these methods and their theoretical guarantees. All work was discussed regularly with the board of lymedisease.org, the attorneys at the California Innocence Project (and now The Innocence Center), and publications and software were written for the medical community, criminal justice community, and mathematical communities from our approaches.           Last Modified: 08/01/2024       Submitted by: DeannaNeedell]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

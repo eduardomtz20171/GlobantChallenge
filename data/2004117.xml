@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Development of Controlled Polymerization for Hierarchically Organized Conjugated Polymers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomislav Pintauer</SignBlockName>
+<PO_EMAI>tompinta@nsf.gov</PO_EMAI>
+<PO_PHON>7032927168</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In this project funded by the Macromolecular, Supramolecular and Nanochemistry Program in the Division of Chemistry, Professor Evgueni Nesterov of the Department of Chemistry and Biochemistry at Northern Illinois University is developing new synthetic routes for the construction of conjugated polymers.  Conjugated polymers have special chemical bonds that enable them to conduct electricity.  In this research, conjugated polymers are prepared using catalysts based on palladium.  Palladium is used to speed up the polymerization process, making it easier to convert starting materials to desired product.  The research activities are focused on developing new molecular building blocks for the construction of conjugated polymers and well as understanding of how this palladium-catalyzed reaction works.  The results of this project have the potential to broaden the scope of conjugated polymer structures that can be prepared in a controlled manner, which is of significant importance for the development of more efficient sensing devices.  The research is having a broader impact through the implementation of a chemical drawing program for K-12 public schools.  Particular emphasis is placed on underperforming schools where students have few opportunities to learn about modern science and not exposed to hands-on science experiences. &lt;br/&gt; &lt;br/&gt;This research is focused on rational development of palladium-catalyzed Suzuki-Miyaura catalyst-transfer polymerization (SCTP) as a general method of controlled chain-growth polymerization as well as the expansion of its application for the preparation of a broad range of conjugated polymers.  There are three main objectives associated with the project.  The first objective focuses on structural and mechanistic studies of palladium-catalyzed externally initiated SCTP with the purpose of developing a generally applicable polymerization protocol.  In the second objective, the developed methodology is used to prepare and study sequence-controlled hierarchically organized conjugated polymers architectures.  The last aim concentrates on investigating the possibility to extend SCTP towards larger diversity of monomers and also development of efficient routes towards surface-initiated polymerization for the preparation of thin films with advanced control of structure and morphology.  Expansion of the step-growth polymerization technique to conjugated polymers opens doors for the synthesis of a large range of well-defined semiconducting polymers with controlled molecular weights and dispersities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004117</AwardID>
+<Investigator>
+<FirstName>Evgueni</FirstName>
+<LastName>Nesterov</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Evgueni E Nesterov</PI_FULL_NAME>
+<EmailAddress><![CDATA[een@niu.edu]]></EmailAddress>
+<NSF_ID>000340494</NSF_ID>
+<StartDate>05/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northern Illinois University]]></Name>
+<CityName>DEKALB</CityName>
+<ZipCode>601152828</ZipCode>
+<PhoneNumber>8157531581</PhoneNumber>
+<StreetAddress><![CDATA[1425 W LINCOLN HWY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>14</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL14</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M2EEE68GGCY9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHERN ILLINOIS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northern Illinois University]]></Name>
+<CityName>DeKalb</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>601152828</ZipCode>
+<StreetAddress><![CDATA[301 Lowden Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>14</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL14</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688500</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8611</Code>
+<Text>Energy Efficiency and End Use</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~450000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The ultimate goal of this research program was to conduct a mechanism-based rational development of palladium-catalyzed Suzuki-Miyaura catalyst-transfer polymerization (SCTP) as a general method toward controlled preparation of a broad range of conjugated polymers. Conjugated polymers are a unique class of polymers that contain long carbon chains with the repeating unit consisting of an olefin group. Therefore, conjugated polymers possess extended electron delocalization that gives them valuable properties such as electrical conductivity and ability to emit light upon photoirradiation or applying external voltage. Controlled preparation of precisely defined complex macromolecular structures represents one of the major synthetic challenges still to be addressed in the polymer field. In conjugated polymer research, the push to deliver macromolecular systems with structural accuracy reminiscent of a small-molecule synthesis is stimulated by the improved device performance as well as unique fundamental characteristics that the well-defined polymer systems could possess. As a result of our extensive mechanistic studies, we were able to better understand the process of controlled polymerization, and the effect of monomer structure and reaction conditions on the outcome of the polymerization. This fundamental understanding created a solid foundation for the development of a practical method to prepare a variety of conjugated polymers with the structural precision not achieved before. Furthermore, we applied this findings toward preparation of complex hierarchically organized conjugated polymer systems displaying unique electronic and optoelectronic characteristics for the applications in fluorescent sensors and organic light-emitting devices. The results associated with this award have the potential to broaden the scope of conjugated polymer structures that can be prepared in a controlled manner, which is of significant importance for the design of more efficient and better-performing polymer-based devices. In addition to contribution to science and technology, this project made substantial contributions to the development of human resources and the US workforce by training graduate and undergraduate students in multidisciplinary areas of chemical and materials sciences. The broader impacts of this work were further enhanced through the implementation of a ChemoDemo program with organic and macromolecular chemistry content at K-12 public schools. Particular emphasis was placed on underperforming schools where students often have scarce opportunities to learn about modern science, and are seldom exposed to hands-on science experiences.</p><br> <p>  Last Modified: 11/11/2024<br> Modified by: Evgueni&nbsp;E&nbsp;Nesterov</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The ultimate goal of this research program was to conduct a mechanism-based rational development of palladium-catalyzed Suzuki-Miyaura catalyst-transfer polymerization (SCTP) as a general method toward controlled preparation of a broad range of conjugated polymers. Conjugated polymers are a unique class of polymers that contain long carbon chains with the repeating unit consisting of an olefin group. Therefore, conjugated polymers possess extended electron delocalization that gives them valuable properties such as electrical conductivity and ability to emit light upon photoirradiation or applying external voltage. Controlled preparation of precisely defined complex macromolecular structures represents one of the major synthetic challenges still to be addressed in the polymer field. In conjugated polymer research, the push to deliver macromolecular systems with structural accuracy reminiscent of a small-molecule synthesis is stimulated by the improved device performance as well as unique fundamental characteristics that the well-defined polymer systems could possess. As a result of our extensive mechanistic studies, we were able to better understand the process of controlled polymerization, and the effect of monomer structure and reaction conditions on the outcome of the polymerization. This fundamental understanding created a solid foundation for the development of a practical method to prepare a variety of conjugated polymers with the structural precision not achieved before. Furthermore, we applied this findings toward preparation of complex hierarchically organized conjugated polymer systems displaying unique electronic and optoelectronic characteristics for the applications in fluorescent sensors and organic light-emitting devices. The results associated with this award have the potential to broaden the scope of conjugated polymer structures that can be prepared in a controlled manner, which is of significant importance for the design of more efficient and better-performing polymer-based devices. In addition to contribution to science and technology, this project made substantial contributions to the development of human resources and the US workforce by training graduate and undergraduate students in multidisciplinary areas of chemical and materials sciences. The broader impacts of this work were further enhanced through the implementation of a ChemoDemo program with organic and macromolecular chemistry content at K-12 public schools. Particular emphasis was placed on underperforming schools where students often have scarce opportunities to learn about modern science, and are seldom exposed to hands-on science experiences.     Last Modified: 11/11/2024       Submitted by: EvgueniENesterov]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

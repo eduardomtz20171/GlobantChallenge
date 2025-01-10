@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Geometric and Quantum Structures of 3-Manifolds]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>368548.00</AwardTotalIntnAmount>
+<AwardAmount>368548</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+<PO_EMAI>jkaniaba@nsf.gov</PO_EMAI>
+<PO_PHON>7032924881</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The study of three-dimensional spaces, and knotted curves in them, is essential to our understanding of large- and small-scale aspects of the universe. A classification of these spaces will rest on a mathematical understanding of the possible shapes they can take and the rigidity and flexibility properties they can have. These properties are known as invariants and they come from algebraic, analytic, and geometric considerations, often with crucial input from physics. The proof of Thurston's Geometrization Conjecture established that three-dimensional spaces, called manifolds, decompose into pieces that admit explicit geometries. In the last few decades, ideas from quantum physics have led mathematicians to the discovery of a variety of subtle invariants and structures of three-manifolds and the knotted curves contained in them. There are several open conjectures, both in physics and in mathematics, that predict deep relations between quantum structures and geometries of three-manifolds. This project will investigate the relations of these quantum invariants to the geometric structures arising from Thurston's picture and explore the ramifications and applications of these connections to mathematics and physics. The project also provides topics for graduate student research.&lt;br/&gt;&lt;br/&gt;The project will combine geometric and quantum topology techniques to study the interplay of geometry, topological quantum field theories (TQFT), and combinatorial structures of three-manifolds, with an eye towards developing tools to tackle open conjectures in quantum topology. One part of the project will continue work around the Turaev-Viro invariants volume conjecture, and on the geometry of quantum representations of surface mapping class groups. The goal is to understand the extent to which asymptotic features of TQFT detect or determine the existence of hyperbolic pieces in the geometric decomposition of 3-manifolds. A second part of the project will study relations between the colored Jones knot polynomials, the topology of incompressible surfaces in link complements, and hyperbolic geometry. A third part will develop methods for recognizing geometric structures on three-manifolds from purely combinatorial input and derive estimates on geometric quantities from topological data. This includes the study of low-genus incompressible surfaces in certain link complements and the understanding of how knot diagrammatic properties and constraints affect the geometric structure of link complements.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004155</AwardID>
+<Investigator>
+<FirstName>Efstratia</FirstName>
+<LastName>Kalfagianni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Efstratia Kalfagianni</PI_FULL_NAME>
+<EmailAddress><![CDATA[kalfagia@math.msu.edu]]></EmailAddress>
+<NSF_ID>000148284</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>East Lansing</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~368548</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span><span style="color: #1b1b1b; font-family: Verdana;"><span>The&nbsp;</span></span></span><span><span style="color: #1b1b1b; font-family: Verdana;"><span>project studied&nbsp;three-dimensional spaces (called three-manifolds), and knotted curves in them focussing in particular on&nbsp;</span></span></span><span><span style="color: #1b1b1b; font-family: Verdana;"><span>&nbsp;the possible shapes these spaces take and their rigidity and flexibility properties.&nbsp;</span></span></span></p> <div> <div><span style="color: #1b1b1b; font-family: Verdana;"><span>These kind of properties &nbsp;are called ``invariants" and they come from algebraic, analytic, and geometric considerations, often with input&nbsp;from physics.&nbsp;</span></span></div> <div><span style="color: #1b1b1b; font-family: Verdana;"><span>The proof of Thurston's Geometrization Conjecture established that three-dimensional spaces, called manifolds, decompose into pieces that admit explicit geometries.&nbsp;</span></span></div> <div><span>In the last few decades, ideas from quantum physics led mathematicians to discover new &nbsp;invariants and structures of three-manifolds.</span></div> <div><span>This project established relations of these quantum invariants to the geometric structures arising from Thurston's picture.</span></div> <div><span><br /></span></div> <div><span style="color: #1b1b1b; font-family: Verdana;"><span>The PI&nbsp;</span></span><span>combined geometric and quantum topology techniques to study the interplay of geometry, Topological Quantum Field Theories (TQFTs), and combinatorial structures of three-manifolds.</span></div> <div><span>In one direction the PI and her graduate students studied the question of the &nbsp;</span><span>extent to which asymptotic features of certain Witten-Turaev-Reshetikhin &nbsp;TQFTs detect or determine the existence&nbsp;</span></div> <div><span>of hyperbolic pieces in the geometric decomposition of 3-manifolds.&nbsp;</span></div> <div><span style="color: #1b1b1b; font-family: Verdana;"><span>A second part of the project studied relations between the colored Jones knot polynomial and&nbsp;classical knot invariants such as the crossing knot number and the c</span></span><span style="color: #1b1b1b; font-family: Verdana;"><span>rosscap knot number.</span></span></div> <div><span style="color: #1b1b1b; font-family: Verdana;"><span>A third part studied relations between combinatorial properties&nbsp;of knots and invariants arising from knot diagrams, to hyperbolic geometry which is commonly found in knot complements.</span></span></div> <div><span style="color: #1b1b1b; font-family: Verdana;"><span><br /></span></span></div> <div><span style="color: #1b1b1b; font-family: Verdana;"><span><span>The award also included support for graduate students completing their PhD degree under the direction of the PI.</span><br /></span></span></div> <div><span style="color: #1b1b1b; font-family: Verdana;"><span>The PI has graduated 5 PhD students during the duration of this award. The PhD theses were&nbsp;based on projects&nbsp;</span><span>stemming from the research generated by the award.</span></span></div> </div> <p>&nbsp;</p><br> <p>  Last Modified: 08/01/2024<br> Modified by: Efstratia&nbsp;Kalfagianni</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Theproject studiedthree-dimensional spaces (called three-manifolds), and knotted curves in them focussing in particular onthe possible shapes these spaces take and their rigidity and flexibility properties.  These kind of properties are called ``invariants" and they come from algebraic, analytic, and geometric considerations, often with inputfrom physics. The proof of Thurston's Geometrization Conjecture established that three-dimensional spaces, called manifolds, decompose into pieces that admit explicit geometries. In the last few decades, ideas from quantum physics led mathematicians to discover new invariants and structures of three-manifolds. This project established relations of these quantum invariants to the geometric structures arising from Thurston's picture.   The PIcombined geometric and quantum topology techniques to study the interplay of geometry, Topological Quantum Field Theories (TQFTs), and combinatorial structures of three-manifolds. In one direction the PI and her graduate students studied the question of the extent to which asymptotic features of certain Witten-Turaev-Reshetikhin TQFTs detect or determine the existence of hyperbolic pieces in the geometric decomposition of 3-manifolds. A second part of the project studied relations between the colored Jones knot polynomial andclassical knot invariants such as the crossing knot number and the crosscap knot number. A third part studied relations between combinatorial propertiesof knots and invariants arising from knot diagrams, to hyperbolic geometry which is commonly found in knot complements.   The award also included support for graduate students completing their PhD degree under the direction of the PI.  The PI has graduated 5 PhD students during the duration of this award. The PhD theses werebased on projectsstemming from the research generated by the award.         Last Modified: 08/01/2024       Submitted by: EfstratiaKalfagianni]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

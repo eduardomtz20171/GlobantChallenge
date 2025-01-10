@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Further Investigations from the Seeded and Natural Orographic Wintertime clouds: the Idaho Experiment (SNOWIE)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>372349.00</AwardTotalIntnAmount>
+<AwardAmount>372349</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas Anderson</SignBlockName>
+<PO_EMAI>nanderso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924715</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Precipitation enhancement through cloud seeding has taken place in the Western United States and other regions around the globe for several decades.  One of the main weather regimes where cloud seeding is attempted is in mountainous terrain in areas where there is a significant amount of liquid water in the clouds.  Direct observational evidence of the chain of events from the release of cloud seeding material to the formation of precipitation was shown in data from a recent NSF-supported field campaign.  This award will provide researchers with the opportunity to further analyze data from that campaign to answer additional questions about the science behind cloud seeding.  The research represents a public-private partnership between NSF-sponsored scientists and a utility that provides hydroelectric power.  The next generation of scientists will also be trained during this project.&lt;br/&gt;&lt;br/&gt;The research team will expand upon the analysis of field campaign data from the Seeded and Natural Orographic Wintertime clouds: the Idaho Experiment (SNOWIE) that was conducted in 2017.  Initial results have shown that cloud seeding in orographic regions can initiate snowfall in certain situations.  The research team will move beyond the obvious cases of cloud seeding impacts to analyze every case during the campaign, including those where cloud seeding was conducted while natural snowfall was also occurring.  The overarching goal of the project is to provide estimates, with uncertainty limits, of precipitation enhancement from glaciogenic cloud seeding for all SNOWIE seeding events.  This will involve coupling data analysis using the SNOWIE data set and state of the art modeling.  &lt;br/&gt;&lt;br/&gt;The researchers have identified a set of questions to address the following research hypotheses:  1) Mesoscale and microscale updrafts observed in mostly stratiform orographic clouds are focal areas for the production of supercooled liquid water and sometimes natural ice particles, 2) Airborne seeding of orographic clouds, under the right conditions, will produce changes in microphysical properties of clouds and precipitation detectable with in-situ and remote sensors, even in conditions where natural precipitation is occurring, and 3) For all SNOWIE cases, seeding impacts on precipitation over a mountain basin can be estimated quantitatively, and uncertainties established, through numerical simulations employing seeding parameterizations improved utilizing analyses from the observations.  NSF-supported researchers will collaborate with researchers at the National Center for Atmospheric Research and the Idaho Power Company.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016106</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Rauber</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert M Rauber</PI_FULL_NAME>
+<EmailAddress><![CDATA[r-rauber@uiuc.edu]]></EmailAddress>
+<NSF_ID>000224099</NSF_ID>
+<StartDate>06/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>V2PHZ2CSCH63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>Urbana</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S. Wright Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152500</Code>
+<Text>Physical &amp; Dynamic Meteorology</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~372349</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Summary:</strong> The overarching goal of SNOWIE, the <em>Seeded and Natural Orographic Wintertime clouds&mdash;the Idaho Experiment</em>, was to understand the natural dynamical and microphysical processes by which precipitation forms and evolves within orographic winter storms and to determine the physical processes by which cloud seeding with silver iodide (AgI), either from ground generators or aircraft, impacts the amount and spatial distribution of snow falling across a river basin. This collaborative project between the Universities of Wyoming, Colorado, and Illinois, the National Center for Atmospheric Research, and Idaho Power Company, involved a 8-week field campaign between January-March 2017 in Payette Mountains of Idaho resulting in 24 cloud seeding events, post-processing and data analyses from the SNOWIE field campaign, and numerical simulations of orographic cloud systems in the using a version of the Weather Research and Forecasting (WRF) model developed specifically for simulating orographic cloud seeding effects. 35 manuscripts related to SNOWIE were published collaboratively across the groups involved in SNOWIE, and several more are in review or preparation. The SNOWIE results, representing a critical step toward quantifying cloud seeding impact and understanding cloud seeding efficacy, have been covered by numerous newspaper or TV interviews, podcasts, and newspaper and magazine articles. Many presentations were given at national and international conferences.</p> <p>&nbsp;</p> <p><strong>Intellectual merit:</strong> SNOWIE was the first experiment to provide a clear understanding of the microphysical processes associated with natural orographic cloud systems, and to document the entire chain of events related to cloud seeding beginning with the introduction of silver iodide aerosol into cloud regions containing supercooled liquid water, leading to the nucleation of ice crystals, followed by ice particle growth to sizes sufficiently large such that snow falls to the ground. The PIs were able to quantify the snowfall on the ground by isolating radar returns that were unambiguously the result of cloud seeding in regions with light or no natural precipitation.&nbsp;For several cloud seeding events, precipitation gauges measured increases between 0.05 and 0.3 mm as precipitation generated by cloud seeding passed over the instruments. The total amount of water generated by cloud seeding ranged from 120,000 cubic meters (100 ac ft) for 20 min of cloud seeding, 240,000 cubic meters (196 ac ft) for 86 min of seeding to &nbsp;340,000 cubic meters (275 ac ft) for 24 min of cloud seeding. We then linked the spatial distribution and magnitude of snowfall from cloud seeding to natural atmospheric conditions, seeding operations, and dynamical, thermodynamical, and microphysical processes. The main results from this research are: i) more AgI did not necessarily produce more snowfall, ii) the greatest amount of snowfall, largest area covered by snowfall, and highest peak snowfall produced occurred on the day with the largest and most widespread occurrence of supercooled drizzle, highest wind shear, and greater liquid water content along and downwind of the seeding track, iii) the day with the least supercooled drizzle and the lowest LWC downwind of the seeding track produced the smallest amount of snowfall through seeding.</p> <p>&nbsp;</p> <p><strong>Broader Impact: </strong>SNOWIE results provide new insights in the requisite ambient conditions needed for effective glaciogenic seeding of orographic clouds, and thus build the scientific foundation for weather modification as a tool for precipitation enhancement, which are beneficial to the Western States that suffer in many years from water shortages. SNOWIE investigators closely worked with the Idaho Power Company (IPC) during the experiment and data analysis showing a successful public-private partnership. All collaborative publications were a joint effort between the participating universities, scientists from the National Center for Atmospheric Science, and members of IPC. Six undergraduate and eleven graduate students have conducted research as part of the SNOWIE project. Students were involved in the science meetings and the bi-annual workshops. Students are lead or co-authors on research papers and presentations, and have presented their research at national conferences and published their results in peer-reviewed journals. SNOWIE research has led to the completion of several M.S. degrees and Ph.D. degrees. Findings from SNOWIE have been incorporated into the advanced undergraduate and graduate courses on applied, mountain, and experimental meteorology at the Universities of Illinois, Wyoming, and Colorado.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/12/2024<br> Modified by: Robert&nbsp;M&nbsp;Rauber</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Summary: The overarching goal of SNOWIE, the Seeded and Natural Orographic Wintertime cloudsthe Idaho Experiment, was to understand the natural dynamical and microphysical processes by which precipitation forms and evolves within orographic winter storms and to determine the physical processes by which cloud seeding with silver iodide (AgI), either from ground generators or aircraft, impacts the amount and spatial distribution of snow falling across a river basin. This collaborative project between the Universities of Wyoming, Colorado, and Illinois, the National Center for Atmospheric Research, and Idaho Power Company, involved a 8-week field campaign between January-March 2017 in Payette Mountains of Idaho resulting in 24 cloud seeding events, post-processing and data analyses from the SNOWIE field campaign, and numerical simulations of orographic cloud systems in the using a version of the Weather Research and Forecasting (WRF) model developed specifically for simulating orographic cloud seeding effects. 35 manuscripts related to SNOWIE were published collaboratively across the groups involved in SNOWIE, and several more are in review or preparation. The SNOWIE results, representing a critical step toward quantifying cloud seeding impact and understanding cloud seeding efficacy, have been covered by numerous newspaper or TV interviews, podcasts, and newspaper and magazine articles. Many presentations were given at national and international conferences.      Intellectual merit: SNOWIE was the first experiment to provide a clear understanding of the microphysical processes associated with natural orographic cloud systems, and to document the entire chain of events related to cloud seeding beginning with the introduction of silver iodide aerosol into cloud regions containing supercooled liquid water, leading to the nucleation of ice crystals, followed by ice particle growth to sizes sufficiently large such that snow falls to the ground. The PIs were able to quantify the snowfall on the ground by isolating radar returns that were unambiguously the result of cloud seeding in regions with light or no natural precipitation.For several cloud seeding events, precipitation gauges measured increases between 0.05 and 0.3 mm as precipitation generated by cloud seeding passed over the instruments. The total amount of water generated by cloud seeding ranged from 120,000 cubic meters (100 ac ft) for 20 min of cloud seeding, 240,000 cubic meters (196 ac ft) for 86 min of seeding to 340,000 cubic meters (275 ac ft) for 24 min of cloud seeding. We then linked the spatial distribution and magnitude of snowfall from cloud seeding to natural atmospheric conditions, seeding operations, and dynamical, thermodynamical, and microphysical processes. The main results from this research are: i) more AgI did not necessarily produce more snowfall, ii) the greatest amount of snowfall, largest area covered by snowfall, and highest peak snowfall produced occurred on the day with the largest and most widespread occurrence of supercooled drizzle, highest wind shear, and greater liquid water content along and downwind of the seeding track, iii) the day with the least supercooled drizzle and the lowest LWC downwind of the seeding track produced the smallest amount of snowfall through seeding.      Broader Impact: SNOWIE results provide new insights in the requisite ambient conditions needed for effective glaciogenic seeding of orographic clouds, and thus build the scientific foundation for weather modification as a tool for precipitation enhancement, which are beneficial to the Western States that suffer in many years from water shortages. SNOWIE investigators closely worked with the Idaho Power Company (IPC) during the experiment and data analysis showing a successful public-private partnership. All collaborative publications were a joint effort between the participating universities, scientists from the National Center for Atmospheric Science, and members of IPC. Six undergraduate and eleven graduate students have conducted research as part of the SNOWIE project. Students were involved in the science meetings and the bi-annual workshops. Students are lead or co-authors on research papers and presentations, and have presented their research at national conferences and published their results in peer-reviewed journals. SNOWIE research has led to the completion of several M.S. degrees and Ph.D. degrees. Findings from SNOWIE have been incorporated into the advanced undergraduate and graduate courses on applied, mountain, and experimental meteorology at the Universities of Illinois, Wyoming, and Colorado.              Last Modified: 09/12/2024       Submitted by: RobertMRauber]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

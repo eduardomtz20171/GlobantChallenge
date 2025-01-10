@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NRI: FND: Natural Power Transmission through Unconstrained Fluids for Robotic Manipulation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>749043.00</AwardTotalIntnAmount>
+<AwardAmount>749043</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alex Leonessa</SignBlockName>
+<PO_EMAI>aleoness@nsf.gov</PO_EMAI>
+<PO_PHON>7032922633</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This National Robotics Initiative project will promote the progress of science and advance the national health, prosperity and welfare; by studying a novel approach to control the transmission of power from a robot through an unconstrained flow of water to manipulate an object using fluid-structure interaction control strategies and without any other direct contact. In many existing robotic control problems, power is transferred through direct contact with the object to be manipulated. This project focuses on the case of underwater manipulation, where the environment (water) has a significant impact on the overall system performance. In a fluid-based system, interactions between bodies and fluid around them transfer a significant amount of momentum to the water. In this work, an object in water will be controlled by manipulating an upstream structure whose wake can be controlled. The wake of the upstream object will be controlled by forcing it to rotate at a given frequency and angular velocity. Through closed-loop feedback, the desired motion of the downstream object can be obtained by inputting the desired motion of the upstream structure and thus controlling its wake. The approach can be applied to establish a novel method for natural and unconstrained gait training for persons recovering from stroke or injury by naturally assisting their gait using flow forces. Beyond health, extensions of this work can be applied in manufacturing to create new methods for fluid-based material handling and production processes. The project will also motivate and broaden the diversity of the next generation of engineers and scientists through training undergraduate and graduate students and designing and implementing an innovative underwater robotics outreach program for K-12 students.&lt;br/&gt; &lt;br/&gt;The transformative impact of this work on robotics is enabling a new fluid-based, non-contact manipulation strategy. The work creates new insights in the field of fluid-structure interactions by introducing a closed-loop control method to indirectly impose desired motions of an object placed in the wake of another structure. An “explore-and-exploit” methodology is used to effectively search for parameters in the highly nonlinear system to achieve optimal limit cycle oscillations of a hydrofoil in the wake of a controlled rotating cylinder. The parameters can then be used to design a controller to obtain the desired trajectory for a multi-body system by controlling the rotation rate of an upstream cylinder. With this approach, an underwater robot gait training system is created that can manipulate the power of the existing fluid flow to apply controlled forces to the lower limbs of a person to assist them while walking. The system is supported by new predictive simulations of underwater human gait with fluid-structure interaction dynamics to optimize the interconnected human-robot system. The approach can also be generalized for other applications in underwater robotics for non-contact manipulation using flow forces.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2024409</AwardID>
+<Investigator>
+<FirstName>Yahya</FirstName>
+<LastName>Modarres-Sadeghi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yahya Modarres-Sadeghi</PI_FULL_NAME>
+<EmailAddress><![CDATA[modarres@engin.umass.edu]]></EmailAddress>
+<NSF_ID>000559924</NSF_ID>
+<StartDate>08/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>Sup</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME>IV</PI_SUFX_NAME>
+<PI_FULL_NAME>Frank C Sup</PI_FULL_NAME>
+<EmailAddress><![CDATA[sup@umass.edu]]></EmailAddress>
+<NSF_ID>000600565</NSF_ID>
+<StartDate>08/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>010039252</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress><![CDATA[101 COMMONWEALTH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName/>
+<StateCode>MA</StateCode>
+<ZipCode>010359450</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>756900</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>801300</Code>
+<Text>NRI-National Robotics Initiati</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8086</Code>
+<Text>Natl Robotics Initiative (NRI)</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~749043</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project explored a novel approach to robotic power transmission by leveraging fluid dynamics to manipulate objects and assist human movement without direct contact. The research introduced an innovative method for assisting human gait in rehabilitation settings by controlling fluid flow and its interaction with structures. The outcome has significant implications for robotics, healthcare, and other industries where fluid-based manipulation is advantageous.</p>  <p>The project developed a method to assist human gait through vortex shedding. Vortices are shed in the wake of a bluff object like a cylinder, and their size and frequency can be controlled by rotating the cylinder at different frequencies and angular velocities. The vortices then move with the flow and interact with a downstream hydrofoil worn on the lower limbs to generate periodic forces that align with natural human gait.</p>  <p>In small-scale experiments, a double pendulum system fitted with hydrofoils successfully replicated human-like gait patterns. By controlling the angular velocity of the upstream rotating cylinder, the team demonstrated that vortex dynamics could induce stable and predictable motion. Moreover, two independent double pendulums can be made to move asynchronously next to each other in the flow, allowing for independent influence on the subject&rsquo;s lower limbs. These findings formed the basis for scaling the system to human proportions. In full-scale experiments, the underwater treadmill setup featured wearable hydrofoils that applied controlled forces to the participants&rsquo; lower limbs. Human trials showed that the system could provide periodic assistance aligned with gait patterns, with participants reporting comfort and a natural feel. Motion capture data supported these observations, demonstrating a strong correlation between experimental parameters, such as oscillation frequency and flow velocity, and the perceived assistance.</p>  <p>Computational simulations further supported these findings, and the team modeled underwater gait dynamics, analyzing how fluid forces interacted with human motion. These simulations offered insights into optimizing the hydrofoil design and control strategies. The development of a simulation environment enabled offline testing of control algorithms, such as an adaptive model predictive controller, which were later integrated into the full-scale system.</p>  <p>This research also contributed to broader societal impacts. Graduate and undergraduate students were core to the project, gaining hands-on experience in fluid dynamics, robotics, and system control. Outreach efforts, including summer camps, summer interns, and STEM initiatives, introduced high school students to engineering concepts, including underrepresented groups. These activities emphasized the practical and societal applications of robotics, inspiring future generations of engineers and scientists.</p>  <p>The project&rsquo;s outcomes represent a significant advancement in fluid-structure interaction and its application in robotics. Controlled vortex shedding demonstrates a transformative approach to non-contact manipulation, offering a natural and adaptive method for assisting human movement. Beyond rehabilitation, the principles developed in this work can be extended to underwater robotics, where controlled fluid flows enable new methods of propulsion and manipulation, as well as manufacturing processes that utilize fluid-based handling systems.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/17/2024<br> Modified by: Frank&nbsp;C&nbsp;Sup</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2024409/2024409_10694042_1734452182586_Double_pendulum_umass_blk--rgov-214x142.png" original="/por/images/Reports/POR/2024/2024409/2024409_10694042_1734452182586_Double_pendulum_umass_blk--rgov-800width.png" title="A series of snapshots of two double pendulums with attached hydrofoils interacting with vortices in the flow"><img src="/por/images/Reports/POR/2024/2024409/2024409_10694042_1734452182586_Double_pendulum_umass_blk--rgov-66x44.png" alt="A series of snapshots of two double pendulums with attached hydrofoils interacting with vortices in the flow"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Two double pendulums with attached hydrofoils can replicate a gait pattern by interacting with controlled vortices shed from an upstream cylinder (not shown in the image) whose rotation is controlled.</div> <div class="imageCredit">Adrian Carleton</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Frank&nbsp;C&nbsp;Sup <div class="imageTitle">A series of snapshots of two double pendulums with attached hydrofoils interacting with vortices in the flow</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2024409/2024409_10694042_1734452794847_vortices_shedding_simulation_UMass--rgov-214x142.png" original="/por/images/Reports/POR/2024/2024409/2024409_10694042_1734452794847_vortices_shedding_simulation_UMass--rgov-800width.png" title="Snapshots of flow structure at selected instances during the gait cycle around two legs walking in water"><img src="/por/images/Reports/POR/2024/2024409/2024409_10694042_1734452794847_vortices_shedding_simulation_UMass--rgov-66x44.png" alt="Snapshots of flow structure at selected instances during the gait cycle around two legs walking in water"></a> <div class="imageCaptionContainer"> <div class="imageCaption">When two legs pass next to each other during a gait cycle, extra flow forces are exerted on the other leg. Besides the expected extra drag force when the legs pass each other, our results reveal an unexpected large lateral force on each leg as the other leg accelerates forward and passes the leg.</div> <div class="imageCredit">Umang Patel</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Frank&nbsp;C&nbsp;Sup <div class="imageTitle">Snapshots of flow structure at selected instances during the gait cycle around two legs walking in water</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2024409/2024409_10694042_1734452338096_vortex_shedding_umass--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2024409/2024409_10694042_1734452338096_vortex_shedding_umass--rgov-800width.jpg" title="Snapshot of vortices shed from a cylinder placed in a flow of water"><img src="/por/images/Reports/POR/2024/2024409/2024409_10694042_1734452338096_vortex_shedding_umass--rgov-66x44.jpg" alt="Snapshot of vortices shed from a cylinder placed in a flow of water"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The vortices that are shed in the wake of a cylinder forced to rotate are visualized using hydrogen bubbles. The magnitude and frequency of the vortex shedding can be controlled by controlling the frequency of the cylinder rotation.</div> <div class="imageCredit">Adrian Carleton</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Frank&nbsp;C&nbsp;Sup <div class="imageTitle">Snapshot of vortices shed from a cylinder placed in a flow of water</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project explored a novel approach to robotic power transmission by leveraging fluid dynamics to manipulate objects and assist human movement without direct contact. The research introduced an innovative method for assisting human gait in rehabilitation settings by controlling fluid flow and its interaction with structures. The outcome has significant implications for robotics, healthcare, and other industries where fluid-based manipulation is advantageous.    The project developed a method to assist human gait through vortex shedding. Vortices are shed in the wake of a bluff object like a cylinder, and their size and frequency can be controlled by rotating the cylinder at different frequencies and angular velocities. The vortices then move with the flow and interact with a downstream hydrofoil worn on the lower limbs to generate periodic forces that align with natural human gait.    In small-scale experiments, a double pendulum system fitted with hydrofoils successfully replicated human-like gait patterns. By controlling the angular velocity of the upstream rotating cylinder, the team demonstrated that vortex dynamics could induce stable and predictable motion. Moreover, two independent double pendulums can be made to move asynchronously next to each other in the flow, allowing for independent influence on the subjects lower limbs. These findings formed the basis for scaling the system to human proportions. In full-scale experiments, the underwater treadmill setup featured wearable hydrofoils that applied controlled forces to the participants lower limbs. Human trials showed that the system could provide periodic assistance aligned with gait patterns, with participants reporting comfort and a natural feel. Motion capture data supported these observations, demonstrating a strong correlation between experimental parameters, such as oscillation frequency and flow velocity, and the perceived assistance.    Computational simulations further supported these findings, and the team modeled underwater gait dynamics, analyzing how fluid forces interacted with human motion. These simulations offered insights into optimizing the hydrofoil design and control strategies. The development of a simulation environment enabled offline testing of control algorithms, such as an adaptive model predictive controller, which were later integrated into the full-scale system.    This research also contributed to broader societal impacts. Graduate and undergraduate students were core to the project, gaining hands-on experience in fluid dynamics, robotics, and system control. Outreach efforts, including summer camps, summer interns, and STEM initiatives, introduced high school students to engineering concepts, including underrepresented groups. These activities emphasized the practical and societal applications of robotics, inspiring future generations of engineers and scientists.    The projects outcomes represent a significant advancement in fluid-structure interaction and its application in robotics. Controlled vortex shedding demonstrates a transformative approach to non-contact manipulation, offering a natural and adaptive method for assisting human movement. Beyond rehabilitation, the principles developed in this work can be extended to underwater robotics, where controlled fluid flows enable new methods of propulsion and manipulation, as well as manufacturing processes that utilize fluid-based handling systems.         Last Modified: 12/17/2024       Submitted by: FrankCSup]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

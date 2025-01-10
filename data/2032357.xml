@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Single-cell feedback, optogenetics, and deep learning to control gene expression in bacteria]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>820298.00</AwardTotalIntnAmount>
+<AwardAmount>820298</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Garza</SignBlockName>
+<PO_EMAI>aggarza@nsf.gov</PO_EMAI>
+<PO_PHON>7032922489</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Heterogenous gene expression changes in bacterial communities are thought to produce subpopulations with particular survival benefits such as antibiotic tolerance.  Currently, scientists have few tools to mimic and study these gene expression events in a controlled manner.  The overall goal of this project is to develop light-based tools for precisely driving gene expression in targeted bacterial cells.  The tools have the potential to reveal how heterogenous changes in gene expression impact the survival of subpopulations of bacterial cells. In addition to these scientific advances, the research program is complemented by educational and outreach activities. These include partnering with the Tumble Science Podcast for Kids to create episodes targeted for young audiences (ages 6-12). The project also provides training opportunities for undergraduate students and includes additional outreach efforts related to K-12 science education.   &lt;br/&gt;&lt;br/&gt;The technical goal of this project is to develop methods to precisely drive gene expression in single cells, and to test these techniques in the context of bacterial stress response.  To achieve this, the researchers will use a high-throughput approach that uses automated microscopy, optogenetics, and microfluidics to implement real-time feedback control.  Cellular processes are noisy and nonlinear, and can involve delays and differential responses between genetically identical cells.  Thus, traditional control algorithms are either not accurate enough or too computationally expensive to be appropriate for large-scale analysis of gene regulatory network dynamics.  This proposal takes a new approach, taking advantage of emerging control algorithms based on deep learning models. The researchers will conduct high-throughput experiments where optogenetic light signals are applied to many single cells to generate datasets for training a deep learning model.  The deep learning model will then be used to implement feedback control in single cells using Deep Model Predictive Control to rapidly predict the optimal optogenetic stimulus to apply.  The ultimate utility of these tools is in their ability to precisely control genes within biological networks. To test this potential, the researchers will focus on the acid stress response network.  By using feedback control to impose dynamic profiles on network regulators, the researchers will study how signals propagate within the network and how cells use gene expression dynamics to hedge against the sudden appearance of stress.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032357</AwardID>
+<Investigator>
+<FirstName>Mary</FirstName>
+<LastName>Dunlop</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mary J Dunlop</PI_FULL_NAME>
+<EmailAddress><![CDATA[mjdunlop@bu.edu]]></EmailAddress>
+<NSF_ID>000536336</NSF_ID>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151703</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THL6A6JLE1S7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151300</ZipCode>
+<StreetAddress><![CDATA[881 Commonwealth Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>801100</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~820298</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this research project we developed sophisticated methods to control and analyze gene expression in bacterial cells through an integrated approach combining machine learning, optogenetics, and time-lapse microscopy. The primary objective was to create robust tools enabling precise manipulation and observation of gene expression across large populations of individual bacterial cells. These tools address a critical challenge in biological research: understanding how genetic networks allow cells to respond to environmental changes and how individual cellular variations contribute to population-level behaviors. By providing a means to directly observe and manipulate gene expression at a high resolution, the research provided insights into complex biological processes, including stress responses, antibiotic resistance, and cellular adaptation mechanisms.</p>  <p>The core technological innovation was a platform for gene expression control that significantly expanded the scale of single-cell analysis, increasing the number of simultaneously monitored cells over the previous state-of-the-art by more than two orders of magnitude. This advance resulted in a platform capable of controlling thousands of cells in parallel. By leveraging deep learning algorithms and light-responsive genetic constructs, we developed a system capable of generating complex gene expression patterns and examining cellular response variability with high resolution.</p>  <p>Two critical computational technologies also emerged from the project. First, a deep neural network prediction model was developed to forecast cellular responses to genetic interventions, demonstrating excellent accuracy in managing biological variability and noise. Second, we created advanced image analysis software using deep learning algorithms to dramatically reduce the time required to track and analyze single-cell dynamics in microscopy images.</p>  <p>The utility of these technologies was demonstrated by characterizing genetic control mechanisms in several key areas. These include driving gene expression in bacterial stress response networks, both at the level of single genes and in complex regulatory networks. In addition, the research team developed novel light responsive genetic tools for regulation of bacterial systems. By creating precise tools for observing and controlling cellular processes, this project produced enhanced methodological approaches for investigating cellular genetic mechanisms.</p>  <p>The research accomplishments of the program were complemented by educational outreach activities. In collaboration with the Tumble Science Podcast for Kids, we created two podcasts on topics related to synthetic biology and microbiology. These podcasts were oriented towards young audiences (ages 6-12). In addition, the project provided research experiences for undergraduate students who were able to work on efforts related to the overall project goals. In addition, team members engaged broadly in outreach efforts, included participation in activities promoting STEM education and mentorship.</p><br> <p>  Last Modified: 11/26/2024<br> Modified by: Mary&nbsp;J&nbsp;Dunlop</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In this research project we developed sophisticated methods to control and analyze gene expression in bacterial cells through an integrated approach combining machine learning, optogenetics, and time-lapse microscopy. The primary objective was to create robust tools enabling precise manipulation and observation of gene expression across large populations of individual bacterial cells. These tools address a critical challenge in biological research: understanding how genetic networks allow cells to respond to environmental changes and how individual cellular variations contribute to population-level behaviors. By providing a means to directly observe and manipulate gene expression at a high resolution, the research provided insights into complex biological processes, including stress responses, antibiotic resistance, and cellular adaptation mechanisms.    The core technological innovation was a platform for gene expression control that significantly expanded the scale of single-cell analysis, increasing the number of simultaneously monitored cells over the previous state-of-the-art by more than two orders of magnitude. This advance resulted in a platform capable of controlling thousands of cells in parallel. By leveraging deep learning algorithms and light-responsive genetic constructs, we developed a system capable of generating complex gene expression patterns and examining cellular response variability with high resolution.    Two critical computational technologies also emerged from the project. First, a deep neural network prediction model was developed to forecast cellular responses to genetic interventions, demonstrating excellent accuracy in managing biological variability and noise. Second, we created advanced image analysis software using deep learning algorithms to dramatically reduce the time required to track and analyze single-cell dynamics in microscopy images.    The utility of these technologies was demonstrated by characterizing genetic control mechanisms in several key areas. These include driving gene expression in bacterial stress response networks, both at the level of single genes and in complex regulatory networks. In addition, the research team developed novel light responsive genetic tools for regulation of bacterial systems. By creating precise tools for observing and controlling cellular processes, this project produced enhanced methodological approaches for investigating cellular genetic mechanisms.    The research accomplishments of the program were complemented by educational outreach activities. In collaboration with the Tumble Science Podcast for Kids, we created two podcasts on topics related to synthetic biology and microbiology. These podcasts were oriented towards young audiences (ages 6-12). In addition, the project provided research experiences for undergraduate students who were able to work on efforts related to the overall project goals. In addition, team members engaged broadly in outreach efforts, included participation in activities promoting STEM education and mentorship.     Last Modified: 11/26/2024       Submitted by: MaryJDunlop]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

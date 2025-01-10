@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Postdoctoral Fellowship in Biology FY 2020]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>207000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joel Abraham</SignBlockName>
+<PO_EMAI>jkabraha@nsf.gov</PO_EMAI>
+<PO_PHON>7032924694</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2020, Research Using Biological Collections. The fellowship supports research and training of the Fellow that will utilize biological collections in innovative ways. Many plants produce nectar, a sugary liquid, as a reward and food source for animals that protect or pollinate the plant. Nectar is produced from a tissue called the nectary, which can be found on various parts of the plant, including leaves and flowers. Despite this important character, outstanding questions remain to be addressed about the evolution of nectar and nectaries, particularly in the monocots, a group of plants that include grasses and orchids and agriculturally important crops, such as corn, wheat, pineapple, banana, and palm. Most monocots have septal nectaries, a distinctive type of nectary not found in any non-monocot plant. Hypotheses about the septal nectary have been proposed, and genetics may provide an additional lens to address these hypotheses. However, nothing is known about the genetic underpinnings of septal nectaries. By using living plant collections at the UCLA Mildred E. Mathias Botanical Garden, the Huntington Botanical Gardens, and California Botanic Garden, along with advanced imaging and sequencing technologies, insights will be made into the evolution of nectaries and how the septal nectary may have contributed to the diversification of monocots. Additionally, these gardens are invaluable venues for the Fellow to engage the public on the importance of nectar in agriculture, evolution, ecology, and conservation through educational outreach activities and public talks to diverse audiences as well as through social media outlets.&lt;br/&gt;&lt;br/&gt;The Fellow will describe the morphology and anatomy of septal nectaries across four stages of development for ten monocot species by using histology, scanning electron microscopy, and microCT scanning. To identify core genes involved in nectary development and nectar secretion, the Fellow will sequence the transcriptome from nectary and non-nectary tissues across development and perform comparative analyses within and across species. These analyses will determine whether septal nectaries have similar genetic and developmental programming compared to more well-studied flowering plants. Resulting data have the potential to explain nectary origins and persistence in monocots. The multiple training opportunities in this project will assist the Fellow in building an interdisciplinary research program as an independent researcher with strong collaborations with botanic gardens. The Fellow will also mentor students from underrepresented groups and facilitate workshops for early career scientists to discuss contemporary issues in science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010944</AwardID>
+<Investigator>
+<FirstName>Irene</FirstName>
+<LastName>Liao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Irene Liao</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000733918</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Liao, Irene]]></Name>
+<CityName>Arcadia</CityName>
+<ZipCode>910064936</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California, Los Angeles]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900957239</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>001Y00</Code>
+<Text>Collections Postdocs</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>727500</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+<FUND_OBLG>2021~69000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Plants often produce nectar as a reward for many animals in return for transferring pollen or defending the plant.&nbsp; The specific plant structure that makes nectar is known as the nectary, and the nectary can be found on different plant organs &ndash; the leaf, flower, stem &ndash; in various sizes and shapes, depending on the plant species. Interestingly, in one major group of plants, the nectary structure is pretty similar, even among species that are distantly related. These plants are monocots, which include pineapple, banana, orchid, asparagus, ginger, date palm, corn, lily, and rice. There are species that do not make nectar &ndash; corn, rice, and date palm &ndash; as they are primarily wind-pollinated and do not form nectaries. But the many of the other species, such as asparagus, banana, and pineapple, secrete nectar and make a type of nectary known as the septal nectary. How the septal nectary has been conserved throughout these plants is the major question of my research project.</p> <p>&nbsp;</p> <p>As a start to address this question, I am identifying genes that could be responsible for making the septal nectary. The septal nectary forms in the female part of the flower, the gynoecium, specifically in the margins where three carpels fuse together. Because the septal nectary is embedded in the gynoecium, the nectar travels through ducts to make it out to the outer surface and pools at the base of the flower where pollinators are able to access it. This property also makes it difficult to isolate the specific structure for genetic studies. Therefore, I am using the latest technology &ndash; sequencing RNA from individual cells &ndash; to more precisely identify the genes that are expressed in the nectary.</p> <p>&nbsp;</p> <p>For my project, I partnered with the Huntington Botanical Garden to obtain banana flowers and a professor at the University of California, Riverside for asparagus flowers. I isolated nuclei, the organelle in the cell that contains the DNA, and sequenced the RNA from a mixture of different nuclei from the banana and asparagus gynoecium. I used computational pipelines to analyze the sequence and generated plots, known as single cell atlases, to summarize how the individual cells clustered together based on similarities in their gene expression patterns. I also made comparisons with known genetic information from other species. From these results, I inferred specific cell clusters that could be the nectary, and the highly expressing genes in those clusters could be possible genes to follow up to see how they contribute to septal nectary development. Interestingly, the genes that were similar between banana and asparagus &ldquo;nectary&rdquo; cells were involved in making sugar, which is the primary component in nectar.</p> <p>&nbsp;</p> <p>Over the course of this fellowship, I learned the latest scientific techniques that are revolutionizing biological research. I have also attended multiple conferences, where I not only shared the initial findings of my research, but also developed new collaborations. One such collaboration is with Drs. Yan Gong, Elena Kramer, and Rahul Roy, where we are co-editing a special issue on the latest research in nectar and nectaries from researchers around the world in the journal <em>New Phytologist</em>. In this manner, we may be able to form a global network of scientists to address fundamental questions in nectar biology.</p> <p>&nbsp;</p> <p>I have built connections with the gardens in the greater Los Angeles region. I have primarily used the Huntington as the source of material for my research &ndash; their vast collections are incredibly inspiring. I have served as on the Advisory committee for the UCLA Mathias Botanical Garden, including giving a public lecture on kumquats for their &ldquo;Plants of the Holidays&rdquo; celebration. I have given a scientific seminar at the California Botanic Garden and interacted with the staff and students, which led to a collaboration to perform histological sections on the date palm and asparagus gynoecium. Additionally, I had the pleasure of visiting the USDA germplasm for citrus and date palm. These living collections hold so much diversity and may be the key to addressing the effects of climate change on plants. The gardens are also a place for wonder, inspiration, and education, and I hope to continue strengthening these relationships in the future.</p> <p>&nbsp;</p> <p>The most important experience from the fellowship was mentoring high school and undergraduate students from various backgrounds. I learned how to better design and carry out hands-on research projects that aligned with the expectations from both partners. These students were dedicated and engaged in the projects, which resulted in high quality poster and oral presentations. These interactions have solidified my aspiration to work with undergraduates, particularly to give them research experiences where they feel empowered to tackle complex topics in whatever field they hope to pursue.</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/07/2024<br> Modified by: Irene&nbsp;Liao</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2010944/2010944_10681657_1723049682774_Asparagus_female_side_view_230403--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2010944/2010944_10681657_1723049682774_Asparagus_female_side_view_230403--rgov-800width.jpeg" title="asparagus female flower"><img src="/por/images/Reports/POR/2024/2010944/2010944_10681657_1723049682774_Asparagus_female_side_view_230403--rgov-66x44.jpeg" alt="asparagus female flower"></a> <div class="imageCaptionContainer"> <div class="imageCaption">view of the asparagus female flower with and without the tepals. Labels are found on the pictures, as this was used for posts on social media (Twitter/X and Instagram - @nectaromania)</div> <div class="imageCredit">Irene Liao</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Irene&nbsp;Liao <div class="imageTitle">asparagus female flower</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2010944/2010944_10681657_1723050060910_Monkey_Flower_And_Hummingbird--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2010944/2010944_10681657_1723050060910_Monkey_Flower_And_Hummingbird--rgov-800width.jpg" title="Image for New Phytologist call for papers in Nectar and nectaries"><img src="/por/images/Reports/POR/2024/2010944/2010944_10681657_1723050060910_Monkey_Flower_And_Hummingbird--rgov-66x44.jpg" alt="Image for New Phytologist call for papers in Nectar and nectaries"></a> <div class="imageCaptionContainer"> <div class="imageCaption">drawing made for the New Phytologist call for papers in Nectar and nectaries. It depicts an Anna�s hummingbird visiting a monkeyflower to showcase the importance of nectar in ecological interactions</div> <div class="imageCredit">Irene Liao</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Irene&nbsp;Liao <div class="imageTitle">Image for New Phytologist call for papers in Nectar and nectaries</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2010944/2010944_10681657_1723049469108_IMG_2884_Original--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2010944/2010944_10681657_1723049469108_IMG_2884_Original--rgov-800width.jpeg" title="agapanthus gynoecium cross-section"><img src="/por/images/Reports/POR/2024/2010944/2010944_10681657_1723049469108_IMG_2884_Original--rgov-66x44.jpeg" alt="agapanthus gynoecium cross-section"></a> <div class="imageCaptionContainer"> <div class="imageCaption">transverse cross section of agapanthus gynoecium with arrows pointing to the areas where the nectary is and with a label �nectary�</div> <div class="imageCredit">Irene Liao</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Irene&nbsp;Liao <div class="imageTitle">agapanthus gynoecium cross-section</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2010944/2010944_10681657_1723049614059_IMG_9697--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2010944/2010944_10681657_1723049614059_IMG_9697--rgov-800width.jpg" title="banana inflorescence"><img src="/por/images/Reports/POR/2024/2010944/2010944_10681657_1723049614059_IMG_9697--rgov-66x44.jpg" alt="banana inflorescence"></a> <div class="imageCaptionContainer"> <div class="imageCaption">banana inflorescence with the pistillate (female) flowers open. The staminate (male) flowers are still developing under the maroon bracts and will open later.</div> <div class="imageCredit">Irene Liao</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Irene&nbsp;Liao <div class="imageTitle">banana inflorescence</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2010944/2010944_10681657_1723049959265_UMAP_musaNB_postHarmony_230817_mod--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2010944/2010944_10681657_1723049959265_UMAP_musaNB_postHarmony_230817_mod--rgov-800width.jpg" title="single cell atlas of banana gynoecium"><img src="/por/images/Reports/POR/2024/2010944/2010944_10681657_1723049959265_UMAP_musaNB_postHarmony_230817_mod--rgov-66x44.jpg" alt="single cell atlas of banana gynoecium"></a> <div class="imageCaptionContainer"> <div class="imageCaption">a combined single cell atlas of the banana gynoecium. Each dot represents a cell, and the colors represent the tissues the cell originated. Light orange - top region of the female gynoecium, dark orange - top region of the male gynoecium, lavender - bottom region of the male gynoecium</div> <div class="imageCredit">Irene Liao</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Irene&nbsp;Liao <div class="imageTitle">single cell atlas of banana gynoecium</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Plants often produce nectar as a reward for many animals in return for transferring pollen or defending the plant. The specific plant structure that makes nectar is known as the nectary, and the nectary can be found on different plant organs  the leaf, flower, stem  in various sizes and shapes, depending on the plant species. Interestingly, in one major group of plants, the nectary structure is pretty similar, even among species that are distantly related. These plants are monocots, which include pineapple, banana, orchid, asparagus, ginger, date palm, corn, lily, and rice. There are species that do not make nectar  corn, rice, and date palm  as they are primarily wind-pollinated and do not form nectaries. But the many of the other species, such as asparagus, banana, and pineapple, secrete nectar and make a type of nectary known as the septal nectary. How the septal nectary has been conserved throughout these plants is the major question of my research project.      As a start to address this question, I am identifying genes that could be responsible for making the septal nectary. The septal nectary forms in the female part of the flower, the gynoecium, specifically in the margins where three carpels fuse together. Because the septal nectary is embedded in the gynoecium, the nectar travels through ducts to make it out to the outer surface and pools at the base of the flower where pollinators are able to access it. This property also makes it difficult to isolate the specific structure for genetic studies. Therefore, I am using the latest technology  sequencing RNA from individual cells  to more precisely identify the genes that are expressed in the nectary.      For my project, I partnered with the Huntington Botanical Garden to obtain banana flowers and a professor at the University of California, Riverside for asparagus flowers. I isolated nuclei, the organelle in the cell that contains the DNA, and sequenced the RNA from a mixture of different nuclei from the banana and asparagus gynoecium. I used computational pipelines to analyze the sequence and generated plots, known as single cell atlases, to summarize how the individual cells clustered together based on similarities in their gene expression patterns. I also made comparisons with known genetic information from other species. From these results, I inferred specific cell clusters that could be the nectary, and the highly expressing genes in those clusters could be possible genes to follow up to see how they contribute to septal nectary development. Interestingly, the genes that were similar between banana and asparagus nectary cells were involved in making sugar, which is the primary component in nectar.      Over the course of this fellowship, I learned the latest scientific techniques that are revolutionizing biological research. I have also attended multiple conferences, where I not only shared the initial findings of my research, but also developed new collaborations. One such collaboration is with Drs. Yan Gong, Elena Kramer, and Rahul Roy, where we are co-editing a special issue on the latest research in nectar and nectaries from researchers around the world in the journal New Phytologist. In this manner, we may be able to form a global network of scientists to address fundamental questions in nectar biology.      I have built connections with the gardens in the greater Los Angeles region. I have primarily used the Huntington as the source of material for my research  their vast collections are incredibly inspiring. I have served as on the Advisory committee for the UCLA Mathias Botanical Garden, including giving a public lecture on kumquats for their Plants of the Holidays celebration. I have given a scientific seminar at the California Botanic Garden and interacted with the staff and students, which led to a collaboration to perform histological sections on the date palm and asparagus gynoecium. Additionally, I had the pleasure of visiting the USDA germplasm for citrus and date palm. These living collections hold so much diversity and may be the key to addressing the effects of climate change on plants. The gardens are also a place for wonder, inspiration, and education, and I hope to continue strengthening these relationships in the future.      The most important experience from the fellowship was mentoring high school and undergraduate students from various backgrounds. I learned how to better design and carry out hands-on research projects that aligned with the expectations from both partners. These students were dedicated and engaged in the projects, which resulted in high quality poster and oral presentations. These interactions have solidified my aspiration to work with undergraduates, particularly to give them research experiences where they feel empowered to tackle complex topics in whatever field they hope to pursue.        Last Modified: 08/07/2024       Submitted by: IreneLiao]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

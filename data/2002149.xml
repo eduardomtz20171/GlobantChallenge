@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+<PO_EMAI>sgdewint@nsf.gov</PO_EMAI>
+<PO_PHON>7032922599</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist. The title of the project for this fellowship to Austin D. Conner is "New methods for the complexity of matrix multiplication: border apolarity and prescribed symmetry." The host institution for the fellowship is Harvard University and the sponsoring scientist is Joseph Harris.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002149</AwardID>
+<Investigator>
+<FirstName>Austin</FirstName>
+<LastName>Conner</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Austin D Conner</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000789915</NSF_ID>
+<StartDate>03/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Conner, Austin Daniel]]></Name>
+<CityName>College Station</CityName>
+<ZipCode>77840</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021382901</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This report concerns the NSF Mathematical Sciences Postdoctoral Research Fellowship held during the period 9/1/20-8/31/24. The fellowship supported the PI's research and undergraduate mentoring activities. Furthermore, several software programs were developed by the PI and made available publicly.</p>  <p>The research of the PI is initially motivated by a problem from the field of complexity theory in computer science, which studies how efficiently certain tasks can be performed. For instance, one might ask how quickly one can find a word in a dictionary or put a list of words into alphabetical order. The task this project is primarily concerned with is the multiplication of matrices. Matrices are two dimensional grids of numbers which represent certain kinds of functions, machines which produce an output for a given input. The functions matrices represent are special in that if two different inputs are combined, then the output of the combination is just the combination of the outputs of the inputs individually. For example, a concert hall can be viewed as a function taking the input of a playing instrument and producing as output the sound heard by a listener. A specific concert hall could be represented by a matrix, as a listener could not distinguish if two instruments were recorded together in the hall, or if they were recorded individually and later played at the same time. A pair of matrices representing such functions can be multiplied to obtain a third matrix, which represents the result of putting the output of the first function into the input of the second function. For instance, the product of two matrices representing concert halls would represent recording an instrument in the first concert hall and then listening to this recording being played in the second hall.</p>  <p>Functions which respect combinations like this are ubiquitous in engineering, and so being able to efficiently compute their products is fundamental. In 1969, Strassen showed that this problem, the complexity of computing a matrix product, is actually equivalent to a certain decomposition problem in multilinear algebra. Specifically, the operation of taking a matrix product can be viewed as a certain tensor, a point living in a certain flat high dimensional space, and an efficient algorithm for matrix multiplication corresponds to an expression of this tensor as a small sum of simple tensors. The topic of study was this and other similar decomposition problems which can all be summarized as trying to express complicated objects as a smallest possible combination of simple objects, with simple usually being interpreted in some kind of computational sense.</p>  <p>Research achieved during the grant period includes the following</p>  <p>1. In joint work with Landsberg and Harper, the PI determined the border rank of many small matrix multiplication tensors and the determinant polynomial, and provided new lower bounds for many other matrix multiplication tensors. Prior to this, the only nontrivial matrix multiplication tensor whose border rank was known was tensor corresponding to 2 by 2 matrix multiplication.</p>  <p>2. In joint work with Landsberg and Huang, the PI determined the border rank of the second Kronecker power of the small Coppersmith and Winograd tensor equals the square of its border rank, answering a question open since Coppersmith and Winograd used this tensor to upper bound the complexity of matrix multiplication in the 80's.</p>  <p>3. In joint work with Michalek, the PI introduced a new invariant for tensors generalizing and unifying many other invariants of mathematics, including the chromatic polynomial of a graph, the characteristic numbers of a system of quadrics, the Euler characteristic of a determinantal hypersurface, and the maximum likelihood degree of a linear concentration model.</p>  <p>4. In joint work with Han and Michalek, the PI determined the ideal of the Gaussian Graphical Model of the cycle, answering a question asked by Sturmfels and Uhler.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/29/2024<br> Modified by: Austin&nbsp;D&nbsp;Conner</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This report concerns the NSF Mathematical Sciences Postdoctoral Research Fellowship held during the period 9/1/20-8/31/24. The fellowship supported the PI's research and undergraduate mentoring activities. Furthermore, several software programs were developed by the PI and made available publicly.    The research of the PI is initially motivated by a problem from the field of complexity theory in computer science, which studies how efficiently certain tasks can be performed. For instance, one might ask how quickly one can find a word in a dictionary or put a list of words into alphabetical order. The task this project is primarily concerned with is the multiplication of matrices. Matrices are two dimensional grids of numbers which represent certain kinds of functions, machines which produce an output for a given input. The functions matrices represent are special in that if two different inputs are combined, then the output of the combination is just the combination of the outputs of the inputs individually. For example, a concert hall can be viewed as a function taking the input of a playing instrument and producing as output the sound heard by a listener. A specific concert hall could be represented by a matrix, as a listener could not distinguish if two instruments were recorded together in the hall, or if they were recorded individually and later played at the same time. A pair of matrices representing such functions can be multiplied to obtain a third matrix, which represents the result of putting the output of the first function into the input of the second function. For instance, the product of two matrices representing concert halls would represent recording an instrument in the first concert hall and then listening to this recording being played in the second hall.    Functions which respect combinations like this are ubiquitous in engineering, and so being able to efficiently compute their products is fundamental. In 1969, Strassen showed that this problem, the complexity of computing a matrix product, is actually equivalent to a certain decomposition problem in multilinear algebra. Specifically, the operation of taking a matrix product can be viewed as a certain tensor, a point living in a certain flat high dimensional space, and an efficient algorithm for matrix multiplication corresponds to an expression of this tensor as a small sum of simple tensors. The topic of study was this and other similar decomposition problems which can all be summarized as trying to express complicated objects as a smallest possible combination of simple objects, with simple usually being interpreted in some kind of computational sense.    Research achieved during the grant period includes the following    1. In joint work with Landsberg and Harper, the PI determined the border rank of many small matrix multiplication tensors and the determinant polynomial, and provided new lower bounds for many other matrix multiplication tensors. Prior to this, the only nontrivial matrix multiplication tensor whose border rank was known was tensor corresponding to 2 by 2 matrix multiplication.    2. In joint work with Landsberg and Huang, the PI determined the border rank of the second Kronecker power of the small Coppersmith and Winograd tensor equals the square of its border rank, answering a question open since Coppersmith and Winograd used this tensor to upper bound the complexity of matrix multiplication in the 80's.    3. In joint work with Michalek, the PI introduced a new invariant for tensors generalizing and unifying many other invariants of mathematics, including the chromatic polynomial of a graph, the characteristic numbers of a system of quadrics, the Euler characteristic of a determinantal hypersurface, and the maximum likelihood degree of a linear concentration model.    4. In joint work with Han and Michalek, the PI determined the ideal of the Gaussian Graphical Model of the cycle, answering a question asked by Sturmfels and Uhler.         Last Modified: 12/29/2024       Submitted by: AustinDConner]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

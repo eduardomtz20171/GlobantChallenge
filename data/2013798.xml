@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nucleus-wide epigenetic response to DNA damage]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>778653.00</AwardTotalIntnAmount>
+<AwardAmount>778653</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Manju Hingorani</SignBlockName>
+<PO_EMAI>mhingora@nsf.gov</PO_EMAI>
+<PO_PHON>7032927323</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The overarching goal of the project is to better understand how cells respond to DNA damage. Recent evidence suggests that localized DNA damage affects the cell state as a whole, but the mechanisms underlying such a large-scale response are unknown. This project aims to investigate nucleus-wide changes in chromatin modification and reorganization that occur well beyond the sites of DNA damage, and their impact on gene expression. The project will provide multidisciplinary training opportunities, ranging from visualization of single cell responses to DNA damage to genome-wide views of damage signaling, for graduate, undergraduate and high school students.&lt;br/&gt;&lt;br/&gt;Past studies have focused on chromatin changes at sites of DNA damage that are important for proper DNA repair. More recent data suggest that damage signaling spreads beyond these sites and triggers nucleus-wide changes in chromatin. This project will utilize a combination of fluorescent single-cell imaging and integrative genomic sequencing analyses to determine DNA damage-induced histone modifications and alterations in three-dimensional chromatin interactions, and address how these changes influence gene expression and cellular phenotype. The outcomes will provide new insights into epigenetic DNA damage signaling in mammalian cells.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2013798</AwardID>
+<Investigator>
+<FirstName>Kyoko</FirstName>
+<LastName>Yokomori</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kyoko Yokomori</PI_FULL_NAME>
+<EmailAddress><![CDATA[kyokomor@uci.edu]]></EmailAddress>
+<NSF_ID>000489650</NSF_ID>
+<StartDate>07/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Seyed</FirstName>
+<LastName>Mortazavi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Seyed Mortazavi</PI_FULL_NAME>
+<EmailAddress><![CDATA[ali.mortazavi@uci.edu]]></EmailAddress>
+<NSF_ID>000647518</NSF_ID>
+<StartDate>07/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress><![CDATA[160 ALDRICH HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MJC5FCYQTPE6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>Irvine</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>926971700</ZipCode>
+<StreetAddress><![CDATA[H131 Hitachi Building]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA47</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111200</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~778653</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The long-term goal of our laboratory research has been to understand how cells respond to DNA damage.&nbsp;&nbsp;DNA encoding our genetic information exists in the form of chromatin (DNA: protein complexes) in the genome whose integrity is continually threatened by metabolic products generated during normal cellular activities, by errors that arise during copying genetic information to transmit it to the next generation of cells, and by exposure to various genotoxic chemicals and rays. The resulting DNA lesions, if not faithfully repaired, can accumulate as mutations corroding the quality of the genome.&nbsp;&nbsp;To understand the cellular response to DNA damage, much effort has been made to identify factors important for repair of different types of DNA damage, and to understand the molecular mechanisms of repair, including the regulation of chromatin structure at damage sites.&nbsp;&nbsp;However, more systemic cell-wide response to DNA damage&mdash;how the cells change their states in response to DNA damage&mdash;was relatively understudied.&nbsp;&nbsp;Previously, we found that mixture of different types of DNA damage (complex DNA damage) triggers metabolic switch to produce energy (ATP) more efficiently to increase the chance of cell survival.&nbsp;&nbsp;This was governed by a DNA damage-induced signaling by an enzyme Poly (ADP-ribose) polymerase (PARP).&nbsp;&nbsp;We also found evidence that PARP activation affects cell to cell communication in terms of calcium signaling.&nbsp;&nbsp;These global effects of PARP signaling was somewhat unexpected as PARP enzyme detects and is activated by DNA damage and was thought to influence the DNA repair process at damage sites.&nbsp;&nbsp;These studies suggest that DNA damage-induced PARP signaling affects multiple aspects of cell biology.&nbsp;&nbsp;Thus, during the funding period, we continue to investigate the effects of DNA damage-induced PARP signaling on cellular processes other than the actual DNA repair at damage sites.&nbsp;&nbsp;We found that DNA damage induces nucleus-wide chromatin changes that are also dependent on PARP signaling--clustering of chromatin domains typically linked to silencing of expression of genetic information termed &ldquo;heterochromatin&rdquo; around the nucleolus in human cells.&nbsp;&nbsp;Nucleoli are the sub-regions of the nucleus where synthesis of ribosomal RNAs (rRNAs) occurs, which are exported to the cytoplasm to form ribosomes necessary for protein synthesis.&nbsp;&nbsp;Using laser microirradiation to induce damage at the defined sub-micron region in the nucleus, we confirmed that this clustering is a secondary response and not at the primary damage sites.&nbsp;&nbsp;We found that this structure formation is transient (and thus not reflecting the terminal cell death phenotype).&nbsp;&nbsp;Using biochemical 3D chromatin structural analyses and in situ hybridization-based cell biological analyses, we found the significant involvement of heterochromatin domains of acrocentric chromosomes.&nbsp;&nbsp;Cells are known to shut off rRNA synthesis to stop protein synthesis to save their energy to deal with stress.&nbsp;&nbsp;Since acrocentric chromosomes encode rRNA gene clusters, we tested whether damage-induced heterochromatin clustering is linked to suppression of rRNA expression.&nbsp;&nbsp;We obtained the evidence that this induced heterochromatinization correlates with downregulation of ribosomal RNA transcription.&nbsp;&nbsp;Thus, our results suggest that PARP activation increases heterochromatin domain interactions and transiently enforces silencing of rRNA synthesis, which may be another way PARP ensure the securing of cellular energy important for cell survival under DNA damage stress condition.&nbsp;&nbsp;We also performed genetic screening to discover genes involved in PARP-dependent metabolic switch, and found multiple candidate genes involved in the regulation of protein degradation.&nbsp;&nbsp;Thus, our results began to reveal the multifaceted role of PARP signaling and the significance of controlling the cellular metabolisms in response to DNA damage.&nbsp;&nbsp;We hope to continue to further define the metabolic responses to DNA damage important for cell survival.&nbsp;&nbsp;Through this project, valuable multi-disciplinary training opportunities were provided to trainees at all levels (high school, undergraduate, graduate and postdoctoral, both in-person and as a group) who have learned to harness cutting-edge technologies and think critically of fundamental biology questions.&nbsp;&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/29/2024<br> Modified by: Kyoko&nbsp;Yokomori</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The long-term goal of our laboratory research has been to understand how cells respond to DNA damage.DNA encoding our genetic information exists in the form of chromatin (DNA: protein complexes) in the genome whose integrity is continually threatened by metabolic products generated during normal cellular activities, by errors that arise during copying genetic information to transmit it to the next generation of cells, and by exposure to various genotoxic chemicals and rays. The resulting DNA lesions, if not faithfully repaired, can accumulate as mutations corroding the quality of the genome.To understand the cellular response to DNA damage, much effort has been made to identify factors important for repair of different types of DNA damage, and to understand the molecular mechanisms of repair, including the regulation of chromatin structure at damage sites.However, more systemic cell-wide response to DNA damagehow the cells change their states in response to DNA damagewas relatively understudied.Previously, we found that mixture of different types of DNA damage (complex DNA damage) triggers metabolic switch to produce energy (ATP) more efficiently to increase the chance of cell survival.This was governed by a DNA damage-induced signaling by an enzyme Poly (ADP-ribose) polymerase (PARP).We also found evidence that PARP activation affects cell to cell communication in terms of calcium signaling.These global effects of PARP signaling was somewhat unexpected as PARP enzyme detects and is activated by DNA damage and was thought to influence the DNA repair process at damage sites.These studies suggest that DNA damage-induced PARP signaling affects multiple aspects of cell biology.Thus, during the funding period, we continue to investigate the effects of DNA damage-induced PARP signaling on cellular processes other than the actual DNA repair at damage sites.We found that DNA damage induces nucleus-wide chromatin changes that are also dependent on PARP signaling--clustering of chromatin domains typically linked to silencing of expression of genetic information termed heterochromatin around the nucleolus in human cells.Nucleoli are the sub-regions of the nucleus where synthesis of ribosomal RNAs (rRNAs) occurs, which are exported to the cytoplasm to form ribosomes necessary for protein synthesis.Using laser microirradiation to induce damage at the defined sub-micron region in the nucleus, we confirmed that this clustering is a secondary response and not at the primary damage sites.We found that this structure formation is transient (and thus not reflecting the terminal cell death phenotype).Using biochemical 3D chromatin structural analyses and in situ hybridization-based cell biological analyses, we found the significant involvement of heterochromatin domains of acrocentric chromosomes.Cells are known to shut off rRNA synthesis to stop protein synthesis to save their energy to deal with stress.Since acrocentric chromosomes encode rRNA gene clusters, we tested whether damage-induced heterochromatin clustering is linked to suppression of rRNA expression.We obtained the evidence that this induced heterochromatinization correlates with downregulation of ribosomal RNA transcription.Thus, our results suggest that PARP activation increases heterochromatin domain interactions and transiently enforces silencing of rRNA synthesis, which may be another way PARP ensure the securing of cellular energy important for cell survival under DNA damage stress condition.We also performed genetic screening to discover genes involved in PARP-dependent metabolic switch, and found multiple candidate genes involved in the regulation of protein degradation.Thus, our results began to reveal the multifaceted role of PARP signaling and the significance of controlling the cellular metabolisms in response to DNA damage.We hope to continue to further define the metabolic responses to DNA damage important for cell survival.Through this project, valuable multi-disciplinary training opportunities were provided to trainees at all levels (high school, undergraduate, graduate and postdoctoral, both in-person and as a group) who have learned to harness cutting-edge technologies and think critically of fundamental biology questions.         Last Modified: 11/29/2024       Submitted by: KyokoYokomori]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

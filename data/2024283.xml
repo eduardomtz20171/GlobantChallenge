@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[HNDS-I: Linked Administrative Data in Social Services]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1999999.00</AwardTotalIntnAmount>
+<AwardAmount>1999999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas N Nagle</SignBlockName>
+<PO_EMAI>nnagle@nsf.gov</PO_EMAI>
+<PO_PHON>7032924490</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Linkage Initiative for Policy Evaluation and Research (LIPER) will create unique databases&lt;br/&gt;to support innovative social science research. The new databases will support new&lt;br/&gt;understandings of how households use debt and assets to weather volatility and make longterm&lt;br/&gt;decisions; better diagnosis of the strengths and weaknesses of the social safety net and its&lt;br/&gt;efficacy in supporting self-sufficiency; and new insights into the impacts of the full suite of&lt;br/&gt;government programs and services on a variety of outcomes, from health to housing stability to&lt;br/&gt;justice involvement. The databases will use administrative microdata, which is person-level data&lt;br/&gt;that is collected by state and local agencies in the process of providing services. Government is&lt;br/&gt;already collecting these data, and the project will unlock their value for understanding population&lt;br/&gt;needs and the efficacy of policies in meeting these needs. The LIPER databases will be&lt;br/&gt;particularly valuable for inclusive research involving a wide range of underrepresented groups&lt;br/&gt;and for understanding the complex dynamics of racial and economic equity. Access to the&lt;br/&gt;LIPER databases will allow investigators across a wide range of social science fields to&lt;br/&gt;generate accurate and actionable insights leading to more informed public policy and,&lt;br/&gt;ultimately, to improved individual well-being.&lt;br/&gt;&lt;br/&gt;The LIPER databases will each link data from multiple agencies. Linked data of this type is&lt;br/&gt;increasingly important for breakthrough research. Yet in the United States, legal and technical&lt;br/&gt;barriers often prevent it from being used by researchers. LIPER will develop data resources,&lt;br/&gt;including linkages across previously separate data systems; build mechanisms and&lt;br/&gt;infrastructure to support wide access of researchers to the data for a range of projects, while&lt;br/&gt;preserving privacy and security; and provide opportunities for the next generation of social&lt;br/&gt;science researchers to build their research programs with LIPER data resources. It will build on&lt;br/&gt;existing relationships that the LIPER project researchers have with California agencies and will&lt;br/&gt;be housed within the California Policy Lab at UC Berkeley and UCLA, which is dedicated to&lt;br/&gt;using data driven insights to address urgent social problems. LIPER will be built within a secure&lt;br/&gt;computer infrastructure that allows remote access for approved researchers. The LIPER&lt;br/&gt;website will allow researchers to explore public metadata and the team will review applications&lt;br/&gt;for researchers to access the data in a streamlined fashion. The team will also innovate on&lt;br/&gt;methods for linking data without access to personally identifiable information.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2024283</AwardID>
+<Investigator>
+<FirstName>Hilary</FirstName>
+<LastName>Hoynes</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hilary W Hoynes</PI_FULL_NAME>
+<EmailAddress><![CDATA[hoynes@berkeley.edu]]></EmailAddress>
+<NSF_ID>000338036</NSF_ID>
+<StartDate>09/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Raphael</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven Raphael</PI_FULL_NAME>
+<EmailAddress><![CDATA[stevenraphael@berkeley.edu]]></EmailAddress>
+<NSF_ID>000184328</NSF_ID>
+<StartDate>09/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jesse</FirstName>
+<LastName>Rothstein</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jesse Rothstein</PI_FULL_NAME>
+<EmailAddress><![CDATA[rothstein@berkeley.edu]]></EmailAddress>
+<NSF_ID>000820870</NSF_ID>
+<StartDate>09/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Regents of the University of California]]></Name>
+<CityName>Berkeley</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947201650</ZipCode>
+<StreetAddress><![CDATA[2521 Channing Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>130Y00</Code>
+<Text>Human Networks &amp; Data Sci Infr</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~1999999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-6c3865ae-7fff-2f25-4680-15c3aa24c9d9"> </span></p>  <p dir="ltr"><span>The California Policy Lab's (CPL) Policy Evaluation and Research Linkage Initiative (PERLI) created three longitudinal datasets made up of anonymized government and private sector administrative data, which provide rich and detailed information on interactions with government programs. These datasets have unlocked new research insights into human services programs, financial health, and the utilization of government services including health, housing, and involvement with the criminal justice system.</span></p>  <p>&nbsp;</p>  <ul>  <li dir="ltr">  <p dir="ltr"><span>The PERLI:Life Course database longitudinally links data from individuals in one county across several domains, including criminal justice, health, behavioral health, human services, and housing. It allows researchers to study cross-domain problems like homelessness, crime, and mental illness, and to better assess the impact of government programs and policies.</span></p>  </li>  <li dir="ltr">  <p dir="ltr"><span>The PERLI:Safety Net database longitudinally links person-level information about enrollments and allotment amounts in SNAP and TANF in a large state, alongside earnings for those individuals during (and 6 quarters before/after) enrollment. It enables research on the efficacy of the existing safety net, successful exits from government support, and shortfalls in take-up among those eligible.</span></p>  </li>  <li dir="ltr">  <p dir="ltr"><span>The PERLI: Household Economics database builds a picture of household balance sheets -- one that integrates debt and other economic indicators -- longitudinally for over millions of Americans. This database currently consists of detailed credit data from one of the three major credit bureaus for over 100 million Americans, showing creditworthiness, debt balances, demographics, and residential location. We have a signed data use agreement with a payroll data provider and intend to link that data with the credit data, allowing us to see income and debts at granular intervals. This dataset allows the study of consumer financial well-being and identification of trends among households related to credit, debt, income, and mobility.</span></p>  </li>  </ul>  <p>&nbsp;</p>  <p dir="ltr"><span>Our goal in creating these databases was to increase the accessibility of domestic linked administrative microdata for social, behavioral, and economic (SBE) researchers, while maintaining strong data privacy protections. These types of data are owned by government agencies and a complex set of privacy laws, trust issues, and technological barriers have created data silos. We have developed the datasets and a streamlined application process, housed on the </span><a href="https://capolicylab.org/data-resources/perli/"><span>PERLI website</span></a><span>, for researchers to apply to request data for specific projects. If projects are feasible, we share proposals with our agency partners for their review and approval. Researchers' access to data for approved projects is closely monitored; and data does not leave CPL's highly secure infrastructure.</span></p>  <p>&nbsp;</p>  <p dir="ltr"><span>We have seen a strong demand among researchers for the PERLI databases. We currently have 98 active projects. Most -- 87 -- are using the PERLI:Household Economics dataset. The remaining 11 projects utilize the PERLI:Life Course or PERLI:Safety Net datasets. CPL itself is also using these datasets for 32 additional projects. Access to databases has proven especially useful to early-career scholars and students, who previously did not have the ability to navigate the complex, time-consuming, and expensive process of negotiating administrative data use agreements.</span></p>  <p>&nbsp;</p>  <p dir="ltr"><span>In addition to providing researchers with access to datasets, we have also produced and disseminated a description of a hashed linkage methodology that CPL uses to link administrative datasets across government silos. Importantly, this technique allows linkages without requiring the sharing of personally identifiable information, which never leaves the agencies that hold it. Our toolkit for linking government administrative data contributes a methodological innovation to the broader SBE research community.</span></p>  <p>&nbsp;</p>  <p dir="ltr"><span>The longer-term goal of PERLI is to generate research insights that contribute to improving the well-being of individuals through a better understanding of effective policy. Already, PERLI has resulted in 36 reports on a broad range of topics, from the eligibility and take-up rates of SNAP benefits among California public university students, to the effectiveness of state outreach strategies to increase take-up rates of tax credits, to the mobility trends of Californians moving out of the state. An important component of PERLI is not just publishing academic papers, but translating research findings into digestible policy briefs targeted for legislators and agency personnel. We saw policymaker engagement increase on the topics mentioned, resulting in legislative hearings, executive action, and new legislation.</span></p>  <p>&nbsp;</p>  <p dir="ltr"><span>Finally, PERLI has deepened research-practice partnerships between academia, government, and industry. To build the datasets, CPL developed strong partnerships with government agencies, and we have also developed additional partnerships beyond the initial data owners. For example, based on interest from researchers and our government partner, the California Department of Social Services, the PERLI:Safety Net database has been linked to (1) CalFresh application data from GetCalFresh.org, an online tool for CalFresh applications provided by non-profit Code for America, and (2) college student enrollment and financial aid data for students at the University of California and California community colleges provided by California Student Aid Commission. These expansions have allowed us to better understand take-up and enrollment in CalFresh among college students, and barriers to remaining on CalFresh.</span></p>  <div><span><br /></span></div>  <p>&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/19/2024<br> Modified by: Jesse&nbsp;Rothstein</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[       The California Policy Lab's (CPL) Policy Evaluation and Research Linkage Initiative (PERLI) created three longitudinal datasets made up of anonymized government and private sector administrative data, which provide rich and detailed information on interactions with government programs. These datasets have unlocked new research insights into human services programs, financial health, and the utilization of government services including health, housing, and involvement with the criminal justice system.            The PERLI:Life Course database longitudinally links data from individuals in one county across several domains, including criminal justice, health, behavioral health, human services, and housing. It allows researchers to study cross-domain problems like homelessness, crime, and mental illness, and to better assess the impact of government programs and policies.        The PERLI:Safety Net database longitudinally links person-level information about enrollments and allotment amounts in SNAP and TANF in a large state, alongside earnings for those individuals during (and 6 quarters before/after) enrollment. It enables research on the efficacy of the existing safety net, successful exits from government support, and shortfalls in take-up among those eligible.        The PERLI: Household Economics database builds a picture of household balance sheets -- one that integrates debt and other economic indicators -- longitudinally for over millions of Americans. This database currently consists of detailed credit data from one of the three major credit bureaus for over 100 million Americans, showing creditworthiness, debt balances, demographics, and residential location. We have a signed data use agreement with a payroll data provider and intend to link that data with the credit data, allowing us to see income and debts at granular intervals. This dataset allows the study of consumer financial well-being and identification of trends among households related to credit, debt, income, and mobility.            Our goal in creating these databases was to increase the accessibility of domestic linked administrative microdata for social, behavioral, and economic (SBE) researchers, while maintaining strong data privacy protections. These types of data are owned by government agencies and a complex set of privacy laws, trust issues, and technological barriers have created data silos. We have developed the datasets and a streamlined application process, housed on the PERLI website, for researchers to apply to request data for specific projects. If projects are feasible, we share proposals with our agency partners for their review and approval. Researchers' access to data for approved projects is closely monitored; and data does not leave CPL's highly secure infrastructure.        We have seen a strong demand among researchers for the PERLI databases. We currently have 98 active projects. Most -- 87 -- are using the PERLI:Household Economics dataset. The remaining 11 projects utilize the PERLI:Life Course or PERLI:Safety Net datasets. CPL itself is also using these datasets for 32 additional projects. Access to databases has proven especially useful to early-career scholars and students, who previously did not have the ability to navigate the complex, time-consuming, and expensive process of negotiating administrative data use agreements.        In addition to providing researchers with access to datasets, we have also produced and disseminated a description of a hashed linkage methodology that CPL uses to link administrative datasets across government silos. Importantly, this technique allows linkages without requiring the sharing of personally identifiable information, which never leaves the agencies that hold it. Our toolkit for linking government administrative data contributes a methodological innovation to the broader SBE research community.        The longer-term goal of PERLI is to generate research insights that contribute to improving the well-being of individuals through a better understanding of effective policy. Already, PERLI has resulted in 36 reports on a broad range of topics, from the eligibility and take-up rates of SNAP benefits among California public university students, to the effectiveness of state outreach strategies to increase take-up rates of tax credits, to the mobility trends of Californians moving out of the state. An important component of PERLI is not just publishing academic papers, but translating research findings into digestible policy briefs targeted for legislators and agency personnel. We saw policymaker engagement increase on the topics mentioned, resulting in legislative hearings, executive action, and new legislation.        Finally, PERLI has deepened research-practice partnerships between academia, government, and industry. To build the datasets, CPL developed strong partnerships with government agencies, and we have also developed additional partnerships beyond the initial data owners. For example, based on interest from researchers and our government partner, the California Department of Social Services, the PERLI:Safety Net database has been linked to (1) CalFresh application data from GetCalFresh.org, an online tool for CalFresh applications provided by non-profit Code for America, and (2) college student enrollment and financial aid data for students at the University of California and California community colleges provided by California Student Aid Commission. These expansions have allowed us to better understand take-up and enrollment in CalFresh among college students, and barriers to remaining on CalFresh.                Last Modified: 12/19/2024       Submitted by: JesseRothstein]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

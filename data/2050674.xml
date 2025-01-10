@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: CAS: Research Experiences for Undergraduates in Sustainable Chemistry and Catalysis at Arizona State University]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>312000.00</AwardTotalIntnAmount>
+<AwardAmount>312000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomislav Pintauer</SignBlockName>
+<PO_EMAI>tompinta@nsf.gov</PO_EMAI>
+<PO_PHON>7032927168</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Research Experiences for Undergraduates (REU) Site award to Arizona State University, located in Tempe, Arizona, supports 8 students for 10 weeks of research and professional development during the summers of 2022-2024. In this program, supported by the Division of Chemistry, participants will have the opportunity to design and apply 'green chemistry' transformations in the fields of organic chemistry, inorganic chemistry, materials chemistry, and biochemistry. The participants will be introduced to leading practices in sustainable chemistry and catalysis, take part in professional development workshops to enhance graduate school and industrial career preparedness. REU students at this site will have the opportunity to network with scientists pursuing a variety of career paths. This project aims to broaden STEM participation by encouraging students to consider how chemical research can lead to positive environmental outcomes. &lt;br/&gt;&lt;br/&gt;In this REU program, students will participate in individual research projects that focus on sustainable chemistry. Topics include the development of new base metal catalysts for coupling and C-H functionalization reactions; the computational screening of environmentally friendly solvents; the use of enzymes for hydrogen evolution and halogenation catalysis; and the development of sustainable methods for the preparation of inorganic materials. Notably, these projects will be explored within shared laboratory space, allowing for team-based mentoring and collaboration. Workshops on sustainable chemistry research, scientific writing, presentation skills, and networking will be offered alongside team-building activities. Project mentors will maintain contact with students through virtual meetings and seminars following conclusion of the program. To increase diversity within the chemistry workforce, this site also aims to recruit underrepresented students from local community colleges and tribal colleges throughout the Southwestern United States.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/22/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>09/29/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050674</AwardID>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Trovitch</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ryan J Trovitch</PI_FULL_NAME>
+<EmailAddress><![CDATA[ryan.trovitch@asu.edu]]></EmailAddress>
+<NSF_ID>000628109</NSF_ID>
+<StartDate>02/22/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Ackerman-Biegasiewicz</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laura K Ackerman-Biegasiewicz</PI_FULL_NAME>
+<EmailAddress><![CDATA[laura.ackerman@emory.edu]]></EmailAddress>
+<NSF_ID>000808336</NSF_ID>
+<StartDate>02/22/2021</StartDate>
+<EndDate>09/29/2023</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>Tempe</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852816011</ZipCode>
+<StreetAddress><![CDATA[ORSPA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>198600</Code>
+<Text>UNDERGRADUATE PROGRAMS IN CHEM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~104000</FUND_OBLG>
+<FUND_OBLG>2022~208000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Intellectual Merit</strong></p> <p>The Sustainable Chemistry and Catalysis Research Experiences for Undergraduates program hosted by the School of Molecular Sciences at Arizona State University helped to advance green chemistry research while providing training for the next generation of scientists. This initiative offered college freshmen, sophomores, and juniors from across the nation the opportunity to engage in laboratory and computational research in the areas of biochemistry, inorganic chemistry, materials chemistry, and organic chemistry. The participants worked closely with 15 different faculty mentors throughout the summers of 2022, 2023, and 2024, gaining exposure to cutting-edge research and sustainable chemistry practices.</p> <p>This program garnered strong interest from undergraduate students who lack access to leading instrumentation and facilities at their home institution, given that an average of 190 applications were received each year. Although this program was funded to offer research experiences to 24 students, careful financial planning allowed for the inclusion of an extra participant in 2024. A key component of this program was its overarching focus on green chemistry principles, which formed the basis for participant experiences. In addition to performing laboratory work, REU fellows benefited from a comprehensive professional development curriculum that included workshops on scientific communication, networking, and effective presentation skills. Faculty mentors also offered sessions on applying to graduate school and exploring a variety of STEM career paths. At the end of each summer, the participants prepared an infographic that was used to present their research to approximately 150 people, including REU peers, undergraduate and graduate students, faculty, administrators, and members of the general public. While intimidating for young researchers who lacked considerable public speaking experience, many participants described this event as a life-changing opportunity that gave them confidence to speak to senior scientists about their work.</p> <p>Publications derived from the student research projects and conference presentations contributed by program participants are additional measures of success. In 2024, papers featuring REU participant co-authors were published in <em>Green Chemistry</em> and <em>Angewandte Chemie International Edition</em>, and additional manuscripts are being prepared for submission. Participants of this program also presented their research at an EPSCoR conference in South Dakota, an ACS Midwest Regional Meeting in Nebraska, and an ACS National Meeting in Louisiana. These experiences provided students with an opportunity to present their work to the broader scientific community, helping to foster their professional growth and academic development.</p> <p>Through a combination of research experience, mentorship, and professional development, the Sustainable Chemistry and Catalysis Research Experiences for Undergraduates program at Arizona State University successfully supported the academic and career advancement of its participants. This program immersed 25 REU students in competitive research environments to prepare them for impactful careers in green chemistry.</p> <p><strong>Broader Impacts</strong></p> <p>One aim of this program was to extend research access to aspiring scientists from disadvantaged backgrounds. Between 2022-2024, 32% of participants identified as a member of an underrepresented group, including two female Native American students. The participants were recruited from non-Ph.D. granting institutions across 14 different states, ensuring the involvement of young scientists who could benefit from experiencing research at an R1 institution. This program also promoted the involvement of researchers in the early stages of their academic careers, as 44% of participants joined the program immediately after completing their freshman or sophomore year of college. Notably, 48% of participants reported that this program provided their first research experience.</p> <p>Participants from this program have gone on to join the chemical industry and pursue advanced degrees in chemistry at the University of Wisconsin-Madison, University of North Carolina-Chapel Hill, University of Michigan, University of Kansas, and the University of Texas, Rio Grande Valley. Articles highlighting participant achievements have been shared with the broader community, further strengthening the impact and visibility of this initiative. Immersive experiences including a virtual reality workshop on ecosystem health, a tour of a large-scale recycling facility, and a visit to a local start-up company allowed this program to emphasize ways in which chemistry can offer a solution to difficult societal challenges.</p><br> <p>  Last Modified: 11/10/2024<br> Modified by: Ryan&nbsp;J&nbsp;Trovitch</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2050674/2050674_10718397_1731295627902_ASU_Sustainable_Chemistry_REU_Logo--rgov-214x142.png" original="/por/images/Reports/POR/2024/2050674/2050674_10718397_1731295627902_ASU_Sustainable_Chemistry_REU_Logo--rgov-800width.png" title="Program Banner"><img src="/por/images/Reports/POR/2024/2050674/2050674_10718397_1731295627902_ASU_Sustainable_Chemistry_REU_Logo--rgov-66x44.png" alt="Program Banner"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This image summarizes the focus areas of ASU's Sustainable Chemistry and Catalysis REU Program.</div> <div class="imageCredit">ASU School of Molecular Sciences</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Ryan&nbsp;J&nbsp;Trovitch <div class="imageTitle">Program Banner</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit   The Sustainable Chemistry and Catalysis Research Experiences for Undergraduates program hosted by the School of Molecular Sciences at Arizona State University helped to advance green chemistry research while providing training for the next generation of scientists. This initiative offered college freshmen, sophomores, and juniors from across the nation the opportunity to engage in laboratory and computational research in the areas of biochemistry, inorganic chemistry, materials chemistry, and organic chemistry. The participants worked closely with 15 different faculty mentors throughout the summers of 2022, 2023, and 2024, gaining exposure to cutting-edge research and sustainable chemistry practices.   This program garnered strong interest from undergraduate students who lack access to leading instrumentation and facilities at their home institution, given that an average of 190 applications were received each year. Although this program was funded to offer research experiences to 24 students, careful financial planning allowed for the inclusion of an extra participant in 2024. A key component of this program was its overarching focus on green chemistry principles, which formed the basis for participant experiences. In addition to performing laboratory work, REU fellows benefited from a comprehensive professional development curriculum that included workshops on scientific communication, networking, and effective presentation skills. Faculty mentors also offered sessions on applying to graduate school and exploring a variety of STEM career paths. At the end of each summer, the participants prepared an infographic that was used to present their research to approximately 150 people, including REU peers, undergraduate and graduate students, faculty, administrators, and members of the general public. While intimidating for young researchers who lacked considerable public speaking experience, many participants described this event as a life-changing opportunity that gave them confidence to speak to senior scientists about their work.   Publications derived from the student research projects and conference presentations contributed by program participants are additional measures of success. In 2024, papers featuring REU participant co-authors were published in Green Chemistry and Angewandte Chemie International Edition, and additional manuscripts are being prepared for submission. Participants of this program also presented their research at an EPSCoR conference in South Dakota, an ACS Midwest Regional Meeting in Nebraska, and an ACS National Meeting in Louisiana. These experiences provided students with an opportunity to present their work to the broader scientific community, helping to foster their professional growth and academic development.   Through a combination of research experience, mentorship, and professional development, the Sustainable Chemistry and Catalysis Research Experiences for Undergraduates program at Arizona State University successfully supported the academic and career advancement of its participants. This program immersed 25 REU students in competitive research environments to prepare them for impactful careers in green chemistry.   Broader Impacts   One aim of this program was to extend research access to aspiring scientists from disadvantaged backgrounds. Between 2022-2024, 32% of participants identified as a member of an underrepresented group, including two female Native American students. The participants were recruited from non-Ph.D. granting institutions across 14 different states, ensuring the involvement of young scientists who could benefit from experiencing research at an R1 institution. This program also promoted the involvement of researchers in the early stages of their academic careers, as 44% of participants joined the program immediately after completing their freshman or sophomore year of college. Notably, 48% of participants reported that this program provided their first research experience.   Participants from this program have gone on to join the chemical industry and pursue advanced degrees in chemistry at the University of Wisconsin-Madison, University of North Carolina-Chapel Hill, University of Michigan, University of Kansas, and the University of Texas, Rio Grande Valley. Articles highlighting participant achievements have been shared with the broader community, further strengthening the impact and visibility of this initiative. Immersive experiences including a virtual reality workshop on ecosystem health, a tour of a large-scale recycling facility, and a visit to a local start-up company allowed this program to emphasize ways in which chemistry can offer a solution to difficult societal challenges.     Last Modified: 11/10/2024       Submitted by: RyanJTrovitch]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

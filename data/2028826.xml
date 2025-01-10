@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Water wettability of floating graphene: Mechanism and Application]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>480000.00</AwardTotalIntnAmount>
+<AwardAmount>498000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shahab Shojaei-Zadeh</SignBlockName>
+<PO_EMAI>sshojaei@nsf.gov</PO_EMAI>
+<PO_PHON>7032928045</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The water wettability of a solid surface is usually changed either by using a different material for the solid surface or by coating the surface. However, research over the past eight years has shown that water can (at least partially) “see through” an atomic-thick layer of a material such as graphene, giving rise to so-called “wetting transparency” effect. This finding provides a unique opportunity for designing multi-functional devices since it means that the wettability of an atomic-thick film can be tuned by selecting an appropriate supporting substrate.  The picture becomes even more appealing if the substrate is a liquid, since one can readily change the liquid underneath the graphene, thereby providing real-time control of the wettability, a capability that would be very useful for water harvesting of moisture from the air and in droplet microfluidics devices. The research objectives of this project are to use experiments and computational simulations to understand the mechanisms of wetting transparency of graphene on liquid substrates and to demonstrate the real-time control of surface wettability.  This project will promote the interest and participation in research from K-12 to graduate students in many ways, e.g., by providing research training to graduate and undergraduate students, developing new courses, and conducting outreach activities. &lt;br/&gt; &lt;br/&gt;The PIs will integrate experimental and computational efforts to pursue two specific aims. First, how liquid substrates affect the wettability of graphene will be uncovered by investigating how molecular mobility, charge doping, polarization, and dispersion interactions impact the wetting transparency. Second, the range of wettability modulation as well as the mechanical robustness of floating graphene will be enhanced, and the real-time manipulation of the wettability will be demonstrated.  The nature of wetting transparency of graphene on liquid substrates will be elucidated, and a state-of-the-art force field, including charge-flow polarization and many-body dispersion, will be constructed and utilized to compute the wettability of floating graphene and to establish the relative importance of various types of interactions for the wetting transparency. Using liquid as the supporting substrate opens a new dimension for designing devices with real-time wettability control, which is highly desirable in water harvesting, biomedical devices, heat exchange, micro reactors and chemical separation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028826</AwardID>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Jordan</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kenneth D Jordan</PI_FULL_NAME>
+<EmailAddress><![CDATA[jordan@pitt.edu]]></EmailAddress>
+<NSF_ID>000099811</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lei</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lei Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[lel55@pitt.edu]]></EmailAddress>
+<NSF_ID>000572827</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Haitao</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Haitao Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[hliu@pitt.edu]]></EmailAddress>
+<NSF_ID>000577696</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152600001</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress><![CDATA[4200 FIFTH AVENUE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MKAGLD59JRL1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133203</ZipCode>
+<StreetAddress><![CDATA[3420 Forbes Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>141500</Code>
+<Text>PMP-Particul&amp;MultiphaseProcess</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~480000</FUND_OBLG>
+<FUND_OBLG>2021~12000</FUND_OBLG>
+<FUND_OBLG>2023~6000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Graphene's wetting transparency offers promising avenues for creating multifunctional devices by allowing real-time wettability control on liquid substrates via the flow of different liquids beneath graphene. Despite its potential, direct measurement of floating graphene's wettability remains a challenge, hindering the exploration of these applications. The current study develops an experimental methodology to assess the wetting transparency of single-layer graphene on liquid substrates. By employing contact angle measurements and Neumann's Triangle model, the challenge of evaluating the wettability of floating free-suspended single-layer graphene has been addressed. The research reveals that for successful contact angle measurements, the testing and substrate liquids must be immiscible. Using diiodomethane as the testing liquid and ammonium persulfate solution as liquid substrate, the study demonstrates the near-complete wetting transparency of graphene. Furthermore, it successfully showcases the feasibility of real-time wettability control using graphene on liquid substrates. This work not only advances the understanding of graphene's interaction with liquid interfaces but also suggests a new avenue for the development of multifunctional materials and devices by exploiting the unique wetting transparency of graphene.</p>  <p>The water wettability of hexagonal boron nitride (hBN) has attracted a lot of research interests in the past 15 years. Experimentally, the static water contact angle (WCA) has been widely utilized to characterize the intrinsic water wettability of hBN.&nbsp; In the current study, we have investigated the effect of airborne hydrocarbons and defects on both static and dynamic WCAs of hBN. Our results showed that the static WCA is impacted by defects, which suggests that previously reported static WCAs do not characterize the intrinsic water wettability of hBN since the state-of-the-art hBN samples always have relatively high defect density. Instead, we found that the advancing WCA of freshly exfoliated hBN is not impacted by the defects and airborne hydrocarbons. As a result, the advancing WCA on freshly exfoliated hBN, determined to be 79&#730; &plusmn; 3&#730;, best represents the intrinsic water wettability of hBN.&nbsp; A qualitative model has been proposed to describe the effect of airborne hydrocarbons and defects on the static and dynamic WCA of hBN, which is well supported by the experimental results. The finding here has important implications on the water wettability of 2D materials.</p>  <p>&nbsp;</p>  <p>Effect of adventitious hydrocarbon adsorption on the electrical characteristics andsurface potential of graphiteCo-Pi Liu and collaborators have studied the effect of adventitious hydrocarbonadsorption on the electrical characteristics of graphite using conductive AFM. Theyfound that airborne hydrocarbon adsorption has a profound impact on both the localspectroscopy (current-voltage curve) and CAFM imaging. Most significantly, they foundthat in low humidity environment, the conductance measured by local spectroscopyincreases upon surface contamination while in humid environment, the opposite trendwas observed. This result suggest that the adsorbed hydrocarbon on the surface canform a liquid meniscus between the AFM tip and the graphite substrate, thereforeincreasing the electrical current. This result is significant because tip-sample meniscusis an important factor in understanding CAFM imaging. However, the meniscus wasthought to be aqueous in nature and this study showed that an organic meniscus is alsopossible.Co-PI Liu and collaborators have also studied the effect of adventitious hydrocarbonadsorption on the surface potential of graphite. We use Kelvin probe force microscopy(KPFM) to image the surface potential of graphite after exfoliation and then exposed tolab air. They found that the surface potential of graphite is not homogeneous andcontains features that are not observed in the topography image. The heterogeneity ofthe surface potential images increased in the first few days followed by a decrease atlonger exposure times. These results suggest that the heterogeneity of the adsorbedairborne hydrocarbons first increases followed by a decrease through slow conformation12/3/24, 1:07 PM RPPR - Preview Reporthttps://www.research.gov/rppr-web/rppr?execution=e1s4 3/11Key outcomes or Otherachievements:change, phase separation, and/or dynamic exchange between surface adsorbedspecies with those in the air.3. Computer simulation: H atom adsorption on grapheneCo-PI Jordan and collaborators carried out high-level electronic structure calculationson H atom adsorption on graphene. This work, which was motived by the earlier paperby co-PIs Jordan and Liu, demonstrated that standard DFT methods do not accuratelydescribe the adsorption energy. They carried out both diffusion Monte Carlo (DMC) anddensity functional theory (DFT) calculations of the adsorption energy of H atoms ongraphene and found that the DMC value of the adsorption energy is about 16% smallerthan the PBE DFT value.</p><br> <p>  Last Modified: 12/03/2024<br> Modified by: Lei&nbsp;Li</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Graphene's wetting transparency offers promising avenues for creating multifunctional devices by allowing real-time wettability control on liquid substrates via the flow of different liquids beneath graphene. Despite its potential, direct measurement of floating graphene's wettability remains a challenge, hindering the exploration of these applications. The current study develops an experimental methodology to assess the wetting transparency of single-layer graphene on liquid substrates. By employing contact angle measurements and Neumann's Triangle model, the challenge of evaluating the wettability of floating free-suspended single-layer graphene has been addressed. The research reveals that for successful contact angle measurements, the testing and substrate liquids must be immiscible. Using diiodomethane as the testing liquid and ammonium persulfate solution as liquid substrate, the study demonstrates the near-complete wetting transparency of graphene. Furthermore, it successfully showcases the feasibility of real-time wettability control using graphene on liquid substrates. This work not only advances the understanding of graphene's interaction with liquid interfaces but also suggests a new avenue for the development of multifunctional materials and devices by exploiting the unique wetting transparency of graphene.    The water wettability of hexagonal boron nitride (hBN) has attracted a lot of research interests in the past 15 years. Experimentally, the static water contact angle (WCA) has been widely utilized to characterize the intrinsic water wettability of hBN. In the current study, we have investigated the effect of airborne hydrocarbons and defects on both static and dynamic WCAs of hBN. Our results showed that the static WCA is impacted by defects, which suggests that previously reported static WCAs do not characterize the intrinsic water wettability of hBN since the state-of-the-art hBN samples always have relatively high defect density. Instead, we found that the advancing WCA of freshly exfoliated hBN is not impacted by the defects and airborne hydrocarbons. As a result, the advancing WCA on freshly exfoliated hBN, determined to be 79&#730;  3&#730;, best represents the intrinsic water wettability of hBN. A qualitative model has been proposed to describe the effect of airborne hydrocarbons and defects on the static and dynamic WCA of hBN, which is well supported by the experimental results. The finding here has important implications on the water wettability of 2D materials.        Effect of adventitious hydrocarbon adsorption on the electrical characteristics andsurface potential of graphiteCo-Pi Liu and collaborators have studied the effect of adventitious hydrocarbonadsorption on the electrical characteristics of graphite using conductive AFM. Theyfound that airborne hydrocarbon adsorption has a profound impact on both the localspectroscopy (current-voltage curve) and CAFM imaging. Most significantly, they foundthat in low humidity environment, the conductance measured by local spectroscopyincreases upon surface contamination while in humid environment, the opposite trendwas observed. This result suggest that the adsorbed hydrocarbon on the surface canform a liquid meniscus between the AFM tip and the graphite substrate, thereforeincreasing the electrical current. This result is significant because tip-sample meniscusis an important factor in understanding CAFM imaging. However, the meniscus wasthought to be aqueous in nature and this study showed that an organic meniscus is alsopossible.Co-PI Liu and collaborators have also studied the effect of adventitious hydrocarbonadsorption on the surface potential of graphite. We use Kelvin probe force microscopy(KPFM) to image the surface potential of graphite after exfoliation and then exposed tolab air. They found that the surface potential of graphite is not homogeneous andcontains features that are not observed in the topography image. The heterogeneity ofthe surface potential images increased in the first few days followed by a decrease atlonger exposure times. These results suggest that the heterogeneity of the adsorbedairborne hydrocarbons first increases followed by a decrease through slow conformation12/3/24, 1:07 PM RPPR - Preview Reporthttps://www.research.gov/rppr-web/rppr?execution=e1s4 3/11Key outcomes or Otherachievements:change, phase separation, and/or dynamic exchange between surface adsorbedspecies with those in the air.3. Computer simulation: H atom adsorption on grapheneCo-PI Jordan and collaborators carried out high-level electronic structure calculationson H atom adsorption on graphene. This work, which was motived by the earlier paperby co-PIs Jordan and Liu, demonstrated that standard DFT methods do not accuratelydescribe the adsorption energy. They carried out both diffusion Monte Carlo (DMC) anddensity functional theory (DFT) calculations of the adsorption energy of H atoms ongraphene and found that the DMC value of the adsorption energy is about 16% smallerthan the PBE DFT value.     Last Modified: 12/03/2024       Submitted by: LeiLi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

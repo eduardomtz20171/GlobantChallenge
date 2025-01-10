@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Compaction in Action: Blue, Green, and Red Nuggets at Redshift Zero]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>430582.00</AwardTotalIntnAmount>
+<AwardAmount>471780</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan Madrid</SignBlockName>
+<PO_EMAI>jmadrid@nsf.gov</PO_EMAI>
+<PO_PHON>7032927297</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will use existing survey data along with new observations to study compact galaxies across different stages of their evolution. As gas clouds collide, they are thought to produce compact blue galaxies (called "blue nuggets") that are undergoing rapid star formation. As the blue nuggets continue to accrete gas, their star formation will decrease, leaving behind compact red galaxies (called "red nuggets") that eventually form elliptical galaxies through accretion of satellite galaxies. This project will study the nearby population of blue nuggets, red nuggets, and nuggets in transition (so-called "green nuggets"). The project will be able to look at all phases of nugget evolution and better understand how star formation and colliding streams of gas produce these objects and influence their structure. The project will also make the data available for the astronomical community and provide tools so that the data can be used in education. The project will support a two-week Computational Astronomy &amp; Physics Boot Camp for undergraduates and post-baccalaureates who may not have the resources to participate in research over the entire summer.&lt;br/&gt;&lt;br/&gt;This project will perform a systematic study of blue, red, and green nuggets in the z=0 RESOLVE (REsolved Spectroscopy Of a Local VolumE) survey. The research will look at understanding how and when blue nuggets quench, whether colliding-stream compaction still occurs at redshift zero, and how nuggets evolve structurally as the pass from blue through green and on to red. The project will use RESOLVE's environment metrics, multi-wavelength photometry, optical spectroscopy, and 21 cm HI gas observations. This data will be supplemented by data from other observations to look for kinematic signatures of colliding streams, mergers, tidal stripping, and disk rebuilding. The project will expand the utility of RESOLVE's searchable online database by creating a new Data Science Portal providing computational methods tutorials, example data analysis projects, and suggested tutorial sequences. The project will conduct a two-week Computational Astronomy &amp; Physics Boot Camp, which will serve five undergraduate and post-baccalaureate students per year.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007351</AwardID>
+<Investigator>
+<FirstName>Sheila</FirstName>
+<LastName>Kannappan</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sheila J Kannappan</PI_FULL_NAME>
+<EmailAddress><![CDATA[sheila@physics.unc.edu]]></EmailAddress>
+<NSF_ID>000034179</NSF_ID>
+<StartDate>07/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275995023</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D3LHU66KBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D3LHU66KBLD5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName/>
+<StateCode>NC</StateCode>
+<ZipCode>275991350</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121700</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~430582</FUND_OBLG>
+<FUND_OBLG>2023~41198</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Intellectual Merit</strong></p> <p>Compact, intensely star-forming galaxies known as blue "nuggets" are commonly observed in the distant universe, which represents the cosmic past because we see it as it was when the light left it. Simulations suggest nuggets form via violent collisions of gas streams or gas-rich galaxies, which convert gas into stars at a prolific rate, then later "quench" (cease converting gas into stars) and become red nuggets. Red nuggets are believed to be the progenitors of galaxies with round structures, including elliptical galaxies and bulged spiral galaxies like our Milky Way. Our program sought to create an inventory of the ongoing formation and evolution of nuggets in the local, present-day universe. In the local universe we can view nuggets up close and test aspects of theoretical models of nugget evolution that cannot easily be tested for distant nuggets, such as how exactly nuggets quench.</p> <p>We analyzed nuggets in the RESOLVE and ECO surveys (<a href="http://resolve.astro.unc.edu">http://resolve.astro.unc.edu</a>), which provide a complete census of galaxies within two overlapping large volumes of the nearby universe, from giant galaxies down to "dwarf" galaxies as small as the Magellanic clouds. We took care to identify true nuggets and reject impostors, as compact galaxies in the present-day universe are more heterogeneously formed than those in the early universe.</p> <p>In Carr et al. (2024a, ApJ, 968, 18), we provided the first direct confirmation that present-day nuggets quench permanently above a particular mass scale: the "threshold" scale marking the dwarf/giant galaxy divide, where theory predicts the growth of dark matter halos around galaxies should prevent gas from condensing to form stars. We also confirmed predictions that present-day nuggets <em>below</em> the threshold scale undergo cycles of temporary quenching and renewed star formation. In simulations, such temporary quenching was caused by winds from young stars, producing feedback preventing further gas condensation into stars. However, both observations and theory suggested a role for feedback from active galactic nuclei (AGN: massive black holes both ingesting and spewing out material) in temporary and/or permanent quenching.</p> <p>To shed light on the role of AGN both above and below the threshold scale, we needed an inventory of AGN in both dwarf and giant galaxies. Traditional methods of AGN detection are biased against finding AGN in dwarfs. We devised a new technique to detect AGN in dwarfs in Polimera et al. (2022, ApJ, 931, 44). The AGN detected by our new method are roughly five times more common in dwarfs than are AGN detected by traditional methods. Combining all optical/mid-infrared methods, we built a comprehensive AGN inventory for RESOLVE and ECO (Polimera et al. 2024, in preparation).</p> <p>Carr et al. (2024b, submitted) used this AGN inventory to discover a strong association between AGN and transitional nuggets (caught in the act of quenching) for masses just above the threshold scale, where permanent quenching should be happening. However, in Hutchens et al. (2024, submitted) we found that for massive galaxies generally, AGN correspond with vigorous star formation, not quenching. Thus, the AGN seen in transitional nuggets above the threshold scale may be not a cause, but an effect of how nuggets quench -- we suspect their compact structure may inhibit star formation but still permit AGN activity and even make it easier to detect.</p> <p>Below the threshold scale, on the other hand, Carr et al. (2024b) reported that AGN are equally likely in transitional and fully quenched dwarf nuggets, and Hutchens et al (2024) confirmed that strong quenching and gas depletion are typical of dwarf AGN in general. Since AGN are intermittently active, they could be a driver of temporary quenching in dwarf nuggets, but again we can't be sure whether they represent cause or effect.</p> <p>Collectively, our program has expanded the realm of inquiry for studies involving nuggets and/or AGN. Our results challenge theorists to include AGN in nugget simulations, show the value of studying nuggets at the present epoch, and highlight dwarf galaxies as a fascinating frontier.</p> <p><strong>Broader Impacts</strong></p> <p>The RESOLVE/ECO website provides a searchable online database to provide easy access to the data published by our team for both astronomers and the public (<a href="http://resolve.astro.unc.edu/pages/database.php">http://resolve.astro.unc.edu/pages/database.php</a>). To encourage high school teachers and students to explore the data, we launched the Data Science Portal (DSP -- see <a href="http://resolve.astro.unc.edu/pages/outreach.php">http://resolve.astro.unc.edu/pages/outreach.php</a>) with three entry-level tutorials on galaxies and dark matter. The DSP also links to more advanced tutorials for college students drawn from the Computational Astronomy &amp; Physics Boot Camp, our summer data science program. The Boot Camp served 27 students, mostly from underrepresented groups and ranging from high school to graduate level, in the three summers funded by this grant. Our astrophysics research program has contributed to the training of three PhD students and four undergraduates. An additional undergraduate was involved in tutorial development for the DSP. Our team has also volunteered for many outreach talks and school events.</p><br> <p>  Last Modified: 06/25/2024<br> Modified by: Sheila&nbsp;J&nbsp;Kannappan</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit   Compact, intensely star-forming galaxies known as blue "nuggets" are commonly observed in the distant universe, which represents the cosmic past because we see it as it was when the light left it. Simulations suggest nuggets form via violent collisions of gas streams or gas-rich galaxies, which convert gas into stars at a prolific rate, then later "quench" (cease converting gas into stars) and become red nuggets. Red nuggets are believed to be the progenitors of galaxies with round structures, including elliptical galaxies and bulged spiral galaxies like our Milky Way. Our program sought to create an inventory of the ongoing formation and evolution of nuggets in the local, present-day universe. In the local universe we can view nuggets up close and test aspects of theoretical models of nugget evolution that cannot easily be tested for distant nuggets, such as how exactly nuggets quench.   We analyzed nuggets in the RESOLVE and ECO surveys (http://resolve.astro.unc.edu), which provide a complete census of galaxies within two overlapping large volumes of the nearby universe, from giant galaxies down to "dwarf" galaxies as small as the Magellanic clouds. We took care to identify true nuggets and reject impostors, as compact galaxies in the present-day universe are more heterogeneously formed than those in the early universe.   In Carr et al. (2024a, ApJ, 968, 18), we provided the first direct confirmation that present-day nuggets quench permanently above a particular mass scale: the "threshold" scale marking the dwarf/giant galaxy divide, where theory predicts the growth of dark matter halos around galaxies should prevent gas from condensing to form stars. We also confirmed predictions that present-day nuggets below the threshold scale undergo cycles of temporary quenching and renewed star formation. In simulations, such temporary quenching was caused by winds from young stars, producing feedback preventing further gas condensation into stars. However, both observations and theory suggested a role for feedback from active galactic nuclei (AGN: massive black holes both ingesting and spewing out material) in temporary and/or permanent quenching.   To shed light on the role of AGN both above and below the threshold scale, we needed an inventory of AGN in both dwarf and giant galaxies. Traditional methods of AGN detection are biased against finding AGN in dwarfs. We devised a new technique to detect AGN in dwarfs in Polimera et al. (2022, ApJ, 931, 44). The AGN detected by our new method are roughly five times more common in dwarfs than are AGN detected by traditional methods. Combining all optical/mid-infrared methods, we built a comprehensive AGN inventory for RESOLVE and ECO (Polimera et al. 2024, in preparation).   Carr et al. (2024b, submitted) used this AGN inventory to discover a strong association between AGN and transitional nuggets (caught in the act of quenching) for masses just above the threshold scale, where permanent quenching should be happening. However, in Hutchens et al. (2024, submitted) we found that for massive galaxies generally, AGN correspond with vigorous star formation, not quenching. Thus, the AGN seen in transitional nuggets above the threshold scale may be not a cause, but an effect of how nuggets quench -- we suspect their compact structure may inhibit star formation but still permit AGN activity and even make it easier to detect.   Below the threshold scale, on the other hand, Carr et al. (2024b) reported that AGN are equally likely in transitional and fully quenched dwarf nuggets, and Hutchens et al (2024) confirmed that strong quenching and gas depletion are typical of dwarf AGN in general. Since AGN are intermittently active, they could be a driver of temporary quenching in dwarf nuggets, but again we can't be sure whether they represent cause or effect.   Collectively, our program has expanded the realm of inquiry for studies involving nuggets and/or AGN. Our results challenge theorists to include AGN in nugget simulations, show the value of studying nuggets at the present epoch, and highlight dwarf galaxies as a fascinating frontier.   Broader Impacts   The RESOLVE/ECO website provides a searchable online database to provide easy access to the data published by our team for both astronomers and the public (http://resolve.astro.unc.edu/pages/database.php). To encourage high school teachers and students to explore the data, we launched the Data Science Portal (DSP -- see http://resolve.astro.unc.edu/pages/outreach.php) with three entry-level tutorials on galaxies and dark matter. The DSP also links to more advanced tutorials for college students drawn from the Computational Astronomy & Physics Boot Camp, our summer data science program. The Boot Camp served 27 students, mostly from underrepresented groups and ranging from high school to graduate level, in the three summers funded by this grant. Our astrophysics research program has contributed to the training of three PhD students and four undergraduates. An additional undergraduate was involved in tutorial development for the DSP. Our team has also volunteered for many outreach talks and school events.     Last Modified: 06/25/2024       Submitted by: SheilaJKannappan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

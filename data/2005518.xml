@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Interactions of 3- and 4-Dimensional Topology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>231991.00</AwardTotalIntnAmount>
+<AwardAmount>299346</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+<PO_EMAI>jkaniaba@nsf.gov</PO_EMAI>
+<PO_PHON>7032924881</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Topology is the study of abstract spaces with properties that are unchanged by deformations such as bending, stretching, and twisting, but not breaking, and low-dimensional topology involves spaces (called manifolds) that locally look like 2-, 3-, or 4-dimensional Euclidean space.  Low-dimensional topology has a wide range of real-world applications, including deep connections to theoretical physics and quantum computing.  In addition, topology has applications to data science; researchers understand how to interpret a large data set as a topological space in order to gain insights by studying the topological shape of that data.  While our world is 3-dimensional in nature, the evolution of a 3-dimensional object over a period of time gives rise to a 4-dimensional space, in which time constitutes a fourth degree of freedom.  Topology in dimension three has seen an explosion of activity over the last several decades, reaching a peak with Grigory Perelman's proof of the Poincaré conjecture in 2003, the only resolved problem of the seven Millennium Problems posed by the Clay Mathematics Institute. In contrast, the topology of 4-dimensional manifolds has become an increasingly active area of research, with many fundamental problems still open.  This research project involves adapting ideas from dimension three to discover novel approaches to these 4-dimensional problems. The award provides funds to support research by graduate students. The award will also support the Great Plains Alliance, a program initiated by the PI to connect graduate students with speaking opportunities at nearby institutions.&lt;br/&gt;&lt;br/&gt;Two foundational open problems in 4-manifold topology are the smooth 4-dimensional Poincaré Conjecture, which asserts that every closed 4-manifold homotopy equivalent to the standard 4-sphere is diffeomorphic to the standard 4-sphere, and the slice-ribbon conjecture, which posits that any knot bounding an embedded disk in the 4-ball also bounds an immersed ribbon disk in the 3-sphere.  This project describes a varied set of problems interweaving ideas from knot theory, 3-manifolds, and smooth 4-manifold topology.  The PI’s prior work includes two major collaborative contributions in this area, demonstrating that a large family of homotopy 4-spheres is diffeomorphic to the standard smooth 4-sphere, and developing far-reaching connections between 3-dimensional structures and 4-manifold trisections.  The current work involves four main problems.  First, the PI will characterize a family of knots satisfying an intermediate condition between being slice and being ribbon.  Second, the PI will pursue a new approach to the Powell conjecture, concerning the generation of the group of diffeomorphisms of the 3-sphere leaving a Heegaard surface invariant.  Third, the PI will use bridge trisections to address a Kirby problem related to representing second homology classes of 4-manifolds with smoothly embedded 2-spheres, and finally, the PI will adapt ideas from Heegaard splittings of 3-manifolds to trisections of 4-manifolds in order to better understand handle decompositions of exotic 4-manifolds.  The underlying theme of this work is an approach that simultaneously integrates 3- and 4-dimensional techniques in order to obtain new insights into long-standing open problems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/25/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005518</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Zupan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander Zupan</PI_FULL_NAME>
+<EmailAddress><![CDATA[zupan@unl.edu]]></EmailAddress>
+<NSF_ID>000575021</NSF_ID>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>LINCOLN</CityName>
+<ZipCode>685032427</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress><![CDATA[2200 VINE ST # 830861]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NE01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HTQ6K6NJFHA6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>Lincoln</CityName>
+<StateCode>NE</StateCode>
+<ZipCode>685880130</ZipCode>
+<StreetAddress><![CDATA[203 Avery Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NE01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>150400</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~231991</FUND_OBLG>
+<FUND_OBLG>2021~41750</FUND_OBLG>
+<FUND_OBLG>2023~25605</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1">Low-dimensional topologists study properties of abstract spaces that locally look like real space, called "manifolds."<span>&nbsp;&nbsp;</span>A 2-manifold (also known as a "surface") locally resembles a flat plane, a 3-manifold locally resembles three-dimensional space, and a 4-manifold locally resembles three-space with an additional degree of freedom, which can be visualized as the evolution of three-space over time.<span>&nbsp; </span>Low-dimensional topology has a number of useful applications in biology, chemistry, physics, quantum computing, and data science, for example.<span>&nbsp; </span>This proposal focused on finding connections between the decompositions of topological spaces in dimensions three and four.<span>&nbsp; </span>While topology in dimension three is relatively well-understood, many foundational problems in dimension four remain open.<span>&nbsp; </span>A major goal of this project was to adapt and revise three-dimensional theorems to find new approaches to longstanding 4-dimensional conjectures.<span>&nbsp; </span>The broader impacts of this proposal centered on involving students of all levels in research and advocating for the participation of women in mathematics.</p>  <p class="p1">In three dimensions, classical knot theory focuses on knotted loops, which can be easily drawn and visualized.<span>&nbsp; </span>In dimension four, the interesting knotted objects are surfaces, which are generally harder to depict.<span>&nbsp; </span>One way to understand a knotted surface in dimension four is to consider a collection of loops evolving over time, the totality of which forms a surface.<span>&nbsp; </span>Another way to visualize a knotted surface, developed by the PI and Jeffrey Meier, is to divide the surface into three simple sectors in a decomposition known as a "bridge trisection," which reduces the 4-dimensional topology of the surface to 3-dimensional data.<span>&nbsp; </span>The PI obtained a number of new results over the course of this award, primarily centered on surfaces in 4-manifolds.<span>&nbsp; </span>One such surface is a ribbon disk, a special type of disk whose boundary is a knot in 3-space.<span>&nbsp; </span>In collaborative work with Meier, the PI showed that a single relatively simple knotted loop in 3-dimensional space, the square knot, bounds infinitely many distinct ribbon disks in 4-dimensional space.<span>&nbsp; </span>This theorem was startling in the sense that the topology of the square knot is quite simple, and, as in many cases in low-dimensional topology, it was expected that this simplicity would correlate with the existence of very few disks, or possibly even a unique such disk.<span>&nbsp; </span>Another collaborative project with Stefan Friedl and Filip Misev involved using 3-dimensional invariants of a given knot to find bounds on the complexity of any ribbon disk with that knot as its boundary.<span>&nbsp; </span>Two other projects, joint work with Jason Joseph, Meier, and Maggie Miller adapted ideas from classical knot theory in dimension three to the setting of knotted surfaces in dimension four, significantly expanding the utility of bridge trisections.<span>&nbsp; </span>An additional substantial result was a solo-authored paper in which the PI used bridge trisections to reveal striking connections between the topology, combinatorics, algebra, and geometry of a collection of surfaces known as complex curves in the complex projective plane.<span>&nbsp; </span>Overall, these results formed new connections and strengthened existing connections between topological ideas in dimensions three and four.&nbsp;</p>  <p class="p1">During the period of this award, the PI mentored many undergraduate and graduate students on projects related to low-dimensional topology.<span>&nbsp; </span>These projects led to several publications, and the work completed under the PI's supervision trained a new generation of mathematics researchers in the tools and techniques of low-dimensional topology.<span>&nbsp; </span>The PI's undergraduate mentees included students from the University of Nebraska-Lincoln (UNL) and other universities from around the world through the Polymath Jr. Massive Open Online Research Experience for Undergraduates.<span>&nbsp; </span>Other broader impacts included the PI's Great Plains Alliance program, in which graduate students from UNL traveled to nearby institutions to give inspiring, accessible presentations to a wide range of undergraduate students, and the PI's creation of the Distinguished Women in Mathematics colloquium series at UNL to highlight the achievements of women mathematicians and to fortify the existing culture of inclusion already present in the department.<span>&nbsp; </span>Finally, the PI stepped into the role of co-chair of the long-running and well-known Nebraska Conference for Undergraduate Women in Mathematics during this award period.</p>  <p class="p2">&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/29/2024<br> Modified by: Alexander&nbsp;Zupan</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Low-dimensional topologists study properties of abstract spaces that locally look like real space, called "manifolds."A 2-manifold (also known as a "surface") locally resembles a flat plane, a 3-manifold locally resembles three-dimensional space, and a 4-manifold locally resembles three-space with an additional degree of freedom, which can be visualized as the evolution of three-space over time. Low-dimensional topology has a number of useful applications in biology, chemistry, physics, quantum computing, and data science, for example. This proposal focused on finding connections between the decompositions of topological spaces in dimensions three and four. While topology in dimension three is relatively well-understood, many foundational problems in dimension four remain open. A major goal of this project was to adapt and revise three-dimensional theorems to find new approaches to longstanding 4-dimensional conjectures. The broader impacts of this proposal centered on involving students of all levels in research and advocating for the participation of women in mathematics.    In three dimensions, classical knot theory focuses on knotted loops, which can be easily drawn and visualized. In dimension four, the interesting knotted objects are surfaces, which are generally harder to depict. One way to understand a knotted surface in dimension four is to consider a collection of loops evolving over time, the totality of which forms a surface. Another way to visualize a knotted surface, developed by the PI and Jeffrey Meier, is to divide the surface into three simple sectors in a decomposition known as a "bridge trisection," which reduces the 4-dimensional topology of the surface to 3-dimensional data. The PI obtained a number of new results over the course of this award, primarily centered on surfaces in 4-manifolds. One such surface is a ribbon disk, a special type of disk whose boundary is a knot in 3-space. In collaborative work with Meier, the PI showed that a single relatively simple knotted loop in 3-dimensional space, the square knot, bounds infinitely many distinct ribbon disks in 4-dimensional space. This theorem was startling in the sense that the topology of the square knot is quite simple, and, as in many cases in low-dimensional topology, it was expected that this simplicity would correlate with the existence of very few disks, or possibly even a unique such disk. Another collaborative project with Stefan Friedl and Filip Misev involved using 3-dimensional invariants of a given knot to find bounds on the complexity of any ribbon disk with that knot as its boundary. Two other projects, joint work with Jason Joseph, Meier, and Maggie Miller adapted ideas from classical knot theory in dimension three to the setting of knotted surfaces in dimension four, significantly expanding the utility of bridge trisections. An additional substantial result was a solo-authored paper in which the PI used bridge trisections to reveal striking connections between the topology, combinatorics, algebra, and geometry of a collection of surfaces known as complex curves in the complex projective plane. Overall, these results formed new connections and strengthened existing connections between topological ideas in dimensions three and four.    During the period of this award, the PI mentored many undergraduate and graduate students on projects related to low-dimensional topology. These projects led to several publications, and the work completed under the PI's supervision trained a new generation of mathematics researchers in the tools and techniques of low-dimensional topology. The PI's undergraduate mentees included students from the University of Nebraska-Lincoln (UNL) and other universities from around the world through the Polymath Jr. Massive Open Online Research Experience for Undergraduates. Other broader impacts included the PI's Great Plains Alliance program, in which graduate students from UNL traveled to nearby institutions to give inspiring, accessible presentations to a wide range of undergraduate students, and the PI's creation of the Distinguished Women in Mathematics colloquium series at UNL to highlight the achievements of women mathematicians and to fortify the existing culture of inclusion already present in the department. Finally, the PI stepped into the role of co-chair of the long-running and well-known Nebraska Conference for Undergraduate Women in Mathematics during this award period.             Last Modified: 12/29/2024       Submitted by: AlexanderZupan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

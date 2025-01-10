@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Network Structure of Misconduct]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>219847.00</AwardTotalIntnAmount>
+<AwardAmount>219847</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Whitmeyer</SignBlockName>
+<PO_EMAI>jwhitmey@nsf.gov</PO_EMAI>
+<PO_PHON>7032927808</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In this project, recent developments in network science are employed to investigate how the social connections of law enforcement officers affect misconduct.  Misconduct may generate mistrust, cynicism, and estrangement between the community and law enforcement officers and, in some cases, between civilians and the state, in addition to trauma and pain directly caused.  This study complements  prior explanations of misconduct as the failure of individual officers or as the consequence of organizational feature by investigating the crucial ways social networks influence the actions, behaviors, and attitudes of law enforcement officers and how understanding such networks might mitigate or exacerbate misconduct.  Findings will help to inform decisions and interventions to minimize misconduct and thereby will benefit the public good. &lt;br/&gt;&lt;br/&gt;In this study, a data-driven approach to analyzing the network structures of a large law enforcement agency is developed to determine how social networks affect officer behavior and misconduct.  Partnership networks are recreated for the entire agency from 1980 to 2019 using data on officer assignments and arresting behavior; these data then are combined with records on more than 200,000 complaints filed against officers to create several network datasets.  Three research studies use these datasets.  Study 1 examines the structure and nature of officer networks and analyzes how individual, departmental, and neighborhood factors are associated with misconduct. Study 2 analyzes the influence of network peer effects on misconduct. Finally, Study 3 creates and analyzes the development of officer trajectories of misconduct.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/10/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>04/14/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2049513</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Papachristos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew Papachristos</PI_FULL_NAME>
+<EmailAddress><![CDATA[avp@northwestern.edu]]></EmailAddress>
+<NSF_ID>000567505</NSF_ID>
+<StartDate>03/10/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress><![CDATA[633 CLARK ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>Evanston</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080855</ZipCode>
+<StreetAddress><![CDATA[2001 Sheridan Road 5th floor, Of]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>133100</Code>
+<Text>Sociology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~116543</FUND_OBLG>
+<FUND_OBLG>2022~103304</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Across published, submitted, and in-progress manuscripts, our findings reveal latent but clear connections between the professional social networks of officers and the likelihood of committing misconduct, providing empirical evidence to support our existing hypotheses on this relationship. First, the paper &ldquo;<strong>Threats to Blue Networks: The Effect of Partner Injuries on Police Misconduct</strong>&rdquo; (<em>American Sociological Review, </em>published) examines police officer responses to the shooting of a peer. Consistent with &ldquo;group threat&rdquo; theories, we find that police officers are more likely to use force (and even shoot their weapons) after the injury of a peer. These effects are more pronounced when the alleged suspects are Black. Second, the paper &ldquo;<strong>Identifying Misconduct-Committing Crews in the Chicago Police Department</strong>&rdquo; (<em>PLOS One</em>, published) uses a clustering algorithm to identify &ldquo;gang crews,&rdquo; intentional groups of officers who coordinate their misconduct and often illegal behavior. Our results identified 160 crews (less than 4% of the CPD force) that are responsible for 25% of all use of force incidents. Third, the paper<strong> </strong>&ldquo;<strong>Networks at Work: Officer Diversity, Racial Homophily, and Police Misconduct</strong>" (<em>American Journal of Sociology</em>, under review) analyzes joint implications of officer diversity and racial homophily, defined as barriers to racial mixing in officer co-arrest networks, for police misconduct. Results show that levels of racial homophily are higher in districts with more diverse officer workforces, and that the combination of homophily and diversity is linked to an elevated risk of police misconduct, even after controlling for other explanations of misconduct at both the officer and district level. These patterns contradict the idea that diversifying police forces necessarily improves the internal dynamics of police forces and is consistent with the broader sociological insight that the benefits of diversity are challenged by racial homophily within social networks.</p> <p>Finally, we are leading two emerging bodies of work with manuscripts currently in-progress. The first focuses on the <strong>career trajectories of police officers</strong>. This research sorts officers according to how their rates of misconduct change throughout their career, and then applies a number of post-analyses using historical data on context of assignment to address questions about the root causes of differential misconduct risk. Our results reinforce existing literature, showing that arrests are highly correlated with a large proportion of eventual misconduct allegations, and additionally, that there are types of misconduct that appear to be more sensitive to general learning associated with tenure, as opposed to arrest activity. The second emerging body of work examines <strong>the effect of Field Training Officers (FTOs) on trainees&rsquo; misconduct</strong>. Preliminary results show that placing trainees into districts where more misconduct is present can increase their own eventual misconduct, with further research needed to examine the impact of individual FTOs. An extension of this research will examine the impacts of other police leadership on misconduct.</p><br> <p>  Last Modified: 07/31/2024<br> Modified by: Andrew&nbsp;Papachristos</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Across published, submitted, and in-progress manuscripts, our findings reveal latent but clear connections between the professional social networks of officers and the likelihood of committing misconduct, providing empirical evidence to support our existing hypotheses on this relationship. First, the paper Threats to Blue Networks: The Effect of Partner Injuries on Police Misconduct (American Sociological Review, published) examines police officer responses to the shooting of a peer. Consistent with group threat theories, we find that police officers are more likely to use force (and even shoot their weapons) after the injury of a peer. These effects are more pronounced when the alleged suspects are Black. Second, the paper Identifying Misconduct-Committing Crews in the Chicago Police Department (PLOS One, published) uses a clustering algorithm to identify gang crews, intentional groups of officers who coordinate their misconduct and often illegal behavior. Our results identified 160 crews (less than 4% of the CPD force) that are responsible for 25% of all use of force incidents. Third, the paper Networks at Work: Officer Diversity, Racial Homophily, and Police Misconduct" (American Journal of Sociology, under review) analyzes joint implications of officer diversity and racial homophily, defined as barriers to racial mixing in officer co-arrest networks, for police misconduct. Results show that levels of racial homophily are higher in districts with more diverse officer workforces, and that the combination of homophily and diversity is linked to an elevated risk of police misconduct, even after controlling for other explanations of misconduct at both the officer and district level. These patterns contradict the idea that diversifying police forces necessarily improves the internal dynamics of police forces and is consistent with the broader sociological insight that the benefits of diversity are challenged by racial homophily within social networks.   Finally, we are leading two emerging bodies of work with manuscripts currently in-progress. The first focuses on the career trajectories of police officers. This research sorts officers according to how their rates of misconduct change throughout their career, and then applies a number of post-analyses using historical data on context of assignment to address questions about the root causes of differential misconduct risk. Our results reinforce existing literature, showing that arrests are highly correlated with a large proportion of eventual misconduct allegations, and additionally, that there are types of misconduct that appear to be more sensitive to general learning associated with tenure, as opposed to arrest activity. The second emerging body of work examines the effect of Field Training Officers (FTOs) on trainees misconduct. Preliminary results show that placing trainees into districts where more misconduct is present can increase their own eventual misconduct, with further research needed to examine the impact of individual FTOs. An extension of this research will examine the impacts of other police leadership on misconduct.     Last Modified: 07/31/2024       Submitted by: AndrewPapachristos]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

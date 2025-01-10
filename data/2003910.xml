@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Spectroscopic explorations of redox active metal-organic frameworks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>382501.00</AwardTotalIntnAmount>
+<AwardAmount>382501</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Birgit Schwenzer</SignBlockName>
+<PO_EMAI>bschwenz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924771</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY:&lt;br/&gt;This project involves the investigation of a class of porous materials called metal-organic frameworks that have potential applications ranging from fuel cell technology to industrial chemical production to solar energy conversion. While significant progress has been made in developing novel frameworks for these purposes, basic insight on how these materials work is severely lacking. The research activities in this project, which is supported by the Solid State and Materials Chemistry Program in the Division of Materials Research, rely on several X-ray and optical characterization methods to meet this need. The study targets a fundamental understanding of the properties and processes behind the applications, including how charges move and are distributed in these materials. The outcome of this work is crucial for facilitating the rational design of the next generation of these materials with improved performances and therefore has far reaching implications for a broad range of energy and environmental sustainability applications. Furthermore, as part of a broader mission to integrate research in education, the outreach component of the project provides not only hands-on research experiences for high school science teachers in the Newark region, but a mechanism for translating those experiences into meaningful high school science curricula that meet the specific needs of the students in this urban community. This outreach initiative stands to have a large impact on the students in these schools since it targets the educators that teach them. &lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY:&lt;br/&gt;With this project, supported by the Solid State and Materials Chemistry Program in the Division of Materials Research, researchers focus on understanding fundamental structure/function relationships in redox and photoredox active metal organic frameworks (MOFs), an emerging class of materials composed of metal ions or clusters connected by organic molecules to form crystalline microporous networks. Their intrinsic porosity and tunable architecture allow electronic structure (bandgap-like) manipulation, selective guest species interaction and the incorporation of redox active components and other synergistic characteristics. Furthermore, these multicomponent framework functionalities inevitably lead to increasingly complicated structure-function relationships, involving subtle structural rearrangements, electronic delocalization and cooperative interactions of the framework host and guest species. Redox active MOFs therefore not only engender emerging technological interest but serve as a unique and fascinating platform for fundamental studies of host-guest chemistry, electron transfer and organometallic photophysics in 3D coordination space. The project focuses on MOF systems that exhibit redox activity in the ground state, excited state and/or associated with donor-acceptor host-guest interaction. The principal objectives in studying these systems are to expose the prevalence and role of electronic delocalization and pertinent electronic and molecular level structural changes associated with their redox or photoredox processes. To accomplish this, a targeted set of vibrational, optical, and X-ray spectroscopy methods are employed in combinations of steady state, in situ, and in some cases time-resolved studies of MOF systems to garner real time information on their electronics, host-guest interactions and molecular level structure changes. These insights help elucidate the mechanisms behind their redox behavior. Ultimately the trends afforded by this study facilitate the rational design of the next generation of MOF materials with improved performance for redox-based applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003910</AwardID>
+<Investigator>
+<FirstName>Jenny</FirstName>
+<LastName>Lockard</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jenny V Lockard</PI_FULL_NAME>
+<EmailAddress><![CDATA[jlockard@andromeda.rutgers.edu]]></EmailAddress>
+<NSF_ID>000657285</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Rutgers University Newark]]></Name>
+<CityName>NEWARK</CityName>
+<ZipCode>071023026</ZipCode>
+<PhoneNumber>9739720283</PhoneNumber>
+<StreetAddress><![CDATA[123 WASHINGTON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T3NGNR66YK89</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University- Newark]]></Name>
+<CityName>Newark</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>071021811</ZipCode>
+<StreetAddress><![CDATA[73 Warren St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>176200</Code>
+<Text>SOLID STATE &amp; MATERIALS CHEMIS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~382501</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project involved the investigation of redox and photoredox-active metal-organic frameworks, a class of hybrid materials composed of metal ions or clusters connected by organic molecules to form crystalline microporous networks. The intrinsic porosity and tunable architecture of these materials allow electronic structure (bandgap-like) manipulation, selective guest species interaction and the incorporation of redox active components that are potentially exploitable for applications ranging from fuel cell technology to industrial chemical production to solar energy conversion. Relying on several X-ray and optical characterization methods, the research in this project targeted fundamental understanding of the properties and processes behind this utility, including how charges move and are distributed in these materials in response to external stimuli (temperature, light) and guest molecule composition.</p>  <p>&nbsp;</p>  <p><strong>Intellectual merit</strong></p>  <p>Redox active MOFs not only engender emerging technological interest but serve as a unique and fascinating platform for fundamental studies of host-guest chemistry, electron transfer, spin transition and organometallic photophysics in 3D coordination space. In this project, we examined (and developed X-ray spectroscopic tools to examine) the electronic structure and fundamental structure/function relationships in redox and photoredox active metal organic frameworks (MOFs), particularly those with potential applications that rely on MOF conductivity, stable electron transfer reactions, spin transitions and/or long-lived excited state charge separation. One subtask focused on probing ground state electronic structure changes in MOFs upon external stimuli using in situ X-ray spectroscopy tools. We elucidated the associated electronic and structural changes associated with guest-dependent thermally-induced spin crossover phenomena in an iron-based MOF system under solvent guest environments. The study demonstrated the capacity of in situ resonant X-ray emission methods for providing dual electronic structure insights on both metal spin (and by extension, oxidation) state and bond covalency under controlled sample environments. This subtask also involved the development of a custom-made X-ray emission spectrometer that can accommodate larger format sample environments, while simultaneously achieving high energy resolution emission detection. The subtask on photo-redox active MOFs, i.e. those demonstrating light-induced intra-framework electron transfer behavior, targeted a set of titanium-based frameworks doped with heteroatoms such as iron. Time-resolved X-ray absorption spectroscopy &nbsp;studies definitively revealed the role of the iron dopants as electron trap sites following visible light photoexcitation, promoting long-lived charge separation in the framework. Follow up studies tracked the dynamics and reactivity of the photoinduced charge separated excited state in this framework as a function of heterometal doping level, using dye photodegradation as a test reaction. This MOF system provided a blueprint for designing frameworks to accommodate heterometals with higher concentrations for efficient photocatalysis applications. A final subtask targeted MOF systems with redox-active host-guest behavior, primarily designed to yield potential conductive properties. Optical, vibrational and high-resolution X-ray absorption spectroscopies were used to investigate copper-based MOFs post-synthetically loaded with electron acceptor guest molecules. The spectroscopic characterization revealed subtle differences in ligand field environment of the Cu node sites and strong donor-acceptor interaction between the framework Cu sites and post-synthetically incorporated molecular guests.</p>  <p>&nbsp;</p>  <p><strong>Broader impact outcomes:</strong></p>  <p>The outcomes of this research will help facilitate the study and the rational design of the next generation of these materials with improved performances and therefore has far reaching implications for a broad range of energy and environmental sustainability applications. Along the way, the project also served as a platform for educating and training four graduate students. Some, or all, of their thesis work has been based on research supported by this grant. In terms of dissemination, this work has resulted in 4 research publications in peer reviewed journals and many presentations at national scientific meetings, academic institutions, synchrotron user workshops and other spectroscopy conferences. Furthermore, as part of a broader effort to integrate research with education, the outreach program's professional development initiative offered hands-on research experiences to three different high school chemistry teachers from public school districts in the Newark, NJ area over three summers. These teachers translated those experiences into meaningful science curricula for their classrooms, greatly impacting their students by directly enhancing the quality of education they received. A total of 6 teacher summer internships were supported by this grant.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/26/2024<br> Modified by: Jenny&nbsp;V&nbsp;Lockard</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project involved the investigation of redox and photoredox-active metal-organic frameworks, a class of hybrid materials composed of metal ions or clusters connected by organic molecules to form crystalline microporous networks. The intrinsic porosity and tunable architecture of these materials allow electronic structure (bandgap-like) manipulation, selective guest species interaction and the incorporation of redox active components that are potentially exploitable for applications ranging from fuel cell technology to industrial chemical production to solar energy conversion. Relying on several X-ray and optical characterization methods, the research in this project targeted fundamental understanding of the properties and processes behind this utility, including how charges move and are distributed in these materials in response to external stimuli (temperature, light) and guest molecule composition.        Intellectual merit    Redox active MOFs not only engender emerging technological interest but serve as a unique and fascinating platform for fundamental studies of host-guest chemistry, electron transfer, spin transition and organometallic photophysics in 3D coordination space. In this project, we examined (and developed X-ray spectroscopic tools to examine) the electronic structure and fundamental structure/function relationships in redox and photoredox active metal organic frameworks (MOFs), particularly those with potential applications that rely on MOF conductivity, stable electron transfer reactions, spin transitions and/or long-lived excited state charge separation. One subtask focused on probing ground state electronic structure changes in MOFs upon external stimuli using in situ X-ray spectroscopy tools. We elucidated the associated electronic and structural changes associated with guest-dependent thermally-induced spin crossover phenomena in an iron-based MOF system under solvent guest environments. The study demonstrated the capacity of in situ resonant X-ray emission methods for providing dual electronic structure insights on both metal spin (and by extension, oxidation) state and bond covalency under controlled sample environments. This subtask also involved the development of a custom-made X-ray emission spectrometer that can accommodate larger format sample environments, while simultaneously achieving high energy resolution emission detection. The subtask on photo-redox active MOFs, i.e. those demonstrating light-induced intra-framework electron transfer behavior, targeted a set of titanium-based frameworks doped with heteroatoms such as iron. Time-resolved X-ray absorption spectroscopy studies definitively revealed the role of the iron dopants as electron trap sites following visible light photoexcitation, promoting long-lived charge separation in the framework. Follow up studies tracked the dynamics and reactivity of the photoinduced charge separated excited state in this framework as a function of heterometal doping level, using dye photodegradation as a test reaction. This MOF system provided a blueprint for designing frameworks to accommodate heterometals with higher concentrations for efficient photocatalysis applications. A final subtask targeted MOF systems with redox-active host-guest behavior, primarily designed to yield potential conductive properties. Optical, vibrational and high-resolution X-ray absorption spectroscopies were used to investigate copper-based MOFs post-synthetically loaded with electron acceptor guest molecules. The spectroscopic characterization revealed subtle differences in ligand field environment of the Cu node sites and strong donor-acceptor interaction between the framework Cu sites and post-synthetically incorporated molecular guests.        Broader impact outcomes:    The outcomes of this research will help facilitate the study and the rational design of the next generation of these materials with improved performances and therefore has far reaching implications for a broad range of energy and environmental sustainability applications. Along the way, the project also served as a platform for educating and training four graduate students. Some, or all, of their thesis work has been based on research supported by this grant. In terms of dissemination, this work has resulted in 4 research publications in peer reviewed journals and many presentations at national scientific meetings, academic institutions, synchrotron user workshops and other spectroscopy conferences. Furthermore, as part of a broader effort to integrate research with education, the outreach program's professional development initiative offered hands-on research experiences to three different high school chemistry teachers from public school districts in the Newark, NJ area over three summers. These teachers translated those experiences into meaningful science curricula for their classrooms, greatly impacting their students by directly enhancing the quality of education they received. A total of 6 teacher summer internships were supported by this grant.         Last Modified: 11/26/2024       Submitted by: JennyVLockard]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

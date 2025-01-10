@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Evaluation of PM2.5 Oxidative Potential (OP) as a proxy for the aerosol toxicity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>330000.00</AwardTotalIntnAmount>
+<AwardAmount>330000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+<PO_EMAI>krockne@nsf.gov</PO_EMAI>
+<PO_PHON>7032927293</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Small airborne dust particles smaller than 2.5 micrometers in size (known as PM2.5) are widely recognized as detrimental to human health. The mass concentrations of PM2.5 in outdoor air are highly regulated in developed nations. Exposure to high concentrations of PM2.5 can cause various health problems including decreased lung function, aggravated asthma, and premature death in people with heart or lung disease. To date, the mechanisms by which these particles induce toxicity in humans are not well understood. Recent work has focused on the ability of PM2.5 to damage cells through the production of oxidants. However, the correlation between the oxidative potential (OP) and toxicity of PM2.5 has not been explored. The goal of this project is to address this knowledge gap. To achieve this goal, the PI will measure the OP of a large number of samples of PM2.5 collected across many polluted sites around the world. Both statistical and mechanistic approaches will be utilized to unravel the role of PM2.5 OP in inducing cellular toxicity. The successful completion of this project will benefit society through the development of new fundamental knowledge to identify and target the most toxic sources of PM2.5. Further benefits to society will be achieved through student research training and public outreach. This will include the recruitment and mentoring of undergraduate students from under-represented groups along with the development of virtual labs and tutorial materials on PM2.5 toxicity for public dissemination during meetings of the GeoHealth section of the American Geophysical Union (AGU). &lt;br/&gt;&lt;br/&gt;Numerous epidemiological studies have shown strong linkages between PM2.5 concentrations and human diseases related to respiratory and cardiovascular systems. However, the spatiotemporal variability in the strengths of these associations suggests that bulk PM2.5 mass concentration is not the best surrogate of aerosol toxicity. Recent investigations have indicated that the capability of ambient PM2.5 to generate oxidants – known as oxidative potential (OP), might be a more relevant indicator of toxicity than PM2.5 mass concentration in outdoor air. However, the relationships between particle OP, cellular toxicity, and health endpoints have remained elusive. The goal of this project is to advance our fundamental understanding of the relationships between the OP of ambient PM2.5 and their cellular toxicity. To achieve this goal, the PI will compare the results of OP assays with observed cellular toxicity of a large number of PM2.5 samples collected from many countries across the world. The novel approach of exposing antioxidant-enriched cells to ambient PM2.5 samples will provide the most direct evidence for assessing the role of particle-driven oxidant generation in inducing cellular toxicity. Comparison of this approach to well-established chemical assays will allow the assessment of how induced toxicity is related to measured particle OP. Successful completion of this project has potential for transformative impact in air pollution management through the development of new knowledge and insight that will enable the use of particle OP as a proxy for aerosol toxicity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012149</AwardID>
+<Investigator>
+<FirstName>Vishal</FirstName>
+<LastName>Verma</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vishal Verma</PI_FULL_NAME>
+<EmailAddress><![CDATA[vverma@illinois.edu]]></EmailAddress>
+<NSF_ID>000721528</NSF_ID>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>V2PHZ2CSCH63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Board of Trustees of the University of Illinois]]></Name>
+<CityName>Urbana</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S. Wright Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144000</Code>
+<Text>EnvE-Environmental Engineering</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~330000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp;Air pollution is the 2<sup>nd</sup>&nbsp;largest risk factor of deaths and was responsible for 8.1 million premature deaths in 2021. Evidence suggests that ambient fine particulate matter (PM<sub>2.5</sub>) is the main air pollution component, which has been associated with several respiratory diseases. The ambient levels of atmospheric PM<sub>2.5</sub>&nbsp;are regulated by mass concentrations of particles in the air. These regulations include an inherent assumption that the toxicity of PM<sub>2.5</sub>&nbsp;is a function of mass alone and is immune to different emission sources, atmospheric processing, and the resulting chemical composition.&nbsp;However, this assumption may not be entirely correct as PM<sub>2.5</sub>&nbsp;is composed of different chemical species with varying toxicities and their proportions in PM<sub>2.5</sub>&nbsp;also vary spatiotemporally.&nbsp;Meanwhile, an alternative property of PM<sub>2.5</sub>&nbsp;known as oxidative potential (OP), which is characterized by the generation of oxidants in human lungs, has emerged as an important metric to assess health effects. However, the mechanistic links between OP and PM<sub>2.5</sub>&nbsp;toxicity are not clearly established.&nbsp;</p> <p>In this study, we addressed these questions by using a large number of PM<sub>2.5&nbsp;</sub>samples (N~400) collected from 14 different sites across 4 different continents and measuring their toxicity to human epithelial lung cell lines. Our results show that the relationship between PM<sub>2.5&nbsp;</sub>mass vs. cytotoxicity is largely non-linear, with a steep slope at lower PM<sub>2.5</sub>&nbsp;mass (&lt;50 &mu;g m<sup>&minus;3</sup>) and gradual flattening at higher mass concentrations (&gt;300 &mu;g m<sup>&minus;3</sup>) (Figure 1). We hypothesize that the non- linearity in the toxicity trend is largely caused by substantial differences in the PM<sub>2.5</sub>&nbsp;chemical composition among different regions. The mechanistic association between cellular oxidative stress and PM2.5 toxicity was investigated by treating cells with antioxidants (glutathione; GSH and ascorbic acid; AA) before their exposure to ambient PM<sub>2.5</sub>. The pretreatment with antioxidants showed a significant reduced generation of cellular ROS and enhanced the cellular viability (Figure 2).&nbsp;&nbsp;</p> <p>&nbsp;Our study provided mechanistic evidence to&nbsp;demonstrate that PM<sub>2.5</sub>&nbsp;induces cellular toxicity through oxidative stress. Since oxidative stress is driven by the chemical composition, which varies both spatially and temporally, these&nbsp;results show that the relationship between PM<sub>2.5</sub>&nbsp;and health effects is not solely driven by PM<sub>2.5</sub>&nbsp;mass and the role of chemical composition which drives its intrinsic toxicity cannot be ignored. Our results emphasize the need for developing region-specific concentration-response (CR) curves, rather than using a generalized curve globally. Using globally generalized linear CR curves to predict the health effects of PM<sub>2.5</sub>&nbsp;in high PM<sub>2.5</sub>&nbsp;concentration regions such as China and India might cause unrealistic estimations of morbidity and mortality. Consequently, the policy measures focused on reducing PM<sub>2.5</sub>concentrations alone based on globally generalized linear CR curves would not yield equivalent reductions in the health effects.&nbsp;</p><br> <p>  Last Modified: 10/28/2024<br> Modified by: Vishal&nbsp;Verma</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2012149/2012149_10684111_1730149786281_Figure_1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2012149/2012149_10684111_1730149786281_Figure_1--rgov-800width.jpg" title="Figure 1"><img src="/por/images/Reports/POR/2024/2012149/2012149_10684111_1730149786281_Figure_1--rgov-66x44.jpg" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Relationship between extrinsic cytotoxicity (CDv)] vs. PM2.5 mass concentrations based on the entire dataset plotted together.</div> <div class="imageCredit">NA</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Vishal&nbsp;Verma <div class="imageTitle">Figure 1</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2012149/2012149_10684111_1730149993983_Figure_2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2012149/2012149_10684111_1730149993983_Figure_2--rgov-800width.jpg" title="Figure 2"><img src="/por/images/Reports/POR/2024/2012149/2012149_10684111_1730149993983_Figure_2--rgov-66x44.jpg" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Effect of antioxidant treatment on cellular ROS response and cell viability (CV)  Sampling sites: BND = Bondville, CMP = Champaign, CHI = Chicago, IND = Indianapolis,  STL = St. Louis.</div> <div class="imageCredit">NA</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Vishal&nbsp;Verma <div class="imageTitle">Figure 2</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Air pollution is the 2ndlargest risk factor of deaths and was responsible for 8.1 million premature deaths in 2021. Evidence suggests that ambient fine particulate matter (PM2.5) is the main air pollution component, which has been associated with several respiratory diseases. The ambient levels of atmospheric PM2.5are regulated by mass concentrations of particles in the air. These regulations include an inherent assumption that the toxicity of PM2.5is a function of mass alone and is immune to different emission sources, atmospheric processing, and the resulting chemical composition.However, this assumption may not be entirely correct as PM2.5is composed of different chemical species with varying toxicities and their proportions in PM2.5also vary spatiotemporally.Meanwhile, an alternative property of PM2.5known as oxidative potential (OP), which is characterized by the generation of oxidants in human lungs, has emerged as an important metric to assess health effects. However, the mechanistic links between OP and PM2.5toxicity are not clearly established.   In this study, we addressed these questions by using a large number of PM2.5samples (N~400) collected from 14 different sites across 4 different continents and measuring their toxicity to human epithelial lung cell lines. Our results show that the relationship between PM2.5mass vs. cytotoxicity is largely non-linear, with a steep slope at lower PM2.5mass (3) and gradual flattening at higher mass concentrations (300 g m3) (Figure 1). We hypothesize that the non- linearity in the toxicity trend is largely caused by substantial differences in the PM2.5chemical composition among different regions. The mechanistic association between cellular oxidative stress and PM2.5 toxicity was investigated by treating cells with antioxidants (glutathione; GSH and ascorbic acid; AA) before their exposure to ambient PM2.5. The pretreatment with antioxidants showed a significant reduced generation of cellular ROS and enhanced the cellular viability (Figure 2).   Our study provided mechanistic evidence todemonstrate that PM2.5induces cellular toxicity through oxidative stress. Since oxidative stress is driven by the chemical composition, which varies both spatially and temporally, theseresults show that the relationship between PM2.5and health effects is not solely driven by PM2.5mass and the role of chemical composition which drives its intrinsic toxicity cannot be ignored. Our results emphasize the need for developing region-specific concentration-response (CR) curves, rather than using a generalized curve globally. Using globally generalized linear CR curves to predict the health effects of PM2.5in high PM2.5concentration regions such as China and India might cause unrealistic estimations of morbidity and mortality. Consequently, the policy measures focused on reducing PM2.5concentrations alone based on globally generalized linear CR curves would not yield equivalent reductions in the health effects.     Last Modified: 10/28/2024       Submitted by: VishalVerma]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

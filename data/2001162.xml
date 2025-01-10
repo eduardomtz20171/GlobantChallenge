@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Harmonic Analysis and Related Topics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>49972.00</AwardTotalIntnAmount>
+<AwardAmount>49972</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+<PO_EMAI>mbocea@nsf.gov</PO_EMAI>
+<PO_PHON>7032922595</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award provides funding for US participation in a conference about harmonic analysis and related topics, to be held at CRM Barcelona in May 25-29, 2020. This award gives early career researchers, members of underrepresented groups, and researchers not funded by NSF, an opportunity to speak and participate in this conference. The organizing committee will strive to make this funding opportunity known to target groups through a number of different activities. &lt;br/&gt;&lt;br/&gt;Plenary lectures on various recent cutting-edge developments in harmonic analysis (decoupling, sparse domination, weighted theory)  and its applications to other fields (geometric measure theory, approximation theory, mathematical physics) will be delivered by a diverse group of prominent speakers. Several sessions of shorter talks will be organized during which early-career participants will present their work and, additionally, a poster session will be held. The meeting provides an excellent opportunity to facilitate discussions between senior and early-career experts in different areas of harmonic analysis. More information is available at the conference website: http://people.math.gatech.edu/~glivshyts6/Lacey-conference.html&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/03/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001162</AwardID>
+<Investigator>
+<FirstName>Dmitriy</FirstName>
+<LastName>Bilyk</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dmitriy Bilyk</PI_FULL_NAME>
+<EmailAddress><![CDATA[dbilyk@umn.edu]]></EmailAddress>
+<NSF_ID>000079739</NSF_ID>
+<StartDate>01/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Galyna</FirstName>
+<LastName>Livshyts</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Galyna V Livshyts</PI_FULL_NAME>
+<EmailAddress><![CDATA[glivshyts6@math.gatech.edu]]></EmailAddress>
+<NSF_ID>000703947</NSF_ID>
+<StartDate>01/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~49972</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The funds for this project were used to support the US participation in the Workshop ``Advances in Harmonic Analysis''&nbsp;<a href="https://glivshyts6.math.gatech.edu/Lacey-conference.html">https://glivshyts6.math.gatech.edu/Lacey-conference.html</a>&nbsp;which was held in Barcelona on June 13-17 2022, as well as the follow up conference ``Workshop in Analysis'' at Georgia Institute of Technology in December 8-10 2023&nbsp;<a href="https://glivshyts6.math.gatech.edu/workshop_analysis_2023.html">https://glivshyts6.math.gatech.edu/workshop_analysis_2023.html</a>.&nbsp;</p> <p>The workshop in Barcelona allowed for a large number of excellent talks, and time for collaborations. Many students and postdocs attended the workshop and benefited from it.&nbsp;</p> <p>The workshop in Atlanta boasted 38 talks, many of them by junior researchers, and many of the speakers and participants came from Universities that are located not very far from Atlanta.&nbsp;</p> <p>Both of the workshops boasted very diverse lists of speakers and participants. The workshop in Barcelona included steller female speakers such as Svitlana Mayboroda, Lillian Pierce, Laura Cladek, Jill Pipher, Betsy Stowall and Yumeng Ou.&nbsp;</p> <p>The workshop in Atlanta boasted talks by diversity speakers such as&nbsp;<span>Catherine Beneteau,&nbsp;<span>Manuel Fernandez,&nbsp;</span><span>Christina Giannitsi,&nbsp;</span><span>Rachel Greenfeld,&nbsp;</span><span>Orli Herscovici,&nbsp;</span><span>Lyudmila Kryvonos,&nbsp;</span><span>Jose Madrid,&nbsp;</span><span>Michelle Mastrianni,&nbsp;</span><span>Azita Mayeli,&nbsp;</span><span>Stephanie Mui,&nbsp;</span><span>Mariana Smit Vega Garcia,&nbsp;</span><span>Brandon Sweeting,&nbsp;</span><span>Krystal Taylor,&nbsp;</span><span>Ashley Zhang.</span></span></p> <p>The diversity benefited all the participants of the workshops.</p> <p>In addition to the dissemination opportunities, both workshops provided for plenty of discussion and collaboration time, and we have received positive feedback from the participants for both of the workshops.</p><br> <p>  Last Modified: 06/03/2024<br> Modified by: Galyna&nbsp;V&nbsp;Livshyts</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The funds for this project were used to support the US participation in the Workshop ``Advances in Harmonic Analysis''https://glivshyts6.math.gatech.edu/Lacey-conference.htmlwhich was held in Barcelona on June 13-17 2022, as well as the follow up conference ``Workshop in Analysis'' at Georgia Institute of Technology in December 8-10 2023https://glivshyts6.math.gatech.edu/workshop_analysis_2023.html.   The workshop in Barcelona allowed for a large number of excellent talks, and time for collaborations. Many students and postdocs attended the workshop and benefited from it.   The workshop in Atlanta boasted 38 talks, many of them by junior researchers, and many of the speakers and participants came from Universities that are located not very far from Atlanta.   Both of the workshops boasted very diverse lists of speakers and participants. The workshop in Barcelona included steller female speakers such as Svitlana Mayboroda, Lillian Pierce, Laura Cladek, Jill Pipher, Betsy Stowall and Yumeng Ou.   The workshop in Atlanta boasted talks by diversity speakers such asCatherine Beneteau,Manuel Fernandez,Christina Giannitsi,Rachel Greenfeld,Orli Herscovici,Lyudmila Kryvonos,Jose Madrid,Michelle Mastrianni,Azita Mayeli,Stephanie Mui,Mariana Smit Vega Garcia,Brandon Sweeting,Krystal Taylor,Ashley Zhang.   The diversity benefited all the participants of the workshops.   In addition to the dissemination opportunities, both workshops provided for plenty of discussion and collaboration time, and we have received positive feedback from the participants for both of the workshops.     Last Modified: 06/03/2024       Submitted by: GalynaVLivshyts]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

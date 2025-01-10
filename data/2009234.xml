@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dust in the Wind: Dynamics of Dusty Fluids on Interstellar, Stellar, and Planetary Scales]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>433007.00</AwardTotalIntnAmount>
+<AwardAmount>433007</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Glen Langston</SignBlockName>
+<PO_EMAI>glangsto@nsf.gov</PO_EMAI>
+<PO_PHON>7032924937</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Dust grains are tiny particles, ranging from smog-like soots and microscopic sand-like grains to crystals, are of fundamental importance to almost all astrophysics. These grains contain a huge fraction of all the heavy elements in the Universe, and as such represent the "building blocks" that ultimately make up the planets and us. Astronomers have long known that dust is mixed with Hydrogen and Helium gas in the space between the planets, stars, and galaxies, but the dynamics of "dusty fluids" remain poorly understood. Understanding the interactions of dust grains is important models of "recycling" of material between stars and the gas between stars.  To address these issues, the investigator will produce new, massively parallel, public computational codes. This software will also be applicable to more general engineering and turbulence/aerodynamic applications. The investigator plans summer research opportunities for undergraduates, high school students, and high school teachers. This work will also generate animations and visualizations for outreach programs, public talks, and planetarium shows. &lt;br/&gt;&lt;br/&gt;The investigator’s group has recently discovered previously unknown instabilities that can re-write much of the conventional wisdom about how dust grains change with time and alter the formation of planets and stars. Students will run computer simulations incorporating all the relevant processes to model these problems self-consistently and capture the behaviors of these instabilities. This is enabled by a new generation of massive computer codes the investigators have developed.  These codes numerically solve the equations of fluid dynamics interacting with dust and magnetic fields and radiation. They will develop novel testable predictions for planetary disks, planet properties, variations of stars, and structure of the gas around stars This work should contribute fundamentally to our understanding how planets form, how stars change with time, and where stars and planets -- and our chemical building blocks -- come from.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009234</AwardID>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Hopkins</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Philip F Hopkins</PI_FULL_NAME>
+<EmailAddress><![CDATA[phopkins@caltech.edu]]></EmailAddress>
+<NSF_ID>000642465</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250001</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress><![CDATA[1200 E CALIFORNIA BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>911250600</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121600</Code>
+<Text>GALACTIC ASTRONOMY PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~433007</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project supported a collaboration and program of students and scientists studying tiny "dust grains" in astrophysical systems. These dust grains or "stardust," while small, contain most of the heavy elements in the Universe like iron, silicon, and others, and form the building blocks of planets, as well as playing a central role in the chemistry of the interstellar medium, fluid dynamics, and the processesing of radiation and light that we see from almost any astronomical sources. But their properties are poorly understood, because their physics and interactions are complicated and cannot be re-created in the laboratory. This program developed novel numerical computational codes and methods to model these processes, including new physics of dust (e.g. charged dust grains interacting with electric and magnetic fields while also directly interacting with radiation and gas, in a turbulent, star-forming interstellar medium) which had never before been directly modeled. We applied these models to a host of different astrophysical environments and showed that some of the conventional wisdom in the field, on topics ranging from how stars "swallow" planets, how planets and stars get their heavy elements, how dust "shields" radiation from regions, how starlight is able to launch powerful outflows and winds, how the first galaxies built up their heavy elements and dust, and how magnetic fields in the Universe originated, may all need to be heavily revised. We developed new models for these phenomena, and developed direct observational tests which can be carried out in the coming decades by next-generation NSF and NASA-funded observational facilities. The project involved the training and support of two graduate students, two postdoctoral fellows, and three undergraduate students, alongside the PI. All were trained in how to code and develop new algorithms for massive computational simulations, how to use national supercomputing systems, how to analyze and model large datasets, and how to develop effective visualizations and animations of complex multi-dimensional data. They all participated in programs developing visualizations and animations for education and public outreach events, and gave multiple presentations and talks at a series of public events designed for non-astronomers, as well as interacting with high school students and members of the public and incorporating results of these high-performance computational simulations into public media.</p><br> <p>  Last Modified: 12/06/2024<br> Modified by: Philip&nbsp;F&nbsp;Hopkins</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2009234/2009234_10693480_1733499341625_simulated_dust--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2009234/2009234_10693480_1733499341625_simulated_dust--rgov-800width.jpg" title="Dust in the Wind"><img src="/por/images/Reports/POR/2024/2009234/2009234_10693480_1733499341625_simulated_dust--rgov-66x44.jpg" alt="Dust in the Wind"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Simulated outflows of stardust being blown by radiation from stars out of regions of young star birth.</div> <div class="imageCredit">Philip F. Hopkins, Caltech</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Philip&nbsp;F&nbsp;Hopkins <div class="imageTitle">Dust in the Wind</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project supported a collaboration and program of students and scientists studying tiny "dust grains" in astrophysical systems. These dust grains or "stardust," while small, contain most of the heavy elements in the Universe like iron, silicon, and others, and form the building blocks of planets, as well as playing a central role in the chemistry of the interstellar medium, fluid dynamics, and the processesing of radiation and light that we see from almost any astronomical sources. But their properties are poorly understood, because their physics and interactions are complicated and cannot be re-created in the laboratory. This program developed novel numerical computational codes and methods to model these processes, including new physics of dust (e.g. charged dust grains interacting with electric and magnetic fields while also directly interacting with radiation and gas, in a turbulent, star-forming interstellar medium) which had never before been directly modeled. We applied these models to a host of different astrophysical environments and showed that some of the conventional wisdom in the field, on topics ranging from how stars "swallow" planets, how planets and stars get their heavy elements, how dust "shields" radiation from regions, how starlight is able to launch powerful outflows and winds, how the first galaxies built up their heavy elements and dust, and how magnetic fields in the Universe originated, may all need to be heavily revised. We developed new models for these phenomena, and developed direct observational tests which can be carried out in the coming decades by next-generation NSF and NASA-funded observational facilities. The project involved the training and support of two graduate students, two postdoctoral fellows, and three undergraduate students, alongside the PI. All were trained in how to code and develop new algorithms for massive computational simulations, how to use national supercomputing systems, how to analyze and model large datasets, and how to develop effective visualizations and animations of complex multi-dimensional data. They all participated in programs developing visualizations and animations for education and public outreach events, and gave multiple presentations and talks at a series of public events designed for non-astronomers, as well as interacting with high school students and members of the public and incorporating results of these high-performance computational simulations into public media.     Last Modified: 12/06/2024       Submitted by: PhilipFHopkins]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

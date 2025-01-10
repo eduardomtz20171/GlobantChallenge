@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Mitigating antibiotic resistance in drinking water by understanding the impact of corrosion inhibitors and corrosion products]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>203698.00</AwardTotalIntnAmount>
+<AwardAmount>203698</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+<PO_EMAI>krockne@nsf.gov</PO_EMAI>
+<PO_PHON>7032927293</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The spread of antibiotic resistance threatens public health by rendering antibiotics ineffective. Drinking water distribution systems are a source of antibiotic resistance genes, the genetic material that makes bacteria resistant to antibiotics. Water distribution systems are particularly concerning as they are a direct conveyor of antibiotic resistance genes to vulnerable populations including children, the elderly, hospital patients, and people with weakened immune systems. Metals are known to promote the development of antibiotic resistance. Some of these metals are also present in distribution systems due to pipe corrosion and the presence of corrosion inhibitors. The goal of this research is to determine which water pipe materials and corrosion inhibitor choices result in minimal antibiotic resistance. This goal will be achieved through experiments to examine the role of corrosion on antibiotic resistance development. Collaborations between the research team and water utilities will facilitate research to determine the interplay between resistance genes, pipe surfaces, and drinking water chemistry in real-world distribution systems. Further benefits to society will result from guidance provided to drinking water utilities across the country. This guidance will help them decide which pipe materials and corrosion inhibitors best prevent the spread of antibiotic resistance in drinking water to protect public health.&lt;br/&gt; &lt;br/&gt;The spread of antibiotic resistance is a primary public health concern. Metals are a known stressor for antibiotic resistance and are prevalent in drinking water systems due to aging infrastructure and the use of metal-containing corrosion inhibitors. The central hypothesis of this work is that corrosion inhibitors and corrosion products yield metals in water distribution systems that increase the abundance and alter the types of antibiotic resistant genes in municipal drinking water.  The research team combines expertise in chemistry and molecular microbiology to address three complimentary objectives. Objective 1 is to determine the impact of corrosion inhibitors on antibiotic resistance under variable nutrient conditions. Objective 2 is to elucidate the effect of corrosion products on antibiotic resistance using complimentary culture-based and non-culture-based techniques. Objective 3 is to identify linkages between corrosion products and the quantity and profile of antibiotic resistance genes in real-world drinking water distribution system pipes. Surface chemistry characterization will be coupled with Droplet Digital PCR to identify chemical relationships to antibiotic resistance gene profiles. Knowledge generated from this research will help utilities mitigate the spread of antibiotic resistance in drinking water distribution systems. Results will be incorporated into an annual two-day professional short course on emerging contaminants in water and wastewater. Additionally, the PIs will build on previous summer outreach efforts and host a high school course to engage underrepresented students in summer research to increase the diversity of the Nation’s STEM workforce.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027233</AwardID>
+<Investigator>
+<FirstName>Yin</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yin Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[wang292@uwm.edu]]></EmailAddress>
+<NSF_ID>000691735</NSF_ID>
+<StartDate>07/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wisconsin-Milwaukee]]></Name>
+<CityName>MILWAUKEE</CityName>
+<ZipCode>532113153</ZipCode>
+<PhoneNumber>4142294853</PhoneNumber>
+<StreetAddress><![CDATA[3203 N DOWNER AVE # 273]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JBQ9M3PLFDP5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Milwaukee]]></Name>
+<CityName/>
+<StateCode>WI</StateCode>
+<ZipCode>532010340</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144000</Code>
+<Text>EnvE-Environmental Engineering</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~203698</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Antibiotic resistance is a growing global public health crisis, which has a wide range of negative impacts on the patient, healthcare, and societal levels. For vulnerable populations, including children, the elderly, hospital patients, and people with weakened immune systems, antibiotic-resistant pathogens pose serious consequences. A variety of environmental factors act as selective pressure for antibiotic resistance, including metals. Specifically, metals are prevalent in drinking water distribution systems (DWDS), and they enter drinking water via corrosion of metallic pipes and the addition of corrosion inhibitors. The metals in DWDS are a function of the pipe materials present, their unique generation of corrosion products, and the corrosion inhibitors applied, but there is lack of research to explain how particular metals and their specific corrosion products and use of corrosion inhibitors impact selection for antibiotic resistance. Considering the aged drinking water infrastructure in the U.S., there is a critical need to understand how engineering decisions impact public health as we replace and upgrade our infrastructure.</p>  <p>The overarching goal of this project was to determine how corrosion inhibitors and corrosion products impact antibiotic resistance, using a combination of microbiology and chemistry approaches. This was accomplished via three specific objectives: (1) determine the impact of various corrosion inhibitors (zinc orthophosphate, sodium orthophosphate, sodium silicates) on antibiotic resistance under variable nutrient conditions; (2) establish the effect of corrosion products of various metal pipe materials (iron, lead, copper) on antibiotic resistance; and (3) identify corrosion products and quantify antibiotic resistance genes (ARG) in full-scale DWDS pipes.</p>  <p>Through a series of laboratory-scale and full-scale studies, the following major results are achieved. (1) The use of corrosion inhibitors significantly altered the abundance of antibiotic-resistant bacteria (ARB), the selection of ARG and metal resistance genes, and the microbial community structure and diversity. Compared to phosphate-based inhibitors, sodium silicates resulted in the least selection potential for ARB and ARG. Further, co-occurrence of corrosion inhibitors and disinfectants could lead to significant changes to the antibiotic resistome and microbiome in drinking water sources. (2) The impact of corrosion product on antibiotic resistance depended on the metal type of the corrosion product. Specifically, copper and lead corrosion products increased antibiotic resistance, and the extent of influence was related to the concentration and speciation of copper and lead corrosion products. Meanwhile, iron corrosion products had minimal impact on antibiotic resistance. Moreover, the combined addition of copper corrosion products and zinc orthophosphate as a corrosion inhibitor resulted in the increases in ARB and ARG, coinciding with changes to microbial community diversity. (3) Various corrosion products were observed on metal pipes harvested from DWDS, and the dominant corrosion products were influenced by system water chemistry. In addition, DWDS pipes could accumulate a substantial amount of trace metals, and corrosion scales and biofilms of the pipes could serve as sources of resistance genes.</p>  <p>In conclusion, results of this project demonstrate the importance of corrosion inhibitors and corrosion products on the selection of antibiotic resistance. Elucidating the impacts of corrosion inhibition practices and water distribution system pipe material on public health is especially relevant to urban areas containing a high proportion of old pipes. Specifically, by understanding which metals affect the proliferation of antibiotic resistance, municipalities can make informed engineering decisions to better protect public health. ARB and ARG are of particular concern for the most vulnerable populations in hospitals, daycares, and nursing homes, and for people living in poverty affected by increased illness rates. The data generated from this research will broadly impact society by determining how aging DWDS are impacting bacteria in drinking water that people consume in urban areas. In addition, this project supported the training of two graduate students and several undergraduate researchers for cutting-edge research in water chemistry and microbiology. Knowledge of this project has also been incorporated into course modules of key undergraduate courses to better prepare students for careers in industry, academic, and government agencies.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/26/2024<br> Modified by: Yin&nbsp;Wang</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Antibiotic resistance is a growing global public health crisis, which has a wide range of negative impacts on the patient, healthcare, and societal levels. For vulnerable populations, including children, the elderly, hospital patients, and people with weakened immune systems, antibiotic-resistant pathogens pose serious consequences. A variety of environmental factors act as selective pressure for antibiotic resistance, including metals. Specifically, metals are prevalent in drinking water distribution systems (DWDS), and they enter drinking water via corrosion of metallic pipes and the addition of corrosion inhibitors. The metals in DWDS are a function of the pipe materials present, their unique generation of corrosion products, and the corrosion inhibitors applied, but there is lack of research to explain how particular metals and their specific corrosion products and use of corrosion inhibitors impact selection for antibiotic resistance. Considering the aged drinking water infrastructure in the U.S., there is a critical need to understand how engineering decisions impact public health as we replace and upgrade our infrastructure.    The overarching goal of this project was to determine how corrosion inhibitors and corrosion products impact antibiotic resistance, using a combination of microbiology and chemistry approaches. This was accomplished via three specific objectives: (1) determine the impact of various corrosion inhibitors (zinc orthophosphate, sodium orthophosphate, sodium silicates) on antibiotic resistance under variable nutrient conditions; (2) establish the effect of corrosion products of various metal pipe materials (iron, lead, copper) on antibiotic resistance; and (3) identify corrosion products and quantify antibiotic resistance genes (ARG) in full-scale DWDS pipes.    Through a series of laboratory-scale and full-scale studies, the following major results are achieved. (1) The use of corrosion inhibitors significantly altered the abundance of antibiotic-resistant bacteria (ARB), the selection of ARG and metal resistance genes, and the microbial community structure and diversity. Compared to phosphate-based inhibitors, sodium silicates resulted in the least selection potential for ARB and ARG. Further, co-occurrence of corrosion inhibitors and disinfectants could lead to significant changes to the antibiotic resistome and microbiome in drinking water sources. (2) The impact of corrosion product on antibiotic resistance depended on the metal type of the corrosion product. Specifically, copper and lead corrosion products increased antibiotic resistance, and the extent of influence was related to the concentration and speciation of copper and lead corrosion products. Meanwhile, iron corrosion products had minimal impact on antibiotic resistance. Moreover, the combined addition of copper corrosion products and zinc orthophosphate as a corrosion inhibitor resulted in the increases in ARB and ARG, coinciding with changes to microbial community diversity. (3) Various corrosion products were observed on metal pipes harvested from DWDS, and the dominant corrosion products were influenced by system water chemistry. In addition, DWDS pipes could accumulate a substantial amount of trace metals, and corrosion scales and biofilms of the pipes could serve as sources of resistance genes.    In conclusion, results of this project demonstrate the importance of corrosion inhibitors and corrosion products on the selection of antibiotic resistance. Elucidating the impacts of corrosion inhibition practices and water distribution system pipe material on public health is especially relevant to urban areas containing a high proportion of old pipes. Specifically, by understanding which metals affect the proliferation of antibiotic resistance, municipalities can make informed engineering decisions to better protect public health. ARB and ARG are of particular concern for the most vulnerable populations in hospitals, daycares, and nursing homes, and for people living in poverty affected by increased illness rates. The data generated from this research will broadly impact society by determining how aging DWDS are impacting bacteria in drinking water that people consume in urban areas. In addition, this project supported the training of two graduate students and several undergraduate researchers for cutting-edge research in water chemistry and microbiology. Knowledge of this project has also been incorporated into course modules of key undergraduate courses to better prepare students for careers in industry, academic, and government agencies.         Last Modified: 11/26/2024       Submitted by: YinWang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

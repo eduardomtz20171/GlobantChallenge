@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Three-Dimensional Stability of Kinetic Flux Rope Structures in a Collisionless Magnetized Plasma]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>144322.00</AwardTotalIntnAmount>
+<AwardAmount>144322</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vyacheslav (Slava) Lukin</SignBlockName>
+<PO_EMAI>vlukin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927382</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will theoretically and computationally study formation of self-organized structures in a plasma.  Most observable matter in the universe is in the form of a plasma, consisting of electrically charged particles with electrons freed from atoms. In a plasma, the electrons and the charged atoms (the ions) move quasi-randomly, but their spatial distribution and movement can produce electric and magnetic fields leading to formation of plasma structures with sizes much larger than atomic sizes but much smaller than the volume of the whole plasma.  Such small structures can fundamentally change the properties of plasmas. However, whether and how such structures can form is still poorly understood and will be pursued within this project.  Results from this research will increase our understandings of properties of space, astrophysical, and laboratory plasmas, with societally important applications for space weather prediction and future fusion energy devices. This collaborative project will support a PhD student at University of Alaska Fairbanks, as well as a PhD student at University of New Hampshire.  The students will receive training in both theory and numerical simulations.&lt;br/&gt;&lt;br/&gt;High temperature plasmas can be considered collisionless, with particle distributions in a collisionless plasma often deviating from a Maxwellian.  While the forms of such non-Maxwellian distributions are important, it is also important to explore how small-scale kinetic structures can exist in such plasmas, with the Bernstein-Greene-Kruskal (BGK) modes in 1D being one example.  This project will perform numerical simulations using the state-of-the-art Particle-In-Cell (PIC) code "PSC" to study the stability of analytic multi-dimensional solutions of localized kinetic structures in the form of magnetic flux ropes satisfying the Vlasov-Poisson-Ampère system of equations.  Possible formation mechanisms for the generation of stable two-dimensional or three-dimensional localized kinetic structures will also be studied numerically. The main goal of this research is to characterize quantitatively the conditions under which kinetic structures can be stable. This project is expected to produce new understanding of small-scale kinetic physics in collisionless magnetized plasmas. New insights obtained through this project will have impact on fundamental plasma theory, as well as affect frontier problems in laboratory, space and astrophysical plasmas.  For example, it can have significant implication for understanding the process of magnetic reconnection, where recent large-scale kinetic simulations have discovered the generation of small kinetic scale flux ropes during magnetic reconnection. Small-scale kinetic structures have also been observed by the Magnetospheric Multiscale (MMS) mission, which has the main objective of studying magnetic reconnection in space.  Moreover, this project can impact other fields in science since the Vlasov equation is widely applied in many different physical systems.  This project is jointly funded by the Division of Physics and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010393</AwardID>
+<Investigator>
+<FirstName>Kai</FirstName>
+<LastName>Germaschewski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kai Germaschewski</PI_FULL_NAME>
+<EmailAddress><![CDATA[kai.germaschewski@unh.edu]]></EmailAddress>
+<NSF_ID>000512253</NSF_ID>
+<StartDate>07/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of New Hampshire]]></Name>
+<CityName>DURHAM</CityName>
+<ZipCode>038242620</ZipCode>
+<PhoneNumber>6038622172</PhoneNumber>
+<StreetAddress><![CDATA[51 COLLEGE RD]]></StreetAddress>
+<StreetAddress2><![CDATA[BLDG 107]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NH01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GBNGC495XA67</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY SYSTEM OF NEW HAMPSHIRE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of New Hampshire]]></Name>
+<CityName/>
+<StateCode>NH</StateCode>
+<ZipCode>038242600</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NH01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124200</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1062</Code>
+<Text>BASIC PLASMA SCIENCE &amp; ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8092</Code>
+<Text>Space Weather Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~45368</FUND_OBLG>
+<FUND_OBLG>2021~47994</FUND_OBLG>
+<FUND_OBLG>2022~50960</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The physics of collisionless (high temperature/dilute) plasmas is rich and complicated. In the 2021 report by the National Academies of Sciences Committee on a Decadal Assessment of Plasma Science, one of the four Strategic Challenges in foundational plasma science (Predict self-organization of plasmas and, where needed, control that self-organization) focuses on coherent structures in the six-dimensional (6D) phase space, since the formation of small-scale localized kinetic structures is a complex self-organization process. The main objective of this collaborative project is to study the stability of one kind of solutions of such kinetic structures, found by the Principal Investigator C. S. Ng in previous research. Such solutions, called 2D BGK modes, are time-steady exact solutions, and are tube-like structures along a background magnetic field. However, to see if these solutions are indeed stable (not evolving) in time, we must input the analytic solution into a computer program that is capable to simulate the dynamic evolution from an initial state. The program we used is a Particle-in-Cell (PIC) code called PSC, partly developed by the Principal Investigator K. Germaschewski. Here are the main outcomes of this project:</p>  <p>Intellectual Merit</p>  <p>We have successfully performed many 2D/3D PIC simulations showing that both stable and unstable 2D BGK modes exist. Generally, with other conditions remain the same, a solution is stable if the background magnetic field strength is greater than a certain value, and vice versa. Figure 1 shows outputs of the radial electric field as functions of radial position from a stable case. There are actually 500 curves from equally spaced moments from the initial time to 204 electron cyclotron times. The fact that all curves are almost on top of each other, including the initial curve from the analytic solution, not only confirms the validity of the theory, but also shows that the solution is indeed time-steady and stable.</p>  <p>For an unstable case, Figure 2 shows that the instability evolves into a rotating spiral structure in both the electron density perturbations (left) and electric field components (right).</p>  <p>Our results from 2D and 3D simulations have been written up as two papers respectively: <em>McClung et al</em>. Phys. Plasmas <strong>31</strong>, 042302 (2024) and <em>Franciscovich et al</em>. submitted to Phys. Plasmas, doi: 10.48550/arXiv.2410.16585 (2024). While these papers have many figures to illustrate the results, the dynamic of the instability process is best viewed through videos of simulation outputs. We have put many such videos in the supplemental materials of these papers so that the public can view them to get a better understanding of the results:&nbsp; <a href="https://pubs.aip.org/pop/article-supplement/3280694/zip/042302_1_5.0187853.suppl_material/">https://pubs.aip.org/pop/article-supplement/3280694/zip/042302_1_5.0187853.suppl_material/</a> and <a href="https://drive.google.com/drive/folders/1h4V4FLA8tPDN-FOVabTCYEjYg2Jh-BV_?usp=drive_link">https://drive.google.com/drive/folders/1h4V4FLA8tPDN-FOVabTCYEjYg2Jh-BV_?usp=drive_link</a>. Figure 3 shows frames of a video at roughly equal time intervals from a 3D PIC simulation from time 0 to about 148.5 (left to right and up to down). These 3D perspective plots of the radial electric field show a spiral structure appears as an instability develops.</p>  <p>Our results have significant impact on the field of plasma physics and space physics by showing that such small-scale kinetic structures likely exist in real plasmas and so their effects must be taken into account in relevant dynamical processes.</p>  <p>Besides these simulations, we have also constructed new 3D BGK mode solutions that are localized in all directions, within a background magnetic field of finite field strength.</p>  <p>Broader Impacts</p>  <p>The new discovery observed in our 2D/3D PIC simulations with respect to the generation of azimuthal electrostatic waves when a 2D BGK mode becomes unstable can have impact on the field of galactic dynamics, since it is observed that the wave pattern evolves into a rotating spiral shape. This suggests a similar mechanism might be responsible for the formation of spiral arms in galaxies. This is because the mathematical method in constructing a BGK mode solution is very similar to constructing a galaxy solution. In fact, the existence of disk galaxies is the inspiration for our new theory of 3D BGK modes. Moreover, we have also published a paper on the importance of Landau damping in the relaxation problem within galactic dynamics, similar to plasma physics.</p>  <p>This project also has fundamental impact on the theoretical description of plasmas, which helps the development of fusion reactors, and the predictions of space weather, both are much needed for the human society.</p>  <p>This project provided opportunities for a PhD graduate student at the University of Alaska Fairbanks, as well as another PhD graduate student at the University of New Hampshire, to work on theoretical and computational plasma physics. They have each written a first-author paper based on the results for this project, and thus moving significantly further in their PhD research. This project also supported the teaching and outreach activities of the two Principal Investigators.</p>  <p>&nbsp;</p>  <p>&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/01/2024<br> Modified by: Kai&nbsp;Germaschewski</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2010393/2010393_10690940_1733108694232_Ng_outcomes_2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2010393/2010393_10690940_1733108694232_Ng_outcomes_2--rgov-800width.png" title="Heatmaps of electron density and azimuthal electric field from a simulation of an unstable 2D BGK mode."><img src="/por/images/Reports/POR/2024/2010393/2010393_10690940_1733108694232_Ng_outcomes_2--rgov-66x44.png" alt="Heatmaps of electron density and azimuthal electric field from a simulation of an unstable 2D BGK mode."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Heatmaps of electron density and azimuthal electric field from a simulation of an unstable 2D BGK mode.</div> <div class="imageCredit">McClung</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kai&nbsp;Germaschewski <div class="imageTitle">Heatmaps of electron density and azimuthal electric field from a simulation of an unstable 2D BGK mode.</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2010393/2010393_10690940_1733108778144_Ng_outcomes_3--rgov-214x142.png" original="/por/images/Reports/POR/2024/2010393/2010393_10690940_1733108778144_Ng_outcomes_3--rgov-800width.png" title="3D perspective plots of the radial electric field from a 3D simulation of an unstable 2D BGK mode."><img src="/por/images/Reports/POR/2024/2010393/2010393_10690940_1733108778144_Ng_outcomes_3--rgov-66x44.png" alt="3D perspective plots of the radial electric field from a 3D simulation of an unstable 2D BGK mode."></a> <div class="imageCaptionContainer"> <div class="imageCaption">3D perspective plots of the radial electric field from a 3D simulation of an unstable 2D BGK mode, for time from 0 to 148.5 (equally spaced from left to right and up to down).</div> <div class="imageCredit">Franciscovich</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kai&nbsp;Germaschewski <div class="imageTitle">3D perspective plots of the radial electric field from a 3D simulation of an unstable 2D BGK mode.</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2010393/2010393_10690940_1733108648469_Ng_outcomes_1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2010393/2010393_10690940_1733108648469_Ng_outcomes_1--rgov-800width.png" title="Radial electric field profiles from a simulation of a stable 2D BGK mode."><img src="/por/images/Reports/POR/2024/2010393/2010393_10690940_1733108648469_Ng_outcomes_1--rgov-66x44.png" alt="Radial electric field profiles from a simulation of a stable 2D BGK mode."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Radial electric field profiles from a simulation of a stable 2D BGK mode. 500 curves from equally spaced moments from the initial time to 204 electron cyclotron times, and the initial profile from the analytic theory.</div> <div class="imageCredit">McClung</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kai&nbsp;Germaschewski <div class="imageTitle">Radial electric field profiles from a simulation of a stable 2D BGK mode.</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The physics of collisionless (high temperature/dilute) plasmas is rich and complicated. In the 2021 report by the National Academies of Sciences Committee on a Decadal Assessment of Plasma Science, one of the four Strategic Challenges in foundational plasma science (Predict self-organization of plasmas and, where needed, control that self-organization) focuses on coherent structures in the six-dimensional (6D) phase space, since the formation of small-scale localized kinetic structures is a complex self-organization process. The main objective of this collaborative project is to study the stability of one kind of solutions of such kinetic structures, found by the Principal Investigator C. S. Ng in previous research. Such solutions, called 2D BGK modes, are time-steady exact solutions, and are tube-like structures along a background magnetic field. However, to see if these solutions are indeed stable (not evolving) in time, we must input the analytic solution into a computer program that is capable to simulate the dynamic evolution from an initial state. The program we used is a Particle-in-Cell (PIC) code called PSC, partly developed by the Principal Investigator K. Germaschewski. Here are the main outcomes of this project:    Intellectual Merit    We have successfully performed many 2D/3D PIC simulations showing that both stable and unstable 2D BGK modes exist. Generally, with other conditions remain the same, a solution is stable if the background magnetic field strength is greater than a certain value, and vice versa. Figure 1 shows outputs of the radial electric field as functions of radial position from a stable case. There are actually 500 curves from equally spaced moments from the initial time to 204 electron cyclotron times. The fact that all curves are almost on top of each other, including the initial curve from the analytic solution, not only confirms the validity of the theory, but also shows that the solution is indeed time-steady and stable.    For an unstable case, Figure 2 shows that the instability evolves into a rotating spiral structure in both the electron density perturbations (left) and electric field components (right).    Our results from 2D and 3D simulations have been written up as two papers respectively: McClung et al. Phys. Plasmas 31, 042302 (2024) and Franciscovich et al. submitted to Phys. Plasmas, doi: 10.48550/arXiv.2410.16585 (2024). While these papers have many figures to illustrate the results, the dynamic of the instability process is best viewed through videos of simulation outputs. We have put many such videos in the supplemental materials of these papers so that the public can view them to get a better understanding of the results: https://pubs.aip.org/pop/article-supplement/3280694/zip/042302_1_5.0187853.suppl_material/ and https://drive.google.com/drive/folders/1h4V4FLA8tPDN-FOVabTCYEjYg2Jh-BV_?usp=drive_link. Figure 3 shows frames of a video at roughly equal time intervals from a 3D PIC simulation from time 0 to about 148.5 (left to right and up to down). These 3D perspective plots of the radial electric field show a spiral structure appears as an instability develops.    Our results have significant impact on the field of plasma physics and space physics by showing that such small-scale kinetic structures likely exist in real plasmas and so their effects must be taken into account in relevant dynamical processes.    Besides these simulations, we have also constructed new 3D BGK mode solutions that are localized in all directions, within a background magnetic field of finite field strength.    Broader Impacts    The new discovery observed in our 2D/3D PIC simulations with respect to the generation of azimuthal electrostatic waves when a 2D BGK mode becomes unstable can have impact on the field of galactic dynamics, since it is observed that the wave pattern evolves into a rotating spiral shape. This suggests a similar mechanism might be responsible for the formation of spiral arms in galaxies. This is because the mathematical method in constructing a BGK mode solution is very similar to constructing a galaxy solution. In fact, the existence of disk galaxies is the inspiration for our new theory of 3D BGK modes. Moreover, we have also published a paper on the importance of Landau damping in the relaxation problem within galactic dynamics, similar to plasma physics.    This project also has fundamental impact on the theoretical description of plasmas, which helps the development of fusion reactors, and the predictions of space weather, both are much needed for the human society.    This project provided opportunities for a PhD graduate student at the University of Alaska Fairbanks, as well as another PhD graduate student at the University of New Hampshire, to work on theoretical and computational plasma physics. They have each written a first-author paper based on the results for this project, and thus moving significantly further in their PhD research. This project also supported the teaching and outreach activities of the two Principal Investigators.                 Last Modified: 12/01/2024       Submitted by: KaiGermaschewski]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

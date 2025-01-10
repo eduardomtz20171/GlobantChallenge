@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: SARE: Multiferroic Shields for Smart Analog Security]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>289467.00</AwardTotalIntnAmount>
+<AwardAmount>289467</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jenshan Lin</SignBlockName>
+<PO_EMAI>jenlin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927360</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Multiferroic materials allow for dielectric and magnetic property control through active biasing. Leveraging these features, this project will introduce new types of adaptable and reconfigurable electromagnetic structures. Specifically, the project will develop multiferroic substrates, tunable biasing networks, and electromagnetic structures for packaging and integration on a common platform. Research will also focus on synthesis of multiferroic substrates compatible for such integration. The goal is to attain active control and reconfigurability of bulk substrate properties to provide an adaptable RF shielding of wireless communication systems. Overall, the project aims to increase security to RF systems through mitigation of wireless interferences, concurrently allowing secure data-channels. Focus will be on achieving selective blocking or transmission of radio waves, and reconfigurability of frequency and transmitting direction. This multidisciplinary project will bridge the gap between broadly applicable fields of multiferroics and electromagnetics. The project leverages two active NSF Research Experience for Undergraduates (REU) sites at Florida International University to improve outreach and training of undergraduates.&lt;br/&gt;&lt;br/&gt;Specifically, the project will introduce new architectures and external magnetic-field biasing to control the dielectric properties of bulk substrates. Material integration will be pursued for tunable reflecting antenna arrays, transmitting antenna arrays, frequency selective surfaces (FSS) and antennas and thus exploit the properties of multiferroic substrates towards tunability. The project has three broad research components: (1) synthesis of multiferroic substrates by embedding core-shell nanoparticles formed by cobalt ferrite cores and barium strontium titanate (BST) shells; (2) integration of frequency selective surfaces and antenna structures,  co-designed with tunable multiferroic substrates for dynamic passbands; (3) development of active biasing networks to control multiferroic media properties while concurrently being neutral to the FSS and antenna performance. Beyond these, the project will focus on reducing power levels of active networks for efficient performances. This will be achieved by using nanomagnetic field amplifying agents and multiferroic nanocomposites. Research will also focus on effective packaging of the biasing architectures, electromagnetic structures and multiferroic substrates to achieve 3D excitation and tuning. These solutions will be experimentally demonstrated for tunable shielding applications and subsequently tested with wireless communication systems to demonstrate the project outcomes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/29/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029007</AwardID>
+<Investigator>
+<FirstName>Markondeya Raj</FirstName>
+<LastName>Pulugurtha</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Markondeya Raj Pulugurtha</PI_FULL_NAME>
+<EmailAddress><![CDATA[mpulugur@fiu.edu]]></EmailAddress>
+<NSF_ID>000793199</NSF_ID>
+<StartDate>12/08/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Volakis</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John L Volakis</PI_FULL_NAME>
+<EmailAddress><![CDATA[jvolakis@fiu.edu]]></EmailAddress>
+<NSF_ID>000272422</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Markondeya Raj</FirstName>
+<LastName>Pulugurtha</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Markondeya Raj Pulugurtha</PI_FULL_NAME>
+<EmailAddress><![CDATA[mpulugur@fiu.edu]]></EmailAddress>
+<NSF_ID>000793199</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate>12/08/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Satheesh</FirstName>
+<LastName>Bojja Venkatakrishnan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Satheesh Bojja Venkatakrishnan</PI_FULL_NAME>
+<EmailAddress><![CDATA[sbojjave@fiu.edu]]></EmailAddress>
+<NSF_ID>000795095</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shubhendu</FirstName>
+<LastName>Bhardwaj</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shubhendu Bhardwaj</PI_FULL_NAME>
+<EmailAddress><![CDATA[bhardwaj@unl.edu]]></EmailAddress>
+<NSF_ID>000761988</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate>12/08/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q3KCVK5S9CP1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>Miami</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331990001</ZipCode>
+<StreetAddress><![CDATA[11200 SW 8th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>098E</Code>
+<Text>Antennas and Electromagnetics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>104E</Code>
+<Text>MEMS/NEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>105E</Code>
+<Text>RF/Microwave &amp; mm-wave tech</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~289467</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project led to the design and fabrication of&nbsp; smart shields and antennas with material and design innovations. Specifically, we exploit multiferroic materials to manipulate&nbsp; electromagnetic properties with magnetic fields to achieve such tunable and smart functions. This is enabled by the strain coupling between the magnetostrictive and piezoelectric components inside the material. Multiphysics simulations were used to model the coupling of magnetic fields to mechanical strain in magnetostrictive materials, and then followed by strain-driven change in dielectric properties of piezoelectric thick-films. Permittivity changes were modeled under varying stress and magnetic field loading.&nbsp;The multiferroic resonance mode responses were also modeled using Multiphysics simulations.</p> <p>&nbsp;</p> <p>The next part of the project explored various material options to create&nbsp; multiferroic coupling for tunable properties. The first part explored PVDF-magnetostrictive stacks for magnetoelectric tuning. Significant tuning was achieved at the multiferroic resonance frequency. Unfortunately, this resonance happens at 20-100 kHz, rendering it irrelevant to microwave applications. Efforts to enhance the frequency has been the next key focus. Several design and material parameters were varied to enhance the resonance and thus the tuning frequency. With polymer-based piezoelectric materials that are not stable at high temperatures of even 80 C, we need to utilize epoxy adhesives with curing near room temperatures. Ceramic piezoelectrics provide opportunity for high-temperature stiff bonding and higher resonance frequencies. With a stack of ceramic piezoelectric that is bonded to a magnetostrictive layer with stiff metallic bonding, resonances in 100 kHz frequencies was achieved.&nbsp; Stiff bonding materials provide the opportunity to enhance multiferroic coefficients between the piezoelectric and magnetostrictive layers. Systems such as barium titanate/cobalt ferrite, PZT/iron alloys and similar systems were studied. Ferroelectric thin-films of strontium titanate were also grown on magnetostrictive metal films. In this process, annealing conditions are critical as the magnetostrictive properties can be easily degraded when annealed at temperatures of 400 C and above. Various processes such as cofiring of ceramics or cold-spray deposition of composites were also explored as processing options in the on-going work. Simulations showed that, by shrinking the dimensions to microscale, resonance of 70-100 MHz was achieved with thin-films of AlN and FeGaB.&nbsp;</p> <p>However, all the above approaches offered limited reach in microwave frequencies. Therefore, the team studied multiferroic materials in a unique configuration to generate tunable bandwidth and metamaterials in the desired microwave and mmWave frequencies that are key for future 5G and 6G applications. In this approach, multiferroics are physically reconfigured through magnetic fields. By utilizing this strategy, we can reconfigure properties by dislocating the multiferroic particles inside substrate core and cavities. This approach was used to tune metamaterial shields and patch antennas over a wide range of frequencies. For example, patch antennas were tuned from 1 to 2 GHz. Similarly, metamaterials were also tuned over 1 GHz in the s-band to achieve dynamic shields. By benefiting from the thermal response of certain multiferroics, the team also studied the thermal tuning of patch antennas to attain reconfigurability. The team experimentally validated&nbsp; tunable antennas in GHz range with such multiferroic materials.</p> <p>The team also investigated these multiferroics towards wireless power and data telemetry applications. Magnetoelectric coefficient is the key parameter that determines the wireless power transfer efficiency.&nbsp;Specifically, the team built various multiferroic stacks for converting remote magnetic fields to usable power. These include PVDF/iron alloys and PZT fibers/iron alloy stacks that can attain high magnetoelectric coefficients.&nbsp;</p> <p>The broad impact of this research led to the engagement of 15 undergraduate female or minority students in the applications of multiferroics in biomedical devices. About 4 teams of senior design students studied multiferroic materials for wireless in biomedical implants for neurostimulation and data telemetry applications. A team in 2023 explored multiferroic materials for retinopathy in implants. Another team studied dual-band antennas for data telemetry at low frequencies by utilizing these materials as antennas. A different senior design team studied the application of multiferroic materials for neurostimulation.&nbsp; Multiple undergraduate students attained research experience and exposure by working with these materials. In addition, three graduate students performed their thesis work by partly getting support from this program.&nbsp;Students were able to publish the work in in multiple IEEE flagship conferences such as Electronic Components and Technology Conference (ECTC), Nanotechnology Conference (IEEE NANO), IEEE NMDC (Nanotechnology, Materials and Device Conference) and others. In addition, several IEEE Society webinars that focused on multiferroic applications were disseminated. The graduate students obtained a highly revered opportunity to provide &ldquo;service-based learning&rdquo;. They mentored several teams of undergraduate students and hence obtained valuable experience in recognizing and honing talents.</p> <p>The broad impact also led to creation of intellectual property. By jointly engaging with a company, the team applied multiferroic materials to dynamically shift or tune the bandwidth of antennas and also isolation bands in metamaterials.&nbsp; By codeveloping the concept into a usable technology, we also created an accelerated path to commercialize the technology.</p> <p>&nbsp;</p><br> <p>  Last Modified: 06/15/2024<br> Modified by: Markondeya Raj&nbsp;Pulugurtha</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2029007/2029007_10689742_1716161509251_multiphysics_simul___permittivity_with_current_and_stress--rgov-214x142.png" original="/por/images/Reports/POR/2024/2029007/2029007_10689742_1716161509251_multiphysics_simul___permittivity_with_current_and_stress--rgov-800width.png" title="Multiferroic simulations"><img src="/por/images/Reports/POR/2024/2029007/2029007_10689742_1716161509251_multiphysics_simul___permittivity_with_current_and_stress--rgov-66x44.png" alt="Multiferroic simulations"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Multiphysics simulations of tuning permittivity with stress and current</div> <div class="imageCredit">Shubhendu Bhardwaj and Pawan Gaire</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Markondeya Raj&nbsp;Pulugurtha <div class="imageTitle">Multiferroic simulations</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2029007/2029007_10689742_1716161592178_Multiferroic_fabrication--rgov-214x142.png" original="/por/images/Reports/POR/2024/2029007/2029007_10689742_1716161592178_Multiferroic_fabrication--rgov-800width.png" title="Multiferroic fabrication"><img src="/por/images/Reports/POR/2024/2029007/2029007_10689742_1716161592178_Multiferroic_fabrication--rgov-66x44.png" alt="Multiferroic fabrication"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Fabrication of multiferroic composite films</div> <div class="imageCredit">Veeru Jaiswal</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Markondeya Raj&nbsp;Pulugurtha <div class="imageTitle">Multiferroic fabrication</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2029007/2029007_10689742_1716161862086_Antenna_tunning_with_moving_particles--rgov-214x142.png" original="/por/images/Reports/POR/2024/2029007/2029007_10689742_1716161862086_Antenna_tunning_with_moving_particles--rgov-800width.png" title="Antenna tuning"><img src="/por/images/Reports/POR/2024/2029007/2029007_10689742_1716161862086_Antenna_tunning_with_moving_particles--rgov-66x44.png" alt="Antenna tuning"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Tuning antenna bands with shifting permittivity domains</div> <div class="imageCredit">Ghaleb Al Duhni</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Markondeya Raj&nbsp;Pulugurtha <div class="imageTitle">Antenna tuning</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2029007/2029007_10689742_1716161692574_Permittivity_tuning--rgov-214x142.png" original="/por/images/Reports/POR/2024/2029007/2029007_10689742_1716161692574_Permittivity_tuning--rgov-800width.png" title="Tuning multiferroics"><img src="/por/images/Reports/POR/2024/2029007/2029007_10689742_1716161692574_Permittivity_tuning--rgov-66x44.png" alt="Tuning multiferroics"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Permittivity tuning with magnetic fields at the resonance frequency</div> <div class="imageCredit">Veeru Jaiswal</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Markondeya Raj&nbsp;Pulugurtha <div class="imageTitle">Tuning multiferroics</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2029007/2029007_10689742_1716162086679_metamaterial_tuning_with_moving_particles--rgov-214x142.png" original="/por/images/Reports/POR/2024/2029007/2029007_10689742_1716162086679_metamaterial_tuning_with_moving_particles--rgov-800width.png" title="Tunable metamaterials"><img src="/por/images/Reports/POR/2024/2029007/2029007_10689742_1716162086679_metamaterial_tuning_with_moving_particles--rgov-66x44.png" alt="Tunable metamaterials"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Smart metamaterials by tuning permittivity domains</div> <div class="imageCredit">Ghaleb Al Duhni</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Markondeya Raj&nbsp;Pulugurtha <div class="imageTitle">Tunable metamaterials</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project led to the design and fabrication of smart shields and antennas with material and design innovations. Specifically, we exploit multiferroic materials to manipulate electromagnetic properties with magnetic fields to achieve such tunable and smart functions. This is enabled by the strain coupling between the magnetostrictive and piezoelectric components inside the material. Multiphysics simulations were used to model the coupling of magnetic fields to mechanical strain in magnetostrictive materials, and then followed by strain-driven change in dielectric properties of piezoelectric thick-films. Permittivity changes were modeled under varying stress and magnetic field loading.The multiferroic resonance mode responses were also modeled using Multiphysics simulations.      The next part of the project explored various material options to create multiferroic coupling for tunable properties. The first part explored PVDF-magnetostrictive stacks for magnetoelectric tuning. Significant tuning was achieved at the multiferroic resonance frequency. Unfortunately, this resonance happens at 20-100 kHz, rendering it irrelevant to microwave applications. Efforts to enhance the frequency has been the next key focus. Several design and material parameters were varied to enhance the resonance and thus the tuning frequency. With polymer-based piezoelectric materials that are not stable at high temperatures of even 80 C, we need to utilize epoxy adhesives with curing near room temperatures. Ceramic piezoelectrics provide opportunity for high-temperature stiff bonding and higher resonance frequencies. With a stack of ceramic piezoelectric that is bonded to a magnetostrictive layer with stiff metallic bonding, resonances in 100 kHz frequencies was achieved. Stiff bonding materials provide the opportunity to enhance multiferroic coefficients between the piezoelectric and magnetostrictive layers. Systems such as barium titanate/cobalt ferrite, PZT/iron alloys and similar systems were studied. Ferroelectric thin-films of strontium titanate were also grown on magnetostrictive metal films. In this process, annealing conditions are critical as the magnetostrictive properties can be easily degraded when annealed at temperatures of 400 C and above. Various processes such as cofiring of ceramics or cold-spray deposition of composites were also explored as processing options in the on-going work. Simulations showed that, by shrinking the dimensions to microscale, resonance of 70-100 MHz was achieved with thin-films of AlN and FeGaB.   However, all the above approaches offered limited reach in microwave frequencies. Therefore, the team studied multiferroic materials in a unique configuration to generate tunable bandwidth and metamaterials in the desired microwave and mmWave frequencies that are key for future 5G and 6G applications. In this approach, multiferroics are physically reconfigured through magnetic fields. By utilizing this strategy, we can reconfigure properties by dislocating the multiferroic particles inside substrate core and cavities. This approach was used to tune metamaterial shields and patch antennas over a wide range of frequencies. For example, patch antennas were tuned from 1 to 2 GHz. Similarly, metamaterials were also tuned over 1 GHz in the s-band to achieve dynamic shields. By benefiting from the thermal response of certain multiferroics, the team also studied the thermal tuning of patch antennas to attain reconfigurability. The team experimentally validated tunable antennas in GHz range with such multiferroic materials.   The team also investigated these multiferroics towards wireless power and data telemetry applications. Magnetoelectric coefficient is the key parameter that determines the wireless power transfer efficiency.Specifically, the team built various multiferroic stacks for converting remote magnetic fields to usable power. These include PVDF/iron alloys and PZT fibers/iron alloy stacks that can attain high magnetoelectric coefficients.   The broad impact of this research led to the engagement of 15 undergraduate female or minority students in the applications of multiferroics in biomedical devices. About 4 teams of senior design students studied multiferroic materials for wireless in biomedical implants for neurostimulation and data telemetry applications. A team in 2023 explored multiferroic materials for retinopathy in implants. Another team studied dual-band antennas for data telemetry at low frequencies by utilizing these materials as antennas. A different senior design team studied the application of multiferroic materials for neurostimulation. Multiple undergraduate students attained research experience and exposure by working with these materials. In addition, three graduate students performed their thesis work by partly getting support from this program.Students were able to publish the work in in multiple IEEE flagship conferences such as Electronic Components and Technology Conference (ECTC), Nanotechnology Conference (IEEE NANO), IEEE NMDC (Nanotechnology, Materials and Device Conference) and others. In addition, several IEEE Society webinars that focused on multiferroic applications were disseminated. The graduate students obtained a highly revered opportunity to provide service-based learning. They mentored several teams of undergraduate students and hence obtained valuable experience in recognizing and honing talents.   The broad impact also led to creation of intellectual property. By jointly engaging with a company, the team applied multiferroic materials to dynamically shift or tune the bandwidth of antennas and also isolation bands in metamaterials. By codeveloping the concept into a usable technology, we also created an accelerated path to commercialize the technology.        Last Modified: 06/15/2024       Submitted by: Markondeya RajPulugurtha]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

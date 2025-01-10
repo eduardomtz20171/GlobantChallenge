@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist.  The title of the project for this fellowship to Elizabeth O'Reilly is "High dimensional stochastic geometry with applications to data science."  The host institution for the fellowship is California Institute of Technology, and the sponsoring scientist is Joel Tropp.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002255</AwardID>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>O'Reilly</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elizabeth O'Reilly</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000788024</NSF_ID>
+<StartDate>03/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[O'Reilly, Elizabeth]]></Name>
+<CityName>Austin</CityName>
+<ZipCode>78751</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>Pasadena</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911252100</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The results of this NSF Postdoctoral Fellowship include the introduction of new models for data analysis that address drawbacks of previous methods and new theory for their performance and computation.</p>  <p>One major outcome was the introduction of the theory of random tessellations to random partitioning methods in machine learning. Previous theoretical results relied on restricting the distribution to axis-aligned boxes, but these fail to capture dependencies between features of the data. The lack of existing analysis of oblique random partitions called for a new approach, motivating this work. The results resulting from this proposal studied models built from general Poisson hyperplane and STIT processes. It was shown what can be gained from general oblique splits by characterizing a large class of kernels that can be approximated with random features obtained from Poisson hyperplane and STIT tessellations. The formalism of stationary random tessellations was utilized to show that random forests built from STIT and Poisson hyperplane tessellations achieve minimax optimal rates in arbitrary dimension, which were the first such rates for a class of random forests with oblique splits.</p>  <p>Another outcome was a new method for convex regression that regularizes by restricting to a parametric hypothesis class of convex functions, called spectrahedral functions, that have smooth and singular features. Spectrahedral regression maintains the tractability of previous approaches such as max-affine regression, while obtaining better estimators when the underlying function is not piecewise affine. Another practical advantage of this new approach is that spectrahedral functions can be optimized using semidefinite programming, which is desirable in applications such as aircraft profile drag modeling. Another contribution of this work was to prove geometric convergence of an alternating minimization algorithm to compute the parameters of the model. Upper bounds on the risk of the estimators were also obtained, showing subclasses of spectrahedral functions obtain minimax optimal rates.&nbsp;</p>  <p>During the period of the postdoctoral fellowship, the PI developed and participated in a number of initiatives for increasing diversity in STEM focusing on inclusive mentorship education and technical advocacy participation. The PI mentored three students through the Summer Undergraduate Research Fellowship (SURF) program at Caltech in projects at the intersection of stochastic geometry and data science. The PI also served as a mentor to two students through the FSRI program, which brings incoming freshman from underrepresented groups in STEM to campus in the summer to take math courses and do a research project. The PI served as a member of the Caltech Postdoctoral Association Diversity Committee and contributed to the creation of an Inclusive Mentorship Workshop for the Caltech community. The PI also helped organize the Student Activism Speaker Series while an NSF Postdoctoral Fellow at Caltech. This group invites diverse speakers involved in advocacy and public policy to speak to the Caltech community about their work and the impact of technical advocacy. The PI was also involved directly in technical advocacy work during the fellowship by working with an organization in Texas working to increase voter access to polls.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/15/2024<br> Modified by: Elizabeth&nbsp;O'reilly</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The results of this NSF Postdoctoral Fellowship include the introduction of new models for data analysis that address drawbacks of previous methods and new theory for their performance and computation.    One major outcome was the introduction of the theory of random tessellations to random partitioning methods in machine learning. Previous theoretical results relied on restricting the distribution to axis-aligned boxes, but these fail to capture dependencies between features of the data. The lack of existing analysis of oblique random partitions called for a new approach, motivating this work. The results resulting from this proposal studied models built from general Poisson hyperplane and STIT processes. It was shown what can be gained from general oblique splits by characterizing a large class of kernels that can be approximated with random features obtained from Poisson hyperplane and STIT tessellations. The formalism of stationary random tessellations was utilized to show that random forests built from STIT and Poisson hyperplane tessellations achieve minimax optimal rates in arbitrary dimension, which were the first such rates for a class of random forests with oblique splits.    Another outcome was a new method for convex regression that regularizes by restricting to a parametric hypothesis class of convex functions, called spectrahedral functions, that have smooth and singular features. Spectrahedral regression maintains the tractability of previous approaches such as max-affine regression, while obtaining better estimators when the underlying function is not piecewise affine. Another practical advantage of this new approach is that spectrahedral functions can be optimized using semidefinite programming, which is desirable in applications such as aircraft profile drag modeling. Another contribution of this work was to prove geometric convergence of an alternating minimization algorithm to compute the parameters of the model. Upper bounds on the risk of the estimators were also obtained, showing subclasses of spectrahedral functions obtain minimax optimal rates.    During the period of the postdoctoral fellowship, the PI developed and participated in a number of initiatives for increasing diversity in STEM focusing on inclusive mentorship education and technical advocacy participation. The PI mentored three students through the Summer Undergraduate Research Fellowship (SURF) program at Caltech in projects at the intersection of stochastic geometry and data science. The PI also served as a mentor to two students through the FSRI program, which brings incoming freshman from underrepresented groups in STEM to campus in the summer to take math courses and do a research project. The PI served as a member of the Caltech Postdoctoral Association Diversity Committee and contributed to the creation of an Inclusive Mentorship Workshop for the Caltech community. The PI also helped organize the Student Activism Speaker Series while an NSF Postdoctoral Fellow at Caltech. This group invites diverse speakers involved in advocacy and public policy to speak to the Caltech community about their work and the impact of technical advocacy. The PI was also involved directly in technical advocacy work during the fellowship by working with an organization in Texas working to increase voter access to polls.         Last Modified: 12/15/2024       Submitted by: ElizabethO'reilly]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

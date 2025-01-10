@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CDS&E: Collaborative Research: Private Data Analytics Synthesis, and Sharing for Large-Scale Multi-Modal Smart City Mobility Research]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>335000.00</AwardTotalIntnAmount>
+<AwardAmount>367000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amy Apon</SignBlockName>
+<PO_EMAI>awapon@nsf.gov</PO_EMAI>
+<PO_PHON>7032925184</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Given the trend towards urbanization, understanding real-time human mobility in urban areas has become increasingly important for many research areas from Mobile Networking, to Transportation/Urban Planning, Behavior Modeling, Emergency Response, to recent Pandemic Mitigation. Many analytical models have been proposed to understand human mobility based on mobility data. However, most of these data are proprietary and cannot be accessed by the research community at large. Fortunately, based on the latest expansion of urban infrastructures, such mobility data has been collected by city government agencies and some companies that are willing to share the data for social good. However, a key challenge is the privacy concern since such data usually have sensitive information and system design details for potential privacy and security issues. To address this issue, the project aims to generate realistic yet synthetic mobility data through machine learning based on the real mobility data analytics and then share these realistic synthetic data with the research community. The objective of the project is to lower the entry barriers for interdisciplinary researchers in mobility data-intensive research aimed at addressing major scientific/societal challenges related to urban mobility.&lt;br/&gt;&lt;br/&gt;The core merit of the project lies in integrating two aims, i.e., privacy-preserving data synthesis and data integration, for large-scale smart city mobility research. For the first research aim, the project plans to utilize recent advances in Generative Adversarial Networks (GANs) to enable large-scale mobility data synthesis. The goal is to achieve the individual-level release of realistic synthetic mobility data by GAN-based models targeting key characteristics of human mobility. The GAN architecture proposed has novel technical components to augment basic GAN frameworks, which optimize the fundamental trade-off between privacy (regarding removing/obfuscating sensitive mobility features) and utility (in terms of preserving non-sensitive mobility features) with long-range dependencies (in terms of repeated mobility patterns) revealed. For the second research aim, the PIs plans to perform multi-modal data integration based on aligned multi-tensor decomposition under mobility semantics. The technical approach proposed is to enable multi-modal data integration based on synthetic single-modal data for comprehensive mobility modeling with a set of machine learning techniques including novel mobility semantic learning and multi-tensor decomposition with aligned spatiotemporal granularity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003874</AwardID>
+<Investigator>
+<FirstName>Desheng</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Desheng Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[dz220@cs.rutgers.edu]]></EmailAddress>
+<NSF_ID>000727091</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dimitris</FirstName>
+<LastName>Metaxas</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dimitris N Metaxas</PI_FULL_NAME>
+<EmailAddress><![CDATA[dnm@cs.rutgers.edu]]></EmailAddress>
+<NSF_ID>000236186</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress><![CDATA[3 RUTGERS PLZ]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>Piscataway</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>088548019</ZipCode>
+<StreetAddress><![CDATA[110 Frelinhuysen Rd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>723100</Code>
+<Text>CYBERINFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>808400</Code>
+<Text>CDS&amp;E</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~351000</FUND_OBLG>
+<FUND_OBLG>2021~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this project, we designed a privacy-preserving framework to generate realistic synthetic data through machine learning models based on real mobility data analytics. Particularly, we studied three major topics on mobility privacy risk prediction, road map generation based on mobility data, and privacy leakage in mobility data-based machine learning models. (i) We design a novel model to predict the privacy risk of a user based on transferring knowledge from other mobility data sources. We evaluate our work on real-world mobility data from multiple mobility datasets. Our work has potential implications for future endeavors in privacy risk prediction, and mobility data protection in the research community and industries. (ii) We generate urban road maps based on GPS data from heterogenous commercial vehicle fleets and design a generative AI model to generate community road maps based on mobility data. We conducted three case studies for courier workload estimation, Estimated Time of Arrival (ETA) in last-mile delivery, and fine-grained order assignment. The results of case studies demonstrate the utility of the generated road networks on three fundamental tasks in last-mile delivery. (iii) we design a privacy attack suite to understand and quantify the privacy leakage in mobility data-based machine learning models. Our results show that there is no single solid defense that can simultaneously defend against proposed attacks. Our findings underscore the urgent need for better privacy-preserving approaches for POI recommendation models.</p> <p>&nbsp;</p> <p>This project has huge broader impacts. (i) Four Ph.D. students and eight undergraduate students including four female students were supported by this project. (ii) The project outcomes include over 20 papers published in top-tier computer science conferences and journals including ACM UbiComp, ACM KDD, ACM MobiCom, WWW, IEEE ICDE, IEEE TMC, ACM TIST, ACM TOSN, Scientific Reports, etc. Over 15 invited talks and conference presentations are made to share the findings from this project. (iii) Two privacy-preserving mobility datasets were released to benefit the research community. (iv) A graduate course titled Data Science for Smart Cities was created to disseminate knowledge and findings from this project, as well as broaden participation in privacy and machine learning for mobility data research.</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/09/2024<br> Modified by: Desheng&nbsp;Zhang</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In this project, we designed a privacy-preserving framework to generate realistic synthetic data through machine learning models based on real mobility data analytics. Particularly, we studied three major topics on mobility privacy risk prediction, road map generation based on mobility data, and privacy leakage in mobility data-based machine learning models. (i) We design a novel model to predict the privacy risk of a user based on transferring knowledge from other mobility data sources. We evaluate our work on real-world mobility data from multiple mobility datasets. Our work has potential implications for future endeavors in privacy risk prediction, and mobility data protection in the research community and industries. (ii) We generate urban road maps based on GPS data from heterogenous commercial vehicle fleets and design a generative AI model to generate community road maps based on mobility data. We conducted three case studies for courier workload estimation, Estimated Time of Arrival (ETA) in last-mile delivery, and fine-grained order assignment. The results of case studies demonstrate the utility of the generated road networks on three fundamental tasks in last-mile delivery. (iii) we design a privacy attack suite to understand and quantify the privacy leakage in mobility data-based machine learning models. Our results show that there is no single solid defense that can simultaneously defend against proposed attacks. Our findings underscore the urgent need for better privacy-preserving approaches for POI recommendation models.      This project has huge broader impacts. (i) Four Ph.D. students and eight undergraduate students including four female students were supported by this project. (ii) The project outcomes include over 20 papers published in top-tier computer science conferences and journals including ACM UbiComp, ACM KDD, ACM MobiCom, WWW, IEEE ICDE, IEEE TMC, ACM TIST, ACM TOSN, Scientific Reports, etc. Over 15 invited talks and conference presentations are made to share the findings from this project. (iii) Two privacy-preserving mobility datasets were released to benefit the research community. (iv) A graduate course titled Data Science for Smart Cities was created to disseminate knowledge and findings from this project, as well as broaden participation in privacy and machine learning for mobility data research.        Last Modified: 09/09/2024       Submitted by: DeshengZhang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Development of a glacial abrasion rule for landscape-evolution models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>209442.00</AwardTotalIntnAmount>
+<AwardAmount>209442</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Justin Lawrence</SignBlockName>
+<PO_EMAI>jlawrenc@nsf.gov</PO_EMAI>
+<PO_PHON>7032922425</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Glacial landscapes are sculpted by the ice that slides above them.  The constant flow of ice wears away at the underlying bedrock, eroding it through time.  The rates and patterns of this wear stem in part from a process called abrasion, which results from sediment entrained in basal ice being pressed into the underlying rock and drug along by the glacier.  A number of theories have been proposed to estimate abrasion rates, which depend on a multitude of parameters. In order to accurately model the evolution of glacial landscapes, a mathematical “abrasion law” is needed that accurately captures the physics relevant to abrasion.  The form of the abrasion law is difficult to determine beneath real glaciers because their beds are often inaccessible and the controlling factors are difficult to measure in the field.  Further compounding these difficulties is the fact that abrasion rates are miniscule and therefore require decades or centuries to pass before the eroded volume is measurable. The goal of this project is to develop a mathematical relationship that describes the physics of glacial abrasion using a novel set of laboratory instruments, so that it can be implemented in numerical landscape evolution models. In the laboratory, conditions can be controlled and measured with the precision needed to accurately determine the abrasion law. The project will support a graduate and an undergraduate student from UW-Madison and provide training for underrepresented students from the College of Menominee Nation.&lt;br/&gt;&lt;br/&gt;A large-diameter ring shear device and a direct shear device at UW-Madison will be used to slide debris-laden ice at the pressure melting point over rock beds that vary in shape and composition. The striations produced by abrasion will be analyzed using a white light interferometer capable of measuring the volume of eroded material down to 10-18 cubic meters. With the ability to measure these miniscule volumes, the sliding experiments can be conducted in relatively short timeframes (less than one month each) and still generate sufficient abraded volume to determine the abrasion law. Using these instruments, an abrasion law will be developed that relates the rate of erosion to independent variables, such as sliding speed, basal melting, bed shape, debris hardness, and debris concentration.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2017185</AwardID>
+<Investigator>
+<FirstName>Lucas</FirstName>
+<LastName>Zoet</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lucas K Zoet</PI_FULL_NAME>
+<EmailAddress><![CDATA[lzoet@wisc.edu]]></EmailAddress>
+<NSF_ID>000668655</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>Madison</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537061692</ZipCode>
+<StreetAddress><![CDATA[1215 W Dayton St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>745800</Code>
+<Text>Geomorphology &amp; Land-use Dynam</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~209442</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>As glaciers move over the landscape, sediment entrained within basal ice grinds against the underlying bedrock, gradually wearing it away. This process shapes the landscape through erosion, forming various characteristic glacial landforms. The grinding action of the basal sediment against the bed rock is called abrasion. An &ldquo;abrasion law&rdquo; relates glaciological properties, such as sliding speed, shear stress, or ice flow speed, to the abrasion rate. Developing an abrasion law that accurately reflects physical processes while remaining simple enough for use in landscape evolution models is challenging. Field data alone is insufficient to derive this physical relation because, while paleo records can provide estimates of eroded volumes, they lack information about the glaciological conditions that caused the erosion. In contrast, modern glaciers allow measurements of glaciological properties, but accurately determining eroded volumes remains difficult, limiting the ability to establish a precise abrasion law. Laboratory experiments offer controlled environments where relevant glaciological factors can be measured over weeks or months, but accurately measuring the miniscule eroded volume is logistically challenging. Here we have addressed this problem by using highly controlled laboratory experiments in a novel cryogenic ring shear device along with a high precision instrument capable of measuring the miniscule amounts of erosion that occurred in those experiments, ultimately allowing us to quantitively constrain the abrasion law.</p> <p>Specifically, we used a cryogenic ring shear device (Fig. 1) to slide debris-ice over rock beds of various lithologies to create striations (Fig. 2)&mdash;the wear marks created through abrasion. The volume of material abraded away in the striations was measured using a white light profilometer. For comparison, we conducted simpler experiments with a direct shear apparatus, which resulted in only a limited amount of abrasion. In the ring shear experiments, both flat (planar) and non-flat (stepped) rock beds were eroded. Our findings indicate that a power-based abrasion law accurately represents the physical processes driving abrasion (Fig. 3). This approach is not only consistent with the physical mechanisms involved but also simple to incorporate into landscape evolution models. By adopting this power-based approach to abrasion, landscape evolution models can more effectively simulate how landscapes evolve under glaciers, reducing uncertainties associated with unknown aspects of the underlying physical processes.</p> <p>As a part of this research, two summer interns from the College of Menominee Nation participated in a full-time, 12-week geoscience intern program. They assisted the team and prepared posters and presentations based on their work.</p> <p>The major outcomes of the work to date are:</p> <ol> <li><strong>Development of a power-based abrasion law</strong>: This law is recommended for use in landscape evolution models, where abrasion scales with basal shear stress and slip velocity.</li> <li><strong>Revised energy expenditure estimate for abrasion</strong>: Our findings show that abrasion accounts for approximately 1% of the energy expenditure of glaciers, significantly lower than the previously hypothesized 30%.</li> <li><strong>Characterization of striation types</strong>: The most abundant striation types (1, 2, or 3) vary with the extent of the striation and exhibit distinct morphologies related to drag forces.</li> <li><strong>Training and educational impact</strong>: This research provided training opportunities for 2 PhD students, 2 University of Washington undergraduates, and 2 College of Menominee Nation undergraduate students.</li> </ol> <p>&nbsp;</p><br> <p>  Last Modified: 10/22/2024<br> Modified by: Lucas&nbsp;K&nbsp;Zoet</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2017185/2017185_10681521_1729621084614_Screenshot_2024_10_22_at_1.14.33__8239_PM--rgov-214x142.png" original="/por/images/Reports/POR/2024/2017185/2017185_10681521_1729621084614_Screenshot_2024_10_22_at_1.14.33__8239_PM--rgov-800width.png" title="Figure 2"><img src="/por/images/Reports/POR/2024/2017185/2017185_10681521_1729621084614_Screenshot_2024_10_22_at_1.14.33__8239_PM--rgov-66x44.png" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">High-resolution scans of the various types of striations in both plan and profile view: (A) type 1 striation, (B) type 2 striation, (C) type 3 striation, and (D) chatter marks. In all panels, ice flow is indicated by the red arrows; 5% vertical amplification was added to the striation prof</div> <div class="imageCredit">Figure from Zoet et al., (2024)</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Lucas&nbsp;K&nbsp;Zoet <div class="imageTitle">Figure 2</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2017185/2017185_10681521_1729621167342_Screenshot_2024_10_22_at_10.06.01__8239_AM--rgov-214x142.png" original="/por/images/Reports/POR/2024/2017185/2017185_10681521_1729621167342_Screenshot_2024_10_22_at_10.06.01__8239_AM--rgov-800width.png" title="Figure 3"><img src="/por/images/Reports/POR/2024/2017185/2017185_10681521_1729621167342_Screenshot_2024_10_22_at_10.06.01__8239_AM--rgov-66x44.png" alt="Figure 3"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Abraded volume (V) normalized by the area of the bed (abed) scales linearly with mean shear force (Fs) for both ring shear (RS) and direct shear (DS) experiments and both clast-bed types (m�marble bed; ls�limestone bed). Solid lines are ordinary least-squares fits, and dashed lines represent 95% con</div> <div class="imageCredit">Figure from Hansen et al., (2023)</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Lucas&nbsp;K&nbsp;Zoet <div class="imageTitle">Figure 3</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2017185/2017185_10681521_1729621029236_Screenshot_2024_10_22_at_10.05.16__8239_AM--rgov-214x142.png" original="/por/images/Reports/POR/2024/2017185/2017185_10681521_1729621029236_Screenshot_2024_10_22_at_10.05.16__8239_AM--rgov-800width.png" title="Figure 1"><img src="/por/images/Reports/POR/2024/2017185/2017185_10681521_1729621029236_Screenshot_2024_10_22_at_10.05.16__8239_AM--rgov-66x44.png" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A) Photo of the cryogenic ring shear device. B) design schematic (modified from Dodge et al, 2022). C) clast entrained in ice slipping on a marble bed at the outer sample chamber wall. D) Clasts arrayed on marble bed prior to building the ice ring. (Photo credit: Ethan Parrish).</div> <div class="imageCredit">Figure from Hansen et al., (2023)</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Lucas&nbsp;K&nbsp;Zoet <div class="imageTitle">Figure 1</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  As glaciers move over the landscape, sediment entrained within basal ice grinds against the underlying bedrock, gradually wearing it away. This process shapes the landscape through erosion, forming various characteristic glacial landforms. The grinding action of the basal sediment against the bed rock is called abrasion. An abrasion law relates glaciological properties, such as sliding speed, shear stress, or ice flow speed, to the abrasion rate. Developing an abrasion law that accurately reflects physical processes while remaining simple enough for use in landscape evolution models is challenging. Field data alone is insufficient to derive this physical relation because, while paleo records can provide estimates of eroded volumes, they lack information about the glaciological conditions that caused the erosion. In contrast, modern glaciers allow measurements of glaciological properties, but accurately determining eroded volumes remains difficult, limiting the ability to establish a precise abrasion law. Laboratory experiments offer controlled environments where relevant glaciological factors can be measured over weeks or months, but accurately measuring the miniscule eroded volume is logistically challenging. Here we have addressed this problem by using highly controlled laboratory experiments in a novel cryogenic ring shear device along with a high precision instrument capable of measuring the miniscule amounts of erosion that occurred in those experiments, ultimately allowing us to quantitively constrain the abrasion law.   Specifically, we used a cryogenic ring shear device (Fig. 1) to slide debris-ice over rock beds of various lithologies to create striations (Fig. 2)the wear marks created through abrasion. The volume of material abraded away in the striations was measured using a white light profilometer. For comparison, we conducted simpler experiments with a direct shear apparatus, which resulted in only a limited amount of abrasion. In the ring shear experiments, both flat (planar) and non-flat (stepped) rock beds were eroded. Our findings indicate that a power-based abrasion law accurately represents the physical processes driving abrasion (Fig. 3). This approach is not only consistent with the physical mechanisms involved but also simple to incorporate into landscape evolution models. By adopting this power-based approach to abrasion, landscape evolution models can more effectively simulate how landscapes evolve under glaciers, reducing uncertainties associated with unknown aspects of the underlying physical processes.   As a part of this research, two summer interns from the College of Menominee Nation participated in a full-time, 12-week geoscience intern program. They assisted the team and prepared posters and presentations based on their work.   The major outcomes of the work to date are:  Development of a power-based abrasion law: This law is recommended for use in landscape evolution models, where abrasion scales with basal shear stress and slip velocity. Revised energy expenditure estimate for abrasion: Our findings show that abrasion accounts for approximately 1% of the energy expenditure of glaciers, significantly lower than the previously hypothesized 30%. Characterization of striation types: The most abundant striation types (1, 2, or 3) vary with the extent of the striation and exhibit distinct morphologies related to drag forces. Training and educational impact: This research provided training opportunities for 2 PhD students, 2 University of Washington undergraduates, and 2 College of Menominee Nation undergraduate students.         Last Modified: 10/22/2024       Submitted by: LucasKZoet]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

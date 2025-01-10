@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+<PO_EMAI>sgdewint@nsf.gov</PO_EMAI>
+<PO_PHON>7032922599</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist. The title of the project for this fellowship to Rachel Webb is  "A geometric approach to Gromov-Witten theory." The host institution for the fellowship University of California - Berkeley, and the sponsoring scientist is Martin Olsson.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002131</AwardID>
+<Investigator>
+<FirstName>Rachel</FirstName>
+<LastName>Webb</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rachel Webb</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000811075</NSF_ID>
+<StartDate>03/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Webb, Rachel]]></Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>48109</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California, Berkeley]]></Name>
+<CityName>Berkeley</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947203840</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-3253e899-7fff-535b-4943-52abd262719f"> </span></p> <p dir="ltr"><strong>Overview</strong></p> <p dir="ltr"><span>Gromov-Witten theory studies a manifold X by calculating how curves can lie in X. Each calculation produces a number, called a Gromov-Witten invariant, and these numbers say something about the geometry of X. Gromov-Witten theory is motivated by physics, which says certain manifolds X may be related to the actual observable physics of our universe, with Gromov-Witten invariants of X being realized as particle interactions.</span></p> <p dir="ltr"><span>The PI&rsquo;s mathematical research all stems from the problem of studying Gromov-Witten invariants and their properties. The PI is particularly interested in situations where the manifold X is replaced by an object called an orbifold. An orbifold is a manifold with additional data recording local symmetries of the object. The Gromov-Witten invariants of orbifolds at genus zero determine Gromov-Witten invariants of manifolds at higher genus, and hence provide one approach to some physical questions that have been open for more than 30 years.</span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p><span id="docs-internal-guid-3253e899-7fff-535b-4943-52abd262719f"><strong>Intellectual Merit</strong></span></p> <p><span id="docs-internal-guid-3253e899-7fff-535b-4943-52abd262719f"> </span></p> <p dir="ltr"><span>The scientific outcomes of this grant include computations of quasimap I-functions and a study of the moduli spaces of sections. Projects begun but not completed include an example of the nonabelian crepant transformation conjecture and a research program to study moduli of stacky curves with colliding points.</span></p> <p dir="ltr"><span>Quasimap I-functions are a recipe to find recursive formulas for Gromov-Witten invariants of manifolds or orbifolds X with certain nice coordinate systems. The PI found such formulas in important broad classes of examples and with collaborators used these formulas to compute some actual invariants.&nbsp;</span></p> <p dir="ltr"><span>Moduli spaces of sections are a key ingredient to actually defining Gromov-Witten invariants. The PI and collaborators gave new proofs (valid in more generality) of key properties of these spaces that are used in the above-mentioned definition.&nbsp;</span></p> <p dir="ltr"><span>The nonabelian crepant transformation conjecture says that Gromov-Witten invariants of different manifolds X are, in certain cases, "the same." The PI and collaborators proved an important example of this phenomenon.</span></p> <p dir="ltr"><span>Finally, stacky curves with colliding points are an important new tool to study the Gromov-Witten theory of orbifolds. The PI and her collaborator are developing the theoretical foundations needed for this new approach.</span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p><span id="docs-internal-guid-3253e899-7fff-535b-4943-52abd262719f"><strong>Broader Impacts</strong></span></p> <p><span id="docs-internal-guid-3253e899-7fff-535b-4943-52abd262719f"> </span></p> <p dir="ltr"><span>The outcomes of this grant with broader impacts include K12 math outreach, math writing in university classrooms, and mentoring.&nbsp;</span></p> <p dir="ltr"><span>In Spring of 2023 the PI&nbsp; designed and presented a series of &ldquo;math stories&rdquo; to a kindergarten classroom at a local public school. The children listened to the story on the rug, and then replayed it independently on worksheets. Concepts taught included even/odd numbers, fractions, and adding on one.</span></p> <p dir="ltr"><span>In May of 2021 the PI participated in a STEM writing workshop hosted by expert Cary Moskovitz. The PI prepared drafts of writing assignments for use in math classrooms. These were deployed the following spring in a multivariable calculus class.&nbsp;</span></p> <p dir="ltr"><span>In Summer of 2022 the PI served as a mentor for the Michigan Research Experience for Graduate students. This program gave first and second year graduate students some research exposure. The PI has continued to mentor three of these students in an ongoing research project. In Spring of 2023 the PI also served as an undergraduate thesis advisor.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/05/2024<br> Modified by: Rachel&nbsp;Webb</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      Overview   Gromov-Witten theory studies a manifold X by calculating how curves can lie in X. Each calculation produces a number, called a Gromov-Witten invariant, and these numbers say something about the geometry of X. Gromov-Witten theory is motivated by physics, which says certain manifolds X may be related to the actual observable physics of our universe, with Gromov-Witten invariants of X being realized as particle interactions.   The PIs mathematical research all stems from the problem of studying Gromov-Witten invariants and their properties. The PI is particularly interested in situations where the manifold X is replaced by an object called an orbifold. An orbifold is a manifold with additional data recording local symmetries of the object. The Gromov-Witten invariants of orbifolds at genus zero determine Gromov-Witten invariants of manifolds at higher genus, and hence provide one approach to some physical questions that have been open for more than 30 years.         Intellectual Merit       The scientific outcomes of this grant include computations of quasimap I-functions and a study of the moduli spaces of sections. Projects begun but not completed include an example of the nonabelian crepant transformation conjecture and a research program to study moduli of stacky curves with colliding points.   Quasimap I-functions are a recipe to find recursive formulas for Gromov-Witten invariants of manifolds or orbifolds X with certain nice coordinate systems. The PI found such formulas in important broad classes of examples and with collaborators used these formulas to compute some actual invariants.   Moduli spaces of sections are a key ingredient to actually defining Gromov-Witten invariants. The PI and collaborators gave new proofs (valid in more generality) of key properties of these spaces that are used in the above-mentioned definition.   The nonabelian crepant transformation conjecture says that Gromov-Witten invariants of different manifolds X are, in certain cases, "the same." The PI and collaborators proved an important example of this phenomenon.   Finally, stacky curves with colliding points are an important new tool to study the Gromov-Witten theory of orbifolds. The PI and her collaborator are developing the theoretical foundations needed for this new approach.         Broader Impacts       The outcomes of this grant with broader impacts include K12 math outreach, math writing in university classrooms, and mentoring.   In Spring of 2023 the PI designed and presented a series of math stories to a kindergarten classroom at a local public school. The children listened to the story on the rug, and then replayed it independently on worksheets. Concepts taught included even/odd numbers, fractions, and adding on one.   In May of 2021 the PI participated in a STEM writing workshop hosted by expert Cary Moskovitz. The PI prepared drafts of writing assignments for use in math classrooms. These were deployed the following spring in a multivariable calculus class.   In Summer of 2022 the PI served as a mentor for the Michigan Research Experience for Graduate students. This program gave first and second year graduate students some research exposure. The PI has continued to mentor three of these students in an ongoing research project. In Spring of 2023 the PI also served as an undergraduate thesis advisor.             Last Modified: 10/05/2024       Submitted by: RachelWebb]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

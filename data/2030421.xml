@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Bioinspired Sensors for Image Guided Cancer Surgery]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Adam Wax</SignBlockName>
+<PO_EMAI>awax@nsf.gov</PO_EMAI>
+<PO_PHON>7032928809</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Near-infrared (NIR) fluorescence image-guided surgery (IGS) has shown enormous potential to improve the outcome of cancer surgeries due to the low photon scattering, enabling high signal to background and deeper tissue imaging. The goal of this proposal is to further enhance cancer treatment by decreasing and ideally eliminating, positive tumor margins and small metastatic tumors in first surgeries by simultaneously imaging multiple, small-sized tumor-targeted molecular probes with a novel bioinspired imaging sensor. The project involves understanding how light modulates drug transport across the blood-brain barrier. The results of this project may enable the development of new types of nanoconstructs, which will enable a transformation in the treatment of brain cancer and other types of cancer. The project participants will also work with the St. Louis Science Center to develop a module on the biologically inspired fluorescence sensor. Presentations will be provided to young people during Summer Science Blast summer day camps and museum visitors during Nano Days public fairs. &lt;br/&gt;&lt;br/&gt;Prof. Gruev and his team are developing a sensor that will identify small tumors and tumor margins during intraoperative settings and present this information to surgeons for complete tumor removal. They will accomplish this by functionally mimicking the visual system of the mantis shrimp—considered the best predator in shallow waters—to develop a single-chip multispectral camera with improved sensitivity and specificity to image several tumor-targeted molecular markers. The project synergistically combines advancements in nanofabrication technology, imaging sensors and tumor targeted molecular markers.  They will pre-clinically validate their technology in animal models of breast cancer. The project participants will also work with the St. Louis Science Center to develop a module on the biologically inspired fluorescence sensor. Presentations will be provided to young people during Summer Science Blast summer day camps and museum visitors during Nano Days public fairs. This new imaging technology for cancer surgeries will be incorporated in the curriculum of the new engineering driven medical school at Carle Illinois School of Medicine, training future physicians on emerging technologies for cancer care.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2030421</AwardID>
+<Investigator>
+<FirstName>Viktor</FirstName>
+<LastName>Gruev</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Viktor Gruev</PI_FULL_NAME>
+<EmailAddress><![CDATA[vgruev@illinois.edu]]></EmailAddress>
+<NSF_ID>000516507</NSF_ID>
+<StartDate>06/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>hyungsoo</FirstName>
+<LastName>choi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>hyungsoo choi</PI_FULL_NAME>
+<EmailAddress><![CDATA[hyungsoo@illinois.edu]]></EmailAddress>
+<NSF_ID>000533658</NSF_ID>
+<StartDate>06/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>V2PHZ2CSCH63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>Urbana</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618207406</ZipCode>
+<StreetAddress><![CDATA[306 N. Wright St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>723600</Code>
+<Text>BioP-Biophotonics</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~600000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp;</p> <p>Overview: Cancer affects 1 in 3 people worldwide, with surgery as the primary treatment for localized cases. Achieving positive outcomes depends on the complete removal of tumors and timely detection of metastases. To enhance surgical precision, we developed tumor-targeted probes and a six-channel color/near-infrared image sensor, inspired by the mantis shrimp visual system, for near-infrared fluorescence-guided surgery. This sensor, tested in 18 breast cancer patients, provided multifunctional imaging and sentinel lymph node mapping.</p> <p>Intellectual merit: This project aims to enhance cancer treatment by reducing or eliminating positive tumor margins and small metastatic tumors in initial surgeries. We achieved this by simultaneously imaging multiple tumor-targeted molecular probes with a novel bioinspired imaging sensor, providing real-time data to surgeons. Our sensor detects at least two fluorescent markers excited at ~790nm, integrating pixelated spectral filters with vertically stacked photodetectors. Additionally, we developed molecular probes targeting tumor biomarkers to highlight margins and small tumors (&lt;0.5 mm) during surgery. While broadly applicable to solid tumors, we focused on breast cancer.</p> <p>Broader impact: The proposed research aims to develop imaging technology that ensures the complete removal of cancer cells during the initial surgical procedure. Achieving this goal will directly enhance patient quality of life, reduce healthcare costs, and benefit society as a whole. The affordability of our imaging system makes it accessible to resource-limited hospitals, supporting value-based healthcare. Additionally, we have integrated research materials into our engineering curriculum to educate and inspire the next generation of engineers.</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/14/2024<br> Modified by: Viktor&nbsp;Gruev</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2030421/2030421_10678306_1723641001082_Screenshot_2024_08_14_at_8.07.22__8239_AM--rgov-214x142.png" original="/por/images/Reports/POR/2024/2030421/2030421_10678306_1723641001082_Screenshot_2024_08_14_at_8.07.22__8239_AM--rgov-800width.png" title="Bioinspired Imager"><img src="/por/images/Reports/POR/2024/2030421/2030421_10678306_1723641001082_Screenshot_2024_08_14_at_8.07.22__8239_AM--rgov-66x44.png" alt="Bioinspired Imager"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Our image sensor is inspired by the visual system of the mantis shrimp. It enables imaging of multiple tumor targeted probes during surgical procedures.</div> <div class="imageCredit">Viktor Gruev</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Viktor&nbsp;Gruev <div class="imageTitle">Bioinspired Imager</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     Overview: Cancer affects 1 in 3 people worldwide, with surgery as the primary treatment for localized cases. Achieving positive outcomes depends on the complete removal of tumors and timely detection of metastases. To enhance surgical precision, we developed tumor-targeted probes and a six-channel color/near-infrared image sensor, inspired by the mantis shrimp visual system, for near-infrared fluorescence-guided surgery. This sensor, tested in 18 breast cancer patients, provided multifunctional imaging and sentinel lymph node mapping.   Intellectual merit: This project aims to enhance cancer treatment by reducing or eliminating positive tumor margins and small metastatic tumors in initial surgeries. We achieved this by simultaneously imaging multiple tumor-targeted molecular probes with a novel bioinspired imaging sensor, providing real-time data to surgeons. Our sensor detects at least two fluorescent markers excited at ~790nm, integrating pixelated spectral filters with vertically stacked photodetectors. Additionally, we developed molecular probes targeting tumor biomarkers to highlight margins and small tumors (   Broader impact: The proposed research aims to develop imaging technology that ensures the complete removal of cancer cells during the initial surgical procedure. Achieving this goal will directly enhance patient quality of life, reduce healthcare costs, and benefit society as a whole. The affordability of our imaging system makes it accessible to resource-limited hospitals, supporting value-based healthcare. Additionally, we have integrated research materials into our engineering curriculum to educate and inspire the next generation of engineers.        Last Modified: 08/14/2024       Submitted by: ViktorGruev]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

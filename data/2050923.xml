@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Research Experience for Undergraduates: Interdisciplinary Cutting-Edge Research though the Analysis of Global Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>565595.00</AwardTotalIntnAmount>
+<AwardAmount>565595</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Rom</SignBlockName>
+<PO_EMAI>elrom@nsf.gov</PO_EMAI>
+<PO_PHON>7032927709</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Columbia University's Lamont-Doherty Earth Observatory (LDEO), located in Palisades, NY will host a Research Experience for Undergraduates (REU) program. The title of the program is “Interdisciplinary Cutting-Edge Research through the Analysis of Global Data", and it will provide ten-week research internship opportunities for fourteen undergraduates each summer from 2021-2023. &lt;br/&gt;&lt;br/&gt;The program takes students from posing a cutting-edge scientific question, to gathering and analyzing data, developing conceptual hypotheses, and culminates in activities that communicate their results to scientific and broader audiences. Students work with LDEO’s interdisciplinary research community and are individually mentored by at least one of LDEO’s 180 PhD-level scientists. The global data theme focuses the experience on data-driven, solutions-oriented approaches to scientific questions. A lecture series on forefront research and workshops in professional ethics, data display and manipulation, scientific writing, and career opportunities add depth to the experience. The program includes a formal outcome-based evaluation by an educational professional, together with a midterm review of students and mentors. Students will be housed in dormitories at the nearby Dominican College and/or participate virtually. The program is co-funded by the Division of Ocean Sciences and the  Division of Earth Sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/16/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050923</AwardID>
+<Investigator>
+<FirstName>Dallas</FirstName>
+<LastName>Abbott</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dallas H Abbott</PI_FULL_NAME>
+<EmailAddress><![CDATA[dallashabbott@gmail.com]]></EmailAddress>
+<NSF_ID>000087014</NSF_ID>
+<StartDate>04/16/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Kaplan</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael R Kaplan</PI_FULL_NAME>
+<EmailAddress><![CDATA[mkaplan@ldeo.columbia.edu]]></EmailAddress>
+<NSF_ID>000122212</NSF_ID>
+<StartDate>04/16/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University Lamont-Doherty Earth Obs.]]></Name>
+<CityName>Palisades</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>109648000</ZipCode>
+<StreetAddress><![CDATA[61 Route 9W]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157500</Code>
+<Text>EDUCATION AND HUMAN RESOURCES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>169000</Code>
+<Text>EDUCATION/HUMAN RESOURCES,OCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~188135</FUND_OBLG>
+<FUND_OBLG>2022~377460</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Project Outcomes 2021-2024. LDEO REU Site Jointly Funded by NSF Ocean and Earth Sciences</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The LDEO REU Site has a long history of inclusion and improvement over time, especially during the last three years of this award.&nbsp; The number of students from groups under-represented in the Earth and Ocean Sciences has steadily climbed, as has the number of first generation college students.&nbsp; We have also had a large increase in the number of students from small schools (mostly community colleges) with no research opportunities in the Earth and/or Ocean Sciences (Figure 1).&nbsp;</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The success of the program is also exemplified by the numbers of students who obtain bachelor&rsquo;s degrees in Earth and Ocean Sciences and ultimately PhDs in science (Figure 2).&nbsp; Both women and members of under-represented groups have obtained PhDs at rates equal to those of men.</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; During the last three years, forty four percent of our interns have come from groups under-represented in the Earth and Ocean Sciences.&nbsp; If one includes Asians, who are under-represented in Earth Science and parts of Ocean Science, fifty six percent of our interns have come from groups under-represented in Earth and Ocean Science. We have also had increasing success at attracting first generation college students. During the past three years, thirty seven per cent of our interns were first generation college students. This is a big increase from prior to 2016, when at most one or two REU funded interns per year were first generation college students. &nbsp;Finally, we are attracting interns from small schools where opportunities to conduct research are limited or non-existent, primarily students from community or tribal colleges.&nbsp; During the past three years, fifty one percent of our REU funded interns have come from small schools.&nbsp; The PIs have also gained experience and improved their knowledge, during the life of the award, on how to engage with students from small schools to increase the number of applications to the LDEO program. In addition, the PIs further developed workshops to increase skillsets and knowledge of the summer students in the program, including those under-represented in the Earth and Ocean Sciences and from small schools. By increasing the diversity of the backgrounds of our REU funded students, and strengthening interns&rsquo; skill sets overall, we strengthen science in the US and build for the future.&nbsp;</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our interns have been extremely successful at disseminating their research to the broader community. Out of 43 interns funded by our REU site, 30 (70%) were coauthors on an abstract presented at a national scientific meeting.&nbsp; We consider this a high success rate, as some of our interns decide that they are interested in other fields after their summer at LDEO. In addition, the PIs are aware of mentors who plan to use the interns&rsquo; efforts in publications in the near future.</p> <p>&nbsp;</p><br> <p>  Last Modified: 06/25/2024<br> Modified by: Dallas&nbsp;H&nbsp;Abbott</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2050923/2050923_10728292_1719338653489_plot_of_phds_in_program_2013--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2050923/2050923_10728292_1719338653489_plot_of_phds_in_program_2013--rgov-800width.jpg" title="PhD Degrees former LDEO interns"><img src="/por/images/Reports/POR/2024/2050923/2050923_10728292_1719338653489_plot_of_phds_in_program_2013--rgov-66x44.jpg" alt="PhD Degrees former LDEO interns"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2. Percent former LDEO interns who completed the PhD degree (with confidence bars). Data are from the 1982 to 2014 cohorts. (Left) All PhDs. (Middle) Female PhDs. (Right) Minority PhDs. To within the error, the percentage of females and minorities achieving the PhD is indistinguishable.</div> <div class="imageCredit">Micheal Kaplan</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Dallas&nbsp;H&nbsp;Abbott <div class="imageTitle">PhD Degrees former LDEO interns</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050923/2050923_10728292_1719338374582_Increase_In_Underrepresented_Groups--rgov-214x142.png" original="/por/images/Reports/POR/2024/2050923/2050923_10728292_1719338374582_Increase_In_Underrepresented_Groups--rgov-800width.png" title="Increase in Underpresented Groups"><img src="/por/images/Reports/POR/2024/2050923/2050923_10728292_1719338374582_Increase_In_Underrepresented_Groups--rgov-66x44.png" alt="Increase in Underpresented Groups"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 1. Blue solid line: Percent of those in underrepresented groups (URG) in the LDEO REU-Site. Red dashed line: LDEO REU students from small schools including community colleges without STEM research opportunities; we have kept track since 2018. Brown dotted line: 1st-generation LDEO REU student</div> <div class="imageCredit">Michael Kaplan</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Dallas&nbsp;H&nbsp;Abbott <div class="imageTitle">Increase in Underpresented Groups</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Outcomes 2021-2024. LDEO REU Site Jointly Funded by NSF Ocean and Earth Sciences    The LDEO REU Site has a long history of inclusion and improvement over time, especially during the last three years of this award. The number of students from groups under-represented in the Earth and Ocean Sciences has steadily climbed, as has the number of first generation college students. We have also had a large increase in the number of students from small schools (mostly community colleges) with no research opportunities in the Earth and/or Ocean Sciences (Figure 1).    The success of the program is also exemplified by the numbers of students who obtain bachelors degrees in Earth and Ocean Sciences and ultimately PhDs in science (Figure 2). Both women and members of under-represented groups have obtained PhDs at rates equal to those of men.    During the last three years, forty four percent of our interns have come from groups under-represented in the Earth and Ocean Sciences. If one includes Asians, who are under-represented in Earth Science and parts of Ocean Science, fifty six percent of our interns have come from groups under-represented in Earth and Ocean Science. We have also had increasing success at attracting first generation college students. During the past three years, thirty seven per cent of our interns were first generation college students. This is a big increase from prior to 2016, when at most one or two REU funded interns per year were first generation college students. Finally, we are attracting interns from small schools where opportunities to conduct research are limited or non-existent, primarily students from community or tribal colleges. During the past three years, fifty one percent of our REU funded interns have come from small schools. The PIs have also gained experience and improved their knowledge, during the life of the award, on how to engage with students from small schools to increase the number of applications to the LDEO program. In addition, the PIs further developed workshops to increase skillsets and knowledge of the summer students in the program, including those under-represented in the Earth and Ocean Sciences and from small schools. By increasing the diversity of the backgrounds of our REU funded students, and strengthening interns skill sets overall, we strengthen science in the US and build for the future.    Our interns have been extremely successful at disseminating their research to the broader community. Out of 43 interns funded by our REU site, 30 (70%) were coauthors on an abstract presented at a national scientific meeting. We consider this a high success rate, as some of our interns decide that they are interested in other fields after their summer at LDEO. In addition, the PIs are aware of mentors who plan to use the interns efforts in publications in the near future.        Last Modified: 06/25/2024       Submitted by: DallasHAbbott]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

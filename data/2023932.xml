@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Enhanced Atomization of Viscous Liquids Using Insights from Global Instabilities of Two-Phase Countercurrent Mixing Layers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>510952.00</AwardTotalIntnAmount>
+<AwardAmount>531640</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shahab Shojaei-Zadeh</SignBlockName>
+<PO_EMAI>sshojaei@nsf.gov</PO_EMAI>
+<PO_PHON>7032928045</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Atomization refers to the process of breaking up a liquid stream into a collection of droplets, which are then usually sprayed into a fluid flow or onto a surface to form a coating. Atomization occurs in a variety of industrial and natural systems.  Consumers are familiar with many products that have been produced using a spraying technique, such as powdered milk, infant formula, and painted surfaces, or are deployed using a spraying operation, such as hair spray, automotive fuel injectors, and nasal inhalers.  The sprays are designed to atomize the fluids into fine droplets that improve products by enhancing efficiency, reducing costs, and minimizing wastes.  In many cases of practical interest, the fluids that are sprayed are highly viscous, which poses problems to achieving fine sprays and increases the energy used to produce a spray.  Often, sprays of highly viscous fluids produce extremely large droplets that diminish the effectiveness of the atomization process.  This project will use a combination of experiments, theory and numerical simulation to study the atomization process.  The research team will use a model flow system and examine the instability in the flow that is the start of atomization.  Undergraduate students will be recruited to the research team through the University of Minnesota's Research Experience for Undergraduates program. The researchers will create a traveling exhibit that will be used at science fairs for middle-schoolers to acquaint youngsters with principles of fluid dynamics applied to atomization.&lt;br/&gt;&lt;br/&gt;This project will investigate the performance of a newly designed atomizer nozzle that dramatically reduces energy consumption, while enabling the atomization of highly viscous fluids into sprays of fine droplets. The project will use a combination of theory, experiments and computational fluid dynamics to identify the mechanisms responsible for the enhanced performance, which will enable design enhancements to further improve energy efficiency. The hypothesis is that a two-phase counterflow mixing layer  established inside the nozzle is responsible for high levels of turbulent mixing, creating a two-phase mixture that emerges from the nozzle directly as a spray. The experiments involve characterization of the spray as a function of liquid viscosity, counterflowing air-liquid mass flow and momentum ratios, and nozzle internal geometry. In parallel, the research team will use experiments on planar countercurrent mixing layers that allow optical access to examine in detail the dynamics of a liquid-air interface with counterflow velocity profiles. Experiments will also be performed at the X-Ray facility at Argonne National Labs to elucidate the density profile inside the nozzle. These experiments will be accompanied by a detailed linear stability analysis to  identify the presence of absolutely unstable profiles in the mixing layer, which may appear in experiments as self-sustained oscillations. High-resolution Direct Numerical Simulations (DNS)  will clarify the physics of mixing inside the nozzle and provide design guidance to engineering practitioners in atomization processes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2023932</AwardID>
+<Investigator>
+<FirstName>Alison</FirstName>
+<LastName>Hoxie</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alison Hoxie</PI_FULL_NAME>
+<EmailAddress><![CDATA[ahoxie@d.umn.edu]]></EmailAddress>
+<NSF_ID>000617513</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vinod</FirstName>
+<LastName>Srinivasan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vinod Srinivasan</PI_FULL_NAME>
+<EmailAddress><![CDATA[vinods@umn.edu]]></EmailAddress>
+<NSF_ID>000734912</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Suo</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Suo Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[suo-yang@umn.edu]]></EmailAddress>
+<NSF_ID>000787665</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>Minneapolis</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554550150</ZipCode>
+<StreetAddress><![CDATA[Mech Eng, 111 Church St SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>138500</Code>
+<Text>SSA-Special Studies &amp; Analysis</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>141500</Code>
+<Text>PMP-Particul&amp;MultiphaseProcess</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>137Z</Code>
+<Text>STEM Access for Persons w Disabilities</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~510952</FUND_OBLG>
+<FUND_OBLG>2024~20688</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-4af9757b-7fff-ffba-d025-eed62ff79512"> </span></p>  <p dir="ltr"><span>This project addressed the performance of a new design for a spray nozzle, which can atomize viscous liquid into a cloud of small droplets by using two opposing streams of liquid and gas. The hypothesis being tested was that linear stability theory could explain the sharp onset of turbulent mixing inside the nozzle as well as the observed performance. The project involved a mix of theory, experiments, and numerical simulations to understand and explain the high efficiency of atomization attained by this nozzle. Experiments were performed in order to assess the effects of liquid viscosity and the mean droplet diameter for different liquid and air flow rates, and at various downstream locations from the nozzle, all of which indicated a weak dependence on the liquid properties. X-Ray based measurements were performed in order to visualize the flow inside the metal mixing chamber of the nozzle. These suggested that the internal flow was quite complex, exhibited discrete self-sustained oscillations and highly non-parallel profiles, thereby violating a key assumption required for application of the theory. However, numerical simulations based on the volume of fluid (VOF) method accurately captured the flow structure and the observed frequencies, and hence is a reliable tool to predict the performance of this novel spray nozzle.&nbsp;</span></p>  <p><br /><br /></p>  <p dir="ltr"><span>Efforts at making broader impacts through the project primarily consisted of integration of research into undergraduate education, as well as discussions with industry on how this technology could become industrially relevant. Undergraduate students, including those from communities under-represented in STEM were responsible for generating a significant portion of the data. Images from the atomization experiments were incorporated into an undergraduate laboratory course, through which students gained exposure to techniques of automated image analysis and feature extraction. The Principal Investigator held discussions with engineers at dairy product companies to understand the range of liquid viscosity currently used to manufacture products such as powdered infant formula or powdered milk, which utilize spray drying.&nbsp;</span></p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/28/2024<br> Modified by: Vinod&nbsp;Srinivasan</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[       This project addressed the performance of a new design for a spray nozzle, which can atomize viscous liquid into a cloud of small droplets by using two opposing streams of liquid and gas. The hypothesis being tested was that linear stability theory could explain the sharp onset of turbulent mixing inside the nozzle as well as the observed performance. The project involved a mix of theory, experiments, and numerical simulations to understand and explain the high efficiency of atomization attained by this nozzle. Experiments were performed in order to assess the effects of liquid viscosity and the mean droplet diameter for different liquid and air flow rates, and at various downstream locations from the nozzle, all of which indicated a weak dependence on the liquid properties. X-Ray based measurements were performed in order to visualize the flow inside the metal mixing chamber of the nozzle. These suggested that the internal flow was quite complex, exhibited discrete self-sustained oscillations and highly non-parallel profiles, thereby violating a key assumption required for application of the theory. However, numerical simulations based on the volume of fluid (VOF) method accurately captured the flow structure and the observed frequencies, and hence is a reliable tool to predict the performance of this novel spray nozzle.          Efforts at making broader impacts through the project primarily consisted of integration of research into undergraduate education, as well as discussions with industry on how this technology could become industrially relevant. Undergraduate students, including those from communities under-represented in STEM were responsible for generating a significant portion of the data. Images from the atomization experiments were incorporated into an undergraduate laboratory course, through which students gained exposure to techniques of automated image analysis and feature extraction. The Principal Investigator held discussions with engineers at dairy product companies to understand the range of liquid viscosity currently used to manufacture products such as powdered infant formula or powdered milk, which utilize spray drying.         Last Modified: 12/28/2024       Submitted by: VinodSrinivasan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RI: Small:  Low-Latency and High-Quality Simultaneous Translation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>449980.00</AwardTotalIntnAmount>
+<AwardAmount>465980</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eleni Miltsakaki</SignBlockName>
+<PO_EMAI>emiltsak@nsf.gov</PO_EMAI>
+<PO_PHON>7032922972</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Simultaneous language translation (interpretation) is widely used in many situations including multilateral organizations such as the United Nations, international summits and conferences, and legal proceedings. However, the concurrent perception and production in two languages makes this task extremely challenging and exhausting for humans. The number of professional simultaneous interpreters is extremely limited worldwide, and they have to work in groups of two or three where each interpreter can only sustain for about 15-30 minutes. Therefore, there is a critical need to develop simultaneous translation techniques to reduce the burden of human interpreters and make this service more accessible and affordable. However, simultaneous translation is also notoriously difficult for machines and accomplishing it consistently and reliably is considered one of the holy grails of Artificial Intelligence. Various methods have been proposed to solve this problem, but with three major limitations: (a) their translation model is still a full-sentence translation model; (b) they cannot achieve short latencies such as "3-seconds delay" common in human interpretation; and (c) their systems are complicated and difficult to train.  Therefore, this project aims to develop new algorithms, techniques, and datasets for high-quality simultaneous machine translation with minimum delay (low latency). The technologies developed by this project will make simultaneous translation more affordable and accessible, which will improve the efficiency of human communication across linguistic barriers. This project also supports STEM education of underrepresented minorities (who do not speak English natively) by recruiting them in machine translation studies.&lt;br/&gt;&lt;br/&gt;Based on the principal investigator's successful prior work, the key idea in this project is to discard the conventional full-sentence translation paradigm and the classical sequence-to-sequence framework which processes the full input sentence before starting to translate and are thus ill-suited to simultaneous translation. Instead, this project adopts a "prefix-to-prefix" framework which starts translation after processing only a few input words, mimicking human interpreters. Though extremely simple, this framework achieves low latency and high translation quality. Using this framework, this project aims to (1) Develop an algorithm to detect and fix anticipation mistakes on the fly, and explore new evaluation metrics that can work for translations with revisions; (2) Develop dynamic and flexible translation strategies to balance quality and latency; (3) Construct better training data for simultaneous translation by revising the reference translations in a parallel text to remove unnecessary reorderings; (4) Apply the prefix-to-prefix framework to incremental text-to-speech synthesis (TTS), thus completing the end-to-end simultaneous speech-to-speech pipeline, improve its quality and latency, and compare with human simultaneous interpreters.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/27/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009071</AwardID>
+<Investigator>
+<FirstName>Liang</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Liang Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[huanlian@oregonstate.edu]]></EmailAddress>
+<NSF_ID>000629761</NSF_ID>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Oregon State University]]></Name>
+<CityName>CORVALLIS</CityName>
+<ZipCode>973318655</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress><![CDATA[1500 SW JEFFERSON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MZ4DYXE1SL98</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OREGON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oregon State University]]></Name>
+<CityName/>
+<StateCode>OR</StateCode>
+<ZipCode>973318507</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>749500</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~449980</FUND_OBLG>
+<FUND_OBLG>2023~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This grant aims to improve simultaneous translation in terms of both training and decoding algorithms, and to move beyond classical text-to-text simultaneous translation to more realistic scenarios such as speech-to-text and text-to-sign language.</p>  <p><br />First of all, this grant did result in better simultaneous translation algorithms, and we will highlight two examples below. The first one, known as "direct simultaneous speech-to-text translation", deals with the highly useful and practical scenario of speech-to-text simultaneous translation, which can be used to transcribe a live speech, presentation, or lecture in real-time. The classical method is to first perform streaming speech recognition (into text) and then do simultaneous text-to-text translation. However, this approach suffers from error propagation and extra latency. We devise a novel paradigram to use two separte but synchronized decoders on streaming speech recognition and direct speech-to-text translation, with the first one guiding (but not feeding as input to) the second. This paradigm results in improved translation quality and reduced latency. The second example aims at improving the quality and quantity of the training data for simultaneous translation. Due to the lack of large-scale, high-quality simultaneous translation datasets, most simultaneous translation systems are still trained on full-sentence translation data, which is far from ideal due to the abundance of unnecessary long-distance reorderings. We alleviate this problem by rewriting the target side of existing full-sentence corpora into simultaneous-style translation.</p>  <p><br />Secondly, this grant also explored new directions beyond text and speech modalities. Specifically, we just started working on simultaneous translation between spoken (or written) languages and sign languages. This direction would greatly benefit the deaf and hard-of-hearing populations in the world. In the US alone, there are about 0.5-2 million deaf people and about 11 million deaf or hard-of-hearing people, and about 1-1.5 million people use American Sign Language (ASL). An automatic translation technology between ASL and English would greatly improve the quality of life for millions of Americans.</p>  <p>&nbsp;</p>  <p>Finally, this grant resulted in 10 top conference and journal publications, including one in the prestigious journal Proceedings of the National Academy of Sciences (PNAS). It supported the training of five PhD students (one of them female), one MS student, and five undergraduate students. Among them, two PhD students graduated and took research scientist jobs in industry, and one undergraduate student started PhD, with two more applying for PhD.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/22/2024<br> Modified by: Liang&nbsp;Huang</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This grant aims to improve simultaneous translation in terms of both training and decoding algorithms, and to move beyond classical text-to-text simultaneous translation to more realistic scenarios such as speech-to-text and text-to-sign language.     First of all, this grant did result in better simultaneous translation algorithms, and we will highlight two examples below. The first one, known as "direct simultaneous speech-to-text translation", deals with the highly useful and practical scenario of speech-to-text simultaneous translation, which can be used to transcribe a live speech, presentation, or lecture in real-time. The classical method is to first perform streaming speech recognition (into text) and then do simultaneous text-to-text translation. However, this approach suffers from error propagation and extra latency. We devise a novel paradigram to use two separte but synchronized decoders on streaming speech recognition and direct speech-to-text translation, with the first one guiding (but not feeding as input to) the second. This paradigm results in improved translation quality and reduced latency. The second example aims at improving the quality and quantity of the training data for simultaneous translation. Due to the lack of large-scale, high-quality simultaneous translation datasets, most simultaneous translation systems are still trained on full-sentence translation data, which is far from ideal due to the abundance of unnecessary long-distance reorderings. We alleviate this problem by rewriting the target side of existing full-sentence corpora into simultaneous-style translation.     Secondly, this grant also explored new directions beyond text and speech modalities. Specifically, we just started working on simultaneous translation between spoken (or written) languages and sign languages. This direction would greatly benefit the deaf and hard-of-hearing populations in the world. In the US alone, there are about 0.5-2 million deaf people and about 11 million deaf or hard-of-hearing people, and about 1-1.5 million people use American Sign Language (ASL). An automatic translation technology between ASL and English would greatly improve the quality of life for millions of Americans.        Finally, this grant resulted in 10 top conference and journal publications, including one in the prestigious journal Proceedings of the National Academy of Sciences (PNAS). It supported the training of five PhD students (one of them female), one MS student, and five undergraduate students. Among them, two PhD students graduated and took research scientist jobs in industry, and one undergraduate student started PhD, with two more applying for PhD.         Last Modified: 12/22/2024       Submitted by: LiangHuang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

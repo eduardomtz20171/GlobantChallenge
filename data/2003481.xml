@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CAS: Understanding Polymer Additive Release and Transformations in Aquatic Environments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>276612.00</AwardTotalIntnAmount>
+<AwardAmount>276612</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne-Marie Schmoltner</SignBlockName>
+<PO_EMAI>aschmolt@nsf.gov</PO_EMAI>
+<PO_PHON>7032924716</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award from the Environmental Chemical Sciences Program of the Division of Chemistry funds a collaborative project by Professor James Ranville at the Colorado School of Mines and Professor Howard Fairbrother at the University of Maryland.  The team studies what happens to additives in plastics as the plastics slowly decay in the environment.  Complex chemical compounds are added the during manufacturing of plastics to improve their properties, such as durability, color and texture. The chemical composition of these additives is very varied and can include small organic molecules as well as metal-containing organic compounds. The accumulation of plastic waste in aquatic environments is a highly visible problem of increasing global concern.  When plastics are in contact with water or exposed to sunlight, the chemical additives are slowly released into the water. There they can undergo chemical transformation to form new compounds. Unfortunately, a number of additives and their transformation products have been found to pose a risk to the environment and to human health. Information from this study can help improve our understanding of the science to guide the design of new additives with reduced environmental impacts. The students involved in this research acquire skills in materials chemistry and environmental science. Students at the K-12 and university level participate in educational activities, such as hands-on experiences with end-of-life issues with plastics. &lt;br/&gt;&lt;br/&gt;The project aims to develop a molecular level understanding of how the chemical composition and physical characteristics of additives in polymers influence the release and subsequent photochemical transformations of additives in aqueous environments. These goals are accomplished by measuring additive release kinetics and sorption properties from a selected set of well characterized additive/polymer composites. This is complemented by measurements of phototransformation kinetics and transformation products using a suite of highly sensitive mass spectrometry techniques.  Model organic and organometallic compounds are used to test hypotheses and develop structure activity relationships related to additive release and photochemical transformations. These models address the role of molecular level properties of additives, polymer-additive interactions, and changes in polymer surface properties in determining the behavior of additives in aqueous environments. The results can be extrapolated to a wide range of additive/polymer combinations relevant to plastic pollution in the aquatic environment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003481</AwardID>
+<Investigator>
+<FirstName>Howard</FirstName>
+<LastName>Fairbrother</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Howard Fairbrother</PI_FULL_NAME>
+<EmailAddress><![CDATA[howardf@jhu.edu]]></EmailAddress>
+<NSF_ID>000311078</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carsten</FirstName>
+<LastName>Prasse</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carsten Prasse</PI_FULL_NAME>
+<EmailAddress><![CDATA[cprasse1@jhu.edu]]></EmailAddress>
+<NSF_ID>000812878</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE JOHNS HOPKINS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GS4PNKTRNKL3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>Baltimore</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182686</ZipCode>
+<StreetAddress><![CDATA[1101 East 33rd Street, SuiteB001]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688200</Code>
+<Text>Environmental Chemical Science</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090Z</Code>
+<Text>CAS-Critical Aspects of Sustainability</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~276612</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Extensive manufacturing of plastic products, totaling ~360 million tons in 2018, has led to significant accumulation of plastic waste in the environment. Discarded plastics end up in waterways and pose significant harm to aquatic life through ingestion, facilitated transport of contaminants absorbed to plastics, and the formation of microplastics. Negative human and environmental health impacts can also result from the leaching of chemicals that are added into plastics during manufacturing to improve their functionality or performance.</p>  <p>Despite the ubiquitous presence of plastics in the environment, the factors governing the formation of microplastics and release of chemical additives remain poorly understood. For plastics discarded in aquatic environments, exposure to sunlight can result in degradation of the plastic and enhanced leaching of its additives. Furthermore, sunlight can also degrade the released additives into new compounds, leading to the formation of transformation products that can also be harmful to aquatic life and human health. However, there is still considerable uncertainty about the extent to which exposure to sunlight impacts the fate of plastics and additives. One reason is the lack of analytical approaches to determine and quantify the formation of microplastics. Similarly, analytical approaches to assess the leaching of specific, known additives generally do not allow for the identification of potential light-induced (i.e. photo-) transformation products.&nbsp;</p>  <p>To this end, we immersed polystyrene plastics containing benzophenone additives in water and placed them on a rooftop to expose them to sunlight. Benzophenones are UV filters added to plastics during manufacturing to protect against photodegradation. We demonstrated that sunlight exposure enhanced the leaching of benzophenones and that the leaching profile was dependent on the photostability of the additive. For photostable additives, or additives that do not degrade in sunlight, continuous leaching was observed. For photolabile additives, which do degrade in the presence of sunlight, an initial increase in concentration was followed by a decrease in the surrounding solution. Using liquid chromatography coupled with high resolution-mass spectrometry, we demonstrated that this concentration decrease was due to photodegradation of the additives, resulting in the formation of a variety of phototransformation products. However, long-term exposure to sunlight, which was simulated using accelerated photodegradation experiments in the laboratory, resulted in the complete degradation of benzophenones and their transformation products.</p>  <p>During these studies, we discovered that also microplastics (MPs) were being produced. However, an understanding of the production and properties of MPs is currently severely hindered by challenges in their detection and quantification, including distinguishing MPs from other background particles. To overcome this issue, we developed a new labeling approach which involves the top-down synthesis of widely used polymers (e.g. PVC, PE) containing uniformly dispersed, embedded metal atoms as traceable tags. These bulk polymers can also be cryogenically milled to create irregularly-shaped, polydisperse MPs representative of those generated when polymers break down in the environment. The presence of the unique metal tags allows researchers to use mass spectrometry techniques to investigate the production of MPs produced from bulk polymers when they break down in the environment. This technique also allows for the determination of the size of MPs produced, allowing us to interrogate the importance of MP size in determining their properties, such as their movement and distribution within different ecosystems. As an example, we used these metal-tagged MPs to demonstrate the greater mobility of smaller sized MPs in soils under environmentally relevant conditions.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/12/2024<br> Modified by: Howard&nbsp;Fairbrother</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Extensive manufacturing of plastic products, totaling ~360 million tons in 2018, has led to significant accumulation of plastic waste in the environment. Discarded plastics end up in waterways and pose significant harm to aquatic life through ingestion, facilitated transport of contaminants absorbed to plastics, and the formation of microplastics. Negative human and environmental health impacts can also result from the leaching of chemicals that are added into plastics during manufacturing to improve their functionality or performance.    Despite the ubiquitous presence of plastics in the environment, the factors governing the formation of microplastics and release of chemical additives remain poorly understood. For plastics discarded in aquatic environments, exposure to sunlight can result in degradation of the plastic and enhanced leaching of its additives. Furthermore, sunlight can also degrade the released additives into new compounds, leading to the formation of transformation products that can also be harmful to aquatic life and human health. However, there is still considerable uncertainty about the extent to which exposure to sunlight impacts the fate of plastics and additives. One reason is the lack of analytical approaches to determine and quantify the formation of microplastics. Similarly, analytical approaches to assess the leaching of specific, known additives generally do not allow for the identification of potential light-induced (i.e. photo-) transformation products.    To this end, we immersed polystyrene plastics containing benzophenone additives in water and placed them on a rooftop to expose them to sunlight. Benzophenones are UV filters added to plastics during manufacturing to protect against photodegradation. We demonstrated that sunlight exposure enhanced the leaching of benzophenones and that the leaching profile was dependent on the photostability of the additive. For photostable additives, or additives that do not degrade in sunlight, continuous leaching was observed. For photolabile additives, which do degrade in the presence of sunlight, an initial increase in concentration was followed by a decrease in the surrounding solution. Using liquid chromatography coupled with high resolution-mass spectrometry, we demonstrated that this concentration decrease was due to photodegradation of the additives, resulting in the formation of a variety of phototransformation products. However, long-term exposure to sunlight, which was simulated using accelerated photodegradation experiments in the laboratory, resulted in the complete degradation of benzophenones and their transformation products.    During these studies, we discovered that also microplastics (MPs) were being produced. However, an understanding of the production and properties of MPs is currently severely hindered by challenges in their detection and quantification, including distinguishing MPs from other background particles. To overcome this issue, we developed a new labeling approach which involves the top-down synthesis of widely used polymers (e.g. PVC, PE) containing uniformly dispersed, embedded metal atoms as traceable tags. These bulk polymers can also be cryogenically milled to create irregularly-shaped, polydisperse MPs representative of those generated when polymers break down in the environment. The presence of the unique metal tags allows researchers to use mass spectrometry techniques to investigate the production of MPs produced from bulk polymers when they break down in the environment. This technique also allows for the determination of the size of MPs produced, allowing us to interrogate the importance of MP size in determining their properties, such as their movement and distribution within different ecosystems. As an example, we used these metal-tagged MPs to demonstrate the greater mobility of smaller sized MPs in soils under environmentally relevant conditions.         Last Modified: 12/12/2024       Submitted by: HowardFairbrother]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

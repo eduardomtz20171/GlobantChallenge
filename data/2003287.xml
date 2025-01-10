@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Information Transfer in Heisenberg Spin Chains]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>381764.00</AwardTotalIntnAmount>
+<AwardAmount>381764</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+<PO_EMAI>tdurakie@nsf.gov</PO_EMAI>
+<PO_PHON>7032924892</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non-technical Abstract:&lt;br/&gt;Quantum information processing has the potential to revolutionize modern technology by offering the capability to perform some computations exponentially faster than any classical computer. This project studies new ways to transfer information between qubits based on individual electrons using Heisenberg exchange coupling, which is the mechanism behind ferromagnetism.  By addressing the challenge of transferring information between qubits, which is one of the main obstacles in experimental quantum information processing, this research takes major steps toward making quantum computing a reality.  This project also involves education and outreach efforts. The principal investigator is developing interactive, week-long courses in experimental physics for local middle- and high-school students during the summer and also several workshops during the school year designed to ignite a passion for experimental research in the next generation of scientists. The principal investigator is also mentoring undergraduate and graduate students in state-of-the-art quantum nanotechnology.&lt;br/&gt;&lt;br/&gt;Technical Astract:&lt;br/&gt;The research objective of this project is to investigate information transfer in Heisenberg spin chains based on electrons in semiconductor quantum dots. Solid-state Heisenberg spin chains have been proposed as quantum interconnects through which quantum information can be transmitted from one place to another without loss. However, experimental technology has not caught up to these proposals until now. This project takes the first steps toward investigating this unexplored region of physics. The specific objectives are to implement Heisenberg spin chains in semiconductor quantum dots, explore resonant state transfer in systems of three interacting spins, and to explore information transfer via a Heisenberg spin bus in a four-spin chain. This research explores what will become a new method of information transfer in solid-state spin chains. As a result, this research has the potential to uncover new and efficient modes of classical and quantum information transfer in solid-state systems.&lt;br/&gt;&lt;br/&gt;This Division of Materials Research (DMR) grant supports research to understand information transfer in Heisenberg spin chains based on electrons in semiconductor quantum dots with funding from the Condensed Matter Physics (CMP) program in DMR of the Mathematical and Physical Sciences Directorate.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003287</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Nichol</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John M Nichol</PI_FULL_NAME>
+<EmailAddress><![CDATA[jnich10@ur.rochester.edu]]></EmailAddress>
+<NSF_ID>000734606</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146113847</ZipCode>
+<PhoneNumber>5852754031</PhoneNumber>
+<StreetAddress><![CDATA[910 GENESEE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F27KDXZMF9Y8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ROCHESTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>Rochester</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146270140</ZipCode>
+<StreetAddress><![CDATA[518 Hylan, RC Box 270140]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>171000</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~122964</FUND_OBLG>
+<FUND_OBLG>2021~127200</FUND_OBLG>
+<FUND_OBLG>2022~131600</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Intellectual merit</strong>: This project explored how chains of interacting electron spins can be used to transfer quantum information from one location to another.&nbsp; Heisenberg exchange coupling between electrons in solid materials gives rise to well-known macroscopic phenomena, like magnetism. At the microscopic, few-electron level, exchange coupling is a direct manifestation of the Pauli exclusion principle, which forbids any two electrons from having the same quantum state. For many years, one-dimensional chains of spins interacting via Heisenberg exchange coupling have been proposed as interconnects through which quantum information can be transmitted from one place to another without loss. This project demonstrated that these ideas could be realized in the real world, adding new tools to the quantum-device toolbox.</p> <p>In the first major thrust of this project, we explored and demonstrated how to implement adiabatic quantum state transfer, or adiabatic teleportation. Adiabatic quantum state transfer involves slowly manipulating the interactions between electrons spins. Depending on the starting and ending configuration, the quantum state of one electron can be transferred coherently to another, distant electron. Advantageously, this transfer of quantum information does not depend on the specific details of this process, so it can be robust against experimental imperfections. We showed that this process works in semiconductor quantum dots and can transfer both single- and two-qubit states. &nbsp;&nbsp;In the second major thrust, we explored and verified that &ldquo;superexchange&rdquo; between electrons can occur. This can happen when two spins are coupled to the ends of a strongly interacting spin chain. In this case, the two end spins can experience an effective interaction with each other through a process mediated by the interacting spins.&nbsp; We showed that this superexchange interaction can indeed occur, and the strength of the coupling matches theoretical predictions.&nbsp; In the final phase of the project, we transitioned our efforts from the semiconductor gallium-arsenide to the semiconductor silicon, to enable high-fidelity quantum operations. We embarked on an effort to thoroughly characterize both exchange couplings and electrical fluctuations in silicon quantum dot devices.&nbsp; Altogether, these results point the way toward the establishment of new tools and techniques for quantum information processing.</p> <p><strong>Broader Impacts: </strong>Quantum information processors will revolutionize modern computing through the ability to perform some calculations exponentially faster than the ordinary computers of today. This project took major steps toward realizing this potential in the context of spin-based quantum information processors. Quantum bits, or qubits, based on electron spins in semiconductor quantum dots have extremely long coherence times and good prospects for scalability based on advanced semiconductor manufacturing. However, one major bottleneck to large-scale quantum computing with spin qubits is the lack of a long-distance coupling mechanism. This project took major steps toward overcoming this obstacle. <strong>&nbsp;</strong></p> <p>The development of the quantum workforce in the US is critical to realize the transformative potential of quantum information processing. In this project, we took major steps toward strengthening and unifying the quantum science curriculum at the university of Rochester. We have finalized the plans for a quantum certificate for PhD students at Rochester, which will enable them to gain skills relevant to their research and career path.&nbsp; This project also supported the training of numerous graduate and undergraduate students in experimental physics, quantum science, and nanoscience.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/11/2024<br> Modified by: John&nbsp;M&nbsp;Nichol</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual merit: This project explored how chains of interacting electron spins can be used to transfer quantum information from one location to another. Heisenberg exchange coupling between electrons in solid materials gives rise to well-known macroscopic phenomena, like magnetism. At the microscopic, few-electron level, exchange coupling is a direct manifestation of the Pauli exclusion principle, which forbids any two electrons from having the same quantum state. For many years, one-dimensional chains of spins interacting via Heisenberg exchange coupling have been proposed as interconnects through which quantum information can be transmitted from one place to another without loss. This project demonstrated that these ideas could be realized in the real world, adding new tools to the quantum-device toolbox.   In the first major thrust of this project, we explored and demonstrated how to implement adiabatic quantum state transfer, or adiabatic teleportation. Adiabatic quantum state transfer involves slowly manipulating the interactions between electrons spins. Depending on the starting and ending configuration, the quantum state of one electron can be transferred coherently to another, distant electron. Advantageously, this transfer of quantum information does not depend on the specific details of this process, so it can be robust against experimental imperfections. We showed that this process works in semiconductor quantum dots and can transfer both single- and two-qubit states. In the second major thrust, we explored and verified that superexchange between electrons can occur. This can happen when two spins are coupled to the ends of a strongly interacting spin chain. In this case, the two end spins can experience an effective interaction with each other through a process mediated by the interacting spins. We showed that this superexchange interaction can indeed occur, and the strength of the coupling matches theoretical predictions. In the final phase of the project, we transitioned our efforts from the semiconductor gallium-arsenide to the semiconductor silicon, to enable high-fidelity quantum operations. We embarked on an effort to thoroughly characterize both exchange couplings and electrical fluctuations in silicon quantum dot devices. Altogether, these results point the way toward the establishment of new tools and techniques for quantum information processing.   Broader Impacts: Quantum information processors will revolutionize modern computing through the ability to perform some calculations exponentially faster than the ordinary computers of today. This project took major steps toward realizing this potential in the context of spin-based quantum information processors. Quantum bits, or qubits, based on electron spins in semiconductor quantum dots have extremely long coherence times and good prospects for scalability based on advanced semiconductor manufacturing. However, one major bottleneck to large-scale quantum computing with spin qubits is the lack of a long-distance coupling mechanism. This project took major steps toward overcoming this obstacle.    The development of the quantum workforce in the US is critical to realize the transformative potential of quantum information processing. In this project, we took major steps toward strengthening and unifying the quantum science curriculum at the university of Rochester. We have finalized the plans for a quantum certificate for PhD students at Rochester, which will enable them to gain skills relevant to their research and career path. This project also supported the training of numerous graduate and undergraduate students in experimental physics, quantum science, and nanoscience.        Last Modified: 10/11/2024       Submitted by: JohnMNichol]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

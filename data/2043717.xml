@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Audiomotor Speech Rhythms and Their Perceptual Consequences]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>495472.00</AwardTotalIntnAmount>
+<AwardAmount>495472</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Betty Tuller</SignBlockName>
+<PO_EMAI>btuller@nsf.gov</PO_EMAI>
+<PO_PHON>7032927238</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>A long-standing puzzle in psychology and the brain sciences is how the systems that underpin perception and cognition (e.g., vision, hearing, intention) are coordinated with those that generate action (e.g., reaching, speaking, walking). Although a great deal has been learned about how these individual systems work, how these critical functions interact remains poorly understood. This interaction is especially important in speech communication, which is of remarkable significance in humans. In order to use speech successfully, both to communicate with others and to monitor oneself speaking, the auditory speech perception circuit and the motor speech production system must precisely align in time. This temporal coordination is important for planning to speak, monitoring one’s errors, learning language sounds, and learning new words from a conversation. In this research program, the investigators study this alignment through auditory-motor synchronization. They use behavioral, neuroscience, and computational approaches to characterize auditory-motor synchronization and test the consequences of this synchronization for real-life behaviors such as word learning.     &lt;br/&gt;&lt;br/&gt;An important feature of recent work that motivates this research is the discovery of a simple behavioral paradigm, the “spontaneous speech synchronization test” (SSS test). The test measures how precisely listeners synchronize their own spoken output to speech that they hear. The procedure is remarkably sensitive to individual differences, revealing that not all listeners synchronize equally well. Notably, the synchronization scores from the SSS test not only correlate highly with brain anatomy and physiology but are also predictive of listeners’ performance in important real-life challenges, such as word-learning. The new research builds on the novelty, sensitivity, and broad utility of the SSS test. The research plan is organized into four aims. First, the investigators will optimize the test for broad use by other scientists. Second, they will perform new experiments that test how auditory-motor synchronization, i.e., the rhythmic alignment between speech perception and speech production systems, guides speech perception. Third, they will develop a computational model constructed to provide a mechanistic description as well as to generate further testable predictions of auditory-motor synchronization. Fourth, the team will explore the consequences of synchronization for the essential capacity of word learning. An overarching practical, final goal is to release the SSS test in an open access format. Because the test outcome correlates with word learning, specific patterns of neural connectivity, and other cognitive features, it can be a useful, quick, easy-to-implement assay for researchers, educators, and clinicians.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/23/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2043717</AwardID>
+<Investigator>
+<FirstName>Pablo</FirstName>
+<LastName>Ripolles</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pablo Ripolles</PI_FULL_NAME>
+<EmailAddress><![CDATA[pr82@nyu.edu]]></EmailAddress>
+<NSF_ID>000749382</NSF_ID>
+<StartDate>02/23/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Poeppel</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Poeppel</PI_FULL_NAME>
+<EmailAddress><![CDATA[david.poeppel@nyu.edu]]></EmailAddress>
+<NSF_ID>000090206</NSF_ID>
+<StartDate>02/23/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100036603</ZipCode>
+<StreetAddress><![CDATA[6 Washington Place]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>131100</Code>
+<Text>Linguistics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>725200</Code>
+<Text>Perception, Action &amp; Cognition</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7252</Code>
+<Text>Perception, Action and Cognition</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~495472</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>A long-standing puzzle in psychology and the brain sciences is how the systems that support perception and cognition (e.g., vision, hearing, intention) are coordinated with those that generate action (e.g., reaching, speaking, walking). This interaction is especially important in speech communication, which is of remarkable significance in humans. To use speech successfully, both to communicate with others and to monitor oneself speaking, the auditory speech perception circuit (the 'hearing') and the motor speech production system (the 'speaking') must precisely align in time. This temporal coordination is important for planning to speak, monitoring one's errors, learning language sounds, and learning new words from a conversation among others.</p> <p>In this research program we have studied the alignment between speech perception and production systems by measuring auditory-motor synchronization in speech. To do so, we have used a simple behavioral test called the Spontaneous Speech Synchronization test (the SSS-Test). The test measures how precisely listeners synchronize their own spoken output to speech that they hear. This test is remarkably sensitive to individual differences, revealing that not all listeners synchronize equally well (i.e., there are high and low synchronizers). Importantly, the synchronization scores from the SSS-Test correlate with brain anatomy, brain activity and performance in important real-life challenges, such as word-learning.</p> <p>First, we have released the SSS-Test in an open-source format and in two popular coding programs (MATLAB/Octave and Python). In addition, we have outlined the specific steps required to classify a given speaker as a low or a high synchronizer by means of the SSS-test. Because the test outcome correlates with word learning, specific patterns of neural connectivity, and other cognitive features, it can be a useful, quick, easy-to-implement assay for researchers, educators, and clinicians.</p> <p>Second, we have investigated the consequences of audio-motor synchronization to the essential capacity of phonological statistical learning - our ability to extract meaningful regularities from spoken language. Phonological word-learning is considered critical in the early stages of language acquisition, in particular for helping to identify discrete words in continuous speech. We have shown that while a network of auditory and superior pre/motor regions is universally activated in the process of phonological word-learning, a frontoparietal network is additionally and selectively engaged by high auditory-motor synchronizers (identified with the SSS-Test). This additional network aids people with high synchrony between speech input and output to better extract new words from continuous speech. We have also tested phonological word-learning using a paradigm that mimics the kinds of rhythmic variability that characterizes natural speech. We showed that words are extracted by all learners even when the speech input is completely arhythmic. Interestingly, people with high auditory-motor synchronization abilities show better phonological learning when the speech input is temporally more predictable and more similar to words in their mother tongue. This suggests an additional mechanism for phonological word-learning based on predictions not only about&nbsp;<em>when</em>&nbsp;speech is coming but also about&nbsp;<em>what&nbsp;</em>the upcoming speech will be.</p> <p>Finally, we used the open-source version of the SSS-Test to assess a group of people who stutter. Results indicate that stutterers and non-stutterers exhibit similar auditory-motor integration as measured by the SSS-test.&nbsp; Interestingly, auditory-motor synchrony was inversely related to the speaker's perception of stuttering severity as perceived by others. These findings support claims that stuttering is a heterogeneous, multi-faceted disorder and showcase the potential of the SSS-Test for use in clinical populations.</p> <p>Regarding broader impacts, this project has contributed to the advancement of several disciplines, including cognitive neuroscience and linguistics. The project has also contributed to STEM workforce development through the mentoring and training of a postdoctoral associate and several graduate and undergraduate students.&nbsp; Finally, this project has enhanced infrastructure for research and education by providing an open-source version of the SSS-Test.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/10/2024<br> Modified by: Pablo&nbsp;Ripolles</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  A long-standing puzzle in psychology and the brain sciences is how the systems that support perception and cognition (e.g., vision, hearing, intention) are coordinated with those that generate action (e.g., reaching, speaking, walking). This interaction is especially important in speech communication, which is of remarkable significance in humans. To use speech successfully, both to communicate with others and to monitor oneself speaking, the auditory speech perception circuit (the 'hearing') and the motor speech production system (the 'speaking') must precisely align in time. This temporal coordination is important for planning to speak, monitoring one's errors, learning language sounds, and learning new words from a conversation among others.   In this research program we have studied the alignment between speech perception and production systems by measuring auditory-motor synchronization in speech. To do so, we have used a simple behavioral test called the Spontaneous Speech Synchronization test (the SSS-Test). The test measures how precisely listeners synchronize their own spoken output to speech that they hear. This test is remarkably sensitive to individual differences, revealing that not all listeners synchronize equally well (i.e., there are high and low synchronizers). Importantly, the synchronization scores from the SSS-Test correlate with brain anatomy, brain activity and performance in important real-life challenges, such as word-learning.   First, we have released the SSS-Test in an open-source format and in two popular coding programs (MATLAB/Octave and Python). In addition, we have outlined the specific steps required to classify a given speaker as a low or a high synchronizer by means of the SSS-test. Because the test outcome correlates with word learning, specific patterns of neural connectivity, and other cognitive features, it can be a useful, quick, easy-to-implement assay for researchers, educators, and clinicians.   Second, we have investigated the consequences of audio-motor synchronization to the essential capacity of phonological statistical learning - our ability to extract meaningful regularities from spoken language. Phonological word-learning is considered critical in the early stages of language acquisition, in particular for helping to identify discrete words in continuous speech. We have shown that while a network of auditory and superior pre/motor regions is universally activated in the process of phonological word-learning, a frontoparietal network is additionally and selectively engaged by high auditory-motor synchronizers (identified with the SSS-Test). This additional network aids people with high synchrony between speech input and output to better extract new words from continuous speech. We have also tested phonological word-learning using a paradigm that mimics the kinds of rhythmic variability that characterizes natural speech. We showed that words are extracted by all learners even when the speech input is completely arhythmic. Interestingly, people with high auditory-motor synchronization abilities show better phonological learning when the speech input is temporally more predictable and more similar to words in their mother tongue. This suggests an additional mechanism for phonological word-learning based on predictions not only aboutwhenspeech is coming but also aboutwhatthe upcoming speech will be.   Finally, we used the open-source version of the SSS-Test to assess a group of people who stutter. Results indicate that stutterers and non-stutterers exhibit similar auditory-motor integration as measured by the SSS-test. Interestingly, auditory-motor synchrony was inversely related to the speaker's perception of stuttering severity as perceived by others. These findings support claims that stuttering is a heterogeneous, multi-faceted disorder and showcase the potential of the SSS-Test for use in clinical populations.   Regarding broader impacts, this project has contributed to the advancement of several disciplines, including cognitive neuroscience and linguistics. The project has also contributed to STEM workforce development through the mentoring and training of a postdoctoral associate and several graduate and undergraduate students. Finally, this project has enhanced infrastructure for research and education by providing an open-source version of the SSS-Test.                 Last Modified: 09/10/2024       Submitted by: PabloRipolles]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

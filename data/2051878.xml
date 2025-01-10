@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II: Novel Blockchain File System using aBFT Consensus]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impacts and commercial potential of this Small Business Innovation Research (SBIR) project include the ability to enhance the security and trust of critical infrastructure networks for applications including defense, electric grids, health care, and emerging autonomous systems (i.e., self-driving vehicles and robotics), as many of these systems are mission- and life-critical. The proposed innovation will allow distributed and autonomous systems the ability to make decisions based on highly trusted data sources. More importantly, the innovation addresses an immediate customer need to stop data breaches and prevent unauthorized activity on networks under flaky and uncertain conditions. The proposed innovation will enhance the practical applications of distributed computing fault tolerance and consensus mechanisms by applying them to real-world critical infrastructure networks. Mission-critical systems data are constantly under attack by adversaries at the rate of a billion times per year. For mission-critical systems, compromised data is a serious problem including huge economic losses, potential for mission failures, and in some situations, life-critical consequences. Protecting that data/information is one of the biggest market opportunities of this decade and the proposed work addresses the concerns of information assurance directly.&lt;br/&gt;&lt;br/&gt;This SBIR Phase II project will advance an innovation that solves the complex problem of maintaining data integrity for mission-critical data within critical infrastructure networks.  The proposed innovation simplifies the extremely complex science of consensus and fault tolerance in distributed systems by combining flexible deployment of state-of-the-art Asynchronous Byzantine Fault Tolerant (aBFT)consensus algorithms with the proposed novel file system innovation, creating highly useful solution to protect data integrity before it can be compromised under varying network operating conditions including asynchronous network conditions (byzantine and crash fault scenarios, ability to retain all transactions, provide liveness guarantees, maintain local node state integrity, and maintain data ordering and timestamps). The proposed file system solution is designed to be an easy to deploy software platform that keeps data safe, tamper-resistant, verifiable, and trusted over the system’s life cycle.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/10/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>11/27/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051878</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Cohen</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David A Cohen</PI_FULL_NAME>
+<EmailAddress><![CDATA[dave@taekion.com]]></EmailAddress>
+<NSF_ID>000802118</NSF_ID>
+<StartDate>06/10/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[GRID7 LLC]]></Name>
+<CityName>BOULDER</CityName>
+<ZipCode>803013831</ZipCode>
+<PhoneNumber>3038083329</PhoneNumber>
+<StreetAddress><![CDATA[7136 PETURSDALE CT]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PC9SENWKS9H9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GRID7 LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[GRID7 LLC]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803024815</ZipCode>
+<StreetAddress><![CDATA[1434 Spruce Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537300</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~1000000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project outcomes for this award include the advancement of knowledge in the field of distributed consensus, cryptography, computer science, and in general the development of advanced technologies in the field of Distributed Ledger Technology (DLT). &nbsp;This works also involved achievement of benefits to society in terms of advancing distributed computing technologies and the achievement of DLT networks. The outcomes of this project are summarized below: &nbsp;</p> <ul> <li>Development of advanced, Asynchronous Byzantine Fault Tolerant (aBFT) distributed consensus mechanisms. &nbsp;We tested several aBFT consensus mechanism integrated with the Taekion File System (TFS).&nbsp;</li> <li>Development and testing of the Taekion File System (TFS). &nbsp;TFS is a virtual journaling file system that is overlaying the Taekion blockchain. The journaling function in TFS allows for safe and immutable storage of data than traditional cloud based and distributed storage systems and allows TFS to offer a disruption-tolerant storage system. TFS is designed so that temporary or intermittent communications problems, limitations, and anomalies have the least possible adverse impact on the safe and continuous storage of &nbsp;data.&nbsp;</li> <li>Development of a fully functional, private blockchain based on Hyperledger Sawtooth (with ability to go cross-chain) which is used to store full files on-chain. &nbsp;This includes the distributed nodes, pluggable blockchain consensus, asynchronous journal, file system overlay, transaction processor, &nbsp;file system binding and API, TFS blockchain nodes, and TFS blockchain clients (CLI and Web GUI). &nbsp;</li> <li>&nbsp;Integration of a major pubic DLT distributed consensus mechanism which is aBFT secure. &nbsp;We integrated the Hedera Consensus Service (HCS) using our pluggable consensus engine.&nbsp;</li> <li>Integration and Alpha testing of an additional proprietary (third--party) aBFT consensus engine using our pluggable consensus code. &nbsp;</li> <li>Development and Alpha testing of an aBFT distributed conensus algorithm based on HoneyBadger BFT. &nbsp;</li> <li>Development and Alpha / Beta testing of a web browser-based light version of TFS called TFS Lite. &nbsp;This version uses the public Hedera network (HCS) to provide consensus. &nbsp;TFS Lite was developed as a web-browser plugin to store cryptographic keys as well as digital wallet integration in order for anyone to drag and drop files of arbitrary size onto the Taekion Blockchain. &nbsp;</li> <li>Development of the following modules to support the secure storage of data fully on-chain. &nbsp;Fully on-chain means that the data resides on the blockchain nodes and should not be confused with distributed storage systems that break up the data, store a cryptographic hash, and then store the data off-chain. &nbsp;</li> <li>Full SDK for the product in both Go language and RUST. &nbsp;</li> <li>Application Programming Interface (API), Administration Console, Web Interface GUI.&nbsp;</li> <li>Kubernetes and AWS deployment of code.&nbsp;</li> <li>Code to allow for pluggable consensus of the Hedera Consensus Service (HCS) into the Sawtooth blockchain.&nbsp;</li> <li>Development and testing of a secure data transport mechanism in order to provide end-to-end data protection using technology developed by Taekion previously. This involves using a Taekion developed secure data packet transmission protocol wherein a receiver of data packets can have an increased confidence that the data packets originated with a data sender and not an attacker. &nbsp;</li> </ul> <p>&nbsp;The benefits to the distributed consensus and DLT technology areas include the following:&nbsp;</p> <ul> <li>Ability to store any file or data structure fully on a blockchain using aBFT consensus. &nbsp;</li> <li>Ability to secure data from point of creation and create an immutable file system based storage of that data.&nbsp;</li> <li>Ability to determine if data stored on the Taekion blockchain is authentic and prove it mathematically. &nbsp;</li> <li>Ability to operate the network under faulty conditions using aBFT consensus.&nbsp;</li> </ul> <p>&nbsp;To summarize, in this project, we successfully built, tested, and performed private beta testing of a secure data storage system using DLT technology. &nbsp;In the future, our plans (depending on funding) are to launch the Taekion DLT network as a combination of a private DLT network as a replicated data storage chain, combined with a &nbsp;public DLT network as a trust anchor and registry. &nbsp;This network (if deployed commercially) will be able to determine if data is authentic and real in an emerging area of Web3 called the Verifiable Web. &nbsp;This is very important in the era of emerging Artificial Intelligence (AI) where the ability fo determine if something is real or fake is getting close to impossible to determine without the Taekion DLT and distributed consensus technology.</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/10/2024<br> Modified by: David&nbsp;A&nbsp;Cohen</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The project outcomes for this award include the advancement of knowledge in the field of distributed consensus, cryptography, computer science, and in general the development of advanced technologies in the field of Distributed Ledger Technology (DLT). This works also involved achievement of benefits to society in terms of advancing distributed computing technologies and the achievement of DLT networks. The outcomes of this project are summarized below:   Development of advanced, Asynchronous Byzantine Fault Tolerant (aBFT) distributed consensus mechanisms. We tested several aBFT consensus mechanism integrated with the Taekion File System (TFS). Development and testing of the Taekion File System (TFS). TFS is a virtual journaling file system that is overlaying the Taekion blockchain. The journaling function in TFS allows for safe and immutable storage of data than traditional cloud based and distributed storage systems and allows TFS to offer a disruption-tolerant storage system. TFS is designed so that temporary or intermittent communications problems, limitations, and anomalies have the least possible adverse impact on the safe and continuous storage of data. Development of a fully functional, private blockchain based on Hyperledger Sawtooth (with ability to go cross-chain) which is used to store full files on-chain. This includes the distributed nodes, pluggable blockchain consensus, asynchronous journal, file system overlay, transaction processor, file system binding and API, TFS blockchain nodes, and TFS blockchain clients (CLI and Web GUI).  Integration of a major pubic DLT distributed consensus mechanism which is aBFT secure. We integrated the Hedera Consensus Service (HCS) using our pluggable consensus engine. Integration and Alpha testing of an additional proprietary (third--party) aBFT consensus engine using our pluggable consensus code.  Development and Alpha testing of an aBFT distributed conensus algorithm based on HoneyBadger BFT.  Development and Alpha / Beta testing of a web browser-based light version of TFS called TFS Lite. This version uses the public Hedera network (HCS) to provide consensus. TFS Lite was developed as a web-browser plugin to store cryptographic keys as well as digital wallet integration in order for anyone to drag and drop files of arbitrary size onto the Taekion Blockchain.  Development of the following modules to support the secure storage of data fully on-chain. Fully on-chain means that the data resides on the blockchain nodes and should not be confused with distributed storage systems that break up the data, store a cryptographic hash, and then store the data off-chain.  Full SDK for the product in both Go language and RUST.  Application Programming Interface (API), Administration Console, Web Interface GUI. Kubernetes and AWS deployment of code. Code to allow for pluggable consensus of the Hedera Consensus Service (HCS) into the Sawtooth blockchain. Development and testing of a secure data transport mechanism in order to provide end-to-end data protection using technology developed by Taekion previously. This involves using a Taekion developed secure data packet transmission protocol wherein a receiver of data packets can have an increased confidence that the data packets originated with a data sender and not an attacker.     The benefits to the distributed consensus and DLT technology areas include the following:  Ability to store any file or data structure fully on a blockchain using aBFT consensus.  Ability to secure data from point of creation and create an immutable file system based storage of that data. Ability to determine if data stored on the Taekion blockchain is authentic and prove it mathematically.  Ability to operate the network under faulty conditions using aBFT consensus.    To summarize, in this project, we successfully built, tested, and performed private beta testing of a secure data storage system using DLT technology. In the future, our plans (depending on funding) are to launch the Taekion DLT network as a combination of a private DLT network as a replicated data storage chain, combined with a public DLT network as a trust anchor and registry. This network (if deployed commercially) will be able to determine if data is authentic and real in an emerging area of Web3 called the Verifiable Web. This is very important in the era of emerging Artificial Intelligence (AI) where the ability fo determine if something is real or fake is getting close to impossible to determine without the Taekion DLT and distributed consensus technology.        Last Modified: 07/10/2024       Submitted by: DavidACohen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

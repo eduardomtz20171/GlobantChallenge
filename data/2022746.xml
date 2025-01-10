@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Did Mantle Magma Cause Ultrahigh-Temperature Metamorphism (UHTM) in Southern Madagascar?]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>259405.00</AwardTotalIntnAmount>
+<AwardAmount>259405</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colin A. Shaw</SignBlockName>
+<PO_EMAI>cshaw@nsf.gov</PO_EMAI>
+<PO_PHON>7032927944</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The collision of Earth’s continents, as a result of plate tectonics, causes the crust to thicken, buckle, and become hotter, leading to lasting transformations: metamorphic mineral reactions, the formation of magma, and the reorganization of elements throughout the Earth’s crust. These processes that permanently alter the continents are most extreme in ultrahigh-temperature metamorphic (UHTM) rocks, where temperatures exceeded 900 °C. Recognizing these transformations in rocks from the Earth’s past is fundamental to understanding how the continents have changed through time. Yet, why UHTM occurs in some continental collision zones, but not others, remains unknown. This project will address the unresolved question of how and why rocks reach such ultrahigh temperatures by investigating the UHTM rocks exposed in southern Madagascar. Specifically, this work will test the hypothesis that magmas ascended from Earth’s mantle and heated the rocks of southern Madagascar to temperatures exceeding those of typical mountain belts, causing UHTM. Age dating and chemical analyses of the mineral zircon will establish the timing and origins of magma intrusions, respectively, to determine their relationship to UHTM. This project will support graduate student education at Woods Hole Oceanographic Institution and the University of Michigan, and will include cross-cultural collaboration among scientists from the U.S., Switzerland, and Madagascar. In partnership with a local organization, it provides employment and rehabilitation opportunities for disabled individuals in Massachusetts. In addition, a hands-on education project will encourage underrepresented minority students to participate in the geosciences.&lt;br/&gt;&lt;br/&gt;This collaborative project will test the hypothesis that sizable plutons (the origins and ages of which are unknown) were the principal heat source responsible for UHTM in southern Madagascar, an archetypal UHTM terrane formed during the Late Neoproterozoic to Early Cambrian assembly of Gondwana. Prior research suggests that conductive, mechanical, and radiogenic heat sources combined were incapable of raising mid-crustal temperatures to &gt;900 °C, so mantle magmas may be the missing heat source. Zircon Hf, delta 18O, and U-Pb ages, combined with whole rock major- and trace-element data, will be used to constrain the proportion of mantle versus crustal melts in the major plutonic suites in southern Madagascar and estimate the magmatic flux. Additional zircon and monazite analyses in host gneisses will establish whether magmatism and UHTM were contemporaneous. By resolving the timescale and extent of mantle heat advection, these results will test whether there was a causal link between magmatism and regional UHTM. In doing so, this study will enhance understanding of the regional heat budget and provide a comprehensive U-Pb zircon dataset for southern Madagascar. The results will have direct implications for coeval UHTM events recorded in Sri Lanka, India, and Antarctica, and will inform our understanding of Phanerozoic collisional orogens in general. Additionally, this project will develop dual-multicollector laser ablation split stream ICPMS techniques that will enable simultaneous measurement of Hf and U-Pb isotopes on multicollector instruments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022746</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Holder</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert M Holder</PI_FULL_NAME>
+<EmailAddress><![CDATA[roholder@umich.edu]]></EmailAddress>
+<NSF_ID>000760035</NSF_ID>
+<StartDate>07/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157200</Code>
+<Text>Tectonics</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~259405</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>A key feature of Earth, compared to the other planets in our solar system, is the dichotomy of oceanic and continental crust. This dichotomy is manifest in multiple ways: topography/bathymetry, thickness of the crust, as well as the types of rocks and minerals present. Whereas the rocks of the oceanic crust as strikingly similar to the crust of other planets, it is the continental crust that is truly unique to Earth. The formation of continents involves the process of partial melting. When rocks partially melt, their chemical components are separated into those that are more compatible in the magma and those that are more compatible in the residue that is left behind. This process can happen repeatedly, on different types of rocks, resulting in greater and greater chemical diversity of rock types. Critically, it is by this process of partial melting and chemical refinement that the defining rocks of the continents (granites and related rocks, granitoids) form. These rocks are less dense than the mantle, preventing their sinking or subduction back into the interior of Earth by the continuous process of plate tectonics. This stabilizes the continents through the long geological history of Earth. In addition, it is this process of partial melting and associated chemical differentiation that allows for the concentration of many critical metals that support our modern society.</p>  <p>Therefore, a fundamental question of Earth science is, what situations cause partial melting? Conceptual models can be computed and hypothesized, but case studies of real rocks are required for rigorous scientific testing of these ideas. The aim of this project was to test hypotheses for the causes of regionally extensive partial melting in an archetypal ultrahigh-temperature metamorphic (UHTM) terrane exposed in southern Madagascar. UHTM terranes represent the hottest conditions reached in the crust, preserving regionally extensive evidence for the processes of partial melting that contributed to continental differentiation and refinement.</p>  <p>Intellectual outcomes: UHTM and associated partial melting in this terrane lasted for an incredible duration of approximately 50 million years (580 to 530 million years before present) during one of the largest continental collisions known through the history of Earth: the Eastern African Orogen. The rocks of southern Madagascar were caught in the center of this collision, where disparate fragments of volcanic arcs, microcontinents, and older continents came together (now separated across eastern Africa, eastern Antarctica, Madagascar, India, and Sri Lanka). This resulted in thickening of the crust analogous to the modern Himalaya and Tibetan plateau. Except, whereas the Tibetan plateau is unbound on its eastern side, allowing it to collapse and flow in that direction, the Madagascar rocks were completely trapped on all sides from colliding continents. Trapped in this position, the rocks of southern Madagascar experienced a perfect storm of crustal heating. The thickening of the crust with abundant sedimentary rock rich in radioactive elements (U, Th, K) resulted in elevation of the geothermal gradient augmented by foundering of the lithospheric mantle beneath it back into the mantle and the resulting upward wave of heat from the upwelling asthenosphere beneath it. Whereas typical continental crust would have collapsed as it heated, providing a negative feedback on the temperature the crust could reach, the trapped position of the Madagascar rocks prevented that, allowing exceptionally high temperatures to be reached and sustained for many 10s of millions of years. These results, which integrated igneous, metamorphic, and structural geological histories over 100s to 1000s of km of the reconstructed continental collision, provide an archetype for testing models of UHTM and crustal melting elsewhere on Earth at different points in its history.&nbsp;</p>  <p>Broader-impact outcomes: A key outcome of this award was the professional scientific training for early career scientists. This included the basis for one graduate student MS thesis, a significant proportion of another PhD thesis, as well as laboratory and field training for two others. It also contributed to the field training of one postdoctoral fellow and the establishment of research programs for two assistant professors. All participants are well-situated for future scientific contribution and societal impact in the field of geology in their continued careers.</p><br> <p>  Last Modified: 12/22/2024<br> Modified by: Robert&nbsp;M&nbsp;Holder</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  A key feature of Earth, compared to the other planets in our solar system, is the dichotomy of oceanic and continental crust. This dichotomy is manifest in multiple ways: topography/bathymetry, thickness of the crust, as well as the types of rocks and minerals present. Whereas the rocks of the oceanic crust as strikingly similar to the crust of other planets, it is the continental crust that is truly unique to Earth. The formation of continents involves the process of partial melting. When rocks partially melt, their chemical components are separated into those that are more compatible in the magma and those that are more compatible in the residue that is left behind. This process can happen repeatedly, on different types of rocks, resulting in greater and greater chemical diversity of rock types. Critically, it is by this process of partial melting and chemical refinement that the defining rocks of the continents (granites and related rocks, granitoids) form. These rocks are less dense than the mantle, preventing their sinking or subduction back into the interior of Earth by the continuous process of plate tectonics. This stabilizes the continents through the long geological history of Earth. In addition, it is this process of partial melting and associated chemical differentiation that allows for the concentration of many critical metals that support our modern society.    Therefore, a fundamental question of Earth science is, what situations cause partial melting? Conceptual models can be computed and hypothesized, but case studies of real rocks are required for rigorous scientific testing of these ideas. The aim of this project was to test hypotheses for the causes of regionally extensive partial melting in an archetypal ultrahigh-temperature metamorphic (UHTM) terrane exposed in southern Madagascar. UHTM terranes represent the hottest conditions reached in the crust, preserving regionally extensive evidence for the processes of partial melting that contributed to continental differentiation and refinement.    Intellectual outcomes: UHTM and associated partial melting in this terrane lasted for an incredible duration of approximately 50 million years (580 to 530 million years before present) during one of the largest continental collisions known through the history of Earth: the Eastern African Orogen. The rocks of southern Madagascar were caught in the center of this collision, where disparate fragments of volcanic arcs, microcontinents, and older continents came together (now separated across eastern Africa, eastern Antarctica, Madagascar, India, and Sri Lanka). This resulted in thickening of the crust analogous to the modern Himalaya and Tibetan plateau. Except, whereas the Tibetan plateau is unbound on its eastern side, allowing it to collapse and flow in that direction, the Madagascar rocks were completely trapped on all sides from colliding continents. Trapped in this position, the rocks of southern Madagascar experienced a perfect storm of crustal heating. The thickening of the crust with abundant sedimentary rock rich in radioactive elements (U, Th, K) resulted in elevation of the geothermal gradient augmented by foundering of the lithospheric mantle beneath it back into the mantle and the resulting upward wave of heat from the upwelling asthenosphere beneath it. Whereas typical continental crust would have collapsed as it heated, providing a negative feedback on the temperature the crust could reach, the trapped position of the Madagascar rocks prevented that, allowing exceptionally high temperatures to be reached and sustained for many 10s of millions of years. These results, which integrated igneous, metamorphic, and structural geological histories over 100s to 1000s of km of the reconstructed continental collision, provide an archetype for testing models of UHTM and crustal melting elsewhere on Earth at different points in its history.    Broader-impact outcomes: A key outcome of this award was the professional scientific training for early career scientists. This included the basis for one graduate student MS thesis, a significant proportion of another PhD thesis, as well as laboratory and field training for two others. It also contributed to the field training of one postdoctoral fellow and the establishment of research programs for two assistant professors. All participants are well-situated for future scientific contribution and societal impact in the field of geology in their continued careers.     Last Modified: 12/22/2024       Submitted by: RobertMHolder]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

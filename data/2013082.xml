@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Studying the Strong Nuclear Force at Augustana University]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>135000.00</AwardTotalIntnAmount>
+<AwardAmount>135000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Allena K. Opper</SignBlockName>
+<PO_EMAI>aopper@nsf.gov</PO_EMAI>
+<PO_PHON>7032928958</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award continues the scientific program to study the strong nuclear force at Augustana University in Sioux Falls, South Dakota.  The strong nuclear force is carried by   particles called gluons that bind protons and neutrons together to form a nucleus at the core of every atom.  Because atoms make up the majority of the observable matter, knowing the number of gluons inside a nucleus and their motion is necessary to understand matter at its fundamental level.  The nuclear physics group at Augustana studies the gluon content of the nucleus by analyzing high energy nuclear collisions produced at the Relativistic Heavy Ion Collider (RHIC) at Brookhaven National Laboratory. The group will analyze data from deuterium + gold collisions measured with the PHENIX detector.  The group will also participate in the building and installing the new sPHENIX detector, a next-generation detector that will measure results from collisions at RHIC beginning in approximately 2023. This program in strong nuclear physics is the only one of its kind in South Dakota.  It provides those in the state and the region opportunities to study and participate in this physics.   The proposal will support undergraduates studying physics or pre-engineering. The educational benefits for the students are broad. Students will gain practical skills such as computer programming, analysis of large data sets, electrical engineering application, and mechanical engineering design.  These skills are transferable to other vocations of interest to the student, the state, and the nation.  Students will participate in weekly collaboration meetings, present at national conferences, and visit collaborating institutions. Such opportunities will build their communication skills, grow their professional network, put them in contact with potential graduate schools, and prepare them for 21st-century technical jobs. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;An outstanding experimental question in strong-force physics is measuring the nuclear parton distribution function of gluons at low momentum fraction x. This award continues work by the PI and undergraduates to study this area in two ways.  First, the measurement of pi0-hadron azimuthal correlations in d + Au at midrapidity of 200 GeV recorded by the PHENIX experiment at RHIC in 2016 will be completed and published. The analysis will utilize the Muon Piston Calorimeter (MPC) and the Muon Piston Calorimeter Extension (MPC-EX). The MPC is a PbWO4 crystal electromagnetic calorimeter. The  MPC-EX is a Si-W pre-shower detector with high segmentation that can separate photons from pi-zero decays for E &lt; 80 GeV. Using pairs of particles in different pseudorapidity, including the very forward MPC+MPC-EX region, the pair rate and azimuthal correlation shapes will be measured as a function of pair pseudorapidity. These measurements should yield insights to the kinematics of low-x gluons in the nucleus and allow tests of saturation physics or cold nuclear matter energy loss. Second, the group is transitioning from PHENIX to sPHENIX, a next-generation heavy ion detector that will take advantage of high-luminosity RHIC running to measure jets and heavy flavor physics. The group will spend significant time during the summers of 2021 and 2022 helping to build components and install the detector at the interaction region. First data is expected in early 2023. The group will focus on measurements of low-energy jets using two-particle correlations. In the future, the sPHENIX detector is expected to transform into a Day-1 physics detector the Electron-Ion Collider (EIC) that will be built at Brookhaven in the later 2020's. The main physics driver for the EIC is to measure the gluon content of the nucleus.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2013082</AwardID>
+<Investigator>
+<FirstName>Nathan</FirstName>
+<LastName>Grau</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nathan Grau</PI_FULL_NAME>
+<EmailAddress><![CDATA[nathan.grau@augie.edu]]></EmailAddress>
+<NSF_ID>000629159</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Augustana University Association]]></Name>
+<CityName>SIOUX FALLS</CityName>
+<ZipCode>571970001</ZipCode>
+<PhoneNumber>6052744090</PhoneNumber>
+<StreetAddress><![CDATA[2001 S SUMMIT AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<StateCode>SD</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SD00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>W6YZCPTMFSD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AUGUSTANA UNIVERSITY ASSOCIATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Augustana College]]></Name>
+<CityName/>
+<StateCode>SD</StateCode>
+<ZipCode>571970001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SD00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>123200</Code>
+<Text>Nuclear &amp; Hadron Quantum Chrom</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~45000</FUND_OBLG>
+<FUND_OBLG>2021~45000</FUND_OBLG>
+<FUND_OBLG>2022~45000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This award continued the nuclear physics laboratory at Augustana University in Sioux Falls, South Dakota devoted to the study of the strong nuclear force, which is the force responsible for binding protons and neutrons in the nucleus of an atom. Particles called gluons bind protons and neutrons together to form a stable nucleus at the core of every atom. Since atoms make up the majority of matter we observe, knowing the number of gluons and their motion is necessary to understand matter at its most fundamental level. The number and motion of gluons in a nucleus is an outstanding experimental question. The nuclear physics group at Augustana studies the gluon content of the nucleus by analyzing high energy nuclear collisions produced at the Relativistic Heavy Ion Collider (RHIC) at Brookhaven National Laboratory (BNL).</p>  <p>For this grant, the group analyzed data from one experiment, helped build and run a second experiment, and worked to propose a third experiment. The group analyzed high-energy deuterium+gold collision data to search for modifications to the number and energy distribution of particles called pi0s in a particular area of the PHENIX detector called the MPC-EX. The number and energy distribution of those particles are sensitive to the number of low-momentum gluons in the gold nucleus. We also performed additional studies of correlations of those pi0s in the MPC-EX with other particles in different parts of the detector as a more sensitive measure of the kinematics of the gluons that result in pi0s being produced.</p>  <p>The group helped to complete the construction of the sPHENIX detector at RHIC. In particular, the group helped to construct and test the scintillators used in the sPHENIX Event Plane Detector (sEPD). The sEPD will characterize high-energy gold+gold collision events used in categorizing events for all physics analysis from sPHENIX. The group participated in the first data-taking campaign of the sPHENIX detector in 2023 spending a month at Brookhaven sitting data-taking shifts and helping to monitor calorimeter performance and the radiation damage to the silicon photomultipliers, the light-sensitive devices that detect the energy deposited by particles impacting the calorimeters. The group participated in the 2024 sPHENIX run, which focused on proton+proton collisions, sitting data-taking shifts and working on the rapid online analysis to monitor the health of the detector and quality of the data.</p>  <p>Finally, the group was&nbsp;part of the ECCE detector proposal, which was ultimately chosen by the review committee to become the project detector for the future Electron-Ion Collider (EIC) at Brookhaven. The group contributed to the ECCE proposal by analyzing the measurement capabilities of a model ECCE detector for the angular correlation between pairs of particles resulting from simulated electron+proton and electron+gold collisions. The different collisions should produce different correlations depending on the number and energy distribution of gluons in the gold nucleus. Augustana became a founding member of the electron Proton Ion Collider (ePIC) collaboration, the collaboration that emerged after the community coalesced around the ECCE detector concept. The group continued to explore different kinds of particle correlations to enhance the difference in the angular correlations between electron+proton and electron+gold collisions to find more sensitive probes for the number and energy distribution of gluons in the nucleus.</p>  <p>Through this award, the Augustana nuclear physics group is also making broader impacts, in particular with undergraduate experiences and education. The Augustana Physics Department is responsible for teaching physics students and pre-engineering students who participate in the dual-degree options the department offers. Undergraduate research is considered a high-impact practice and is expected as part of the preparation for many degrees, including engineering. Undergraduate students working on this project learn many technical skills including, software development and testing, detector testing, and mechanical and electrical engineering design. Even more, students learn important soft skills. Communication is an important aspect of a student's research experience. Each week students are expected to present research talks to other research students in the department. While most of the students are aware of physics, the department has three faculty working on vary different physics projects. Students need to learn to communicate with a range of expertise. During the regular school semesters, students supported by this award were expected to present at the regular Physics Seminar series. The audience is even broader and includes students from various physics backgrounds. Students also present their work to various experts within the collaborations that understand the detector and issues deeply. Finally, many students were able to attend the Conference Experience for Undergraduates at the annual Division of Nuclear Physics meeting. This includes creating a poster to present their work to a broad nuclear physics audience. The software skills are transferable to many technical areas. The communication skills that the students learn and practice are important for all jobs over many industries.</p><br> <p>  Last Modified: 12/22/2024<br> Modified by: Nathan&nbsp;Grau</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This award continued the nuclear physics laboratory at Augustana University in Sioux Falls, South Dakota devoted to the study of the strong nuclear force, which is the force responsible for binding protons and neutrons in the nucleus of an atom. Particles called gluons bind protons and neutrons together to form a stable nucleus at the core of every atom. Since atoms make up the majority of matter we observe, knowing the number of gluons and their motion is necessary to understand matter at its most fundamental level. The number and motion of gluons in a nucleus is an outstanding experimental question. The nuclear physics group at Augustana studies the gluon content of the nucleus by analyzing high energy nuclear collisions produced at the Relativistic Heavy Ion Collider (RHIC) at Brookhaven National Laboratory (BNL).    For this grant, the group analyzed data from one experiment, helped build and run a second experiment, and worked to propose a third experiment. The group analyzed high-energy deuterium+gold collision data to search for modifications to the number and energy distribution of particles called pi0s in a particular area of the PHENIX detector called the MPC-EX. The number and energy distribution of those particles are sensitive to the number of low-momentum gluons in the gold nucleus. We also performed additional studies of correlations of those pi0s in the MPC-EX with other particles in different parts of the detector as a more sensitive measure of the kinematics of the gluons that result in pi0s being produced.    The group helped to complete the construction of the sPHENIX detector at RHIC. In particular, the group helped to construct and test the scintillators used in the sPHENIX Event Plane Detector (sEPD). The sEPD will characterize high-energy gold+gold collision events used in categorizing events for all physics analysis from sPHENIX. The group participated in the first data-taking campaign of the sPHENIX detector in 2023 spending a month at Brookhaven sitting data-taking shifts and helping to monitor calorimeter performance and the radiation damage to the silicon photomultipliers, the light-sensitive devices that detect the energy deposited by particles impacting the calorimeters. The group participated in the 2024 sPHENIX run, which focused on proton+proton collisions, sitting data-taking shifts and working on the rapid online analysis to monitor the health of the detector and quality of the data.    Finally, the group waspart of the ECCE detector proposal, which was ultimately chosen by the review committee to become the project detector for the future Electron-Ion Collider (EIC) at Brookhaven. The group contributed to the ECCE proposal by analyzing the measurement capabilities of a model ECCE detector for the angular correlation between pairs of particles resulting from simulated electron+proton and electron+gold collisions. The different collisions should produce different correlations depending on the number and energy distribution of gluons in the gold nucleus. Augustana became a founding member of the electron Proton Ion Collider (ePIC) collaboration, the collaboration that emerged after the community coalesced around the ECCE detector concept. The group continued to explore different kinds of particle correlations to enhance the difference in the angular correlations between electron+proton and electron+gold collisions to find more sensitive probes for the number and energy distribution of gluons in the nucleus.    Through this award, the Augustana nuclear physics group is also making broader impacts, in particular with undergraduate experiences and education. The Augustana Physics Department is responsible for teaching physics students and pre-engineering students who participate in the dual-degree options the department offers. Undergraduate research is considered a high-impact practice and is expected as part of the preparation for many degrees, including engineering. Undergraduate students working on this project learn many technical skills including, software development and testing, detector testing, and mechanical and electrical engineering design. Even more, students learn important soft skills. Communication is an important aspect of a student's research experience. Each week students are expected to present research talks to other research students in the department. While most of the students are aware of physics, the department has three faculty working on vary different physics projects. Students need to learn to communicate with a range of expertise. During the regular school semesters, students supported by this award were expected to present at the regular Physics Seminar series. The audience is even broader and includes students from various physics backgrounds. Students also present their work to various experts within the collaborations that understand the detector and issues deeply. Finally, many students were able to attend the Conference Experience for Undergraduates at the annual Division of Nuclear Physics meeting. This includes creating a poster to present their work to a broad nuclear physics audience. The software skills are transferable to many technical areas. The communication skills that the students learn and practice are important for all jobs over many industries.     Last Modified: 12/22/2024       Submitted by: NathanGrau]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

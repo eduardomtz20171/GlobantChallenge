@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Targeted Infusion Project: Inspiring, Engaging and Retaining Underrepresented Students in Computing Research and the Emerging Field of Data Science]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EES</Abbreviation>
+<LongName>Div. of Equity for Excellence in STEM</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leroy Jones II</SignBlockName>
+<PO_EMAI>ljones@nsf.gov</PO_EMAI>
+<PO_PHON>7032924684</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Historically Black Colleges and Universities Undergraduate Program (HBCU-UP) through Targeted Infusion Projects supports the development, implementation, and study of evidence-based innovative models and approaches for improving the preparation and success of HBCU undergraduate students so that they may pursue STEM graduate programs and/or careers. This project at Howard University intends is to introduce undergraduate students to data science approaches and to enhance conceptual knowledge through applied learning activities. Proposed activities which include the hosting of data science workshops and conferences will further support student learning and increase student competitiveness for graduate studies and/or future employment opportunities.&lt;br/&gt;&lt;br/&gt;The objective of this proposed work is to infuse data science into the curriculum which will enable students under the leadership of the course instructor to apply their skills to the exploration of scientific questions that were previously inaccessible using traditional approaches. For example, students will use High Performance Computing to examine levels of archaic human ancestry that have been inferred to be present in the genomes of contemporary populations. The project will support the training of over 600 minority undergraduate students in cutting-edge methods in data science throughout the Biology curriculum, increasing their competitiveness for graduate studies and/or future employability in a variety of settings, including in biomedical and environmental sciences, research education, and public service.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011933</AwardID>
+<Investigator>
+<FirstName>Clarence</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Clarence M Lee</PI_FULL_NAME>
+<EmailAddress><![CDATA[cmlee@howard.edu]]></EmailAddress>
+<NSF_ID>000353099</NSF_ID>
+<StartDate>05/11/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Atanu</FirstName>
+<LastName>Duttaroy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Atanu Duttaroy</PI_FULL_NAME>
+<EmailAddress><![CDATA[aduttaroy@howard.edu]]></EmailAddress>
+<NSF_ID>000116597</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stacy</FirstName>
+<LastName>Farina</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stacy C Farina</PI_FULL_NAME>
+<EmailAddress><![CDATA[stacy.farina@howard.edu]]></EmailAddress>
+<NSF_ID>000689301</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Campbell</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael C Campbell</PI_FULL_NAME>
+<EmailAddress><![CDATA[mc44680@usc.edu]]></EmailAddress>
+<NSF_ID>000716036</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate>05/11/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shaolei</FirstName>
+<LastName>Teng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shaolei Teng</PI_FULL_NAME>
+<EmailAddress><![CDATA[shaolei.teng@howard.edu]]></EmailAddress>
+<NSF_ID>000723212</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Howard University]]></Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200590002</ZipCode>
+<PhoneNumber>2028064759</PhoneNumber>
+<StreetAddress><![CDATA[2400 6TH ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DYZNJGLTHMR9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>HOWARD UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Howard University]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200590001</ZipCode>
+<StreetAddress><![CDATA[2400 Sixth Street NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>159400</Code>
+<Text>Hist Black Colleges and Univ</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~400000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project aimed to introduce students to data science approaches and enhance their conceptual knowledge through applied learning activities. Recognizing the growing importance of data analysis across various fields, this initiative sought to equip undergraduate students with the skills necessary for effective data analysis. Additionally, the project specifically addressed the underrepresentation of women and minorities (Hispanic/Latino and African American) in data science education at the undergraduate level.</p> <p><strong>Key Actions</strong></p> <ol> <li><strong>Acquisition of New Software and      Hardware:</strong>  <ul> <li>The project procured essential       technology, including local computers and a High-Performance Computing       node, to support course-based activities within the Department of Biology       at Howard University. This infrastructure enabled students to engage in       data science-related tasks and analyses.</li> </ul> </li> <li><strong>Integration of Data Science into      Core Biology Courses:</strong>  <ul> <li>Fundamental data science       techniques were incorporated into existing Biology courses, particularly       General Biology 101 and 102 at Howard University. This integration helped       students develop a foundational understanding of data science concepts       and their applications in biology.</li> </ul> </li> <li><strong>Development of Data Science      Modules for Upper-Year Electives:</strong>  <ul> <li>Newly developed data science       modules were created for upper-year Biology elective courses. These       project-based activities provided students with firsthand experience in       using data science methods to analyze biological data and make meaningful       interpretations.</li> </ul> </li> <li><strong>Enhancement of Quantitative and      Analytical Skills:</strong>  <ul> <li>Through project-based activities       in upper-year Biology elective courses, the project sought to enhance       students' quantitative and analytical skills. By engaging with real-world       datasets and applying data science techniques, students effectively       analyzed and interpreted complex biological data.</li> </ul> </li> <li><strong>Improvement of Scientific      Literacy and Communication Skills:</strong>  <ul> <li>Emphasizing scientific literacy       and communication, the project offered opportunities for students to       communicate their findings, present analyses, and engage in scientific       discourse through the newly developed project-based activities and       modules.</li> </ul> </li> </ol> <p><strong>Long-Term Impacts</strong></p> <ol> <li><strong>Increasing Interest and Learning      in STEM Among Underrepresented Students:</strong>  <ul> <li>By integrating data science into       biology education at Howard University, the project aimed to attract and       engage underrepresented students in STEM fields, particularly women and       minorities, thereby addressing the existing representation deficiency in       data science education.</li> </ul> </li> <li><strong>Preparation for Graduate and      Professional Programs:</strong>  <ul> <li>The project equipped       undergraduate students with the necessary skills and knowledge for       success in rigorous graduate and professional programs. Enhanced data       science and analytical skills will better prepare students for advanced       studies and careers that require proficiency in data analysis.</li> </ul> </li> <li><strong>Establishing Collaborative      Partnerships:</strong>  <ul> <li>The project fostered       collaborative partnerships with other scientists and STEM educators. By disseminating       outcomes at local and national conferences, the project intends to share       its findings, learn from other institutions, and pool expertise to       further enhance data science education.</li> </ul> </li> </ol> <p><strong>Conclusion</strong></p> <p>Overall, the project aimed to bridge the gap in data science education, particularly for underrepresented groups, by integrating data science approaches into biology courses, enhancing students' skills and knowledge, and fostering collaborations and partnerships within the scientific community.</p> <div> <hr size="2" /> </div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/31/2024<br> Modified by: Clarence&nbsp;M&nbsp;Lee</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2011933/2011933_10681149_1725153574440_Picture_5--rgov-214x142.png" original="/por/images/Reports/POR/2024/2011933/2011933_10681149_1725153574440_Picture_5--rgov-800width.png" title="Renovated Computer Lab 2024"><img src="/por/images/Reports/POR/2024/2011933/2011933_10681149_1725153574440_Picture_5--rgov-66x44.png" alt="Renovated Computer Lab 2024"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Newly Renovated Computer Laboratory</div> <div class="imageCredit">Shaolei Teng</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Clarence&nbsp;M&nbsp;Lee <div class="imageTitle">Renovated Computer Lab 2024</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2011933/2011933_10681149_1725153005677_Picture_6__1_--rgov-214x142.png" original="/por/images/Reports/POR/2024/2011933/2011933_10681149_1725153005677_Picture_6__1_--rgov-800width.png" title="Computer laboratory 2023"><img src="/por/images/Reports/POR/2024/2011933/2011933_10681149_1725153005677_Picture_6__1_--rgov-66x44.png" alt="Computer laboratory 2023"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The unrenovated Computer Laboratory in 2023</div> <div class="imageCredit">Dr. Shaolei Teng</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Clarence&nbsp;M&nbsp;Lee <div class="imageTitle">Computer laboratory 2023</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The project aimed to introduce students to data science approaches and enhance their conceptual knowledge through applied learning activities. Recognizing the growing importance of data analysis across various fields, this initiative sought to equip undergraduate students with the skills necessary for effective data analysis. Additionally, the project specifically addressed the underrepresentation of women and minorities (Hispanic/Latino and African American) in data science education at the undergraduate level.   Key Actions  Acquisition of New Software and      Hardware:   The project procured essential       technology, including local computers and a High-Performance Computing       node, to support course-based activities within the Department of Biology       at Howard University. This infrastructure enabled students to engage in       data science-related tasks and analyses.   Integration of Data Science into      Core Biology Courses:   Fundamental data science       techniques were incorporated into existing Biology courses, particularly       General Biology 101 and 102 at Howard University. This integration helped       students develop a foundational understanding of data science concepts       and their applications in biology.   Development of Data Science      Modules for Upper-Year Electives:   Newly developed data science       modules were created for upper-year Biology elective courses. These       project-based activities provided students with firsthand experience in       using data science methods to analyze biological data and make meaningful       interpretations.   Enhancement of Quantitative and      Analytical Skills:   Through project-based activities       in upper-year Biology elective courses, the project sought to enhance       students' quantitative and analytical skills. By engaging with real-world       datasets and applying data science techniques, students effectively       analyzed and interpreted complex biological data.   Improvement of Scientific      Literacy and Communication Skills:   Emphasizing scientific literacy       and communication, the project offered opportunities for students to       communicate their findings, present analyses, and engage in scientific       discourse through the newly developed project-based activities and       modules.      Long-Term Impacts  Increasing Interest and Learning      in STEM Among Underrepresented Students:   By integrating data science into       biology education at Howard University, the project aimed to attract and       engage underrepresented students in STEM fields, particularly women and       minorities, thereby addressing the existing representation deficiency in       data science education.   Preparation for Graduate and      Professional Programs:   The project equipped       undergraduate students with the necessary skills and knowledge for       success in rigorous graduate and professional programs. Enhanced data       science and analytical skills will better prepare students for advanced       studies and careers that require proficiency in data analysis.   Establishing Collaborative      Partnerships:   The project fostered       collaborative partnerships with other scientists and STEM educators. By disseminating       outcomes at local and national conferences, the project intends to share       its findings, learn from other institutions, and pool expertise to       further enhance data science education.      Conclusion   Overall, the project aimed to bridge the gap in data science education, particularly for underrepresented groups, by integrating data science approaches into biology courses, enhancing students' skills and knowledge, and fostering collaborations and partnerships within the scientific community.              Last Modified: 08/31/2024       Submitted by: ClarenceMLee]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

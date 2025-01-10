@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Variational Inference for Complex Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yulia Gel</SignBlockName>
+<PO_EMAI>ygel@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Large-scale complex networks are becoming increasingly common in a variety of scientific disciplines, including social sciences, biological sciences, and physical sciences. Such complex networks challenge the computational limit of classical methods, making it infeasible to carry out statistical network inference within a reasonable amount of time. This project will develop efficient algorithms that are computationally feasible for large-scale complex networks and have provable statistical guarantees on performance. The proposed methods will be applied to social and biological network data, including brain networks, and will be used for the study of disorders associated with hearing loss, such as tinnitus. The proposed research is highly interdisciplinary and provides an opportunity for involvement of graduate and undergraduate students with a broad range of backgrounds and interests. The proposed methods will be incorporated into relevant courses. Research results will be disseminated to the scientific communities and all software developed in this research will be freely distributed as open-source to the public.&lt;br/&gt;&lt;br/&gt;The project will develop variational methods for complex networks, including dynamic, multi-layer, and heterogeneous networks, and investigate theoretical properties of the variational methods on these networks to provide provable statistical guarantees on performance. The network models the PI studies include latent space models for dynamic networks and dynamic multi-layer networks, stochastic block models for multi-layer networks, various models for heterogeneous networks, and other models for complex networks. The proposed variational inference procedure makes it possible to handle large scale complex network data. The theoretical properties the PI will investigate include consistency of parameter estimation and community detection for variational methods. The proposed methods will be applied to real network data from social and natural sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015561</AwardID>
+<Investigator>
+<FirstName>Yuguo</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yuguo Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[yuguo@uiuc.edu]]></EmailAddress>
+<NSF_ID>000486025</NSF_ID>
+<StartDate>06/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>V2PHZ2CSCH63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>Urbana</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 South Wright Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project develops variational methods for complex networks, including dynamic, multi-layer, and heterogeneous networks, and investigates theoretical properties of the variational methods on these networks to provide provable statistical guarantees on performance. The proposed variational algorithm is much faster than the Markov chain Monte Carlo algorithm while still gives satisfactory results. The theoretical properties proved include consistency of parameter estimation and community detection for variational methods. The proposed algorithm can be used to study social interaction patterns, model disease transmission, and much more. When applied to a time series of different international relations between 100 countries from 2009 to 2017, our method is able to detect important historical events during those eight years. When applied to longitudinal face-to-face contact networks drawn from an epidemiological survey of students at a primary school, our result implies a simple intervention to mitigate disease spread.<br /><br />Large-scale complex networks are becoming increasingly common in a variety of scientific disciplines, including social sciences, biological sciences, and physical sciences. Such complex networks challenge the computational limit of classical methods, making it infeasible to carry out statistical network inference within a reasonable amount of time. This project develops efficient algorithms that are computationally feasible for large-scale complex networks and have provable statistical guarantees on performance. The proposed methods can be applied to social and biological network data, and provide new insight into the structure and dynamics of the networks.<br /><br />The grant provided partial support for several Ph.D. students. All of them have been exposed to some of the new development of network models resulting from the grant. In addition, the new algorithms and their applications have been incorporated into graduate and undergraduate courses. Finally, the PI has presented results of research under this grant at several conferences and departmental seminars. Several papers were published or submitted for publication.</p><br> <p>  Last Modified: 10/27/2024<br> Modified by: Yuguo&nbsp;Chen</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The project develops variational methods for complex networks, including dynamic, multi-layer, and heterogeneous networks, and investigates theoretical properties of the variational methods on these networks to provide provable statistical guarantees on performance. The proposed variational algorithm is much faster than the Markov chain Monte Carlo algorithm while still gives satisfactory results. The theoretical properties proved include consistency of parameter estimation and community detection for variational methods. The proposed algorithm can be used to study social interaction patterns, model disease transmission, and much more. When applied to a time series of different international relations between 100 countries from 2009 to 2017, our method is able to detect important historical events during those eight years. When applied to longitudinal face-to-face contact networks drawn from an epidemiological survey of students at a primary school, our result implies a simple intervention to mitigate disease spread.  Large-scale complex networks are becoming increasingly common in a variety of scientific disciplines, including social sciences, biological sciences, and physical sciences. Such complex networks challenge the computational limit of classical methods, making it infeasible to carry out statistical network inference within a reasonable amount of time. This project develops efficient algorithms that are computationally feasible for large-scale complex networks and have provable statistical guarantees on performance. The proposed methods can be applied to social and biological network data, and provide new insight into the structure and dynamics of the networks.  The grant provided partial support for several Ph.D. students. All of them have been exposed to some of the new development of network models resulting from the grant. In addition, the new algorithms and their applications have been incorporated into graduate and undergraduate courses. Finally, the PI has presented results of research under this grant at several conferences and departmental seminars. Several papers were published or submitted for publication.     Last Modified: 10/27/2024       Submitted by: YuguoChen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

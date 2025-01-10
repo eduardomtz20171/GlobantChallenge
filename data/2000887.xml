@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Expanding Pathways to a Data Science Career by Developing a Certification in Data Science and Analytics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>235277.00</AwardTotalIntnAmount>
+<AwardAmount>235277</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Tymann</SignBlockName>
+<PO_EMAI>ptymann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Businesses and organizations across all industry sectors are increasingly looking for ways to use data in their decision making.  This shift to data-driven decision making is creating a growing workforce demand for Data Science and Analytics professionals.  In a 2018 report, the US Bureau of Labor Statistics projected that jobs in data science and analytics will grow 34% by 2026.  However, thus far, very few two-year institutions offer data analytics programs that could prepare students for entry-level positions in data science and analytics.  To create new pathways into data science and analytics careers, this project intends to establish a college credit-based certificate in data analytics.  In concert with this goal, it also aims to increase the College’s capacity for high quality data science instruction and to broaden participation in data science, with a focus on inclusion of women.  In addition to its potential to increase the capacity and quality of the data science workforce in New Jersey, the project may also provide a model for other institutions that are interested in building new data science programs. &lt;br/&gt;&lt;br/&gt;The major goal of the project is to develop a 15-credit data science certificate that integrates technology such as R, Tableau, Python, and SQL into the curriculum.  Less than 20 community college-based data science programs appear to exist in the US, and this certificate is believed to be the first at any community college in the greater New York/New Jersey metropolitan area.  The curriculum will be informed by an industry advisory committee and implement national recommendations for data science education, including teaching statistics thinking, integrating real data with a context and a purpose, and using project-based learning.  The project intends to recruit women into the field through collaboration with the College’s Women in STEM Club, R-Ladies Global, and faculty development.  The resulting certification will prepare students to enter the workforce as data analytics professionals, or to transfer to four-year programs where they can acquire the advanced credentials needed for mid- to high-level data scientist positions.  This project is funded by the Advanced Technological Education program that focuses on the education of technicians for the advanced-technology fields that drive the nation's economy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2000887</AwardID>
+<Investigator>
+<FirstName>Nancy</FirstName>
+<LastName>Binowski</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nancy E Binowski</PI_FULL_NAME>
+<EmailAddress><![CDATA[nbinowski@ccm.edu]]></EmailAddress>
+<NSF_ID>000199847</NSF_ID>
+<StartDate>04/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kelly</FirstName>
+<LastName>Fitzpatrick</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kelly J Fitzpatrick</PI_FULL_NAME>
+<EmailAddress><![CDATA[kfitzpatrick@ccm.edu]]></EmailAddress>
+<NSF_ID>000779625</NSF_ID>
+<StartDate>04/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[County College of Morris]]></Name>
+<CityName>RANDOLPH</CityName>
+<ZipCode>078692007</ZipCode>
+<PhoneNumber>9733285000</PhoneNumber>
+<StreetAddress><![CDATA[214 CENTER GROVE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XB7VLJUENGP7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COUNTY COLLEGE OF MORRIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[County College of Morris]]></Name>
+<CityName>Randolph</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>078692086</ZipCode>
+<StreetAddress><![CDATA[214 Center Grove Rd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>741200</Code>
+<Text>Advanced Tech Education Prog</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~235277</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The County College of Morris was awarded &ldquo;Expanding Pathways to a Data Science Career by Developing a Certification in Data Science and Analytics&rdquo;&nbsp;(NSF ATE Award 2000887) on 2020. This grant supported the development of a 16-credit certificate and two new degrees (AS Computer Science Data Science Option and AAS Information Technology Data Science Track). Four new courses were created: MAT 114 Introduction to Data Science, CMP 131 Fundamentals of Programming (Python I) and CMP 262 Data Science Programming and ENR 264 Machine Learning. The outreach and enrollment in these courses have been well established as enrollment has been very healthy. As of Fall 2023 there are over fifty students registered for the Data Analytics Certificate. The curriculum was developed with input from an industry advisory board consisting of partners such as Intel, Atlantic Health, ADP, Moody&rsquo;s and Bayer.</p> <p>The success of the Data Science program has been measured by new opportunities created for our students. Students have participated in the Women in Statistics and Data Science Conference, ASA DataFest and new internships offered by Fiserv, Atlantic Health, CCM Institutional Research, Cranium AI and Talon Biomarkers. Students are now proficient in industry technologies such as R, Tableau and Python. Students have successfully completed the certificate and transferred to our four-year partner Ramapo College. On February 2, 2023, CCM and Ramapo signed the first articulation agreement in NJ for Data Science allowing students to seamlessly transfer into the 2+2+1 data science program.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/10/2024<br> Modified by: Kelly&nbsp;J&nbsp;Fitzpatrick</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2000887/2000887_10663228_1720653483160_INFO_Pathways_in_Data_Science_01_2022_ASA_Datafest--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2000887/2000887_10663228_1720653483160_INFO_Pathways_in_Data_Science_01_2022_ASA_Datafest--rgov-800width.jpg" title="ASA Datafest Student Competition 2022"><img src="/por/images/Reports/POR/2024/2000887/2000887_10663228_1720653483160_INFO_Pathways_in_Data_Science_01_2022_ASA_Datafest--rgov-66x44.jpg" alt="ASA Datafest Student Competition 2022"></a> <div class="imageCaptionContainer"> <div class="imageCaption">ASA Datafest Student Competition 2022</div> <div class="imageCredit">County College of Morris</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kelly&nbsp;J&nbsp;Fitzpatrick <div class="imageTitle">ASA Datafest Student Competition 2022</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2000887/2000887_10663228_1720654635145_INFO_Pathways_in_Data_Science_04_Female_Students--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2000887/2000887_10663228_1720654635145_INFO_Pathways_in_Data_Science_04_Female_Students--rgov-800width.jpg" title="Women in Statistics and Data Science Conference"><img src="/por/images/Reports/POR/2024/2000887/2000887_10663228_1720654635145_INFO_Pathways_in_Data_Science_04_Female_Students--rgov-66x44.jpg" alt="Women in Statistics and Data Science Conference"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Female students attend the Women in Statistics and Data Science Conference.</div> <div class="imageCredit">County College of Morris</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kelly&nbsp;J&nbsp;Fitzpatrick <div class="imageTitle">Women in Statistics and Data Science Conference</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2000887/2000887_10663228_1720653220701_INFO_Pathways_in_Data_Science_05_MAA_Conference--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2000887/2000887_10663228_1720653220701_INFO_Pathways_in_Data_Science_05_MAA_Conference--rgov-800width.jpg" title="MAA Conference Poster Session"><img src="/por/images/Reports/POR/2024/2000887/2000887_10663228_1720653220701_INFO_Pathways_in_Data_Science_05_MAA_Conference--rgov-66x44.jpg" alt="MAA Conference Poster Session"></a> <div class="imageCaptionContainer"> <div class="imageCaption">MAA Conference Poster Session with Ramapo College, County College of Morris and the first student to graduate with a Data Analytics Certificate.</div> <div class="imageCredit">County College of Morris</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kelly&nbsp;J&nbsp;Fitzpatrick <div class="imageTitle">MAA Conference Poster Session</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2000887/2000887_10663228_1720653780876_INFO_Pathways_in_Data_Science_02_2023_ASA_Datafest--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2000887/2000887_10663228_1720653780876_INFO_Pathways_in_Data_Science_02_2023_ASA_Datafest--rgov-800width.jpg" title="ASA Datafest Student Competition 2023"><img src="/por/images/Reports/POR/2024/2000887/2000887_10663228_1720653780876_INFO_Pathways_in_Data_Science_02_2023_ASA_Datafest--rgov-66x44.jpg" alt="ASA Datafest Student Competition 2023"></a> <div class="imageCaptionContainer"> <div class="imageCaption">ASA Datafest Student Competition 2023</div> <div class="imageCredit">County College of Morris</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kelly&nbsp;J&nbsp;Fitzpatrick <div class="imageTitle">ASA Datafest Student Competition 2023</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2000887/2000887_10663228_1720653637274_INFO_Pathways_in_Data_Science_03_Ramapo_Articulation--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2000887/2000887_10663228_1720653637274_INFO_Pathways_in_Data_Science_03_Ramapo_Articulation--rgov-800width.jpg" title="Signing of Data Science Articulation Agreement"><img src="/por/images/Reports/POR/2024/2000887/2000887_10663228_1720653637274_INFO_Pathways_in_Data_Science_03_Ramapo_Articulation--rgov-66x44.jpg" alt="Signing of Data Science Articulation Agreement"></a> <div class="imageCaptionContainer"> <div class="imageCaption">County College of Morris and Ramapo College sign the first 2+2+1 Articulation Agreement for Data Science in NJ.</div> <div class="imageCredit">County College of Morris</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kelly&nbsp;J&nbsp;Fitzpatrick <div class="imageTitle">Signing of Data Science Articulation Agreement</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The County College of Morris was awarded Expanding Pathways to a Data Science Career by Developing a Certification in Data Science and Analytics(NSF ATE Award 2000887) on 2020. This grant supported the development of a 16-credit certificate and two new degrees (AS Computer Science Data Science Option and AAS Information Technology Data Science Track). Four new courses were created: MAT 114 Introduction to Data Science, CMP 131 Fundamentals of Programming (Python I) and CMP 262 Data Science Programming and ENR 264 Machine Learning. The outreach and enrollment in these courses have been well established as enrollment has been very healthy. As of Fall 2023 there are over fifty students registered for the Data Analytics Certificate. The curriculum was developed with input from an industry advisory board consisting of partners such as Intel, Atlantic Health, ADP, Moodys and Bayer.   The success of the Data Science program has been measured by new opportunities created for our students. Students have participated in the Women in Statistics and Data Science Conference, ASA DataFest and new internships offered by Fiserv, Atlantic Health, CCM Institutional Research, Cranium AI and Talon Biomarkers. Students are now proficient in industry technologies such as R, Tableau and Python. Students have successfully completed the certificate and transferred to our four-year partner Ramapo College. On February 2, 2023, CCM and Ramapo signed the first articulation agreement in NJ for Data Science allowing students to seamlessly transfer into the 2+2+1 data science program.           Last Modified: 07/10/2024       Submitted by: KellyJFitzpatrick]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

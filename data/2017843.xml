@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MSA: Integrating biodiversity observations with airborne and satellite data to predict shifts in assemblage diversity and composition under global change]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>299375.00</AwardTotalIntnAmount>
+<AwardAmount>299375</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Kane</SignBlockName>
+<PO_EMAI>mkane@nsf.gov</PO_EMAI>
+<PO_PHON>7032927186</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Biodiversity—the living fabric of our planet—is rapidly changing due to alterations in the climate and human activities. These rapid changes are negatively impacting the capacity of ecosystems to provide goods and services to humanity. The development of new ways to characterize and monitor biodiversity that take advantage of advancing remote sensing technologies is critical for developing effective management strategies and conservation actions to address global change. The project will evaluate the capacity of airborne and satellite remote sensing data to produce reliable predictions of plant and bird diversities across the conterminous United States. The broader impacts of this project include several components. First, the project will provide scientific and professional development of an early-stage scientist from an underrepresented group. Second, the project will contribute to the training the next generation of STEM researchers to investigate biodiversity in the Anthropocene. Third, the project scientists will engage the public in biodiversity education through the integration of project results into an undergraduate and graduate course in Biodiversity Science at the University of Minnesota. Fourth, the project will contribute to advancing international efforts to assess and monitor biodiversity globally. Finally, researchers will distribute open-source software to the world-wide research community through online repositories, fostering reproducibility.&lt;br/&gt;&lt;br/&gt;The project combines theory and novel methods from different disciplines—including macroecology, community ecology and imaging spectroscopy—to understand the potential of remote sensing data in predicting and monitoring biodiversity. Specifically, researchers will test the hypothesis that diversity measures derived from remote sensing can be used as surrogates of other measures of biodiversity and hence for monitoring biodiversity at large spatial extents. The project addresses important gaps in our ability to predict species distributions and assemblage composition. New insights will be gained for understanding the potential of measures derived from remote sensing—such as spectral alpha and beta diversity—for the prediction of species distributions and assemblage composition. In doing so, the project will contribute to the development of novel approaches for biodiversity monitoring across time and space. Overall, the project provides a flexible framework that allows the integration of multiple means of predicting and detecting species and advances efforts to monitor changes in biodiversity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2017843</AwardID>
+<Investigator>
+<FirstName>Jeannine</FirstName>
+<LastName>Cavender-Bares</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeannine M Cavender-Bares</PI_FULL_NAME>
+<EmailAddress><![CDATA[jcavender@fas.harvard.edu]]></EmailAddress>
+<NSF_ID>000282427</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jesús</FirstName>
+<LastName>Pinto-Ledezma</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jesús N Pinto-Ledezma</PI_FULL_NAME>
+<EmailAddress><![CDATA[jpintole@umn.edu]]></EmailAddress>
+<NSF_ID>000818028</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota]]></Name>
+<CityName>Saint Paul</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>551081041</ZipCode>
+<StreetAddress><![CDATA[Department of Ecology, Evolution]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>795900</Code>
+<Text>MacroSysBIO &amp; NEON-Enabled Sci</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~299375</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>"This Project Outcomes Report for the General Public is displayed verbatim as submitted by the Principal Investigator (PI) for this award. Any opinions, findings, and conclusions or recommendations expressed in this Report are those of the PI and do not necessarily reflect the views of the National Science Foundation; NSF has not approved or endorsed its content."</p> <p><strong>Intellectual Merit:&nbsp;</strong>In this project, we harnessed in situ and Earth observations to build models that allow the assessment of biodiversity at a range of spatial scales and levels of biological organization&mdash;from species and lineages to ecological communities. Our team evaluated the performance of next-generation species distribution models (ng-SDMs) that use Earth observations as predictors to predict the distribution of oak species at continental scale and the composition of oak communities at local and regional scales. The ng-SDMs accurately predicted the distribution of oak species and their composition at large spatial scales. However, the accuracy of our predictions decreased when composition was evaluated at a local scale. These results highlight the importance of considering the spatial scale in the construction of biodiversity models and in the assessment of species distributions. We further evaluated the extent to which spectral metrics derived from remotely sensed imaging spectroscopy can predict ground-based metrics of multiple dimensions&mdash;that is, taxonomy, traits, and phylogeny&mdash;of plant biodiversity. We found strong and positive associations between spectral-based and ground-based metrics of plant biodiversity. Spectral-based metrics, in addition, accurately and consistently predicted metrics based on in situ observations. Ultimately, this project's findings may help pave the road for assessing species distributions and ecological communities through time and space, a pivotal hurdle to overcome necessary to study and characterize biodiversity in an era of rapid global change.</p> <p>The research also introduced the phylogenetic completeness (PC) framework, an accounting framework that allows the identification of targets (unique branches in the Tree of Life) for eco-evolutionary questions. The PC framework complements existing research and conservation efforts and is directly relevant to the targets of the Kunming-Montreal Global Biodiversity Framework established by the Convention on Biological Diversity.</p> <p><strong>Broader Impacts:&nbsp;</strong>This research project supported the work of an early career scientist who worked with ecologists, conservationists, and remote sensing specialists to integrate in situ and Earth observations to develop biodiversity models. He received professional mentoring and training and gained experience in teaching and university service. The research was widely disseminated through invited keynote presentations and seminars and contributed presentations. Among the invited presentations are a keynote presentation at the World Biodiversity Forum in Davos, Switzerland, and a presentation at the National Academies of Sciences, Engineering, and Medicine (NASEM) public information-gathering session &ldquo;Paving the Way for Continental Scale Biology: Technology, Techniques, and Teamwork for Connecting Research Across Scales&rdquo; Importantly, the research was fundamental for the implementation of laboratory sessions of the upper-level course Biodiversity Science at the University of Minnesota. Several hands-on training sessions in macroecological and phylogenetic comparative methods benefited undergraduate, graduate, and postdoctoral researchers.</p><br> <p>  Last Modified: 08/31/2024<br> Modified by: Jesús&nbsp;N&nbsp;Pinto-Ledezma</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  "This Project Outcomes Report for the General Public is displayed verbatim as submitted by the Principal Investigator (PI) for this award. Any opinions, findings, and conclusions or recommendations expressed in this Report are those of the PI and do not necessarily reflect the views of the National Science Foundation; NSF has not approved or endorsed its content."   Intellectual Merit:In this project, we harnessed in situ and Earth observations to build models that allow the assessment of biodiversity at a range of spatial scales and levels of biological organizationfrom species and lineages to ecological communities. Our team evaluated the performance of next-generation species distribution models (ng-SDMs) that use Earth observations as predictors to predict the distribution of oak species at continental scale and the composition of oak communities at local and regional scales. The ng-SDMs accurately predicted the distribution of oak species and their composition at large spatial scales. However, the accuracy of our predictions decreased when composition was evaluated at a local scale. These results highlight the importance of considering the spatial scale in the construction of biodiversity models and in the assessment of species distributions. We further evaluated the extent to which spectral metrics derived from remotely sensed imaging spectroscopy can predict ground-based metrics of multiple dimensionsthat is, taxonomy, traits, and phylogenyof plant biodiversity. We found strong and positive associations between spectral-based and ground-based metrics of plant biodiversity. Spectral-based metrics, in addition, accurately and consistently predicted metrics based on in situ observations. Ultimately, this project's findings may help pave the road for assessing species distributions and ecological communities through time and space, a pivotal hurdle to overcome necessary to study and characterize biodiversity in an era of rapid global change.   The research also introduced the phylogenetic completeness (PC) framework, an accounting framework that allows the identification of targets (unique branches in the Tree of Life) for eco-evolutionary questions. The PC framework complements existing research and conservation efforts and is directly relevant to the targets of the Kunming-Montreal Global Biodiversity Framework established by the Convention on Biological Diversity.   Broader Impacts:This research project supported the work of an early career scientist who worked with ecologists, conservationists, and remote sensing specialists to integrate in situ and Earth observations to develop biodiversity models. He received professional mentoring and training and gained experience in teaching and university service. The research was widely disseminated through invited keynote presentations and seminars and contributed presentations. Among the invited presentations are a keynote presentation at the World Biodiversity Forum in Davos, Switzerland, and a presentation at the National Academies of Sciences, Engineering, and Medicine (NASEM) public information-gathering session Paving the Way for Continental Scale Biology: Technology, Techniques, and Teamwork for Connecting Research Across Scales Importantly, the research was fundamental for the implementation of laboratory sessions of the upper-level course Biodiversity Science at the University of Minnesota. Several hands-on training sessions in macroecological and phylogenetic comparative methods benefited undergraduate, graduate, and postdoctoral researchers.     Last Modified: 08/31/2024       Submitted by: JesúsNPinto-Ledezma]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

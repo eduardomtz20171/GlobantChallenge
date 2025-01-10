@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: A Hierarchical Multidimensional Network-based Approach for Multi-Competitor Product Design]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>484538.00</AwardTotalIntnAmount>
+<AwardAmount>516745</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+<PO_EMAI>gaklutke@nsf.gov</PO_EMAI>
+<PO_PHON>7032922443</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The objective of this research is to investigate what product customers consider and what they eventually purchase using a hierarchical, multidimensional network-based design approach. Motivated by the need to model socio-technical interactions in engineering design, this research combines design theory with network science to explore three interrelated topics: 1) two-stage multidimensional network models for customer preference modeling that consider product associations and social influence; 2) dynamic network models for predicting the impact of multi-competitor strategic decisions, and 3) knowledge transfer to demonstrate generalizability and creation of shared data resources to benefit research community. This project will advance design theories of complex systems and develop quantitative methods for modeling socio-technical interactions in engineering design. Integrated with enterprise-driven design, the methods developed will enhance US industry’s competitiveness within changing markets. The test cases include a primary case study on the design of electric vehicles and small SUVs and a secondary case study on the design of household products. The project will also foster student training in data science, network science and Artificial Intelligence, with particular emphasis on the participation of underrepresented groups, females, and undergraduates.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this research is manifested in four aspects. First, the hierarchical network model studies customers’ consideration and choice as distinct, but integrated, behaviors. It identifies distinctive driving factors underlying the consideration and choice stages. Second, this research overcomes the practical challenges of missing data on customers' social networks. The solution relies on an innovative approach to assess how individuals’ preferences are influenced by their own egocentric social contacts through a synergistic integration of autologistic actor attribute model (ALAAM) with the Multidimensional Customer-Product Network (MCPN) framework. Third, using temporal Exponential Random Graph Model (t-ERGM), the dynamic network modeling approach will allow the prediction of future market competition considering the present competition structure and multi-competitor design decisions. Finally, a crowdsourcing-based data collection platform integrating online product data and reviews will be developed for eliciting customer preferences in multi-stage decision making.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/31/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005661</AwardID>
+<Investigator>
+<FirstName>Noshir</FirstName>
+<LastName>Contractor</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Noshir S Contractor</PI_FULL_NAME>
+<EmailAddress><![CDATA[nosh@northwestern.edu]]></EmailAddress>
+<NSF_ID>000470079</NSF_ID>
+<StartDate>01/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wei Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[weichen@northwestern.edu]]></EmailAddress>
+<NSF_ID>000492587</NSF_ID>
+<StartDate>01/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress><![CDATA[633 CLARK ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>Evanston</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602083111</ZipCode>
+<StreetAddress><![CDATA[2145 Sheridan Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>072Y00</Code>
+<Text>EDSE-Engineering Design and Sy</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>150400</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>067E</Code>
+<Text>DESIGN TOOLS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>068E</Code>
+<Text>DESIGN THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~500538</FUND_OBLG>
+<FUND_OBLG>2021~16207</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-68b5728e-7fff-2efb-e3ae-f88a510fd5e8"> </span></p> <p dir="ltr">Our research advances the use of network theory in engineering design to understand complex socio-technical interactions, particularly in establishing quantitative methods for &ldquo;modeling customer preference&rdquo; and &ldquo;social interactions&rdquo; to support &ldquo;strategic decision-making.&rdquo;&nbsp; Our contributions lie in three major aspects: (1) considering the multi-stage nature of customer decisions, (2) modeling dynamic competition relations, and (3) understanding how social influence impacts customer decisions. The outcomes of our research are summarized in several different areas.</p> <p dir="ltr">Multiple-stage Customer Decisions (Hierarchical Multidimensional Consideration-then-Choice Models)</p> <p dir="ltr"><span>We </span><span>developed a multi-stage market-segmented network modeling approach, guided by customer preference, to explore heterogeneity in customers' two-stage decision-making process: consideration-then-choice. In this method, customers are segmented into groups based on preferences rather than just characteristics, allowing for more accurate choice modeling.&nbsp; By conducting surveys on vacuum cleaners and car purchases, respectively, our method detected different customer preferences for the same product attribute at different decision-making stages. F</span><span>or example, in a vehicle purchase, fuel consumption is crucial during the consideration stage, while the origin of the car brand (domestic vs. foreign) and production location significantly impact the final choice. We also discovered that qualitative aspects of a car, such as brand reputation and design, often matter more to buyers than quantitative specifications like horsepower. </span><span>Our study underscores the vital role of preference-guided segmentation in product design, illustrating how a deeper understanding of customer preferences at different decision stages can inform and refine design strategies, ensuring products are more closely aligned with the dynamic needs and tastes of diverse markets.</span></p> <p dir="ltr">Product Competition (Weighted Network Models for Market Competition)</p> <p dir="ltr"><span>We created a new way to predict how products compete and their market share. Our approach uses Exponential Random Graph Models (ERGMs), but we extended them to include "weighted" relationships. This means we can account for how strongly products compete, not just whether they compete. We represented product competition as a network where products are connected if they compete, and the connection's strength indicates the competition level. Analyzing customer purchase patterns allowed us to predict these competition networks more accurately than previous binary network methods.</span></p> <p dir="ltr">Social Influence (Flexible Bayesian Inference for Social Influence with Missing Data)</p> <p dir="ltr"><span>We developed a way to understand how people influence each other's choices, even when we don't have all the information about their connections. Our approach can fill in missing information about social connections, indicate confidence in our social influence predictions, and function effectively despite significant data gaps. This advancement is crucial for real-life scenarios where complete social network information is often unavailable.</span></p> <p dir="ltr">Future Product Competition (Graph Neural Networks for Product Competition Prediction)</p> <p dir="ltr"><span>We utilized artificial intelligence, specifically graph neural networks, to predict future product competition. This method can handle various product features simultaneously, make predictions about new products not present in the original data, and demonstrate how changing specific product features might affect competition. When applied to the Chinese car market, our model was twice as accurate as traditional methods in predicting product competition.</span></p> <p dir="ltr">Broader Impacts</p> <p dir="ltr"><span>The research tools we developed can be applied beyond product design, such as understanding decision-making in healthcare and idea propagation on social media. Our improved prediction methods can assist companies in making better product design and marketing strategy decisions. By publicly sharing our data and publishing a journal article in </span><span>Data-in-Brief</span><span>, we facilitate other researchers in verifying our results and building upon our work, potentially leading to further discoveries in the future.</span></p> <p dir="ltr">Our project has significantly advanced the understanding of consumer behavior and market competition, offering practical tools and methods that benefit academic research and industry applications. The project has also provided interdisciplinary training to a diversified group of 12 doctoral and undergraduate students across three institutions (two in US and one international), with 75% being women.</p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/04/2024<br> Modified by: Wei&nbsp;Chen</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      Our research advances the use of network theory in engineering design to understand complex socio-technical interactions, particularly in establishing quantitative methods for modeling customer preference and social interactions to support strategic decision-making. Our contributions lie in three major aspects: (1) considering the multi-stage nature of customer decisions, (2) modeling dynamic competition relations, and (3) understanding how social influence impacts customer decisions. The outcomes of our research are summarized in several different areas.   Multiple-stage Customer Decisions (Hierarchical Multidimensional Consideration-then-Choice Models)   We developed a multi-stage market-segmented network modeling approach, guided by customer preference, to explore heterogeneity in customers' two-stage decision-making process: consideration-then-choice. In this method, customers are segmented into groups based on preferences rather than just characteristics, allowing for more accurate choice modeling. By conducting surveys on vacuum cleaners and car purchases, respectively, our method detected different customer preferences for the same product attribute at different decision-making stages. For example, in a vehicle purchase, fuel consumption is crucial during the consideration stage, while the origin of the car brand (domestic vs. foreign) and production location significantly impact the final choice. We also discovered that qualitative aspects of a car, such as brand reputation and design, often matter more to buyers than quantitative specifications like horsepower. Our study underscores the vital role of preference-guided segmentation in product design, illustrating how a deeper understanding of customer preferences at different decision stages can inform and refine design strategies, ensuring products are more closely aligned with the dynamic needs and tastes of diverse markets.   Product Competition (Weighted Network Models for Market Competition)   We created a new way to predict how products compete and their market share. Our approach uses Exponential Random Graph Models (ERGMs), but we extended them to include "weighted" relationships. This means we can account for how strongly products compete, not just whether they compete. We represented product competition as a network where products are connected if they compete, and the connection's strength indicates the competition level. Analyzing customer purchase patterns allowed us to predict these competition networks more accurately than previous binary network methods.   Social Influence (Flexible Bayesian Inference for Social Influence with Missing Data)   We developed a way to understand how people influence each other's choices, even when we don't have all the information about their connections. Our approach can fill in missing information about social connections, indicate confidence in our social influence predictions, and function effectively despite significant data gaps. This advancement is crucial for real-life scenarios where complete social network information is often unavailable.   Future Product Competition (Graph Neural Networks for Product Competition Prediction)   We utilized artificial intelligence, specifically graph neural networks, to predict future product competition. This method can handle various product features simultaneously, make predictions about new products not present in the original data, and demonstrate how changing specific product features might affect competition. When applied to the Chinese car market, our model was twice as accurate as traditional methods in predicting product competition.   Broader Impacts   The research tools we developed can be applied beyond product design, such as understanding decision-making in healthcare and idea propagation on social media. Our improved prediction methods can assist companies in making better product design and marketing strategy decisions. By publicly sharing our data and publishing a journal article in Data-in-Brief, we facilitate other researchers in verifying our results and building upon our work, potentially leading to further discoveries in the future.   Our project has significantly advanced the understanding of consumer behavior and market competition, offering practical tools and methods that benefit academic research and industry applications. The project has also provided interdisciplinary training to a diversified group of 12 doctoral and undergraduate students across three institutions (two in US and one international), with 75% being women.             Last Modified: 08/04/2024       Submitted by: WeiChen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

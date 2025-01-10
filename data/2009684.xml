@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Exploiting Nanoscale Interfaces to Enhance Bulk Mechanical Response of Additively Manufactured Boron Nitride Nanotube-Metal Composites]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>335546.00</AwardTotalIntnAmount>
+<AwardAmount>335546</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kiran Solanki</SignBlockName>
+<PO_EMAI>ksolanki@nsf.gov</PO_EMAI>
+<PO_PHON>7022924526</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Although additive manufacturing of metals is revolutionizing design of materials and the parts made from them, the measured mechanical properties, such as strength and toughness, exhibit significant scatter, leading to unpredictable and potentially catastrophic failure behaviors. This award supports fundamental research to elucidate how small percentages of nanofillers in additively manufactured metals enhance the mechanical properties, thus improving reliability and enabling widespread engineering use. This progress could transform 3D printing technologies and invigorate the manufacturing competitiveness of the United States. Additionally, this research will train a diverse group of graduate and undergraduate students in the multidisciplinary areas of materials design, mechanics of materials, as well as multiscale experiments and computations. The research results will also form the basis of a new lecture series on 3D-printed nanocomposites as future aerospace materials for K-12 summer camp students.&lt;br/&gt;&lt;br/&gt;The presence of voiding defects, which degrades material performance and introduces property variations within the material, is an inherent weakness of additively manufactured metals. To overcome this limitation, this research aims to investigate the reinforcement of additively manufactured aluminum matrices with boron nitride nanotubes because of the multiscale strengthening and toughening mechanisms emanating at the nanotube-metal interface. The interfacial strength under different processing conditions will be directly quantified by nanomechanical pull-out of individual nanotubes embedded within additively manufactured metal films, with the help of in situ electron microscopy. The finer nanotube-metal interfacial details that are not accessible by experiments, such as the complex reaction products formed at the nanotube-metal interface, will be characterized by density functional theory calculations. The nanotube-matrix interfacial properties together with matrix porosity measurements arising from processing, will then be incorporated into finite element models of representative volume element to further elucidate the failure mechanisms of the additively manufactured nanocomposite specimens.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009684</AwardID>
+<Investigator>
+<FirstName>Huck Beng</FirstName>
+<LastName>Chew</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Huck Beng Chew</PI_FULL_NAME>
+<EmailAddress><![CDATA[hbchew@illinois.edu]]></EmailAddress>
+<NSF_ID>000601429</NSF_ID>
+<StartDate>07/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>V2PHZ2CSCH63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>Urbana</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>610813620</ZipCode>
+<StreetAddress><![CDATA[506 S. Wright Street,]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>088Y00</Code>
+<Text>AM-Advanced Manufacturing</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>163000</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>013E</Code>
+<Text>MULTI-SCALE MODELING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>027E</Code>
+<Text>NANOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~335546</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The presence of microstructural defects resulting in unpredictable failure behavior has limited the use of additively-manufactured (AM) metals in structural applications. In addition to the background pores (2-12 &mu;m) nucleated from particle inclusions responsible for ductile fracture in conventional metals, larger defects (20-50 &mu;m) can be introduced during additive manufacturing resulting in a dual-scale porosity failure process in AM metals. In this project, we develop micromechanics-based fracture models to elucidate the role of dual-scale porosity in the fracture and failure response of the AM metal. Results show that AM defects can contribute to an increased apparent toughness of the AM metal over its conventional counterpart by activating isolated and/or clustered damage zones surrounding the crack, which shields and blunts the crack-tip and promotes crack tortuosity. However, the presence of planar clusters of AM defects can also accelerate crack growth and cause premature failure&nbsp;by forming preferential crack paths. In view of these findings, we assess the ability of artificial neural networks (ANNs) for machine learning to predict the crack paths in the dual-scale porosity medium representative of AM metals, where pre-existing processing voids grow with deformation and link up with the primary crack either contiguously or through the formation of multiple unconnected damage zones. The complex crack patterns for both these ductile fracture&nbsp;processes are successfully captured by an ANN, trained on the cracking sequences in our two-scale porosity fracture models.&nbsp;In addition, the ANN architecture&nbsp;is capable of predicting stochastic crack growth in the AM metal, by providing a multiplicity of possible crack paths, along with a quantified likelihood of each path. Results further demonstrate the utility of autonomous crack path predictions in enabling fracture-by-design.</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our dual-scale porosity studies show that the measured mechanical properties of AM metals exhibit significant scatter because of the presence of the processing voids. To overcome this, we introduce nanotubes within the AM metal matrix to quantify potential enhancements to the mechanical properties and to elucidate the strengthening and toughening mechanisms. From direct strength property measurements conducted along boron nitride nanotube (BNNT) aluminum (Al) composite interface with in situ scanning electron microscopy single-nanotube pullout techniques, complemented with density functional theory (DFT) calculations, we show that the BNNT-Al interface possess extremely high interfacial shear strength, which is over 60% stronger than a comparable carbon nanotube (CNT)-Al interface. This strong interface enables significant loading of the nanotube&nbsp;during pull-out from the metal matrix with a generated maximum tensile stress&nbsp;close to its intrinsic strength limit. The exceptional Al-BNNT strength properties can be attributed to a partially oxidized metal-nanotube binding interface, which has important implications for optimizing the local interfacial load transfer and bulk properties of BNNT-metal nanocomposites.</p> <p><strong><em>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</em></strong>The research has paved the way for modeling of the dual-scale porosities in AM metals at the microstructural level, as well as the nanotube-matrix interfacial response at the nanoscale. Results of this study have significant implications in the notion of fracture-by-design of AM composites, targeted at improving the fracture toughness and energy dissipation of these AM composites over conventional materials through strategic AM void placements. Research results have been incorporated in existing coursework at the University of Illinois, as well as in a course offered at the Danville Correction Facility as part of the Education Justice Project. This grant was used in part to support a M.S. minority student and one Ph.D. student. A total of 8 journal articles has been published, with 1 paper currently under review.</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/13/2024<br> Modified by: Huck Beng&nbsp;Chew</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The presence of microstructural defects resulting in unpredictable failure behavior has limited the use of additively-manufactured (AM) metals in structural applications. In addition to the background pores (2-12 m) nucleated from particle inclusions responsible for ductile fracture in conventional metals, larger defects (20-50 m) can be introduced during additive manufacturing resulting in a dual-scale porosity failure process in AM metals. In this project, we develop micromechanics-based fracture models to elucidate the role of dual-scale porosity in the fracture and failure response of the AM metal. Results show that AM defects can contribute to an increased apparent toughness of the AM metal over its conventional counterpart by activating isolated and/or clustered damage zones surrounding the crack, which shields and blunts the crack-tip and promotes crack tortuosity. However, the presence of planar clusters of AM defects can also accelerate crack growth and cause premature failureby forming preferential crack paths. In view of these findings, we assess the ability of artificial neural networks (ANNs) for machine learning to predict the crack paths in the dual-scale porosity medium representative of AM metals, where pre-existing processing voids grow with deformation and link up with the primary crack either contiguously or through the formation of multiple unconnected damage zones. The complex crack patterns for both these ductile fractureprocesses are successfully captured by an ANN, trained on the cracking sequences in our two-scale porosity fracture models.In addition, the ANN architectureis capable of predicting stochastic crack growth in the AM metal, by providing a multiplicity of possible crack paths, along with a quantified likelihood of each path. Results further demonstrate the utility of autonomous crack path predictions in enabling fracture-by-design.    Our dual-scale porosity studies show that the measured mechanical properties of AM metals exhibit significant scatter because of the presence of the processing voids. To overcome this, we introduce nanotubes within the AM metal matrix to quantify potential enhancements to the mechanical properties and to elucidate the strengthening and toughening mechanisms. From direct strength property measurements conducted along boron nitride nanotube (BNNT) aluminum (Al) composite interface with in situ scanning electron microscopy single-nanotube pullout techniques, complemented with density functional theory (DFT) calculations, we show that the BNNT-Al interface possess extremely high interfacial shear strength, which is over 60% stronger than a comparable carbon nanotube (CNT)-Al interface. This strong interface enables significant loading of the nanotubeduring pull-out from the metal matrix with a generated maximum tensile stressclose to its intrinsic strength limit. The exceptional Al-BNNT strength properties can be attributed to a partially oxidized metal-nanotube binding interface, which has important implications for optimizing the local interfacial load transfer and bulk properties of BNNT-metal nanocomposites.      The research has paved the way for modeling of the dual-scale porosities in AM metals at the microstructural level, as well as the nanotube-matrix interfacial response at the nanoscale. Results of this study have significant implications in the notion of fracture-by-design of AM composites, targeted at improving the fracture toughness and energy dissipation of these AM composites over conventional materials through strategic AM void placements. Research results have been incorporated in existing coursework at the University of Illinois, as well as in a course offered at the Danville Correction Facility as part of the Education Justice Project. This grant was used in part to support a M.S. minority student and one Ph.D. student. A total of 8 journal articles has been published, with 1 paper currently under review.        Last Modified: 08/13/2024       Submitted by: Huck BengChew]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

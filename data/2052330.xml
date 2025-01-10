@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Personalized Self-Paced STEM Education Tool]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to improve education in science, technology, engineering, and mathematics (STEM). The proposed project develops a personalized tutoring tool using artificial intelligence, teaching the skill to translate word problems into mathematical expressions. This system will identify areas of weaknesses in interpretation of word problems, then create associated drills. This can be used at various educational stages to help recruit and retain students in STEM disciplines.  &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project develops an artificial intelligence tool to assess student understanding of word problems and develop associated tools for student drills. The initial application will be supplementary materials for undergraduate thermodynamics courses, but the process is applicable to STEM education at all levels.  The system has a testing capability to gather data on student performance and develop a customized response.  This system will advance techniques for self-paced supplementary education to increase STEM student retention.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052330</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Clark</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason Clark</PI_FULL_NAME>
+<EmailAddress><![CDATA[jvclark13@gmail.com]]></EmailAddress>
+<NSF_ID>000647517</NSF_ID>
+<StartDate>08/24/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Sugarcube Systems]]></Name>
+<CityName>CORVALLIS</CityName>
+<ZipCode>973302276</ZipCode>
+<PhoneNumber>7655436709</PhoneNumber>
+<StreetAddress><![CDATA[2299 NW HUMMINGBIRD DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T4H6G3WFRZ35</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SUGARCUBE SYSTEMS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Sugarcube Systems]]></Name>
+<CityName>Auburn</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>368305756</ZipCode>
+<StreetAddress><![CDATA[285 Ivy Lane]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1707</Code>
+<Text>ADVANCED LEARNING TECHNOLOGIES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>SBIR Phase I - Project Outcomes Report:</strong></p>  <p><strong>&nbsp;</strong></p>  <p><strong>Personalized Self-Paced STEM Education Tool</strong></p>  <p>Jason Clark, Sugarcube Systems</p>  <p>&nbsp;</p>  <p><strong>Proposal #2052330</strong></p>  <p>Solicitation Year: 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Start Date: 2021-09-01</p>  <p>Award Year: 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; End Date: 2022-02-28</p>  <p><strong>&nbsp;</strong></p>  <p>This NSF Small Business Innovation Research (SBIR) Phase I project made progress in determining how to derive solution paths to difficult problems in thermodynamics based on the specifications of the problem. This knowledge was implemented in an online tool to enhance personalized learning in STEM education. By addressing persistent challenges, such as translating word problems into mathematical expressions and solving a diverse array of thermodynamics problems, the project contributed insights and advancements to personalized learning at the college level. This work represents a significant step forward in improving personalized learning for STEM education, and it highlights the challenges and needs for improvements in student retention and caliber.</p>  <p>&nbsp;</p>  <p><strong>Intellectual Merit</strong></p>  <p>&nbsp;</p>  <p>The overarching intellectual accomplishment of this project was the development and validation of Pathway, which is a personalized tutoring tool designed to help students solve arbitrary word problems in thermodynamics. We created solver for this task we call artificial engineering (AE) to address the course-authoring challenge. This has been a challenge in engineering education since the 1970s. Leveraging comprehensive testing with 854 problems from a leading Engineering Thermodynamics textbook, Pathway demonstrated its ability to guide learners through complex solution pathways.</p>  <p>&nbsp;</p>  <p>Pathway&rsquo;s capabilities extend beyond conventional textbook problems by allowing users to model systems with up to eight substances and eight control volumes, each with 24 ports for mass flow, heat, and work inputs and outputs. These capabilities will position Pathway as key resource to integrate theoretical and applied knowledge, assess concept mastery, exam readiness, learning behaviors, and enable educators to refine teaching strategies and improve curriculum design.</p>  <p>&nbsp;</p>  <p><strong>Broader Impacts</strong></p>  <p><strong>&nbsp;</strong></p>  <p>The project aims to address societal challenges that lead to low STEM attraction, retention, and caliber, and diversity. By furthering Pathway into other weed-out courses in other STEM disciplines, there is great potential in transforming STEM education through:</p>  <p>&nbsp;</p>  <ul>  <li><strong>Personalized Learning</strong>: The tool enables      unlimited practice, interactive feedback, and targeted problem-solving      pathways, empowering students to overcome cognitive barriers and      strengthen their understanding of core concepts.</li>  </ul>  <p>&nbsp;</p>  <ul>  <li><strong>Equity in Education</strong>: Pathway&rsquo;s accessibility      ensures that underrepresented groups, including women, minorities, and      economically disadvantaged students, have equal opportunities to excel in      STEM disciplines by priding the additional personalized help and as much      help as needed. This reduces barriers to high-quality learning, and it      levels the playing field for diverse learners.</li>  </ul>  <p>&nbsp;</p>  <ul>  <li><strong>STEM Retention and Workforce Development</strong>: By      addressing the high failure rates in weed-out courses like Engineering      Thermodynamics, Pathway is expected to improve retention and equip      graduates with the skills and confidence needed STEM careers or graduate      education. By increasing the number and quality of STEM graduates, the      project is expected to increase the number of jobs and contribute to      building a more skilled and diverse STEM workforce.</li>  </ul>  <p><strong>&nbsp;</strong></p>  <p><strong>Challenges and Achievements</strong></p>  <p><strong>&nbsp;</strong></p>  <p>Although there were many unforeseen challenges in coding and solver versatility greatly delayed its progress, the project successfully overcame these obstacles through iterative development. By expanding the dataset and refining the solver, Pathway offers more accurate and reliable solutions to a wider variety of STEM problems. These achievements resulted in the creation of a minimum viable product (MVP), which will provide the groundwork and user feedback for future improvements and applications in other STEM disciplines.</p>  <p><strong>&nbsp;</strong></p>  <p><strong>Future Potential</strong></p>  <p>&nbsp;</p>  <p>The project's findings and tools have far-reaching implications beyond STEM education:</p>  <p>&nbsp;</p>  <ul>  <li><strong>Applications Across Disciplines</strong>: Besides      engineering and science, Pathway&rsquo;s personalized learning framework can be      adapted for fields such as statistics, economics, and possibly medicine,      where problem-solving based on mathematical models could be used.</li>  </ul>  <p>&nbsp;</p>  <ul>  <li><strong>Global Impact</strong>: By disseminating through platforms      like YouTube, EdTech, and social platforms, Pathway can reach millions of      students worldwide, including lifelong learners, for personalized STEM      education.</li>  </ul>  <p>&nbsp;</p>  <ul>  <li><strong>Commercial Opportunities</strong>: The tool&rsquo;s elastic      online scalability is amenable to academic term cycles, and there will be      future opportunities for professionals in industry once different STEM      courses and disciplines are integrated into the forthcoming Pathway Pro.</li>  </ul>  <p>&nbsp;</p>  <p>In summary, this project represents a significant step forward in personalized learning through customized problems and scaffolding, with the potential to have a measurable impact in STEM education, retention, caliber, professional training, and real-world applications. The work completed during Phase I provided the foundation necessary for advancing the tool to other difficult STEM courses to positively benefit society.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/18/2024<br> Modified by: Jason&nbsp;Clark</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  SBIR Phase I - Project Outcomes Report:        Personalized Self-Paced STEM Education Tool    Jason Clark, Sugarcube Systems        Proposal #2052330    Solicitation Year: 2020  Start Date: 2021-09-01    Award Year: 2021  End Date: 2022-02-28        This NSF Small Business Innovation Research (SBIR) Phase I project made progress in determining how to derive solution paths to difficult problems in thermodynamics based on the specifications of the problem. This knowledge was implemented in an online tool to enhance personalized learning in STEM education. By addressing persistent challenges, such as translating word problems into mathematical expressions and solving a diverse array of thermodynamics problems, the project contributed insights and advancements to personalized learning at the college level. This work represents a significant step forward in improving personalized learning for STEM education, and it highlights the challenges and needs for improvements in student retention and caliber.        Intellectual Merit        The overarching intellectual accomplishment of this project was the development and validation of Pathway, which is a personalized tutoring tool designed to help students solve arbitrary word problems in thermodynamics. We created solver for this task we call artificial engineering (AE) to address the course-authoring challenge. This has been a challenge in engineering education since the 1970s. Leveraging comprehensive testing with 854 problems from a leading Engineering Thermodynamics textbook, Pathway demonstrated its ability to guide learners through complex solution pathways.        Pathways capabilities extend beyond conventional textbook problems by allowing users to model systems with up to eight substances and eight control volumes, each with 24 ports for mass flow, heat, and work inputs and outputs. These capabilities will position Pathway as key resource to integrate theoretical and applied knowledge, assess concept mastery, exam readiness, learning behaviors, and enable educators to refine teaching strategies and improve curriculum design.        Broader Impacts        The project aims to address societal challenges that lead to low STEM attraction, retention, and caliber, and diversity. By furthering Pathway into other weed-out courses in other STEM disciplines, there is great potential in transforming STEM education through:        Personalized Learning: The tool enables      unlimited practice, interactive feedback, and targeted problem-solving      pathways, empowering students to overcome cognitive barriers and      strengthen their understanding of core concepts.          Equity in Education: Pathways accessibility      ensures that underrepresented groups, including women, minorities, and      economically disadvantaged students, have equal opportunities to excel in      STEM disciplines by priding the additional personalized help and as much      help as needed. This reduces barriers to high-quality learning, and it      levels the playing field for diverse learners.          STEM Retention and Workforce Development: By      addressing the high failure rates in weed-out courses like Engineering      Thermodynamics, Pathway is expected to improve retention and equip      graduates with the skills and confidence needed STEM careers or graduate      education. By increasing the number and quality of STEM graduates, the      project is expected to increase the number of jobs and contribute to      building a more skilled and diverse STEM workforce.          Challenges and Achievements        Although there were many unforeseen challenges in coding and solver versatility greatly delayed its progress, the project successfully overcame these obstacles through iterative development. By expanding the dataset and refining the solver, Pathway offers more accurate and reliable solutions to a wider variety of STEM problems. These achievements resulted in the creation of a minimum viable product (MVP), which will provide the groundwork and user feedback for future improvements and applications in other STEM disciplines.        Future Potential        The project's findings and tools have far-reaching implications beyond STEM education:        Applications Across Disciplines: Besides      engineering and science, Pathways personalized learning framework can be      adapted for fields such as statistics, economics, and possibly medicine,      where problem-solving based on mathematical models could be used.          Global Impact: By disseminating through platforms      like YouTube, EdTech, and social platforms, Pathway can reach millions of      students worldwide, including lifelong learners, for personalized STEM      education.          Commercial Opportunities: The tools elastic      online scalability is amenable to academic term cycles, and there will be      future opportunities for professionals in industry once different STEM      courses and disciplines are integrated into the forthcoming Pathway Pro.          In summary, this project represents a significant step forward in personalized learning through customized problems and scaffolding, with the potential to have a measurable impact in STEM education, retention, caliber, professional training, and real-world applications. The work completed during Phase I provided the foundation necessary for advancing the tool to other difficult STEM courses to positively benefit society.         Last Modified: 12/18/2024       Submitted by: JasonClark]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

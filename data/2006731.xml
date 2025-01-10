@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mathematical Analysis for Kinetic Equations and Elliptic Equations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>215926.00</AwardTotalIntnAmount>
+<AwardAmount>215926</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stacey Levine</SignBlockName>
+<PO_EMAI>slevine@nsf.gov</PO_EMAI>
+<PO_PHON>7032922948</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project addresses several fundamental questions in reconstructing unknown properties through nondestructive methods. These methods allow one to recover hidden parameters, which are usually unseen in nondestructive evaluation, from external observations. Related applications appear everywhere from the medical imaging in our daily lives, to the study of dynamics of our solar system and beyond, including the detection of tumor tissues in medical imaging, finding cracks and interfaces within materials, and the study of the Earth and solar interior. One primary component of this project aims to study central mathematical questions that arise from the investigation of the dynamics of dilute charged particles, and performance optimization for semiconductor devices. The methodologies developed in this project will excite innovative applications of the nondestructive method in scientific investigations. This project will integrate the research component with the educational training of graduate students, and will particularly address the involvement of underrepresented groups. &lt;br/&gt;&lt;br/&gt;This project will investigate inverse problems for the kinetic theory and elliptic equations. The major goal will be focused on fundamental questions and important applications related to these equations, with the aim of developing mathematical theories for the reconstruction of significant information from the given data. Specifically, the first part of this project is to study several kinetic equations in both forward and inverse settings with applications in plasma physics, semiconductor, and medical imaging. The topics include the identification of unknown properties in Boltzmann equations, which model the dynamics of dilute charged particles, and the investigation of material parameters and complex collision effects from measurable data. The second part of the project centers around the inverse boundary value problems for elliptic operators. The goal is to reconstruct unknown coefficients in linear and nonlinear elliptic equations that arise naturally in many physical phenomena in a bounded region from partial or full data on the boundary. In particular, the investigator will study uniqueness and stability issues in the reconstruction process.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006731</AwardID>
+<Investigator>
+<FirstName>Ru-yu</FirstName>
+<LastName>Lai</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ru-yu Lai</PI_FULL_NAME>
+<EmailAddress><![CDATA[rylai@umn.edu]]></EmailAddress>
+<NSF_ID>000730923</NSF_ID>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>Minneapolis</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554550488</ZipCode>
+<StreetAddress><![CDATA[127 Vincent Hall, 206 Church Str]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~215926</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This proposal focused on mathematical analysis for partial differential equations, especially for those that arise from applications in medical imaging, physics, and kinetic theory. The main objective is to advance mathematical understanding in solving elliptic, transport, and Boltzmann equations as well as recovering the hidden properties through nondestructive methods.</p>  <p>Supported by the funding, together with her collaborators, the PI has produced 13 publications. The results achieved are summarized as follows.</p>  <p>1) The unique determination of the time-independent collision kernel in the nonlinear Boltzmann equation was studied. This result was further extended to the study of recovering time-dependent collision kernel for the dynamic Boltzmann equation.</p>  <p>2) The recovery of nonlinear terms in the nonlinear transport equations was investigated by incorporating the linearization technique and a special estimate, called Carleman estimate, that helps to control the nonessential information and at the same time enlarges the desired one. In addition, an alternative approach to handling this problem was also studied.</p>  <p>3) The reconstructive method was developed to identify impurities in the semiconductor manufacturing, modeled by the coupled nonlinear Vlasov-Poisson system, from the boundary measurement of the object.</p>  <p>4) The reconstruction of optical information in photoacoustic imaging for both linear and nonlinear transport equations was studied. Moreover, the source term can also be identified when the medium is under the influence of external forces.</p>  <p>5) The mathematical understanding of the single pixel X-ray transform, that takes average of the exponential function associated to X-ray over all angles, was further established. Several numerical experiments were conducted to corroborate the theoretical findings.</p>  <p>6) Both the time-independent and the time-dependent magnetic Schrodinger equations were investigated by utilizing data measured on partial region of the boundary of the object. Specifically, the nonlinear term was uniquely and stably recovered. A general version of the nonlinearity in the time-dependent one was uniquely recovered from partial data as well.</p>  <p>7) The analogue problems for the nonlocal magnetic Schrodinger equation, modeling the long-range (nonlocal) interactions of particles, and Laplace equations were studied. By using exterior data, the nonlinearities can be uniquely recovered.</p>  <p>The PI has been actively engaged in arranging professional activities. The invited participants covered many early career researchers, including graduate students, postdoctoral researchers, and junior faculty from mathematics and engineering communities. Besides organizing activities, the PI has been actively attending workshops and conferences to deliver the PI&rsquo;s research works, interchange ideas, and build professional networking with researchers from different areas.</p>  <p>This proposal also involved mentoring students at all levels from undergraduate students to postdoctoral researchers. Several complete projects above were in collaboration with graduate students and postdoctoral researchers.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/27/2024<br> Modified by: Ru-Yu&nbsp;Lai</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This proposal focused on mathematical analysis for partial differential equations, especially for those that arise from applications in medical imaging, physics, and kinetic theory. The main objective is to advance mathematical understanding in solving elliptic, transport, and Boltzmann equations as well as recovering the hidden properties through nondestructive methods.    Supported by the funding, together with her collaborators, the PI has produced 13 publications. The results achieved are summarized as follows.    1) The unique determination of the time-independent collision kernel in the nonlinear Boltzmann equation was studied. This result was further extended to the study of recovering time-dependent collision kernel for the dynamic Boltzmann equation.    2) The recovery of nonlinear terms in the nonlinear transport equations was investigated by incorporating the linearization technique and a special estimate, called Carleman estimate, that helps to control the nonessential information and at the same time enlarges the desired one. In addition, an alternative approach to handling this problem was also studied.    3) The reconstructive method was developed to identify impurities in the semiconductor manufacturing, modeled by the coupled nonlinear Vlasov-Poisson system, from the boundary measurement of the object.    4) The reconstruction of optical information in photoacoustic imaging for both linear and nonlinear transport equations was studied. Moreover, the source term can also be identified when the medium is under the influence of external forces.    5) The mathematical understanding of the single pixel X-ray transform, that takes average of the exponential function associated to X-ray over all angles, was further established. Several numerical experiments were conducted to corroborate the theoretical findings.    6) Both the time-independent and the time-dependent magnetic Schrodinger equations were investigated by utilizing data measured on partial region of the boundary of the object. Specifically, the nonlinear term was uniquely and stably recovered. A general version of the nonlinearity in the time-dependent one was uniquely recovered from partial data as well.    7) The analogue problems for the nonlocal magnetic Schrodinger equation, modeling the long-range (nonlocal) interactions of particles, and Laplace equations were studied. By using exterior data, the nonlinearities can be uniquely recovered.    The PI has been actively engaged in arranging professional activities. The invited participants covered many early career researchers, including graduate students, postdoctoral researchers, and junior faculty from mathematics and engineering communities. Besides organizing activities, the PI has been actively attending workshops and conferences to deliver the PIs research works, interchange ideas, and build professional networking with researchers from different areas.    This proposal also involved mentoring students at all levels from undergraduate students to postdoctoral researchers. Several complete projects above were in collaboration with graduate students and postdoctoral researchers.         Last Modified: 11/27/2024       Submitted by: Ru-YuLai]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

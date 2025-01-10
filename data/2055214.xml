@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mechanoregulation in the Maintenance of the Bacterial Cell Wall]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>430000.00</AwardTotalIntnAmount>
+<AwardAmount>430000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy C. Crone</SignBlockName>
+<PO_EMAI>wcrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will study the biological response to mechanical forces in bacteria. Bacteria are the most abundant form of life on Earth. Bacteria can cause disease in humans as well as in animals and plants in the food supply. However, some bacteria such as probiotics are beneficial to the health of humans, animals, and plants (e.g. probiotics) and others are used in production of food and pharmaceuticals. Antibiotics are used to remove disease-causing bacteria.  A common way  that antibiotics work is to cause the mechanical failure of the bacterial cell envelope – i.e. causing the cells to burst open and die. However, antibiotic resistant strains of bacteria are increasingly abundant in the environment, presenting a challenge to health and food production. The goal of this project is to understand how bacteria resist the mechanical forces that would normally cause them to burst. We explore the novel idea that bacteria can sense excessive stretching in their cell membranes and cell wall and respond to this sensation by thickening and strengthening their cell walls to prevent death. Additionally, the project involves a project to broaden participation in science and engineering through inclusion of undergraduate researchers and work with a minority serving professional society. &lt;br/&gt;&lt;br/&gt;The work uses a novel microfluidic system to generate mechanical stress within the cell envelope of individual bacteria and observe the response using conventional and single molecule microscopy. We focus on VxrAB (also referred to as WigKR), a two-component signaling system in Vibrio cholerae which is involved in the remodeling and homeostasis of the bacterial cell wall. The research objectives of this work are to 1) Determine the role of mechanical stress and strain in stimulating the VxrAB system and the resulting cell wall biogenesis; and 2) Determine the changes in cell envelope mechanical properties in response to VxrAB signaling. The educational objectives of this work include: 1) lead efforts to broaden participation in science by members of underrepresented groups within investigator laboratories and 2) organize a session at a national meeting to enhance bioengineering careers of students from underrepresented backgrounds.  This project is co-funded by the Biomechanics and Mechanobiology program in the Division of Civil, Mechanical, and Manufacturing Innovation, and the Systems and Synthetic Biology program in the Division of Molecular and Cellular Biosciences&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/13/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2055214</AwardID>
+<Investigator>
+<FirstName>Peng</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peng Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[pc252@cornell.edu]]></EmailAddress>
+<NSF_ID>000488138</NSF_ID>
+<StartDate>04/13/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Hernandez</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher J Hernandez</PI_FULL_NAME>
+<EmailAddress><![CDATA[christopher.hernandez@ucsf.edu]]></EmailAddress>
+<NSF_ID>000463098</NSF_ID>
+<StartDate>04/13/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tobias</FirstName>
+<LastName>Doerr</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tobias Doerr</PI_FULL_NAME>
+<EmailAddress><![CDATA[tdoerr@cornell.edu]]></EmailAddress>
+<NSF_ID>000764807</NSF_ID>
+<StartDate>04/13/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>Ithaca</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148537501</ZipCode>
+<StreetAddress><![CDATA[29 Upson Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>747900</Code>
+<Text>BMMB-Biomech &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>801100</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>070Z</Code>
+<Text>MB-Mechanobiology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~430000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The scientific goal of this project was to determine how bacteria respond to physical forces. From a structural perspective, bacteria resemble balloons stretched open from internal pressure. This project used techniques from the semiconductor industry to manufacture glass devices that squeeze individual bacteria (bacteria are 1/70<sup>th</sup>&nbsp;the thickness of a human hair) and observe the response with a microscope. The scientific work (intellectual merit) focused on the bacterial species&nbsp;<em>Vibrio cholerae</em>&nbsp;(the bacteria that causes the disease cholera). This project resulted in two key scientific discoveries: First, the work showed that&nbsp;<em>Vibrio cholerae</em>&nbsp;respond to physical forces by initiating the same processes used to stiffen themselves and grow. The work demonstrated a way to make the bacteria glow brighter when squeezed more. This discovery opens up the possibility of using physical forces to control the actions of bacteria used in the production of pharmaceuticals and food. Second, the work performed the first measurements of the stiffness of the outer envelope of bacteria, providing the first comparison among bacterial species, including disease-causing bacteria like&nbsp;<em>Vibrio cholerae</em>&nbsp;and&nbsp;<em>Staphylococcus aureus</em>&nbsp;(the bacteria that causes &ldquo;staph infection&rdquo;). This finding improves our understanding of how bacteria might be removed from liquids by filters (a common approach used to control the presence of bacteria in the biotechnology/pharmaceutical industry). The scientific work was disseminated to the scientific community through four articles in peer-reviewed journals and 4 presentations at national/international scientific conferences.&nbsp;<br /><br />The scientific discoveries have the potential to benefit society (broader impacts) by providing new applications in the biotechnology industry. Additionally, the included training in science by five graduate students (including four dissertations/theses) and three undergraduates and promoted broadening participation in science and engineering through a workshop at the Annual Biomedical Research Conference for Minoritized Scientists (ABRCMS) and outreach efforts with the Society of Hispanic Professional Engineers.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 06/29/2024<br> Modified by: Christopher&nbsp;J&nbsp;Hernandez</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2055214/2055214_10727440_1716754990053_Lee2024_GraphicalAbstract--rgov-214x142.png" original="/por/images/Reports/POR/2024/2055214/2055214_10727440_1716754990053_Lee2024_GraphicalAbstract--rgov-800width.png" title="Cartoon of bacteria squeezed in microfluidic device"><img src="/por/images/Reports/POR/2024/2055214/2055214_10727440_1716754990053_Lee2024_GraphicalAbstract--rgov-66x44.png" alt="Cartoon of bacteria squeezed in microfluidic device"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A cartoon showing an individual bacteria squeezed within glass channels. Computer models are used to interpret deformation of the cells.</div> <div class="imageCredit">Lee et al. ACS Biomater Sci Eng 2024</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Christopher&nbsp;J&nbsp;Hernandez <div class="imageTitle">Cartoon of bacteria squeezed in microfluidic device</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The scientific goal of this project was to determine how bacteria respond to physical forces. From a structural perspective, bacteria resemble balloons stretched open from internal pressure. This project used techniques from the semiconductor industry to manufacture glass devices that squeeze individual bacteria (bacteria are 1/70ththe thickness of a human hair) and observe the response with a microscope. The scientific work (intellectual merit) focused on the bacterial speciesVibrio cholerae(the bacteria that causes the disease cholera). This project resulted in two key scientific discoveries: First, the work showed thatVibrio choleraerespond to physical forces by initiating the same processes used to stiffen themselves and grow. The work demonstrated a way to make the bacteria glow brighter when squeezed more. This discovery opens up the possibility of using physical forces to control the actions of bacteria used in the production of pharmaceuticals and food. Second, the work performed the first measurements of the stiffness of the outer envelope of bacteria, providing the first comparison among bacterial species, including disease-causing bacteria likeVibrio choleraeandStaphylococcus aureus(the bacteria that causes staph infection). This finding improves our understanding of how bacteria might be removed from liquids by filters (a common approach used to control the presence of bacteria in the biotechnology/pharmaceutical industry). The scientific work was disseminated to the scientific community through four articles in peer-reviewed journals and 4 presentations at national/international scientific conferences.  The scientific discoveries have the potential to benefit society (broader impacts) by providing new applications in the biotechnology industry. Additionally, the included training in science by five graduate students (including four dissertations/theses) and three undergraduates and promoted broadening participation in science and engineering through a workshop at the Annual Biomedical Research Conference for Minoritized Scientists (ABRCMS) and outreach efforts with the Society of Hispanic Professional Engineers.        Last Modified: 06/29/2024       Submitted by: ChristopherJHernandez]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

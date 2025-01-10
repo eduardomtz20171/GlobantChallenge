@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Frameworks: Developing CyberInfrastructure for Waterborne Antibiotic Resistance Risk Surveillance (CI4-WARS)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1299036.00</AwardTotalIntnAmount>
+<AwardAmount>1299036</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Whitmeyer</SignBlockName>
+<PO_EMAI>jwhitmey@nsf.gov</PO_EMAI>
+<PO_PHON>7032927808</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>CI4-WARS is a cyberinfrastructure (CI) being developed as a key step towards establishing an efficient and integrated network of wastewater treatment plants (WWTPs) incorporating CI for antibiotic resistance (AR) surveillance.  AR is the ability of some bacteria to survive antibiotic treatment, a capability encoded by antibiotic resistance genes (ARGs).  AR rates are increasing globally, with the US Centers for Disease Control estimating 35,000 related deaths in the US per year in 2019, compared to 23,000 deaths per year in 2013.  It is a grand challenge that calls for an interdisciplinary approach to combat its spread.  Efficient and effective surveillance is needed to pinpoint where ARGs are spreading among bacteria and to inform ways to stop their spread. Combining next generation DNA sequencing with CI for monitoring patterns in ARG detection WWTPs is a promising and novel way to achieve this.  WWTPs aggregate antibiotics excreted by all people in a community undergoing antibiotic therapy, as well as any AR bacteria or ARGs that are present on their skin or eliminated by them.  Identifying anomalies in ARG patterns in wastewater could help identify potential outbreaks before they occur, better inform clinical use of antibiotics, and improve treatment practices to prevent release of ARGs to rivers and streams. &lt;br/&gt;&lt;br/&gt;The objectives of this research are to: (1) Develop and demonstrate the CI4-WARS system using DNA sequencing data and associated metadata collected from a local WWTP; (2) Develop new computational tools to identify ARG occurrence patterns  in the DNA sequencing data that indicate the risk of AR spreading and develop and apply new algorithms for identifying anomalies in these indicators that are indicative of emergence of new AR bacteria or outbreaks; and (3) Integrate the developed computational tools into CI4-WARS, establishing it as a one-stop service for surveying, evaluating, communicating, and reporting/alerting indicators of AR risk. Broader impact activities include student and professional training, annual workshops, free online videos, tutorials, and making CI4-WARS freely available on the web to maximize the benefit of CI4-WARS and facilitate adoption by the community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004751</AwardID>
+<Investigator>
+<FirstName>Liqing</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Liqing Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[lqzhang@cs.vt.edu]]></EmailAddress>
+<NSF_ID>000490633</NSF_ID>
+<StartDate>04/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Vikesland</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter J Vikesland</PI_FULL_NAME>
+<EmailAddress><![CDATA[pvikes@vt.edu]]></EmailAddress>
+<NSF_ID>000418842</NSF_ID>
+<StartDate>04/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Pruden</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amy J Pruden</PI_FULL_NAME>
+<EmailAddress><![CDATA[apruden@vt.edu]]></EmailAddress>
+<NSF_ID>000272068</NSF_ID>
+<StartDate>04/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ali</FirstName>
+<LastName>Butt</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ali R Butt</PI_FULL_NAME>
+<EmailAddress><![CDATA[butta@cs.vt.edu]]></EmailAddress>
+<NSF_ID>000288467</NSF_ID>
+<StartDate>04/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>Blacksburg</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240611050</ZipCode>
+<StreetAddress><![CDATA[620 Drillfield Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144000</Code>
+<Text>EnvE-Environmental Engineering</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>164200</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7925</Code>
+<Text>LARGE PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~1299036</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p id="docs-internal-guid-b236db67-7fff-73e6-9204-54c9ea7ba1ef" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The <strong>goal </strong>of Developing CyberInfrastructure for Waterborne Antibiotic Resistance Risk Surveillance (CIWARS, pronounced "sewers") project was to develop cyberinfrastructure to support monitoring of antibiotic resistance in wastewater. CIWARS was launched in 2020, shortly after the pandemic of COVID-19 was declared, dovetailing with a surge in national and global interest in monitoring wastewater for SARS-CoV-2. The CIWARS project produced timely new understanding, information, and tools to support expanding these efforts to also monitor wastewater for antibiotic resistance.&nbsp; Antibiotic resistance refers to the capability of some bacteria to survive in the presence of antibiotics, resulting in failure of these life-saving medicines to cure dangerous infections, such as pneumonia, bloodstream infections, and urinary tract infections. Bacteria can rapidly evolve antibiotic resistance, through mutation in existing genes or sharing of antibiotic resistance genes (ARGs) across species. As a result, antibiotic resistance is spreading nationally and globally. The spread of antibiotic resistance is being referred to as the &ldquo;slow pandemic,&rdquo; with most recent estimates indicating that about 4-5 million people die globally as a result of disease-causing (i.e., pathogenic) bacteria to survive antibiotic treatments.</span></p> <p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">In terms of <strong>Intellectual Merit</strong>, the CIWARS project drew expertise from several disciplines, including Computer Science, Environmental Engineering, Bioinformatics, and Public Health to develop and test the new cyberinfrastructure.&nbsp; Students contributed to sampling of wastewater twice per week for over a year, with deep metagenomic sequencing of the DNA extracted from these samples. Metagenomic sequencing is a promising approach for surveillance of antibiotic resistance in wastewater because it broadly captures all genes carried across all microbes in a given sample. The DNA sequencing data can then be compared to databases of known ARGs or other relevant genes that could be contributing to their spread, such as metal resistance genes or mobile genetic elements (e.g., plasmids and transposons). The data could also theoretically be analyzed to identify new ARGs that have recently evolved and not yet known in current databases. Further, because the approach is non-targeted, metagenomic data could be surveyed to broadly identify any pathogen of interest in the wastewater and therefore could be a very powerful approach to understanding disease trends within a community or early identification of future disease threats. CIWARS played a critical role in evaluating the potential of metagenomic sequencing to achieve these aims, with a focus on antibiotic resistance. The sampling and DNA sequencing effort produced a valuable high-resolution time-series data set that could be pilot-tested in the development of various tools and approaches for tracking pathogens, ARGs, and various genes contributing to their spread in wastewater.</span></p> <p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Several publicly-available web-based tools were developed for the analysis of metagenomic data through the CIWARS effort.&nbsp; MobileOG-db provided an urgently-needed unified database for all mobile genetic elements that can potentially contribute to the spread of antibiotic resistance (Brown et al. 2022). MetaCompare 2.0 uses the mobileOG-db and other databases to identify co-occurrence of ARGs, mobile genetic elements, and pathogens in metagenomic data to rank samples in terms of their relative &ldquo;resistome risk,&rdquo; i.e., potential to spread antibiotic resistance to pathogens (Rumi et al. 2024).&nbsp; Other tools were developed and are currently under review and in prototype phase, using AI to improve algorithms for ARG and pathogen detection. Ultimately, the CIWARS server serves as a one-stop-shop publicly-available website where these and future tools can be accessed as fundamental cyberinfrastructure to support wastewater surveillance of antibiotic resistance (</span><a style="text-decoration: none;" href="https://ciwars.cs.vt.edu/"><span style="font-size: 11pt; font-family: Arial,sans-serif; color: #1155cc; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">https://ciwars.cs.vt.edu/</span></a><span style="font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">). CIWARS can be used by local, regional, national, and international environmental and public health agencies as a robust tool for tracking antibiotic resistance trends in the future.</span></p> <p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><strong>Broader Impacts </strong>of CIWARS included training of 13 graduate students and 4 undergraduate students, earning degrees in Computer Science, Civil/Environmental Engineering, Genetics, Bioinformatics and Computational Biology (GBCB), Biochemistry, and Public Health. CIWARS partnered with the CIP-CAR NRT to provide opportunities to develop professional skills, such as Science Communication and Team Science. Students led an online journal club and research forum to practice these skills. Modules were developed for graduate courses to support training of a future workforce that is knowledgeable about environmental sources of antibiotic resistance and is competent in the use of metagenomics, bioinformatics, and AI tools for tracking antibiotic resistance and other disease agents.&nbsp; A series of lectures was also delivered to water treatment plant operators, through partnership with the Virginia Department of Health. Oral presentations were also delivered at professional conferences attended by water engineers, building knowledge base and capacity for disease monitoring among the environmental engineering and science community, including consultants and practitioners. Altogether, 34 journal papers were published, 1 manuscript was accepted for publication, 6 manuscripts are review, and 9 manuscripts are in preparation. In addition to 13 invited keynotes, plenaries, and webinars delivered by PIs, students presented results at conferences spanning multiple disciplines.</span></p><br> <p>  Last Modified: 11/13/2024<br> Modified by: Liqing&nbsp;Zhang</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2004751/2004751_10662112_1731556145670_ciwars_poster_2024--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2004751/2004751_10662112_1731556145670_ciwars_poster_2024--rgov-800width.jpg" title="CIWARS poster"><img src="/por/images/Reports/POR/2024/2004751/2004751_10662112_1731556145670_ciwars_poster_2024--rgov-66x44.jpg" alt="CIWARS poster"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Overview of the CIWARS project and cyberinfrastructure</div> <div class="imageCredit">The CIWARS team members</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Liqing&nbsp;Zhang <div class="imageTitle">CIWARS poster</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2004751/2004751_10662112_1731556259612_Screen_Shot_2024_11_13_at_10.42.43_PM--rgov-214x142.png" original="/por/images/Reports/POR/2024/2004751/2004751_10662112_1731556259612_Screen_Shot_2024_11_13_at_10.42.43_PM--rgov-800width.png" title="Screenshots of the CIWARS web service"><img src="/por/images/Reports/POR/2024/2004751/2004751_10662112_1731556259612_Screen_Shot_2024_11_13_at_10.42.43_PM--rgov-66x44.png" alt="Screenshots of the CIWARS web service"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The about page introducing the CIWARS web service</div> <div class="imageCredit">Liqing Zhang</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Liqing&nbsp;Zhang <div class="imageTitle">Screenshots of the CIWARS web service</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The goal of Developing CyberInfrastructure for Waterborne Antibiotic Resistance Risk Surveillance (CIWARS, pronounced "sewers") project was to develop cyberinfrastructure to support monitoring of antibiotic resistance in wastewater. CIWARS was launched in 2020, shortly after the pandemic of COVID-19 was declared, dovetailing with a surge in national and global interest in monitoring wastewater for SARS-CoV-2. The CIWARS project produced timely new understanding, information, and tools to support expanding these efforts to also monitor wastewater for antibiotic resistance. Antibiotic resistance refers to the capability of some bacteria to survive in the presence of antibiotics, resulting in failure of these life-saving medicines to cure dangerous infections, such as pneumonia, bloodstream infections, and urinary tract infections. Bacteria can rapidly evolve antibiotic resistance, through mutation in existing genes or sharing of antibiotic resistance genes (ARGs) across species. As a result, antibiotic resistance is spreading nationally and globally. The spread of antibiotic resistance is being referred to as the slow pandemic, with most recent estimates indicating that about 4-5 million people die globally as a result of disease-causing (i.e., pathogenic) bacteria to survive antibiotic treatments.   In terms of Intellectual Merit, the CIWARS project drew expertise from several disciplines, including Computer Science, Environmental Engineering, Bioinformatics, and Public Health to develop and test the new cyberinfrastructure. Students contributed to sampling of wastewater twice per week for over a year, with deep metagenomic sequencing of the DNA extracted from these samples. Metagenomic sequencing is a promising approach for surveillance of antibiotic resistance in wastewater because it broadly captures all genes carried across all microbes in a given sample. The DNA sequencing data can then be compared to databases of known ARGs or other relevant genes that could be contributing to their spread, such as metal resistance genes or mobile genetic elements (e.g., plasmids and transposons). The data could also theoretically be analyzed to identify new ARGs that have recently evolved and not yet known in current databases. Further, because the approach is non-targeted, metagenomic data could be surveyed to broadly identify any pathogen of interest in the wastewater and therefore could be a very powerful approach to understanding disease trends within a community or early identification of future disease threats. CIWARS played a critical role in evaluating the potential of metagenomic sequencing to achieve these aims, with a focus on antibiotic resistance. The sampling and DNA sequencing effort produced a valuable high-resolution time-series data set that could be pilot-tested in the development of various tools and approaches for tracking pathogens, ARGs, and various genes contributing to their spread in wastewater.   Several publicly-available web-based tools were developed for the analysis of metagenomic data through the CIWARS effort. MobileOG-db provided an urgently-needed unified database for all mobile genetic elements that can potentially contribute to the spread of antibiotic resistance (Brown et al. 2022). MetaCompare 2.0 uses the mobileOG-db and other databases to identify co-occurrence of ARGs, mobile genetic elements, and pathogens in metagenomic data to rank samples in terms of their relative resistome risk, i.e., potential to spread antibiotic resistance to pathogens (Rumi et al. 2024). Other tools were developed and are currently under review and in prototype phase, using AI to improve algorithms for ARG and pathogen detection. Ultimately, the CIWARS server serves as a one-stop-shop publicly-available website where these and future tools can be accessed as fundamental cyberinfrastructure to support wastewater surveillance of antibiotic resistance (https://ciwars.cs.vt.edu/). CIWARS can be used by local, regional, national, and international environmental and public health agencies as a robust tool for tracking antibiotic resistance trends in the future.   Broader Impacts of CIWARS included training of 13 graduate students and 4 undergraduate students, earning degrees in Computer Science, Civil/Environmental Engineering, Genetics, Bioinformatics and Computational Biology (GBCB), Biochemistry, and Public Health. CIWARS partnered with the CIP-CAR NRT to provide opportunities to develop professional skills, such as Science Communication and Team Science. Students led an online journal club and research forum to practice these skills. Modules were developed for graduate courses to support training of a future workforce that is knowledgeable about environmental sources of antibiotic resistance and is competent in the use of metagenomics, bioinformatics, and AI tools for tracking antibiotic resistance and other disease agents. A series of lectures was also delivered to water treatment plant operators, through partnership with the Virginia Department of Health. Oral presentations were also delivered at professional conferences attended by water engineers, building knowledge base and capacity for disease monitoring among the environmental engineering and science community, including consultants and practitioners. Altogether, 34 journal papers were published, 1 manuscript was accepted for publication, 6 manuscripts are review, and 9 manuscripts are in preparation. In addition to 13 invited keynotes, plenaries, and webinars delivered by PIs, students presented results at conferences spanning multiple disciplines.     Last Modified: 11/13/2024       Submitted by: LiqingZhang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

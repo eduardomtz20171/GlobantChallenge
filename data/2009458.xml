@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Long time dynamics of compressible fluids and kinetic theory with boundaries]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>350000.00</AwardTotalIntnAmount>
+<AwardAmount>350000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Fluids and gases are ubiquitous in nature and exhibit a wide range of interesting phenomena observed in laboratories, daily life, or space. Their dynamics is governed by nonlinear partial differential equations (PDE). The objective of this project is to investigate long time dynamics and singularities for solutions to PDEs arising from compressible fluid dynamics and kinetic theory with emphasis on physically important objects in the presence of boundaries. They have rich applications in mathematical sciences and engineering and offer a great deal of mathematical challenges. The advances from this project will enhance the understanding of highly nontrivial phenomena and bring novel mathematical methods that could resolve unsolved questions. The research project will be integrated with education and outreach activities through student research projects, mentoring activities, course development and recruitment. &lt;br/&gt;&lt;br/&gt;Specifically, the following topics will be pursued: (i) stabilization mechanisms and long time dynamics of compressible Euler and MHD flows (ii) stability of gravitational collapses and stellar rotation for self-gravitating stars modeled by the Euler-Poisson system (iii) a new well-posedness theory for the Vlasov-Poisson system and stability of equilibrium galaxies (iv) boundary collisions for the kinetic transport and Fokker-Planck equations. The goal is to find mathematical frameworks that capture the underlying physical phenomena and to develop mathematical theories by applied analysis and PDE methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009458</AwardID>
+<Investigator>
+<FirstName>Juhi</FirstName>
+<LastName>Jang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Juhi Jang</PI_FULL_NAME>
+<EmailAddress><![CDATA[juhijang@usc.edu]]></EmailAddress>
+<NSF_ID>000512359</NSF_ID>
+<StartDate>05/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>90033</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress><![CDATA[3720 S FLOWER ST FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA34</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900892532</ZipCode>
+<StreetAddress><![CDATA[3620 S. Vermont Ave KAP 416E]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~350000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The problems investigated by the PI under the scope of the award address a wide range of physical phenomena observed and predicted in nature and laboratories including stellar collapse, rotation, expansion and multi-scale dynamics of particle systems. The questions arising in physically motivated problems often pose mathematical challenges, and the resolution requires new ideas and techniques. Newly developed framework and methodologies could open up new lines of research and make an impact on other related areas.</p> <p>The gravitational Euler-Poisson system is a classical model describing the motion of self-gravitating Newtonian stars, while the Einstein-Euler system is a fundamental model for relativistic stars in the theory of general relativity. It s a central problem to address existence and stability of gravitational collapse, a fascinating phenomenon related to the birth and death of stars. Among others, there have been extensive studies of self-similar collapse in the astrophysics literature, mostly by using numerics, as the end-state of the gravitational collapse of a star is believed to take on a self-similar form to leading order. The PI with collaborators developed a novel shooting method and used nonlinear invariances for the associated dynamical system to give a rigorous account on the existence of self-similar solutions for the Euler-Poisson system for Newtonian stars and for the Einstein-Euler system for relativistic stars that exhibit dynamically forming imploding singularities in a finite time starting from smooth initial data. In particular, the existence of the self-similar spacetimes for the Einstein-Euler system played a central role in the construction of an important class of naked singularity spacetimes for a physically important matter model. The developed methods could shed some light on other related problems.&nbsp;<br /><br />Other important physical phenomena in the stellar dynamics are rotation and expansion. The PI and collaborators have constructed slowly rotating star solutions with variable entropy governed by the non-isentropic Euler-Poisson system based on a new perturbative approach around the Lane-Emden star solutions, which provides the first rigorous account of such rotating solutions for the system, and orbital stability of uniformly rotating binary stars and galaxies governed by the Euler-Poisson system and Vlasov-Poisson system by exploiting both variational and perturbative properties of the underlying binary configurations. In addition, the PI and collaborators have shown that radially expanding stars in the mass-critical regime are nonlinearly stable under non-radial perturbations, which provides a significant improvement on the known stability result.&nbsp;</p> <p>Study of the asymptotic limit from the Boltzmann equation that features multi-scale dynamics attempts to provide a passage between kinetic theory and fluid dynamics. In recent years, there has been a lot of mathematical progresses on the hydrodynamic limit. The PI with collaborators has established a rigorous passage from the Boltzmann equation in the presence of diffuse reflection boundary wall to the incompressible Euler equation with or without heat convection with no-penetration boundary by developing a multi-scale expansion method and utilizing the inviscid limit of the Navier-Stokes equations for large Reynold numbers to the Euler equations.&nbsp;</p> <p>Results of this award have been disseminated through journal publications and a number of seminars and conference talks. Also, the award has provided an educational and training opportunity to mentor students. In addition, two advanced courses in Partial Differential Equations were offered on the topics related to the award at the University of Southern California, and a mini-course was given at the SLMath graduate summer school on Mathematics of General Relativity and Fluids, in FORTH, Crete in Greece in the summer 2024.&nbsp;</p><br> <p>  Last Modified: 10/26/2024<br> Modified by: Juhi&nbsp;Jang</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The problems investigated by the PI under the scope of the award address a wide range of physical phenomena observed and predicted in nature and laboratories including stellar collapse, rotation, expansion and multi-scale dynamics of particle systems. The questions arising in physically motivated problems often pose mathematical challenges, and the resolution requires new ideas and techniques. Newly developed framework and methodologies could open up new lines of research and make an impact on other related areas.   The gravitational Euler-Poisson system is a classical model describing the motion of self-gravitating Newtonian stars, while the Einstein-Euler system is a fundamental model for relativistic stars in the theory of general relativity. It s a central problem to address existence and stability of gravitational collapse, a fascinating phenomenon related to the birth and death of stars. Among others, there have been extensive studies of self-similar collapse in the astrophysics literature, mostly by using numerics, as the end-state of the gravitational collapse of a star is believed to take on a self-similar form to leading order. The PI with collaborators developed a novel shooting method and used nonlinear invariances for the associated dynamical system to give a rigorous account on the existence of self-similar solutions for the Euler-Poisson system for Newtonian stars and for the Einstein-Euler system for relativistic stars that exhibit dynamically forming imploding singularities in a finite time starting from smooth initial data. In particular, the existence of the self-similar spacetimes for the Einstein-Euler system played a central role in the construction of an important class of naked singularity spacetimes for a physically important matter model. The developed methods could shed some light on other related problems.  Other important physical phenomena in the stellar dynamics are rotation and expansion. The PI and collaborators have constructed slowly rotating star solutions with variable entropy governed by the non-isentropic Euler-Poisson system based on a new perturbative approach around the Lane-Emden star solutions, which provides the first rigorous account of such rotating solutions for the system, and orbital stability of uniformly rotating binary stars and galaxies governed by the Euler-Poisson system and Vlasov-Poisson system by exploiting both variational and perturbative properties of the underlying binary configurations. In addition, the PI and collaborators have shown that radially expanding stars in the mass-critical regime are nonlinearly stable under non-radial perturbations, which provides a significant improvement on the known stability result.   Study of the asymptotic limit from the Boltzmann equation that features multi-scale dynamics attempts to provide a passage between kinetic theory and fluid dynamics. In recent years, there has been a lot of mathematical progresses on the hydrodynamic limit. The PI with collaborators has established a rigorous passage from the Boltzmann equation in the presence of diffuse reflection boundary wall to the incompressible Euler equation with or without heat convection with no-penetration boundary by developing a multi-scale expansion method and utilizing the inviscid limit of the Navier-Stokes equations for large Reynold numbers to the Euler equations.   Results of this award have been disseminated through journal publications and a number of seminars and conference talks. Also, the award has provided an educational and training opportunity to mentor students. In addition, two advanced courses in Partial Differential Equations were offered on the topics related to the award at the University of Southern California, and a mini-course was given at the SLMath graduate summer school on Mathematics of General Relativity and Fluids, in FORTH, Crete in Greece in the summer 2024.     Last Modified: 10/26/2024       Submitted by: JuhiJang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

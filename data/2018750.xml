@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Research in Economics and Public Policy: Employer Preference for Applicants based on Geographic Location - A Resume Audit]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>38996.00</AwardTotalIntnAmount>
+<AwardAmount>38996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Lutz</SignBlockName>
+<PO_EMAI>nlutz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927280</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Abstract&lt;br/&gt;&lt;br/&gt;There is significant and persistent heterogeneity in unemployment rates and labor earnings across labor markets in the US, contributing to overall economic inequality. Developments since the 1990s indicate that migration has declined even as job postings through websites expanded access to and awareness of employment opportunities beyond a worker’s location of origin.  This project explores the geographic aspects of online job postings by exploring access to job opportunities for job seekers who are local and non-local. The research investigates employer preference for job applicants by considering whether applicants reside close by the job site or farther away. The project conducts a correspondence experiment that randomly assigns the resumes of fictitious candidates with different geographical locations to employers who are actively seeking employees. The project examines employer callback rates by considering the distance of candidates from job locations to understand differential employer preference for employees’ location of origin. The project further constructs a descriptive and mathematical theory for why employers may prefer local workers over non-local workers.&lt;br/&gt;&lt;br/&gt;Residents of depressed local labor markets often incur welfare costs associated with remaining in these areas, and migration in favor of expected income gains may serve as an important mechanism for equalization across regions. This research project investigates labor market opportunities in relation to the geographic origin of job applicants. The project employs a resume audit study to understand employers’ hiring preferences in relation to spatial factors by randomly assigning fictitious applicants to job postings, by reflecting varying locations of residence, level of education, and gender of applicants. The project develops a theoretical model that rationalizes potential mechanisms for why employers engage in place-based discrimination and prefer local applicants. By embedding these mechanisms in the resume audit research design, the project explores heterogeneous effects of applicant location on employer hiring preferences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/24/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018750</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Kovak</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian Kovak</PI_FULL_NAME>
+<EmailAddress><![CDATA[bkovak@cmu.edu]]></EmailAddress>
+<NSF_ID>000575129</NSF_ID>
+<StartDate>07/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ashley</FirstName>
+<LastName>Orr</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ashley E Orr</PI_FULL_NAME>
+<EmailAddress><![CDATA[aorr@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000818834</NSF_ID>
+<StartDate>07/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 Forbes Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>132000</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~38996</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this project, we asked a simple but important research question: Do employers prefer to hire local workers? This question is important because many workers in the US search for jobs that are not, at the time of search, close to their homes. Those workers may be considering migration or may be willing to commute longer distances to work. Economists have predicted that workers ability to search and move for work helps smooth out shocks and allows wages and unemployment rates to adjust and equalize across regions. However, recent research has shown that even with online job posting boards, equalization has not occurred (Ganong and Shoag 2017). Could employer preferences be part of the explanation?</p> <p>Using a large scale, cross-country, pre-registered experiment, we find firms do prefer local applicants on average. The callback and request for interview rate declines with distance, with the largest effects for candidates who would have to move in order to accept the job - our findings imply that job seekers at far distances should submit nearly twice as many resumes to secure the same number of interviews. We do not find evidence of gender discrimination, although there was a slight preference for younger workers on average. Using a mathematical theory of profit maximizing firms, a firm's preference for the local worker follows directly from hypothesized differences in acceptance, hiring costs, retention, and costly commutes.</p> <p>This project made several contributions aligned with the NSF's intellectual merit criteria. First, the research provided a credible causal estimate for how firms' response to job applicants varies with their distance to the firm- this extends our understanding beyond existing studies of the internship market (Jaeger et al. 2017) and the low wage labor market in Washington D.C. (Phillips 2018), finding their results generalize across the country and for a wider range of permanent roles in the service and manufacturing sectors. Secondly, this study's data collection and analysis prompted additional research. For instance, qualitatively coding the employers' responses to distant candidates revealed key reasons why firms prefer local applicants and suggested that far candidates may be more successful if they addressed their migration plans and commute preferences when applying. Additionally, we observed that hiring managers can help in matching local workers to local firms. Finally, the project contributed to the research training and development of the co-I: a PhD student and paid research assistants (including five undergraduates and eight masters students).</p> <p>The project has had a broader impact. This research has been presented and discussed in over ten different settings. These presentations included interacting with hiring managers, regional economic development teams, policy makers, and other researchers at universities, government, and nonprofits organizations. Those discussions prompted further policy relevant research, for instance, exploring how these findings may influence the job search duration in weeks/months for unemployed workers who don't have jobs close to them. Additionally, employer preference for local workers, the barrier uncovered by this research, may add further support to the arguments that suggest using place-based economic development in areas experiencing negative shocks. Finally, this research combined with the insights from employers have allowed us to hypothesize that workers searching for a job at a distance should 1) plan to search more intensely and apply to more jobs, 2) strongly signal their attachment to the destination labor market, and 3) if they can, potentially migrate before or concurrently with their job search. However, all of these worker actions require additional costly/risky effort by the job seekers from a distance. The extent to which each of these actions can help workers overcome this structural barrier will be studied in future research.</p><br> <p>  Last Modified: 11/07/2024<br> Modified by: Ashley&nbsp;E&nbsp;Orr</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2018750/2018750_10682494_1730994018921_Presenting_at_a_conference--rgov-214x142.png" original="/por/images/Reports/POR/2024/2018750/2018750_10682494_1730994018921_Presenting_at_a_conference--rgov-800width.png" title="PhD Student Ashley Orr Presents"><img src="/por/images/Reports/POR/2024/2018750/2018750_10682494_1730994018921_Presenting_at_a_conference--rgov-66x44.png" alt="PhD Student Ashley Orr Presents"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The PhD Student Co-I, Ashley Orr, presents this paper as part of an organized session, "Disparate Risk and the Role of Public Policy, Economic Mobility, and the Consideration of Place," at the Social Equity Leadership Conference in Samford, CT on June 21, 2024.</div> <div class="imageCredit">Christina Munoz</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Ashley&nbsp;E&nbsp;Orr <div class="imageTitle">PhD Student Ashley Orr Presents</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In this project, we asked a simple but important research question: Do employers prefer to hire local workers? This question is important because many workers in the US search for jobs that are not, at the time of search, close to their homes. Those workers may be considering migration or may be willing to commute longer distances to work. Economists have predicted that workers ability to search and move for work helps smooth out shocks and allows wages and unemployment rates to adjust and equalize across regions. However, recent research has shown that even with online job posting boards, equalization has not occurred (Ganong and Shoag 2017). Could employer preferences be part of the explanation?   Using a large scale, cross-country, pre-registered experiment, we find firms do prefer local applicants on average. The callback and request for interview rate declines with distance, with the largest effects for candidates who would have to move in order to accept the job - our findings imply that job seekers at far distances should submit nearly twice as many resumes to secure the same number of interviews. We do not find evidence of gender discrimination, although there was a slight preference for younger workers on average. Using a mathematical theory of profit maximizing firms, a firm's preference for the local worker follows directly from hypothesized differences in acceptance, hiring costs, retention, and costly commutes.   This project made several contributions aligned with the NSF's intellectual merit criteria. First, the research provided a credible causal estimate for how firms' response to job applicants varies with their distance to the firm- this extends our understanding beyond existing studies of the internship market (Jaeger et al. 2017) and the low wage labor market in Washington D.C. (Phillips 2018), finding their results generalize across the country and for a wider range of permanent roles in the service and manufacturing sectors. Secondly, this study's data collection and analysis prompted additional research. For instance, qualitatively coding the employers' responses to distant candidates revealed key reasons why firms prefer local applicants and suggested that far candidates may be more successful if they addressed their migration plans and commute preferences when applying. Additionally, we observed that hiring managers can help in matching local workers to local firms. Finally, the project contributed to the research training and development of the co-I: a PhD student and paid research assistants (including five undergraduates and eight masters students).   The project has had a broader impact. This research has been presented and discussed in over ten different settings. These presentations included interacting with hiring managers, regional economic development teams, policy makers, and other researchers at universities, government, and nonprofits organizations. Those discussions prompted further policy relevant research, for instance, exploring how these findings may influence the job search duration in weeks/months for unemployed workers who don't have jobs close to them. Additionally, employer preference for local workers, the barrier uncovered by this research, may add further support to the arguments that suggest using place-based economic development in areas experiencing negative shocks. Finally, this research combined with the insights from employers have allowed us to hypothesize that workers searching for a job at a distance should 1) plan to search more intensely and apply to more jobs, 2) strongly signal their attachment to the destination labor market, and 3) if they can, potentially migrate before or concurrently with their job search. However, all of these worker actions require additional costly/risky effort by the job seekers from a distance. The extent to which each of these actions can help workers overcome this structural barrier will be studied in future research.     Last Modified: 11/07/2024       Submitted by: AshleyEOrr]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

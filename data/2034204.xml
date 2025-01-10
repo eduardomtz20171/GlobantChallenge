@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Coupled Thermo-Hydro-Mechanical Behavior of Soils Subjected to Freeze-Thaw Cycles]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>361514.00</AwardTotalIntnAmount>
+<AwardAmount>361514</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gianluca Cusatis</SignBlockName>
+<PO_EMAI>gcusatis@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Seasonally frozen soils occupy approximately 55 percent of the earth's total surface land. Rising air temperatures particularly in the upper latitudes are causing an increase in ground temperatures, intensifying permafrost degradation. A good understanding of the behavior of frozen soils is critical for safe and economical design of civil infrastructure in regions seasonally exposed to freezing temperatures. This aspect is particularly relevant considering the recent discovery of fossil fuels (e.g., gas hydrates) near the Arctic Circle, with the associated needs of developing new infrastructure in these regions. Moreover, artificial ground freezing technique has become an extraordinary ally for building deeper, quicker, bigger and more complex geotechnical structures (e.g., tunnels in large urban areas). However, some recent construction issues associated with this methodology have shown the need to gain a better understanding of the fundamental aspects associated with the complex nature of frozen soil behavior. The outcomes of the research contributions in this project will be incorporated into undergraduate and graduate curricula. The project offers opportunities for graduate and undergraduate students novel technical skills in geotechnical engineering and a better understanding of the soil freeze-thaw cycles and its impact on the environment and built infrastructure. &lt;br/&gt;&lt;br/&gt;The project will advance the general area of thermal geotechnics, with contributions towards problems involving soils subjected to freeze-thaw cycles. The overarching goal of this project is to advance the current understanding of frozen soil behavior. Particularly, the following specific objectives will be pursued: (i) gain a better understanding of the key features associated with the behavior of frozen soils, including permafrost degradation, the effect of freeze-thaw cycles, the impact of stress history, and the interaction between the soil-fabric and the changes in water-volume occurring during water-phase transformations; (ii) produce high-quality experimental data related to the behavior of frozen soils including a variety of stress levels, temperatures, stress history, and permafrost degradation scenarios, which will contribute to expanding the current database in this area; and (iii) develop advanced constitutive and numerical codes to tackle problems involving frozen soils subjected to complex freeze-thaw cycles and loading conditions. A combined experimental, and numerical investigation program will be conducted to achieve these objectives. Research findings will be disseminated through scientific publications and a dedicated website. This research aligns with NSF's Navigating the New Arctic program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034204</AwardID>
+<Investigator>
+<FirstName>Marcelo</FirstName>
+<LastName>Sanchez</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marcelo J Sanchez</PI_FULL_NAME>
+<EmailAddress><![CDATA[msanchez@civil.tamu.edu]]></EmailAddress>
+<NSF_ID>000544928</NSF_ID>
+<StartDate>12/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[3124 TAMU]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M University College Station]]></Name>
+<CityName>COLLEGE STA</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433136</ZipCode>
+<StreetAddress><![CDATA[3136 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>073Y00</Code>
+<Text>ECI-Engineering for Civil Infr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>037E</Code>
+<Text>GEOTECHNICAL ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>172E</Code>
+<Text>Geomechanics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~361514</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Seasonally frozen soils cover approximately 55% of the earth's land surface, amounting to about 55 million km&sup2;. In these regions, a thorough understanding of frozen soil behavior is crucial for the safe and economical design of new civil infrastructure and for assessing the condition of existing structures. Rising temperature anomalies in high-latitude regions are accelerating permafrost degradation, posing significant geotechnical and environmental challenges. Interest in advancing current knowledge on frozen soil behavior is multifaceted, with key objectives including (i) safer, more economical design of new infrastructure and better assessment of existing structures in regions subjected to freezing temperatures; (ii) enhanced understanding of temporary ground improvement techniques based on soil freezing; and (iii) more accurate predictions of the adverse effects associated with permafrost degradation. This project combined fundamental, experimental, and numerical investigations to advance understanding in this complex and critical area.</p> <p>The study involves an extensive investigation of natural soils from Alaska and other cold regions. The key contributions of this research are outlined below:</p> <ul> <li>Physical and Mechanical Characterization of Frozen Soils: Both nondestructive (e.g., thermal conductivity, water potential, and acoustic velocity tests) and destructive experiments (e.g., tensile strength and unconfined compression tests) were conducted to study the effects of freezing temperature, cryogenic suction (and associated unfrozen water content), pore structure, and water salinity on frozen soil behavior. The study identified specific temperature ranges at which notable changes in material behavior occur. Findings indicate that intrinsic factors controlling the amount of unfrozen water in the soil significantly impact soil strength properties, with salinity and temperature playing a critical role. Results show that temperature, pore structure, and water salinity substantially influence frozen soil properties.</li> <li>Effect of Freeze-Thaw (Fr-Th) Cycles on Soil Volume Change: A systematic investigation involving varying loading conditions, stress history, and Fr-Th cycles showed that the over-consolidation ratio (OCR) significantly influences frozen soil behavior. Normally consolidated (NC) soils tend to contract under Fr-Th cycles, while overconsolidated (OC) soils generally expand. Substantial differences in volume change were observed when comparing initially saturated versus unsaturated samples, with even a small reduction in degree of saturation leading to a noticeable reduction in soil volume change.</li> <li>Frozen Soil Behavior under Shearing: Triaxial tests conducted at constant freezing temperatures, incorporating the combined effects of Fr-Th cycles and shearing stages, demonstrated the influence of freezing temperature on soil temperature, volume change, and strength. It was also observed that Fr-Th cycles increase the preconsolidation stress and overall strength of the soil.</li> <li>Frozen Soil Modeling: An elastoplastic mechanical model was developed to simulate the behavior of frozen soils and soils subjected to Fr-Th cycles. Model validation was based on experimental data gathered in this project and test results available in the literature. The model successfully replicated observed frozen soil behavior across various loading conditions, Fr-Th cycles, and stress history conditions, indicating that key principles from critical soil mechanics effectively simulate frozen soil behavior under mechanical loads.</li> <li>Gas Migration Through Frozen Soils: Gas migration tests revealed that frozen soil remained almost impermeable at high freezing temperatures, with minimal gas flow observed. However, as the frozen soil began to thaw, a dramatic increase in gas permeability was detected.</li> </ul> <p>Overall, this investigation has contributed to a better understanding of frozen soil behavior, providing insights for safer and more economical design of buildings and other civil infrastructure in regions seasonally exposed to freezing temperatures. The project also offered training opportunities for graduate and undergraduate students in this field.</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/30/2024<br> Modified by: Marcelo&nbsp;J&nbsp;Sanchez</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Seasonally frozen soils cover approximately 55% of the earth's land surface, amounting to about 55 million km&sup2;. In these regions, a thorough understanding of frozen soil behavior is crucial for the safe and economical design of new civil infrastructure and for assessing the condition of existing structures. Rising temperature anomalies in high-latitude regions are accelerating permafrost degradation, posing significant geotechnical and environmental challenges. Interest in advancing current knowledge on frozen soil behavior is multifaceted, with key objectives including (i) safer, more economical design of new infrastructure and better assessment of existing structures in regions subjected to freezing temperatures; (ii) enhanced understanding of temporary ground improvement techniques based on soil freezing; and (iii) more accurate predictions of the adverse effects associated with permafrost degradation. This project combined fundamental, experimental, and numerical investigations to advance understanding in this complex and critical area.   The study involves an extensive investigation of natural soils from Alaska and other cold regions. The key contributions of this research are outlined below:  Physical and Mechanical Characterization of Frozen Soils: Both nondestructive (e.g., thermal conductivity, water potential, and acoustic velocity tests) and destructive experiments (e.g., tensile strength and unconfined compression tests) were conducted to study the effects of freezing temperature, cryogenic suction (and associated unfrozen water content), pore structure, and water salinity on frozen soil behavior. The study identified specific temperature ranges at which notable changes in material behavior occur. Findings indicate that intrinsic factors controlling the amount of unfrozen water in the soil significantly impact soil strength properties, with salinity and temperature playing a critical role. Results show that temperature, pore structure, and water salinity substantially influence frozen soil properties. Effect of Freeze-Thaw (Fr-Th) Cycles on Soil Volume Change: A systematic investigation involving varying loading conditions, stress history, and Fr-Th cycles showed that the over-consolidation ratio (OCR) significantly influences frozen soil behavior. Normally consolidated (NC) soils tend to contract under Fr-Th cycles, while overconsolidated (OC) soils generally expand. Substantial differences in volume change were observed when comparing initially saturated versus unsaturated samples, with even a small reduction in degree of saturation leading to a noticeable reduction in soil volume change. Frozen Soil Behavior under Shearing: Triaxial tests conducted at constant freezing temperatures, incorporating the combined effects of Fr-Th cycles and shearing stages, demonstrated the influence of freezing temperature on soil temperature, volume change, and strength. It was also observed that Fr-Th cycles increase the preconsolidation stress and overall strength of the soil. Frozen Soil Modeling: An elastoplastic mechanical model was developed to simulate the behavior of frozen soils and soils subjected to Fr-Th cycles. Model validation was based on experimental data gathered in this project and test results available in the literature. The model successfully replicated observed frozen soil behavior across various loading conditions, Fr-Th cycles, and stress history conditions, indicating that key principles from critical soil mechanics effectively simulate frozen soil behavior under mechanical loads. Gas Migration Through Frozen Soils: Gas migration tests revealed that frozen soil remained almost impermeable at high freezing temperatures, with minimal gas flow observed. However, as the frozen soil began to thaw, a dramatic increase in gas permeability was detected.    Overall, this investigation has contributed to a better understanding of frozen soil behavior, providing insights for safer and more economical design of buildings and other civil infrastructure in regions seasonally exposed to freezing temperatures. The project also offered training opportunities for graduate and undergraduate students in this field.        Last Modified: 10/30/2024       Submitted by: MarceloJSanchez]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

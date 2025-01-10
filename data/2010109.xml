@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: WoU-MMA: Extreme Quantum-Electrodynamic and General-Relativistic Plasma Physics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>370000.00</AwardTotalIntnAmount>
+<AwardAmount>370000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vyacheslav (Slava) Lukin</SignBlockName>
+<PO_EMAI>vlukin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927382</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will study the physics of atmospheres of neutron stars and black holes with very strong magnetic fields.  Observational discovery of compact stars in our galaxy that are extraordinarily strong magnets, called magnetars, brings modern science into an uncharted territory of enormous magnetic fields.  This is where quantum mechanics, rather than everyday physics, describes objects as massive as our Sun.  At the same time, detection of gravitational wave signals from merging black holes and neutron stars opened a new observational domain for studies of objects governed by extremely strong gravity.  Magnetars, neutron stars and black holes are astrophysical multi-messenger laboratories for studies of the interplay of electromagnetic, quantum, and gravitational effects.  The primary goal of this project is to better understand such systems by developing a comprehensive description of collective non-linear behavior of matter in super-strong magnetic and gravitational fields; by doing so, it will also directly contribute to the goals of NSF's "Windows on the Universe: The Era of Multi-Messenger Astrophysics" Big Idea.  This collaborative project will serve to train graduate students and to promote diversity by recruiting students from underrepresented minority groups. &lt;br/&gt;&lt;br/&gt;Magnetars -- neutron stars with magnetic fields exceeding the critical Schwinger field, merging neutron star and black hole binaries, and collapsing neutron stars are the primary astronomical sources where quantum electrodynamic (QED) and general relativistic (GR) effects strongly affect the properties and behavior of plasma.  This project aims to understand the dynamics of collisionless pair plasmas in such environments.  Moreover, recent advances in laser technology allow state-of-the-art high-intensity laser systems to approach regimes relevant for studies of plasma under such extreme, super-critical field conditions.  Upcoming laser-plasma experiments and multi-messenger astronomy observations will allow one to probe into extreme plasma and astrophysical phenomena that were previously inaccessible; and this project will create theoretical and numerical modeling foundations for interpreting results of such laboratory experiments and astronomical observations.  The specific questions to be addressed are: (i) What are the plasma properties, collective plasma modes and instabilities in a supercritical magnetic field? (ii) How do GR and QED effects change the dynamics of magnetic reconnection? (iii) How does a black hole formed in the collapse of a magnetized neutron star dissipate its magnetic field? (iv) How do rotating black holes produce electron-positron plasmas?  These questions will be answered using a combination of analytical and numerical approaches.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010109</AwardID>
+<Investigator>
+<FirstName>Mikhail</FirstName>
+<LastName>Medvedev</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mikhail V Medvedev</PI_FULL_NAME>
+<EmailAddress><![CDATA[medvedev@ku.edu]]></EmailAddress>
+<NSF_ID>000486411</NSF_ID>
+<StartDate>07/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>LAWRENCE</CityName>
+<ZipCode>660457563</ZipCode>
+<PhoneNumber>7858643441</PhoneNumber>
+<StreetAddress><![CDATA[2385 IRVING HILL RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SSUJB3GSH8A5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KANSAS CENTER FOR RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SSUJB3GSH8A5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>Lawrence</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>660457568</ZipCode>
+<StreetAddress><![CDATA[2385 Irving Hill Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>107Y00</Code>
+<Text>WoU-Windows on the Universe: T</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1062</Code>
+<Text>BASIC PLASMA SCIENCE &amp; ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~370000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The observational discovery of compact stars in our galaxy that are extraordinarily strong magnets, called neutron stars and magnetars, brings modern science into an uncharted territory of enormous magnetic fields. This is where spooky quantum mechanics, rather than everyday physics, describes objects as massive as our Sun. Spectacular advances in laser sciences and engineering allow the most advanced national laser facilities to approach regimes relevant for studies of such extreme conditions. Furthermore, the detection of gravitational wave signals from merging black holes and neutron stars opened a new observational domain for studies of objects governed by extremely strong gravity. Magnetars, neutron stars, and black holes can be viewed as astrophysical multi-messenger laboratories for studies of the interplay of quantum and gravitational effects altogether.&nbsp;</p> <p><br />In the course of this project, the following questions were addressed: (i) What are the plasma properties, collective plasma modes and instabilities in a supercritical magnetic field? (ii) How do GR and QED effects change the dynamics of magnetic reconnection? (iii) How does a black hole formed in the collapse of a magnetized neutron star dissipate its magnetic field? (iv) How do rotating black holes produce electron-positron plasmas? For example, we have found that intrinsic plasma modes in super-strong (super-Schwinger) magnetic fields are modified by the vacuum birefringence. An interesting effect of the magnetically-induced transparency of plasma for the so-called "ordinary" electromagnetic wave is discovered. It was also explored how matter (electron-positron plasma) is produced solely from the electric field and non-energetic photons near a spinning supermassive black hole. Our findings explain the origin and the highly-efficient production of relativistic jets emanating from the centers (nuclei) of active galaxies.&nbsp;</p> <p><br />Overall, this entire project has very valuable scientific outcomes that are of greatest importance for the national leadership in the world. It directly serves the national interest, as stated by NSF's mission, namely to promote the progress of science. This project has a strong broader impacts component, including education of graduate students, promotion of diversity, dissemination of scientific results, and other activities that benefit the society.&nbsp;</p><br> <p>  Last Modified: 07/09/2024<br> Modified by: Mikhail&nbsp;V&nbsp;Medvedev</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The observational discovery of compact stars in our galaxy that are extraordinarily strong magnets, called neutron stars and magnetars, brings modern science into an uncharted territory of enormous magnetic fields. This is where spooky quantum mechanics, rather than everyday physics, describes objects as massive as our Sun. Spectacular advances in laser sciences and engineering allow the most advanced national laser facilities to approach regimes relevant for studies of such extreme conditions. Furthermore, the detection of gravitational wave signals from merging black holes and neutron stars opened a new observational domain for studies of objects governed by extremely strong gravity. Magnetars, neutron stars, and black holes can be viewed as astrophysical multi-messenger laboratories for studies of the interplay of quantum and gravitational effects altogether.    In the course of this project, the following questions were addressed: (i) What are the plasma properties, collective plasma modes and instabilities in a supercritical magnetic field? (ii) How do GR and QED effects change the dynamics of magnetic reconnection? (iii) How does a black hole formed in the collapse of a magnetized neutron star dissipate its magnetic field? (iv) How do rotating black holes produce electron-positron plasmas? For example, we have found that intrinsic plasma modes in super-strong (super-Schwinger) magnetic fields are modified by the vacuum birefringence. An interesting effect of the magnetically-induced transparency of plasma for the so-called "ordinary" electromagnetic wave is discovered. It was also explored how matter (electron-positron plasma) is produced solely from the electric field and non-energetic photons near a spinning supermassive black hole. Our findings explain the origin and the highly-efficient production of relativistic jets emanating from the centers (nuclei) of active galaxies.    Overall, this entire project has very valuable scientific outcomes that are of greatest importance for the national leadership in the world. It directly serves the national interest, as stated by NSF's mission, namely to promote the progress of science. This project has a strong broader impacts component, including education of graduate students, promotion of diversity, dissemination of scientific results, and other activities that benefit the society.     Last Modified: 07/09/2024       Submitted by: MikhailVMedvedev]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

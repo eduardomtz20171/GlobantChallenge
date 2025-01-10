@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Integrated Analysis of the Cell Biological, Biomechanical, and Physiological Dynamics of Stomatal Guard Cells in Plants]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>301395.00</AwardTotalIntnAmount>
+<AwardAmount>307395</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Cyr</SignBlockName>
+<PO_EMAI>rcyr@nsf.gov</PO_EMAI>
+<PO_PHON>7032928440</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In plants, stomatal guard cells influence both photosynthesis and water transport and are thus essential for growth and efficient water use. However, our understanding of guard cell function at the cellular and molecular levels is limited. This project studies how guard cells dynamically expand and shrink to open and close stomatal pores, controlling the uptake of carbon dioxide and the release of oxygen and water by the plant. Understanding how guard cells function will aid in the development of resilient, high-yielding crops that can grow in hot, dry environments and more effectively remove carbon dioxide from the atmosphere. The image analysis and modeling tools created in this project will allow researchers to predict the behavior of a wide range of mechanical behaviors and responses by cells. This multidisciplinary project will train three PhD students as future leaders across the topics of cell biology, computational image analysis, and mechanical testing and modeling of biological systems, and will spread knowledge of guard cells and plant biology using learning modules and research experiences for K-12 and undergraduate students.&lt;br/&gt;&lt;br/&gt;Despite decades of research interest, the molecular and biophysical mechanisms by which stomatal guard cells function remain incompletely understood. In particular, the roles of the cell wall and water flux in guard cells and neighboring cells in stomatal mechanics are not fully defined. This project combines molecular genetics, cell biology, advanced microscopy, computational image analysis, nanoindentation, and computational modeling to measure and model turgor pressure and wall mechanics in wild type and mutant stomatal complexes of the model plant Arabidopsis thaliana. These analyses will be used to examine the biomechanics of guard cells and the dynamic mechanical and functional relationships between guard cells and their neighboring cells. Another major goal of the project is to use super-resolution microscopy to develop a clear picture of the molecular composition and architecture of the guard cell wall, and to use these data to construct detailed, accurate, and experimentally testable finite element and multiscale, multiphysics models of stomatal guard cells. Together, this work will enable the prediction of stomatal dynamics across a range of species, wall compositions, stomatal geometries, and signaling inputs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/11/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015947</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Turner</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph A Turner</PI_FULL_NAME>
+<EmailAddress><![CDATA[jaturner@unl.edu]]></EmailAddress>
+<NSF_ID>000387965</NSF_ID>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>LINCOLN</CityName>
+<ZipCode>685032427</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress><![CDATA[2200 VINE ST # 830861]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NE01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HTQ6K6NJFHA6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>Lincoln</CityName>
+<StateCode>NE</StateCode>
+<ZipCode>685880526</ZipCode>
+<StreetAddress><![CDATA[Mechanical and Materials Enginee]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NE01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111400</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~198025</FUND_OBLG>
+<FUND_OBLG>2022~109370</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>For this project, we created a novel experimental and computational framework to reveal information about the opening efficiency of the stomatal complex of a plant that is critical to plant biology research. &nbsp;The stomatal complexes control the exchange of gases and water vapor which is an important part of photosynthesis. Experimental nanoindentation and finite element models were used synergistically to quantify the cell wall properties and the cell turgor pressure. Then, the models were used to predict the efficiency of the pore opening. Measurements on several different mutants allowed the opening efficiency to be quantified with respect to the genetics. Our findings show that the wild-type plant is the most efficient of the plants tested. This work forms the basis for additional studies regarding stomatal complex efficiency across a wide range of plant species. The broader impacts of this project involved the cross-training of all members of the scientific team in the fields of biology, mechanical engineering, materials science, and mathematics. Many of the computational models were made available for other researchers. Outreach to the public also involved a summer camp for middle-school students that showed the predictive power of engineering within the beautiful and complex field of plant biology. The development of new crops for our growing and changing planet will require a clear understanding of the numerous genetic and environmental factors that affect growth and yield. The interdisciplinary approach used for this project involved biologists and engineers and is an example that shows the power of such coordinated efforts.</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/30/2024<br> Modified by: Joseph&nbsp;A&nbsp;Turner</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2015947/2015947_10679874_1730309933049_StomataIndentation--rgov-214x142.png" original="/por/images/Reports/POR/2024/2015947/2015947_10679874_1730309933049_StomataIndentation--rgov-800width.png" title="Guard Cell Indentation"><img src="/por/images/Reports/POR/2024/2015947/2015947_10679874_1730309933049_StomataIndentation--rgov-66x44.png" alt="Guard Cell Indentation"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Computational model that shows the tip of the nanoindenter as it contacts a guard cell. Force-displacement measurements in three orthogonal directions allow the anisotropy of the cell wall modulus to be quantified.</div> <div class="imageCredit">Sedighe Keynia</div> <div class="imagePermisssions">Copyright owner is an institution with an existing agreement allowing use by NSF</div> <div class="imageSubmitted">Joseph&nbsp;A&nbsp;Turner <div class="imageTitle">Guard Cell Indentation</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2015947/2015947_10679874_1730310146874_SummerCamp_2023--rgov-214x142.png" original="/por/images/Reports/POR/2024/2015947/2015947_10679874_1730310146874_SummerCamp_2023--rgov-800width.png" title="Summer Camp 2023"><img src="/por/images/Reports/POR/2024/2015947/2015947_10679874_1730310146874_SummerCamp_2023--rgov-66x44.png" alt="Summer Camp 2023"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The first day of the middle-school summer camp entitled "Engineering of Plant Cell Walls," that was held July 12-14, 2023.</div> <div class="imageCredit">Joseph A. Turner</div> <div class="imagePermisssions">Copyright owner is an institution with an existing agreement allowing use by NSF</div> <div class="imageSubmitted">Joseph&nbsp;A&nbsp;Turner <div class="imageTitle">Summer Camp 2023</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2015947/2015947_10679874_1730310071452_OpeningEfficiency--rgov-214x142.png" original="/por/images/Reports/POR/2024/2015947/2015947_10679874_1730310071452_OpeningEfficiency--rgov-800width.png" title="Stomata Opening Efficiency"><img src="/por/images/Reports/POR/2024/2015947/2015947_10679874_1730310071452_OpeningEfficiency--rgov-66x44.png" alt="Stomata Opening Efficiency"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The opening efficiency of guard cells for the wild type and several mutants. These results are based on a computational model that was based on experimental measurements.</div> <div class="imageCredit">Sedighe Keynia</div> <div class="imagePermisssions">Copyright owner is an institution with an existing agreement allowing use by NSF</div> <div class="imageSubmitted">Joseph&nbsp;A&nbsp;Turner <div class="imageTitle">Stomata Opening Efficiency</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  For this project, we created a novel experimental and computational framework to reveal information about the opening efficiency of the stomatal complex of a plant that is critical to plant biology research. The stomatal complexes control the exchange of gases and water vapor which is an important part of photosynthesis. Experimental nanoindentation and finite element models were used synergistically to quantify the cell wall properties and the cell turgor pressure. Then, the models were used to predict the efficiency of the pore opening. Measurements on several different mutants allowed the opening efficiency to be quantified with respect to the genetics. Our findings show that the wild-type plant is the most efficient of the plants tested. This work forms the basis for additional studies regarding stomatal complex efficiency across a wide range of plant species. The broader impacts of this project involved the cross-training of all members of the scientific team in the fields of biology, mechanical engineering, materials science, and mathematics. Many of the computational models were made available for other researchers. Outreach to the public also involved a summer camp for middle-school students that showed the predictive power of engineering within the beautiful and complex field of plant biology. The development of new crops for our growing and changing planet will require a clear understanding of the numerous genetic and environmental factors that affect growth and yield. The interdisciplinary approach used for this project involved biologists and engineers and is an example that shows the power of such coordinated efforts.        Last Modified: 10/30/2024       Submitted by: JosephATurner]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

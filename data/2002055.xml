@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+<PO_EMAI>sgdewint@nsf.gov</PO_EMAI>
+<PO_PHON>7032922599</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist.  The title of the project for this fellowship to Daniel Stern is "Geometric partial differential equations and their applications."  The host institution for the fellowship is University of Chicago, and the sponsoring scientist is Andre Neves.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002055</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Stern</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel L Stern</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000787434</NSF_ID>
+<StartDate>03/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Stern, Daniel]]></Name>
+<CityName>Princeton</CityName>
+<ZipCode>08544</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago Math Department]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606371505</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The work supported by this fellowship resulted in several contributions to the study of harmonic maps, minimal surfaces, and other natural variational problems arising in gauge theory and spectral geometry--problems of interest not only in mathematics, but throughout physics, materials science, and related fields, where they characterize equilibrium states for various systems. Harmonic maps, for instance, arise as simplified models in the study of liquid crystals&ndash;where their singularities correspond to observed defects, while minimal submanifolds arise in the study of soap films, black holes, and singularity formation in gauge-theoretic pdes originating in particle physics.</p> <p>&nbsp;</p> <p>Below we highlight some results obtained during the period of fellowship support.</p> <p>&nbsp;</p> <p>With Karpukhin, the PI obtained the first new general existence and regularity results for harmonic maps in supercritical dimension since the 1960s, developing a Morse theory for the Dirichlet energy for maps from all manifolds of dimension &gt;2 to a large class of targets including spheres of dimension &gt;2, compact simple Lie groups, and others satisfying natural curvature positivity conditions. With Karpukhin, Nahon, and Polterovich, the PI established qualitatively sharp stability results for natural isoperimetric problems for Laplace eigenvalues on closed surfaces, which the PI and Karpukhin subsequently used to analyze the geometry of associated minimal surfaces in the large topology limit.</p> <p>&nbsp;</p> <p>With Pigati, the PI showed that the density of generalized minimal submanifolds arising from solutions of the complex Ginzburg--Landau equations via energy concentration must be either 1 or any real number larger than 2, and showed by examples that this is sharp--answering in the negative the integrality question for these objects, which had been open for twenty years. With Parise and Pigati, the PI also obtained a series of results demonstrating the convergence of the self-dual abelian Higgs functionals to the codimension-two area functional in adiabatic limits, both in the variational sense and at the level of gradient flows, with applications to the study of the abelian Higgs equations and the construction of minimal submanifolds and mean curvature flows of higher codimension.</p> <p>&nbsp;</p> <p>In addition to the scientific outcomes described above, the PI served as a mentor for graduate students and undergraduates at the University of Chicago in formal and informal capacities, and was actively involved in organizing seminars and workshops, bringing together senior and early-career researchers working in geometric analysis and related fields. During this time, the PI delivered research lectures at various seminars and conferences, and gave two invited minicourses aimed at graduate students and young researchers in geometric analysis, both of which are available to the public online.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/01/2024<br> Modified by: Daniel&nbsp;L&nbsp;Stern</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The work supported by this fellowship resulted in several contributions to the study of harmonic maps, minimal surfaces, and other natural variational problems arising in gauge theory and spectral geometry--problems of interest not only in mathematics, but throughout physics, materials science, and related fields, where they characterize equilibrium states for various systems. Harmonic maps, for instance, arise as simplified models in the study of liquid crystalswhere their singularities correspond to observed defects, while minimal submanifolds arise in the study of soap films, black holes, and singularity formation in gauge-theoretic pdes originating in particle physics.      Below we highlight some results obtained during the period of fellowship support.      With Karpukhin, the PI obtained the first new general existence and regularity results for harmonic maps in supercritical dimension since the 1960s, developing a Morse theory for the Dirichlet energy for maps from all manifolds of dimension 2 to a large class of targets including spheres of dimension 2, compact simple Lie groups, and others satisfying natural curvature positivity conditions. With Karpukhin, Nahon, and Polterovich, the PI established qualitatively sharp stability results for natural isoperimetric problems for Laplace eigenvalues on closed surfaces, which the PI and Karpukhin subsequently used to analyze the geometry of associated minimal surfaces in the large topology limit.      With Pigati, the PI showed that the density of generalized minimal submanifolds arising from solutions of the complex Ginzburg--Landau equations via energy concentration must be either 1 or any real number larger than 2, and showed by examples that this is sharp--answering in the negative the integrality question for these objects, which had been open for twenty years. With Parise and Pigati, the PI also obtained a series of results demonstrating the convergence of the self-dual abelian Higgs functionals to the codimension-two area functional in adiabatic limits, both in the variational sense and at the level of gradient flows, with applications to the study of the abelian Higgs equations and the construction of minimal submanifolds and mean curvature flows of higher codimension.      In addition to the scientific outcomes described above, the PI served as a mentor for graduate students and undergraduates at the University of Chicago in formal and informal capacities, and was actively involved in organizing seminars and workshops, bringing together senior and early-career researchers working in geometric analysis and related fields. During this time, the PI delivered research lectures at various seminars and conferences, and gave two invited minicourses aimed at graduate students and young researchers in geometric analysis, both of which are available to the public online.           Last Modified: 10/01/2024       Submitted by: DanielLStern]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

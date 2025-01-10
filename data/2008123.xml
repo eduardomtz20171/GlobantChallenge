@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-BSF: HCC: Small: Computational Imaging with Speckle Correlations for Material Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>499859.00</AwardTotalIntnAmount>
+<AwardAmount>499859</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Light scattering materials are ubiquitous: from biological tissues and minerals to the atmosphere and clouds, cosmetics, and many industrial chemicals. When viewed under coherent imaging conditions such as laser illumination, these materials create "noisy" images containing small spurious spots of color known as speckle, which severely degrade image quality. Despite their seemingly random nature, speckle images have strong statistical properties that are highly informative of the material producing them, and can be used to enable remarkable imaging capabilities (for example, being able to see through or focus inside a material). However, realizing these capabilities in practical application settings where scattering is important (tissue imaging, fluorescence microscopy, remote sensing, material fabrication) remains a challenge due to our incomplete understanding of speckle statistical properties. This project will use techniques from computer vision and computer graphics to greatly enhance our understanding of these properties, and significantly expand the scope of possible applications, thereby having transformative impact in areas such as medicine and material science. The project will additionally create a new point of convergence between vision, graphics, optics, and imaging, establishing new research directions and methodological approaches within and across these areas.&lt;br/&gt;&lt;br/&gt;Achieving the project's goals will require developing a better understanding of the limitations inherent in speckle statistics, and using this knowledge to invent better imaging algorithms. To date, efforts towards this direction have been hindered by difficulties in simulating speckle effects stemming from the complexity of the wave-optics and multiple-scattering phenomena underlying them.  This project will change this state of affairs through three tightly coupled research thrusts: 1) Simulation The project will first develop Monte Carlo rendering algorithms that efficiently simulate physically accurate speckle images and different types of statistics (spatial, temporal, spectral). These tools will be used to perform a thorough qualitative and quantitative investigation of the statistical properties of speckle images, with emphasis on application-relevant settings. Phenomenological discoveries will be backed by theoretical analysis of the underlying physics. 2) The project will develop new algorithms for speckle-based imaging through scattering, using the insights from the exploration of speckle statistics. These algorithms will be designed to specifically exploit additional statistical structure in speckle images that currently remains untapped. The improved performance of the developed algorithms will be demonstrated through experiments on tissue phantoms and under conditions emphasizing fluorescence imaging applications. 3)The project will develop computational imaging systems that use the rich information available in speckle images to characterize the optical scattering properties of material samples (for instance, for material quality control). The use of speckle measurements will endow these systems with a combination of accuracy, efficiency, and generality that is not available in existing scattering acquisition technologies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/23/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008123</AwardID>
+<Investigator>
+<FirstName>Ioannis</FirstName>
+<LastName>Gkioulekas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ioannis Gkioulekas</PI_FULL_NAME>
+<EmailAddress><![CDATA[igkioule@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000743510</NSF_ID>
+<StartDate>02/23/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 Forbes Avenue, Smith Hall R]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736700</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~499859</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-e7318c68-7fff-2e84-5298-98e5689d4a43"> </span></p> <p dir="ltr"><span>When viewed under coherent illumination such as laser, scattering materials such as biological tissues show noise-like images known as speckle. Despite their seemingly random nature, speckle patterns have strong statistical properties that are highly informative of the material producing them. These properties can enable imaging through tissue and below the skin, noninvasively and at cellular resolutions.</span></p> <p dir="ltr"><strong>Intellectual merit</strong></p> <p dir="ltr"><span>This project leveraged computational techniques from computer graphics and vision to greatly enhance our understanding of speckle statistical properties, and significantly expand the scope of their applications in tissue imaging. Three research thrusts contributed to these achievements. The efforts in these thrusts produced more than 20 publications at top journals and conferences&mdash;including two best paper awards&mdash;two PhD theses, and multiple software and dataset releases.</span></p> <p dir="ltr"><em>Thrust 1: Monte Carlo simulation of speckle statistics.</em><span> The project developed a suite of simulation methods for speckle images and their statistics. These methods use Monte Carlo simulation, borrowing techniques from physics-based rendering algorithms in computer graphics for simulation of incoherent light transport. They enable simulation of speckle statistics at scenes and speeds five&ndash;six orders of magnitude greater than previous simulation methods from applied physics. They also provide much improved accuracy and generality, reproducing effects such as multiple scattering, spatio-temporal correlations, and near-field imaging. The new simulation methods made it possible, for the first time, to systematically explore through extensive simulation speckle statistical properties in application-relevant conditions that were previously difficult to study without painstaking lab experiments.</span></p> <p dir="ltr"><em>Thrust 2: Tissue imaging with speckle statistics.</em><span> The project developed methods for imaging through tissue at visible wavelengths and cellular resolutions. These methods enable fluorescence microscopy of vasculature, using speckle correlations (memory effect) and phase conjugation to mitigate the effects of multiple scattering and approximate ballistic-only imaging. The new imaging methods leverage insights from the simulation-enabled analysis of speckle statistical properties, to greatly outperform analogous previous methods along multiple performance axes&mdash;resolution, field of view, penetration depth, and signal-to-noise ratio. This improved performance was demonstrated by developing imaging prototypes and using them to perform extensive fluorescence microscopy experiments on both fabricated tissue phantoms and real animal tissue.</span></p> <p dir="ltr"><em>Thrust 3: Applications beyond tissue imaging.</em><span> The project extended techniques developed for simulation of, and imaging with, speckle statistics to related application settings beyond tissue imaging. On the simulation front, the project developed Monte Carlo methods for the simulation of partial differential equations more general than the Helmholtz equation describing speckle. Compared to previous simulation discretization methods, such as the finite element and boundary element methods, these Monte Carlo methods offer several advantages, including scalability to very complex geometries, trivial parallelization, and robustness to incorrect geometry. The new Monte Carlo methods can reduce the time it takes to simulate, e.g., oxygen flow in blood or heat transfer in spacecraft, from days to a few seconds. Additionally, these Monte Carlo methods are differentiable, enabling the solution of inverse problems in application areas such as thermal design.</span></p> <p dir="ltr"><span>On the imaging front, the project developed imaging methods that use interferometric speckle correlations to enable groundbreaking depth sensing capabilities. The project introduced swept-angle synthetic wavelength interferometry, a method that enables full-field microscopic depth measurements of arbitrary materials&mdash;from metallic to highly scattering surfaces. These capabilities were demonstrated using an imaging prototype deployed in application settings such as aircraft inspection and additive fabrication. Additionally, the project introduced sunlight interferometry, a method for passive depth sensing at micrometer resolution. This method enables lidar-like depth sensing, outdoors at uncontrolled environment settings, using only sunlight. The same method also enables, for the first time, passive imaging capabilities such as direct-only imaging, light-in-flight imaging, and imaging through scattering.</span></p> <p dir="ltr"><strong>Broader impacts</strong></p> <p dir="ltr"><span>This project has established Monte Carlo simulation of speckle, other wave-optical effects, and general partial differential equations as core research areas within computer graphics and vision. The past three years have seen the publication of several papers on these topics in all the top conferences in the principal disciplines of the project. These topics have also been the subject matter for multiple workshops and tutorials across computer graphics and vision.&nbsp;</span></p> <p dir="ltr"><span>The project has produced Monte Carlo simulation software and imaging methods that are already having significant impact outside of the project&rsquo;s principal disciplines. For example, these technologies are already finding use in medical imaging, particle sizing, thermal design, architectural design, fabrication, fluid simulation and other research and engineering areas.</span></p> <p dir="ltr"><span>The project has facilitated the development of educational and outreach resources that help increase engagement and improve representation in STEM. The project has resulted in the creation of revised course curricula on computational photography and physically based rendering at Carnegie Mellon University, and courses and tutorials at major computer graphics and vision venues. The project has additionally facilitated the development of a series of weekend courses and summer workshops that introduce middle-school and high-school students from underrepresented minorities to STEM, computer graphics, computer vision.</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 08/18/2024<br> Modified by: Ioannis&nbsp;Gkioulekas</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      When viewed under coherent illumination such as laser, scattering materials such as biological tissues show noise-like images known as speckle. Despite their seemingly random nature, speckle patterns have strong statistical properties that are highly informative of the material producing them. These properties can enable imaging through tissue and below the skin, noninvasively and at cellular resolutions.   Intellectual merit   This project leveraged computational techniques from computer graphics and vision to greatly enhance our understanding of speckle statistical properties, and significantly expand the scope of their applications in tissue imaging. Three research thrusts contributed to these achievements. The efforts in these thrusts produced more than 20 publications at top journals and conferencesincluding two best paper awardstwo PhD theses, and multiple software and dataset releases.   Thrust 1: Monte Carlo simulation of speckle statistics. The project developed a suite of simulation methods for speckle images and their statistics. These methods use Monte Carlo simulation, borrowing techniques from physics-based rendering algorithms in computer graphics for simulation of incoherent light transport. They enable simulation of speckle statistics at scenes and speeds fivesix orders of magnitude greater than previous simulation methods from applied physics. They also provide much improved accuracy and generality, reproducing effects such as multiple scattering, spatio-temporal correlations, and near-field imaging. The new simulation methods made it possible, for the first time, to systematically explore through extensive simulation speckle statistical properties in application-relevant conditions that were previously difficult to study without painstaking lab experiments.   Thrust 2: Tissue imaging with speckle statistics. The project developed methods for imaging through tissue at visible wavelengths and cellular resolutions. These methods enable fluorescence microscopy of vasculature, using speckle correlations (memory effect) and phase conjugation to mitigate the effects of multiple scattering and approximate ballistic-only imaging. The new imaging methods leverage insights from the simulation-enabled analysis of speckle statistical properties, to greatly outperform analogous previous methods along multiple performance axesresolution, field of view, penetration depth, and signal-to-noise ratio. This improved performance was demonstrated by developing imaging prototypes and using them to perform extensive fluorescence microscopy experiments on both fabricated tissue phantoms and real animal tissue.   Thrust 3: Applications beyond tissue imaging. The project extended techniques developed for simulation of, and imaging with, speckle statistics to related application settings beyond tissue imaging. On the simulation front, the project developed Monte Carlo methods for the simulation of partial differential equations more general than the Helmholtz equation describing speckle. Compared to previous simulation discretization methods, such as the finite element and boundary element methods, these Monte Carlo methods offer several advantages, including scalability to very complex geometries, trivial parallelization, and robustness to incorrect geometry. The new Monte Carlo methods can reduce the time it takes to simulate, e.g., oxygen flow in blood or heat transfer in spacecraft, from days to a few seconds. Additionally, these Monte Carlo methods are differentiable, enabling the solution of inverse problems in application areas such as thermal design.   On the imaging front, the project developed imaging methods that use interferometric speckle correlations to enable groundbreaking depth sensing capabilities. The project introduced swept-angle synthetic wavelength interferometry, a method that enables full-field microscopic depth measurements of arbitrary materialsfrom metallic to highly scattering surfaces. These capabilities were demonstrated using an imaging prototype deployed in application settings such as aircraft inspection and additive fabrication. Additionally, the project introduced sunlight interferometry, a method for passive depth sensing at micrometer resolution. This method enables lidar-like depth sensing, outdoors at uncontrolled environment settings, using only sunlight. The same method also enables, for the first time, passive imaging capabilities such as direct-only imaging, light-in-flight imaging, and imaging through scattering.   Broader impacts   This project has established Monte Carlo simulation of speckle, other wave-optical effects, and general partial differential equations as core research areas within computer graphics and vision. The past three years have seen the publication of several papers on these topics in all the top conferences in the principal disciplines of the project. These topics have also been the subject matter for multiple workshops and tutorials across computer graphics and vision.   The project has produced Monte Carlo simulation software and imaging methods that are already having significant impact outside of the projects principal disciplines. For example, these technologies are already finding use in medical imaging, particle sizing, thermal design, architectural design, fabrication, fluid simulation and other research and engineering areas.   The project has facilitated the development of educational and outreach resources that help increase engagement and improve representation in STEM. The project has resulted in the creation of revised course curricula on computational photography and physically based rendering at Carnegie Mellon University, and courses and tutorials at major computer graphics and vision venues. The project has additionally facilitated the development of a series of weekend courses and summer workshops that introduce middle-school and high-school students from underrepresented minorities to STEM, computer graphics, computer vision.        Last Modified: 08/18/2024       Submitted by: IoannisGkioulekas]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

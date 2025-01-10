@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Leveraging Massive Smartphone Location Data to Improve Understanding and Prediction of Behavior in Hurricanes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>346037.00</AwardTotalIntnAmount>
+<AwardAmount>346037</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daan Liang</SignBlockName>
+<PO_EMAI>dliang@nsf.gov</PO_EMAI>
+<PO_PHON>7032922441</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In this project, newly available anonymous smartphone location data will be used to dramatically improve understanding of how households behave during hurricanes (e.g., how many people will evacuate, when, how, from where, and to where). Although previous research has provided valuable knowledge about population behavior in hurricanes, important gaps remain. Available models have limited ability to predict behavior in future hurricanes. Differences in behavior across different types of households and people, such as tourists or people without vehicles, are not well known. Neither are the sequence and timing of events that unfold for individuals over the duration of a hurricane. These gaps are largely due to limitations in the traditional types of data that have supported past research—surveys, interviews, and focus groups. This project will promote the science of modeling evacuation behavior by capitalizing on the availability of a new type of data— anonymous location information from smartphones—to make a leap forward in understanding and predicting the behavior of the population during hurricane evacuations. The project will advance national welfare and benefit society by substantially improving the ability to manage future evacuations. During a hurricane, officials make many highly consequential decisions, including issuing official evacuation orders, messaging the public, opening shelters, staging materials and staff, implementing special traffic plans, executing support for vehicle-less populations, and preparing to undertake rescues. All of these depend directly on how many people are expected to evacuate, when, how, from where, and to where. By providing a more accurate and nuanced prediction of population behavior during hurricanes, this project will enable officials to make those decisions in a more informed and effective way. To ensure findings will be translated to practice quickly and effectively, the research has been designed so that it can be integrated into the current decision-making tools and processes used by emergency managers. Our practitioner partners from the Federal Emergency Management Agency (FEMA) and the Florida and North Carolina state emergency management agencies will also help us share findings with the larger emergency management community. This study will facilitate the development of a procedure to acquire and analyze, in real time, similar data for other evacuation events.&lt;br/&gt;&lt;br/&gt;Availability of new smartphone location data offers a rare opportunity to transform the study of population behavior in hurricanes. The data offers many benefits, including samples that are orders of magnitude larger than previously typical; offering cohesive timelines of individual behavior; providing direct observations not subject to recall or reporting bias; being available within 24 hours of movement; and being available at low cost in consistent form for many hurricanes. Combining the power of the new data with domain expertise based on traditional survey and interview data will advance the science in this area in five ways. First, we will improve knowledge by testing hypotheses from the traditional literature using a larger, independent dataset and new hypotheses not easily testable in the past. Second, multiple events may happen during the course of a hurricane, including hurricane-related events (e.g., hurricane turns, intensifies), official actions (e.g., issue official orders, close schools), and personal events (e.g., released from work). Each person experiences some or all of these events in a sequence over a hurricane’s duration. We will use sequential pattern mining to describe key observable events and actions, their possible sequences, the probabilities of different sequences, and duration distributions of each event. This modeling of the sequence and timing of events for individuals, which has not been done before, will illuminate the range of ways hurricane behavior, official actions, personal decisions, and time markers interact and unfold, and help identify promising points of intervention for evacuation support. Third, we will develop new statistical models to predict the probability a person will evacuate at each time period and go to a particular geographic destination as a function of attributes of the individual/household, official events, hurricane, forecast, time markers, and past actions since the hurricane formed. These models will offer improved out-of-sample predictive power by identifying influences on behavior that are not observable with small datasets; by improving the ability to predict geographic destination, which is important for estimating clearance times; and by, for the first time, taking advantage of observations of behavior early in the event that may be leading indicators of final behavior. Fourth, we will test the route choice assumptions implicit in traffic models used to predict clearance times, and determine the effects of road closures on traffic patterns during evacuation and reentry. The new data will allow testing that is more detailed and comprehensive than previously possible through isolated traffic counts and surveys. Finally, we will identify new behaviors and questions for future traditional research using a general inductive approach.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002589</AwardID>
+<Investigator>
+<FirstName>Rachel</FirstName>
+<LastName>Davidson</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rachel A Davidson</PI_FULL_NAME>
+<EmailAddress><![CDATA[rdavidso@udel.edu]]></EmailAddress>
+<NSF_ID>000295295</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tricia</FirstName>
+<LastName>Wachtendorf</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tricia Wachtendorf</PI_FULL_NAME>
+<EmailAddress><![CDATA[twachten@udel.edu]]></EmailAddress>
+<NSF_ID>000238711</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>DeYoung</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarah E DeYoung</PI_FULL_NAME>
+<EmailAddress><![CDATA[sedeyoun@udel.edu]]></EmailAddress>
+<NSF_ID>000675525</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Trivedi</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer M Trivedi</PI_FULL_NAME>
+<EmailAddress><![CDATA[jtrivedi@udel.edu]]></EmailAddress>
+<NSF_ID>000737801</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197131324</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress><![CDATA[550 S COLLEGE AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName/>
+<StateCode>DE</StateCode>
+<ZipCode>197162553</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>163800</Code>
+<Text>HDBE-Humans, Disasters, and th</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~173019</FUND_OBLG>
+<FUND_OBLG>2021~173018</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-87787daf-7fff-e4fd-5ef7-7f8bd7049a46"> <p dir="ltr"><span>A major challenge in managing hurricane evacuations effectively and efficiently is the substantial uncertainty in population behavior, including how many people will leave, when, where from, and where to. Although there has been a great deal of research seeking to improve understanding of population behavior, gaps remain. Available statistical models of population behavior have limited predictive power. Differences in behavior across populations and events, and the sequence and timing of events unfolding over the duration of a hurricane for different individuals is not well known. This project has capitalized on the availability of a new data type - location information from smartphones - and combined it with new data and existing knowledge of human decision-making. We created automated methods and algorithms to model evacuations and predict evacuation behavior from smartphone location data, while working within existing restrictions of the data maintained for personal privacy, such as the random modification of device IDs at regular intervals and the variation in specific hurricanes and resulting behavior. Within these parameters, we developed a replicable, generalizable process to identify evacuees and their movements. We tested this process with data from four distinct recent hurricanes affecting different geographic areas and populations (Florence in 2018 in North Carolina; Michael in 2018 in the Florida panhandle; Dorian in 2019 in Florida/Southeast U.S.; Ida in 2021 in Louisiana).&nbsp;</span></p> <p dir="ltr"><span>Testing models in a variety of hurricane scenarios is critical to ensuring they work in a broader range of settings. It also increases the potential broader impacts of the models and their benefits to society, allowing for advancement of evacuation modeling that can help warn areas in advance with better clearance, but also doing so with an understanding of real world existing human decision making and behavior.&nbsp;</span></p> <p dir="ltr"><span>Moving beyond testing on existing data, we built a new machine learning model that predicts evacuee destinations. The </span><span>machine learning </span><span>model we developed predicts the number of evacuees who will move between pairs of metropolitan statistical areas. It outperforms current models of this type, making it useful in future efforts to further improve tools that can be used in evacuation planning. Moreover, the models demonstrate that hurricane characteristics are important in evacuee destination choices, adding to our understanding of behavior in evacuation decision making.&nbsp;</span></p> <p dir="ltr"><span>We conducted additional analysis that explored the relationship between evacuation decisions and visits to specific businesses (or &ldquo;points of interest,&rdquo; &ldquo;POIs&rdquo;) before hurricanes make landfall, using data from Hurricanes Dorian (2019), Ida (2021), and Ian (2022). Our analysis revealed distinctions in which POIs people visit can serve as indicators that they may be more likely to evacuate or shelter-in-place. Such findings advance our knowledge of pre-evacuation or sheltering behavior, as well as create a foundation for using smartphone location data in real time to further improve predictions of behavior as hurricanes approach.&nbsp;&nbsp;</span></p> <p dir="ltr"><span>Throughout this work, we have also conducted web-based surveys to incorporate the perspectives and experiences of people making evacuation and sheltering decisions. We deployed our survey after Hurricanes Florence, Michael, and Dorian, as well as a modified version after Ida and Ian. Our analyses of these survey data have contributed to our work with the smartphone location data, but also served in their own right to help us better understand evacuation decision-making and other issues affecting it. Our surveys with Hurricanes Ida and Ian, for example, have led to additional insights into our understanding of how people make decisions in compounding disasters broadly and in the COVID-19 pandemic specifically. The Hurricane Ian data also show patterns in lack of trust in government, the effect of evacuation/traffic experience in evacuation decision-making, and perceptions of uncertainty in the hurricane track and forecast.&nbsp;</span></p> <p dir="ltr"><span>Throughout this grant, several post-doctoral researchers and graduate students have been involved in the work, adding to their training and professional development, including two post-doctoral researchers in civil engineering, two Master&rsquo;s students in civil engineering, one Ph.D. student in civil engineering, and one Ph.D. student in disaster science and management. Their work has resulted in two Master&rsquo;s theses and one dissertation being completed on this topic.&nbsp;</span></p> <p dir="ltr"><span>In addition, one journal article has been published on work tied to this grant, while three more are under review, and one is in planning with analysis in the early stages. In addition, two conference presentations have been given including work from this research, one survey instrument has been published, and one piece of media outreach has been completed.</span></p> </span></p> <p>&nbsp;</p><br> <p>  Last Modified: 09/30/2024<br> Modified by: Rachel&nbsp;A&nbsp;Davidson</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     A major challenge in managing hurricane evacuations effectively and efficiently is the substantial uncertainty in population behavior, including how many people will leave, when, where from, and where to. Although there has been a great deal of research seeking to improve understanding of population behavior, gaps remain. Available statistical models of population behavior have limited predictive power. Differences in behavior across populations and events, and the sequence and timing of events unfolding over the duration of a hurricane for different individuals is not well known. This project has capitalized on the availability of a new data type - location information from smartphones - and combined it with new data and existing knowledge of human decision-making. We created automated methods and algorithms to model evacuations and predict evacuation behavior from smartphone location data, while working within existing restrictions of the data maintained for personal privacy, such as the random modification of device IDs at regular intervals and the variation in specific hurricanes and resulting behavior. Within these parameters, we developed a replicable, generalizable process to identify evacuees and their movements. We tested this process with data from four distinct recent hurricanes affecting different geographic areas and populations (Florence in 2018 in North Carolina; Michael in 2018 in the Florida panhandle; Dorian in 2019 in Florida/Southeast U.S.; Ida in 2021 in Louisiana).   Testing models in a variety of hurricane scenarios is critical to ensuring they work in a broader range of settings. It also increases the potential broader impacts of the models and their benefits to society, allowing for advancement of evacuation modeling that can help warn areas in advance with better clearance, but also doing so with an understanding of real world existing human decision making and behavior.   Moving beyond testing on existing data, we built a new machine learning model that predicts evacuee destinations. The machine learning model we developed predicts the number of evacuees who will move between pairs of metropolitan statistical areas. It outperforms current models of this type, making it useful in future efforts to further improve tools that can be used in evacuation planning. Moreover, the models demonstrate that hurricane characteristics are important in evacuee destination choices, adding to our understanding of behavior in evacuation decision making.   We conducted additional analysis that explored the relationship between evacuation decisions and visits to specific businesses (or points of interest, POIs) before hurricanes make landfall, using data from Hurricanes Dorian (2019), Ida (2021), and Ian (2022). Our analysis revealed distinctions in which POIs people visit can serve as indicators that they may be more likely to evacuate or shelter-in-place. Such findings advance our knowledge of pre-evacuation or sheltering behavior, as well as create a foundation for using smartphone location data in real time to further improve predictions of behavior as hurricanes approach.   Throughout this work, we have also conducted web-based surveys to incorporate the perspectives and experiences of people making evacuation and sheltering decisions. We deployed our survey after Hurricanes Florence, Michael, and Dorian, as well as a modified version after Ida and Ian. Our analyses of these survey data have contributed to our work with the smartphone location data, but also served in their own right to help us better understand evacuation decision-making and other issues affecting it. Our surveys with Hurricanes Ida and Ian, for example, have led to additional insights into our understanding of how people make decisions in compounding disasters broadly and in the COVID-19 pandemic specifically. The Hurricane Ian data also show patterns in lack of trust in government, the effect of evacuation/traffic experience in evacuation decision-making, and perceptions of uncertainty in the hurricane track and forecast.   Throughout this grant, several post-doctoral researchers and graduate students have been involved in the work, adding to their training and professional development, including two post-doctoral researchers in civil engineering, two Masters students in civil engineering, one Ph.D. student in civil engineering, and one Ph.D. student in disaster science and management. Their work has resulted in two Masters theses and one dissertation being completed on this topic.   In addition, one journal article has been published on work tied to this grant, while three more are under review, and one is in planning with analysis in the early stages. In addition, two conference presentations have been given including work from this research, one survey instrument has been published, and one piece of media outreach has been completed.         Last Modified: 09/30/2024       Submitted by: RachelADavidson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: EAGER: Establishing immortalized cell lines from the European honey bee, Apis mellifera]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>177191.00</AwardTotalIntnAmount>
+<AwardAmount>177191</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Shisler</SignBlockName>
+<PO_EMAI>jshisler@nsf.gov</PO_EMAI>
+<PO_PHON>7032925368</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This EAGER will advance the national prosperity and add to national bioeconomy by creating a new bee cell line that will help identify how bees succumb to microbial infections. Populations of bees and other pollinators are in decline worldwide, which has major implications for ecosystem health and agricultural production interests. Colony collapse disorder, involving colonies of the European honey bee, Apis mellifera, is just one dramatic example of rapid loss of pollinators. Although a large number of viruses infect bees, it is not known how these viruses impact bee decline. A bee cell line would benefit science because it would allow scientists to identify how bee viruses infect and kill bees. The goal of this research is to establish and characterize the first immortalized cell lines from Apis mellifera. The resulting immortalized cell line(s) will provide an invaluable resources for the virology research field. In addition to helping the honey bee scientific community, this research may help understand disease dynamics in other pollinator species, many of which are important for US agriculture. This cell line may be the basis for commercially-available testing kits to identify or track bee diseases. The research uses funding to train graduate and undergraduate students, including under-represented students. As such this funding is training the next generation of leaders in science. Researchers will share their findings to the public through the use of beekeeping workshops, and honey bee health and research awareness activities through farmer’s markets and video documentaries. &lt;br/&gt;&lt;br/&gt;The lack of immortalized bee cell lines has greatly hampered research on bee viruses. Thus far, only primary cell cultures have been established from Apis mellifera, the European honey bee. These primary cell cultures are difficult to establish and maintain, and suffer from several major drawbacks including the presence of multiple resident viruses, extremely slow cell division rates, and limitations on the number of passages before reaching senescence. This research will examine the ability of candidate honey bee genes to immortalize A. mellifera embryonic cells. This will be accomplished by stably expressing candidate genes in primary embryonic cells isolated from embryos and monitoring growth and survival of the resulting cells. Primary cells isolated from different developmental stages of the embryo will be used, in order to attempt to obtain immortalized cell lines that represent various cell types. Cell clones with optimum growth characteristics that are able to be stably passaged will be selected. The resulting immortalized cell lines will be screened for resident viruses by deep sequencing, and any viruses present will be cleared by using a combination of RNA interference and single cell cloning. The resulting virus-free, immortalized honey bee cell lines will be made available to the research community. If successful, this approach will also provide a template for researchers to isolate immortalized cell lines from other bee species. This research was supported by the Symbiosis, Defense and Self-Recognition program of the National Science Foundation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2024024</AwardID>
+<Investigator>
+<FirstName>Rollie</FirstName>
+<LastName>Clem</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rollie J Clem</PI_FULL_NAME>
+<EmailAddress><![CDATA[rclem@ksu.edu]]></EmailAddress>
+<NSF_ID>000534975</NSF_ID>
+<StartDate>04/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Kansas State University]]></Name>
+<CityName>MANHATTAN</CityName>
+<ZipCode>665062504</ZipCode>
+<PhoneNumber>7855326804</PhoneNumber>
+<StreetAddress><![CDATA[1601 VATTIER STREET]]></StreetAddress>
+<StreetAddress2><![CDATA[103 FAIRCHILD HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CFMMM5JM7HJ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>KANSAS STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Kansas State University]]></Name>
+<CityName>Manhattan</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>665061103</ZipCode>
+<StreetAddress><![CDATA[1601 Vattier Street, 2 Fairchild]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>765600</Code>
+<Text>Symbiosis Infection &amp; Immunity</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~177191</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The original goal of this project was to establish a cell line from honey bees that is immortal, meaning that the cells can be grown and passaged an unlimited number of times. Immortalized cell lines from bees do not currently exist, so establishing one would greatly assist in research on honey bees. Unfortunately, despite several attempts, we were not able to isolate immortalized cells from honey bee embryos. One of the reasons why we were unsucessful may have been due to variability between individual bees. Understanding individual variation among insect populations thus became of interest. In this light, we were able to pivot our studies to attempting to understand the basis for individual variation in virus titer among Aedes aegypti mosquitoes that are infected with an arbovirus called Sindbis virus. It has been known for many years that individual mosquitoes that are infected with arboviruses exhibit huge variability, up to a million-fold, in the amount of infectious virus in each mosquito. To understand the basis for this variation, we sequenced the virus populations from individual mosquitoes that were high titer (containing greater than 100 million infectious units) or low titer (containing less than 10 thousand infectious units).&nbsp; Analyzing the sequences of these virus populations, we observed that the viruses found in the low titer mosquitoes had lower evolutionary fitness than viruses from high titer mosquitoes.&nbsp; The cause of this difference is likely due to genetic founder effect, in other words the low titer mosquitoes were by chance infected with viruses in the original population that were less fit than the viruses that infected high titer mosquitoes.</p> <p>Interestingly, we did not observe a significant difference in the amount of viral RNA genomes in the high titer versus the low titer mosquitoes. We also found that there were more virus particles in the high titer mosquitoes. This indicated that the packaging of viral genomes was less efficient in low titer mosquitoes than in high titer mosquitoes. Furthermore, we found that suppressing antiviral immunity resulted in more efficient genome packaging. Thus our data indicate that a currently unknown facet of the antiviral immune response in Aedes aegypti is able to negatively impact viral genome packaging, which is a novel finding.</p> <p>The Broader Impacts of the work carried out in this project included the mentoring of a graduate student and public outreach in the form of a workshop for middle school students.&nbsp; In addition, the increased knowledge of antiviral immunity in mosquitoes may eventually lead to improved methods of control of arboviral diseases.</p><br> <p>  Last Modified: 05/31/2024<br> Modified by: Rollie&nbsp;J&nbsp;Clem</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The original goal of this project was to establish a cell line from honey bees that is immortal, meaning that the cells can be grown and passaged an unlimited number of times. Immortalized cell lines from bees do not currently exist, so establishing one would greatly assist in research on honey bees. Unfortunately, despite several attempts, we were not able to isolate immortalized cells from honey bee embryos. One of the reasons why we were unsucessful may have been due to variability between individual bees. Understanding individual variation among insect populations thus became of interest. In this light, we were able to pivot our studies to attempting to understand the basis for individual variation in virus titer among Aedes aegypti mosquitoes that are infected with an arbovirus called Sindbis virus. It has been known for many years that individual mosquitoes that are infected with arboviruses exhibit huge variability, up to a million-fold, in the amount of infectious virus in each mosquito. To understand the basis for this variation, we sequenced the virus populations from individual mosquitoes that were high titer (containing greater than 100 million infectious units) or low titer (containing less than 10 thousand infectious units). Analyzing the sequences of these virus populations, we observed that the viruses found in the low titer mosquitoes had lower evolutionary fitness than viruses from high titer mosquitoes. The cause of this difference is likely due to genetic founder effect, in other words the low titer mosquitoes were by chance infected with viruses in the original population that were less fit than the viruses that infected high titer mosquitoes.   Interestingly, we did not observe a significant difference in the amount of viral RNA genomes in the high titer versus the low titer mosquitoes. We also found that there were more virus particles in the high titer mosquitoes. This indicated that the packaging of viral genomes was less efficient in low titer mosquitoes than in high titer mosquitoes. Furthermore, we found that suppressing antiviral immunity resulted in more efficient genome packaging. Thus our data indicate that a currently unknown facet of the antiviral immune response in Aedes aegypti is able to negatively impact viral genome packaging, which is a novel finding.   The Broader Impacts of the work carried out in this project included the mentoring of a graduate student and public outreach in the form of a workshop for middle school students. In addition, the increased knowledge of antiviral immunity in mosquitoes may eventually lead to improved methods of control of arboviral diseases.     Last Modified: 05/31/2024       Submitted by: RollieJClem]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

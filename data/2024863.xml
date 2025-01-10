@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: NRI: INT: Customizable Lower-Limb Wearable Robot using Soft-Wearable Sensor to Assist Occupational Workers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>449235.00</AwardTotalIntnAmount>
+<AwardAmount>449235</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christine Leuenberger</SignBlockName>
+<PO_EMAI>cleuenbe@nsf.gov</PO_EMAI>
+<PO_PHON>7032927563</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award supports an integrative, collaborative project to develop a personalized lower-limb assistive wearable robot that reduces human effort during physically intensive activities, such as lifting. The robot works by sensing a user’s physical effort using soft-wearable electronics and responding accordingly to reduce this effort.  This work has significant applications in factory labor involving weights, as overexertion injuries are both costly and frequently disabling.  This research investigates the effectiveness of this wearable robot strategy in reducing human effort and develops strategies to improve the utilization of wearable robots and soft wearable electronics. The robot assistance to each individual human wearer is customized using an estimation method based on various metrics. The estimation method can also be used to design a training method using a wearable robot. The soft wearable sensors will be useful in robotics as well as medical applications related to diagnosis, monitoring, and therapeutics. The proposed project integrates research and education by developing a project-based course on wearable robotics and supporting graduate and undergraduate student mentoring in independent research and thesis studies. The project strengthens the infrastructure for education and research by helping maintain wearable robot testbeds. The research results will be broadly disseminated through publications, software, and data sets. &lt;br/&gt;&lt;br/&gt;The research team members have three objectives that contribute to the goal of customizability in wearable robot personalized assistance. First, the customization process will be improved by identifying alternative optimization criteria to efficiently estimate the user’s physical effort during physically intensive activities. This will be accomplished through a rapid and robust estimate of the user effort using a conventional physiological sensor, such as a muscle activity sensor, followed by an estimate using new soft wearable electronics. Second, the work will enhance soft-wearable electronics with the goal of improving on and replacing conventional sensors. Associated tasks will explore the feasibility of using existing soft wearable electronics as sensors and then iteratively improve the electronics and estimation method to accurately sense and estimate physiological status. Third, the study will integrate and evaluate the personalized assistance achieved using soft wearable sensor measurements in a physically intensive activity, such as lifting using an ankle exoskeleton. This task will use appropriate metrics such as energy expenditure rate of the task and muscle activity. The work will result in customized (personalized) assistance available from a wearable robot for physically intensive activities and a soft wearable sensor system to evaluate the physical status of the user and provide real-time feedback. The evaluation outcomes can be applied in interventions to mitigate or prevent existing hazards and resulting injuries to workers; thus, the results of this research will benefit human laborers in factories, warehouses, and other industrial workplaces.&lt;br/&gt;&lt;br/&gt;This proposal was funded with the National Institute for Occupational Safety and Health (NIOSH) in the Center for Disease Control and Prevention (CDC).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/20/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2024863</AwardID>
+<Investigator>
+<FirstName>Tanvi</FirstName>
+<LastName>Bhatt</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tanvi Bhatt</PI_FULL_NAME>
+<EmailAddress><![CDATA[tbhatt6@uic.edu]]></EmailAddress>
+<NSF_ID>000751138</NSF_ID>
+<StartDate>09/20/2022</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Myunghee</FirstName>
+<LastName>Kim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Myunghee Kim</PI_FULL_NAME>
+<EmailAddress><![CDATA[myheekim@uic.edu]]></EmailAddress>
+<NSF_ID>000814083</NSF_ID>
+<StartDate>08/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Heejin</FirstName>
+<LastName>Jeong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Heejin Jeong</PI_FULL_NAME>
+<EmailAddress><![CDATA[heejin.jeong@asu.edu]]></EmailAddress>
+<NSF_ID>000822370</NSF_ID>
+<StartDate>08/26/2020</StartDate>
+<EndDate>09/20/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress><![CDATA[809 S MARSHFIELD AVE M/C 551]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>W8XEAJDKMXH3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606077022</ZipCode>
+<StreetAddress><![CDATA[842 W. Taylor street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>U35800</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>V23300</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>W21500</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>8086</Code>
+<Text>Natl Robotics Initiative (NRI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~149735</FUND_OBLG>
+<FUND_OBLG>2021~149803</FUND_OBLG>
+<FUND_OBLG>2022~149697</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Wearable robots - devices that assist users by providing mechanical support to their joints - offer a promising solution to reduce physical effort during strenuous activities. However, current wearable robots face significant challenges, including discomfort, slow response times, and limited ability to adapt to individual needs. This project sought to overcome these limitations by developing a customizable lower-limb wearable robot that delivers personalized assistance through advanced sensor technologies and data-driven optimization methods.</p>  <p><strong>Intellectual Merits:</strong></p>  <p><strong>1. Smarter and Faster State Estimation Methods</strong>: One of the major breakthroughs of this project was the development of a new method to estimate physical effort quickly and accurately. Typically, wearable robots rely on sensors that collect slow and noisy data, making personalization a long and uncomfortable process for the user. We developed a faster method called phase-plane metabolic cost estimation, which cuts down the time needed for optimization by half. This allows the wearable robot to adjust its assistance in real-time, making it much more practical and user-friendly.</p>  <p>2.&nbsp;<strong>Integration of Commercial and Soft-Wearable Sensors for User Monitoring:&nbsp;</strong>To address the limitations of traditional approaches, which often rely on slow and noisy respiratory measures, the project integrated commercial sensors and advanced soft-wearable electronics. These sensors monitored physiological signals such as heart rate (ECG), muscle activity (EMG), and balance (CoP) with accuracy and comfort. By employing a data-driven approach, the team developed effective methods to estimate users' physical effort in real time, enabling more precise and responsive robotic assistance.&nbsp;&nbsp;</p>  <p><strong>3. Personalized Assistance for Physically Intensive Activities</strong><strong>: </strong>The wearable robot was tested during demanding tasks, such as squatting, where personalized assistance customized to individual needs resulted in significant energy savings. For example, the robot lowered the metabolic cost of squatting, meaning users needed less effort to perform the same task. This finding has major implications for industries requiring repetitive heavy lifting and for rehabilitation programs focused on restoring mobility and strength.</p>  <p><strong>4. Human-in-the-Loop      (HIL) Optimization Framework:</strong><strong> </strong>The project developed a modular,      open-source HIL optimization framework to integrate data from both      commercial and soft sensors. This framework supports real-time processing      of physiological data, enabling customizable robotic assistance for a wide      range of users and activities. Shared on GitHub, the framework provides a      scalable platform for future innovations in wearable robotics.</p>  <p><strong>Broader Impacts</strong></p>  <p><strong>&nbsp;</strong><strong>1. Technology Transfer and Open      Access:</strong><strong> </strong>The modular personalization      framework was published as an open-source resource, fostering collaboration      and innovation. This platform empowers researchers and developers to build      on project findings, accelerating advancements in wearable robotics and      personalized assistive technologies.</p>  <p><strong>2. Workplace and Rehabilitation      Applications:</strong><strong>&nbsp;</strong>The project&rsquo;s fast optimization method has potential practical applications in      workplaces and rehabilitation centers. By reducing physical effort and      improving balance, this technology holds great potential to benefit occupational workers performing strenuous tasks and individuals in recovery or with reduced mobility.</p>  <p><strong>3. Digital Health and Data-Driven      User State Estimation:</strong>The project&rsquo;s development of advanced cost estimation methods using heart      rate, muscle activity, and center of pressure data contributes to digital      health monitoring by providing real-time, data-driven insights into user      status. This approach has applications in wearable robotics, healthcare,      and fitness monitoring, where accurate and efficient user state estimation      is critical.</p>  <p><strong>4. Educational and Training      Opportunities:</strong><strong> </strong>The project provided hands-on      training for students, equipping them with skills in controller design,      data analysis, and hardware development. These activities fostered the      next generation of innovators and researchers in the field of wearable      robotics. Additionally, a modular ankle-foot orthosis (AFO) was developed      through student-led efforts, demonstrating the potential for      cost-effective, personalized assistive devices.</p>  <p><strong>5. Community Engagement:</strong><strong> </strong>We shared our findings at academic conferences, community centers,      and outreach events to engage diverse audiences. Presentations at international      conferences and local community centers demonstrated the societal impact      of wearable robotics and encouraged broader public interest in STEM      fields.</p>  <p>This project advanced the state of wearable robotics by integrating comfortable sensors and data-driven optimization methods into the personalization process. The development of practical physical effort estimation methods and an open-source HIL optimization framework has made personalized robotic assistance more practical and accessible. These contributions address critical challenges in usability and personalization, with applications in workplaces, rehabilitation, digital health, and fitness monitoring. By combining cutting-edge technology with open-source resources and educational outreach, this project has established a foundation for continued innovation and collaboration in wearable robotics.</p>  <p>&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/14/2024<br> Modified by: Myunghee&nbsp;Kim</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733108421886_Fig6--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733108421886_Fig6--rgov-800width.jpg" title="Dissemination - Personalizable Exoskeleton"><img src="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733108421886_Fig6--rgov-66x44.jpg" alt="Dissemination - Personalizable Exoskeleton"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Demo in IROS2023</div> <div class="imageCredit">Rehab. Robotics Lab, UIC</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Myunghee&nbsp;Kim <div class="imageTitle">Dissemination - Personalizable Exoskeleton</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733255502233_Fig7--rgov-214x142.png" original="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733255502233_Fig7--rgov-800width.png" title="Personalization User Interface"><img src="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733255502233_Fig7--rgov-66x44.png" alt="Personalization User Interface"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The Human-in-the-Loop optimization UI enables users to easily select and monitor various signals and optimization processes.</div> <div class="imageCredit">Rehab. Robotics Lab, UIC</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Myunghee&nbsp;Kim <div class="imageTitle">Personalization User Interface</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733107923666_Fig4--rgov-214x142.png" original="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733107923666_Fig4--rgov-800width.png" title="Exoskeleton Application"><img src="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733107923666_Fig4--rgov-66x44.png" alt="Exoskeleton Application"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Potential exoskeleton application</div> <div class="imageCredit">Jim Young, UIC</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Myunghee&nbsp;Kim <div class="imageTitle">Exoskeleton Application</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733107722834_Fig2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733107722834_Fig2--rgov-800width.jpg" title="Personalization Experimental Setup"><img src="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733107722834_Fig2--rgov-66x44.jpg" alt="Personalization Experimental Setup"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A personalization setup with visual guidance for squat posture and balance monitoring.</div> <div class="imageCredit">Rehab. Robotics Lab, UIC</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Myunghee&nbsp;Kim <div class="imageTitle">Personalization Experimental Setup</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733107790367_Fig1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733107790367_Fig1--rgov-800width.png" title="Personalization Framework"><img src="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733107790367_Fig1--rgov-66x44.png" alt="Personalization Framework"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Human-in-the-loop wearable robot personalization framework using comfortable sensors</div> <div class="imageCredit">Rehab. Robotics Lab, UIC</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Myunghee&nbsp;Kim <div class="imageTitle">Personalization Framework</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733108298031_Fig5--rgov-214x142.png" original="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733108298031_Fig5--rgov-800width.png" title="Robotic Ankle-Foot Orthosis Demo"><img src="/por/images/Reports/POR/2024/2024863/2024863_10702272_1733108298031_Fig5--rgov-66x44.png" alt="Robotic Ankle-Foot Orthosis Demo"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Dissemination: NSF-NRI PI meeting</div> <div class="imageCredit">Rehab. Robotics Lab, UIC</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Myunghee&nbsp;Kim <div class="imageTitle">Robotic Ankle-Foot Orthosis Demo</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Wearable robots - devices that assist users by providing mechanical support to their joints - offer a promising solution to reduce physical effort during strenuous activities. However, current wearable robots face significant challenges, including discomfort, slow response times, and limited ability to adapt to individual needs. This project sought to overcome these limitations by developing a customizable lower-limb wearable robot that delivers personalized assistance through advanced sensor technologies and data-driven optimization methods.    Intellectual Merits:    1. Smarter and Faster State Estimation Methods: One of the major breakthroughs of this project was the development of a new method to estimate physical effort quickly and accurately. Typically, wearable robots rely on sensors that collect slow and noisy data, making personalization a long and uncomfortable process for the user. We developed a faster method called phase-plane metabolic cost estimation, which cuts down the time needed for optimization by half. This allows the wearable robot to adjust its assistance in real-time, making it much more practical and user-friendly.    2.Integration of Commercial and Soft-Wearable Sensors for User Monitoring:To address the limitations of traditional approaches, which often rely on slow and noisy respiratory measures, the project integrated commercial sensors and advanced soft-wearable electronics. These sensors monitored physiological signals such as heart rate (ECG), muscle activity (EMG), and balance (CoP) with accuracy and comfort. By employing a data-driven approach, the team developed effective methods to estimate users' physical effort in real time, enabling more precise and responsive robotic assistance.    3. Personalized Assistance for Physically Intensive Activities: The wearable robot was tested during demanding tasks, such as squatting, where personalized assistance customized to individual needs resulted in significant energy savings. For example, the robot lowered the metabolic cost of squatting, meaning users needed less effort to perform the same task. This finding has major implications for industries requiring repetitive heavy lifting and for rehabilitation programs focused on restoring mobility and strength.    4. Human-in-the-Loop      (HIL) Optimization Framework: The project developed a modular,      open-source HIL optimization framework to integrate data from both      commercial and soft sensors. This framework supports real-time processing      of physiological data, enabling customizable robotic assistance for a wide      range of users and activities. Shared on GitHub, the framework provides a      scalable platform for future innovations in wearable robotics.    Broader Impacts    1. Technology Transfer and Open      Access: The modular personalization      framework was published as an open-source resource, fostering collaboration      and innovation. This platform empowers researchers and developers to build      on project findings, accelerating advancements in wearable robotics and      personalized assistive technologies.    2. Workplace and Rehabilitation      Applications:The projects fast optimization method has potential practical applications in      workplaces and rehabilitation centers. By reducing physical effort and      improving balance, this technology holds great potential to benefit occupational workers performing strenuous tasks and individuals in recovery or with reduced mobility.    3. Digital Health and Data-Driven      User State Estimation:The projects development of advanced cost estimation methods using heart      rate, muscle activity, and center of pressure data contributes to digital      health monitoring by providing real-time, data-driven insights into user      status. This approach has applications in wearable robotics, healthcare,      and fitness monitoring, where accurate and efficient user state estimation      is critical.    4. Educational and Training      Opportunities: The project provided hands-on      training for students, equipping them with skills in controller design,      data analysis, and hardware development. These activities fostered the      next generation of innovators and researchers in the field of wearable      robotics. Additionally, a modular ankle-foot orthosis (AFO) was developed      through student-led efforts, demonstrating the potential for      cost-effective, personalized assistive devices.    5. Community Engagement: We shared our findings at academic conferences, community centers,      and outreach events to engage diverse audiences. Presentations at international      conferences and local community centers demonstrated the societal impact      of wearable robotics and encouraged broader public interest in STEM      fields.    This project advanced the state of wearable robotics by integrating comfortable sensors and data-driven optimization methods into the personalization process. The development of practical physical effort estimation methods and an open-source HIL optimization framework has made personalized robotic assistance more practical and accessible. These contributions address critical challenges in usability and personalization, with applications in workplaces, rehabilitation, digital health, and fitness monitoring. By combining cutting-edge technology with open-source resources and educational outreach, this project has established a foundation for continued innovation and collaboration in wearable robotics.             Last Modified: 12/14/2024       Submitted by: MyungheeKim]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

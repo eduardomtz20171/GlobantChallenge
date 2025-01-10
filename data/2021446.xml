@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Multilingual Computational Thinking: Teaching Introductory Programming Classes Through Low-Level and High-Level Programming Languages]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Tymann</SignBlockName>
+<PO_EMAI>ptymann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to serve the national interest by exploring a potentially transformative approach for improving undergraduate computer science education.  Student success in computer science directly correlates with their performance in introductory programming courses. Not only do these courses provide students with basic computational skills, but they can also give students the confidence they need to persevere and obtain computer science degrees. This project is based on the hypothesis that learning introductory computer programming languages is like learning a natural language. Research has shown that multilingual children outperform monolingual children when learning English as a foreign language. The project will apply this observation to computer science by concurrently teaching students multiple programming languages, thus helping them become multilingual in computer programming languages.  It is expected that multilingual learning in introductory computer programming will support subsequent student confidence and success in computer science.&lt;br/&gt;&lt;br/&gt;The project team will focus on transforming the Programming I, Programming II, and Data Structure courses to emphasize algorithmic design and computational thinking. Each course will use three different programming languages simultaneously: an assembly language and two high-level programming languages.  The learning activities will include interactive videos, simulations, engaging projects, and assignments based on programming for video game development. By simultaneously teaching multiple computer programming languages, the research team expects to remove student dependency on a single programming language as well as strengthen students’ development of a solid foundation in algorithmic design and computational thinking. The research plan will investigate how students learn multiple computer programming languages, and whether it is more effective to learn multiple programming languages simultaneously or sequentially. It will also use Neo-Piagetian cognitive development theory to identify the stages through which students pass as they master algorithmic thinking, from the basics of syntax to an understanding of patterns. These stages can also be used more generally to assess students’ knowledge of programming.  This project is supported by the NSF Improving Undergraduate STEM Education Program: Education and Human Resources Program, which supports research and development projects to improve the effectiveness of STEM education for all students. Through the Engaged Student Learning track, the program supports the creation, exploration, and implementation of promising practices and tools.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2021446</AwardID>
+<Investigator>
+<FirstName>Dongeun</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dongeun Lee</PI_FULL_NAME>
+<EmailAddress><![CDATA[Dongeun.Lee@tamuc.edu]]></EmailAddress>
+<NSF_ID>000747813</NSF_ID>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kaoning</FirstName>
+<LastName>Hu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kaoning Hu</PI_FULL_NAME>
+<EmailAddress><![CDATA[kaoning.hu@tamuc.edu]]></EmailAddress>
+<NSF_ID>000815743</NSF_ID>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Omar</FirstName>
+<LastName>El Ariss</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Omar El Ariss</PI_FULL_NAME>
+<EmailAddress><![CDATA[omar.el.ariss@tamuc.edu]]></EmailAddress>
+<NSF_ID>000821388</NSF_ID>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M University-Commerce]]></Name>
+<CityName>COMMERCE</CityName>
+<ZipCode>754284311</ZipCode>
+<PhoneNumber>9038865964</PhoneNumber>
+<StreetAddress><![CDATA[2600 W NEAL ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FRCKHD9EKUY9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TX A &amp; M UNIVERSITY COMMERCE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M University-Commerce]]></Name>
+<CityName>Commerce</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>754293011</ZipCode>
+<StreetAddress><![CDATA[Office of Sponsored Programs]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>199800</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Introductory programming courses are foundational to computer science education. They are designed to&nbsp;cultivate essential skills in computational thinking, which encompasses abstract reasoning and problem-solving&nbsp;using algorithms. Unfortunately, many traditional courses focus heavily on teaching a specific programming&nbsp;language, often leading students to mistakenly believe that mastering a particular language is the primary&nbsp;objective. Additionally, the data structures course is crucial for developing advanced algorithmic skills but is&nbsp;often perceived as difficult due to its abstract content.<br /> <br /> To overcome this limitation, we proposed a new educational approach that teaches multiple programming&nbsp;languages concurrently. This method introduces students to various programming paradigms, from low-level to&nbsp;high-level languages, thereby enhancing their algorithmic thinking and reducing reliance on any single&nbsp;language. A significant aspect of this new pedagogy involves using video game development as a dynamic&nbsp;learning tool. Students work on implementing components from well-known video games, which connects&nbsp;complex concepts to real-world applications. By engaging in game programming during lectures, labs, and&nbsp;assignments, students are exposed to practical applications of different languages, which fosters both interest&nbsp;and a deeper understanding of the material.<br /> <br /> We designed and implemented curricular and cocurricular programming activities with the said educational&nbsp;approach for the introductory programming and the data structures courses. To validate the effectiveness of the&nbsp;new approach, we analyzed student survey responses and exam results from both the trial group (new&nbsp;approach) and the control group (traditional approach). The findings indicate that the new educational approach&nbsp;not only increases students&rsquo; confidence, interest, and career in computer science, but also improves their&nbsp;understanding of computational concepts evidenced by exam performances, compared to the survey and&nbsp;performance data for those in the control group.<br /> <br /> Another critical aspect of learning in computer science is the role of peer mentors, which supports students&nbsp;through their introductory programming courses. One-on-one sessions allow mentors to provide tailored&nbsp;feedback, encouragement, and guidance, significantly influencing students' perceptions of programming.&nbsp;However, many peer mentors receive little to no formal training, which can hinder their effectiveness. We hired&nbsp;an undergraduate peer mentor during the project period who has encompassed numerous student interactions&nbsp;and hours of mentoring. By examining the mentor&rsquo;s feedback and decision-making processes during these&nbsp;sessions, we developed a model based on the recognition-primed decision (RPD) strategy. This model aims to&nbsp;equip future mentors with the necessary skills to enhance their effectiveness. We also identified the continuous&nbsp;need for skill development among peer mentors, emphasizing their critical role in shaping students' attitudes&nbsp;and success in introductory programming courses. We documented the personal experiences of a peer mentor,&nbsp;which provides valuable insights into the mentoring process and identifies key challenges and necessary skills.</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/16/2024<br> Modified by: Omar&nbsp;El Ariss</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2021446/2021446_10679647_1729063146873_Fig3--rgov-214x142.png" original="/por/images/Reports/POR/2024/2021446/2021446_10679647_1729063146873_Fig3--rgov-800width.png" title="Figure 2: Video Game Programming Example from Programming II."><img src="/por/images/Reports/POR/2024/2021446/2021446_10679647_1729063146873_Fig3--rgov-66x44.png" alt="Figure 2: Video Game Programming Example from Programming II."></a> <div class="imageCaptionContainer"> <div class="imageCaption">A strategy-based video game-themed example for learning 2D arrays/lists, classes, inheritance, and associated Programming II concepts.</div> <div class="imageCredit">None</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Omar&nbsp;El Ariss <div class="imageTitle">Figure 2: Video Game Programming Example from Programming II.</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2021446/2021446_10679647_1729062950928_Fig2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2021446/2021446_10679647_1729062950928_Fig2--rgov-800width.png" title="Figure 1: Video Game Programming Examples from Programming I."><img src="/por/images/Reports/POR/2024/2021446/2021446_10679647_1729062950928_Fig2--rgov-66x44.png" alt="Figure 1: Video Game Programming Examples from Programming I."></a> <div class="imageCaptionContainer"> <div class="imageCaption">A first-person shooter video game development lab, and space invader assignment for Programming I.</div> <div class="imageCredit">None</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Omar&nbsp;El Ariss <div class="imageTitle">Figure 1: Video Game Programming Examples from Programming I.</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2021446/2021446_10679647_1729063023771_Fig1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2021446/2021446_10679647_1729063023771_Fig1--rgov-800width.png" title="Figure 3: Simple Multilingual Translation Example"><img src="/por/images/Reports/POR/2024/2021446/2021446_10679647_1729063023771_Fig1--rgov-66x44.png" alt="Figure 3: Simple Multilingual Translation Example"></a> <div class="imageCaptionContainer"> <div class="imageCaption">An example of the same code in three programming languages with an accompanying cartoon.</div> <div class="imageCredit">None</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Omar&nbsp;El Ariss <div class="imageTitle">Figure 3: Simple Multilingual Translation Example</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Introductory programming courses are foundational to computer science education. They are designed tocultivate essential skills in computational thinking, which encompasses abstract reasoning and problem-solvingusing algorithms. Unfortunately, many traditional courses focus heavily on teaching a specific programminglanguage, often leading students to mistakenly believe that mastering a particular language is the primaryobjective. Additionally, the data structures course is crucial for developing advanced algorithmic skills but isoften perceived as difficult due to its abstract content.    To overcome this limitation, we proposed a new educational approach that teaches multiple programminglanguages concurrently. This method introduces students to various programming paradigms, from low-level tohigh-level languages, thereby enhancing their algorithmic thinking and reducing reliance on any singlelanguage. A significant aspect of this new pedagogy involves using video game development as a dynamiclearning tool. Students work on implementing components from well-known video games, which connectscomplex concepts to real-world applications. By engaging in game programming during lectures, labs, andassignments, students are exposed to practical applications of different languages, which fosters both interestand a deeper understanding of the material.    We designed and implemented curricular and cocurricular programming activities with the said educationalapproach for the introductory programming and the data structures courses. To validate the effectiveness of thenew approach, we analyzed student survey responses and exam results from both the trial group (newapproach) and the control group (traditional approach). The findings indicate that the new educational approachnot only increases students confidence, interest, and career in computer science, but also improves theirunderstanding of computational concepts evidenced by exam performances, compared to the survey andperformance data for those in the control group.    Another critical aspect of learning in computer science is the role of peer mentors, which supports studentsthrough their introductory programming courses. One-on-one sessions allow mentors to provide tailoredfeedback, encouragement, and guidance, significantly influencing students' perceptions of programming.However, many peer mentors receive little to no formal training, which can hinder their effectiveness. We hiredan undergraduate peer mentor during the project period who has encompassed numerous student interactionsand hours of mentoring. By examining the mentors feedback and decision-making processes during thesesessions, we developed a model based on the recognition-primed decision (RPD) strategy. This model aims toequip future mentors with the necessary skills to enhance their effectiveness. We also identified the continuousneed for skill development among peer mentors, emphasizing their critical role in shaping students' attitudesand success in introductory programming courses. We documented the personal experiences of a peer mentor,which provides valuable insights into the mentoring process and identifies key challenges and necessary skills.        Last Modified: 10/16/2024       Submitted by: OmarEl Ariss]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

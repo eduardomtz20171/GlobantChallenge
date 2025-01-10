@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CHS: Small: Envisioning and Prototyping Artificial Intelligence Product and Service Innovations with User Experience Designers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>532000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Design innovations follow technical advances. Philips’ 1962 invention of the cassette recorder was a technical advance. Design innovations followed, placing cassette audio recording  and playback capabilities into new forms people found useful and valuable. These included the boombox, car stereo, Walkman, and home answering machine. Artificial intelligence (AI) has achieved many technical advances, but insufficient design innovation. To enable their innovation capabilities, design teams need to better understanding what AI can do. This research will address current breakdowns in the innovation process. It will develop new taxonomies, tools, and theory—to unleash the creative skills of designers in industry and academia—for envisioning and prototyping innovative uses and forms for AI products and services. The research team will disseminate refined versions of the new AI design innovation resources through online training modules, undergraduate and graduate courses, courses for professional user experience (UX) designers, and workshops with professionals at practitioner-focused events.&lt;br/&gt;&lt;br/&gt;For AI innovation, the research team will perform these design activities: (1) develop and evaluate a taxonomy of AI capabilities, while addressing algorithmic bias and privacy; (2) develop and evaluate a taxonomy of design patterns for how AI system outputs are presented to potential innovators, including approaches to explainable AI; (3) co-design new tools for wireframing AI system behaviors, documenting AI concepts, and communicating with and across AI development teams, through prototyping workshops with professional UX designers; and (4) develop theory and design implications through field evaluations of the AI design innovation taxonomies, tools, and communicative forms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/22/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007501</AwardID>
+<Investigator>
+<FirstName>Jodi</FirstName>
+<LastName>Forlizzi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jodi Forlizzi</PI_FULL_NAME>
+<EmailAddress><![CDATA[forlizzi@cs.cmu.edu]]></EmailAddress>
+<NSF_ID>000226685</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Zimmerman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John Zimmerman</PI_FULL_NAME>
+<EmailAddress><![CDATA[johnz@cs.cmu.edu]]></EmailAddress>
+<NSF_ID>000435917</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie Mellon University]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133890</ZipCode>
+<StreetAddress><![CDATA[5000 Forbes Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736700</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~500000</FUND_OBLG>
+<FUND_OBLG>2021~16000</FUND_OBLG>
+<FUND_OBLG>2022~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-46401eef-7fff-4c34-0d1d-72af3edb6de5"> </span></p>  <p dir="ltr"><span>AI has had and increasingly is having a profound impact on the world. From email spam filters to real-time transit arrival prediction to weather forecasting to new drug discovery to the promises of GenAI, AI continues to shape people&rsquo;s experiences in the world. AI&rsquo;s transformational impact implies that there is an effective innovation process. What is not often noticed is that 90% of AI innovation projects fail. They fail because they cannot achieve effective model performance, cannot generate more revenue than they cost, don&rsquo;t address real user needs so users do not adopt, or when they have ethical issues like bias that cause unintended harms. In addition to failure, there is lots of low-hanging fruit, situations where simple AI that users want and that would benefit the service provider, does not get developed. Organizations seem to focus on really hard problems and overlook many valuable opportunities.</span></p>  <p dir="ltr"><span>This research project focused on improving ideation: the envisionment of many possible AI systems an AI innovation team might develop. It brought design thinking, which has had great success in human-computer interaction, to AI innovation. The research involved fieldwork with AI innovation teams to understand the problem and the development of new resources and tools to improve their practices.</span></p>  <p dir="ltr"><span>To help non-data science innovators, the researchers developed a taxonomy of AI capabilities. This details what AI can do that has had commercial success. Prior AI taxonomies focused on its mechanisms (how it makes an inference) and not on what it can do. The research also revealed that most commercially successful AI systems only have moderate model performance. For example, step counters, TV show recommenders, transit arrival predictions, and smart inventory all create value for users even when the AI is far from perfect in its predictions. This insight revealed a need for innovation methods that can find situations where moderately performing AI creates value without creating harm. Technical developers are much more successful at creating AI systems with moderate performance than with excellent performance.</span></p>  <p dir="ltr"><span>The researchers developed and assessed a new approach to brainstorming that sensitizes innovators to the use of simple AI and moderately performing AI. They tested this with a team of critical care medicine innovators who wanted to improve health outcomes in the ICU through the deployment of AI. The new approach was much more effective at producing low-risk, high-value AI concepts. The ideas being generated typically improved the operational efficiency within the ICU instead of trying to make difficult decisions for physicians.</span></p>  <p dir="ltr"><span>This project supported one female PhD student in earning her PhD in human-computer interaction. It also supported several undergraduate researchers in gaining first-hand experience on how to conduct scientific research that advances the creation of new technology. The findings were disseminated through publications at conferences. The knowledge was also shared with AI practitioners through presentations at companies and innovation events like the SXSW expo. The researchers even presented this work at the White House, to the digital services group who develop applications used by citizens.</span></p>  <div><span><br /></span></div>  <p>&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/27/2024<br> Modified by: John&nbsp;Zimmerman</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[       AI has had and increasingly is having a profound impact on the world. From email spam filters to real-time transit arrival prediction to weather forecasting to new drug discovery to the promises of GenAI, AI continues to shape peoples experiences in the world. AIs transformational impact implies that there is an effective innovation process. What is not often noticed is that 90% of AI innovation projects fail. They fail because they cannot achieve effective model performance, cannot generate more revenue than they cost, dont address real user needs so users do not adopt, or when they have ethical issues like bias that cause unintended harms. In addition to failure, there is lots of low-hanging fruit, situations where simple AI that users want and that would benefit the service provider, does not get developed. Organizations seem to focus on really hard problems and overlook many valuable opportunities.    This research project focused on improving ideation: the envisionment of many possible AI systems an AI innovation team might develop. It brought design thinking, which has had great success in human-computer interaction, to AI innovation. The research involved fieldwork with AI innovation teams to understand the problem and the development of new resources and tools to improve their practices.    To help non-data science innovators, the researchers developed a taxonomy of AI capabilities. This details what AI can do that has had commercial success. Prior AI taxonomies focused on its mechanisms (how it makes an inference) and not on what it can do. The research also revealed that most commercially successful AI systems only have moderate model performance. For example, step counters, TV show recommenders, transit arrival predictions, and smart inventory all create value for users even when the AI is far from perfect in its predictions. This insight revealed a need for innovation methods that can find situations where moderately performing AI creates value without creating harm. Technical developers are much more successful at creating AI systems with moderate performance than with excellent performance.    The researchers developed and assessed a new approach to brainstorming that sensitizes innovators to the use of simple AI and moderately performing AI. They tested this with a team of critical care medicine innovators who wanted to improve health outcomes in the ICU through the deployment of AI. The new approach was much more effective at producing low-risk, high-value AI concepts. The ideas being generated typically improved the operational efficiency within the ICU instead of trying to make difficult decisions for physicians.    This project supported one female PhD student in earning her PhD in human-computer interaction. It also supported several undergraduate researchers in gaining first-hand experience on how to conduct scientific research that advances the creation of new technology. The findings were disseminated through publications at conferences. The knowledge was also shared with AI practitioners through presentations at companies and innovation events like the SXSW expo. The researchers even presented this work at the White House, to the digital services group who develop applications used by citizens.                Last Modified: 12/27/2024       Submitted by: JohnZimmerman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

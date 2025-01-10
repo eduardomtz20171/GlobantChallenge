@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Probing Fundamental Magneto-Electronic Properties of Two-Dimensional Metal Halides]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>420000.00</AwardTotalIntnAmount>
+<AwardAmount>420000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Lane</SignBlockName>
+<PO_EMAI>plane@nsf.gov</PO_EMAI>
+<PO_PHON>7032922453</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Summary:&lt;br/&gt;Researchers have recently learned how to produce atomically thin materials that are referred to as two-dimensional (2D) materials since they are extended in two dimensions (i.e., length and width) but are confined in the third dimension (i.e., depth) at the atomic scale.  Due to a range of superlative properties and new physics in the atomically thin limit, 2D materials have attracted significant interest for fundamental studies and prototype device development. Thus far, chemically inert 2D materials have been the most widely studied since they can be processed in ambient conditions with minimal further precautions. However, the family of 2D materials has hundreds of additional members, which have been underexplored due to their high chemical reactivities that introduce challenges in preparing and handling samples for electronic testing. To address this knowledge gap, this project develops encapsulation and related sample preparation protocols to enable characterization of the fundamental properties of chemically reactive 2D materials. Of particular interest are the 2D metal halides since they are theoretically predicted to possess unique combinations of electronic and magnetic properties that are relevant to next-generation computing and quantum technologies. These research results are widely disseminated to diverse audiences through a series of education and outreach activities including Illuminate, which assists and enables low-income, first-generation, and/or underrepresented minority students to attend and complete college, and Science with Seniors, which organizes visits to retirement homes for interactive science presentations and demonstrations.&lt;br/&gt;&lt;br/&gt;Technical Summary:&lt;br/&gt;Among the most chemically reactive two-dimensional (2D) materials are the layered van der Waals transition metal halides. Due to their high chemical reactivity, experimental studies of bulk metal halides are rare and have traditionally required an inert environment and/or vacuum equipment. However, theoretical models have predicted many layered metal halides to be mechanically exfoliatable due to low cleavage energies and large in-plane bond strength, suggesting that they could be explored in the 2D limit if suitable passivation and processing conditions were identified. This project develops atomic layer deposition encapsulation layers that allow 2D metal halides to be handled, processed, and tested in ambient conditions. Preceding atomic layer deposition, the 2D metal halides are passivated with organic buffer layers that minimize charge trapping and scattering, thus allowing intrinsic properties to be probed. The interplay among the electronic, magnetic, and optical properties of 2D metal halides is characterized as a function of temperature using lateral field-effect transistors, vertical heterostructures, and Hall bar electrode arrays. By elucidating fundamental charge transport phenomena such as the quantized anomalous Hall effect, this work provides guidance to emerging efforts to incorporate 2D metal halides into advanced magneto-electronic applications including spintronic devices, quantum technologies, and non-volatile memory.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004420</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Hersam</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark C Hersam</PI_FULL_NAME>
+<EmailAddress><![CDATA[m-hersam@northwestern.edu]]></EmailAddress>
+<NSF_ID>000307184</NSF_ID>
+<StartDate>03/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress><![CDATA[633 CLARK ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>Evanston</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602080893</ZipCode>
+<StreetAddress><![CDATA[2220 Campus Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8615</Code>
+<Text>Nanoscale Devices and Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~420000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Intellectual Merit:</strong></p> <p>Chemically inert two-dimensional (2D) materials (e.g., graphene, hexagonal boron nitride, and transition metal dichalcogenides) have attracted significant interest for fundamental studies and prototype device development since they can be processed in ambient conditions with minimal further precautions. However, the family of 2D materials has hundreds of additional members, particularly the 2D metal halides, which have been underexplored due to their high chemical reactivities that introduce challenges in preparing and handling samples for electronic testing. To address this knowledge gap, this grant developed encapsulation and related sample preparation protocols to enable characterization of the fundamental magneto-electronic properties of 2D metal halides. These sample preparation protocols also enabled the study of additional classes of chemically reactive 2D magnetic semiconductors including 2D metal thiophosphates. With thickness-dependent bandgaps and electrostatically tunable magnetically ordered states, 2D magnetic semiconductors provide novel opportunities for studying and controlling spintronic phenomena in the atomically thin limit. Specific intellectual merit accomplishments include:</p> <p>(1) CrI<sub>3</sub> has attracted significant attention due to its thickness-dependent magnetic properties. However, the high chemical reactivity of CrI<sub>3</sub> leads to irreversible degradation within seconds in ambient conditions, severely limiting subsequent characterization, processing, and applications. By assembling a noncovalent organic buffer layer that templates subsequent atomic layer deposition (ALD) of alumina, long-term ambient stability has been imparted to CrI<sub>3</sub>. This organic-inorganic encapsulation scheme preserves the long-range magnetic ordering in CrI<sub>3</sub>&nbsp;down to the monolayer limit as confirmed by magneto-optical Kerr effect measurements</p> <p>(2) NiI<sub>2</sub>&nbsp;is a 2D antiferromagnetic semiconductor, which exhibits both long-range magnetic ordering and spontaneous electrical polarization (i.e., multiferroicity). However, since NiI<sub>2</sub>&nbsp;is highly hygroscopic, it is susceptible to chemical degradation during device fabrication. By combining a dry flake transfer method with ALD, a fabrication protocol has been developed that provides ambient-stable electrical contacts to NiI<sub>2</sub>, ultimately enabling charge transport measurements at cryogenic temperatures. The resulting magneto-transport measurements allow the onset of multiferroicity to be electrically probed as a function of flake thickness down to monolayer NiI<sub>2</sub>.</p> <p>(3) The aforementioned sample handling and processing protocols have been applied to other ambient-sensitive 2D magnetic semiconductors such as 2D metal thiophosphates. Among the 2D metal thiophosphates, NiPS<sub>3</sub> is of particular interest since it is a direct bandgap antiferromagnetic semiconductor, which suggests that its magnetic excitons can be electrically excited. Towards this end, electroluminescent devices have been fabricated and probed for NiPS<sub>3</sub> down to the atomically thin limit, thereby revealing spectral features that match the magnetic excitonic peak for NiPS<sub>3</sub>. Contrary to optical pumping, electrical pumping allows for the injection of spin-polarized currents, thus enabling spin-polarized excitation of magnetic excitons in NiPS<sub>3</sub> in addition to proximity effects with other 2D magnetic materials.</p> <p><strong>&nbsp;</strong></p> <p><strong>Broader Impacts:</strong></p> <p>In addition to high impact publications, this grant developed commercially scalable fabrication methods that will allow 2D magnetic semiconductors to be utilized in advanced magneto-electronic applications including spintronic devices, quantum technologies, and non-volatile memory.&nbsp;The latest developments in 2D magnetic semiconductors were also incorporated into education and outreach activities for graduate and undergraduate students, K-12 students, and the general public. Specific broader impacts include:<strong>&nbsp;</strong></p> <p>(1) PhD student and postdoctoral training: This grant provided partial to full support of 3 PhD students and 1 postdoctoral research associate in Materials Science and Engineering.</p> <p>(2) Undergraduate and MS student training: Through research experience for undergraduates and related academic programs 5 undergraduate researchers and 3 MS students, including 2 under-represented minority and 4 female students, were affiliated with this grant.</p> <p>(3) International partners: This grant included a strong international collaboration with Prof. Zden&#283;k Sofer of the University of Chemistry and Technology Prague (Czech Republic), who synthesized metal halide bulk crystals that were then exfoliated and characterized at Northwestern University. This collaboration was established while PI Mark Hersam was serving as U.S. Science Envoy to Eastern Europe on behalf of the U.S. State Department.</p> <p>(4) Curriculum development: As the Director of the Hierarchical Materials Graduate Program at Northwestern University, PI Mark Hersam incorporated 2D magnetic semiconductor content into coursework within three themes: (1) Synthesis and Processing; (2) Multi-Scale Imaging and Characterization; (3) Multi-Scale Modeling and Analysis.</p> <p>(5) Education and outreach: The latest developments in 2D magnetic semiconductor were incorporated into education and outreach activities for graduate and undergraduate students, K-12 students, and the general public including: (a) Promoting diversity and inclusion at the collegiate level through the Graduate Student Section of the Society of Women Engineers (GradSWE) and HeForSWE, which is a program that helps spread awareness of gender biases and inequality in STEM fields; (b) Outreach to underserved pre-college students through Illuminate, which provides mentoring assistance to low-income, first-generation, and/or underrepresented minority STEM students; (c) Engaging the general public at all ages through the Chicago Field Museum and Science with Seniors, which organizes interactive science programming at retirement homes.</p><br> <p>  Last Modified: 10/20/2024<br> Modified by: Mark&nbsp;C&nbsp;Hersam</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit:   Chemically inert two-dimensional (2D) materials (e.g., graphene, hexagonal boron nitride, and transition metal dichalcogenides) have attracted significant interest for fundamental studies and prototype device development since they can be processed in ambient conditions with minimal further precautions. However, the family of 2D materials has hundreds of additional members, particularly the 2D metal halides, which have been underexplored due to their high chemical reactivities that introduce challenges in preparing and handling samples for electronic testing. To address this knowledge gap, this grant developed encapsulation and related sample preparation protocols to enable characterization of the fundamental magneto-electronic properties of 2D metal halides. These sample preparation protocols also enabled the study of additional classes of chemically reactive 2D magnetic semiconductors including 2D metal thiophosphates. With thickness-dependent bandgaps and electrostatically tunable magnetically ordered states, 2D magnetic semiconductors provide novel opportunities for studying and controlling spintronic phenomena in the atomically thin limit. Specific intellectual merit accomplishments include:   (1) CrI3 has attracted significant attention due to its thickness-dependent magnetic properties. However, the high chemical reactivity of CrI3 leads to irreversible degradation within seconds in ambient conditions, severely limiting subsequent characterization, processing, and applications. By assembling a noncovalent organic buffer layer that templates subsequent atomic layer deposition (ALD) of alumina, long-term ambient stability has been imparted to CrI3. This organic-inorganic encapsulation scheme preserves the long-range magnetic ordering in CrI3down to the monolayer limit as confirmed by magneto-optical Kerr effect measurements   (2) NiI2is a 2D antiferromagnetic semiconductor, which exhibits both long-range magnetic ordering and spontaneous electrical polarization (i.e., multiferroicity). However, since NiI2is highly hygroscopic, it is susceptible to chemical degradation during device fabrication. By combining a dry flake transfer method with ALD, a fabrication protocol has been developed that provides ambient-stable electrical contacts to NiI2, ultimately enabling charge transport measurements at cryogenic temperatures. The resulting magneto-transport measurements allow the onset of multiferroicity to be electrically probed as a function of flake thickness down to monolayer NiI2.   (3) The aforementioned sample handling and processing protocols have been applied to other ambient-sensitive 2D magnetic semiconductors such as 2D metal thiophosphates. Among the 2D metal thiophosphates, NiPS3 is of particular interest since it is a direct bandgap antiferromagnetic semiconductor, which suggests that its magnetic excitons can be electrically excited. Towards this end, electroluminescent devices have been fabricated and probed for NiPS3 down to the atomically thin limit, thereby revealing spectral features that match the magnetic excitonic peak for NiPS3. Contrary to optical pumping, electrical pumping allows for the injection of spin-polarized currents, thus enabling spin-polarized excitation of magnetic excitons in NiPS3 in addition to proximity effects with other 2D magnetic materials.      Broader Impacts:   In addition to high impact publications, this grant developed commercially scalable fabrication methods that will allow 2D magnetic semiconductors to be utilized in advanced magneto-electronic applications including spintronic devices, quantum technologies, and non-volatile memory.The latest developments in 2D magnetic semiconductors were also incorporated into education and outreach activities for graduate and undergraduate students, K-12 students, and the general public. Specific broader impacts include:   (1) PhD student and postdoctoral training: This grant provided partial to full support of 3 PhD students and 1 postdoctoral research associate in Materials Science and Engineering.   (2) Undergraduate and MS student training: Through research experience for undergraduates and related academic programs 5 undergraduate researchers and 3 MS students, including 2 under-represented minority and 4 female students, were affiliated with this grant.   (3) International partners: This grant included a strong international collaboration with Prof. Zden&#283;k Sofer of the University of Chemistry and Technology Prague (Czech Republic), who synthesized metal halide bulk crystals that were then exfoliated and characterized at Northwestern University. This collaboration was established while PI Mark Hersam was serving as U.S. Science Envoy to Eastern Europe on behalf of the U.S. State Department.   (4) Curriculum development: As the Director of the Hierarchical Materials Graduate Program at Northwestern University, PI Mark Hersam incorporated 2D magnetic semiconductor content into coursework within three themes: (1) Synthesis and Processing; (2) Multi-Scale Imaging and Characterization; (3) Multi-Scale Modeling and Analysis.   (5) Education and outreach: The latest developments in 2D magnetic semiconductor were incorporated into education and outreach activities for graduate and undergraduate students, K-12 students, and the general public including: (a) Promoting diversity and inclusion at the collegiate level through the Graduate Student Section of the Society of Women Engineers (GradSWE) and HeForSWE, which is a program that helps spread awareness of gender biases and inequality in STEM fields; (b) Outreach to underserved pre-college students through Illuminate, which provides mentoring assistance to low-income, first-generation, and/or underrepresented minority STEM students; (c) Engaging the general public at all ages through the Chicago Field Museum and Science with Seniors, which organizes interactive science programming at retirement homes.     Last Modified: 10/20/2024       Submitted by: MarkCHersam]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Palladium-Catalyzed Transient Directing Group-Enabled Functionalization of Aliphatic Amines and Aldehydes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/13/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>448320.00</AwardTotalIntnAmount>
+<AwardAmount>448320</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George Richter-Addo</SignBlockName>
+<PO_EMAI>grichter@nsf.gov</PO_EMAI>
+<PO_PHON>7032927528</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Chemical Synthesis Program of the Chemistry Division supports the project by Professor Haibo Ge of the Department of Chemistry and Chemical Biology at Indiana University-Purdue University. Amines are organic compounds derived from ammonia by replacement of one or more hydrogen atoms by organic groups.  Amines are very common in biology such as in amino acids and neurotransmitters including epinephrine, norepinephrine, dopamine, serotonin, and histamine.   The goal of this research is to convert simple amines into other, more valuable or useful amines. To solve this challenge, Professor Ge and his students are using "directing groups" that attach reversibly to the amine group and force the reaction to occur on a specific (desired) site. The summer undergraduate research program attracts college students, especially women and underrepresented minorities, to the STEM areas, training potential future leaders in scientific research.  The engagement of high school teachers provides an active learning environment and enables them to deliver in-depth knowledge of key scientific ideas and practices to their classes. This educational effort, in turn, triggers high school students' curiosity, inspires their interest in chemistry, and attracts more high school students into the STEM areas.&lt;br/&gt;&lt;br/&gt;The Chemical Synthesis Program of the Chemistry Division supports the project by Professor Haibo Ge of the Department of Chemistry and Chemical Biology at Indiana University-Purdue University Indianapolis (IUPUI). Professor Ge is developing new methods to construct carbon-carbon and carbon-heteroatom bonds. This reaction chemistry allows for various common organic compounds to be readily accessed in an efficient manner via a C-H bond functionalization process.  It also enables rapid late-stage functionalization (LSF) of complex organic molecules. When compared to conventional cross-coupling reactions, the C-H functionalization process does not require pre-functionalized starting materials and can avoid the use of stoichiometric organometallic reagents, making it more environmentally and economically beneficial. The new type of C-H functionalization reactions allows for the use of readily-available organic molecules as starting materials, and thus improves the potential applications of the process. The principal goal of the project is to develop novel transition metal-catalyzed C-H functionalization reactions in order to provide powerful, valuable, and straightforward synthetic approaches to access common organic frameworks. A variety of medically important (hetero)cyclic skeletons are expected to be efficiently accessed from readily-available aliphatic amines and aldehydes via this strategy. The asymmetric functionalization of these strong sp3 C-H bonds is also designed with the use of chiral catalysts. The project focuses primarily on synthetic organic and organometallic chemistry with potential integration of computational and medicinal chemistry. Thus, the project is well-positioned for the education and training of all levels of scientists. Additionally, an outreach program with high school teachers is designed to enable them to deliver in-depth knowledge of key scientific ideas and practices to their classes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029932</AwardID>
+<Investigator>
+<FirstName>Haibo</FirstName>
+<LastName>Ge</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Haibo Ge</PI_FULL_NAME>
+<EmailAddress><![CDATA[haibo.ge@ttu.edu]]></EmailAddress>
+<NSF_ID>000593174</NSF_ID>
+<StartDate>04/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>LUBBOCK</CityName>
+<ZipCode>79409</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress><![CDATA[2500 BROADWAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EGLKRQ5JBCZ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS TECH UNIVERSITY SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>lubbock</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>794091061</ZipCode>
+<StreetAddress><![CDATA[CHEM 223-D Department of Chemistry & Biochemistry College of Arts & Sciences]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>687800</Code>
+<Text>Chemical Synthesis</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~448320</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><em><span style="text-decoration: underline;">Intellectual Merit</span></em>: This NSF project mainly aimed to develop novel carbon-carbon and carbon-heteroatom bond-forming reactions through a palladium-catalyzed sp<sup>3</sup> C&minus;H functionalization process in the presence of a catalytic transient directing group (TDG). The transient directing group strategy provides a highly efficient approach for functionalizing unactivated C(sp<sup>3</sup>)&ndash;H bonds in a site-selective manner. However, the direct <em>&beta;</em>-C(sp<sup>3</sup>)&ndash;H functionalization of linear aliphatic aldehydes was restricted to terminal methyl functionalization. Using 3-amino-3-methylbutanoic acid as a TDG and 3-trifluoromethyl-5-nitro-2-pyridone as an external ligand, this issue was successfully resolved and methylene <em>&beta;</em>-C&ndash;H arylation of linear primary aldehydes was efficiently achieved. More importantly, Pd(II)-catalyzed <em>&gamma;</em>-C(sp<sup>3</sup>)&minus;H arylation of aliphatic and benzoheteroaryl aldehydes has also been realized using phenylalanine as a transient ligand and 3-nitro-5- (trifluoromethyl)pyridin-2-ol as an external ligand. Mechanistic studies suggested that <em>&gamma;</em>-C(sp<sup>3</sup>)&minus;H bond cleavage is the rate-limiting step in the catalytic cycle and the formation of a six-membered palladacycle intermediate is favored over its five-membered counterpart. This feature is unique compared to the majority of palladium-catalyzed sp<sup>3</sup> C&minus;H functionalization processes which favor the formation of five-membered palladacycle intermediates. Furthermore, the oxidative borylation of aliphatic amines was accomplished at the distal <em>&delta;</em>-position in the presence of 6-methyl-2-pyridone as a well-tuned ligand. Moreover, selective activation of the methylene C&minus;H bond of aliphatic acids was also established in the presence of methyl C&minus;H bonds. This protocol effectively reverses the general selectivity in aliphatic C&minus;H bond activation. Computational studies have suggested that reversible C&minus;H activation is followed by <em>&beta;</em>-hydride elimination to generate the Pd-coordinated cycloalkene which undergoes stereoselective cyclization and subsequent <em>&beta;</em>-hydride elimination to provide bicyclic unsaturated lactones. Additionally, palladium-catalyzed C&minus;H alkylation and acylation reactions of carbazoles were developed with norbornene as a transient directing mediator via a unique six-membered palladacycle intermediate. These findings opened a new avenue for efficient syntheses of common organic fragments including biologically important (hetero)cycles. Moreover, they provide important insights into the research field of C&minus;H functionalization and significantly contribute to its advancement.</p> <p><em><span style="text-decoration: underline;">Broader Impacts</span></em>: The PI has been devoting considerable efforts to attracting a diverse group of students into the science, technology, engineering, and mathematics (STEM) program. During the funding period, the PI's laboratory has provided research opportunities for fifteen undergraduate students including nine women and one Chancellor's Research Scholar Award Finalist, as well as two high school students, six graduate students, and six postdoctoral researchers. All undergraduate students were committed to at least one year of research in the PI's laboratory and participated in group meetings, research design and conduct, data analysis, and dissemination. Many of these undergraduate students have presented their research results in the departmental research symposiums, and five of them have publications due to their research contribution in the PI's laboratory. Three of these students are now working in chemistry-related companies, one is pursuing an MD/PhD in Medical School, and six are either in the chemistry graduate program or planning to apply. Moreover, the PI has completely reshaped an existing course, titled &ldquo;Organic Chemistry: Structures and Mechanisms,&rdquo; in the Fall of 2020-2024 encompassing organic, organometallic, heterocyclic, asymmetric, and catalytic chemistry to better suit students' interest and attract potential students to STEM disciplines. These combined efforts have provided students of all backgrounds with a valuable opportunity to explore and experiment with chemistry at an early stage, while gaining valuable skills and knowledge for their future careers. This initiative is expected to attract more students into advanced STEM areas. Additionally, this project has resulted in 21 peer-reviewed publications.</p><br> <p>  Last Modified: 11/06/2024<br> Modified by: Haibo&nbsp;Ge</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit: This NSF project mainly aimed to develop novel carbon-carbon and carbon-heteroatom bond-forming reactions through a palladium-catalyzed sp3 CH functionalization process in the presence of a catalytic transient directing group (TDG). The transient directing group strategy provides a highly efficient approach for functionalizing unactivated C(sp3)H bonds in a site-selective manner. However, the direct -C(sp3)H functionalization of linear aliphatic aldehydes was restricted to terminal methyl functionalization. Using 3-amino-3-methylbutanoic acid as a TDG and 3-trifluoromethyl-5-nitro-2-pyridone as an external ligand, this issue was successfully resolved and methylene -CH arylation of linear primary aldehydes was efficiently achieved. More importantly, Pd(II)-catalyzed -C(sp3)H arylation of aliphatic and benzoheteroaryl aldehydes has also been realized using phenylalanine as a transient ligand and 3-nitro-5- (trifluoromethyl)pyridin-2-ol as an external ligand. Mechanistic studies suggested that -C(sp3)H bond cleavage is the rate-limiting step in the catalytic cycle and the formation of a six-membered palladacycle intermediate is favored over its five-membered counterpart. This feature is unique compared to the majority of palladium-catalyzed sp3 CH functionalization processes which favor the formation of five-membered palladacycle intermediates. Furthermore, the oxidative borylation of aliphatic amines was accomplished at the distal -position in the presence of 6-methyl-2-pyridone as a well-tuned ligand. Moreover, selective activation of the methylene CH bond of aliphatic acids was also established in the presence of methyl CH bonds. This protocol effectively reverses the general selectivity in aliphatic CH bond activation. Computational studies have suggested that reversible CH activation is followed by -hydride elimination to generate the Pd-coordinated cycloalkene which undergoes stereoselective cyclization and subsequent -hydride elimination to provide bicyclic unsaturated lactones. Additionally, palladium-catalyzed CH alkylation and acylation reactions of carbazoles were developed with norbornene as a transient directing mediator via a unique six-membered palladacycle intermediate. These findings opened a new avenue for efficient syntheses of common organic fragments including biologically important (hetero)cycles. Moreover, they provide important insights into the research field of CH functionalization and significantly contribute to its advancement.   Broader Impacts: The PI has been devoting considerable efforts to attracting a diverse group of students into the science, technology, engineering, and mathematics (STEM) program. During the funding period, the PI's laboratory has provided research opportunities for fifteen undergraduate students including nine women and one Chancellor's Research Scholar Award Finalist, as well as two high school students, six graduate students, and six postdoctoral researchers. All undergraduate students were committed to at least one year of research in the PI's laboratory and participated in group meetings, research design and conduct, data analysis, and dissemination. Many of these undergraduate students have presented their research results in the departmental research symposiums, and five of them have publications due to their research contribution in the PI's laboratory. Three of these students are now working in chemistry-related companies, one is pursuing an MD/PhD in Medical School, and six are either in the chemistry graduate program or planning to apply. Moreover, the PI has completely reshaped an existing course, titled Organic Chemistry: Structures and Mechanisms, in the Fall of 2020-2024 encompassing organic, organometallic, heterocyclic, asymmetric, and catalytic chemistry to better suit students' interest and attract potential students to STEM disciplines. These combined efforts have provided students of all backgrounds with a valuable opportunity to explore and experiment with chemistry at an early stage, while gaining valuable skills and knowledge for their future careers. This initiative is expected to attract more students into advanced STEM areas. Additionally, this project has resulted in 21 peer-reviewed publications.     Last Modified: 11/06/2024       Submitted by: HaiboGe]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[2020 Vertically Integrated Projects (VIP) Consortium Meeting: Planning and Fostering Dissemination of the VIP Model]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>114973.00</AwardTotalIntnAmount>
+<AwardAmount>114973</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Tymann</SignBlockName>
+<PO_EMAI>ptymann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Vertically Integrated Projects (VIP) is a model for involving undergraduates in research. VIP project teams are curricular (undergraduates earn academic credit and are graded), largescale (about 20 students and 3 advisors), and long term.  The scale, longevity, disciplinary depth, and multidisciplinary breadth of the VIP teams enables VIPs to make substantial contributions to the research efforts of faculty and their graduate students, while also helping undergraduates learn how to do scientific research.  &lt;br/&gt;&lt;br/&gt;STEM educators benefit from professional development to learn about and implement evidence-based teaching practices. To this end, this project will host a meeting that aims to enable current and potential Vertically Integrated Projects (VIP) sites to: (1) engage in peer-to-peer learning; (2) examine equity in VIP enrollment; and (3) guide the launch of the non-profit VIP Consortium, Inc.  The meeting will be held at the Georgia Tech campus in Atlanta, Georgia on May 14-15, 2020, with an anticipated attendance of 100 individuals.  This project is supported by the NSF Improving Undergraduate STEM Education Program: Education and Human Resources.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/12/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2013545</AwardID>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Coyle</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME>Jr</PI_SUFX_NAME>
+<PI_FULL_NAME>Edward J Coyle</PI_FULL_NAME>
+<EmailAddress><![CDATA[ejc@gatech.edu]]></EmailAddress>
+<NSF_ID>000238386</NSF_ID>
+<StartDate>03/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Sonnenberg-Klein</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julia Sonnenberg-Klein</PI_FULL_NAME>
+<EmailAddress><![CDATA[jsk@gatech.edu]]></EmailAddress>
+<NSF_ID>000814224</NSF_ID>
+<StartDate>03/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>199800</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~114973</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong><span style="text-decoration: underline;">INTELLECTUAL MERIT</span></strong>: This grant enabled a series of four annual meetings of the Vertically Integrated Projects (VIP) Consortium. The purpose of the meetings was to foster research on the impact of VIP projects on students, faculty and institutions, and to continue the dissemination of VIP to every discipline and to any university that would like to adopt it.</p> <p>VIP project teams are: Vertically Integrated &ndash; consisting of sophomores through seniors and graduate students each semester; Large-Scale &ndash; a typical VIP team consists of 10 to 40+ students each semester, as needed for the success of the project; Long-Term &ndash; lasting for many years, even decades, with new students replacing those who graduate each semester; and, Multidisciplinary &ndash; including students from all disciplines required for the success of the project. The teams are thus structured and function like small companies. &nbsp;</p> <p>Each VIP team is embedded in the research or other creative efforts of a faculty member or researcher on campus. Faculty request teams because the teams have the size, longevity, disciplinary depth and multidisciplinary breadth that enable them to make substantial contributions to their research projects.</p> <p>Results of the research and data on VIP shared at the Annual Consortium Meetings demonstrated that students&rsquo; participation in VIP: (1) Measurably increased both their organizational skills and their leadership skills with each semester of participation in VIP. (2) Improved their ability to work in multidisciplinary teams and to work with people of different backgrounds. (3) Improved their likelihood of having a job upon graduation by a factor of three if they participated in the same VIP team for at least three semesters.</p> <p>During the four years of the grant, the number of US VIP sites increased from 14 to 28 institutions. The Consortium has institutions that are AAU, R1, R2, large, small, HBCUs, HSIs, undergraduate-only, public and private. At a number of these VIP sites, there are now more than 40 VIP teams: Georgia Tech, Purdue, Boise State, NYU, and Univ of Arizona. At Georgia Tech, there will be at least 99 VIP teams in Fall 2024, there were 2270 students enrolled in VIP in Spring 2024, the average VIP team consisted of 24 students, and 1/3 of all students who graduated last year had participated in VIP. This is a very promising indication that the VIP Program can scale to be very large at any four-year institution.</p> <p>There are now 22 VIP sites at universities in other countries, with at least one on every habitable continent. All 50 VIP sites around the world can participate in the Annual Consortium Meeting. It has been enlightening to all participants to see the barriers that prevent systemic reform of higher education in different countries. Discussions during the meetings often shed new light on how to overcome those barriers.</p> <p>Almost all VIP Sites started in engineering, but two started in the sciences. At a number of campuses &ndash; Georgia Tech, Boise State, Virginia Commonwealth, and Stony Brook &ndash; VIP teams exist or will soon exist in every discipline on campus. At Georgia Tech there are faculty in Business, Liberal Arts, and Public Policy that have VIP teams, as well as a large number of faculty in STEM disciplines and a number of researchers in the Georgia Tech Research Institute.</p> <p>The above outcomes demonstrate that VIP has the potential to achieve systemic reform of both STEM education and higher education in general.</p> <p><strong><span style="text-decoration: underline;">BROADER IMPACT</span></strong>:&nbsp; Students applying to join a VIP team are not screened by GPA, prerequisites, r&eacute;sum&eacute;s, or interviews. We have found that only a student&rsquo;s enthusiasm for the project is correlated with success on that project. Because there are no barriers to joining a VIP team, a study across five VIP sites has shown that participation in VIP is representative for five groups of students: under-represented minorities, first-generation, transfer, and women. Representative means that if a student group is x percent of students on campus, then they are also x percent of VIP students.</p> <p>Discussions during the Annual Consortium Meetings have shown that scalable software tools for student peer evaluation and grading are needed by all members of the Consortium. Several VIP sites &ndash; Georgia Tech, Stony Brook, and Purdue &ndash; have developed such tools but they are difficult to share with other sites. To overcome this barrier and to formalize the functions of the VIP Consortium, the nonprofit VIP Consortium, Inc has been launched. It recently received funding from the Lumina Foundation and other sources to develop a cloud version of these tools that would be accessible to any VIP site that would like to use them. This new entity will help ensure the permanence of the VIP Consortium.</p><br> <p>  Last Modified: 06/07/2024<br> Modified by: Edward&nbsp;J&nbsp;Coyle</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  INTELLECTUAL MERIT: This grant enabled a series of four annual meetings of the Vertically Integrated Projects (VIP) Consortium. The purpose of the meetings was to foster research on the impact of VIP projects on students, faculty and institutions, and to continue the dissemination of VIP to every discipline and to any university that would like to adopt it.   VIP project teams are: Vertically Integrated  consisting of sophomores through seniors and graduate students each semester; Large-Scale  a typical VIP team consists of 10 to 40+ students each semester, as needed for the success of the project; Long-Term  lasting for many years, even decades, with new students replacing those who graduate each semester; and, Multidisciplinary  including students from all disciplines required for the success of the project. The teams are thus structured and function like small companies.    Each VIP team is embedded in the research or other creative efforts of a faculty member or researcher on campus. Faculty request teams because the teams have the size, longevity, disciplinary depth and multidisciplinary breadth that enable them to make substantial contributions to their research projects.   Results of the research and data on VIP shared at the Annual Consortium Meetings demonstrated that students participation in VIP: (1) Measurably increased both their organizational skills and their leadership skills with each semester of participation in VIP. (2) Improved their ability to work in multidisciplinary teams and to work with people of different backgrounds. (3) Improved their likelihood of having a job upon graduation by a factor of three if they participated in the same VIP team for at least three semesters.   During the four years of the grant, the number of US VIP sites increased from 14 to 28 institutions. The Consortium has institutions that are AAU, R1, R2, large, small, HBCUs, HSIs, undergraduate-only, public and private. At a number of these VIP sites, there are now more than 40 VIP teams: Georgia Tech, Purdue, Boise State, NYU, and Univ of Arizona. At Georgia Tech, there will be at least 99 VIP teams in Fall 2024, there were 2270 students enrolled in VIP in Spring 2024, the average VIP team consisted of 24 students, and 1/3 of all students who graduated last year had participated in VIP. This is a very promising indication that the VIP Program can scale to be very large at any four-year institution.   There are now 22 VIP sites at universities in other countries, with at least one on every habitable continent. All 50 VIP sites around the world can participate in the Annual Consortium Meeting. It has been enlightening to all participants to see the barriers that prevent systemic reform of higher education in different countries. Discussions during the meetings often shed new light on how to overcome those barriers.   Almost all VIP Sites started in engineering, but two started in the sciences. At a number of campuses  Georgia Tech, Boise State, Virginia Commonwealth, and Stony Brook  VIP teams exist or will soon exist in every discipline on campus. At Georgia Tech there are faculty in Business, Liberal Arts, and Public Policy that have VIP teams, as well as a large number of faculty in STEM disciplines and a number of researchers in the Georgia Tech Research Institute.   The above outcomes demonstrate that VIP has the potential to achieve systemic reform of both STEM education and higher education in general.   BROADER IMPACT: Students applying to join a VIP team are not screened by GPA, prerequisites, rsums, or interviews. We have found that only a students enthusiasm for the project is correlated with success on that project. Because there are no barriers to joining a VIP team, a study across five VIP sites has shown that participation in VIP is representative for five groups of students: under-represented minorities, first-generation, transfer, and women. Representative means that if a student group is x percent of students on campus, then they are also x percent of VIP students.   Discussions during the Annual Consortium Meetings have shown that scalable software tools for student peer evaluation and grading are needed by all members of the Consortium. Several VIP sites  Georgia Tech, Stony Brook, and Purdue  have developed such tools but they are difficult to share with other sites. To overcome this barrier and to formalize the functions of the VIP Consortium, the nonprofit VIP Consortium, Inc has been launched. It recently received funding from the Lumina Foundation and other sources to develop a cloud version of these tools that would be accessible to any VIP site that would like to use them. This new entity will help ensure the permanence of the VIP Consortium.     Last Modified: 06/07/2024       Submitted by: EdwardJCoyle]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

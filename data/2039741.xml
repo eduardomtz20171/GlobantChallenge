@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER:Using Network Analysis And Representational Geometry To Learn Structure-Function Relationship In Neural Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>199999.00</AwardTotalIntnAmount>
+<AwardAmount>199999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vladimir Pavlovic</SignBlockName>
+<PO_EMAI>vpavlovi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928318</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Over the past few years, neural networks have revolutionized the fields of computer vision and natural language processing and are now becoming commonplace in many scientific domains. Despite their successes, understanding how to design or build a neural network solution remains challenging and often results in a game of guess and check. This process is incredibly inefficient, and in the end, does not provide any insights into why a model is either good or bad. Thus, new approaches are needed to characterize the relationship between structure (how the network is constructed) and function (how the network performs on a task) in neural networks, and use this information to design learning systems that are more efficient and stable. The overarching goal of this project is to develop tools to model the relationship between the structure and function of deep neural networks. This project will generate a rich toolkit for extracting low-dimensional features from neural networks and will produce new insights that can be used to drive progress in the future design of systems capable of modifying their own architecture to adapt to new data streams.&lt;br/&gt;&lt;br/&gt;Given the dimensionality of the problem, the discovery of compact (low-dimensional) representations and metrics that can adequately capture signatures of ``learning'' will be critical. When learning is unsuccessful, these metrics will be used to diagnose problems inherent to the network structure, such as its depth, width, and density of connections. The first part of the project will use tools in network science to discover how concepts such as network sparsity or path diversity between inputs and outputs affect the network's learning performance and efficiency (e.g., the number of examples required to learn a modular task, or whether the network can learn continually without catastrophic forgetting). The second part of the project will develop tools to study how the geometry of representations formed within networks can be used to predict learning outcomes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/31/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039741</AwardID>
+<Investigator>
+<FirstName>Constantinos</FirstName>
+<LastName>Dovrolis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Constantinos Dovrolis</PI_FULL_NAME>
+<EmailAddress><![CDATA[dovrolis@cc.gatech.edu]]></EmailAddress>
+<NSF_ID>000166409</NSF_ID>
+<StartDate>07/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eva</FirstName>
+<LastName>Dyer</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eva L Dyer</PI_FULL_NAME>
+<EmailAddress><![CDATA[evadyer@gatech.edu]]></EmailAddress>
+<NSF_ID>000753953</NSF_ID>
+<StartDate>07/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue, NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>749500</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p id="docs-internal-guid-17b0e7e2-7fff-82d8-2ab3-c3cd5fe85964" style="line-height: 1.38; text-align: justify; margin-top: 0pt; margin-bottom: 12pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">Intellectual Merit</span><span style="font-size: 12pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">: </span><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Modern deep learning often involves a trial-and-error approach to identify an appropriate neural network architecture, requiring extensive adjustments to network width, depth, and other parameters. This project aimed to deepen our understanding of the interplay between function and structure in these models, developing metrics that capture learning signatures and providing diagnostic tools for network issues like overfitting or inefficient learning. By drawing inspiration from neural organization principles in the brain, namely sparsity and modularity, we also sought to inform the design of more effective neural networks.</span></p> <p style="line-height: 1.38; text-align: justify; margin-top: 12pt; margin-bottom: 12pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Over the course of the project, we made several important contributions to these challenges that can be summarized in terms of how they advanced our understanding of (i) </span><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">sparsity in networks</span><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">, (ii) </span><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">modularity in networks</span><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">, and (iii) </span><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">overparameterization</span><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">, in shaping learning.</span></p> <p style="line-height: 1.38; text-align: justify; margin-top: 12pt; margin-bottom: 12pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">Sparsity in Networks</span><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">:&nbsp; </span><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Even in large networks, small subsets of nodes or edges may be critical for many downstream decisions. However, learning sparse networks can be challenging. To address this, we developed PHEW (Paths with High Edge Weights), a novel method for constructing sparse neural networks that can learn efficiently and generalize well without training data (Patil, ICML 2021). PHEW uses biased random walks based on initial weights to probabilistically form networks, offering a new approach to achieving high performance with fewer resources. This method not only advances our understanding of network formation but also provides practical tools for building more efficient models.</span></p> <p style="line-height: 1.38; text-align: justify; margin-top: 12pt; margin-bottom: 12pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">To further illustrate how sparse networks can operate in continual learning settings, we developed the Neuro-Inspired Stability-Plasticity Adaptation (NISPA) architecture, which supports continual learning through a dynamic, sparse neural network with fixed density (Gurbuz, ICML 2022). NISPA employs connection rewiring to create new plastic paths, allowing the network to reuse existing knowledge when facing novel tasks. This architecture addresses the challenge of enabling models to learn continuously without forgetting previously acquired knowledge, which is crucial for developing adaptable AI systems.</span></p> <p style="line-height: 1.38; text-align: justify; margin-top: 12pt; margin-bottom: 12pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">Modularity in Networks</span><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">:&nbsp; </span><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Modularity is a key feature of brain networks. However, building modular networks is challenging, and in the past, many modular networks have not outperformed fully connected systems. We set out to study the emergence of modular neural network architectures when learning modular tasks. Through our work on "Neural Sculpting," we demonstrated how to uncover hierarchically modular neural network structures through pruning and network analysis (Patil, NeurIPS 2023). This work provides insights into how complex tasks are learned and represented within neural networks, facilitating the development of more sophisticated models.</span></p> <p style="line-height: 1.38; text-align: justify; margin-top: 12pt; margin-bottom: 12pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: italic; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">Overparameterization of Networks</span><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">:&nbsp; Increasing the size of a model, or the width of a layer, is often essential to provide the model with the capacity to learn. However, the precise impact of overparameterization on learning remains not fully understood. This project enabled the development of a theoretical framework for studying the effects of learning in overparameterized models (Lin, JMLR 2024). This framework enhances our understanding of how noise and various augmentations contribute to variance reduction, laying the foundation for more robust and efficient machine learning algorithms. These theoretical insights, combined with our practical methods, offer a comprehensive approach to improving deep learning models.</span></p> <p style="line-height: 1.38; text-align: justify; margin-top: 12pt; margin-bottom: 12pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Throughout the project, we ensured that all research contributions were open source, making them freely available to the wider research community. This commitment to open science promotes collaboration and accelerates progress in the field.</span></p> <p style="line-height: 1.38; text-align: justify; margin-top: 12pt; margin-bottom: 12pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">Broader Impacts</span><span style="font-size: 12pt; font-family: Arial, sans-serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">: </span><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">In addition to our technical contributions, the project had a significant impact on education and interdisciplinary collaboration. We developed numerous educational resources, including tutorials and course materials on overparameterization and neural network architecture. These resources facilitated the launch of a new NeuroAI course at Georgia Tech, fostering interdisciplinary learning at the intersection of neuroscience and artificial intelligence. The NeuroAI course has attracted students and researchers from diverse backgrounds, promoting a deeper understanding of how principles from neuroscience can inform and improve AI. By integrating insights from both fields, the course aims to cultivate a new generation of researchers equipped to tackle complex challenges in AI and neuroscience.</span></p> <p style="line-height: 1.38; text-align: justify; margin-top: 12pt; margin-bottom: 12pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Overall, this project has made substantial contributions to the field of machine learning, both in theoretical advancements and practical applications. By developing new methods for constructing and understanding neural networks, we have provided tools and insights that will drive future innovations. Our commitment to open science and education ensures that these benefits are widely accessible, supporting the growth and development of the research community.</span></p><br> <p>  Last Modified: 06/07/2024<br> Modified by: Eva&nbsp;L&nbsp;Dyer</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit: Modern deep learning often involves a trial-and-error approach to identify an appropriate neural network architecture, requiring extensive adjustments to network width, depth, and other parameters. This project aimed to deepen our understanding of the interplay between function and structure in these models, developing metrics that capture learning signatures and providing diagnostic tools for network issues like overfitting or inefficient learning. By drawing inspiration from neural organization principles in the brain, namely sparsity and modularity, we also sought to inform the design of more effective neural networks.   Over the course of the project, we made several important contributions to these challenges that can be summarized in terms of how they advanced our understanding of (i) sparsity in networks, (ii) modularity in networks, and (iii) overparameterization, in shaping learning.   Sparsity in Networks: Even in large networks, small subsets of nodes or edges may be critical for many downstream decisions. However, learning sparse networks can be challenging. To address this, we developed PHEW (Paths with High Edge Weights), a novel method for constructing sparse neural networks that can learn efficiently and generalize well without training data (Patil, ICML 2021). PHEW uses biased random walks based on initial weights to probabilistically form networks, offering a new approach to achieving high performance with fewer resources. This method not only advances our understanding of network formation but also provides practical tools for building more efficient models.   To further illustrate how sparse networks can operate in continual learning settings, we developed the Neuro-Inspired Stability-Plasticity Adaptation (NISPA) architecture, which supports continual learning through a dynamic, sparse neural network with fixed density (Gurbuz, ICML 2022). NISPA employs connection rewiring to create new plastic paths, allowing the network to reuse existing knowledge when facing novel tasks. This architecture addresses the challenge of enabling models to learn continuously without forgetting previously acquired knowledge, which is crucial for developing adaptable AI systems.   Modularity in Networks: Modularity is a key feature of brain networks. However, building modular networks is challenging, and in the past, many modular networks have not outperformed fully connected systems. We set out to study the emergence of modular neural network architectures when learning modular tasks. Through our work on "Neural Sculpting," we demonstrated how to uncover hierarchically modular neural network structures through pruning and network analysis (Patil, NeurIPS 2023). This work provides insights into how complex tasks are learned and represented within neural networks, facilitating the development of more sophisticated models.   Overparameterization of Networks: Increasing the size of a model, or the width of a layer, is often essential to provide the model with the capacity to learn. However, the precise impact of overparameterization on learning remains not fully understood. This project enabled the development of a theoretical framework for studying the effects of learning in overparameterized models (Lin, JMLR 2024). This framework enhances our understanding of how noise and various augmentations contribute to variance reduction, laying the foundation for more robust and efficient machine learning algorithms. These theoretical insights, combined with our practical methods, offer a comprehensive approach to improving deep learning models.   Throughout the project, we ensured that all research contributions were open source, making them freely available to the wider research community. This commitment to open science promotes collaboration and accelerates progress in the field.   Broader Impacts: In addition to our technical contributions, the project had a significant impact on education and interdisciplinary collaboration. We developed numerous educational resources, including tutorials and course materials on overparameterization and neural network architecture. These resources facilitated the launch of a new NeuroAI course at Georgia Tech, fostering interdisciplinary learning at the intersection of neuroscience and artificial intelligence. The NeuroAI course has attracted students and researchers from diverse backgrounds, promoting a deeper understanding of how principles from neuroscience can inform and improve AI. By integrating insights from both fields, the course aims to cultivate a new generation of researchers equipped to tackle complex challenges in AI and neuroscience.   Overall, this project has made substantial contributions to the field of machine learning, both in theoretical advancements and practical applications. By developing new methods for constructing and understanding neural networks, we have provided tools and insights that will drive future innovations. Our commitment to open science and education ensures that these benefits are widely accessible, supporting the growth and development of the research community.     Last Modified: 06/07/2024       Submitted by: EvaLDyer]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Efficient Numerical Methods and Algorithms for Nonlinear Stochastic Partial Differential Equations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>275000.00</AwardTotalIntnAmount>
+<AwardAmount>275000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Modeling in industry, engineering, and domain sciences often involves various degrees of randomness and uncertainty effects.  A large and important class of models incorporating uncertainty are random and/or stochastic partial differential equations (SPDEs). This research project will address several important SPDEs and aims to develop improved numerical methods that are stable, accurate, and efficient, with focus on nonlinear problems and adequate sampling methods.  The resulting numerical methods and algorithms are anticipated to provide much-needed tools for computational modeling of systems described mathematically by SPDEs from many scientific, engineering, and industry applications such as materials science, fluid and quantum mechanics, wave scattering, mathematical finance, and stochastic optimal control. Moreover, the project will train graduate students through involvement in the research, helping them develop applied and computational mathematics knowledge and skills needed for successful careers in either academia or industry. &lt;br/&gt;&lt;br/&gt;This research project develops advanced numerical methods and algorithms for general nonlinear random and/or stochastic partial differential equations (R/SPDEs). Current approaches for solving R/SPDEs face considerable challenges at large scales: the sheer amount of computation involved in such systems prevents the use of high spatial and temporal resolutions, and solver optimization is often not considered. In the meantime, R/SPDEs become more complex as additional nonlinearities and sources of noise are considered. This presents a big challenge but also a great opportunity to the numerical PDE community. The project focuses on developing efficient numerical methods and algorithms for solving nonlinear SPDEs that arise from various scientific and engineering applications, including stochastic Allen-Cahn and Cahn-Hilliard equations and stochastic nonlinear wave and Schrodinger equations. The numerical methods under development will aim to feature stability with respect to mesh sizes and physical parameters, structure-preserving properties, and amenability to fast and parallelizable implementation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012414</AwardID>
+<Investigator>
+<FirstName>Xiaobing</FirstName>
+<LastName>Feng</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaobing H Feng</PI_FULL_NAME>
+<EmailAddress><![CDATA[xfeng@utk.edu]]></EmailAddress>
+<NSF_ID>000288991</NSF_ID>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960001</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress><![CDATA[201 ANDY HOLT TOWER]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FN2YCS2YAUW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TENNESSEE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LXG4F9K8YZK5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Tennessee Knoxville]]></Name>
+<CityName>Knoxville</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>379960003</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~275000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p style="text-align: left;">This research project focused on developing efficient computational methods and algorithms to solve nonlinear stochastic partial differential equations (SPDEs) that arise in various scientific and engineering applications, including geoscience, fluid mechanics, and materials science. Another primary goal was to establish a comprehensive numerical analysis framework for nonlinear SPDEs, emphasizing efficient coordination among discretization methods for probabilistic and physical (spatial and temporal) variables and solvers. This project advocated a novel, solver-friendly discretization approach, where discretization methods, solvers, and sampling techniques are integrated to create efficient and highly parallelizable numerical methodologies for nonlinear SPDEs.</p> <p style="text-align: left;"><br />Several important nonlinear SPDEs with real-world applications were investigated in this project, such as the stochastic Allen-Cahn and Cahn-Hilliard equations (phase transition), stochastic Navier-Stokes equations (fluid dynamics), stochastic nonlinear wave equations (geoscience and acoustics), stochastic nonlinear Schr&ouml;dinger equation (optics and plasma waves), and stochastic fully nonlinear first- and second-order PDEs (optimal control and antenna design). Due to their nonlinearities, these SPDEs cannot be solved with closed-form formulas and therefore require computational solutions, necessitating the development of efficient and robust numerical methods and algorithms.</p> <p style="text-align: left;"><br />The principal investigator (PI) and their research team successfully accomplished the primary objectives of this project. For each nonlinear SPDE studied, they developed customized space-time fully discretized methods with properties of unconditional stability (independent of mesh sizes), uniform stability (with respect to physical parameters), structure preservation (satisfying dissipative or conservative energy laws), and optimal accuracy with rates of convergence. The proposed discretization methods were designed to be solver-friendly, enabling the construction of fast solution methods and efficient, overall numerical approaches for solving the nonlinear SPDEs. These innovative features were rigorously validated through theoretical proofs or extensive numerical experiments. Additionally, open-source computer codes were developed to perform all numerical simulations. The research findings have been shared through a series of journal publications and presentations at domestic and international conferences and workshops. This project has also established a foundation for the future development and analysis of new, efficient, and accurate computational methods for nonlinear SPDEs.</p> <p style="text-align: left;"><br />This research makes a significant contribution to the growing field of numerical methods for nonlinear SPDEs and is expected to have substantial theoretical and practical impacts. The computational methods and algorithms developed in this project provide essential tools for addressing various challenging SPDE problems in many scientific and engineering domains. Furthermore, this project supported and trained three Ph.D. students, equipping them with the skills and knowledge to complete their dissertations and pursue successful careers in academia or industry.</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/27/2024<br> Modified by: Xiaobing&nbsp;H&nbsp;Feng</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This research project focused on developing efficient computational methods and algorithms to solve nonlinear stochastic partial differential equations (SPDEs) that arise in various scientific and engineering applications, including geoscience, fluid mechanics, and materials science. Another primary goal was to establish a comprehensive numerical analysis framework for nonlinear SPDEs, emphasizing efficient coordination among discretization methods for probabilistic and physical (spatial and temporal) variables and solvers. This project advocated a novel, solver-friendly discretization approach, where discretization methods, solvers, and sampling techniques are integrated to create efficient and highly parallelizable numerical methodologies for nonlinear SPDEs.    Several important nonlinear SPDEs with real-world applications were investigated in this project, such as the stochastic Allen-Cahn and Cahn-Hilliard equations (phase transition), stochastic Navier-Stokes equations (fluid dynamics), stochastic nonlinear wave equations (geoscience and acoustics), stochastic nonlinear Schrdinger equation (optics and plasma waves), and stochastic fully nonlinear first- and second-order PDEs (optimal control and antenna design). Due to their nonlinearities, these SPDEs cannot be solved with closed-form formulas and therefore require computational solutions, necessitating the development of efficient and robust numerical methods and algorithms.    The principal investigator (PI) and their research team successfully accomplished the primary objectives of this project. For each nonlinear SPDE studied, they developed customized space-time fully discretized methods with properties of unconditional stability (independent of mesh sizes), uniform stability (with respect to physical parameters), structure preservation (satisfying dissipative or conservative energy laws), and optimal accuracy with rates of convergence. The proposed discretization methods were designed to be solver-friendly, enabling the construction of fast solution methods and efficient, overall numerical approaches for solving the nonlinear SPDEs. These innovative features were rigorously validated through theoretical proofs or extensive numerical experiments. Additionally, open-source computer codes were developed to perform all numerical simulations. The research findings have been shared through a series of journal publications and presentations at domestic and international conferences and workshops. This project has also established a foundation for the future development and analysis of new, efficient, and accurate computational methods for nonlinear SPDEs.    This research makes a significant contribution to the growing field of numerical methods for nonlinear SPDEs and is expected to have substantial theoretical and practical impacts. The computational methods and algorithms developed in this project provide essential tools for addressing various challenging SPDE problems in many scientific and engineering domains. Furthermore, this project supported and trained three Ph.D. students, equipping them with the skills and knowledge to complete their dissertations and pursue successful careers in academia or industry.        Last Modified: 10/27/2024       Submitted by: XiaobingHFeng]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

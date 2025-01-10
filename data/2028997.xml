@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: SARE: Physically disordered nanostructures for lightweight and secure authentication on CMOS platform]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ale Lukaszew</SignBlockName>
+<PO_EMAI>rlukasze@nsf.gov</PO_EMAI>
+<PO_PHON>7032928103</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Authentication is one of the fundamental primitives to establish security in ubiquitous systems. The current best practice for authentication relies upon cryptography and secure keys. Such an approach can hardly be scaled to emerging applications due to its high-power consumption and vulnerabilities to physical and cryptographic attacks. Strong Physically Unclonable Function (SPUF) promises a lightweight and secure authentication method based on physical disorders. So far, SPUFs with the desired security properties has only been demonstrated with optics or biology. But it is not practical to integrate them with electronics in mobile and ubiquitous systems. This project explores technologies to enable secure and practical SPUFs on silicon chips, which addresses the needs for security solutions in emerging ubiquitous electronics. The project also includes training and teaching graduate and undergraduate students on hardware security.&lt;br/&gt;&lt;br/&gt;This project aims to emulate the proven optically disordered SPUF system with an electrical percolation system built on CMOS platforms for authentication. The inter-disciplinary project will be carried out with three objectives: CMOS-compatible electrical percolation nanostructures; CMOS readout circuits and alternative integration strategies; system design and assessment of proof-of-principle SPUFs. The project includes analysis and optimization of the cross-layer design space involving the degree of uncorrelation for nanostructures, the measurement resolution of circuits, and the complexity of encoding schemes. Overall, the project can potentially create a radically different and complete solution to the challenge of authenticating ubiquitous hardware devices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028997</AwardID>
+<Investigator>
+<FirstName>Kaiyuan</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kaiyuan Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[kyang@rice.edu]]></EmailAddress>
+<NSF_ID>000754065</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gururaj</FirstName>
+<LastName>Naik</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gururaj Naik</PI_FULL_NAME>
+<EmailAddress><![CDATA[guru@rice.edu]]></EmailAddress>
+<NSF_ID>000753654</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[William Marsh Rice University]]></Name>
+<CityName>Houston</CityName>
+<ZipCode>770051827</ZipCode>
+<PhoneNumber>7133484820</PhoneNumber>
+<StreetAddress><![CDATA[6100 MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>K51LECU1G8N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WILLIAM MARSH RICE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[William Marsh Rice University]]></Name>
+<CityName>Houston</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>770051827</ZipCode>
+<StreetAddress><![CDATA[6100 Main Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>106E</Code>
+<Text>Mixed signal technologies</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6863</Code>
+<Text>SEBML-MOORE'S LAW</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8615</Code>
+<Text>Nanoscale Devices and Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Cybersecurity is a primary challenge in the era of ubiquitous electronic sensors and computers, with cryptographic algorithms and secret keys being the current go-to safeguards. However, with technological advancements, these measures are becoming increasingly vulnerable and resource-consuming for ubiquitous devices. Strong Physically Unclonable Function (SPUF) has emerged as a revolutionary foundation for cybersecurity that is immune from cryptoanalysis, advances in mathematics and computers (even quantum computers), or physical probing and side-channel attacks. It also achieves information theoretical security as defined by C. Shannon. Last but not least, due to its physical nature and tight bonding to a specific chip, SPUF enables novel and essential security applications like chip supply chain integrity that cannot be achieved with conventional cryptographic systems.&nbsp;</p> <p>Despite its great potential, the original SPUF demonstration with an optical scattering system is bulky, expensive, and power-consuming, making it unsuitable for mobile, edge, and ubiquitous devices. For more than a decade, researchers have been exploring a plethora of CMOS and post-CMOS electronic devices and circuits, as well as optical features in silk fibers, ink-jet prints, gold films, diamond particles, and biological systems to build a compact and secure SPUF. However, none of these efforts have been successful due to the fundamentally limited density of entropy sources harnessed in these systems.&nbsp;</p> <p>The goal of this project was to study the feasibility of building a monolithically integrated SPUF capable of producing more than a billion uncorrelated and reliable CRPs with low energy consumption and tamper resistance. Through extensive theoretical analysis and experimental optimizations, this project demonstrated the feasibility of utilizing high-density physical entropy sources to realize billions independent and identically distributed challenge-response pairs (CRPs) within a few millimeter square of chip area. Measurement of fabricated SPUF samples demonstrate CRPs with excellent randomness, independence, stability across a wide temperature range, and scalability towards sufficient CRPs for lifetime authentications within a tiny chip. The statistical properties of the CRPs withstand rigorous tests, including NIST randomness tests and a plethora of machine learning-based modeling attacks using both deep learning and classical machine learning methods.&nbsp;</p> <p>Five graduate students and three undergraduate students participated in the research, gaining experience and knowledge in a highly interdisciplinary research project that spans&nbsp;material synthesis, nanofabrication, hardware engineering, and computer security. The students have also gained various technical and professional skills that are essential to their future endeavors.&nbsp;</p> <p>In summary, this project demonstrates the feasibility of creating all-electric, silicon integrable, low-cost SPUFs with ideal properties as envisioned decades ago, which offers an alternative path for achieving strong security on highly resource-constrained devices.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/21/2024<br> Modified by: Kaiyuan&nbsp;Yang</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Cybersecurity is a primary challenge in the era of ubiquitous electronic sensors and computers, with cryptographic algorithms and secret keys being the current go-to safeguards. However, with technological advancements, these measures are becoming increasingly vulnerable and resource-consuming for ubiquitous devices. Strong Physically Unclonable Function (SPUF) has emerged as a revolutionary foundation for cybersecurity that is immune from cryptoanalysis, advances in mathematics and computers (even quantum computers), or physical probing and side-channel attacks. It also achieves information theoretical security as defined by C. Shannon. Last but not least, due to its physical nature and tight bonding to a specific chip, SPUF enables novel and essential security applications like chip supply chain integrity that cannot be achieved with conventional cryptographic systems.   Despite its great potential, the original SPUF demonstration with an optical scattering system is bulky, expensive, and power-consuming, making it unsuitable for mobile, edge, and ubiquitous devices. For more than a decade, researchers have been exploring a plethora of CMOS and post-CMOS electronic devices and circuits, as well as optical features in silk fibers, ink-jet prints, gold films, diamond particles, and biological systems to build a compact and secure SPUF. However, none of these efforts have been successful due to the fundamentally limited density of entropy sources harnessed in these systems.   The goal of this project was to study the feasibility of building a monolithically integrated SPUF capable of producing more than a billion uncorrelated and reliable CRPs with low energy consumption and tamper resistance. Through extensive theoretical analysis and experimental optimizations, this project demonstrated the feasibility of utilizing high-density physical entropy sources to realize billions independent and identically distributed challenge-response pairs (CRPs) within a few millimeter square of chip area. Measurement of fabricated SPUF samples demonstrate CRPs with excellent randomness, independence, stability across a wide temperature range, and scalability towards sufficient CRPs for lifetime authentications within a tiny chip. The statistical properties of the CRPs withstand rigorous tests, including NIST randomness tests and a plethora of machine learning-based modeling attacks using both deep learning and classical machine learning methods.   Five graduate students and three undergraduate students participated in the research, gaining experience and knowledge in a highly interdisciplinary research project that spansmaterial synthesis, nanofabrication, hardware engineering, and computer security. The students have also gained various technical and professional skills that are essential to their future endeavors.   In summary, this project demonstrates the feasibility of creating all-electric, silicon integrable, low-cost SPUFs with ideal properties as envisioned decades ago, which offers an alternative path for achieving strong security on highly resource-constrained devices.        Last Modified: 08/21/2024       Submitted by: KaiyuanYang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

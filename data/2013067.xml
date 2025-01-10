@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Physics-Reinforced Deep Learning for Structural Metamodeling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>599005.00</AwardTotalIntnAmount>
+<AwardAmount>599005</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gianluca Cusatis</SignBlockName>
+<PO_EMAI>gcusatis@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research will develop new computational methods to advance modeling, analysis and assessment of civil structural systems subjected to earthquakes. Currently available simplified or reduced-order models widely used in structural analysis have severe limitations in accurately predicting the complex nonlinearities in structural response under earthquake loading (e.g., in the presence of large nonlinear drifts, damage, failure, etc.). The infusion of artificial intelligence (AI) into civil engineering offers a powerful new approach for structural modeling. However, currently large amounts of data are required to train a reliable AI model, and even with rich data, the trained models are difficult to interpret and have little physical meaning. To address these fundamental issues and to bridge the knowledge gap between AI and performance-based engineering, this project will integrate deep learning and physics principles for efficient and probabilistic modeling of nonlinear structures under earthquake hazards. This research will advance more efficient design, reliability analysis, control and optimization of engineering structures with much less computational efforts. The project will also establish an integrated research-education-outreach program that will (i) transform the fundamental understanding of machine learning grounded with domain-specific knowledge, (ii) promote participation by undergraduates, in particular, women and minorities, and (iii) inspire high school students to pursue STEM-related careers.&lt;br/&gt;&lt;br/&gt;This research will breathe novel elements of machine learning into performance-based structural engineering, opening a new avenue by leveraging deep learning integrated with physics knowledge for modeling of seismic response of structural systems. The specific research aims of this project include: (1) developing unsupervised learning-based ground motion selection for optimal generation of seismic response database, (2) establishing rigorous formulation and algorithm for an innovative, physics-reinforced deep Learning paradigm for structural metamodeling, (3) developing a neural network compression approach to prune the metamodels for efficient inference, and (4) incorporating variability for probabilistic seismic response prediction and fragility analysis. The resulting deep-learning-based metamodels will possess salient features including (i) interpretability with physical meaning, (ii) generalizability and extrapolation to unseen cases, (iii) real-time inference based on a lightweight/compressed metamodel architecture, and (iv) capability of addressing incomplete and scare data. This approach will be applicable to a wide range of nonlinear dynamical systems under complex loading conditions. This project will advance the knowledge base in multiple disciplines of nonlinear structural dynamics, computational modeling, robust and efficient machine/deep learning, optimization and uncertainty quantification.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/29/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2013067</AwardID>
+<Investigator>
+<FirstName>Jerome</FirstName>
+<LastName>Hajjar</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jerome F Hajjar</PI_FULL_NAME>
+<EmailAddress><![CDATA[jf.hajjar@northeastern.edu]]></EmailAddress>
+<NSF_ID>000100756</NSF_ID>
+<StartDate>03/27/2020</StartDate>
+<EndDate>03/29/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jerome</FirstName>
+<LastName>Hajjar</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jerome F Hajjar</PI_FULL_NAME>
+<EmailAddress><![CDATA[jf.hajjar@northeastern.edu]]></EmailAddress>
+<NSF_ID>000100756</NSF_ID>
+<StartDate>03/29/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yanzhi</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yanzhi Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yanzhiwang@northeastern.edu]]></EmailAddress>
+<NSF_ID>000695637</NSF_ID>
+<StartDate>03/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hao</FirstName>
+<LastName>Sun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hao Sun</PI_FULL_NAME>
+<EmailAddress><![CDATA[h.sun@northeastern.edu]]></EmailAddress>
+<NSF_ID>000756998</NSF_ID>
+<StartDate>03/27/2020</StartDate>
+<EndDate>03/29/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173735600</PhoneNumber>
+<StreetAddress><![CDATA[360 HUNTINGTON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HLTMVS2JZBS6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHEASTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021155005</ZipCode>
+<StreetAddress><![CDATA[360 Huntington Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>073Y00</Code>
+<Text>ECI-Engineering for Civil Infr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>039E</Code>
+<Text>STRUCTURAL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>043E</Code>
+<Text>EARTHQUAKE ENGINEERING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~599005</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="mainbody">Buildings are a critical part of our nation&rsquo;s infrastructure, and understanding how they are affected by earthquakes is essential for keeping them safe. This research focused on developing innovative ways to model and analyze buildings to improve their design and performance assessment for earthquake hazards. By combining physical models with machine learning methods, we aimed to enhance the efficiency and accuracy of hazard analysis.</p> <p class="mainbody">Our approach integrated physics into the machine learning&nbsp;training process to make structural response estimation more reliable and efficient. The specific models developed fall under structural metamodeling, or surrogate modeling. Structural metamodeling estimates the input-output relationship of a more complex structural model (e.g., it produces a model of a model) and allows for more efficient structural analysis and design. It reduces computational effort for reliability and risk analysis, leading to globally efficient designs while maintaining required accuracy levels. We developed a comprehensive framework that used machine learning at various stages of the performance assessment.</p> <p class="mainbody">We devised a method to group and select earthquake ground motions using unsupervised learning. Our approach involved a deep learning technique and a novel autoencoder method to identify a subspace of characteristics. From this subspace, we selected representative ground motions, which were then used as inputs for detailed structural analysis models. We validated our ground motion selection algorithm by comparing it with traditional methods on a seismic hazard analysis (SHA). Our results demonstrated significant improvements in adherence to a benchmark SHA compared to traditional methods. Additionally, we extended this selection tool to provide insights into the latent features discovered by the autoencoder, enabling us to build a high-quality database of seismic responses for training our metamodels.</p> <p class="mainbody">Finite element modeling (FEM) is the most common response analysis method used in nonlinear time history analysis of building structures. We utilized open-source datasets that apply FEM for a suite of steel moment-resisting frame structures to generate response data, which we used to train our metamodels. Additionally, we used benchmark nonlinear structural models and data from the response of an actual building to historical earthquakes to showcase the metamodel's performance. We also developed methods to prepare and optimize this data to improve our model predictions, including data scaling techniques and other dimensionality reduction methodologies.</p> <p class="mainbody">We trained our metamodels with input ground motion time series from the ground motion selection algorithm and the output of the time series nodal structural response generated with FEM. By applying physics principles to our machine learning models, we created two advanced neural network architectures termed physics-reinforced machine learning metamodels. These models estimate how the selected structures behave during earthquakes and produce a response estimation on additional ground motion inputs. We compared our model performance with purely data-driven machine learning approaches to show the effects of the physical constraints, highlighting the novelty of our physics-reinforced machine learning&nbsp;metamodels. We demonstrated through various error metrics that incorporating physics can lead to faster response estimation with less data.</p> <p class="mainbody">The models were trained under a variety of increasing earthquake hazards to include the impact of hazard levels on the nonlinear behavior of the structure. The results demonstrated that capturing these qualities in the training dataset is crucial to increase the accuracy of the model performance during testing and response estimation. In addition, we augmented our metamodels with a transfer learning technique to enhance the computational efficiency of the physics-reinforced machine learning formulation.</p> <p class="mainbody">We integrated both the ground motion selection algorithm and the physics-reinforced machine learning metamodels into a framework to general fragility curves that are used to assess the probability of buildings being damaged to specific threshold limit states, given a specific intensity earthquake. This approach combines data-driven and physics-based techniques to provide accurate risk assessments while reducing the time and cost of simulations.</p> <p class="mainbody">In summary, this project has extended the utilization of machine learning in structural engineering, making buildings safer and risk assessments more efficient. The integration of physics-reinforced methods with classical earthquake engineering and hazard analysis was shown to greatly enhance the efficiency of these simulation strategies.</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/30/2024<br> Modified by: Jerome&nbsp;F&nbsp;Hajjar</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Buildings are a critical part of our nations infrastructure, and understanding how they are affected by earthquakes is essential for keeping them safe. This research focused on developing innovative ways to model and analyze buildings to improve their design and performance assessment for earthquake hazards. By combining physical models with machine learning methods, we aimed to enhance the efficiency and accuracy of hazard analysis.   Our approach integrated physics into the machine learningtraining process to make structural response estimation more reliable and efficient. The specific models developed fall under structural metamodeling, or surrogate modeling. Structural metamodeling estimates the input-output relationship of a more complex structural model (e.g., it produces a model of a model) and allows for more efficient structural analysis and design. It reduces computational effort for reliability and risk analysis, leading to globally efficient designs while maintaining required accuracy levels. We developed a comprehensive framework that used machine learning at various stages of the performance assessment.   We devised a method to group and select earthquake ground motions using unsupervised learning. Our approach involved a deep learning technique and a novel autoencoder method to identify a subspace of characteristics. From this subspace, we selected representative ground motions, which were then used as inputs for detailed structural analysis models. We validated our ground motion selection algorithm by comparing it with traditional methods on a seismic hazard analysis (SHA). Our results demonstrated significant improvements in adherence to a benchmark SHA compared to traditional methods. Additionally, we extended this selection tool to provide insights into the latent features discovered by the autoencoder, enabling us to build a high-quality database of seismic responses for training our metamodels.   Finite element modeling (FEM) is the most common response analysis method used in nonlinear time history analysis of building structures. We utilized open-source datasets that apply FEM for a suite of steel moment-resisting frame structures to generate response data, which we used to train our metamodels. Additionally, we used benchmark nonlinear structural models and data from the response of an actual building to historical earthquakes to showcase the metamodel's performance. We also developed methods to prepare and optimize this data to improve our model predictions, including data scaling techniques and other dimensionality reduction methodologies.   We trained our metamodels with input ground motion time series from the ground motion selection algorithm and the output of the time series nodal structural response generated with FEM. By applying physics principles to our machine learning models, we created two advanced neural network architectures termed physics-reinforced machine learning metamodels. These models estimate how the selected structures behave during earthquakes and produce a response estimation on additional ground motion inputs. We compared our model performance with purely data-driven machine learning approaches to show the effects of the physical constraints, highlighting the novelty of our physics-reinforced machine learningmetamodels. We demonstrated through various error metrics that incorporating physics can lead to faster response estimation with less data.   The models were trained under a variety of increasing earthquake hazards to include the impact of hazard levels on the nonlinear behavior of the structure. The results demonstrated that capturing these qualities in the training dataset is crucial to increase the accuracy of the model performance during testing and response estimation. In addition, we augmented our metamodels with a transfer learning technique to enhance the computational efficiency of the physics-reinforced machine learning formulation.   We integrated both the ground motion selection algorithm and the physics-reinforced machine learning metamodels into a framework to general fragility curves that are used to assess the probability of buildings being damaged to specific threshold limit states, given a specific intensity earthquake. This approach combines data-driven and physics-based techniques to provide accurate risk assessments while reducing the time and cost of simulations.   In summary, this project has extended the utilization of machine learning in structural engineering, making buildings safer and risk assessments more efficient. The integration of physics-reinforced methods with classical earthquake engineering and hazard analysis was shown to greatly enhance the efficiency of these simulation strategies.        Last Modified: 07/30/2024       Submitted by: JeromeFHajjar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: SMALL: Collaborative Research: Reconfigurable and Programmable Processor Architectures for Brain-Computer Interfacing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>320000.00</AwardTotalIntnAmount>
+<AwardAmount>320000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>One of the primary motivations of brain-computer interfaces (BCIs) is to restore behavioral functions for patients who are unable to move or communicate through normal neural pathways because of strokes or chronic diseases. Restoring a full range of movements for paralyzed patients requires recordings from a relatively large population of brain neurons. Wireless transmission of large amounts of neural data for off-line processing on a computer imposes heat-related tissue damage and hinders real-time control of the prosthetics. In this SHF collaborative research, a foundation is laid for finding an optimal balance between real-time neural-signal processing using a brain-implantable electronic device and wireless data transmission for offline processing on a machine or computer so that the total power/energy consumption of the brain-implanted integrated circuit is minimized. This research focuses on a transformative BCI-specific processor architecture utilizing custom digital circuits to drastically relax power-hungry wireless data transmission while controlling prosthetics in real-time. The impact of research findings on education and society include: broadening the participation of underrepresented high school students using the new "Brain Chips" outreach program; enhancing educational learning via the "lab-at-home" approach; engaging the local community and broader society, especially those with disabilities, via workshops at the Disability Center San Diego; and contributing to rehabilitation and improving the quality of life of millions of patients suffering from neurodegenerative diseases or paralysis.&lt;br/&gt;&lt;br/&gt;This research creates a hybrid processor that is both software-programmable to efficiently execute neural-signal processing algorithms and hardware-reconfigurable to adopt a configurable instruction set architecture (ISA). The software-programmability supports the continuing evolution of approaches and algorithmic improvements while utilizing lower silicon area. Rather than optimized algorithms mapped onto a fixed-processor architecture, the processor optimally matches the specific requirements of the BCI algorithms at runtime by adopting a configurable ISA instead of a fixed and predetermined set of instructions and hence attains greater energy efficiency. The processor also utilizes various dedicated hardware architectures, including artificial and spiking neural networks, for area and energy-efficient processing of neural signals, transmitting only the translated commands directly to prosthetic devices and thus, minimizing the wireless communication overhead.&lt;br/&gt;&lt;br/&gt;To find and assess candidate neural-signal processing algorithms for real-time operation on the brain-implantable processor, this multidisciplinary research boosts the search in the large design space of neural-signal processing via a software-based performance and accuracy analysis tool that will reliably measure their important characteristics. By quantitatively comparing the potential neural-signal processing algorithms using meaningful efficiency and accuracy metrics, the BCI-specific processor and dedicated hardware architectures will be optimized for energy-efficient operation. The hybrid processor architecture and the design specifications are optimized by testing the BCI system at the Washington National Primate Research Center at the University of Washington in macaque monkeys.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007131</AwardID>
+<Investigator>
+<FirstName>Amirhossein</FirstName>
+<LastName>Alimohammad</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amirhossein Alimohammad</PI_FULL_NAME>
+<EmailAddress><![CDATA[aalimohammad@mail.sdsu.edu]]></EmailAddress>
+<NSF_ID>000624372</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[San Diego State University Foundation]]></Name>
+<CityName>SAN DIEGO</CityName>
+<ZipCode>921821901</ZipCode>
+<PhoneNumber>6195945731</PhoneNumber>
+<StreetAddress><![CDATA[5250 CAMPANILE DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>51</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA51</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H59JKGFZKHL7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SAN DIEGO STATE UNIVERSITY FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H59JKGFZKHL7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SAN DIEGO STATE UNIVERSITY]]></Name>
+<CityName>San Diego</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>921821309</ZipCode>
+<StreetAddress><![CDATA[5500 CAMPANILE DR MC 1309]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>51</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA51</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~320000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>One of the primary motivations behind brain-computer interfaces (BCIs) is to restore behavioral functions for patients who are unable to move or communicate through normal neural pathways due to strokes or chronic diseases. This multidisciplinary research project has significantly advanced the frontiers of knowledge in developing an efficient BCI system by introducing novel contributions in computational neuroscience and energy-efficient digital integrated circuit design. The outcomes of this research have the potential to contribute to rehabilitation efforts and improve the quality of life for millions of children and adults suffering from a diverse range of neurological disorders. Specifically, the project findings and outcomes address the following intellectual merits and broader impacts on education and society.</p> <p><strong>INTELLECTUAL MERIT</strong></p> <ul> <li>Designed and implemented a novel spike detection scheme that not only outperforms other state-of-the-art spike detection methods in accuracy but is also among the most power-, area-, and energy-efficient spike detectors, capable of being efficiently realized as a brain-implantable integrated circuit [3,4].</li> <li>Designed a novel neural network-based signal compression scheme for in vivo compression of recorded neural signals. Compared to reported compression integrated circuits, the implemented architecture occupies the least silicon area, consumes the least power, offers the highest compression rate, and achieves superior reconstruction quality [7].</li> <li>Designed and implemented a hardware-reconfigurable, software-programmable decoder processor with a custom instruction set architecture for executing neural network operations. Specifically, the processor was used for in vivo neural decoding using a small temporal convolutional network [2].</li> <li>Spike sorting is a fundamental step in processing neural signals. For the first time, we employed a binarized neural network (BNN) for in vivo spike sorting, significantly reducing the system's memory requirements and computational complexity compared to other state-of-the-art implementations. Hardware implementation results confirmed that a relatively small BNN can be used for brain implantation due to its compact silicon area and low power consumption, while still providing reliable sorting accuracy across varying numbers of clusters [1].</li> <li>Designed an area- and power-efficient, scalable reconfigurable hardware architecture for real-time emulation of spiking neural networks (SNNs) on both field-programmable gate arrays (FPGAs) and application-specific integrated circuits (ASICs). Compared to similarly-sized SNNs implemented on a single FPGA, our design can emulate moderately-sized SNNs in real time while utilizing significantly fewer reconfigurable resources. Compared to state-of-the-art ASIC implementations of SNNs, our design consumes less power by utilizing a hybrid parallel-sequential scheme. Furthermore, unlike state-of-the-art ASIC realizations, our design&rsquo;s power consumption and real-time processing are unaffected by the spiking rate of the emulated SNN. Our design supports various spiking rates based on the number of neurons and allows for an adjustable degree of parallelism and time step resolution [5,6].</li> <li>Through collaboration with the Washington National Primate Research Center (WANPRC), we were able to verify and optimize the investigated neural signal processing designs throughout this award. Neural signals were recorded using the NeuroChip platform implanted in two pigtail macaques at the WANPRC. For example, we validated the neural network-based spike sorting algorithms using neural recordings from these animals, confirming that partially binarized neural networks maintain higher clustering fidelity compared to complex offline sorting algorithms [8].</li> </ul> <p>&nbsp;</p> <p><strong>EDUCATIONAL ACTIVITIES AND BROADER IMPACTS</strong></p> <p>This research project and its educational activities:</p> <ul> <li>Have broadened the participation of underrepresented high school students.</li> <li>Have enhanced educational learning through the "lab-at-home" approach.</li> <li>Have enriched Computer Engineering education at San Diego State University by integrating cutting-edge research and educational activities.</li> <li>Have increased diversity in science and engineering.</li> </ul> <p>All research findings and educational materials have been made available to the public.</p> <p><strong><strong>PRODUCED&nbsp;</strong>PUBLICATIONS</strong></p> <p><strong>[1]&nbsp;</strong>D. Valencia and A. Alimohammad, "Neural Spike Sorting Using Binarized Neural Networks," in&nbsp;<em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em>, vol. 29, 2021.</p> <p><strong>[2]&nbsp;</strong>D. Valencia and A. Alimohammad, "Towards In Vivo Neural Decoding," in&nbsp;<em>Biomedical Engineering Letters</em>, vol. 12, 2022.</p> <p><strong>[3]&nbsp;</strong>D. Valencia, P. P. Mercier, and A. Alimohammad, "In Vivo Neural Spike Detection with Adaptive Noise Estimation," in&nbsp;<em>Journal of Neural Engineering</em>, vol. 19, 2022.</p> <p><strong>[4]&nbsp;</strong>D. Valencia, G. Leone, N. Keller, P. P. Mercier, and A. Alimohammad, "Power Efficient In Vivo Brain-Machine Interfaces via Brain-State Estimation," in&nbsp;<em>Journal of Neural Engineering</em>, vol. 20, 2023.</p> <p><strong>[5]&nbsp;</strong>D. Valencia and A. Alimohammad, "Partially Binarized Neural Networks for Efficient Spike Sorting," in&nbsp;<em>Biomedical Engineering Letters</em>, vol. 13, 2023.</p> <p><strong>[6]&nbsp;</strong>D. Valencia and A. Alimohammad, "A Generalized Hardware Architecture for Real-time Spiking Neural Networks," in&nbsp;<em>Neural Computing and Applications</em>, vol. 35, 2023.</p> <p><strong>[7]&nbsp;</strong>D. Valencia, P. P. Mercier, and A. Alimohammad, "Efficient In Vivo Neural Signal Compression Using an Autoencoder-based Neural Network," in&nbsp;<em>IEEE Transactions on Biomedical Circuits and Systems</em>, vol. 18, 2024.</p> <p><strong>[8]&nbsp;</strong>D. Valencia, P. P. Mercier, and A. Alimohammad, "An Efficient Brain-Switch for Asynchronous Brain-Computer Interfaces," in&nbsp;<em>IEEE Transactions on Biomedical Circuits and Systems</em>, pp. 1 - 12, 2024.</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/30/2024<br> Modified by: Amirhossein&nbsp;Alimohammad</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  One of the primary motivations behind brain-computer interfaces (BCIs) is to restore behavioral functions for patients who are unable to move or communicate through normal neural pathways due to strokes or chronic diseases. This multidisciplinary research project has significantly advanced the frontiers of knowledge in developing an efficient BCI system by introducing novel contributions in computational neuroscience and energy-efficient digital integrated circuit design. The outcomes of this research have the potential to contribute to rehabilitation efforts and improve the quality of life for millions of children and adults suffering from a diverse range of neurological disorders. Specifically, the project findings and outcomes address the following intellectual merits and broader impacts on education and society.   INTELLECTUAL MERIT  Designed and implemented a novel spike detection scheme that not only outperforms other state-of-the-art spike detection methods in accuracy but is also among the most power-, area-, and energy-efficient spike detectors, capable of being efficiently realized as a brain-implantable integrated circuit [3,4]. Designed a novel neural network-based signal compression scheme for in vivo compression of recorded neural signals. Compared to reported compression integrated circuits, the implemented architecture occupies the least silicon area, consumes the least power, offers the highest compression rate, and achieves superior reconstruction quality [7]. Designed and implemented a hardware-reconfigurable, software-programmable decoder processor with a custom instruction set architecture for executing neural network operations. Specifically, the processor was used for in vivo neural decoding using a small temporal convolutional network [2]. Spike sorting is a fundamental step in processing neural signals. For the first time, we employed a binarized neural network (BNN) for in vivo spike sorting, significantly reducing the system's memory requirements and computational complexity compared to other state-of-the-art implementations. Hardware implementation results confirmed that a relatively small BNN can be used for brain implantation due to its compact silicon area and low power consumption, while still providing reliable sorting accuracy across varying numbers of clusters [1]. Designed an area- and power-efficient, scalable reconfigurable hardware architecture for real-time emulation of spiking neural networks (SNNs) on both field-programmable gate arrays (FPGAs) and application-specific integrated circuits (ASICs). Compared to similarly-sized SNNs implemented on a single FPGA, our design can emulate moderately-sized SNNs in real time while utilizing significantly fewer reconfigurable resources. Compared to state-of-the-art ASIC implementations of SNNs, our design consumes less power by utilizing a hybrid parallel-sequential scheme. Furthermore, unlike state-of-the-art ASIC realizations, our designs power consumption and real-time processing are unaffected by the spiking rate of the emulated SNN. Our design supports various spiking rates based on the number of neurons and allows for an adjustable degree of parallelism and time step resolution [5,6]. Through collaboration with the Washington National Primate Research Center (WANPRC), we were able to verify and optimize the investigated neural signal processing designs throughout this award. Neural signals were recorded using the NeuroChip platform implanted in two pigtail macaques at the WANPRC. For example, we validated the neural network-based spike sorting algorithms using neural recordings from these animals, confirming that partially binarized neural networks maintain higher clustering fidelity compared to complex offline sorting algorithms [8].       EDUCATIONAL ACTIVITIES AND BROADER IMPACTS   This research project and its educational activities:  Have broadened the participation of underrepresented high school students. Have enhanced educational learning through the "lab-at-home" approach. Have enriched Computer Engineering education at San Diego State University by integrating cutting-edge research and educational activities. Have increased diversity in science and engineering.    All research findings and educational materials have been made available to the public.   PRODUCEDPUBLICATIONS   [1]D. Valencia and A. Alimohammad, "Neural Spike Sorting Using Binarized Neural Networks," inIEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 29, 2021.   [2]D. Valencia and A. Alimohammad, "Towards In Vivo Neural Decoding," inBiomedical Engineering Letters, vol. 12, 2022.   [3]D. Valencia, P. P. Mercier, and A. Alimohammad, "In Vivo Neural Spike Detection with Adaptive Noise Estimation," inJournal of Neural Engineering, vol. 19, 2022.   [4]D. Valencia, G. Leone, N. Keller, P. P. Mercier, and A. Alimohammad, "Power Efficient In Vivo Brain-Machine Interfaces via Brain-State Estimation," inJournal of Neural Engineering, vol. 20, 2023.   [5]D. Valencia and A. Alimohammad, "Partially Binarized Neural Networks for Efficient Spike Sorting," inBiomedical Engineering Letters, vol. 13, 2023.   [6]D. Valencia and A. Alimohammad, "A Generalized Hardware Architecture for Real-time Spiking Neural Networks," inNeural Computing and Applications, vol. 35, 2023.   [7]D. Valencia, P. P. Mercier, and A. Alimohammad, "Efficient In Vivo Neural Signal Compression Using an Autoencoder-based Neural Network," inIEEE Transactions on Biomedical Circuits and Systems, vol. 18, 2024.   [8]D. Valencia, P. P. Mercier, and A. Alimohammad, "An Efficient Brain-Switch for Asynchronous Brain-Computer Interfaces," inIEEE Transactions on Biomedical Circuits and Systems, pp. 1 - 12, 2024.        Last Modified: 09/30/2024       Submitted by: AmirhosseinAlimohammad]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

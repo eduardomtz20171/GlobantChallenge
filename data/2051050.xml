@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Smart Polymer Composite Materials and Structures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>312000.00</AwardTotalIntnAmount>
+<AwardAmount>312000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomislav Pintauer</SignBlockName>
+<PO_EMAI>tompinta@nsf.gov</PO_EMAI>
+<PO_PHON>7032927168</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Research Experiences for Undergraduates (REU) site award to Louisiana State University, located in Baton Rouge, LA, supports the training of 8 students for 10 weeks during the summers of 2021-2024. In this program, funded by the Division of Chemistry, participants will pursue interdisciplinary research projects in chemistry, mechanical engineering, and architecture. Students will be mentored by faculty and gain hands-on experience by working closely with graduate students and postdocs. Participants also will receive professional development and ethics training, focusing on research and scientific communication skills and graduate school. Through independent research projects, workshops, and a seminar series, this site strives to broaden participation and prepare students for graduate school and future STEM careers. &lt;br/&gt;&lt;br/&gt;Undergraduate research students at this site will undertake research projects across science and engineering, concentrated on smart polymer composite materials and structures. Planned projects include the design, synthesis, modeling, and characterization of smart polymer composites with sensing, actuating, healing, and adapting capabilities. Additionally, students will engage in weekly meetings, research facility tours, and a workshop series on topics including research ethics and poster design. Social and cultural exchange events are planned to promote inclusivity and networking opportunities for a diverse group of future STEM leaders. Students will communicate their research findings to a broad audience of students, faculty, and staff at a university-wide summer research forum. This site aims to attract diverse cohorts with an emphasis on recruiting from HBCUs or other minority-serving institutions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/25/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051050</AwardID>
+<Investigator>
+<FirstName>Guoqiang</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guoqiang Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[guoqiang_li@subr.edu]]></EmailAddress>
+<NSF_ID>000360421</NSF_ID>
+<StartDate>02/25/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tyrslai</FirstName>
+<LastName>Williams-Carter</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tyrslai M Williams-Carter</PI_FULL_NAME>
+<EmailAddress><![CDATA[twil161@lsu.edu]]></EmailAddress>
+<NSF_ID>000766632</NSF_ID>
+<StartDate>02/25/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Louisiana State University]]></Name>
+<CityName>BATON ROUGE</CityName>
+<ZipCode>708030001</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress><![CDATA[202 HIMES HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECQEYCHRNKJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LOUISIANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Louisiana State University]]></Name>
+<CityName/>
+<StateCode>LA</StateCode>
+<ZipCode>708032701</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>198600</Code>
+<Text>UNDERGRADUATE PROGRAMS IN CHEM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~312000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The <strong>goals</strong> of the Smart Polymer Composite Materials and Structures REU (Smart Polymer REU) are to provide exceptional research experiences for diverse undergraduates at the interface of materials and structures and to prepare students for advanced study and research careers. The Smart Polymer REU has three main <strong>objectives</strong>: (1) attract and retain high-quality and diverse students in this new research paradigm of smart materials and structures; (2) motivate and increase the number of students who enroll in graduate programs; and (3) promote inclusivity through awareness and cultural interactions between students and faculty with various backgrounds. These goals and objectives were met by immersing participants in a ten-week intensive research-based program that incorporated thorough scientific training, collaboration, professional development, and science communication skill preparation. The concentrated program structure enhanced the knowledge and analytical and technical skills needed for advanced research careers or success in graduate school. Students were engaged in innovative projects relevant to infrastructure, energy, aerospace, defense, transportation, and marine research that will mold them into the next generation of scientists and engineers.</p> <p><strong>Intellectual merit</strong>:</p> <p>It lies in the scientific training provided by the faculty mentors in smart polymer composite materials and structures across three disciplines. Under the guidance of the mentors, REU participants have advanced their scientific knowledge and technical skills in these research areas.</p> <p><strong>Broader impacts</strong>:</p> <p>It has enhanced the scientific training and preparation for graduate study and future research careers for diverse REU participants through cutting-edge research experiences and professional development. Also, participants have been better prepared to work with individuals from diverse backgrounds and to promote inclusivity in science and engineering.</p> <p>&nbsp;</p> <p>During this grant period, we supported 26 undergraduate students, with 61.5% female, and 38.5% underrepresented groups in STEM. Participants worked with graduate students, post-docs, and faculty mentors on independent research projects related to smart polymers and structures, including design, synthesis, modeling, and characterization of materials with self-healing, actuating, sensing, and 3D printing capabilities. Mentorship from LSU faculty led to an overall increased interest in pursuit of graduate STEM degrees and research careers. Notably, eight participants have started graduate school, including six pursuing doctoral degrees in Chemistry or Engineering, one pursuing a master&rsquo;s degree in engineering, and one pursuing a graduate degree in English. Two participants are currently working in the STEM workforce with one as a designer/architect and the other as a Transmission Planning Engineer. Several REU participants are still enrolled in undergraduate degree programs. Additionally, participants have co-authored six journal publications and three conference papers, and two participants won oral/poster presentation awards at LS-PAC-MODELS conference.</p> <p>During Summers 2021-2023, participants worked with faculty members from Chemistry, Mechanical Engineering, and Architecture. Research was the primary focus of the REU program, but students also attended research seminars, ethics training, group meetings, and professional development workshops. Faculty mentors led the research seminars and shared insight on their journeys to academia and the doctoral degree process. Participants were introduced to emerging, interdisciplinary research of other REU faculty mentors, allowing them to learn about different applications of smart polymer composite materials and structures. Participants also visited multiple research facilities: the Center for Advanced Microstructures and Devices (CAMD) at Baton Rouge, Louisiana, the Laser Interferometer Gravitational-Wave Observatory (LIGO) at Livingston, Louisiana, and the NASA Michoud Assembly Facility at New Orleans, Louisiana. Other summer activities included an annual mentor vs. student softball game, cultural exchange night, and Astronomy Night. Participants concluded the summer at the annual LSU Summer Undergraduate Research Forum (SURF), a university-wide research symposium for participants in summer STEM research programs. In addition, in year 2 and year 3, all participants presented their posters in LS-PAC MODELS Diversity in STEM Conference in New Orleans in person.</p> <p>It is noted that, in 2021, the structure of the REU program was modified to a virtual research experience due to the COVID-19 pandemic. Faculty mentors shipped supplies and materials to the participants&rsquo; homes to complete any experimental work in a safe, remote environment. Participants also utilized modeling and simulation software for 3D printing parts. Despite not having on-campus activities, participants often engaged in virtual seminars, site visits, and professional development workshops. Research mentors met frequently with their students and provided guidance and support to ensure a successful research experience. Students presented their work at a virtual undergraduate research symposium attended by faculty, administration, and industry professionals. Participants delivered oral presentations at the 2021 LS-PAC MODELS Diversity in STEM Conference which had 150 student and professional attendees.</p> <p>This program has positively impacted the STEM workforce by training diverse groups of undergraduate students and exposing them to the benefits of graduate school and research careers. Students are encouraged to present their summer research when they return to their home institution and at professional meetings. At the end of the ten-week program, students have a comprehensive understanding of graduate level research and graduate school opportunities.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/01/2024<br> Modified by: Guoqiang&nbsp;Li</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The goals of the Smart Polymer Composite Materials and Structures REU (Smart Polymer REU) are to provide exceptional research experiences for diverse undergraduates at the interface of materials and structures and to prepare students for advanced study and research careers. The Smart Polymer REU has three main objectives: (1) attract and retain high-quality and diverse students in this new research paradigm of smart materials and structures; (2) motivate and increase the number of students who enroll in graduate programs; and (3) promote inclusivity through awareness and cultural interactions between students and faculty with various backgrounds. These goals and objectives were met by immersing participants in a ten-week intensive research-based program that incorporated thorough scientific training, collaboration, professional development, and science communication skill preparation. The concentrated program structure enhanced the knowledge and analytical and technical skills needed for advanced research careers or success in graduate school. Students were engaged in innovative projects relevant to infrastructure, energy, aerospace, defense, transportation, and marine research that will mold them into the next generation of scientists and engineers.   Intellectual merit:   It lies in the scientific training provided by the faculty mentors in smart polymer composite materials and structures across three disciplines. Under the guidance of the mentors, REU participants have advanced their scientific knowledge and technical skills in these research areas.   Broader impacts:   It has enhanced the scientific training and preparation for graduate study and future research careers for diverse REU participants through cutting-edge research experiences and professional development. Also, participants have been better prepared to work with individuals from diverse backgrounds and to promote inclusivity in science and engineering.      During this grant period, we supported 26 undergraduate students, with 61.5% female, and 38.5% underrepresented groups in STEM. Participants worked with graduate students, post-docs, and faculty mentors on independent research projects related to smart polymers and structures, including design, synthesis, modeling, and characterization of materials with self-healing, actuating, sensing, and 3D printing capabilities. Mentorship from LSU faculty led to an overall increased interest in pursuit of graduate STEM degrees and research careers. Notably, eight participants have started graduate school, including six pursuing doctoral degrees in Chemistry or Engineering, one pursuing a masters degree in engineering, and one pursuing a graduate degree in English. Two participants are currently working in the STEM workforce with one as a designer/architect and the other as a Transmission Planning Engineer. Several REU participants are still enrolled in undergraduate degree programs. Additionally, participants have co-authored six journal publications and three conference papers, and two participants won oral/poster presentation awards at LS-PAC-MODELS conference.   During Summers 2021-2023, participants worked with faculty members from Chemistry, Mechanical Engineering, and Architecture. Research was the primary focus of the REU program, but students also attended research seminars, ethics training, group meetings, and professional development workshops. Faculty mentors led the research seminars and shared insight on their journeys to academia and the doctoral degree process. Participants were introduced to emerging, interdisciplinary research of other REU faculty mentors, allowing them to learn about different applications of smart polymer composite materials and structures. Participants also visited multiple research facilities: the Center for Advanced Microstructures and Devices (CAMD) at Baton Rouge, Louisiana, the Laser Interferometer Gravitational-Wave Observatory (LIGO) at Livingston, Louisiana, and the NASA Michoud Assembly Facility at New Orleans, Louisiana. Other summer activities included an annual mentor vs. student softball game, cultural exchange night, and Astronomy Night. Participants concluded the summer at the annual LSU Summer Undergraduate Research Forum (SURF), a university-wide research symposium for participants in summer STEM research programs. In addition, in year 2 and year 3, all participants presented their posters in LS-PAC MODELS Diversity in STEM Conference in New Orleans in person.   It is noted that, in 2021, the structure of the REU program was modified to a virtual research experience due to the COVID-19 pandemic. Faculty mentors shipped supplies and materials to the participants homes to complete any experimental work in a safe, remote environment. Participants also utilized modeling and simulation software for 3D printing parts. Despite not having on-campus activities, participants often engaged in virtual seminars, site visits, and professional development workshops. Research mentors met frequently with their students and provided guidance and support to ensure a successful research experience. Students presented their work at a virtual undergraduate research symposium attended by faculty, administration, and industry professionals. Participants delivered oral presentations at the 2021 LS-PAC MODELS Diversity in STEM Conference which had 150 student and professional attendees.   This program has positively impacted the STEM workforce by training diverse groups of undergraduate students and exposing them to the benefits of graduate school and research careers. Students are encouraged to present their summer research when they return to their home institution and at professional meetings. At the end of the ten-week program, students have a comprehensive understanding of graduate level research and graduate school opportunities.                 Last Modified: 07/01/2024       Submitted by: GuoqiangLi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Constraining Upper-Ocean Carbon Export with Biogeochemical Profiling Floats]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/08/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>274374.00</AwardTotalIntnAmount>
+<AwardAmount>274374</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henrietta Edmonds</SignBlockName>
+<PO_EMAI>hedmonds@nsf.gov</PO_EMAI>
+<PO_PHON>7032927427</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>A goal in chemical oceanography is to advance our understanding of the global carbon cycle, specifically to quantify the transfer of carbon from the surface ocean to depth through the sinking of particles produced by marine organisms. Yet, modern global estimates of this process (commonly called carbon export) differ by over 100%. These estimates are often derived from regional relationships between ocean measurements and satellite observations that are then applied globally. Persistent differences between the satellite and field-based estimates of carbon export have been found throughout the ocean, suggesting that improvements are needed. This project will determine whether profiling floats equipped with chemical sensors can be used to estimate the export of carbon in the ocean. Floats will be deployed at Ocean Station Papa, but the approach is scalable in nature and could be used to validate and improve the satellite algorithms used for global carbon export determinations. The project will support a female, early career scientist and a postdoc, as well as facilitate international collaboration with Canadian scientists. Additionally, the results may assist the National Aeronautics and Space Administration (NASA) EXPORTS campaign as well as other satellite carbon export development efforts. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Modern global estimates of the biological pump differ by over 100% (~5 to &gt;12 Pg C yr-1) making it challenging to determine the role of marine biogeochemical (BGC) cycling in modern climate and climate variability. Global carbon export estimates are often derived from regional empirical relationships between field and satellite observations that are then applied globally. Persistent discrepancies between unique satellite algorithms and unique geochemical approaches suggest that accurately quantifying the biological pump remains a fundamental research goal. This project will assess the capability of using BGC profiling floats to estimate the export of distinct biogenic carbon pools (dissolved and particulate organic carbon, and particulate inorganic carbon). By using BGC floats to close multiple upper ocean tracer budgets this project will address two known issues common to other geochemical approaches: assumptions about (1) dissolved organic carbon cycling and (2) the integration depth used for annual carbon export assessments. The method will be tested at Ocean Station Papa, but is scalable in nature and could be used to develop a carbon export database suitable for the validation and training of satellite algorithms required for global carbon export determinations. Results from the floats will be compared to satellite carbon export algorithm estimates over the 5-year float lifetimes. Ten years of existing BGC data from profiling floats and a mooring in the region will also be used to provide further context about interannual variability.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032754</AwardID>
+<Investigator>
+<FirstName>Phoebe</FirstName>
+<LastName>Lam</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Phoebe J Lam</PI_FULL_NAME>
+<EmailAddress><![CDATA[pjlam@ucsc.edu]]></EmailAddress>
+<NSF_ID>000069703</NSF_ID>
+<StartDate>09/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Fassbender</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrea J Fassbender</PI_FULL_NAME>
+<EmailAddress><![CDATA[andrea.j.fassbender@noaa.gov]]></EmailAddress>
+<NSF_ID>000743779</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate>09/25/2020</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Fassbender</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrea J Fassbender</PI_FULL_NAME>
+<EmailAddress><![CDATA[andrea.j.fassbender@noaa.gov]]></EmailAddress>
+<NSF_ID>000743779</NSF_ID>
+<StartDate>09/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Santa Cruz]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress><![CDATA[1156 HIGH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VXUFPE4MCZH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA SANTA CRUZ</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Cruz]]></Name>
+<CityName>Santa Cruz</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950641077</ZipCode>
+<StreetAddress><![CDATA[1156 High Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>167000</Code>
+<Text>Chemical Oceanography</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7398</Code>
+<Text>OCEAN OBSERVATORY SCI &amp; TECH</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~274374</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>A fraction of the carbon produced by photosynthesizing marine organisms in the sunlit, upper ocean gets exported to the ocean interior where it can remain out of contact with the atmosphere for years to millennia. The many active and passive transport pathways that move this biogenic carbon to the deep ocean, commonly referred to collectively as the biological carbon pump (BCP), are critical for fueling interior ocean ecosystems. Different types of biogenic carbon are transported to the ocean interior with different efficiencies, and thus reach different depths that are associated with different timescales of isolation from the atmosphere. However, the methods often used to characterize the BCP do not differentiate biogenic carbon pools. Despite its importance, the BCP has proven difficult to quantify at a global scale on annual to even decadal timescales due to its complexity and heterogeneity in concert with our historically limited biogeochemical observing system. Changes to the functionality of the BCP could impact global climate through complex and poorly understood feedback mechanisms that alter how the BCP distributes carbon vertically within the ocean.</p> <p>In this project, we tested a new method to differentiate the biological production of dissolved organic carbon, particulate organic carbon, and particulate inorganic carbon using autonomous profiling floats that carry optical and chemical sensors. Such floats are being deployed globally, in large numbers as part of the international Biogeochemical (BGC) Argo effort, which is proving new opportunities to monitor ocean productivity in near-real time. For this project, two BGC floats were deployed in the eastern subarctic Pacific Ocean in collaboration with the NASA EXPORTS campaign. To validate our methodology, discrete particulate samples and discrete and underway dissolved inorganic nutrient and carbon samples were collected during six Canadian Line P cruises that occurred over multiple sequential years. Method feasibility was initially assessed using a combination of observations from the Ocean Station Papa mooring and existing profiling floats in the region (<a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GB006599">Haskell et al., 2020</a>) before being applied to a newly deployed profiling float, which carried the full suite of sensors (<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GB007178">Huang et al., 2022</a>). Excellent agreement between the float-based estimates of carbon pool export and the extensive set of ship-based validation samples indicated that the method could be deployed more widely.</p> <p>In addition to differentiating the export of each biogenic carbon pool, the chemical and optical sensors on the float made it possible to estimate particulate organic carbon export in near-real time over the growing season. This had not previously been achieved from autonomous platforms because (1) existing chemical approaches require a full year of observations to reliably quantify the integrated annual carbon export, and (2) optical sensors require rapid profiling to accurately capture intermittent export events (most floats profile infrequently on a 10-day cycle). With our new method to differentiate the particulate and dissolved organic carbon pools, it became possible to combine the chemical and optical approaches and estimate the particulate organic carbon export in near-real time.</p> <p>We next applied these methods to BGC floats distributed throughout the Southern Ocean and discovered that north-to-south differences in the ratio of biogenic carbon pool production exert significant control over how much carbon dioxide gas the Southern Ocean absorbs from the atmosphere during the productive season (<a href="https://www.pnas.org/doi/10.1073/pnas.2217909120">Huang, Fassbender, and Bushinsky 2023</a>). Using the same floats to estimate net primary production, a measure of the total amount of biogenic organic carbon available for export, we were able to quantify the efficiency at which organic particles escape the upper ocean and compare these estimates with ship-based observations, satellite approaches, and numerical models (<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL107511">Huang and Fassbender, 2024</a>). We found excellent agreement between float and ship-based approaches, indicating that elevated fractions of dissolved organic carbon production in the subtropical and ice-covered regions leads to low particle export efficiency, providing new insights on regional BCP functionality. Importantly, most global models struggle to reproduce the north-to-south pattern of particle export efficiency in the Southern Ocean. The body of work resulting from this grant comprehensively exemplifies the potential for a sustained, global BGC Argo array to transform autonomous, real-time quantification of the BCP.</p> <p>This project has helped to train a new generation of oceanographers by supporting one graduate student and two postdoctoral scholars, one of whom co-led development of the OneArgo-R software toolbox (<a href="https://zenodo.org/records/6604735">https://zenodo.org/records/6604735</a>) that has significantly reduced barriers to Argo float data access. Five peer-reviewed papers and one report chapter have been published because of this project. Observations from two BGC Argo floats (<a href="https://argo.ucsd.edu/data/data-from-gdacs/">https://argo.ucsd.edu/data/data-from-gdacs/</a>) and six research cruises (<span style="text-decoration: underline;"><a href="https://www.bco-dmo.org/project/838069">https://www.bco-dmo.org/project/838069</a></span>) have been archived in freely accessible repositories. As the biogeochemical observing system expands and these, and other, methods are developed and applied, we will learn more about BCP contributions to the global carbon cycle. This knowledge will allow humans to better navigate a future of ocean change and geoengineering.</p><br> <p>  Last Modified: 10/15/2024<br> Modified by: Andrea&nbsp;J&nbsp;Fassbender</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  A fraction of the carbon produced by photosynthesizing marine organisms in the sunlit, upper ocean gets exported to the ocean interior where it can remain out of contact with the atmosphere for years to millennia. The many active and passive transport pathways that move this biogenic carbon to the deep ocean, commonly referred to collectively as the biological carbon pump (BCP), are critical for fueling interior ocean ecosystems. Different types of biogenic carbon are transported to the ocean interior with different efficiencies, and thus reach different depths that are associated with different timescales of isolation from the atmosphere. However, the methods often used to characterize the BCP do not differentiate biogenic carbon pools. Despite its importance, the BCP has proven difficult to quantify at a global scale on annual to even decadal timescales due to its complexity and heterogeneity in concert with our historically limited biogeochemical observing system. Changes to the functionality of the BCP could impact global climate through complex and poorly understood feedback mechanisms that alter how the BCP distributes carbon vertically within the ocean.   In this project, we tested a new method to differentiate the biological production of dissolved organic carbon, particulate organic carbon, and particulate inorganic carbon using autonomous profiling floats that carry optical and chemical sensors. Such floats are being deployed globally, in large numbers as part of the international Biogeochemical (BGC) Argo effort, which is proving new opportunities to monitor ocean productivity in near-real time. For this project, two BGC floats were deployed in the eastern subarctic Pacific Ocean in collaboration with the NASA EXPORTS campaign. To validate our methodology, discrete particulate samples and discrete and underway dissolved inorganic nutrient and carbon samples were collected during six Canadian Line P cruises that occurred over multiple sequential years. Method feasibility was initially assessed using a combination of observations from the Ocean Station Papa mooring and existing profiling floats in the region (Haskell et al., 2020) before being applied to a newly deployed profiling float, which carried the full suite of sensors (Huang et al., 2022). Excellent agreement between the float-based estimates of carbon pool export and the extensive set of ship-based validation samples indicated that the method could be deployed more widely.   In addition to differentiating the export of each biogenic carbon pool, the chemical and optical sensors on the float made it possible to estimate particulate organic carbon export in near-real time over the growing season. This had not previously been achieved from autonomous platforms because (1) existing chemical approaches require a full year of observations to reliably quantify the integrated annual carbon export, and (2) optical sensors require rapid profiling to accurately capture intermittent export events (most floats profile infrequently on a 10-day cycle). With our new method to differentiate the particulate and dissolved organic carbon pools, it became possible to combine the chemical and optical approaches and estimate the particulate organic carbon export in near-real time.   We next applied these methods to BGC floats distributed throughout the Southern Ocean and discovered that north-to-south differences in the ratio of biogenic carbon pool production exert significant control over how much carbon dioxide gas the Southern Ocean absorbs from the atmosphere during the productive season (Huang, Fassbender, and Bushinsky 2023). Using the same floats to estimate net primary production, a measure of the total amount of biogenic organic carbon available for export, we were able to quantify the efficiency at which organic particles escape the upper ocean and compare these estimates with ship-based observations, satellite approaches, and numerical models (Huang and Fassbender, 2024). We found excellent agreement between float and ship-based approaches, indicating that elevated fractions of dissolved organic carbon production in the subtropical and ice-covered regions leads to low particle export efficiency, providing new insights on regional BCP functionality. Importantly, most global models struggle to reproduce the north-to-south pattern of particle export efficiency in the Southern Ocean. The body of work resulting from this grant comprehensively exemplifies the potential for a sustained, global BGC Argo array to transform autonomous, real-time quantification of the BCP.   This project has helped to train a new generation of oceanographers by supporting one graduate student and two postdoctoral scholars, one of whom co-led development of the OneArgo-R software toolbox (https://zenodo.org/records/6604735) that has significantly reduced barriers to Argo float data access. Five peer-reviewed papers and one report chapter have been published because of this project. Observations from two BGC Argo floats (https://argo.ucsd.edu/data/data-from-gdacs/) and six research cruises (https://www.bco-dmo.org/project/838069) have been archived in freely accessible repositories. As the biogeochemical observing system expands and these, and other, methods are developed and applied, we will learn more about BCP contributions to the global carbon cycle. This knowledge will allow humans to better navigate a future of ocean change and geoengineering.     Last Modified: 10/15/2024       Submitted by: AndreaJFassbender]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+<PO_EMAI>sgdewint@nsf.gov</PO_EMAI>
+<PO_PHON>7032922599</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist.  The title of the project for this fellowship to Yair Shenfeld is "Optimal Structures in Convex Geometry and High-Dimensional Probability."  The host institution for the fellowship is Massachusetts Institute of Technology, and the sponsoring scientist is David Jerison.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002022</AwardID>
+<Investigator>
+<FirstName>Yair</FirstName>
+<LastName>Shenfeld</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yair Shenfeld</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000812554</NSF_ID>
+<StartDate>03/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Shenfeld, Yair]]></Name>
+<CityName>Princeton</CityName>
+<ZipCode>08540</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><pre>The project conducted under this award had made contributions in two separate research areas: </pre> <pre>Connections between convex geometry and <span>combinatorics</span>, and the study of  high dimensional </pre> <pre>probability distributions. Let us describe the intellectual merit of both contributions. </pre> <pre><br /></pre> <pre><pre>Convex geometry and <span>combinatorics</span> initially seem like completely separate topics. </pre> <pre>The first concerns the study of continuous shapes like ellipsoids, while the second considers </pre> <pre>counting problems and discrete objects. But in the last 40 years new connections </pre> <pre>between these two fields are continuing to be found. </pre> <pre>In the  work ``The <span>extremals</span> of <span>Stanley's</span> inequalities for partially ordered sets (<span>Zhao</span> <span>Yu</span> Ma, <span>Yair</span> <span>Shenfeld</span>)" </pre> <pre>in the journal <em>Advances in Mathematics</em> that resulted from this project, </pre> <pre>this connection was further deepened. We showed that there is a dictionary between </pre> <pre>complex behaviors in convex geometry and <span>combinatorics</span>, and used this dictionary to solve </pre> <pre>open problems in the theory of partially ordered sets. </pre> <pre><br /></pre> <pre><span>We encounter high-dimensional and random data on a daily basis: </span></pre> <pre><span>The set of numbers describing the weather on a given day is huge </span></pre> <pre><span>(capturing the complexity of the weather), but also stochastic due to the chaotic </span></pre> <pre><span>behavior of the system. The project developed a number of theoretical tools to </span></pre> <pre><span>address random high-dimensional data. In a series of works:</span></pre> <pre><span> ``The Brownian transport map (Dan </span><span>Mikulincer</span><span>, </span><span>Yair</span><span> </span><span>Shenfeld</span><span>)" </span></pre> <pre><span>in the journal </span><span><em>Probability Theory and Related Fields</em>; </span></pre> <pre><span>``On the </span><span>Lipschitz</span><span> properties of transportation along heat flows (Dan </span><span>Mikulincer</span><span>, </span><span>Yair</span><span> </span><span>Shenfeld</span><span>)"</span></pre> <pre><span> in the journal </span><span><em>Geometric Aspects of Functional Analysis, Lecture Notes in Mathematics</em>; </span></pre> <pre><span>``Exact </span><span>renormalization</span><span> groups and transportation of measures (</span><span>Yair</span><span> </span><span>Shenfeld</span><span>)"</span></pre> <pre><span> in the journal </span><em>Annales Henri Poincare</em><span>, and </span></pre> <pre><span>``Transportation onto log-</span><span>Lipschitz</span><span> perturbations (Max </span><span>Fathi</span><span>, Dan </span><span>Mikulincer</span><span>, </span><span>Yair</span><span> </span><span>Shenfeld</span><span>)"</span></pre> <pre><span> in the journal </span><span><em>Calculus of Variations and Partial Differential Equations</em>, </span></pre> <pre><span>the PI developed methods to transfer information from random but well-behaved data </span></pre> <pre><span>(such as the one drawn from the normal distribution), to complex high-dimensional </span></pre> <pre><span>and random data. In the work </span></pre> <pre><span>``Intrinsic dimensional functional inequalities on model spaces (</span><span>Alexandros</span><span> </span><span>Eskenazis</span><span>, </span><span>Yair</span><span> </span><span>Shenfeld</span><span>)" </span></pre> <pre><span>in the journal </span><span><em>Journal of Functional Analysis</em>, the PI developed a method to </span></pre> <pre><span>understand how data behaves along different dimensions.</span></pre> <pre><span> A set of data points that a </span><span>priori</span><span> can seem to be of very high dimension, </span></pre> <pre><span>can be in fact of much lower effective dimension, with the other dimensions </span></pre> <pre><span>being pure noise. The method developed in the above work aimed to capture </span></pre> <pre><span>this phenomenon rigorously. Finally, in the work </span></pre> <pre><span>``Matrix displacement convexity along density flows  (</span><span>Yair</span><span> </span><span>Shenfeld</span><span>)" </span></pre> <pre><span>in the journal </span><span><em>Archive for Rational Mechanics and Analysis</em> , the PI developed </span></pre> <pre><span>a new approach towards the problem of detecting effective dimension by analyzing </span></pre> <pre>the evolution of the entropy of the data as it is transformed. </pre> <pre><pre><br /></pre> <pre>The project had broader impact beyond the above research outputs. </pre> <pre>The PI supervised research projects of 3 undergraduates and 1 graduate student</pre> <pre> as part of their mathematical training. The PI has also taught mathematics </pre> <pre>remotely  at a correctional facility in Massachusetts. </pre> <pre>This program was very novel in the way it used technology in </pre> <pre>correctional facilities' classrooms  to support the in-class teachers and the students. </pre> <pre>The PI has disseminated his work broadly, presenting his work  domestically and internationally,</pre> <pre> in-person and online. Thanks to these travels, partly funded by the award,</pre> <pre> the PI was able to form collaborations with researchers from all over the world, </pre> <pre>which continue to this day. </pre> <br /></pre> <br /></pre> <p>&nbsp;</p><br> <p>  Last Modified: 09/04/2024<br> Modified by: Yair&nbsp;Shenfeld</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The project conducted under this award had made contributions in two separate research areas:    Connections between convex geometry and combinatorics, and the study of  high dimensional    probability distributions. Let us describe the intellectual merit of both contributions.          Convex geometry and combinatorics initially seem like completely separate topics.    The first concerns the study of continuous shapes like ellipsoids, while the second considers    counting problems and discrete objects. But in the last 40 years new connections    between these two fields are continuing to be found.    In the  work ``The extremals of Stanley's inequalities for partially ordered sets (Zhao Yu Ma, Yair Shenfeld)"    in the journal Advances in Mathematics that resulted from this project,    this connection was further deepened. We showed that there is a dictionary between    complex behaviors in convex geometry and combinatorics, and used this dictionary to solve    open problems in the theory of partially ordered sets.        We encounter high-dimensional and random data on a daily basis:    The set of numbers describing the weather on a given day is huge    (capturing the complexity of the weather), but also stochastic due to the chaotic    behavior of the system. The project developed a number of theoretical tools to    address random high-dimensional data. In a series of works:    ``The Brownian transport map (Dan Mikulincer, Yair Shenfeld)"    in the journal Probability Theory and Related Fields;    ``On the Lipschitz properties of transportation along heat flows (Dan Mikulincer, Yair Shenfeld)"    in the journal Geometric Aspects of Functional Analysis, Lecture Notes in Mathematics;    ``Exact renormalization groups and transportation of measures (Yair Shenfeld)"    in the journal Annales Henri Poincare, and    ``Transportation onto log-Lipschitz perturbations (Max Fathi, Dan Mikulincer, Yair Shenfeld)"    in the journal Calculus of Variations and Partial Differential Equations,    the PI developed methods to transfer information from random but well-behaved data    (such as the one drawn from the normal distribution), to complex high-dimensional    and random data. In the work    ``Intrinsic dimensional functional inequalities on model spaces (Alexandros Eskenazis, Yair Shenfeld)"    in the journal Journal of Functional Analysis, the PI developed a method to    understand how data behaves along different dimensions.    A set of data points that a priori can seem to be of very high dimension,    can be in fact of much lower effective dimension, with the other dimensions    being pure noise. The method developed in the above work aimed to capture    this phenomenon rigorously. Finally, in the work    ``Matrix displacement convexity along density flows  (Yair Shenfeld)"    in the journal Archive for Rational Mechanics and Analysis , the PI developed    a new approach towards the problem of detecting effective dimension by analyzing    the evolution of the entropy of the data as it is transformed.          The project had broader impact beyond the above research outputs.    The PI supervised research projects of 3 undergraduates and 1 graduate student    as part of their mathematical training. The PI has also taught mathematics    remotely  at a correctional facility in Massachusetts.    This program was very novel in the way it used technology in    correctional facilities' classrooms  to support the in-class teachers and the students.    The PI has disseminated his work broadly, presenting his work  domestically and internationally,    in-person and online. Thanks to these travels, partly funded by the award,    the PI was able to form collaborations with researchers from all over the world,    which continue to this day.             Last Modified: 09/04/2024       Submitted by: YairShenfeld]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

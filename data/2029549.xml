@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Enhancing stress tolerance using a phase-dependent stress response]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>661275.00</AwardTotalIntnAmount>
+<AwardAmount>661275</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gerald Schoenknecht</SignBlockName>
+<PO_EMAI>gschoenk@nsf.gov</PO_EMAI>
+<PO_PHON>7032925076</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Climate change threatens global crop production. These threats vary in frequency, type and severity depending on geographic location. As a consequence, crops grown across latitudinal zones require diverse coping strategies. To ensure the future of crop production, this project will apply an imaginative model for crop improvement based on the plant’s circadian clock, an internal timekeeper that enables plants to coordinate growth with the environment in accordance with the daylength. This internal oscillator, much like the human circadian clock, controls when physiological and metabolic changes occur throughout the day. As a result, plants under stress turn on and off certain genes at specific times of day to modulate physiological responses. The energy cost associated with a stress response is high and while turning these genes on indefinitely can provide stress tolerance it often leads to a significant reduction in yield. This project will test whether cold stress tolerance can be achieved by modifying the timing of the response through fine-tuning when these genes are turned on and off and monitoring the physiological impact on growth. These tests will be performed in the model plant Arabidopsis and crop Brassica rapa, a diverse crop that includes Chinese cabbage, turnip, oilseed and leafy vegetable varieties that have a wide range of cold tolerance traits to be studied. The methods and tools used to create these modifications will be made available to the scientific community to allow for implementation in other crop systems against a variety of stresses to improve yield throughout the U.S.&lt;br/&gt;&lt;br/&gt;Current models for abiotic stress improvement often rely on over-expression of identified transcription factors (TFs) that confer improved stress response but come at a cost to overall growth and yield. As a central integrator of environmental signals, the circadian clock provides a unique target for optimizing responses to the environment while maintaining proper physiological processes. This project incorporates time dependent transcriptome and physiological cold stress datasets from diverse B. rapa and Arabidopsis genotypes into temporal gene regulatory networks (GRNs). These GRNs will be used to identify Temporal Stress Regulator (TSR) TFs that are associated with cold tolerant genotypes. TSRs showing altered temporal responses between tolerant and sensitive genotypes will be selected for phase-dependent TSR synthetic constructs. CRISPR/Cas9 techniques will be used to adjust the expression of the native TSR in the sensitive genotype to mimic the pattern observed in the tolerant genotype. These phase-altered TSRs that are integrated into the circadian and/or diel networks will be tested for improved stress tolerance using physiological measures of PSII efficiency, growth rate, flowering time and biomass. Transcriptome profiling of successfully altered genotypes will be performed with temporal resolution to identify the degree of GRN reorganization and improve future model predictions. In addition to providing data analysis tools and techniques for applying this method to other crops, a plant stress education module will be introduced to middle school students to introduce them to plant biology and help prepare them for STEM-based careers.&lt;br/&gt;&lt;br/&gt;This award was co-funded by the Plant Genome Research Program and the Physiological Mechanisms and Biomechanics Program in the Division of Integrative Organismal Systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029549</AwardID>
+<Investigator>
+<FirstName>Kathleen</FirstName>
+<LastName>Greenham</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kathleen M Greenham</PI_FULL_NAME>
+<EmailAddress><![CDATA[greenham@umn.edu]]></EmailAddress>
+<NSF_ID>000600835</NSF_ID>
+<StartDate>07/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>St. Paul</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>551081041</ZipCode>
+<StreetAddress><![CDATA[1479 Gortner Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>132900</Code>
+<Text>Plant Genome Research Project</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>765800</Code>
+<Text>Physiol Mechs &amp; Biomechanics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7577</Code>
+<Text>PLANT GENOME RESEARCH RESOURCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~661275</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-bf5c38ec-7fff-0987-3c24-d4d2370ae26e"> </span></p>  <p dir="ltr"><span>Climate change poses an ongoing threat to global crop production, with challenges varying in frequency, type and severity depending on geographic location. As a consequence, crops grown across latitudinal regions require diverse strategies to cope with stress. One critical mechanism plants use to adapt to their local environment is the circadian clock - an internal timekeeping system that regulates when key physiological and metabolic processes occur throughout the day, much like a human&rsquo;s daily rhythm. Under stress, the circadian clock turns specific genes on or off at certain times of day, enabling a precise response to environmental challenges. This project focused on understanding how the time of day influenced the plants response to cold stress, studying both the model plant Arabidopsis and its close crop relative <em>Brassica rapa</em> (pak choy, turnip, chinese cabbage, oilseed). We measured gene expression changes over a 24 h period during cold stress in both species, comparing plant lines with varying levels of tolerance to freezing temperatures. Our findings revealed that time-of-day responses to cold stress are highly specific. Different plant lines activate distinct pathways at different times of day, tailoring their physiological responses to their genetic makeup and environmental needs. Using computational approaches, we built gene networks from this data to identify the genes responsible for regulating these stress responses. Among these, we discovered several candidate genes uniquely associated with the lines that showed greater resistance to freezing temperatures.&nbsp;</span></p>  <p><span>Another major finding was the amount of variation we observed in </span><em>Brassica rapa</em><span>. Like many crops, </span><em>Brassica rapa</em><span> has an expanded genome, meaning it often has multiple copies of the same gene found in Arabidopsis. Interestingly, we observed that among these copies, typically only one responds to cold stress - and the specific responsive copy varies between the plant lines. This variability suggests that the regulatory control of gene expression differs significantly even within a single species. These findings have important implications for crop improvement. Understanding how plants regulate key genes under stress and how these responses vary across plant lines and times of day can help us design more resilient crops.</span></p>  <p>&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/30/2024<br> Modified by: Kathleen&nbsp;M&nbsp;Greenham</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[       Climate change poses an ongoing threat to global crop production, with challenges varying in frequency, type and severity depending on geographic location. As a consequence, crops grown across latitudinal regions require diverse strategies to cope with stress. One critical mechanism plants use to adapt to their local environment is the circadian clock - an internal timekeeping system that regulates when key physiological and metabolic processes occur throughout the day, much like a humans daily rhythm. Under stress, the circadian clock turns specific genes on or off at certain times of day, enabling a precise response to environmental challenges. This project focused on understanding how the time of day influenced the plants response to cold stress, studying both the model plant Arabidopsis and its close crop relative Brassica rapa (pak choy, turnip, chinese cabbage, oilseed). We measured gene expression changes over a 24 h period during cold stress in both species, comparing plant lines with varying levels of tolerance to freezing temperatures. Our findings revealed that time-of-day responses to cold stress are highly specific. Different plant lines activate distinct pathways at different times of day, tailoring their physiological responses to their genetic makeup and environmental needs. Using computational approaches, we built gene networks from this data to identify the genes responsible for regulating these stress responses. Among these, we discovered several candidate genes uniquely associated with the lines that showed greater resistance to freezing temperatures.    Another major finding was the amount of variation we observed in Brassica rapa. Like many crops, Brassica rapa has an expanded genome, meaning it often has multiple copies of the same gene found in Arabidopsis. Interestingly, we observed that among these copies, typically only one responds to cold stress - and the specific responsive copy varies between the plant lines. This variability suggests that the regulatory control of gene expression differs significantly even within a single species. These findings have important implications for crop improvement. Understanding how plants regulate key genes under stress and how these responses vary across plant lines and times of day can help us design more resilient crops.             Last Modified: 12/30/2024       Submitted by: KathleenMGreenham]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

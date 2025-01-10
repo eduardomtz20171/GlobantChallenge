@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Fluid Dynamics in Uniform Fermi Gases]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>600240.00</AwardTotalIntnAmount>
+<AwardAmount>600240</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John D. Gillaspy</SignBlockName>
+<PO_EMAI>jgillasp@nsf.gov</PO_EMAI>
+<PO_PHON>7032927173</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>General audience abstract&lt;br/&gt;&lt;br/&gt;This project will explore nearly perfect fluid flow in a “designer” quantum system, comprising a unique ultracold gas of atoms, contained in a box made entirely of laser light. The atoms used in these tabletop experiments feature experimentally adjustable attraction or repulsion, from very weak to very strong, enabling measurements that impact theories in intellectual disciplines well outside of atomic physics. The contained atoms model new materials, such as super-high temperature superconductors that operate far above room temperature, which will one day enable energy-saving power lines and magnetically levitated trains. Students and post-doctoral associates will design new optical systems, new computer control and mechanical systems, and study electrodynamics and quantum mechanics, broadly training them for challenges arising in science and technology.&lt;br/&gt;&lt;br/&gt;Technical audience abstract&lt;br/&gt;&lt;br/&gt;The experiments will study the fluid dynamics of a Fermi gas of Li-6 atoms near a collisional (Feshbach) resonance, which enables magnetic control of atom-atom interactions. The ultracold Fermi gas is contained, perturbed, and imaged in a designer optical potential, which is generated using two digital micro-mirror arrays. By imaging the atom density profile as a function of time, the new experiments will measure the hydrodynamic linear response and transport properties as a function of temperature, interaction strength, and spin-imbalance. Imaging the trapped cloud in a 1D linearly varying potential will determine the equation of state. Designer optical potentials also will be used for in-situ imaging of shock waves as a function of interaction strength, density profile and temperature profile.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006234</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Thomas</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John E Thomas</PI_FULL_NAME>
+<EmailAddress><![CDATA[jethoma7@ncsu.edu]]></EmailAddress>
+<NSF_ID>000119678</NSF_ID>
+<StartDate>06/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>Raleigh</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276958202</ZipCode>
+<StreetAddress><![CDATA[Dept of Physics Box 8202]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124100</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~193819</FUND_OBLG>
+<FUND_OBLG>2021~406421</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Optically-trapped, ultra-cold Fermi gases of spin 1/2-up and spin 1/2-down <sup>6</sup>Li atoms model exotic systems in nature, including high temperature superconductors, neutron matter, and even the quark-gluon plasma, a state of matter at 2 trillion degrees, that existed microseconds after the Big Bang. In <sup>6</sup>Li, a bias magnetic field tunes the gas to a collisional (Fano-Feshbach) resonance, where the dilute atomic cloud becomes a strongly interacting fluid, known as a unitary Fermi gas. For a unitary Fermi gas, the thermodynamic properties and hydrodynamic transport properties are universal functions of density and temperature, providing stringent parameter-free tests of state of the art predictions for strongly interacting many-body systems.</p> <p>Early measurements of the shear viscosity of expanding unitary Fermi gas clouds with non-uniform density have made way for new measurements in optical box potentials, where the density is nearly uniform. The primary accomplishment of this program is the first demonstration of general methods for measuring hydrodynamic transport properties from the time-dependent free-decay of a spatially periodic density perturbation in an optical box potential.</p> <p>The box comprises six sheets of repulsive (blue-detuned) light, projected from two digitally controlled micro-mirror devices (DMDs). &nbsp;A third DMD projects a repulsive spatially periodic optical potential, creating a spatially periodic density perturbation along one direction in static equilibrium. Abruptly extinguishing the optical perturbation causes an oscillatory decay of the density perturbation.</p> <p>The figure shows an initial sinusoidal density perturbation and subsequent evolution of the dominant Fourier component for a normal phase, unitary Fermi gas. The data is fit by a hydrodynamic model, which reveals an exponentially decaying, thermally diffusive mode (orange) and a decaying oscillating first sound mode (blue).&nbsp; Together, the decay rates of these two modes determine both the thermal conductivity and the shear viscosity in a single experiment.</p><br> <p>  Last Modified: 08/14/2024<br> Modified by: John&nbsp;E&nbsp;Thomas</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2006234/2006234_10680689_1723638131068_HydroRelaxation--rgov-214x142.png" original="/por/images/Reports/POR/2024/2006234/2006234_10680689_1723638131068_HydroRelaxation--rgov-800width.png" title="Hydrodynamic Relaxation of a Unitary Fermi Gas in an Optical Box"><img src="/por/images/Reports/POR/2024/2006234/2006234_10680689_1723638131068_HydroRelaxation--rgov-66x44.png" alt="Hydrodynamic Relaxation of a Unitary Fermi Gas in an Optical Box"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The figure shows the relaxation of an initial sinusoidal density perturbation, revealing an exponentially decaying, thermally diffusive mode (orange) and a decaying oscillating first sound mode (blue), which determine the universal transport properties.</div> <div class="imageCredit">John E. Thomas</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">John&nbsp;E&nbsp;Thomas <div class="imageTitle">Hydrodynamic Relaxation of a Unitary Fermi Gas in an Optical Box</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Optically-trapped, ultra-cold Fermi gases of spin 1/2-up and spin 1/2-down 6Li atoms model exotic systems in nature, including high temperature superconductors, neutron matter, and even the quark-gluon plasma, a state of matter at 2 trillion degrees, that existed microseconds after the Big Bang. In 6Li, a bias magnetic field tunes the gas to a collisional (Fano-Feshbach) resonance, where the dilute atomic cloud becomes a strongly interacting fluid, known as a unitary Fermi gas. For a unitary Fermi gas, the thermodynamic properties and hydrodynamic transport properties are universal functions of density and temperature, providing stringent parameter-free tests of state of the art predictions for strongly interacting many-body systems.   Early measurements of the shear viscosity of expanding unitary Fermi gas clouds with non-uniform density have made way for new measurements in optical box potentials, where the density is nearly uniform. The primary accomplishment of this program is the first demonstration of general methods for measuring hydrodynamic transport properties from the time-dependent free-decay of a spatially periodic density perturbation in an optical box potential.   The box comprises six sheets of repulsive (blue-detuned) light, projected from two digitally controlled micro-mirror devices (DMDs). A third DMD projects a repulsive spatially periodic optical potential, creating a spatially periodic density perturbation along one direction in static equilibrium. Abruptly extinguishing the optical perturbation causes an oscillatory decay of the density perturbation.   The figure shows an initial sinusoidal density perturbation and subsequent evolution of the dominant Fourier component for a normal phase, unitary Fermi gas. The data is fit by a hydrodynamic model, which reveals an exponentially decaying, thermally diffusive mode (orange) and a decaying oscillating first sound mode (blue). Together, the decay rates of these two modes determine both the thermal conductivity and the shear viscosity in a single experiment.     Last Modified: 08/14/2024       Submitted by: JohnEThomas]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SemiSynBio-II: A Hybrid Programmable Nano-Bioelectronic System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1500000.00</AwardTotalIntnAmount>
+<AwardAmount>1500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Usha Varshney</SignBlockName>
+<PO_EMAI>uvarshne@nsf.gov</PO_EMAI>
+<PO_PHON>7032925385</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Living cells are equipped with highly versatile built-in toolkits of DNA, RNA, and proteins for molecular communication, computing, storage, and sensing/actuation in response to environmental stimuli. Synthetic biology has been successful in developing engineered cells by harnessing the same biological toolkits with enhanced natural functions or new human-defined functions. These engineered cells can potentially serve as a biological frontend layer that naturally interfaces with the environment and acts as biosensors/actuators, molecular computing platforms, and molecular memory to provide revolutionary solutions for many global challenges such as environmental monitoring, and healthcare. In parallel, with decades of technological advances, semiconductor technologies, e.g., Complementary-Metal-Oxide-Semiconductor (CMOS) integrated circuits (ICs), are being widely employed as a semiconductor backend layer to achieve various integration, communication, and computation capabilities. This project investigates the development of a hybrid programmable nano-bioelectronic system as a first proof-of-concept demonstration that harnesses both the exquisite synthetic functionalities of engineered bacteria as the "biological frontend" and the full functionalities of the ultra-low-power CMOS integrated circuit chips as the "semiconductor backend." The target application of such a system includes in-field biological sensor for environment monitoring. The project has potentials for long-term broader impacts on basic science, education, and technology. It brings expertise from synthetic biology, hybrid bioelectronics, integrated circuits/packaging, information theory, and computing. The project directly addresses three research themes of the solicitation: Theme-1, biomolecular memory and computation; Theme 2, interface of biology and semiconductors; Theme-4, hybrid semiconductor-biological microelectronic systems. It seeks to foster collaborations between industry and academia and hence facilitates technology transfer. The team of investigators will train graduate and undergraduate students at Georgia Tech and MIT, including minority and under-represented students. The project will also emphasize K-12 outreach to promote education of local minority high school students. In particular, the research team will recruit high school teacher interns to enhance their curricula and organize lab tours for K-12 students. The research results will be disseminated through high-impact journals, premier conferences, websites, and social media, and will be integrated into multiple related courses at Georgia Tech and MIT.&lt;br/&gt;&lt;br/&gt;The project aims to advance the science in multiple fronts and develop an integrated hybrid programmable nano-bioelectronic system. In such a system, a variety of bacteria strains are engineered as sensing, storage, and computation biological frontends to (1) perform wide-spectrum chemical sensing, e.g., heavy metal detections for environmental monitoring, (2) provide in-bacteria DNA-based storage of analog/digital information, (3) execute molecular computation via stochastic computing and encode the signal for the DNA storage, and (4) support "variable gain" reprogramming of bacteria sensors by external optical and electrical stimuli. As the integrated semiconductor electronics backend, CMOS IC chips with on-chip pixelated massively paralleled arrays will be developed to provide two-way multi-modal interfaces with the bacteria frontends, i.e., for reading stored sensory information from the bacteria and writing control signals to reprogram the bacteria sensors. The bacteria strains and CMOS ICs will be integrated together in 3D-printed microfluidics structures and packages with separate chambers. The proposed components and systems will be demonstrated through in vitro experiments using the resources at Georgia Tech and MIT.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027195</AwardID>
+<Investigator>
+<FirstName>Faramarz</FirstName>
+<LastName>Fekri</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Faramarz Fekri</PI_FULL_NAME>
+<EmailAddress><![CDATA[fekri@ece.gatech.edu]]></EmailAddress>
+<NSF_ID>000261381</NSF_ID>
+<StartDate>07/08/2020</StartDate>
+<EndDate>07/27/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Faramarz</FirstName>
+<LastName>Fekri</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Faramarz Fekri</PI_FULL_NAME>
+<EmailAddress><![CDATA[fekri@ece.gatech.edu]]></EmailAddress>
+<NSF_ID>000261381</NSF_ID>
+<StartDate>07/27/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Hammer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian Hammer</PI_FULL_NAME>
+<EmailAddress><![CDATA[brian.hammer@biology.gatech.edu]]></EmailAddress>
+<NSF_ID>000517946</NSF_ID>
+<StartDate>07/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Lu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy Lu</PI_FULL_NAME>
+<EmailAddress><![CDATA[timlu@mit.edu]]></EmailAddress>
+<NSF_ID>000583315</NSF_ID>
+<StartDate>07/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hua</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hua Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[hua.wang@ece.gatech.edu]]></EmailAddress>
+<NSF_ID>000616358</NSF_ID>
+<StartDate>07/08/2020</StartDate>
+<EndDate>07/27/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName/>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>061Y00</Code>
+<Text>SemiSynBio - Semicon Synth Bio</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>171200</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>801100</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>108E</Code>
+<Text>Bioelectronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>144E</Code>
+<Text>Synthetic biology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~1500000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>We explored a hybrid programmable biological-nanoelectronic system as a proof-of-concept, integrating the advanced synthetic capabilities of engineered <strong>E. coli</strong> bacteria as the "biological frontend" with the low-power performance of CMOS integrated circuit chips as the "semiconductor backend." The primary application is for ultra-low-power, in-field sensors for environmental and health monitoring, with potential for broader applications such as in-body hormonal monitoring, smart drug delivery, and electroceuticals. Specifically, our activities included: (1)&nbsp;&nbsp; We fabricated micro-sized on-chip reference electrode with biocompatible coating for electrically characterizing the biological interfaces, (2)&nbsp;&nbsp; We demonstrated the long-term stability of the fabricated micro-sized on-chip reference electrodes, (3)&nbsp;&nbsp; We demonstrated that the designed CMOS sensor array with in-pixel dual electrochemical and impedance detection modalities can conduct rapid, multi-dimensional characterization of exoelectrogens, (4)&nbsp; &nbsp;We demonstrated engineered bacteria for in-bacteria information coding and DNA storage in both analog and digital formats, (5) We demonstrated CMOS multi-modal bacteria-electronics two-way interface for reading/detecting and writing/programming engineered bacteria states, (6) We demonstrated re-programming the sensing characteristics of <em>E. coli</em> by optical/electrical stimuli, (7)&nbsp; We have demonstrated that the DNA origami molecules can be controlled and aligned by dielectrophoresis (DEP), (8)&nbsp; We have designed CMOS chip to control and characterize nano-biological molecules using DEP, (9)&nbsp; We lay the foundation for biocomputing that is natural for biological systems, (10) We developed a foundation for preferential sensing of the environment.</p> <p>Our activities support the following conclusions:</p> <ul> <li>Engineered E. coli strains provide broad-spectrum chemical sensing, including the detection of heavy metals for environmental monitoring.</li> <li>E. coli strains are capable of DNA-based analog and digital data storage.</li> <li>Stochastic computing offers a novel approach to bio-computing through molecular computation.</li> <li>Bacterial sensors can be reprogrammed in real-time using external optical and electrical signals.</li> <li>Biosensor arrays, designed with RNA switches, can be optimized through back-end processing to monitor numerous biomarkers with a limited number of sensors, useful for health monitoring, such as in cancer or heart disease detection.</li> <li>CMOS chips can be manufactured as two-way, multi-modal interfaces for sensing and actuation, facilitating both the retrieval of sensory data from bacteria and the transmission of control signals to reprogram the sensors.</li> </ul> <p>This research significantly impacts the field of molecular computing by demonstrating the potential of integrating synthetic biological molecules with microelectronics. It opens possibilities for nano-sized displays, which are challenging to achieve with existing materials, and provides new methods for bioengineers and biologists to characterize microorganisms using optical, electrochemical, and impedance measurements. The high-sensitivity CMOS multimodal sensor developed in this project can detect biological molecules, including viruses, offering pathologists faster methods for biological detection.</p> <p>Additionally, the project bridges multiple disciplines&mdash;integrated circuit design, synthetic biology, micro/nano-electronics, and more&mdash;providing graduate students with valuable interdisciplinary research opportunities. It helped train two postdocs and supported the training of eight PhD students, including two females. The project also offered professional development through activities at Georgia Tech&rsquo;s Center for Microbial Dynamics and Infection, fostering networking and career guidance for early-career scientists.</p><br> <p>  Last Modified: 09/15/2024<br> Modified by: Faramarz&nbsp;Fekri</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  We explored a hybrid programmable biological-nanoelectronic system as a proof-of-concept, integrating the advanced synthetic capabilities of engineered E. coli bacteria as the "biological frontend" with the low-power performance of CMOS integrated circuit chips as the "semiconductor backend." The primary application is for ultra-low-power, in-field sensors for environmental and health monitoring, with potential for broader applications such as in-body hormonal monitoring, smart drug delivery, and electroceuticals. Specifically, our activities included: (1) We fabricated micro-sized on-chip reference electrode with biocompatible coating for electrically characterizing the biological interfaces, (2) We demonstrated the long-term stability of the fabricated micro-sized on-chip reference electrodes, (3) We demonstrated that the designed CMOS sensor array with in-pixel dual electrochemical and impedance detection modalities can conduct rapid, multi-dimensional characterization of exoelectrogens, (4) We demonstrated engineered bacteria for in-bacteria information coding and DNA storage in both analog and digital formats, (5) We demonstrated CMOS multi-modal bacteria-electronics two-way interface for reading/detecting and writing/programming engineered bacteria states, (6) We demonstrated re-programming the sensing characteristics of E. coli by optical/electrical stimuli, (7) We have demonstrated that the DNA origami molecules can be controlled and aligned by dielectrophoresis (DEP), (8) We have designed CMOS chip to control and characterize nano-biological molecules using DEP, (9) We lay the foundation for biocomputing that is natural for biological systems, (10) We developed a foundation for preferential sensing of the environment.   Our activities support the following conclusions:  Engineered E. coli strains provide broad-spectrum chemical sensing, including the detection of heavy metals for environmental monitoring. E. coli strains are capable of DNA-based analog and digital data storage. Stochastic computing offers a novel approach to bio-computing through molecular computation. Bacterial sensors can be reprogrammed in real-time using external optical and electrical signals. Biosensor arrays, designed with RNA switches, can be optimized through back-end processing to monitor numerous biomarkers with a limited number of sensors, useful for health monitoring, such as in cancer or heart disease detection. CMOS chips can be manufactured as two-way, multi-modal interfaces for sensing and actuation, facilitating both the retrieval of sensory data from bacteria and the transmission of control signals to reprogram the sensors.    This research significantly impacts the field of molecular computing by demonstrating the potential of integrating synthetic biological molecules with microelectronics. It opens possibilities for nano-sized displays, which are challenging to achieve with existing materials, and provides new methods for bioengineers and biologists to characterize microorganisms using optical, electrochemical, and impedance measurements. The high-sensitivity CMOS multimodal sensor developed in this project can detect biological molecules, including viruses, offering pathologists faster methods for biological detection.   Additionally, the project bridges multiple disciplinesintegrated circuit design, synthetic biology, micro/nano-electronics, and moreproviding graduate students with valuable interdisciplinary research opportunities. It helped train two postdocs and supported the training of eight PhD students, including two females. The project also offered professional development through activities at Georgia Techs Center for Microbial Dynamics and Infection, fostering networking and career guidance for early-career scientists.     Last Modified: 09/15/2024       Submitted by: FaramarzFekri]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

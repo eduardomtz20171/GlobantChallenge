@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Increasing the Reductive Stability of Self-Assembled Monolayers on Metallic Surfaces to Enable Reductive Electrocatalysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>480000.00</AwardTotalIntnAmount>
+<AwardAmount>480000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephen Boyes</SignBlockName>
+<PO_EMAI>sboyes@nsf.gov</PO_EMAI>
+<PO_PHON>7032924946</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Professors Charles McCrory and James Penner-Hahn of the University of Michigan-Ann Arbor are supported by the Macromolecular, Supramolecular, and Nanochemistry Program of the NSF Division of Chemistry to study the sequence of events (mechanisms) that cause single layer films of organic molecules on solid surfaces (self-assembled monolayers, or SAMs) to detach from the surface under electrochemical operating conditions.  The process, which is called reductive desorption, is poorly understood.  A better understanding of the process paves the way for the design of more robust SAM systems.  A combination of electroanalytical techniques, advanced X-ray and IR spectroscopies are used to provide insight into the mechanism of desorption.  Robust SAMs are critical for many practical applications, including their use to anchor catalysts for reactions relevant to energy and environmental chemistry, such as carbon dioxide reduction for solar fuels generation and nitrate reduction for wastewater remediation. This project also provides a platform to promote scientific literacy through formal training of student researchers in communicating to the general public, active engagement with the local community through interactive demonstrations of the concepts of catalysis and corrosion, and hosting Detroit high school students in summer research internships at the University of Michigan.&lt;br/&gt;&lt;br/&gt;The use of well-defined self-assembled monolayers (SAMs) to tether molecular catalysts to electrode surfaces facilitates the careful mechanistic, kinetic, and spectroelectrochemical studies needed for new catalyst development. However, the use of SAMs for tethering electrocatalysts to electrode surfaces for reactions of societal importance, such as carbon dioxide reduction and nitrate reduction, is limited by the reductive instability of thiol-based SAMs on gold and other metal surfaces.  The discovery of reductively-stable SAMs for the direct immobilization of molecular catalysts to metallic surfaces is an enabling technology in molecular electrocatalysis that may  facilitate careful and complete mechanistic and kinetic analysis of known and emerging electrocatalysts.  Currently, a lack of mechanistic understanding of the reductive desorption process limits the rational design of new, more-reductively stable systems.  This project uses a combination of electroanalytical techniques and advanced X-ray and infrared spectroscopies to probe the electronic and physical structures of self-assembled monolayers during the reductive desorption process, providing insights into the mechanism of reductive desorption.  The results of these mechanistic studies may facilitate the rational design of new, more reductively-stable SAMs that enable the immobilization and in situ spectroelectrochemical study of electrocatalysts for multi-electron transformations important to energy and environmental chemistry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004035</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Penner-Hahn</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James E Penner-Hahn</PI_FULL_NAME>
+<EmailAddress><![CDATA[jeph@umich.edu]]></EmailAddress>
+<NSF_ID>000231459</NSF_ID>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>McCrory</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles C McCrory</PI_FULL_NAME>
+<EmailAddress><![CDATA[cmccrory@umich.edu]]></EmailAddress>
+<NSF_ID>000753335</NSF_ID>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress><![CDATA[3003 S. State St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688500</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~480000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The goal of this NSF project was to develop new mechanistic insight into the reductive desorption of self-assembled monolayers (SAMs) on metal surfaces. Immobilization of catalysts via stable, well-defined SAMs allows for careful and unambiguous studies of electrocatalytic processes as a function of the rates of substrate and electron delivery, and allows <em>in situ</em> spectroscopic characterization of the reactive species and catalytic intermediates using reflective IR spectroscopy techniques. &nbsp;&nbsp;The intellectual merit of this work focused on developing a comprehensive understanding of parameters governing the reductive desorption of SAMs from Au surfaces. The broader impact of this work is that this understanding of reductive desorption of SAMs from Au can be used to develop new, more reductively stable linkages for tethering catalysts to metal surfaces that can survive potentials sufficiently negative to drive electrocatalytic reactions such as CO<sub>2</sub> reduction and NO<sub>3</sub><sup>&minus;</sup><sub> </sub>reduction, important reactions in waste remediation. This research also provided important workforce training for graduate, undergraduate, and high school student researchers.&nbsp;</p>  <p>We developed a more quantitative electrochemical method for determining the extent of reductive desorption from Au surfaces.&nbsp; To do this, we attached a redox probe molecule, ferrocene, to the SAM and measured the loss of the electrochemical signal from the ferrocene after the desorption event. However, a challenge is that as the monolayer desorbs from the surface, the background current increases due to changes to the electrochemical double layer.&nbsp; The result is that determining the ferrocene electrochemical signal using simple baseline corrections through linear interpolation is not possible after significant monolayer desorption. To overcome this challenge, we developed a machine-learning based method for baseline correction based on estimating electrochemical backgrounds using a LASSO regression of empirical backgrounds with appropriate peak fitting models.&nbsp; Coverages estimated using this machine-learning based baseline correction method were validated against secondary coverage measurements using inductively-coupled plasma-mass spectrometry measurements of etched SAM surfaces, and the two measurements had good agreement.&nbsp; With this new method for quantifying reductive desorption in hand, we explored the effects of electrolyte solvent and reductive desorption time on SAM desorption for ferrocene-capped SAMs on Au surfaces.&nbsp; We found that the solubility of the SAM plays a crucial role in the reductive desorption process, consistent with the findings of others in the field.</p>  <p>We also constructed an electrochemical cell that allows for <em>in situ</em> grazing angle X-ray absorbance spectroscopy (XAS) measurements under applied electrochemical potential.&nbsp; This cell has enabled us to spectroscopically observe the Au-electrolyte interface under applied potential.&nbsp; We were able to observe changes in surface speciation of bare Au surface under at negative potentials consistent with prediction if the Au conduction band were being filled.&nbsp; This cell design will be useful for future studies probing the Au-SAM interface, and specifically the Au band structure as the Au-sulfur bond is cleaved upon reductive desorption of the SAM.</p>  <p>Our contribution is providing quantitative, rather than just qualitative, comparisons of these effects on the reductive desorption of SAMs on Au surfaces. Specifically, our general machine-learning approach to empirical baseline correction is an important contribution to understanding how to empirically model non-ideal baselines in various electrochemical applications. With the techniques developed in this project, the community is well poised to quantitatively measure the reductive desorption of SAMs on metal surfaces beyond Au (such as Ag or Pd), and for SAMs with head groups beyond thiols.</p>  <p>In addition, this project provided multidisciplinary training for students in organic and inorganic synthesis, materials characterization, the use of nanofabrication facilities, advanced X-ray spectroscopy at synchrotron laboratories,&nbsp; the design and construction of experimental instrumentation, and the acquisition and interpretation of experimental data.&nbsp; This is crucial workforce development training for the graduate and undergraduate students involved in this project.&nbsp; Outreach activities include hosting a high school student for a paid summer internship to conduct research on this project as part of the D-Rise program.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/25/2024<br> Modified by: Charles&nbsp;C&nbsp;Mccrory</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The goal of this NSF project was to develop new mechanistic insight into the reductive desorption of self-assembled monolayers (SAMs) on metal surfaces. Immobilization of catalysts via stable, well-defined SAMs allows for careful and unambiguous studies of electrocatalytic processes as a function of the rates of substrate and electron delivery, and allows in situ spectroscopic characterization of the reactive species and catalytic intermediates using reflective IR spectroscopy techniques. The intellectual merit of this work focused on developing a comprehensive understanding of parameters governing the reductive desorption of SAMs from Au surfaces. The broader impact of this work is that this understanding of reductive desorption of SAMs from Au can be used to develop new, more reductively stable linkages for tethering catalysts to metal surfaces that can survive potentials sufficiently negative to drive electrocatalytic reactions such as CO2 reduction and NO3 reduction, important reactions in waste remediation. This research also provided important workforce training for graduate, undergraduate, and high school student researchers.    We developed a more quantitative electrochemical method for determining the extent of reductive desorption from Au surfaces. To do this, we attached a redox probe molecule, ferrocene, to the SAM and measured the loss of the electrochemical signal from the ferrocene after the desorption event. However, a challenge is that as the monolayer desorbs from the surface, the background current increases due to changes to the electrochemical double layer. The result is that determining the ferrocene electrochemical signal using simple baseline corrections through linear interpolation is not possible after significant monolayer desorption. To overcome this challenge, we developed a machine-learning based method for baseline correction based on estimating electrochemical backgrounds using a LASSO regression of empirical backgrounds with appropriate peak fitting models. Coverages estimated using this machine-learning based baseline correction method were validated against secondary coverage measurements using inductively-coupled plasma-mass spectrometry measurements of etched SAM surfaces, and the two measurements had good agreement. With this new method for quantifying reductive desorption in hand, we explored the effects of electrolyte solvent and reductive desorption time on SAM desorption for ferrocene-capped SAMs on Au surfaces. We found that the solubility of the SAM plays a crucial role in the reductive desorption process, consistent with the findings of others in the field.    We also constructed an electrochemical cell that allows for in situ grazing angle X-ray absorbance spectroscopy (XAS) measurements under applied electrochemical potential. This cell has enabled us to spectroscopically observe the Au-electrolyte interface under applied potential. We were able to observe changes in surface speciation of bare Au surface under at negative potentials consistent with prediction if the Au conduction band were being filled. This cell design will be useful for future studies probing the Au-SAM interface, and specifically the Au band structure as the Au-sulfur bond is cleaved upon reductive desorption of the SAM.    Our contribution is providing quantitative, rather than just qualitative, comparisons of these effects on the reductive desorption of SAMs on Au surfaces. Specifically, our general machine-learning approach to empirical baseline correction is an important contribution to understanding how to empirically model non-ideal baselines in various electrochemical applications. With the techniques developed in this project, the community is well poised to quantitatively measure the reductive desorption of SAMs on metal surfaces beyond Au (such as Ag or Pd), and for SAMs with head groups beyond thiols.    In addition, this project provided multidisciplinary training for students in organic and inorganic synthesis, materials characterization, the use of nanofabrication facilities, advanced X-ray spectroscopy at synchrotron laboratories, the design and construction of experimental instrumentation, and the acquisition and interpretation of experimental data. This is crucial workforce development training for the graduate and undergraduate students involved in this project. Outreach activities include hosting a high school student for a paid summer internship to conduct research on this project as part of the D-Rise program.         Last Modified: 11/25/2024       Submitted by: CharlesCMccrory]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

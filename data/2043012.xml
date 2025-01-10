@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[OPUS: Linking species traits, community change and environmental change across scales to forecast how animal declines impact ecosystem function]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>187687.00</AwardTotalIntnAmount>
+<AwardAmount>187687</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Dudgeon</SignBlockName>
+<PO_EMAI>sdudgeon@nsf.gov</PO_EMAI>
+<PO_PHON>7032922279</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Human alteration of the environment has led to rapid declines in animal populations, particularly in freshwater habitats. When animals are lost, the important roles they play in ecosystems are also lost. Understanding the consequences of these biodiversity declines for the natural services they provide requires long-term data. Freshwater mussels are a good example. Few people know that they were once abundant and are now rare. They feed by filtering algae and other material from the water. This “biofiltration” helps with nutrient cycling and provides ecosystem services such as improved water quality for humans. This project will synthesize 30 years of data on mussel distribution, abundance, and community composition across rivers in the Ouachita Highlands of Oklahoma and Arkansas. Information on species biological traits, such as temperature tolerance, body size, and filtration rates, will be used to estimate how mussels help the environment and benefit humans. This will be combined with climate change projections to predict how these functions may change in the future. Products from this project will include journal articles, a book on mussel ecology, and an educational web site and poster on the mussels of Oklahoma.&lt;br/&gt;&lt;br/&gt;Long-term data are needed to understand how Anthropocene declines in animal biodiversity and abundance affects the ecosystem functions they perform, which are a product of interactions among species’ functional traits, the environment, and community composition. This project will synthesize 30 years of data on mussel traits (thermal tolerance, adult body size, life history strategy), mussel community structure (species richness, abundance, and biomass from 8 rivers in one biogeographic region, the Ouachita Highlands), mussel community change, environmental gradients (temperature and flow), and ecosystem function (biofiltration and nutrient cycling and storage) to: (1) Estimate mussel contributions to ecosystem function across spatial scales (mussel bed, river, biogeographic region); (2) Determine how mussel losses and environmental change have altered these contributions, and how this is related to species functional traits; and (3) Use species traits and projections for future stream flows and temperatures derived from downscaled climate models to forecast how these contributions will change in the future. All data will be made publicly available in a web-based, permanent archive.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/08/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2043012</AwardID>
+<Investigator>
+<FirstName>Caryn</FirstName>
+<LastName>Vaughn</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Caryn C Vaughn</PI_FULL_NAME>
+<EmailAddress><![CDATA[cvaughn@ou.edu]]></EmailAddress>
+<NSF_ID>000361958</NSF_ID>
+<StartDate>03/08/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Oklahoma Norman Campus]]></Name>
+<CityName>NORMAN</CityName>
+<ZipCode>730193003</ZipCode>
+<PhoneNumber>4053254757</PhoneNumber>
+<StreetAddress><![CDATA[660 PARRINGTON OVAL RM 301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVTSTTLCEWS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OKLAHOMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oklahoma]]></Name>
+<CityName>Norman</CityName>
+<StateCode>OK</StateCode>
+<ZipCode>730199705</ZipCode>
+<StreetAddress><![CDATA[Oklahoma Biological Survey, 111]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>112800</Code>
+<Text>Population &amp; Community Ecology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>738100</Code>
+<Text>Ecosystem Science</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7565</Code>
+<Text>OPUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~187687</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Human alteration of the environment has led to rapid declines in animal populations, particularly in freshwater habitats. When animals are lost, the important roles they play in ecosystems are also lost. Understanding the consequences of these biodiversity declines for core ecosystem functions requires long-term data. Freshwater mussels are globally imperiled bivalve mollusks that feed by filtering algae and other material from the water. This biofiltration influences multiple ecological functions such as nutrient cycling and primary production and provides ecosystem services such as improved water quality for humans. This project synthesized 32 years of data on freshwater mussel distribution, abundance, biomass, and community composition across 8 rivers in a single biogeographic region, the Ouachita Highlands of Oklahoma and Arkansas. Information on species functional traits was combined with distribution and biomass data to estimate spatial and temporal patterns in biofiltration, nutrient cycling, and nutrient storage within and among rivers. &nbsp;</p> <p>&nbsp;</p> <p>Across this biogeographic region there was high variation in mussel biomass within and among rivers, which generally increased with increasing watershed area. Rates of mussel-generated ecosystem functions (biofiltration, nitrogen and phosphorus excretion, and nitrogen, phosphorus, and carbon storage) were linearly related to mussel biomass, thus spatial patterns of these functions generally mirrored biomass patterns. Biofiltration capacity, estimated as the number of times mussels could filter the overlying water, was linearly related to community biomass but constrained by discharge, with mussels only filtering a signfiicant proportion of the water column at low flows. Data from sites that were sampled over multiple time points showed that mussels are declining across this biogeographic region and the relative abundance of species is changing, with drought-tolerant species increasing in proportion to drought-sensitive species. These changes have led to decreases in mussel-provided biofiltration, nutrient cycling, and nutrient storage.</p> <p>&nbsp;</p> <p>Products from this project include synthesis articles in the scientific literature and a book on the ecology of freshwater mussels for academics and resources managers. The project also produced a website and poster for the public on the <a href="https://www.okmussels.com/">Freshwater Mussels of Oklahoma.</a> A graduate student and undergraduate were trained in data management, GIS, photography, and web site development.</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/26/2024<br> Modified by: Caryn&nbsp;C&nbsp;Vaughn</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2043012/2043012_10720927_1724687989331_Mussel_role_in_food_webs--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2043012/2043012_10720927_1724687989331_Mussel_role_in_food_webs--rgov-800width.jpg" title="Mussel role in food webs"><img src="/por/images/Reports/POR/2024/2043012/2043012_10720927_1724687989331_Mussel_role_in_food_webs--rgov-66x44.jpg" alt="Mussel role in food webs"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Diagram of food web compartments (text) and fluxes (arrows) influenced by mussels. Modified from Vaughn and Hoellein (2018).</div> <div class="imageCredit">Caryn C. Vaughn</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Caryn&nbsp;C&nbsp;Vaughn <div class="imageTitle">Mussel role in food webs</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2043012/2043012_10720927_1724687816485_Mussel_Role_in_Nitrogen_Cycling--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2043012/2043012_10720927_1724687816485_Mussel_Role_in_Nitrogen_Cycling--rgov-800width.jpg" title="Mussel role in nutrient dynamics"><img src="/por/images/Reports/POR/2024/2043012/2043012_10720927_1724687816485_Mussel_Role_in_Nitrogen_Cycling--rgov-66x44.jpg" alt="Mussel role in nutrient dynamics"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The role of freshwater mussels in nutrient dynamics. Pools are represented by text and fluxes by arrows. Inset box: Mussels allocate elements at constant ratios to their tissues regardless of variation of nutrients in their diet by altering the nutrient content of waste products.</div> <div class="imageCredit">Caryn C. Vaughn</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Caryn&nbsp;C&nbsp;Vaughn <div class="imageTitle">Mussel role in nutrient dynamics</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2043012/2043012_10720927_1724688983421_FilteringMussel--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2043012/2043012_10720927_1724688983421_FilteringMussel--rgov-800width.jpg" title="A filter feeding mussel"><img src="/por/images/Reports/POR/2024/2043012/2043012_10720927_1724688983421_FilteringMussel--rgov-66x44.jpg" alt="A filter feeding mussel"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A filtering Margaritifera margaritifera showing the open siphons and particles suspended in the water. Photograph by No� Ferreira-Rodr�guez.</div> <div class="imageCredit">No� Ferreira-Rodr�guez.</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Caryn&nbsp;C&nbsp;Vaughn <div class="imageTitle">A filter feeding mussel</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2043012/2043012_10720927_1724688674258_Mussel_Patchiness--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2043012/2043012_10720927_1724688674258_Mussel_Patchiness--rgov-800width.jpg" title="Patchy distribution of mussel beds"><img src="/por/images/Reports/POR/2024/2043012/2043012_10720927_1724688674258_Mussel_Patchiness--rgov-66x44.jpg" alt="Patchy distribution of mussel beds"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Illustration of the patchy distribution of mussels across scales in the Kiamichi River OK. Top left, locations of actual mussel beds along the 285 km long river. Middle, a ~7,200 m stream reach showing the locations and approximate areas of mussel beds. Bottom right, a cluster of mussels with in a 0</div> <div class="imageCredit">Caryn C. Vaughn</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Caryn&nbsp;C&nbsp;Vaughn <div class="imageTitle">Patchy distribution of mussel beds</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2043012/2043012_10720927_1724687253701_Gill_Ultrastructure--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2043012/2043012_10720927_1724687253701_Gill_Ultrastructure--rgov-800width.jpg" title="Freshwater Mussel Gill Ultrastructure"><img src="/por/images/Reports/POR/2024/2043012/2043012_10720927_1724687253701_Gill_Ultrastructure--rgov-66x44.jpg" alt="Freshwater Mussel Gill Ultrastructure"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Scanning electron micrographs of mussel gill ultrastructure. A, images of the cirral plates of Pustulosa kieneriana from the Sipsey river, Al. B, image of relaxed and extended cirri of Actinonaias ligamentina from the Kiamichi River, OK. From Galbraith et al. (2009).</div> <div class="imageCredit">Caryn C. Vaughn</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Caryn&nbsp;C&nbsp;Vaughn <div class="imageTitle">Freshwater Mussel Gill Ultrastructure</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Human alteration of the environment has led to rapid declines in animal populations, particularly in freshwater habitats. When animals are lost, the important roles they play in ecosystems are also lost. Understanding the consequences of these biodiversity declines for core ecosystem functions requires long-term data. Freshwater mussels are globally imperiled bivalve mollusks that feed by filtering algae and other material from the water. This biofiltration influences multiple ecological functions such as nutrient cycling and primary production and provides ecosystem services such as improved water quality for humans. This project synthesized 32 years of data on freshwater mussel distribution, abundance, biomass, and community composition across 8 rivers in a single biogeographic region, the Ouachita Highlands of Oklahoma and Arkansas. Information on species functional traits was combined with distribution and biomass data to estimate spatial and temporal patterns in biofiltration, nutrient cycling, and nutrient storage within and among rivers.       Across this biogeographic region there was high variation in mussel biomass within and among rivers, which generally increased with increasing watershed area. Rates of mussel-generated ecosystem functions (biofiltration, nitrogen and phosphorus excretion, and nitrogen, phosphorus, and carbon storage) were linearly related to mussel biomass, thus spatial patterns of these functions generally mirrored biomass patterns. Biofiltration capacity, estimated as the number of times mussels could filter the overlying water, was linearly related to community biomass but constrained by discharge, with mussels only filtering a signfiicant proportion of the water column at low flows. Data from sites that were sampled over multiple time points showed that mussels are declining across this biogeographic region and the relative abundance of species is changing, with drought-tolerant species increasing in proportion to drought-sensitive species. These changes have led to decreases in mussel-provided biofiltration, nutrient cycling, and nutrient storage.      Products from this project include synthesis articles in the scientific literature and a book on the ecology of freshwater mussels for academics and resources managers. The project also produced a website and poster for the public on the Freshwater Mussels of Oklahoma. A graduate student and undergraduate were trained in data management, GIS, photography, and web site development.        Last Modified: 08/26/2024       Submitted by: CarynCVaughn]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

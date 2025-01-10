@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[HAYSTAC Phase II: Quantum Detection Technology Enhanced Axion Dark Matter Search]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>991260.00</AwardTotalIntnAmount>
+<AwardAmount>991260</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Wester</SignBlockName>
+<PO_EMAI>wwester@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Astrophysical observations and cosmological data point convincingly to a large component of Cold Dark Matter in the Universe. Weakly interacting massive particles (WIMPs) and axions have been proposed as theoretically favored candidates for dark matter. Despite the strong evidence for the existence of dark matter, neither WIMPs nor axions have been conclusively detected. Dark matter axions may be detected through their conversion into a narrow band Radio Frequency (RF) signal in a microwave-cavity resonator permeated by a magnetic field. Under NSF funding, a Yale-UC Berkeley-University of Colorado Boulder collaboration came together in 2011 to design, build and operate an advanced technology experiment, HAYSTAC, to serve both as an innovation test-bed to develop new cavity designs and quantum-limited photon detection schemes, and as a pathfinder to take first data in the 10 to 50 micro-eV mass range, well above all previous such searches. This award will provide funding to continue this axion search. The collaboration-wide efforts of HAYSTAC are leading to many technical innovations. R&amp;D on superconducting thin-films and sub-quantum-limited photon detection will produce unanticipated spin-offs. The experimental techniques being developed, in particular magnetic shielding and data analysis, will be useful to other experiments that use similar quantum sensing techniques. The group will continue their successful recruiting and training of new talent inclusively. HAYSTAC has been very successful in attracting many bright young people to the field. The PIs are active in giving popular public lectures and participating in educational outreach. Wright Laboratory has begun negotiations with the Peabody Natural History Museum at Yale to prepare an exhibit highlighting the history and research of the Laboratory itself, featuring dark matter studies.&lt;br/&gt;&lt;br/&gt;HAYSTAC is the first dark matter search to successfully incorporate a squeezed-vacuum-state quantum limited receiver, and along with LIGO, is among the first fundamental physics experiments to use squeezed-state receivers for data production. The actual system noise temperature is twice the standard quantum limit (SQL), with the additional quantum of noise from transmission losses. During Phase I, HAYSTAC established an exclusion limit of 2.3 times the KSVZ coupling at 23.15 to 24.0 micro-eV.  HAYSTAC is nearing its goal of increasing the mass scan rate by at least a factor of 2 compared to Phase I, with sensitivity at the level of about twice the KSVZ axion coupling. Additional innovative improvements are planned, including a new symmetrized-tuner design cavity and an improved squeezed state receiver that eliminates losses from circulators and other elements in the present receiver design. A long run will then commence to cover the axion mass range predicted by Klaer and Moore, based on the first and only calculation of axion production incorporating in a self-consistent way both the vacuum realignment and string radiation mechanisms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011357</AwardID>
+<Investigator>
+<FirstName>Reina</FirstName>
+<LastName>Maruyama</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Reina H Maruyama</PI_FULL_NAME>
+<EmailAddress><![CDATA[reina.maruyama@yale.edu]]></EmailAddress>
+<NSF_ID>000114246</NSF_ID>
+<StartDate>06/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Lamoreaux</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven K Lamoreaux</PI_FULL_NAME>
+<EmailAddress><![CDATA[steve.lamoreaux@yale.edu]]></EmailAddress>
+<NSF_ID>000512198</NSF_ID>
+<StartDate>06/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065113572</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>New Haven</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065113712</ZipCode>
+<StreetAddress><![CDATA[217 Prospect Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>723500</Code>
+<Text>Particle Astrophysics/Undergro</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>728100</Code>
+<Text>QIS - Quantum Information Scie</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~304733</FUND_OBLG>
+<FUND_OBLG>2021~686527</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>HAYSTAC, an acronym for Haloscope at Yale Sensitive To Axion Cold dark matter, is a detector that was designed, built, and operated with the goal of detecting dark matter that is bound to our galaxy.&nbsp; The extent of the dark matter extends beyond the visible matter distribution, and is hence referred to as a halo, which is the basis of the term "haloscope."</p> <p>HAYSTAC comprises a strong superconducting magnet that allows axions to convert to photons, which in our case are radio waves in the few GHz range, which coincidentally correspond to WiFi and cell phone microwave frequencies.&nbsp;</p> <p>Axions are hypothetical particles that were introduced to enforce time-reversal symmetry in the interactions within atomic nuclei.&nbsp; Insofar as they are at this time a purely theoretical construct, their properties can be determined by use of the standard model of particle interactions.&nbsp; Axions interact only very feebly with ordinary matter, mostly through gravitation, and the interaction with the applied magnetic field as used in the experiment is also very feeble, but it is suffient to develop a detectable signal in the HAYSTAC detector.&nbsp; Because axions are gravitationally bound to the galaxy, their velocity distribution is similar to the ordinary matter in the universe. This means that because axions are light, their kinetic energy is very small with a corresponding temperature within a millionth of a degree of absolute zero.&nbsp; This implies that axions were likely produced very soon after the inception of the universe, and because of the feeble interaction with matter, they cooled independently as the universe expanded.</p> <p>HAYSTAC collects the photons in a resonant microwave cavity and employs quantum technology to detect the extremely weak signal that is produced.&nbsp; As the mass of the axion and hence the photon energy and its frequency are known only to within two orders of magnitude, the HAYSTAC detector must be tuned slowly, and the conversion signal sought in a similar manner to finding a signal when tuning a broadcast band radio.&nbsp; Once a station is found, going back to it is simple and fast, however some effort is required to find the station. For the axion, the tuning range is enormous, and the signal is very small, so the search is slow.&nbsp; We have covered about 1 GHz around 5 GHz in a few years of running.&nbsp;&nbsp;</p> <p>Over the duraction of this project, we perfected the configuration and operation of an novel quantum squeezed state receiver that allows scanning the frequency a factor of two faster than previously. The system reliability was such that the experiment ran continuously for over a year during this period.&nbsp;&nbsp;</p> <p>The broader impacts include our development and application of new quantum enable detection technologies that can be applied where ultra-high sensitivities are required.&nbsp; We have developed novel magnetic shielding techniques that allow operation of these dectectors in the presence of a very strong magnetic field, typically around 8 Tesla, compared to magnetic imaging magnets which operate at less than 3 Tesla.&nbsp;<br />This project has served as a training ground for students, including Ph.D. students, postdoctoral researchers, and undergradutes.&nbsp; These students have gone on to faculty positions, technical jobs, graduate schools, and leading universities.&nbsp; Our collaboration is diverse, with roughly the same gender distribution and a broad range of ethnicities.</p> <p>The intellectual merits of the project include its overarching goal of detecting dark matter, which is known to exist through robust astronomical observations. The exact character of dark matter is one of the outstanding questions of modern physics.&nbsp; Our experiment has searched over a range of parameters that encompass the expected mass from careful theoretical calculations, and it is among the world's leading experiments of its type.&nbsp; We have demonstrated the utility of quantum-enhanced technologies and developed them for our specific needs, which can be applied generally.&nbsp; In particular, we have one of two experiments that have employed quantum squeezing to improve the sensitivity of an experiment; the other being the Advanced LIGO gravitational wave detector.</p><br> <p>  Last Modified: 08/01/2024<br> Modified by: Steven&nbsp;K&nbsp;Lamoreaux</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  HAYSTAC, an acronym for Haloscope at Yale Sensitive To Axion Cold dark matter, is a detector that was designed, built, and operated with the goal of detecting dark matter that is bound to our galaxy. The extent of the dark matter extends beyond the visible matter distribution, and is hence referred to as a halo, which is the basis of the term "haloscope."   HAYSTAC comprises a strong superconducting magnet that allows axions to convert to photons, which in our case are radio waves in the few GHz range, which coincidentally correspond to WiFi and cell phone microwave frequencies.   Axions are hypothetical particles that were introduced to enforce time-reversal symmetry in the interactions within atomic nuclei. Insofar as they are at this time a purely theoretical construct, their properties can be determined by use of the standard model of particle interactions. Axions interact only very feebly with ordinary matter, mostly through gravitation, and the interaction with the applied magnetic field as used in the experiment is also very feeble, but it is suffient to develop a detectable signal in the HAYSTAC detector. Because axions are gravitationally bound to the galaxy, their velocity distribution is similar to the ordinary matter in the universe. This means that because axions are light, their kinetic energy is very small with a corresponding temperature within a millionth of a degree of absolute zero. This implies that axions were likely produced very soon after the inception of the universe, and because of the feeble interaction with matter, they cooled independently as the universe expanded.   HAYSTAC collects the photons in a resonant microwave cavity and employs quantum technology to detect the extremely weak signal that is produced. As the mass of the axion and hence the photon energy and its frequency are known only to within two orders of magnitude, the HAYSTAC detector must be tuned slowly, and the conversion signal sought in a similar manner to finding a signal when tuning a broadcast band radio. Once a station is found, going back to it is simple and fast, however some effort is required to find the station. For the axion, the tuning range is enormous, and the signal is very small, so the search is slow. We have covered about 1 GHz around 5 GHz in a few years of running.   Over the duraction of this project, we perfected the configuration and operation of an novel quantum squeezed state receiver that allows scanning the frequency a factor of two faster than previously. The system reliability was such that the experiment ran continuously for over a year during this period.   The broader impacts include our development and application of new quantum enable detection technologies that can be applied where ultra-high sensitivities are required. We have developed novel magnetic shielding techniques that allow operation of these dectectors in the presence of a very strong magnetic field, typically around 8 Tesla, compared to magnetic imaging magnets which operate at less than 3 Tesla. This project has served as a training ground for students, including Ph.D. students, postdoctoral researchers, and undergradutes. These students have gone on to faculty positions, technical jobs, graduate schools, and leading universities. Our collaboration is diverse, with roughly the same gender distribution and a broad range of ethnicities.   The intellectual merits of the project include its overarching goal of detecting dark matter, which is known to exist through robust astronomical observations. The exact character of dark matter is one of the outstanding questions of modern physics. Our experiment has searched over a range of parameters that encompass the expected mass from careful theoretical calculations, and it is among the world's leading experiments of its type. We have demonstrated the utility of quantum-enhanced technologies and developed them for our specific needs, which can be applied generally. In particular, we have one of two experiments that have employed quantum squeezing to improve the sensitivity of an experiment; the other being the Advanced LIGO gravitational wave detector.     Last Modified: 08/01/2024       Submitted by: StevenKLamoreaux]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

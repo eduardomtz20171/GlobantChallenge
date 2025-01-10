@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CIF: Small: Community Detection in Multilayer Networks with Applications to Functional Connectivity Brain Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>506510.00</AwardTotalIntnAmount>
+<AwardAmount>517310</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+<PO_EMAI>pregalia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922981</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Networks provide a powerful and compact representation of the internal structure of complex systems consisting of agents that interact with each other. Examples include social networks, the World Wide Web and biological networks of molecules, cells or entire species. Traditional network science assumes that the network nodes are connected by a single edge that captures all interactions between them. However, this is an oversimplification as most real-world networks are built through different types of interactions among the nodes. Examples include social networks, where two individuals can be connected through different types of social ties originating from friendship, collaboration or family relationships; air transportation networks, where different airports can be connected through different airlines; and the brain, where different regions can be interacting across different frequency bands or time points. In recent years, multilayer networks, which incorporate multiple channels of connectivity, have been introduced to model these different modes of communication. A core task in network analysis is to identify and understand communities as they can reveal meaningful structure and provide a better understanding of the overall functioning of networks, such as uncovering functional pathways in metabolic networks, related pages in the World Wide Web or groups of friends in social networks and more. Community detection methods on simple graphs are not sufficient to deal with the complexity of multilayer networks for they cannot leverage the multiple modes of interaction between nodes. This project aims to develop a comprehensive multilayer community detection framework with the help of two complementary approaches, namely heuristic quality function optimization and statistical inference. The connections between these two approaches will be established for multilayer network models with varying degrees of complexity starting with temporal networks going to fully coupled multilayer networks.&lt;br/&gt;&lt;br/&gt;This project addresses the problem of community detection in multilayer networks through three research thrusts. First, novel normalized-cut based quality functions will be defined for temporal, multiplex and multilayer networks, and computationally efficient algorithms will be developed to optimize these new cost functions. The convergence and consistency of the resulting algorithms will be studied. Next, generalized stochastic block models for temporal, multiplex and multilayer networks will be developed. Connections between maximizing a posteriori probabilities derived from these models and optimizing the heuristic quality functions will be established. Finally, the new community detection methods will be applied to multilayer functional connectivity networks, e.g. temporal and multi-frequency networks, constructed from electroencephalogram (EEG) data to assess well-known task-related networks. This new computational framework for multilayer network community detection can be applied to different types of networks including social, biological and ecological networks; we expect an impact on the fields of brain connectomics and cognitive neuroscience through collaborations with neuroscientists at Michigan State University. As part of the project, a diverse group of interdisciplinary researchers will be trained, and K-12 outreach activities that seek to engage female students will be organized.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006800</AwardID>
+<Investigator>
+<FirstName>Tapabrata</FirstName>
+<LastName>Maiti</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tapabrata Maiti</PI_FULL_NAME>
+<EmailAddress><![CDATA[maiti@stt.msu.edu]]></EmailAddress>
+<NSF_ID>000484323</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate>09/13/2023</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Selin</FirstName>
+<LastName>Aviyente</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Selin Aviyente</PI_FULL_NAME>
+<EmailAddress><![CDATA[aviyente@egr.msu.edu]]></EmailAddress>
+<NSF_ID>000326317</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>East Lansing</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488241226</ZipCode>
+<StreetAddress><![CDATA[428 S. Shaw Lane]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>287800</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>779700</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>2878</Code>
+<Text>SPECIAL PROJECTS - CCF</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~506510</FUND_OBLG>
+<FUND_OBLG>2022~10800</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Networks provide a powerful and compact representation of the internal structure of complex systems consisting of agents that interact with each other. Examples include social networks, the World Wide Web and biological networks of molecules, cells or entire species. Traditional network science assumes that the network nodes are connected by a single edge that captures all interactions between them. However, this is an oversimplification as most real-world networks are built through different types of interactions among the nodes. Examples include social networks, where two individuals can be connected through different types of social ties originating from friendship, collaboration or family relationships; air transportation networks, where different airports can be connected through different airlines; and the brain, where different regions can be interacting across different frequency bands or time points. In recent years, multilayer networks, which incorporate multiple channels of connectivity, have been introduced to model these different modes of communication. A core task in network analysis is to identify and understand communities as they can reveal meaningful structure and provide a better understanding of the overall functioning of networks, such as uncovering functional pathways in metabolic networks, related pages in the World Wide Web or groups of friends in social networks and more. Community detection methods on simple graphs are not sufficient to deal with the complexity of multilayer networks for they cannot leverage the multiple modes of interaction between nodes. This project developed a comprehensive multilayer community detection framework with the help of two complementary approaches, namely heuristic quality function optimization and statistical inference. The connections between these two approaches were established for multilayer network models with varying degrees of complexity starting with temporal networks going to fully coupled multilayer networks.</p> <p><strong>Intellectual Merit: </strong>This project introduced methods for community detection in heterogeneous complex networks such as temporal, multiplex and multilayer networks. The proposed methods are built on research methods in signal processing and statistics. The developed methods address the heterogeneity of community structure across layers, i.e., able to identify communities that are common across layers as well as those that are unique to each other. First, novel community quality functions were defined for temporal, multiplex and multilayer networks, and computationally efficient algorithms were developed to optimize these new cost functions. The resulting algorithms contributed to the theory of matrix and tensor factorization. Second, generalized stochastic block models for temporal, multiplex and multilayer networks were developed. Connections between maximizing a posteriori probabilities derived from these models and optimizing the heuristic quality functions were established. This project also provided recovery guarantees and established the consistency of the resulting algorithms.</p> <p><strong>Broader Impacts:</strong> The developed multiplex and multilayer community detection methods were applied to social and biological networks. In the area of social networks, communities that are common and unique to different types of relationships between the same group of people are successfully identified. Our method detects a community structure that takes all of the attributes into account instead of partitioning with respect to just one attribute. In the area of biological networks, we focused on the application to multilayer functional connectivity networks, e.g. temporal and multi-frequency networks, constructed from electroencephalogram (EEG) data to assess well-known task-related networks. The proposed framework identified communities across multiple frequency bands that illustrate the coupling across frequency bands as well as across multiple subjects to qualify the individual variability across subjects. As part of this project, we formed collaborations with neuroscientists and psychologists at Michigan State University. As part of the project, a diverse group of interdisciplinary researchers in engineering and statistics were trained including three female students. Undergraduate students were also involved in this project through additional REU funding from NSF and Michigan State University. The research outcomes were also integrated into a graduate level course in the Department of Electrical and Computer Engineering at Michigan State University. The outcomes of this project were disseminated to the research community through journal and conference publications as well as talks and webinars at international conferences and other institutions. The algorithms developed as part of this project have been shared with the research community through GitHub repositories.</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/11/2024<br> Modified by: Selin&nbsp;Aviyente</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2006800/2006800_10680037_1723408553166_Framework_MXONMTF--rgov-214x142.png" original="/por/images/Reports/POR/2024/2006800/2006800_10680037_1723408553166_Framework_MXONMTF--rgov-800width.png" title="MXONMTF"><img src="/por/images/Reports/POR/2024/2006800/2006800_10680037_1723408553166_Framework_MXONMTF--rgov-66x44.png" alt="MXONMTF"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Overview of multiplex community detection method: Multiplex Orthogonal Nonnegative Trifactorization</div> <div class="imageCredit">Meiby Ortiz-Bouza</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Selin&nbsp;Aviyente <div class="imageTitle">MXONMTF</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2006800/2006800_10680037_1723411660323_mlcomm--rgov-214x142.png" original="/por/images/Reports/POR/2024/2006800/2006800_10680037_1723411660323_mlcomm--rgov-800width.png" title="mlcomm"><img src="/por/images/Reports/POR/2024/2006800/2006800_10680037_1723411660323_mlcomm--rgov-66x44.png" alt="mlcomm"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Multilayer group community structures for error (a)) and correct (b)) responses. Each electrode is shown with a circle with 4 quadrants, corresponding to the 4 frequency bands. Correspondence of the quadrants to the frequency bands are shown  at the upper right corners.</div> <div class="imageCredit">Abdullah Karaaslanli</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Selin&nbsp;Aviyente <div class="imageTitle">mlcomm</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2006800/2006800_10680037_1723409043640_flowchart_EEG--rgov-214x142.png" original="/por/images/Reports/POR/2024/2006800/2006800_10680037_1723409043640_flowchart_EEG--rgov-800width.png" title="EEGmultilayer"><img src="/por/images/Reports/POR/2024/2006800/2006800_10680037_1723409043640_flowchart_EEG--rgov-66x44.png" alt="EEGmultilayer"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Flowchart of the proposed approach for community detection of multi-frequency EEG networks. Bottom two panels illustrate multilayer network construction (left) and community detection for each subject (right).</div> <div class="imageCredit">Abdullah Karaaslanli</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Selin&nbsp;Aviyente <div class="imageTitle">EEGmultilayer</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2006800/2006800_10680037_1723409104178_Lazega--rgov-214x142.png" original="/por/images/Reports/POR/2024/2006800/2006800_10680037_1723409104178_Lazega--rgov-800width.png" title="Lazega"><img src="/por/images/Reports/POR/2024/2006800/2006800_10680037_1723409104178_Lazega--rgov-66x44.png" alt="Lazega"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Communities detected in Lazega Law Firm network across the three layers, advice, friendship, and co-work relationships. Red nodes are in the common community across the three layers.</div> <div class="imageCredit">Meiby Ortiz-Bouza</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Selin&nbsp;Aviyente <div class="imageTitle">Lazega</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Networks provide a powerful and compact representation of the internal structure of complex systems consisting of agents that interact with each other. Examples include social networks, the World Wide Web and biological networks of molecules, cells or entire species. Traditional network science assumes that the network nodes are connected by a single edge that captures all interactions between them. However, this is an oversimplification as most real-world networks are built through different types of interactions among the nodes. Examples include social networks, where two individuals can be connected through different types of social ties originating from friendship, collaboration or family relationships; air transportation networks, where different airports can be connected through different airlines; and the brain, where different regions can be interacting across different frequency bands or time points. In recent years, multilayer networks, which incorporate multiple channels of connectivity, have been introduced to model these different modes of communication. A core task in network analysis is to identify and understand communities as they can reveal meaningful structure and provide a better understanding of the overall functioning of networks, such as uncovering functional pathways in metabolic networks, related pages in the World Wide Web or groups of friends in social networks and more. Community detection methods on simple graphs are not sufficient to deal with the complexity of multilayer networks for they cannot leverage the multiple modes of interaction between nodes. This project developed a comprehensive multilayer community detection framework with the help of two complementary approaches, namely heuristic quality function optimization and statistical inference. The connections between these two approaches were established for multilayer network models with varying degrees of complexity starting with temporal networks going to fully coupled multilayer networks.   Intellectual Merit: This project introduced methods for community detection in heterogeneous complex networks such as temporal, multiplex and multilayer networks. The proposed methods are built on research methods in signal processing and statistics. The developed methods address the heterogeneity of community structure across layers, i.e., able to identify communities that are common across layers as well as those that are unique to each other. First, novel community quality functions were defined for temporal, multiplex and multilayer networks, and computationally efficient algorithms were developed to optimize these new cost functions. The resulting algorithms contributed to the theory of matrix and tensor factorization. Second, generalized stochastic block models for temporal, multiplex and multilayer networks were developed. Connections between maximizing a posteriori probabilities derived from these models and optimizing the heuristic quality functions were established. This project also provided recovery guarantees and established the consistency of the resulting algorithms.   Broader Impacts: The developed multiplex and multilayer community detection methods were applied to social and biological networks. In the area of social networks, communities that are common and unique to different types of relationships between the same group of people are successfully identified. Our method detects a community structure that takes all of the attributes into account instead of partitioning with respect to just one attribute. In the area of biological networks, we focused on the application to multilayer functional connectivity networks, e.g. temporal and multi-frequency networks, constructed from electroencephalogram (EEG) data to assess well-known task-related networks. The proposed framework identified communities across multiple frequency bands that illustrate the coupling across frequency bands as well as across multiple subjects to qualify the individual variability across subjects. As part of this project, we formed collaborations with neuroscientists and psychologists at Michigan State University. As part of the project, a diverse group of interdisciplinary researchers in engineering and statistics were trained including three female students. Undergraduate students were also involved in this project through additional REU funding from NSF and Michigan State University. The research outcomes were also integrated into a graduate level course in the Department of Electrical and Computer Engineering at Michigan State University. The outcomes of this project were disseminated to the research community through journal and conference publications as well as talks and webinars at international conferences and other institutions. The algorithms developed as part of this project have been shared with the research community through GitHub repositories.        Last Modified: 08/11/2024       Submitted by: SelinAviyente]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

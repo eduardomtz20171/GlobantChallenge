@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Survey Study of COVID-19 Responses in Southeast Alaska]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>185799.00</AwardTotalIntnAmount>
+<AwardAmount>430839</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Liam Frink</SignBlockName>
+<PO_EMAI>lfrink@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This time-sensitive RAPID project focuses on public risk responses to the COVID-19 crisis in rural Alaska. The project involves a two-part attitudinal and behavioral survey in Southeast Alaska rural communities, which were disproportionately affected by the 1918 flu pandemic. The initial survey will be conducted immediately to assess current attitudes and behaviors relative to COVID-19. A follow-up survey conducted six months later will document what, if any, changes in public attitudes and behaviors have occurred. This research leverages the current crisis to provide insight on the differences in COVID-19 risk perception and behavior between Alaska Natives and rural Alaskans and Americans in the Lower 48 states. The work will contribute to better understanding how geographic variation and isolation impact pandemic attitudes and behaviors and to state and national preparedness to future public health crises.&lt;br/&gt;&lt;br/&gt;The research leverages existing partnerships in communities to maximize participation and engagement. Two sets of surveys of rural residents of Southeast Alaska are supplemented with qualitative interviews that contextualize COVID-19 perceptions and behaviors. Broader impacts are ensured through community engagement activities involving existing local partners and include participation of researchers in the award-winning “Scientists in Schools” program, as well as public presentations and public radio appearances. Formal dissemination of results will occur through scholarly articles, reports, and professional presentations and through social media outlets.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/02/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.078</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2030653</AwardID>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>Busch</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lisa J Busch</PI_FULL_NAME>
+<EmailAddress><![CDATA[lbusch@sitkascience.org]]></EmailAddress>
+<NSF_ID>000610735</NSF_ID>
+<StartDate>05/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Brown</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ryan Brown</PI_FULL_NAME>
+<EmailAddress><![CDATA[rbrown@rand.org]]></EmailAddress>
+<NSF_ID>000729119</NSF_ID>
+<StartDate>05/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ron</FirstName>
+<LastName>Heintz</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ron A Heintz</PI_FULL_NAME>
+<EmailAddress><![CDATA[rheintz@sitkascience.org]]></EmailAddress>
+<NSF_ID>000802703</NSF_ID>
+<StartDate>05/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SITKA SOUND SCIENCE CENTER INC]]></Name>
+<CityName>SITKA</CityName>
+<ZipCode>998357650</ZipCode>
+<PhoneNumber>9077478878</PhoneNumber>
+<StreetAddress><![CDATA[834 LINCOLN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alaska</StateName>
+<StateCode>AK</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AK00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UWDZJLHU7AJ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SITKA SOUND SCIENCE CENTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Sitka Sound Science Center]]></Name>
+<CityName>Sitka</CityName>
+<StateCode>AK</StateCode>
+<ZipCode>998359729</ZipCode>
+<StreetAddress><![CDATA[834 Lincoln Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alaska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AK00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>522100</Code>
+<Text>ASSP-Arctic Social Science</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5221</Code>
+<Text>ARCTIC SOCIAL SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>02XX</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>0100XXXXDB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~185799</FUND_OBLG>
+<FUND_OBLG>2021~245040</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>We engaged in this project to see how the perceptions Alaska Natives changed as the COVID-19 pandemic evolved. The study was focused on the residents of Southeast Alaska; a region with a large population of Tlingit, Haida, and Tsimshian Natives. We offered an online survey in the spriing of 2020 before any cases of COVID-19 were recorded in the region. We followed up with a similar survey in the winter of 2021 when COVD was prevalent in the region and the&nbsp; country. In addition, we interviewed 22 tribal citizens in the spring of 2021 to gain a more detailed understanding of their perceptions.</p> <p>The demographic breakdown of the two surveys was similar and approximately 10% of the respondents were Alaska Natives. Initially, the perceived risk of getting infected, getting sick, and dying from COVID-19 increased with age. Alaska Natives also expressed greater risk of dying. However, there was little evidence that these perceptions influenced any change in personal protective behaviors. An interesting exception to this was the observation that the perceived risk of a loved one getting COVID-19 or risk of economic stress was related to an increase in subsistence hunting.&nbsp;</p> <p>Interviews with Alaska Natives stressed the importance of tribal values in coping with the impacts of the pandemic. Trust in federal government was significantly lower than that of state government for each time period, and this trust decreased as the pandemic proceded.&nbsp; In contrast, trust in local messaging&nbsp;was higher than both state and federal levels, and increased over time. All of the interviewees expressed increased reliance on cultural traditions during the pandemic and the ability to share food was important given restrictions on gathering in groups duirng the pandemic.&nbsp;</p> <p>The data collected in this project demonstrate the value of traditional cultural practices in helping rural Alaskans cope with the stresses imposed by the COVID-19 pandemic.&nbsp; Access to those traditions helped those communities avoid vulnerability and high mortality because they provided community members with coherent avenues to protect their most vulnerable citizens. This led to increased resilience in communities initally thought to be at great risk from the pandemic.&nbsp; &nbsp;&nbsp;</p><br> <p>  Last Modified: 06/24/2024<br> Modified by: Ron&nbsp;A&nbsp;Heintz</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  We engaged in this project to see how the perceptions Alaska Natives changed as the COVID-19 pandemic evolved. The study was focused on the residents of Southeast Alaska; a region with a large population of Tlingit, Haida, and Tsimshian Natives. We offered an online survey in the spriing of 2020 before any cases of COVID-19 were recorded in the region. We followed up with a similar survey in the winter of 2021 when COVD was prevalent in the region and the country. In addition, we interviewed 22 tribal citizens in the spring of 2021 to gain a more detailed understanding of their perceptions.   The demographic breakdown of the two surveys was similar and approximately 10% of the respondents were Alaska Natives. Initially, the perceived risk of getting infected, getting sick, and dying from COVID-19 increased with age. Alaska Natives also expressed greater risk of dying. However, there was little evidence that these perceptions influenced any change in personal protective behaviors. An interesting exception to this was the observation that the perceived risk of a loved one getting COVID-19 or risk of economic stress was related to an increase in subsistence hunting.   Interviews with Alaska Natives stressed the importance of tribal values in coping with the impacts of the pandemic. Trust in federal government was significantly lower than that of state government for each time period, and this trust decreased as the pandemic proceded. In contrast, trust in local messagingwas higher than both state and federal levels, and increased over time. All of the interviewees expressed increased reliance on cultural traditions during the pandemic and the ability to share food was important given restrictions on gathering in groups duirng the pandemic.   The data collected in this project demonstrate the value of traditional cultural practices in helping rural Alaskans cope with the stresses imposed by the COVID-19 pandemic. Access to those traditions helped those communities avoid vulnerability and high mortality because they provided community members with coherent avenues to protect their most vulnerable citizens. This led to increased resilience in communities initally thought to be at great risk from the pandemic.      Last Modified: 06/24/2024       Submitted by: RonAHeintz]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

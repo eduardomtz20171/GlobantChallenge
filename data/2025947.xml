@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  Smartphone-based blood pressure monitoring via the oscillometric finger pressing method]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>999561.00</AwardTotalIntnAmount>
+<AwardAmount>1199472</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to improve on-demand, low-cost blood pressure monitoring. High blood pressure (BP) is a major cardiovascular risk factor affecting up to 1 billion people worldwide. It is treatable, yet hypertension awareness and control is not common. Ubiquitous BP monitoring could improve hypertension management but existing devices require an inflatable cuff and are inconvenient for on-demand BP measurement. The market for a portable, cuff-less blood pressure monitor is estimated in the tens of billions of dollars. This project will develop a technology for portable, convenient BP monitoring. &lt;br/&gt;&lt;br/&gt;The proposed project will advance a novel technology for blood pressure monitoring. The proposed device uses the standard oscillometric finger-pressing method, but instead of using an inflated cuff, the user presses a finger against a sensor to determine the blood pressure. This program will advance the hardware, algorithm, and associated app.  The R&amp;D plan includes optimizing the sensing technology to accommodate a wide range of finger sizes; miniaturization of the hardware; optimization of the algorithm for a broad range of low, normotensive and hypertensive users; and development of the app user interface.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025947</AwardID>
+<Investigator>
+<FirstName>Marc</FirstName>
+<LastName>Zemel</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marc Zemel</PI_FULL_NAME>
+<EmailAddress><![CDATA[mzemel@mkmventuresllc.com]]></EmailAddress>
+<NSF_ID>000783735</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[DIGITOUCH HEALTH LLC]]></Name>
+<CityName>VALHALLA</CityName>
+<ZipCode>105951554</ZipCode>
+<PhoneNumber>9145941986</PhoneNumber>
+<StreetAddress><![CDATA[7 DANA RD]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 111]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MCKJYVYWRXA5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DIGITOUCH HEALTH LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[DIGITOUCH HEALTH LLC]]></Name>
+<CityName>Valhalla</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>105951554</ZipCode>
+<StreetAddress><![CDATA[7 Dana Road, Room 111]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>150500</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>537300</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>169E</Code>
+<Text>SBIR Tech Enhan Partner (TECP)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~999561</FUND_OBLG>
+<FUND_OBLG>2021~199911</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Project Outcomes</strong></p> <p><strong>&nbsp;</strong></p> <p>The overall goals of this SBIR project were to develop a cuffless, finger pressing blood pressure monitor and user-friendly smartphone-based application and prepare the device for final clinical and regulatory testing. The key objectives of this Phase II project were: (1) Optimize the finger/sensor interface: (2) Design the hardware, including the firmware, for real-time communication to the smartphone, electrical safety and manufacturability; (3) optimize the algorithm for blood pressure measurement and develop a companion smartphone app for blood pressure measurement. The proposed Research and Development plan included optimization of the sensing technology and finger interface to cover a wide range of finger sizes. The hardware design was also to be miniaturized and designed for low-cost, high-volume manufacturing. The algorithm for blood pressure measurement was to be optimized to work accurately over individuals having a broad range of low, normal and high blood pressures in preparation for formal clinical validation. The companion smartphone app user interface was also to be developed and tested.</p> <p>&nbsp;</p> <p>The outcome that this project attempted to achieve was to develop a cuffless blood pressure monitor with clinical accuracy that would be a much more convenient method to measure blood pressure for hundreds of millions of people worldwide. The first objective, to optimize the finger/sensor interface was fully met while the other two objectives were not fully met. Four clinical prototypes were constructed. Testing demonstrated that users could align their fingers repeatably and apply pressure to the optical and force sensors to create usable signals for analysis by the blood pressure measurement algorithm. The hardware interface was tested on several hundred subjects overall and 90% of these were able to generate usable signals for further analysis, despite having a wide range of finger sizes and blood pressures. Significant advancements were made in development of the algorithm, the smartphone app, and designing the hardware for high-volume manufacturing. Unfortunately, the algorithm performance was not accurate enough to meet the target FDA standards. Patients having especially large differences between their systolic and diastolic pressures and those having very high systolic pressures both presented significant challenges for the algorithm despite using advanced machine learning and many other techniques. Until further improvements in the algorithm could be achieved, further development of the hardware was not justified.</p> <p>&nbsp;</p> <p>Intellectual Merit</p> <p>&nbsp;</p> <p>This Small Business Innovation Research Phase II project had the goal to refine and validate a method to monitor blood pressure with clinical accuracy by pressing a button on a mobile device. The &ldquo;oscillometric finger pressing method&rdquo; is an emerging approach for cuff-less and calibration-free measurement of BP via a button-sized sensor mounted on a smartphone or other mobile device. The measurement principle is the same as most automatic cuff devices. The idea is for the user to serve as the actuator (instead of the cuff) by pressing her fingertip against the sensor to steadily increase the external pressure of the underlying artery. The hardware (a phone or other mobile device) is embedded with force and optical transducers and serves as the sensor (rather than the cuff) by measuring the applied pressure and resulting variable amplitude blood volume oscillations. The phone also provides visual feedback to guide the finger actuation and computes BP from the oscillometric measurements just like a cuff device. The R&amp;D plan included miniaturization and optimization of the sensing technology and algorithm to work in a broad range of normotensive and hypertensive individuals. A thin force and optical sensor-unit was constructed using microfabrication techniques. A data acquisition and wireless transmission system was implemented on a printed circuit board (PCB). The sensor-unit and PCB was designed to be powered with replaceable, thin coin cell batteries with an on/off button. All components were interfaced and housed within a single module that communicated via Bluetooth to the smartphone app, which provided the visual guidance for performing the measurement. Over 300 volunteers having a broad range of blood pressures, finger sizes, and skin types were tested to assess the accuracy of the measurement.</p> <p><strong>&nbsp;</strong></p> <p><strong>Broader/Commercial Impact</strong></p> <p><strong>&nbsp;</strong></p> <p>High blood pressure (BP) is a major cardiovascular risk factor that is treatable, yet hypertension awareness and control rates are low. Ubiquitous BP monitoring technology could improve hypertension management, but existing devices require an inflatable cuff and therefore do not afford anytime, anywhere measurement of BP. Successful completion of this project via demonstration of measurement accuracy across a broad range of blood pressures would generate significant interest from major consumer electronics manufacturers, potentially leading to highly profitable business relationships. Ultimately, the success of this project would translate to widespread BP monitoring and thereby help improve hypertension awareness and control rates around the world.</p> <p>&nbsp;</p><br> <p>  Last Modified: 06/07/2024<br> Modified by: Marc&nbsp;Zemel</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Outcomes      The overall goals of this SBIR project were to develop a cuffless, finger pressing blood pressure monitor and user-friendly smartphone-based application and prepare the device for final clinical and regulatory testing. The key objectives of this Phase II project were: (1) Optimize the finger/sensor interface: (2) Design the hardware, including the firmware, for real-time communication to the smartphone, electrical safety and manufacturability; (3) optimize the algorithm for blood pressure measurement and develop a companion smartphone app for blood pressure measurement. The proposed Research and Development plan included optimization of the sensing technology and finger interface to cover a wide range of finger sizes. The hardware design was also to be miniaturized and designed for low-cost, high-volume manufacturing. The algorithm for blood pressure measurement was to be optimized to work accurately over individuals having a broad range of low, normal and high blood pressures in preparation for formal clinical validation. The companion smartphone app user interface was also to be developed and tested.      The outcome that this project attempted to achieve was to develop a cuffless blood pressure monitor with clinical accuracy that would be a much more convenient method to measure blood pressure for hundreds of millions of people worldwide. The first objective, to optimize the finger/sensor interface was fully met while the other two objectives were not fully met. Four clinical prototypes were constructed. Testing demonstrated that users could align their fingers repeatably and apply pressure to the optical and force sensors to create usable signals for analysis by the blood pressure measurement algorithm. The hardware interface was tested on several hundred subjects overall and 90% of these were able to generate usable signals for further analysis, despite having a wide range of finger sizes and blood pressures. Significant advancements were made in development of the algorithm, the smartphone app, and designing the hardware for high-volume manufacturing. Unfortunately, the algorithm performance was not accurate enough to meet the target FDA standards. Patients having especially large differences between their systolic and diastolic pressures and those having very high systolic pressures both presented significant challenges for the algorithm despite using advanced machine learning and many other techniques. Until further improvements in the algorithm could be achieved, further development of the hardware was not justified.      Intellectual Merit      This Small Business Innovation Research Phase II project had the goal to refine and validate a method to monitor blood pressure with clinical accuracy by pressing a button on a mobile device. The oscillometric finger pressing method is an emerging approach for cuff-less and calibration-free measurement of BP via a button-sized sensor mounted on a smartphone or other mobile device. The measurement principle is the same as most automatic cuff devices. The idea is for the user to serve as the actuator (instead of the cuff) by pressing her fingertip against the sensor to steadily increase the external pressure of the underlying artery. The hardware (a phone or other mobile device) is embedded with force and optical transducers and serves as the sensor (rather than the cuff) by measuring the applied pressure and resulting variable amplitude blood volume oscillations. The phone also provides visual feedback to guide the finger actuation and computes BP from the oscillometric measurements just like a cuff device. The R&D plan included miniaturization and optimization of the sensing technology and algorithm to work in a broad range of normotensive and hypertensive individuals. A thin force and optical sensor-unit was constructed using microfabrication techniques. A data acquisition and wireless transmission system was implemented on a printed circuit board (PCB). The sensor-unit and PCB was designed to be powered with replaceable, thin coin cell batteries with an on/off button. All components were interfaced and housed within a single module that communicated via Bluetooth to the smartphone app, which provided the visual guidance for performing the measurement. Over 300 volunteers having a broad range of blood pressures, finger sizes, and skin types were tested to assess the accuracy of the measurement.      Broader/Commercial Impact      High blood pressure (BP) is a major cardiovascular risk factor that is treatable, yet hypertension awareness and control rates are low. Ubiquitous BP monitoring technology could improve hypertension management, but existing devices require an inflatable cuff and therefore do not afford anytime, anywhere measurement of BP. Successful completion of this project via demonstration of measurement accuracy across a broad range of blood pressures would generate significant interest from major consumer electronics manufacturers, potentially leading to highly profitable business relationships. Ultimately, the success of this project would translate to widespread BP monitoring and thereby help improve hypertension awareness and control rates around the world.        Last Modified: 06/07/2024       Submitted by: MarcZemel]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

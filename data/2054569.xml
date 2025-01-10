@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: BEE: Niche evolution and the assembly of replicate island lizard faunas]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>551736.00</AwardTotalIntnAmount>
+<AwardAmount>551736</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrea Porras-Alfaro</SignBlockName>
+<PO_EMAI>aporrasa@nsf.gov</PO_EMAI>
+<PO_PHON>7032922944</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Why do some species dominate communities while others are rare? What determines such ecological success is a fundamental question in biology. Differences in species’ specialization are often used to explain success. Species can either specialize on a few resources (e.g., one type of food), or employ a generalist strategy, and try to use many. However, a single species might specialize on one food type, but be a generalist in terms of the habitats that it’s found in. Because of this complexity it’s still unclear when a specialist strategy is beneficial. This project seeks to understand the conditions that favor specialists by examining lizard communities on islands in the West Indies. Sites in the West Indies communities contain one to eight species, with different species on each island. First the researchers will gauge how successful species are by quantifying lizard abundances. Second, they will measure lizard specialization with regards to their diets, the temperatures they tolerate, and the habitats they use. Third, the researchers will look to the evolutionary relationships between species, to assess how fast specialists evolve. Finally, they will measure how common food resources, temperatures, and habitats are. The research program will support undergraduate and graduate student training and promote science education in high schools. Further, it will explore new ways to communicate science by working with an artist to create art based on the research. &lt;br/&gt;&lt;br/&gt;The role of specialization in determining ecological and evolutionary success has been long debated. Do trade-offs render generalists ‘jacks-of-all-trade but masters-of-none’—relegated to footnotes in ecological communities? Or, are specialists restricted to rare or less desirable resources, such that generalists are numerically dominant? Likewise, it is unclear how specialists evolve. Is niche expansion and contraction labile over macroevolutionary time? Or does the stage of a fauna’s evolution matter, such that during adaptive radiations early speciation events are more likely to produce generalists, with specialists only forming in late-stage, species-saturated communities? To answer these questions this research examines the Anolis lizard adaptive radiation in the Greater Antilles. The researchers use mark-recapture to quantify the structure of local communities on Jamaica, Puerto Rico, and two geographically distinct faunas on Hispaniola. Each islands’ fauna is evolutionarily independent, but has nevertheless repeatedly evolved many species with qualitatively similar ecologies. The researchers will quantify ecological similarities by measuring the niche positions (e.g. most frequently used resource) and breadths (e.g. span of resources used) of each species along thermal, vegetation structural, and dietary axes. Doing so allows the researchers to test the hypothesis that niche breadth corresponds to dominance in ecological communities. By combining niche information with phylogenetic relationships, the researchers will then address how labile niche breadths are over macroevolutionary time. Lastly, the researchers will quantify available thermal, structural, and dietary niche space availability in each community and island to assess whether generalists are more successful in younger and less diverse communities with ample unused niche space. This project will provide novel insights into the ecological underpinnings of the evolution of specialization, testing long held hypotheses and offering insights into the generality of these hypotheses across evolutionarily replicated faunas.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/10/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2054569</AwardID>
+<Investigator>
+<FirstName>Martha</FirstName>
+<LastName>Munoz</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martha M Munoz</PI_FULL_NAME>
+<EmailAddress><![CDATA[martha.munoz@yale.edu]]></EmailAddress>
+<NSF_ID>000780092</NSF_ID>
+<StartDate>06/10/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065113572</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>New Haven</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065208106</ZipCode>
+<StreetAddress><![CDATA[165 Prospect Street, OML]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>112700</Code>
+<Text>Evolutionary Processes</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>112800</Code>
+<Text>Population &amp; Community Ecology</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~551736</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="m-auto text-base py-[18px] px-3 md:px-4 w-full md:px-5 lg:px-4 xl:px-5">  <div class="mx-auto flex flex-1 gap-4 text-base md:gap-5 lg:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem]">  <div class="group/conversation-turn relative flex w-full min-w-0 flex-col">  <div class="flex-col gap-1 md:gap-3">  <div class="flex max-w-full flex-col flex-grow">  <div class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5">  <div class="flex w-full flex-col gap-1 empty:hidden items-end rtl:items-start">  <div class="relative max-w-[var(--user-chat-width,70%)] rounded-3xl bg-token-message-surface px-5 py-2.5">  <div class="absolute bottom-0 right-full top-0 -mr-3.5 hidden pr-5 pt-1 [.group\/conversation-turn:hover_&amp;]:block">Adaptive radiation is a remarkable evolutionary phenomenon characterized by the rapid origination of numerous, ecologically diverse species. Anole lizards have long been considered a canonical example of adaptive radiation: in the Greater Antilles, different morphological specialists, termed 'ecomorphs' independently evolved to occupy different structural niches, like twigs or the tree canopy. Yet, adaptive radiations should involve more than just morphological evolution. Ecophysiology - or how organisms function in response to temperature and moisture - is potentially a key source of diversity in anoles, yet we knew little about how physiology and morphology connect within the broader puzzle of anole lizard diversity. Our project focused on discovering the ecophysiological diversity of Caribbean anoles, and understanding how ecophysiological evolution contributed to the exceptional diversity of the anole adaptive radiation. To this end, we gathered data on thermal behavior and physiology from more than 40 anole species from Jamaica, Puerto Rico, and the Dominican Republic, and we compared thermal patterns to morphological patterns. We made the following key discoveries:</div>  <div class="absolute bottom-0 right-full top-0 -mr-3.5 hidden pr-5 pt-1 [.group\/conversation-turn:hover_&amp;]:block"><strong>(1) Different traits evolve separately:</strong> Body size and shape evolve show different evolutionary patterns and rates than ecophysiological traits, like heat tolerance, cold tolerance, and the preferred temperature.<br /><strong>(2) Cold tolerance is a major source of diversity in anole lizards:</strong> Lizards adapted to colder temperatures at higher elevations. The evolution of this trait occurred an order of magnitude faster than the other traits, and showed a rapid "burst" of diversification, a signature canonically associated with adaptive radiation. This respositions ecophysiology - specifically cold tolerance - as a key source of diversity in the adaptive radiation, one that outpaces even ecomorphology.</div>  </div>  <div class="absolute bottom-0 right-full top-0 -mr-3.5 hidden pr-5 pt-1 [.group\/conversation-turn:hover_&amp;]:block"><strong>(3) Heat tolerance and the preferred temperature evolve slowly because of buffering behavior:</strong> Heat tolerance evolved more slowly than cold tolerance and the morphological traits, likely because lizards use thermoregulatory behavior to avoid extreme heat, which effectively 'shields' them from natural selection.</div>  <div class="absolute bottom-0 right-full top-0 -mr-3.5 hidden pr-5 pt-1 [.group\/conversation-turn:hover_&amp;]:block"><strong>(4) Adaptive radiation does not occur as convergently as previously thought:</strong>&nbsp;On Puerto Rico, the adaptive radiation of anoles occurred in distinct 'stages', with ecomorphs arising prior to ecophysiological specialists.<strong>&nbsp;</strong>Unlike on Puerto Rico, related lizards on Hispaniola don&rsquo;t partition thermal niches in the same habitats. Instead, they stay separate by living in different areas, namely in different forest types, or at different elevations. The ecomorphological aspect of the anole adaptive radiation is characterized by convergent (i.e., replicated) evolution across the Greater Antilles. The same pattern is not true for ecophysiology, which seems to respond to more contingencies, like island area, total elevation, and biogeographic breaks.</div>  <div class="absolute bottom-0 right-full top-0 -mr-3.5 hidden pr-5 pt-1 [.group\/conversation-turn:hover_&amp;]:block"><strong>(5) Thermal ecology predicts how anoles are responding to rising temperatures</strong>: Over the course of our work, we revisited sites where prior studies (10-15 years ago) had quantified thermal behavior and physiology for some of the species that we focused on for this present work. By comparing our data with those that were gathered over a decade ago, we made a startling discovery: species were responding to warmer habitats using thermoregulatory behavior, physiological adjustment, but not both. In particular, species that live in forest edges have abundant access to Sun and shade, which allows them to thermoregulate. Simply by choosing where and when to be active, edge habitat species have been able to maintain stable body temperatures over the past decade, even as the ambient temperatures have risen. This behavior effectively 'buffers' them from the selection that would be imposed by exposure to environmental extremes and so their physiology has not changed. Anole species that live in closed canopy forests (like cloud forests), by contrast, cannot thermoregulate easily. Their habitats are shaded and thermally stable. So, they do not have behavioral thermoregulation in their arsenal and are instead thermoconformers, meaning their body temperatures fluctuate with the environment. Over the past decade they have been exposed to rising temperatures and are now more heat tolerant than before. These findings point to a broader principle that can be used to predict responses to warming in ectotherms. Species that can use behavior may buffer themselves from rising temperatures, limiting physiological adaptation. Species that cannot use thermal behavior will instead experience the full brunt of selection, and should be expected to adjust their physiology.</div>  </div>  </div>  </div>  </div>  </div>  </div>  </div>  <p>&nbsp;</p><br> <p>  Last Modified: 12/30/2024<br> Modified by: Martha&nbsp;M&nbsp;Munoz</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[                Adaptive radiation is a remarkable evolutionary phenomenon characterized by the rapid origination of numerous, ecologically diverse species. Anole lizards have long been considered a canonical example of adaptive radiation: in the Greater Antilles, different morphological specialists, termed 'ecomorphs' independently evolved to occupy different structural niches, like twigs or the tree canopy. Yet, adaptive radiations should involve more than just morphological evolution. Ecophysiology - or how organisms function in response to temperature and moisture - is potentially a key source of diversity in anoles, yet we knew little about how physiology and morphology connect within the broader puzzle of anole lizard diversity. Our project focused on discovering the ecophysiological diversity of Caribbean anoles, and understanding how ecophysiological evolution contributed to the exceptional diversity of the anole adaptive radiation. To this end, we gathered data on thermal behavior and physiology from more than 40 anole species from Jamaica, Puerto Rico, and the Dominican Republic, and we compared thermal patterns to morphological patterns. We made the following key discoveries:  (1) Different traits evolve separately: Body size and shape evolve show different evolutionary patterns and rates than ecophysiological traits, like heat tolerance, cold tolerance, and the preferred temperature. (2) Cold tolerance is a major source of diversity in anole lizards: Lizards adapted to colder temperatures at higher elevations. The evolution of this trait occurred an order of magnitude faster than the other traits, and showed a rapid "burst" of diversification, a signature canonically associated with adaptive radiation. This respositions ecophysiology - specifically cold tolerance - as a key source of diversity in the adaptive radiation, one that outpaces even ecomorphology.    (3) Heat tolerance and the preferred temperature evolve slowly because of buffering behavior: Heat tolerance evolved more slowly than cold tolerance and the morphological traits, likely because lizards use thermoregulatory behavior to avoid extreme heat, which effectively 'shields' them from natural selection.  (4) Adaptive radiation does not occur as convergently as previously thought:On Puerto Rico, the adaptive radiation of anoles occurred in distinct 'stages', with ecomorphs arising prior to ecophysiological specialists.Unlike on Puerto Rico, related lizards on Hispaniola dont partition thermal niches in the same habitats. Instead, they stay separate by living in different areas, namely in different forest types, or at different elevations. The ecomorphological aspect of the anole adaptive radiation is characterized by convergent (i.e., replicated) evolution across the Greater Antilles. The same pattern is not true for ecophysiology, which seems to respond to more contingencies, like island area, total elevation, and biogeographic breaks.  (5) Thermal ecology predicts how anoles are responding to rising temperatures: Over the course of our work, we revisited sites where prior studies (10-15 years ago) had quantified thermal behavior and physiology for some of the species that we focused on for this present work. By comparing our data with those that were gathered over a decade ago, we made a startling discovery: species were responding to warmer habitats using thermoregulatory behavior, physiological adjustment, but not both. In particular, species that live in forest edges have abundant access to Sun and shade, which allows them to thermoregulate. Simply by choosing where and when to be active, edge habitat species have been able to maintain stable body temperatures over the past decade, even as the ambient temperatures have risen. This behavior effectively 'buffers' them from the selection that would be imposed by exposure to environmental extremes and so their physiology has not changed. Anole species that live in closed canopy forests (like cloud forests), by contrast, cannot thermoregulate easily. Their habitats are shaded and thermally stable. So, they do not have behavioral thermoregulation in their arsenal and are instead thermoconformers, meaning their body temperatures fluctuate with the environment. Over the past decade they have been exposed to rising temperatures and are now more heat tolerant than before. These findings point to a broader principle that can be used to predict responses to warming in ectotherms. Species that can use behavior may buffer themselves from rising temperatures, limiting physiological adaptation. Species that cannot use thermal behavior will instead experience the full brunt of selection, and should be expected to adjust their physiology.                       Last Modified: 12/30/2024       Submitted by: MarthaMMunoz]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

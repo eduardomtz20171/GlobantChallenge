@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SHF: Small: Decentralized Edge Computing Platform for Privacy-Preserving Mobile Crowdsensing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>190100.00</AwardTotalIntnAmount>
+<AwardAmount>190100</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Mobile crowdsensing leverages mobile devices (e.g., smartphones and wearables) to collect sensing data from users and measure spatiotemporal phenomena (e.g., air quality and traffic speed). Yet, existing crowdsensing solutions are mainly built on a cloud-centric approach that raises significant security and privacy challenges. For example, accurate and real-time situational awareness of flooding and wildfires is important for incident commanders and residents to fight these natural hazards, and mobile crowdsensing can provide large-scale monitoring of hazards by pictures and/or input provided by mobile users. Although most users are willing to help, they may hesitate to participate in such a crowdsensing task due to privacy concerns, as their private information including GPS locations may be leaked during the transmissions to a cloud server or from the storage on the server. This project investigates a hardware and software architecture for aggregation-free and privacy-aware mobile crowdsensing by integrating software and hardware design, edge computing, distributed spatiotemporal optimization, and machine-learning-based privacy protection. Without aggregating raw sensor data to a central server, this project passes latent representations of user data among edge servers until they recover the data of all areas by spatiotemporal interpolation. The educational components of this project include local-outreach programs (e.g., the University Minority Mentor Program at the University of Florida and the research week fair at the University of California, Merced) and summer internships to enhance research opportunities for underrepresented populations, including minority and female students. &lt;br/&gt;&lt;br/&gt;This project investigates a novel software and hardware architecture that integrates spatiotemporal prediction and distributed optimization into edge computing for aggregation-free and privacy-aware mobile crowdsensing. This project designs a machine-learning pipeline that predicts sensing measurements with partially-available crowdsensed data, at the same time providing privacy-awareness without aggregating sensor data to a central server. An edge computing platform is developed to efficiently manage the above machine-learning pipeline and automatically scale up the computing resources of multiple edge servers. Two important applications, natural hazard (flood) and public health (body temperature) monitoring, will be implemented to evaluate system effectiveness and demonstrate societal impact.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008837</AwardID>
+<Investigator>
+<FirstName>Wan</FirstName>
+<LastName>Du</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wan Du</PI_FULL_NAME>
+<EmailAddress><![CDATA[wdu3@ucmerced.edu]]></EmailAddress>
+<NSF_ID>000763884</NSF_ID>
+<StartDate>07/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California - Merced]]></Name>
+<CityName>MERCED</CityName>
+<ZipCode>953435001</ZipCode>
+<PhoneNumber>2092012039</PhoneNumber>
+<StreetAddress><![CDATA[5200 N LAKE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FFM7VPAG8P92</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, MERCED</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California - Merced]]></Name>
+<CityName>Merced</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>953435001</ZipCode>
+<StreetAddress><![CDATA[5200 North Lake Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~190100</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Seven papers and one doctoral dissertation at UC Merced have been published. These papers cover three aspects, including crowdsensing-based driving anomaly detection, mobile computing, and efficient data transmissions. We have developed an Edge computing solution to implement a machine learning pipeline for driving anomaly detection based on the crowdsensed trajectories data of users. Smartphone-based driving maneuver anomaly detection has been widely studied for road safety. However, current works are mainly focused on personalized models that are trained by individual user&rsquo;s data independently, ignoring the driving maneuver similarity of multiple drivers caused by road network or traffic conditions. This work processes the GPS data crowdsensed from multiple vehicles to detect driving maneuver anomaly using an auto-encoder machine learning pipeline. In addition, we collaborated with&nbsp;the PIs of this project, Prof. Christophe&nbsp;Bobda from&nbsp;University of Florida&nbsp;and Prof. Yanjie Fu from Arizona State University, on implementing the driving anomaly detection solution on a software and hardware co-design platform.</p> <p>&nbsp;</p> <p>The research results from this project improve our understand on machine learning algorithms for processing crowdsensed data, mobile computing and efficient data transmissions. First, crowdsensed data can be processed by a machine learning pipeline to detect anomaly driving behavior detection. Data provided by most of the participants can be used to learn normal driving behaviors and the learned knowledge can be used to detect anomaly behaviors. An anomaly detection algorithm has been developed. Second, new machine learning algorithms have been developed to process the Inertial Measurement Unit (IMU) sensor readings for human activity recognition. The results can be used for crowdsensing applications. Third, new rateless-coding based communication protocols have been designed and tested to provide efficient, reliable data transmissions between a pair of communication modules.</p> <p>&nbsp;</p> <p>Our research demonstrates that smartwatches and smartphones can be used as sensors to track users' arms and identify users' daily activities, and these detection results can be collected by crowdsensing from end users in a private-preserving way. The long-term human activity monitoring results can be used by doctors to provide personalized treatment and preventive intervention. This project has supported a female PhD student at UC Merced. She has worked on the design and development of our Edge computing solution for driving anomaly detection based on the trajectories data of users. This PhD student graduated in May 2023. Two undergraduate students and one Master student have worked on the topics of this project, although they were not financially supported by this project. In addition, our team has given a talk in one of the virtual sessions for the Summer 2020 as part of our Bobcat Summer STEM Academy at UC Merced. In that talk, we introduce our research to K-12 students &amp; teachers to enhance public understanding and increase interest in STEM from K-12 students &amp; teachers.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/13/2024<br> Modified by: Wan&nbsp;Du</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Seven papers and one doctoral dissertation at UC Merced have been published. These papers cover three aspects, including crowdsensing-based driving anomaly detection, mobile computing, and efficient data transmissions. We have developed an Edge computing solution to implement a machine learning pipeline for driving anomaly detection based on the crowdsensed trajectories data of users. Smartphone-based driving maneuver anomaly detection has been widely studied for road safety. However, current works are mainly focused on personalized models that are trained by individual users data independently, ignoring the driving maneuver similarity of multiple drivers caused by road network or traffic conditions. This work processes the GPS data crowdsensed from multiple vehicles to detect driving maneuver anomaly using an auto-encoder machine learning pipeline. In addition, we collaborated withthe PIs of this project, Prof. ChristopheBobda fromUniversity of Floridaand Prof. Yanjie Fu from Arizona State University, on implementing the driving anomaly detection solution on a software and hardware co-design platform.      The research results from this project improve our understand on machine learning algorithms for processing crowdsensed data, mobile computing and efficient data transmissions. First, crowdsensed data can be processed by a machine learning pipeline to detect anomaly driving behavior detection. Data provided by most of the participants can be used to learn normal driving behaviors and the learned knowledge can be used to detect anomaly behaviors. An anomaly detection algorithm has been developed. Second, new machine learning algorithms have been developed to process the Inertial Measurement Unit (IMU) sensor readings for human activity recognition. The results can be used for crowdsensing applications. Third, new rateless-coding based communication protocols have been designed and tested to provide efficient, reliable data transmissions between a pair of communication modules.      Our research demonstrates that smartwatches and smartphones can be used as sensors to track users' arms and identify users' daily activities, and these detection results can be collected by crowdsensing from end users in a private-preserving way. The long-term human activity monitoring results can be used by doctors to provide personalized treatment and preventive intervention. This project has supported a female PhD student at UC Merced. She has worked on the design and development of our Edge computing solution for driving anomaly detection based on the trajectories data of users. This PhD student graduated in May 2023. Two undergraduate students and one Master student have worked on the topics of this project, although they were not financially supported by this project. In addition, our team has given a talk in one of the virtual sessions for the Summer 2020 as part of our Bobcat Summer STEM Academy at UC Merced. In that talk, we introduce our research to K-12 students & teachers to enhance public understanding and increase interest in STEM from K-12 students & teachers.        Last Modified: 11/13/2024       Submitted by: WanDu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

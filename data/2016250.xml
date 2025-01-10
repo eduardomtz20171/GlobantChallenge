@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID/Collaborative Research: Estuarine dam removal as an ecosystem disturbance: Examining the impacts of seawater intrusion on functional stability of benthic N cycle communities]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>49871.00</AwardTotalIntnAmount>
+<AwardAmount>56788</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Kane</SignBlockName>
+<PO_EMAI>mkane@nsf.gov</PO_EMAI>
+<PO_PHON>7032927186</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Large dams (&gt; 15m high) are a major man-made disturbance to watersheds altering the structure and function of river ecosystems. The Nakdong River is one of the watersheds heavily affected by the dam constructed at the mouth of the river to stop tidal seawater exchange. When it was built in 1987, the dam caused dramatic shifts in lower river ecosystems converting the area to a man-made freshwater reservoir. The alteration of river water flows resulted in seasonal harmful algal blooms and water quality degradation. Increasing concerns about these negative impacts along with associated social and economic demands have led to restoring the river ecosystem by removing the dam. The dam removal will be done in a controlled way through a series of events that open the dam's gates, thereby allowing seawater intrusion into upstream ecosystems. This provides a unique and immediate opportunity to study the impacts of seawater intrusion on a freshwater ecosystem. The series of planned dam openings can be effectively used as a large-scale, unprecedented, manipulative ecosystem experiment. This RAPID project takes advantage of this unique opportunity to study the sediment microbial communities responding to the programmed seawater intrusion in the river. The project will include training opportunities for undergraduate and graduate students, and results will disseminated via public lectures and a scientific network for river researchers.&lt;br/&gt; &lt;br/&gt;This project aims to study the functional stability of sediment nitrogen (N) cycling communities responding to the disturbance of seawater intrusion in the Nakdong River, where dam removal is in progress via a series openings of dam gates. Multi-omic approaches including metagenomic, metatranscriptomic and metaproteomic analyses will be conducted to evaluate both sensitivity and resilience of individual N metabolisms in a community, while the measurements of N cycling processes (fluxes and rates), including denitrification and dissimilatory nitrate reduction to ammonium, reveal a whole community metabolism responding to the seawater intrusion. This is a unique and transformative project to determine the functional stability of different metabolisms within the community exposed to a programmed seawater intrusion in a freshwater ecosystem. The combined multi-omics and biogeochemical measurements will provide novel knowledge of sensitivity and resilience in different systematic levels from genes to individual organisms to the community level. Dissimilatory N cycling metabolisms in sediment communities are selected as a model of microbial functions since benthic N cycling is critical to attenuate excess N loading, a cause of eutrophication. Given the importance of benthic N cycle, the impacts of seawater intrusion on sediment N cycling communities and their functions have been mainly examined with ex-situ experimental designs such as microcosms and mesocosms or field survey along salinity gradients of rivers and estuaries. This first project represents the first ecosystem-scale manipulation examining sediment N cycling communities responding to seawater intrusion. Two graduate students will be involved in the project and will be trained in multi-omic and biogeochemcial methods. The project will also include training activities for undergraduates at the two institutions, dissemination of results in public outreach lectures and via the Worldwide Hydrobiogeochemical Observatory Network for Dynamic River Systems (WHONDRS).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016250</AwardID>
+<Investigator>
+<FirstName>Craig</FirstName>
+<LastName>Tobias</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Craig R Tobias</PI_FULL_NAME>
+<EmailAddress><![CDATA[craig.tobias@uconn.edu]]></EmailAddress>
+<NSF_ID>000223215</NSF_ID>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<ZipCode>062699018</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 11]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>Storrs</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062691133</ZipCode>
+<StreetAddress><![CDATA[483 Whitney Rd ext]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>738100</Code>
+<Text>Ecosystem Science</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~49871</FUND_OBLG>
+<FUND_OBLG>2021~6917</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Award Title: </strong>RAPID/Collaborative Research: Estuarine dam removal as an ecosystem disturbance: Examining the impacts of seawater intrusion on functional stability of benthic N cycle communities</p> <p><strong>Federal Award ID: </strong>2016250</p> <p>Estuaries are where rivers meet the sea.&nbsp; They are uniquely productive ecosystems that are important sites for nutrient recycling and removal in sediments, particularly nitrogen.&nbsp; This nitrogen cycling is mediated by microbes and can be controlled by multiple factors including salinity, flushing, and oxygen availability.&nbsp; Changing the balance of fresh water and seawater alters all of these controlling factors. This balance is expected to change with limited predictability as patterns of rainfall and drought shift in coming decades.&nbsp; &nbsp;This project focused on an estuary that contained a dam at its mouth that could be opened and closed.&nbsp; It used timed openings of this dam as whole ecosystem experiments to measure how the nitrogen cycling, key for estuary productivity, shifted in response to changing the freshwater and seawater balance.&nbsp; The work quantified how different components of the nitrogen cycle changed and the related changes in the microbial populations responsible for those rates.</p> <p>&nbsp;</p> <p>Intellectual Merit &ndash; Project findings revealed that seawater intrusion intensifies layering of freshwater above salt water.&nbsp; This layering leads to dissolved oxygen decline (hypoxia) in bottom water and a concentration of salt water above sediments.&nbsp; Short duration periods of seawater intrusion induce little hypoxia but the increase in salinity decreased the rates at which sediments remove excess nitrogen and had little effect on nitrogen recycling.&nbsp; Long duration periods of seawater intrusion induce high salinity and very low oxygen in bottom waters.&nbsp; These conditions caused little change in nitrogen removal rates but enhanced the nitrogen recycling rates. Intermediate duration period of seawater intrusion induced high salinity and moderately low dissolved oxygen.&nbsp; These conditions suppressed recycling but optimized high rates of nitrogen removal. These findings provide guideposts for predicting how the estuarine function of nitrogen retention vs removal would change with shifting balance of freshwater and salt water input that results from changing rainfall/drought conditions, and rising sea level.</p> <p>&nbsp;</p> <p>Broader Impacts - This project provided opportunities to train and develop students and young researchers at the University of Connecticut.&nbsp; One graduate student completed their M.S. degree and one technician was trained on new analytical techniques. In addition, the analytical methods developed in this project were shared with scientists at Pusan University, South Korea.&nbsp; The majority of hydrologically altered estuaries are in Asia and collaborations with this institute will facilitate future whole estuary hydrologic manipulations to further our understanding of how coming changes in the hydrologic cycle might affect how these critical ecosystems function</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/02/2024<br> Modified by: Craig&nbsp;R&nbsp;Tobias</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2016250/2016250_10676033_1719931728642_Project_Outcomes_Graphic2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2016250/2016250_10676033_1719931728642_Project_Outcomes_Graphic2--rgov-800width.jpg" title="Estuary Response to Seawater Instrusion"><img src="/por/images/Reports/POR/2024/2016250/2016250_10676033_1719931728642_Project_Outcomes_Graphic2--rgov-66x44.jpg" alt="Estuary Response to Seawater Instrusion"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Estuary schematic and summary of dissolved oxygen and nitrogen (N) cycling responses to seawater intrusion into the dammed Nakdong River Estuary</div> <div class="imageCredit">C. Tobias</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Craig&nbsp;R&nbsp;Tobias <div class="imageTitle">Estuary Response to Seawater Instrusion</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Award Title: RAPID/Collaborative Research: Estuarine dam removal as an ecosystem disturbance: Examining the impacts of seawater intrusion on functional stability of benthic N cycle communities   Federal Award ID: 2016250   Estuaries are where rivers meet the sea. They are uniquely productive ecosystems that are important sites for nutrient recycling and removal in sediments, particularly nitrogen. This nitrogen cycling is mediated by microbes and can be controlled by multiple factors including salinity, flushing, and oxygen availability. Changing the balance of fresh water and seawater alters all of these controlling factors. This balance is expected to change with limited predictability as patterns of rainfall and drought shift in coming decades. This project focused on an estuary that contained a dam at its mouth that could be opened and closed. It used timed openings of this dam as whole ecosystem experiments to measure how the nitrogen cycling, key for estuary productivity, shifted in response to changing the freshwater and seawater balance. The work quantified how different components of the nitrogen cycle changed and the related changes in the microbial populations responsible for those rates.      Intellectual Merit  Project findings revealed that seawater intrusion intensifies layering of freshwater above salt water. This layering leads to dissolved oxygen decline (hypoxia) in bottom water and a concentration of salt water above sediments. Short duration periods of seawater intrusion induce little hypoxia but the increase in salinity decreased the rates at which sediments remove excess nitrogen and had little effect on nitrogen recycling. Long duration periods of seawater intrusion induce high salinity and very low oxygen in bottom waters. These conditions caused little change in nitrogen removal rates but enhanced the nitrogen recycling rates. Intermediate duration period of seawater intrusion induced high salinity and moderately low dissolved oxygen. These conditions suppressed recycling but optimized high rates of nitrogen removal. These findings provide guideposts for predicting how the estuarine function of nitrogen retention vs removal would change with shifting balance of freshwater and salt water input that results from changing rainfall/drought conditions, and rising sea level.      Broader Impacts - This project provided opportunities to train and develop students and young researchers at the University of Connecticut. One graduate student completed their M.S. degree and one technician was trained on new analytical techniques. In addition, the analytical methods developed in this project were shared with scientists at Pusan University, South Korea. The majority of hydrologically altered estuaries are in Asia and collaborations with this institute will facilitate future whole estuary hydrologic manipulations to further our understanding of how coming changes in the hydrologic cycle might affect how these critical ecosystems function        Last Modified: 07/02/2024       Submitted by: CraigRTobias]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Resonant many-electron dynamics on helium]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>485000.00</AwardTotalIntnAmount>
+<AwardAmount>485000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Mann</SignBlockName>
+<PO_EMAI>elmann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922655</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non-Technical Abstract:&lt;br/&gt;Two-dimensional (2D) electron systems are of central interest for modern physics. The parameters of these systems can be varied in a controllable way, enabling the exploration of a wide variety of quantum many-body phenomena in a controlled setting. Understanding these systems continues to be a major driver for progress, not only in fundamental physics, but also in nanotechnology and quantum information science. Electrons on the surface of liquid helium were the first two-dimensional electron system discovered experimentally, and they still stand out as the most pristine known 2D system. Superfluid helium at low temperatures functions as a fantastically clean surface without defects and imperfections that are unavoidable in almost all other material systems. Electrons placed near this superfluid surface become bound to it and float in vacuum about 10 nanometers above the surface. They exhibit rich aspects of many-body quantum dynamics. One of the most attractive aspects is the flexibility and tunability of the system. The effects of the interaction between electrons can be effectively modified by changing their density and the geometry of the system. This research work aims to use the available controls to study fundamental problems of condensed-matter physics. Of central interest is the interplay of interactions between different quantum systems and how this interplay affects the electron dynamics away from thermal equilibrium. No general principles underlying such dynamics have been established. Because the system of electrons on helium is so pristine, it is a unique tool for the studies of coupled quantum systems. This work will use various tools of modern experimental and theoretical physics to reveal the basic features of the system. The system of electrons on helium is also an ideal candidate for incorporating into quantum devices and to potentially developing novel quantum technologies. Of particular interest in this respect are devices used in quantum information science. Because of these features electrons on helium are also an ideal platform for training students interested in fundamental science and QIS technologies.&lt;br/&gt;&lt;br/&gt;Technical Abstract:&lt;br/&gt;The goal of this joint experimental and theoretical effort is to understand the resonant dynamics of the many-electron system on liquid helium. These non-trivial dynamics result from the interplay the strong electron correlations and the interaction of the electron system with the quantum excitations of the helium surface. The research will address the question of how this interplay modifies the behavior of the system if it is driven away from thermal equilibrium. Specifically, the experimental and theoretical work will (i) study the linear and nonlinear resonant response to high-frequency excitation with the goal to understand the interplay of the strong correlations and the many-body polaronic effect in a Wigner crystal driven by a strong dc field which effectively strengthens the electron coupling to the helium excitations; (ii) explore the nature of the giant nonlinearity of the electron mobility in the crystalline phase and the effect of quantum fluctuations on the crystallization using a single-electron transistor able to count individual electrons as they move past it; (iii) utilize piezoelectric surface acoustic waves to investigate resonant interaction between these waves and plasmonic modes of the electron system and to study the high-frequency electron mobility; and (iv) investigate how quantum and classical fluctuations in the many-electron system affect the spectrum of the inter-subband electron absorption in an in-plane magnetic field that couples in-plane and out-of-plane motion, making the system mimic the optical response of color centers with controlled electron-phonon coupling.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003815</AwardID>
+<Investigator>
+<FirstName>Johannes</FirstName>
+<LastName>Pollanen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Johannes Pollanen</PI_FULL_NAME>
+<EmailAddress><![CDATA[pollanen@pa.msu.edu]]></EmailAddress>
+<NSF_ID>000733528</NSF_ID>
+<StartDate>03/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Dykman</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark I Dykman</PI_FULL_NAME>
+<EmailAddress><![CDATA[dykman@pa.msu.edu]]></EmailAddress>
+<NSF_ID>000488479</NSF_ID>
+<StartDate>03/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName/>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>171000</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~385000</FUND_OBLG>
+<FUND_OBLG>2021~50000</FUND_OBLG>
+<FUND_OBLG>2022~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1"><span class="s1"><strong>Intellectual Merit:&nbsp;</strong>Electrons placed near the surface of superfluid helium are attracted to it and trapped, floating about 10 nm above the surface. These electrons are interesting because of their&nbsp;</span><span class="s2">fundamental properties</span><span class="s1">&nbsp;and provide insight into the inner workings of low-dimensional quantum matter</span><span class="s1">. This project enabled novel experimental and theoretical investigations of electrons on helium that have <span style="text-decoration: underline;">led to a number of exciting discoveries</span> including the observation of new collective modes in the system, the development of novel high-frequency methods and devices for coupling the electrons to piezoelectric surface acoustic waves and microwave-frequency fields, and the development of new theoretical and computational tools for understanding the quantum many-body dynamics in the system, just to name a few. The results create the opportunity for future work using high-frequency fields to study, and control, the quantum dynamics of the electron system and <span style="text-decoration: underline;">open the door to an entirely new field</span> of cavity opto-plasmonics with electrons on helium.</span></p> <p class="p1"><span class="s1"><strong>Broader Impact:&nbsp;</strong>In addition to the technical training of graduate and undergraduate students that will help in maintaining the US competitive advantage in quantum sciences, this grant has supported the development of an online platform for <span style="text-decoration: underline;">bringing together art and science</span> using compelling images associated with scientific discovery. This Instagram-based platform will outlive this grant and continue to provide a avenue for communicating the research advances of the PI's research group and highlight outreach activities to broaden participation in the quantum science of low-dimensional systems. The junior members of the PI's research group (the Laboratory for Hybrid Quantum Systems) also actively participated in the MSU ScFest, hosting condensed matter physics booths and providing laboratory tours and public lectures to an audience of the <span style="text-decoration: underline;">general public in and around mid-Michigan</span>.</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 09/29/2024<br> Modified by: Johannes&nbsp;Pollanen</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2003815/2003815_10661118_1727638370302_eoH--rgov-214x142.png" original="/por/images/Reports/POR/2024/2003815/2003815_10661118_1727638370302_eoH--rgov-800width.png" title="Electrons on helium"><img src="/por/images/Reports/POR/2024/2003815/2003815_10661118_1727638370302_eoH--rgov-66x44.png" alt="Electrons on helium"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Schematic image showing electrons trapped (and floating) above the surface of superfluid helium.</div> <div class="imageCredit">Johannes Pollanen</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Johannes&nbsp;Pollanen <div class="imageTitle">Electrons on helium</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2003815/2003815_10661118_1727638492365_helium_fluctuations--rgov-214x142.png" original="/por/images/Reports/POR/2024/2003815/2003815_10661118_1727638492365_helium_fluctuations--rgov-800width.png" title="Ripplons detection using a microwave resonator"><img src="/por/images/Reports/POR/2024/2003815/2003815_10661118_1727638492365_helium_fluctuations--rgov-66x44.png" alt="Ripplons detection using a microwave resonator"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Image depicting a superconducting device for detecting the fluctuations of the surface of superfluid helium.</div> <div class="imageCredit">Niyaz Beysengulov</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Johannes&nbsp;Pollanen <div class="imageTitle">Ripplons detection using a microwave resonator</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2003815/2003815_10661118_1727638605716_CUQMC--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2003815/2003815_10661118_1727638605716_CUQMC--rgov-800width.jpg" title="Quantum Motor City Summer School"><img src="/por/images/Reports/POR/2024/2003815/2003815_10661118_1727638605716_CUQMC--rgov-66x44.jpg" alt="Quantum Motor City Summer School"></a> <div class="imageCaptionContainer"> <div class="imageCaption">MSU graduate student Camryn Undershute (left) gives lab tours of the Laboratory for Hybrid Quantum Systems to Detroit high-school students.</div> <div class="imageCredit">Ryan LaRose</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Johannes&nbsp;Pollanen <div class="imageTitle">Quantum Motor City Summer School</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit:Electrons placed near the surface of superfluid helium are attracted to it and trapped, floating about 10 nm above the surface. These electrons are interesting because of theirfundamental propertiesand provide insight into the inner workings of low-dimensional quantum matter. This project enabled novel experimental and theoretical investigations of electrons on helium that have led to a number of exciting discoveries including the observation of new collective modes in the system, the development of novel high-frequency methods and devices for coupling the electrons to piezoelectric surface acoustic waves and microwave-frequency fields, and the development of new theoretical and computational tools for understanding the quantum many-body dynamics in the system, just to name a few. The results create the opportunity for future work using high-frequency fields to study, and control, the quantum dynamics of the electron system and open the door to an entirely new field of cavity opto-plasmonics with electrons on helium.   Broader Impact:In addition to the technical training of graduate and undergraduate students that will help in maintaining the US competitive advantage in quantum sciences, this grant has supported the development of an online platform for bringing together art and science using compelling images associated with scientific discovery. This Instagram-based platform will outlive this grant and continue to provide a avenue for communicating the research advances of the PI's research group and highlight outreach activities to broaden participation in the quantum science of low-dimensional systems. The junior members of the PI's research group (the Laboratory for Hybrid Quantum Systems) also actively participated in the MSU ScFest, hosting condensed matter physics booths and providing laboratory tours and public lectures to an audience of the general public in and around mid-Michigan.        Last Modified: 09/29/2024       Submitted by: JohannesPollanen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

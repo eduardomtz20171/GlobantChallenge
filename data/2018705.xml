@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a High-Performance Computing Cluster for Interdisciplinary Research and Teaching]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>249254.00</AwardTotalIntnAmount>
+<AwardAmount>249254</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alejandro Suarez</SignBlockName>
+<PO_EMAI>alsuarez@nsf.gov</PO_EMAI>
+<PO_PHON>7032927092</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The acquisition of a high-performance computing (HPC) cluster for use by faculty and undergraduate students at rurally located Dordt University will significantly impact several new and ongoing, multidisciplinary research projects in both STEM and non-STEM fields. This cluster will generate opportunities for Dordt faculty and other regional college and high school faculty to integrate high-performance computing into their research, training activities, and classrooms. Research projects covering a wide range of academic disciplines will be supported by the new HPC cluster, including computational biomedicine, medicinal chemistry, statistical genetics, planetary chemistry, and structural integrity under seismic loading. The project will also expand opportunities for HPC use within other fields such as social sciences statistical research, digital humanities, institutional research, and IT. The research endeavors of this team of undergraduate research mentors will be substantially catalyzed by the HPC cluster, leading to a diverse and interdisciplinary set of high-impact research findings, providing cutting-edge, high performance computing research experiences for undergraduate students, and acting as a model for cross disciplinary computational resource sharing at Primarily Undergraduate Institutions. Other faculty in computer science, data science, statistics, engineering, and chemistry will also utilize the cluster in upper-level courses as research training opportunities for students. &lt;br/&gt;&lt;br/&gt;This Major Research Instrumentation award will provide infrastructure that will enable faculty to further develop and sustain research programs that already produce skillfully trained undergraduate researchers, generate peer reviewed publications, and attract external support. To accommodate the multidisciplinary range of the research applications of HPC users, this project will provide a high performance computing cluster consisting of a head node and 18 compute nodes in three standardized configurations: eight regular compute nodes, eight high RAM nodes, and two Graphics Processing Unit (GPU)-based nodes for applications, such as large molecular modeling systems, that will harness the massively parallel vector processing abilities of GPUs. Over the three years of the project, approximately fifty graduate school-bound undergraduate students (over half female; at least 10% minority) will receive intensive research training on the proposed HPC cluster by the primary faculty users. Furthermore, at least 1500 additional undergraduate, middle and high school students (many from rural, first generation college, or lower socio-economic strata), and faculty will use the cluster as part of STEM courses and outreach activities, including high school teacher training and faculty development workshops, as well as research/education programs for middle and high school students. The HPC resources will also be integral to a new initiative at Dordt University focused on recruitment and retention of academically talented students with financial barriers to education. This award will bring additional high-performance computing capability to a region of the country which currently has limited access to HPC resources, but has seen recent rapid growth in STEM. The HPC cluster will reach a diverse user community and maximize student impact, inspiring more students to pursue STEM careers and use computational tools across disciplines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018705</AwardID>
+<Investigator>
+<FirstName>Nathan</FirstName>
+<LastName>Tintle</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nathan Tintle</PI_FULL_NAME>
+<EmailAddress><![CDATA[nathan.tintle@superiorstatresearch.com]]></EmailAddress>
+<NSF_ID>000508737</NSF_ID>
+<StartDate>07/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Channon</FirstName>
+<LastName>Visscher</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Channon Visscher</PI_FULL_NAME>
+<EmailAddress><![CDATA[cvisscher@spacescience.org]]></EmailAddress>
+<NSF_ID>000578735</NSF_ID>
+<StartDate>07/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nick</FirstName>
+<LastName>Breems</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nick Breems</PI_FULL_NAME>
+<EmailAddress><![CDATA[Nick.Breems@dordt.edu]]></EmailAddress>
+<NSF_ID>000689669</NSF_ID>
+<StartDate>07/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Manuela</FirstName>
+<LastName>Ayee-Leong</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Manuela A Ayee-Leong</PI_FULL_NAME>
+<EmailAddress><![CDATA[Manuela.Ayee-Leong@dordt.edu]]></EmailAddress>
+<NSF_ID>000796589</NSF_ID>
+<StartDate>07/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hailiang</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hailiang J Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[joshua.zhu@dordt.edu]]></EmailAddress>
+<NSF_ID>000796603</NSF_ID>
+<StartDate>07/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Dordt University, Incorporated]]></Name>
+<CityName>SIOUX CENTER</CityName>
+<ZipCode>512501671</ZipCode>
+<PhoneNumber>7127226339</PhoneNumber>
+<StreetAddress><![CDATA[700 7TH ST NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LA7RMC774LU5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DORDT UNIVERSITY, INCORPORATED</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Dordt College]]></Name>
+<CityName/>
+<StateCode>IA</StateCode>
+<ZipCode>512501668</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>118900</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~249254</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This Major Research Instrumentation (MRI) award supported the project entitled &ldquo;MRI: Acquisition of a High-Performance Computing Cluster for Interdisciplinary Research and Teaching&rdquo; at Dordt University, a primarily undergraduate institution in Iowa. Through this project, the acquisition of a new high-performance computing (HPC) cluster supported faculty computational research in multiple disciplines and facilitated the training of undergraduate student researchers in high-performance computing.</p> <p>The HPC cluster generated opportunities for Dordt faculty and students to integrate high-performance computing into their research, training activities, and classrooms. Data and results from research projects aided by the cluster were disseminated through several conference presentations and seminars, including two presentations at the National Conference on Undergraduate Research. The cluster also helped to catalyze several new collaborations for Dordt faculty with partners at other institutions, leading to some additional external funding and ongoing multidisciplinary research. The cluster is being used for research in fields such as chemical engineering, biomedical engineering, mathematics, chemistry, physics, computer science, data science, and statistics.</p> <p>Undergraduate students across several majors of study have gained significant experience in interacting with this modern computing cluster, including submitting to job scheduling engines, Linux shell scripting, software installation from source code, and constructing data pipelines. The cluster has also permitted faculty to train undergraduate students in high performance computing cluster design, maintenance, and usage through courses such as the computer science Advanced Topics in Systems-Level Programming and the upper-level Engineering Research Methods course. Additionally, the cluster has supported undergraduate senior capstone projects and honors projects in the fields of chemistry, computer science, and data science.</p> <p>Some of the research carried out using the HPC cluster will have an impact on the broader society because of the potential implications of the research findings. For example, ongoing projects investigating the molecular interactions of proteins involved in a common inherited neurological disorder and other proteins associated with the viruses of influenza, SARS-Cov-2, and RSV will add to the knowledge base on these diseases. This will potentially provide positive outcomes for patients and aid in vaccine development. Other work supported by the cluster investigating the chemical behavior of key species in the atmospheres of celestial objects and giant planets will broaden our understanding of the underlying physics and chemistry responsible for the properties of substellar objects, thus contributing knowledge to the field of astronomy.</p><br> <p>  Last Modified: 11/22/2024<br> Modified by: Manuela&nbsp;A&nbsp;Ayee-Leong</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This Major Research Instrumentation (MRI) award supported the project entitled MRI: Acquisition of a High-Performance Computing Cluster for Interdisciplinary Research and Teaching at Dordt University, a primarily undergraduate institution in Iowa. Through this project, the acquisition of a new high-performance computing (HPC) cluster supported faculty computational research in multiple disciplines and facilitated the training of undergraduate student researchers in high-performance computing.   The HPC cluster generated opportunities for Dordt faculty and students to integrate high-performance computing into their research, training activities, and classrooms. Data and results from research projects aided by the cluster were disseminated through several conference presentations and seminars, including two presentations at the National Conference on Undergraduate Research. The cluster also helped to catalyze several new collaborations for Dordt faculty with partners at other institutions, leading to some additional external funding and ongoing multidisciplinary research. The cluster is being used for research in fields such as chemical engineering, biomedical engineering, mathematics, chemistry, physics, computer science, data science, and statistics.   Undergraduate students across several majors of study have gained significant experience in interacting with this modern computing cluster, including submitting to job scheduling engines, Linux shell scripting, software installation from source code, and constructing data pipelines. The cluster has also permitted faculty to train undergraduate students in high performance computing cluster design, maintenance, and usage through courses such as the computer science Advanced Topics in Systems-Level Programming and the upper-level Engineering Research Methods course. Additionally, the cluster has supported undergraduate senior capstone projects and honors projects in the fields of chemistry, computer science, and data science.   Some of the research carried out using the HPC cluster will have an impact on the broader society because of the potential implications of the research findings. For example, ongoing projects investigating the molecular interactions of proteins involved in a common inherited neurological disorder and other proteins associated with the viruses of influenza, SARS-Cov-2, and RSV will add to the knowledge base on these diseases. This will potentially provide positive outcomes for patients and aid in vaccine development. Other work supported by the cluster investigating the chemical behavior of key species in the atmospheres of celestial objects and giant planets will broaden our understanding of the underlying physics and chemistry responsible for the properties of substellar objects, thus contributing knowledge to the field of astronomy.     Last Modified: 11/22/2024       Submitted by: ManuelaAAyee-Leong]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

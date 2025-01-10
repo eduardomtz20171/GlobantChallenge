@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+<PO_EMAI>sgdewint@nsf.gov</PO_EMAI>
+<PO_PHON>7032922599</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist. The title of the project for this fellowship to Franco E. Vargas Pallette is  " Renormalized volume and Geometry of hyperbolic 3-manifolds." The host institution for the fellowship is Yale University, and the sponsoring scientist is Jeffrey Brock.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001997</AwardID>
+<Investigator>
+<FirstName>Franco</FirstName>
+<LastName>VargasPallete</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Franco E VargasPallete</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000760668</NSF_ID>
+<StartDate>03/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[VargasPallete           Franco         E]]></Name>
+<CityName>New Haven</CityName>
+<ZipCode>065110000</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>New Haven</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065208283</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project produced several new results in low-dimensional geometry and topology, particularly concerning the geometry of hyperbolic surfaces and 3-manifolds. Join with Fortier Bourque and Martinez-Granado, the PI investigated the extremal length functional on the space of hyperbolic surfaces. Join with Cremaschi, Krifka and Martinez-Granado the Pi studied the hyperbolic volume of knot complements in the projective tangent bundle of a surface obtained canonically from filling geodesics, via the use of the exponential mixing property fo the geodesic flow. The PI in two joint projects with Adelstein studied the relation of closed geodesics and diameter on positively curved geometry. The first project investigated bounds between the length of the shortest geodesic and the diameter, while the second showed how a manifold with sufficiently many diameter directions has to be diameter realizing in every direction (also known as <em>Blaschke manifold</em>).</p> <p>The PI also investigated the role and applications of volume in the geometry and topology of hyperbolic manifolds, particularly concerning the study of <em>Renormalized Volume</em>. In joint work with Bridgeman and Bromberg the PI showed that the Weil-Petersson gradient flow of renormalized volume converges to its unique minimum. This work is a step forward for a new proof of Thurston's geometrization of Haken manifolds that uses renormalized volume in the constructive step of the proof. Joint with Viana the PI investigated the relation of renormalized volume to isoperimetric profiles (i.e. region of optimal perimeter with respect to a given volume). This connection allows applications of known results of renormalized volume in problems concerning isoperimetric regions or Cheeger constants for hyperbolic 3 manifolds. In joint work with Agol the PI used volume functionals to prove that the natural boundary map for PSL2C characters of a convex co-compact hyperbolic manifold induces a birational isomorphism with its image. This realizes a component of the PSL2C character variety of a 3 manifold in the simpler character variety of its boundary. Related to this projects, the PI also worked to develop applications of geometric and strong convergence for hyperbolic 3 manifolds. In joint work with Cremaschi the PI used these techniques to hyperbolize Cantor sets complements in the sphere. Joint with Liu the PI established the convergence of small eigenvalues of the Laplacian for convex co-compact hyperbolic 3 manifolds under strong convergence. One application (using that the geodesic flow is exponentially mixing) done in that project concerned <span>asymptotically uniform (under strong convergence) counting formulas for the number of orthogeodesics between the convex sets.</span></p> <p><span>The PI also invesigated properties of minimal surfaces in hyperbolic 3 manifolds, particularly concerning the question of existence of foliations. This is relevant to the theory of taut foliations in 3 manifolds, and particularly to the question of whether a hyperbolic 3 manifold can be foliated by minimal surfaces. In joint work with Guaraco and Lima, the PI made used of mean curvature flow with surgery to produce fibrations in hyperbolic 3 manifolds so that every leaf is either minimal or mean-convex, relaxing the conditions of the conjecture. On the other hand, in joint work with Farre, the PI used ideas from work addressing the non-existence of minimal fibrations in presence of short geodesics to show that there exist infinite families with&nbsp;<span>an uniform lower bound greater than one for the maximum principal curvatures of a least area minimal surface.</span></span></p> <p>For the broader impacts of the project, the PI was involved with the Direct Reading Program at Yale University. The PI mentored 4 undergraduates for the program during that period. The PI lead a Research Experience for Undergraduates as a mentor at Yale University during Summer 2022 for a group of 5 undergraduates. The PI supervised two senior essays during the duration of project, at Yale University and at Universidad Nacional de Ingenieria. The PI gave talks to mathematical audiences at seminars and conferences, as well as participating in outreach activities, reaching to latinoamerican audiences.</p><br> <p>  Last Modified: 09/02/2024<br> Modified by: Franco&nbsp;E&nbsp;Vargaspallete</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project produced several new results in low-dimensional geometry and topology, particularly concerning the geometry of hyperbolic surfaces and 3-manifolds. Join with Fortier Bourque and Martinez-Granado, the PI investigated the extremal length functional on the space of hyperbolic surfaces. Join with Cremaschi, Krifka and Martinez-Granado the Pi studied the hyperbolic volume of knot complements in the projective tangent bundle of a surface obtained canonically from filling geodesics, via the use of the exponential mixing property fo the geodesic flow. The PI in two joint projects with Adelstein studied the relation of closed geodesics and diameter on positively curved geometry. The first project investigated bounds between the length of the shortest geodesic and the diameter, while the second showed how a manifold with sufficiently many diameter directions has to be diameter realizing in every direction (also known as Blaschke manifold).   The PI also investigated the role and applications of volume in the geometry and topology of hyperbolic manifolds, particularly concerning the study of Renormalized Volume. In joint work with Bridgeman and Bromberg the PI showed that the Weil-Petersson gradient flow of renormalized volume converges to its unique minimum. This work is a step forward for a new proof of Thurston's geometrization of Haken manifolds that uses renormalized volume in the constructive step of the proof. Joint with Viana the PI investigated the relation of renormalized volume to isoperimetric profiles (i.e. region of optimal perimeter with respect to a given volume). This connection allows applications of known results of renormalized volume in problems concerning isoperimetric regions or Cheeger constants for hyperbolic 3 manifolds. In joint work with Agol the PI used volume functionals to prove that the natural boundary map for PSL2C characters of a convex co-compact hyperbolic manifold induces a birational isomorphism with its image. This realizes a component of the PSL2C character variety of a 3 manifold in the simpler character variety of its boundary. Related to this projects, the PI also worked to develop applications of geometric and strong convergence for hyperbolic 3 manifolds. In joint work with Cremaschi the PI used these techniques to hyperbolize Cantor sets complements in the sphere. Joint with Liu the PI established the convergence of small eigenvalues of the Laplacian for convex co-compact hyperbolic 3 manifolds under strong convergence. One application (using that the geodesic flow is exponentially mixing) done in that project concerned asymptotically uniform (under strong convergence) counting formulas for the number of orthogeodesics between the convex sets.   The PI also invesigated properties of minimal surfaces in hyperbolic 3 manifolds, particularly concerning the question of existence of foliations. This is relevant to the theory of taut foliations in 3 manifolds, and particularly to the question of whether a hyperbolic 3 manifold can be foliated by minimal surfaces. In joint work with Guaraco and Lima, the PI made used of mean curvature flow with surgery to produce fibrations in hyperbolic 3 manifolds so that every leaf is either minimal or mean-convex, relaxing the conditions of the conjecture. On the other hand, in joint work with Farre, the PI used ideas from work addressing the non-existence of minimal fibrations in presence of short geodesics to show that there exist infinite families withan uniform lower bound greater than one for the maximum principal curvatures of a least area minimal surface.   For the broader impacts of the project, the PI was involved with the Direct Reading Program at Yale University. The PI mentored 4 undergraduates for the program during that period. The PI lead a Research Experience for Undergraduates as a mentor at Yale University during Summer 2022 for a group of 5 undergraduates. The PI supervised two senior essays during the duration of project, at Yale University and at Universidad Nacional de Ingenieria. The PI gave talks to mathematical audiences at seminars and conferences, as well as participating in outreach activities, reaching to latinoamerican audiences.     Last Modified: 09/02/2024       Submitted by: FrancoEVargaspallete]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

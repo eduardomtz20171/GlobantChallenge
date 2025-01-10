@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Derived Categories, Noncommutative Orders, and Other Topics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>239008.00</AwardTotalIntnAmount>
+<AwardAmount>239008</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+<PO_EMAI>mdouglas@nsf.gov</PO_EMAI>
+<PO_PHON>7032922467</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The proposed research is in the field of algebraic geometry with some connections to string theory. Algebraic geometry is a branch of mathematics studying geometric objects defined by polynomial equations and related mathematical structures. Classically one associates with such geometric objects (called algebraic varieties) the set of algebraic functions on them which forms a commutative ring (i.e., functions can be added and multiplied). Modern research involves more sophisticated algebraic structures associated with algebraic varieties, such as the category of coherent sheaves (the notion of a category is a generalization of that of an associative ring). One part of the project is to establish some cases of the homological mirror symmetry conjecture which identifies categories appearing in geometry in two seemingly unrelated contexts. Another part of the project aims to give a rigorous mathematical foundation to some aspects of the use of super Riemann surfaces (a generalization of the usual surfaces) in string theory. This project provides research training opportunities for undergraduate and graduate students.&lt;br/&gt;&lt;br/&gt;More specifically, the first part of the project is on homological mirror symmetry for symmetric powers of punctured spheres. The goal is to identify categorical resolutions of derived categories of coherent sheaves on certain algebraic varieties with partially wrapped Fukaya categories of the symmetric powers of punctured spheres. This may help to find a new construction of Ozsvath-Szabo's categorical knot invariant. The second part is to work out a generalization of the Hirzebruch-Riemann-Roch formula to the categories of matrix factorizations over non-affine varieties and stacks. The PI also would like to use categories of matrix factorizations to find a Landau-Ginzburg counterpart of the G-equivariant Gromov-Witten theory. The third part of the project is to realize trigonometric solutions of the associative Yang-Baxter equation in terms of noncommutative orders over nodal cubics. The fourth part is related to the geometry of stable supercurves. The PI proposes to understand the poles of the analog of Mumford's isomorphism for the Berezinian of the moduli of supercurves near the boundary of the compactification by stable supercurves and to study some problems arising in integration over the moduli space of supercurves.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001224</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Polishchuk</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander Polishchuk</PI_FULL_NAME>
+<EmailAddress><![CDATA[apolish@uoregon.edu]]></EmailAddress>
+<NSF_ID>000493304</NSF_ID>
+<StartDate>04/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Oregon Eugene]]></Name>
+<CityName>EUGENE</CityName>
+<ZipCode>974031905</ZipCode>
+<PhoneNumber>5413465131</PhoneNumber>
+<StreetAddress><![CDATA[1776 E 13TH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z3FGN9MF92U2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OREGON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Z3FGN9MF92U2</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oregon Eugene]]></Name>
+<CityName>Eugene</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>974035219</ZipCode>
+<StreetAddress><![CDATA[5219 University of Oregon]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~239008</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1"><em>Algebraic geometry</em> is an area of mathematics studying geometric objects defined by polynomial equations in the n-space (called <em>affine algebraic varieties</em>), as well as more general geometric objects, called <em>algebraic varieties,</em> obtained from affine varieties by a certain gluing process.</p> <p class="p1">It is a classical idea that an affine variety is determined by a purely algebraic object, namely, the algebra of polynomial functions on this variety. The large part of the PI&rsquo;s work revolves around the idea that more general algebraic varieties can sometimes be described adequately by an <em>A-infinity algebra</em>. The latter is an algebra-like structure that has, in addition to the product operation, higher operations with more than two inputs, that satisfy a generalization of the associative law. This approach in recording the geometric information algebraically has been shown to be useful in the context of Kontsevich&rsquo;s homological mirror symmetry program.</p> <p class="p2">&nbsp;</p> <p class="p1">Jointly with Yanki Lekili, the PI proved the homological mirror symmetry conjecture relating the Fukaya category of the space of pairs of unordered points on a sphere with several points deleted,</p> <p class="p1">and the derived category of coherent sheaves related to a resolution of singularities of the hypersurface x_1x_2x_3=y_1&hellip;y_k.</p> <p class="p2">&nbsp;</p> <p class="p1">In a joint work with Umut Varolgunes we establish another homological mirror symmetry equivalence,</p> <p class="p1">involving chain type polynomials (certain polynomials with the number of monomials equal to the number of variables, defining an isolated singularity at the origin). The proof is based on the theory</p> <p class="p1">of exceptional collections.</p> <p class="p2">&nbsp;</p> <p class="p1">In a joint project with Giovanni Felder and David Kazhdan, the PI constructed the compactification of</p> <p class="p1">the space of supercurves arising in string theory. More precisely, this compactification is</p> <p class="p1">provided by the space of <em>stable supercurves</em> which are allowed to have singularities</p> <p class="p1">(similarly to the Deligne-Mumford&rsquo;s construction of the compactification of the space of smooth curves). The PI also did some foundational work on supergeometry, jointly with Ugo Bruzzo and Daniel Hernandez Ruiperez.</p> <p class="p2">&nbsp;</p> <p class="p1">Jointly with Zheng Hua and Nikita Markarian, the PI developed further the theory of Feigin-Odesskii Poisson brackets on projective spaces and Grassmannians, associated with vector bundles over elliptic curves. In particular, we found a geometric context using elliptic curves lying on algebraic surfaces, which explained earlier construction of compatible pairs of Feigin-Odesskii brackets found by Odesskii and Wolf. We also found a connection between these brackets for degenerations</p> <p class="p1">of elliptic curves and positroid subvarieties of the Grassmannians.</p> <p class="p2">&nbsp;</p> <p class="p1">In a series of joint works with David Kazhdan we worked on problems related to <em>Schmidt rank</em> (aka <em>strength</em>) of polynomials and related notions, which measure complexity of polynomials.</p> <p class="p1">In one paper, which is also joint with Amichai Lambert, we related the Schmidt rank to the codimension of the singular locus of the hypersurface defined by the polynomial.</p> <p class="p1">In other works we studied behavior of the rank under finite extensions of fields.</p> <p class="p2">&nbsp;</p> <p class="p1">In a series of joint works with Alexander Braverman and David Kazhdan we contributed to the development of <em>analytic Langlands correspondence</em>. This is an analog of the classical Langlands correspondence in which a curve over finite field is replaced by a curve over real or complex numbers, or over p-adic numbers. The goal is to understand the action of Hecke operators on the appropriate functional space over the space of bundles on such a curve. We proved several foundational results on Hecke operators in this context.</p> <p class="p2">&nbsp;</p> <p class="p1">The PI has been advising two Ph.D. students who were working on problems related to the project. He also was a lead organizer of a semester program at the SLMath Institute and was helping with the curriculum for a math circle for elementary school students. <span>&nbsp;</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 07/31/2024<br> Modified by: Alexander&nbsp;Polishchuk</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Algebraic geometry is an area of mathematics studying geometric objects defined by polynomial equations in the n-space (called affine algebraic varieties), as well as more general geometric objects, called algebraic varieties, obtained from affine varieties by a certain gluing process.   It is a classical idea that an affine variety is determined by a purely algebraic object, namely, the algebra of polynomial functions on this variety. The large part of the PIs work revolves around the idea that more general algebraic varieties can sometimes be described adequately by an A-infinity algebra. The latter is an algebra-like structure that has, in addition to the product operation, higher operations with more than two inputs, that satisfy a generalization of the associative law. This approach in recording the geometric information algebraically has been shown to be useful in the context of Kontsevichs homological mirror symmetry program.      Jointly with Yanki Lekili, the PI proved the homological mirror symmetry conjecture relating the Fukaya category of the space of pairs of unordered points on a sphere with several points deleted,   and the derived category of coherent sheaves related to a resolution of singularities of the hypersurface x_1x_2x_3=y_1y_k.      In a joint work with Umut Varolgunes we establish another homological mirror symmetry equivalence,   involving chain type polynomials (certain polynomials with the number of monomials equal to the number of variables, defining an isolated singularity at the origin). The proof is based on the theory   of exceptional collections.      In a joint project with Giovanni Felder and David Kazhdan, the PI constructed the compactification of   the space of supercurves arising in string theory. More precisely, this compactification is   provided by the space of stable supercurves which are allowed to have singularities   (similarly to the Deligne-Mumfords construction of the compactification of the space of smooth curves). The PI also did some foundational work on supergeometry, jointly with Ugo Bruzzo and Daniel Hernandez Ruiperez.      Jointly with Zheng Hua and Nikita Markarian, the PI developed further the theory of Feigin-Odesskii Poisson brackets on projective spaces and Grassmannians, associated with vector bundles over elliptic curves. In particular, we found a geometric context using elliptic curves lying on algebraic surfaces, which explained earlier construction of compatible pairs of Feigin-Odesskii brackets found by Odesskii and Wolf. We also found a connection between these brackets for degenerations   of elliptic curves and positroid subvarieties of the Grassmannians.      In a series of joint works with David Kazhdan we worked on problems related to Schmidt rank (aka strength) of polynomials and related notions, which measure complexity of polynomials.   In one paper, which is also joint with Amichai Lambert, we related the Schmidt rank to the codimension of the singular locus of the hypersurface defined by the polynomial.   In other works we studied behavior of the rank under finite extensions of fields.      In a series of joint works with Alexander Braverman and David Kazhdan we contributed to the development of analytic Langlands correspondence. This is an analog of the classical Langlands correspondence in which a curve over finite field is replaced by a curve over real or complex numbers, or over p-adic numbers. The goal is to understand the action of Hecke operators on the appropriate functional space over the space of bundles on such a curve. We proved several foundational results on Hecke operators in this context.      The PI has been advising two Ph.D. students who were working on problems related to the project. He also was a lead organizer of a semester program at the SLMath Institute and was helping with the curriculum for a math circle for elementary school students.         Last Modified: 07/31/2024       Submitted by: AlexanderPolishchuk]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

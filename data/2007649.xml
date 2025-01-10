@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CIF: Small: Deep Sparse Models: Analysis and Algorithms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>281251.00</AwardTotalIntnAmount>
+<AwardAmount>281251</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Fowler</SignBlockName>
+<PO_EMAI>jafowler@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Deep convolutional neural networks are a class of mathematical models that provide a variety of machine learning tools with impressive success, often obtaining state-of-the-art results across different fields. Yet, their theoretical understanding and the fundamental ideas behind these algorithms have remained elusive. These questions are essential to recognize and characterize their limitations, to provide guarantees for their performance, and even to develop and engineer improved practical models. A promising approach to obtain this understanding is to make assumptions about the class of samples on which these models are deployed (e.g., so that these are "simple enough") with the intention of providing theoretical insights about them. Further understanding of this 'multi-layered convolutional sparse model' is what this project seeks accomplish, broadening the understanding of its related optimization and learning problems, and shedding light on deep learning methodologies.&lt;br/&gt;&lt;br/&gt;This project proposes to advance the state of the art in generalized sparse models of different numbers of layers, focusing on both inference and learning problems. Provable and efficient optimization methods will be derived for the inverse problems associated with multilayer sparse models by relying on new results in proximal gradient and subgradient descent methods. This proposal will further extend the formulation of the pursuit to other settings, increasing stability and robustness to the choice of parameters and to outliers. Furthermore, efficient algorithms for the corresponding unsupervised learning problem will be proposed and analyzed. Questions of sample complexity and generalization bounds will in turn be studied in supervised learning settings. Throughout this project, the resulting algorithms will be studied in terms of their relation to specific convolutional network architectures. The project brings together combined expertise in signal processing, dictionary learning, machine learning, and the design, analysis and implementation of optimization methods for large-scale problems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007649</AwardID>
+<Investigator>
+<FirstName>Jeremias</FirstName>
+<LastName>Sulam</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeremias Sulam</PI_FULL_NAME>
+<EmailAddress><![CDATA[jsulam1@jhu.edu]]></EmailAddress>
+<NSF_ID>000815626</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE JOHNS HOPKINS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GS4PNKTRNKL3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>Baltimore</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212183536</ZipCode>
+<StreetAddress><![CDATA[3400 N. Charles Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779700</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~281251</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This collaborative project funded two teams, one at the University of Denver/Ohio State University, and one at Johns Hopkins University, led by junior PIs: assistant professors J. Sulam (JHU) and Z. Zhu (OSU). The award provided to JHU was $281,251 for a three year project, which ended up extended into a fourth year via a non-cost extension.</p> <p>This project studied aspects that pertain to the mathematical and algorithmic foundations of artificial intelligence. In particular, the project sought to better understand deep convolutional networks &mdash; a class of models that have proven particularly useful and broad range of applications. Despite their wide use, their ability to represent robust predictors, understand their generalization abilities, or insights into how to develop better architectures, remains limited. in this way, this project aimed to apply ideas of parsimonious and sparse representations, which decompose natural data into basic few components and provide a rigorous and elegant mathematical framework to analyze new networks.</p> <p>On <strong>intellectual merits</strong>, this project was very successful. It resulted in six publications (three journals and three peer-reviewed conference papers) in some of the premier venues in the field (including JMLR, Neurips, AISTATS, IEEE TSP, among others). In conjunction, these results demonstrate how concepts of low dimensional and sparse models allow for elegant and efficient analytical ideas that can improve our understanding of modern deep network models. We will expand on two central ideas that resulted from this project.</p> <p><em>Robust models</em>: Some of the results from this project have proposed to look at sparsity from a new perspective: rather than making strong assumptions about the data (i.e., assuming that it admits a sparse decomposition in some basis) we look at this problem more pragmatically. In (Muthukumar &amp; Sulam, SIMODS, 2023) we provided a framework that can exploit the sparsity obtained in the representations computed by a very broad family of functions (including deep neural networks) whenever present without making strong distributional assumptions. We showed how our framework allows to construct tighter (i.e. better) robustness certificates against input perturbations. These certificates provide a mathematical proof that a predictor will not change its output significantly when corrupted by a potentially malicious actor in specific settings, thereby providing precise guarantees on the robustness of the obtained models.</p> <p><em>Generalization guarantees</em>: Generalization guarantees allow us to understand how well a given predictor will generalize, or perform, in unseen data based on their performance on training data. These statements are fundamental in machine learning, as they allow us to understand how well trained predictors can perform in future data when deployed. Yet, this kind of results have been limited for modern deep learning models, and the bounds tend to be too pessimistic to capture the true expected performance. A key result from this project is the observation that leveraging the sparsity that naturally exists in representations of data can be employed to derive better generalization guarantees for deep neural networks. In (Muthukumar &amp; Sulam, COLT, 2023), we showed how to construct generalization bounds that make use of the sparsity observed in these functions, without making strong distributional assumptions. Our results demonstrate that these ideas allow for significantly better results than the state of the art.</p> <p>This project was also very successful in its <strong>broader impacts</strong>. The project supported part of the work of the PI and a full graduate student in computer science through most of his graduate studies. In this way, the project was central to training the graduate student in fundamental concepts of statistical learning and parsimonious models. The project further supported two other graduate students for a small number of months in the context of research internships in the PI&rsquo;s lab. This award also provided research internship opportunities for both undergraduate and high school students from underrepresented backgrounds, in collaboration with the WISE program at JHU. This award further allowed the members of the team to attend scientific meetings, conferences and seminars to present the results of this project, as well as contributing with material towards two courses taught at Johns Hopkins University at both graduate and undergraduate levels.</p><br> <p>  Last Modified: 10/10/2024<br> Modified by: Jeremias&nbsp;Sulam</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This collaborative project funded two teams, one at the University of Denver/Ohio State University, and one at Johns Hopkins University, led by junior PIs: assistant professors J. Sulam (JHU) and Z. Zhu (OSU). The award provided to JHU was $281,251 for a three year project, which ended up extended into a fourth year via a non-cost extension.   This project studied aspects that pertain to the mathematical and algorithmic foundations of artificial intelligence. In particular, the project sought to better understand deep convolutional networks  a class of models that have proven particularly useful and broad range of applications. Despite their wide use, their ability to represent robust predictors, understand their generalization abilities, or insights into how to develop better architectures, remains limited. in this way, this project aimed to apply ideas of parsimonious and sparse representations, which decompose natural data into basic few components and provide a rigorous and elegant mathematical framework to analyze new networks.   On intellectual merits, this project was very successful. It resulted in six publications (three journals and three peer-reviewed conference papers) in some of the premier venues in the field (including JMLR, Neurips, AISTATS, IEEE TSP, among others). In conjunction, these results demonstrate how concepts of low dimensional and sparse models allow for elegant and efficient analytical ideas that can improve our understanding of modern deep network models. We will expand on two central ideas that resulted from this project.   Robust models: Some of the results from this project have proposed to look at sparsity from a new perspective: rather than making strong assumptions about the data (i.e., assuming that it admits a sparse decomposition in some basis) we look at this problem more pragmatically. In (Muthukumar & Sulam, SIMODS, 2023) we provided a framework that can exploit the sparsity obtained in the representations computed by a very broad family of functions (including deep neural networks) whenever present without making strong distributional assumptions. We showed how our framework allows to construct tighter (i.e. better) robustness certificates against input perturbations. These certificates provide a mathematical proof that a predictor will not change its output significantly when corrupted by a potentially malicious actor in specific settings, thereby providing precise guarantees on the robustness of the obtained models.   Generalization guarantees: Generalization guarantees allow us to understand how well a given predictor will generalize, or perform, in unseen data based on their performance on training data. These statements are fundamental in machine learning, as they allow us to understand how well trained predictors can perform in future data when deployed. Yet, this kind of results have been limited for modern deep learning models, and the bounds tend to be too pessimistic to capture the true expected performance. A key result from this project is the observation that leveraging the sparsity that naturally exists in representations of data can be employed to derive better generalization guarantees for deep neural networks. In (Muthukumar & Sulam, COLT, 2023), we showed how to construct generalization bounds that make use of the sparsity observed in these functions, without making strong distributional assumptions. Our results demonstrate that these ideas allow for significantly better results than the state of the art.   This project was also very successful in its broader impacts. The project supported part of the work of the PI and a full graduate student in computer science through most of his graduate studies. In this way, the project was central to training the graduate student in fundamental concepts of statistical learning and parsimonious models. The project further supported two other graduate students for a small number of months in the context of research internships in the PIs lab. This award also provided research internship opportunities for both undergraduate and high school students from underrepresented backgrounds, in collaboration with the WISE program at JHU. This award further allowed the members of the team to attend scientific meetings, conferences and seminars to present the results of this project, as well as contributing with material towards two courses taught at Johns Hopkins University at both graduate and undergraduate levels.     Last Modified: 10/10/2024       Submitted by: JeremiasSulam]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

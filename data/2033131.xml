@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RII Track-4: Pressure Tuning of Magnetic Topological Insulators using Synchrotron X-ray Techniques]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>212530.00</AwardTotalIntnAmount>
+<AwardAmount>212530</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060100</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OIA</Abbreviation>
+<LongName>OIA-Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jose Colom</SignBlockName>
+<PO_EMAI>jcolom@nsf.gov</PO_EMAI>
+<PO_PHON>7032927088</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Quantum technology, such as quantum computing and spintronics, transitions quantum mechanical properties into practical applications. The key to accelerate this technology is to understand the fundamental physical properties governed by quantum mechanics in novel materials. This EPSCoR project aims to develop a new experimental approach to advance the fundamental understanding of quantum magnetic materials. Specifically, modern synchrotron X-ray techniques combined with external pressure, a controllable degree of freedom, will be used to reveal the complex and exotic quantum phenomena in newly discovered materials incorporating intrinsic magnetism with non-trivial electronic structure. The microscopic insights gained in this project will guide the material design for desired functional properties. This support will strengthen the collaborative efforts between University of Alabama at Birmingham (UAB) and Advanced Photon Source (APS) at Argonne National Laboratory (ANL). It allows the PI’s group to gain full exposure to the state-of-the-art synchrotron facilities at APS and develop new technique that will expand the research capability at UAB. &lt;br/&gt;&lt;br/&gt;The goals of the proposed research are to unravel the intriguing interplay of magnetic properties with the Dirac fermions and reveal rich quantum phases by applying external pressure. The proposed research will develop a novel experimental approach to study the interplay of magnetic order and nontrivial topology and provide feedback to synthetic design of novel quantum materials. Using pressure as a tuning knob, interplay of crystal structure and magnetism will be established. The proposal adopts a combined experimental approach using the state-of-the-art synchrotron spectroscopy, X-ray diffraction, transport, and diamond anvil cell technology. Magnetic, transport, and structural properties of two model magnetic topological insulators, EuSn2Pn2 and EuMnBi2 will be investigated systematically. This EPSCoR project will enable PI’s research group to perform collaborative research at the Advanced Photon Source (APS), Argonne National Laboratory (ANL). These activities will offer invaluable learning experience on the frontier synchrotron techniques through extensive interactions with the well-established experts at ANL, thus promoting the career development of next-generation scientists.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033131</AwardID>
+<Investigator>
+<FirstName>Wenli</FirstName>
+<LastName>Bi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wenli Bi</PI_FULL_NAME>
+<EmailAddress><![CDATA[wbi@uab.edu]]></EmailAddress>
+<NSF_ID>000808646</NSF_ID>
+<StartDate>12/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Alabama at Birmingham]]></Name>
+<CityName>BIRMINGHAM</CityName>
+<ZipCode>352940001</ZipCode>
+<PhoneNumber>2059345266</PhoneNumber>
+<StreetAddress><![CDATA[701 S 20TH STREET]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YND4PLMC9AN7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA AT BIRMINGHAM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama at Birmingham]]></Name>
+<CityName>Birmingham</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>352940001</ZipCode>
+<StreetAddress><![CDATA[1720 2nd Ave South]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>721700</Code>
+<Text>EPSCoR Research Infrastructure</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~212530</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div id="WACViewPanel_ClipboardElement" class="WACEditing EditMode EditingSurfaceBody FireFox WACViewPanel_DisableLegacyKeyCodeAndCharCode usehover" style="overflow: hidden; visibility: visible; direction: ltr;">  <div class="OutlineElement Ltr SCXW148913805 BCX2" style="direction: ltr;">  <p class="Paragraph SCXW148913805 BCX2" style="font-weight: normal; font-style: normal; vertical-align: baseline; background-color: transparent; color: windowtext; text-align: left; margin: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px;"><span class="TextRun SCXW148913805 BCX2" style="font-size: 12pt; line-height: 17.2667px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;" lang="EN-US"><span class="NormalTextRun SCXW148913805 BCX2">This project </span><span class="NormalTextRun SCXW148913805 BCX2">explored the effect of high pressure on intrinsic topological magnets</span><span class="NormalTextRun SCXW148913805 BCX2">, focusing on Eu-based systems</span><span class="NormalTextRun SCXW148913805 BCX2">. This award </span><span class="NormalTextRun SCXW148913805 BCX2">has supported the PI</span><span class="NormalTextRun SCXW148913805 BCX2">&rsquo;s group</span><span class="NormalTextRun SCXW148913805 BCX2"> experimental visits </span><span class="NormalTextRun SCXW148913805 BCX2">to</span><span class="NormalTextRun SCXW148913805 BCX2"> the Advanced Photon Source (APS) of Argonne National Laboratory (ANL). This support enables collaborations with</span><span class="NormalTextRun SCXW148913805 BCX2"> leading</span><span class="NormalTextRun SCXW148913805 BCX2"> scientists at </span><span class="NormalTextRun SCXW148913805 BCX2">state-of-the-art</span><span class="NormalTextRun SCXW148913805 BCX2"> synchrotron facilities</span><span class="NormalTextRun SCXW148913805 BCX2">. These efforts </span><span class="NormalTextRun SCXW148913805 BCX2">provided</span><span class="NormalTextRun SCXW148913805 BCX2"> </span><span class="NormalTextRun SCXW148913805 BCX2">the in</span><span class="NormalTextRun SCXW148913805 BCX2">valuable</span><span class="NormalTextRun SCXW148913805 BCX2"> </span><span class="NormalTextRun SCXW148913805 BCX2">opportunities to develop </span><span class="NormalTextRun SCXW148913805 BCX2">expertise</span><span class="NormalTextRun SCXW148913805 BCX2"> </span><span class="NormalTextRun SCXW148913805 BCX2">in</span><span class="NormalTextRun SCXW148913805 BCX2"> advanced synchrotron techniques, </span><span class="NormalTextRun SCXW148913805 BCX2">including</span><span class="NormalTextRun SCXW148913805 BCX2"> X-ray diffraction, X-ray absorption spectroscopy, and synchrotron M&ouml;ssbauer spectroscopy.&nbsp;</span></span><span class="EOP SCXW148913805 BCX2" style="font-size: 12pt; line-height: 17.2667px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;">&nbsp;</span></p>  </div>  <div class="OutlineElement Ltr SCXW148913805 BCX2" style="direction: ltr;">  <p class="Paragraph SCXW148913805 BCX2" style="font-weight: normal; font-style: normal; vertical-align: baseline; background-color: transparent; color: windowtext; text-align: left; margin: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px;"><span class="TextRun SCXW148913805 BCX2" style="font-size: 12pt; line-height: 17.2667px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;" lang="EN-US"><span class="NormalTextRun SCXW148913805 BCX2">&nbsp;</span></span><span class="EOP SCXW148913805 BCX2" style="font-size: 12pt; line-height: 17.2667px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;">&nbsp;</span></p>  </div>  <div class="OutlineElement Ltr SCXW148913805 BCX2" style="direction: ltr;">  <p class="Paragraph SCXW148913805 BCX2" style="font-weight: normal; font-style: normal; vertical-align: baseline; background-color: transparent; color: windowtext; text-align: left; margin: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px;"><span class="TextRun SCXW148913805 BCX2" style="font-size: 12pt; line-height: 17.2667px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;" lang="EN-US"><span class="NormalTextRun SCXW148913805 BCX2">A series of</span><span class="NormalTextRun SCXW148913805 BCX2"> synchrotron X-ray experiments </span><span class="NormalTextRun SCXW148913805 BCX2">were conducted under</span><span class="NormalTextRun SCXW148913805 BCX2"> high pressure and </span><span class="NormalTextRun SCXW148913805 BCX2">various temperatures</span><span class="NormalTextRun SCXW148913805 BCX2"> to investigate the magnetic state, valence, and crystal structure in the proposed Eu-based magnets. </span><span class="NormalTextRun SCXW148913805 BCX2">The results revealed that</span><span class="NormalTextRun SCXW148913805 BCX2"> applying pressure</span><span class="NormalTextRun SCXW148913805 BCX2"> leads to a continuous increase in </span><span class="NormalTextRun SCXW148913805 BCX2">magnetic ordering temperature</span><span class="NormalTextRun SCXW148913805 BCX2">, despite the valence transition from divalent toward trivalent in Eu ions. This enhancement is attributed to pressure-induced orbital mixing.</span><span class="NormalTextRun SCXW148913805 BCX2"> The rich phase phenomena </span><span class="NormalTextRun SCXW148913805 BCX2">observed</span><span class="NormalTextRun SCXW148913805 BCX2"> under pressure provide insights into the interplay between </span><span class="NormalTextRun SCXW148913805 BCX2">magnetic, electronic, and structural phases in these materials.&nbsp;</span></span><span class="EOP SCXW148913805 BCX2" style="font-size: 12pt; line-height: 17.2667px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;">&nbsp;</span></p>  </div>  <div class="OutlineElement Ltr SCXW148913805 BCX2" style="direction: ltr;">  <p class="Paragraph SCXW148913805 BCX2" style="font-weight: normal; font-style: normal; vertical-align: baseline; background-color: transparent; color: windowtext; text-align: left; margin: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px;"><span class="TextRun SCXW148913805 BCX2" style="font-size: 12pt; line-height: 17.2667px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;" lang="EN-US"><span class="NormalTextRun SCXW148913805 BCX2">&nbsp;</span></span><span class="EOP SCXW148913805 BCX2" style="font-size: 12pt; line-height: 17.2667px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;">&nbsp;</span></p>  </div>  <div class="OutlineElement Ltr SCXW148913805 BCX2" style="direction: ltr;">  <p class="Paragraph SCXW148913805 BCX2" style="font-weight: normal; font-style: normal; vertical-align: baseline; background-color: transparent; color: windowtext; text-align: left; margin: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px;"><span class="TextRun SCXW148913805 BCX2" style="font-size: 12pt; line-height: 17.2667px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;" lang="EN-US"><span class="NormalTextRun SCXW148913805 BCX2">The project also made significant contributions to education and students&rsquo; career development. </span><span class="NormalTextRun SCXW148913805 BCX2">Through the project, the PI has mentored </span><span class="NormalTextRun SCXW148913805 BCX2">three</span><span class="NormalTextRun SCXW148913805 BCX2"> </span><span class="NormalTextRun SCXW148913805 BCX2">graduate</span><span class="NormalTextRun SCXW148913805 BCX2">, </span><span class="NormalTextRun SCXW148913805 BCX2">two</span><span class="NormalTextRun SCXW148913805 BCX2"> </span><span class="NormalTextRun SCXW148913805 BCX2">undergraduate</span><span class="NormalTextRun SCXW148913805 BCX2">, </span><span class="NormalTextRun SCXW148913805 BCX2">one</span><span class="NormalTextRun SCXW148913805 BCX2"> </span><span class="NormalTextRun SCXW148913805 BCX2">high</span><span class="NormalTextRun SCXW148913805 BCX2"> student, and </span><span class="NormalTextRun SCXW148913805 BCX2">one</span><span class="NormalTextRun SCXW148913805 BCX2"> postdoc</span><span class="NormalTextRun SCXW148913805 BCX2"> scholar</span><span class="NormalTextRun SCXW148913805 BCX2">. Th</span><span class="NormalTextRun SCXW148913805 BCX2">e trainees</span><span class="NormalTextRun SCXW148913805 BCX2"> received training in </span><span class="NormalTextRun SCXW148913805 BCX2">hands-on skills in </span><span class="NormalTextRun SCXW148913805 BCX2">high pressure physics, optics, cryogenic</span><span class="NormalTextRun SCXW148913805 BCX2">s</span><span class="NormalTextRun SCXW148913805 BCX2">, synchrotron beamline </span><span class="NormalTextRun SCXW148913805 BCX2">operation</span><span class="NormalTextRun SCXW148913805 BCX2">, </span><span class="NormalTextRun SCXW148913805 BCX2">and</span><span class="NormalTextRun SCXW148913805 BCX2"> data analysis</span><span class="NormalTextRun SCXW148913805 BCX2">, and scientific communication. The</span><span class="NormalTextRun SCXW148913805 BCX2">y</span><span class="NormalTextRun SCXW148913805 BCX2"> were supervised to present</span><span class="NormalTextRun SCXW148913805 BCX2"> their findings at</span><span class="NormalTextRun SCXW148913805 BCX2"> local, regional, and national conferences</span><span class="NormalTextRun SCXW148913805 BCX2">,</span><span class="NormalTextRun SCXW148913805 BCX2"> improv</span><span class="NormalTextRun SCXW148913805 BCX2">ing</span><span class="NormalTextRun SCXW148913805 BCX2"> their scientific communication skills and </span><span class="NormalTextRun SCXW148913805 BCX2">broadening the impact of their research</span><span class="NormalTextRun SCXW148913805 BCX2">. The extensive training has </span><span class="NormalTextRun SCXW148913805 BCX2">greatly facilitated</span><span class="NormalTextRun SCXW148913805 BCX2"> career advancements, </span><span class="NormalTextRun SCXW148913805 BCX2">including</span><span class="NormalTextRun SCXW148913805 BCX2"> </span><span class="NormalTextRun SCXW148913805 BCX2">two undergraduate students </span><span class="NormalTextRun SCXW148913805 BCX2">successfully transitioning to</span><span class="NormalTextRun SCXW148913805 BCX2"> prestigious graduate programs and achieving competitive scholarships such as NSF Graduate Research Fellowship.&nbsp;</span></span><span class="EOP SCXW148913805 BCX2" style="font-size: 12pt; line-height: 17.2667px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;">&nbsp;</span></p>  </div>  <div class="OutlineElement Ltr SCXW148913805 BCX2" style="direction: ltr;">  <p class="Paragraph SCXW148913805 BCX2" style="font-weight: normal; font-style: normal; vertical-align: baseline; background-color: transparent; color: windowtext; text-align: left; margin: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px;"><span class="TextRun SCXW148913805 BCX2" style="font-size: 12pt; line-height: 17.2667px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;" lang="EN-US">&nbsp;</span><span class="EOP SCXW148913805 BCX2" style="font-size: 12pt; line-height: 17.2667px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;">&nbsp;</span></p>  </div>  <div class="OutlineElement Ltr SCXW148913805 BCX2" style="direction: ltr;">  <p class="Paragraph SCXW148913805 BCX2" style="font-weight: normal; font-style: normal; vertical-align: baseline; background-color: transparent; color: windowtext; text-align: left; margin: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px;"><span class="TextRun SCXW148913805 BCX2" style="font-size: 12pt; line-height: 17.2667px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;" lang="EN-US">&nbsp;</span><span class="EOP SCXW148913805 BCX2" style="font-size: 12pt; line-height: 17.2667px; font-family: Calibri, &quot;Calibri_EmbeddedFont&quot;, &quot;Calibri_MSFontService&quot;, sans-serif;"> <br /></span></p>  </div>  </div><br> <p>  Last Modified: 12/27/2024<br> Modified by: Wenli&nbsp;Bi</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      This project explored the effect of high pressure on intrinsic topological magnets, focusing on Eu-based systems. This award has supported the PIs group experimental visits to the Advanced Photon Source (APS) of Argonne National Laboratory (ANL). This support enables collaborations with leading scientists at state-of-the-art synchrotron facilities. These efforts provided the invaluable opportunities to develop expertise in advanced synchrotron techniques, including X-ray diffraction, X-ray absorption spectroscopy, and synchrotron Mssbauer spectroscopy.                A series of synchrotron X-ray experiments were conducted under high pressure and various temperatures to investigate the magnetic state, valence, and crystal structure in the proposed Eu-based magnets. The results revealed that applying pressure leads to a continuous increase in magnetic ordering temperature, despite the valence transition from divalent toward trivalent in Eu ions. This enhancement is attributed to pressure-induced orbital mixing. The rich phase phenomena observed under pressure provide insights into the interplay between magnetic, electronic, and structural phases in these materials.                The project also made significant contributions to education and students career development. Through the project, the PI has mentored three graduate, two undergraduate, one high student, and one postdoc scholar. The trainees received training in hands-on skills in high pressure physics, optics, cryogenics, synchrotron beamline operation, and data analysis, and scientific communication. They were supervised to present their findings at local, regional, and national conferences, improving their scientific communication skills and broadening the impact of their research. The extensive training has greatly facilitated career advancements, including two undergraduate students successfully transitioning to prestigious graduate programs and achieving competitive scholarships such as NSF Graduate Research Fellowship.                           Last Modified: 12/27/2024       Submitted by: WenliBi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

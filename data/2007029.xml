@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FET: Small: Embracing the dropouts in high-throughput genomics analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>264900.00</AwardTotalIntnAmount>
+<AwardAmount>264900</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephanie Gage</SignBlockName>
+<PO_EMAI>sgage@nsf.gov</PO_EMAI>
+<PO_PHON>7032924748</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Genomics is a fast evolving field that has led to many advances in data-acquisition technologies at the molecular level and analytics algorithms for high-dimensional data, as well as discoveries of biological insights and mechanisms. This project aims to develop data-analytics algorithms to address computational challenges in genomics. Genomics analyses often generate complex datasets that are large in size and high in dimensionality. In addition, the datasets often contain considerable amounts of missing values, which makes computational analysis and biological interpretation quite challenging. In almost all existing computational algorithms, the missing values are treated as a problem to be fixed. In contrast, this project takes a novel view of the missing values, and considers them as useful signals. This is a unique perspective, opposite to the common assumptions on missing values in the literature. Developing and establishing this perspective has the potential to reveal new biological insights, inspire new directions for algorithmic developments, and generate educational and training opportunities in terms of both course materials and research activities. &lt;br/&gt;&lt;br/&gt;The goal of this project is to examine the utility of missing values in two types of genomic analyses. Aim 1 of this project focuses on single-cell RNA-sequencing analysis. Since signals at the single-cell level are typically quite low and stochastic, single-cell RNA sequencing often produces gene-expression datasets that are highly sparse, with the percentage of zeros typically greater than 90%. This aim will develop and validate algorithms to identify and cluster cell types based on the missing values in single-cell RNA sequencing data. Aim 2 of this project focuses on bulk-tissue RNA-sequencing analysis. Although bulk-tissue RNA sequencing provides stronger signal than single cells, missing values also exist in bulk-tissue data, mainly due to tissue specificity of gene expression. This aim will examine the patterns of missing values across large-scale gene-expression datasets spanning across multiple tissue types and diseases, and explore the utility of missing values in correlating with clinical variables of interest.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007029</AwardID>
+<Investigator>
+<FirstName>Peng</FirstName>
+<LastName>Qiu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peng Qiu</PI_FULL_NAME>
+<EmailAddress><![CDATA[peng.qiu@bme.gatech.edu]]></EmailAddress>
+<NSF_ID>000634648</NSF_ID>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue, NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>089Y00</Code>
+<Text>FET-Fndtns of Emerging Tech</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~264900</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Single-cell technologies have been advancing rapidly in recent years. Single-cell genomic data are able to reveal cellular heterogeneity at unprecedented resolution, and have led to many novel biological discoveries. Since signals at single-cell level are typically quite low and often stochastic, an important characteristic of single-cell data is "dropout", where a genomic feature is observed at a moderate level in one cell but is not detected in another cell of the same cell type. In single-cell data, the percentage of such dropouts is typically &gt;90%, and can be &gt;99% in some cases, making computational analysis challenging. It is straightforward to consider dropouts as a problem to be fixed, which is indeed the approach taken by the majority of existing computational methods for single-cell data. To address the dropouts, almost all existing algorithms include a common preprocessing step of either selecting highly variable features, or performing principle component analysis. Both of these preprocessing ideas aim to focus on genomic features that are less affected by dropouts. In this project, the main intellectual novelty is that dropouts are viewed as a useful signal. One simple example is that the expression of T-cell-specific genes are supposed to be zero in B cells, and hence the zero measurements of T-cell genes in B cells represent a useful signal. Given such a simple example, it is actually quite surprising that the utility of dropout has been ignored in the literature. Therefore, opposite from the majority of the literature, this project embraces dropouts as a useful signal. Through exploration of bulk genomics data and single-cell genomics data, this project has demonstrated the utility of dropouts to identify cell types, predict cancer survival outcomes, and identify drug-specific cancer biomarkers. Overall, this project established a unique perspective to single-cell genomics, opposite to how majority of the research community think about dropouts, which will inspire new directions for algorithm developments in single-cell genomics.</p><br> <p>  Last Modified: 10/05/2024<br> Modified by: Peng&nbsp;Qiu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Single-cell technologies have been advancing rapidly in recent years. Single-cell genomic data are able to reveal cellular heterogeneity at unprecedented resolution, and have led to many novel biological discoveries. Since signals at single-cell level are typically quite low and often stochastic, an important characteristic of single-cell data is "dropout", where a genomic feature is observed at a moderate level in one cell but is not detected in another cell of the same cell type. In single-cell data, the percentage of such dropouts is typically 90%, and can be 99% in some cases, making computational analysis challenging. It is straightforward to consider dropouts as a problem to be fixed, which is indeed the approach taken by the majority of existing computational methods for single-cell data. To address the dropouts, almost all existing algorithms include a common preprocessing step of either selecting highly variable features, or performing principle component analysis. Both of these preprocessing ideas aim to focus on genomic features that are less affected by dropouts. In this project, the main intellectual novelty is that dropouts are viewed as a useful signal. One simple example is that the expression of T-cell-specific genes are supposed to be zero in B cells, and hence the zero measurements of T-cell genes in B cells represent a useful signal. Given such a simple example, it is actually quite surprising that the utility of dropout has been ignored in the literature. Therefore, opposite from the majority of the literature, this project embraces dropouts as a useful signal. Through exploration of bulk genomics data and single-cell genomics data, this project has demonstrated the utility of dropouts to identify cell types, predict cancer survival outcomes, and identify drug-specific cancer biomarkers. Overall, this project established a unique perspective to single-cell genomics, opposite to how majority of the research community think about dropouts, which will inspire new directions for algorithm developments in single-cell genomics.     Last Modified: 10/05/2024       Submitted by: PengQiu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

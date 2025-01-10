@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Template-Free Manufacturing of Regular Microstructures by Ribbing-Enhanced Roll Coating]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>619850.00</AwardTotalIntnAmount>
+<AwardAmount>674850</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linkan Bian</SignBlockName>
+<PO_EMAI>lbian@nsf.gov</PO_EMAI>
+<PO_PHON>7032928136</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>A technology that can reduce the friction or drag on ship hulls would have a substantial economic and environmental impact by improving fuel efficiency. Microstructured superhydrophobic surfaces may retain air pockets that can act as gas lubrication between the water and the ship hull. Although the superhydrophobic surfaces have been studied for nearly two decades, it is only recently that periodic linear-trench structures have been shown to be effective for marine crafts traveling in open water, which represents sea, oceans, and lakes. The manufacturing of such well-defined micro-trenches has relied on silicon-based microfabrication based on semiconductor manufacturing approaches. These silicon processes are prohibitively expensive and not scalable for large surface areas, such as ship hulls. To address these challenges, a team from North Carolina State University and University of California at Los Angeles would like to utilize roll coating methodology, which is well known for cost-effective and large-scale production, to form the periodic microstructures on large substrates. This new process is researched to develop friction-reduction coatings for ship hulls and study their physical and chemical durability. Hence, outcomes from this research will benefit a wide array of marine applications, including commercial and military ships, which play a significant role in the national and global economies and security applications. &lt;br/&gt;&lt;br/&gt;This project is investigates the spontaneous pattern generation by ribbing on polymer surfaces during roll coating in an ordered manner using a fundamentally new approach to manufacture three-dimensional micro and nano-scale structures on a large-area substrate. The objectives are to establish the scientific foundation to control the microstructures formed during the roll coating, and to fabricate and validate the drag reduction efficiency of the surfaces in realistic flow conditions of open water and Reynolds number greater than 1 million. The research team will utilize computational modeling to predict the deformation behavior of the viscoelastic polymer verified by the experimental observations. For the proof-of-concept of drag reduction in realistic flows, a microstructured film and a smooth film will be layered on the bottom of a motorboat specifically outfitted to reliably compare the fluid shear stresses on the two. This project will educate the next generation of engineers and scientists through multidisciplinary research involving manufacturing, materials science, computational modeling, and fluid mechanics. The research outcome will be also used to educate K-12, undergraduate, as well as graduate-level students through various formats such as outreach activities and innovative curricular efforts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031558</AwardID>
+<Investigator>
+<FirstName>Mohammed</FirstName>
+<LastName>Zikry</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mohammed A Zikry</PI_FULL_NAME>
+<EmailAddress><![CDATA[zikry@eos.ncsu.edu]]></EmailAddress>
+<NSF_ID>000410522</NSF_ID>
+<StartDate>08/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jong</FirstName>
+<LastName>Ryu</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jong E Ryu</PI_FULL_NAME>
+<EmailAddress><![CDATA[jryu@ncsu.edu]]></EmailAddress>
+<NSF_ID>000654017</NSF_ID>
+<StartDate>08/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[NC State University]]></Name>
+<CityName>Raleigh</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276957910</ZipCode>
+<StreetAddress><![CDATA[1840 Entrepreneur Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>088Y00</Code>
+<Text>AM-Advanced Manufacturing</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>150400</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1444</Code>
+<Text>SURFACE ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1773</Code>
+<Text>POLYMERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8021</Code>
+<Text>Materials Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8025</Code>
+<Text>Advanced Materials Processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~619850</FUND_OBLG>
+<FUND_OBLG>2023~55000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The objective of this research is to understand the roll-coating process for creating micro-/nano-scale 3D ribbed features on viscoelastic materials reinforced with carbon nanotubes (CNTs). This study aims to develop advanced multifunctional nanocomposite materials with significantly improved behavior, such as super-hydrophobicity, hydrodynamic drag reduction, and high strain-rate damage tolerance. We utilized a combination of experimental methods and computational modeling to analyze how process parameters influence the surface ribbing microstructures. Our findings have been disseminated through nine journal papers and one peer-reviewed conference paper to the manufacturing and material research communities.</p> <p>Key results from this project include the demonstration of a simple, template-free roll-coating technique to fabricate periodic microstructures by shearing viscoelastic composite materials. The CNT-polydimethylsiloxane (PDMS) composites enabled controllable semi-linear ribbing with periodicities ranging from 100s &micro;m, effectively reducing drag. We found that the pressure gradient (dp/dx) of the flow direction significantly affects ribbing instability behavior, and that it can be adjusted through roller gap (or film thickness) and roller speed. Additionally, we developed multi-layer composite films exhibiting a radiative cooling power of 39.1 W/m&sup2;, achieving high infrared absorption/emission (97%), UV-visible reflectivity (96%), and dirt-resistance.</p> <p>Furthermore, we validated a computational model, based on a dynamic finite-element (FE) approach &nbsp;for the symmetric forward-roll coating process of CNT-PDMS thin films, which allowed us to predict and control ribbing microstructures during large-scale rolling. By examining roller gap, rotational speed, and CNT content, we identified critical parameters governing ribbing instabilities, facilitating the design of multifunctional surfaces with properties such as drag reduction, anti-biofouling, superhydrophobicity, and anti-icing. We also investigated the thermomechanical behavior of ribbed thin films under high strain rates for aerospace and defense applications. Additionally, we characterized and modeled the large-strain mechanical behavior and microstructure of CNT-PDMS thin films, focusing on the effects of CNT loading, agglomeration, distribution, and orientation on mechanical performance and fracture behavior. This comprehensive approach allowed for precise control over ribbed and non-ribbed structures, enhancing their surface functionalities and performance across various applications.</p> <p>&nbsp;</p> <p>The broader impacts of this project are evident in the numerous education and career opportunities created for both undergraduate and graduate students. Four Ph.D. students successfully completed their dissertations as part of this research, significantly advancing their academic and professional careers. Additionally, several undergraduate and master&rsquo;s students engaged in research related to this project, gaining invaluable hands-on laboratory experience and the opportunity to present their findings at conferences. Ph.D. graduates from this effort have scientific staff positions in National Laboratories, such as Los Alamos National Laboratory, and leading corporate research centers, such as Intel.</p> <p>Beyond individual student development, this project contributes to the engineering research community by fostering collaboration across disciplines and enhancing knowledge transfer between academia and industry. By addressing real-world challenges through innovative research, we are not only preparing the next generation of engineers but also promoting the application of cutting-edge technologies in various sectors. This engagement helps cultivate a skilled workforce ready to tackle pressing engineering challenges, ultimately benefiting society at large.</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/29/2024<br> Modified by: Jong&nbsp;E&nbsp;Ryu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The objective of this research is to understand the roll-coating process for creating micro-/nano-scale 3D ribbed features on viscoelastic materials reinforced with carbon nanotubes (CNTs). This study aims to develop advanced multifunctional nanocomposite materials with significantly improved behavior, such as super-hydrophobicity, hydrodynamic drag reduction, and high strain-rate damage tolerance. We utilized a combination of experimental methods and computational modeling to analyze how process parameters influence the surface ribbing microstructures. Our findings have been disseminated through nine journal papers and one peer-reviewed conference paper to the manufacturing and material research communities.   Key results from this project include the demonstration of a simple, template-free roll-coating technique to fabricate periodic microstructures by shearing viscoelastic composite materials. The CNT-polydimethylsiloxane (PDMS) composites enabled controllable semi-linear ribbing with periodicities ranging from 100s m, effectively reducing drag. We found that the pressure gradient (dp/dx) of the flow direction significantly affects ribbing instability behavior, and that it can be adjusted through roller gap (or film thickness) and roller speed. Additionally, we developed multi-layer composite films exhibiting a radiative cooling power of 39.1 W/m&sup2;, achieving high infrared absorption/emission (97%), UV-visible reflectivity (96%), and dirt-resistance.   Furthermore, we validated a computational model, based on a dynamic finite-element (FE) approach for the symmetric forward-roll coating process of CNT-PDMS thin films, which allowed us to predict and control ribbing microstructures during large-scale rolling. By examining roller gap, rotational speed, and CNT content, we identified critical parameters governing ribbing instabilities, facilitating the design of multifunctional surfaces with properties such as drag reduction, anti-biofouling, superhydrophobicity, and anti-icing. We also investigated the thermomechanical behavior of ribbed thin films under high strain rates for aerospace and defense applications. Additionally, we characterized and modeled the large-strain mechanical behavior and microstructure of CNT-PDMS thin films, focusing on the effects of CNT loading, agglomeration, distribution, and orientation on mechanical performance and fracture behavior. This comprehensive approach allowed for precise control over ribbed and non-ribbed structures, enhancing their surface functionalities and performance across various applications.      The broader impacts of this project are evident in the numerous education and career opportunities created for both undergraduate and graduate students. Four Ph.D. students successfully completed their dissertations as part of this research, significantly advancing their academic and professional careers. Additionally, several undergraduate and masters students engaged in research related to this project, gaining invaluable hands-on laboratory experience and the opportunity to present their findings at conferences. Ph.D. graduates from this effort have scientific staff positions in National Laboratories, such as Los Alamos National Laboratory, and leading corporate research centers, such as Intel.   Beyond individual student development, this project contributes to the engineering research community by fostering collaboration across disciplines and enhancing knowledge transfer between academia and industry. By addressing real-world challenges through innovative research, we are not only preparing the next generation of engineers but also promoting the application of cutting-edge technologies in various sectors. This engagement helps cultivate a skilled workforce ready to tackle pressing engineering challenges, ultimately benefiting society at large.        Last Modified: 10/29/2024       Submitted by: JongERyu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

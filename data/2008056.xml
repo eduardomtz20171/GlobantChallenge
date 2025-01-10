@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: Inter-Request Workflow and Dataflow in Web Applications: a Modeling Framework and its Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>350000.00</AwardTotalIntnAmount>
+<AwardAmount>350000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol Greenspan</SignBlockName>
+<PO_EMAI>sgreensp@nsf.gov</PO_EMAI>
+<PO_PHON>7032927841</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Web applications have become a major platform to deliver various services to the general public, largely due to the increasing popularity of cloud services for hosting web applications and handheld devices for accessing web applications. Poor-quality web applications can lead to significant problems, including user dissatisfaction and financial losses. A key challenge imposed by web applications is due to their request-driven nature; they expose services to users and serve requests with application-defined request-handler methods. Under this request-driven paradigm, inter-request control and data dependencies exist although each request is served independently. However, tracking these dependencies across requests is challenging because of the diversity and complexity of languages and frameworks for implementing web applications. Existing techniques targeting web applications lack any inter-request analysis capability, and they may miss performance-optimization opportunities and security issues that can only be exposed in the inter-request context.&lt;br/&gt;&lt;br/&gt;This project promotes inter-request analysis to handle the problems just cited. To build a solid foundation for inter-request analysis, this project designs and develops techniques that can effectively and efficiently capture and express control and data dependencies across requests. The proposed techniques combine statistical mining approaches with a hybrid of static and dynamic analyses. The generated workflow and dataflow models provide necessary inter-request knowledge for various analyses to extend the scope. With the inter-request workflow- and dataflow-modeling framework, this project explores performance optimization and workflow monitoring to improve the quality of web applications regarding performance, correctness, and security. From the success of previous research on inter-procedural and inter-thread analyses for handling the abstraction of procedures and threads, the concept of inter-request analysis can greatly benefit web applications and other request-driven applications through both technique development and student education.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008056</AwardID>
+<Investigator>
+<FirstName>Guoliang</FirstName>
+<LastName>Jin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guoliang Jin</PI_FULL_NAME>
+<EmailAddress><![CDATA[gjin2@ncsu.edu]]></EmailAddress>
+<NSF_ID>000701812</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate>08/22/2023</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ruozhou</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ruozhou Yu</PI_FULL_NAME>
+<EmailAddress><![CDATA[ryu5@ncsu.edu]]></EmailAddress>
+<NSF_ID>000812900</NSF_ID>
+<StartDate>08/22/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>Raleigh</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276958206</ZipCode>
+<StreetAddress><![CDATA[890 Oval Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~350000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="Default"><strong>Intellectual Merit:</strong> The project introduced the concept of inter-request analysis, developing innovative techniques to effectively capture and express control and data dependencies across web application requests. These techniques combined statistical mining with hybrid static and dynamic analyses to generate comprehensive workflow and dataflow models. These models enable deeper insights into performance optimization and workflow monitoring, significantly enhancing the quality of web applications in terms of performance, correctness, and security.</p> <p class="Default">&nbsp;</p> <p class="Default">With our modeling framework, we were able to identify performance optimization opportunities and suggest possible optimization strategies. To enrich the types of performance inefficiencies that can be detected and optimized, we conducted an extensive study of real-world performance bugs. By analyzing these bugs, we learned common patterns and developed corresponding fixing strategies. Our research focused on understanding how these inefficiencies occur and devising methods to mitigate them. On the concurrency front, we developed an approach to model happens-before relationships between web application requests. This approach helps in identifying races, which occur when multiple requests interfere with each other in unintended ways. Using this model, we created a dynamic race detection tool capable of detecting server-side races with a low false positive rate. This tool is crucial for maintaining the integrity and performance of web applications. Further studies on server-side races and deadlocks in web applications revealed unique characteristics and complexities, which were previously unexplored. These findings have provided a deeper understanding of how web applications operate under concurrent request conditions and have led to new techniques for detecting and resolving these issues.</p> <p class="Default">&nbsp;</p> <p class="Default">Additionally, the project investigated request races that break the idempotency of request handlers, which ensure that repeated requests do not cause unintended side effects. We provided guidance to developers on building idempotent request handlers effectively and developed static analysis techniques to identify potential request races. Our findings help programmers understand the relationship between request races and idempotency, offering essential guidance on building reliable web applications.</p> <p class="Default">&nbsp;</p> <p class="Default">We also examined exception-handling bugs in web applications, categorizing them into missing handling bugs and improper handling bugs. Our results indicate that missing handling bugs are more common and should be the focus of future research. The detailed characterization from our study will guide the design of tools to detect and fix these bugs, further improving the reliability of web applications.</p> <p class="Default">&nbsp;</p> <p class="Default"><strong>Broader Impacts:</strong> The outcomes of this project have far-reaching impacts beyond the immediate scope of web application development. By improving the performance and reliability of web applications, the techniques developed can benefit a wide array of disciplines that rely on web-based services. This includes not only technology sectors but also any field that utilizes web applications to deliver services to the public, such as healthcare, education, and government services.</p> <p class="Default">&nbsp;</p> <p class="Default">The project also contributed significantly to human resource development by training PhD students in various aspects of web application development. They gained experience in bug characterization, tool implementation, experimental evaluation, and result interpretation. This comprehensive training equipped them with valuable skills and knowledge, advancing their academic and professional careers and preparing them to contribute effectively to the tech industry and academia.</p> <p class="Default">&nbsp;</p> <p class="Default">Overall, the project's advancements in web application analysis and optimization promise to enhance the user experience and operational efficiency of web services. By ensuring more reliable and performant web applications, this research benefits society at large. Users can enjoy smoother, faster, and more secure web experiences, which is increasingly important in our digital age where so much of our daily lives depend on web applications. This project not only advances the state of web application technology but also provides crucial insights and tools that can be used by developers worldwide to build better, more efficient web applications.</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/07/2024<br> Modified by: Ruozhou&nbsp;Yu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit: The project introduced the concept of inter-request analysis, developing innovative techniques to effectively capture and express control and data dependencies across web application requests. These techniques combined statistical mining with hybrid static and dynamic analyses to generate comprehensive workflow and dataflow models. These models enable deeper insights into performance optimization and workflow monitoring, significantly enhancing the quality of web applications in terms of performance, correctness, and security.      With our modeling framework, we were able to identify performance optimization opportunities and suggest possible optimization strategies. To enrich the types of performance inefficiencies that can be detected and optimized, we conducted an extensive study of real-world performance bugs. By analyzing these bugs, we learned common patterns and developed corresponding fixing strategies. Our research focused on understanding how these inefficiencies occur and devising methods to mitigate them. On the concurrency front, we developed an approach to model happens-before relationships between web application requests. This approach helps in identifying races, which occur when multiple requests interfere with each other in unintended ways. Using this model, we created a dynamic race detection tool capable of detecting server-side races with a low false positive rate. This tool is crucial for maintaining the integrity and performance of web applications. Further studies on server-side races and deadlocks in web applications revealed unique characteristics and complexities, which were previously unexplored. These findings have provided a deeper understanding of how web applications operate under concurrent request conditions and have led to new techniques for detecting and resolving these issues.      Additionally, the project investigated request races that break the idempotency of request handlers, which ensure that repeated requests do not cause unintended side effects. We provided guidance to developers on building idempotent request handlers effectively and developed static analysis techniques to identify potential request races. Our findings help programmers understand the relationship between request races and idempotency, offering essential guidance on building reliable web applications.      We also examined exception-handling bugs in web applications, categorizing them into missing handling bugs and improper handling bugs. Our results indicate that missing handling bugs are more common and should be the focus of future research. The detailed characterization from our study will guide the design of tools to detect and fix these bugs, further improving the reliability of web applications.      Broader Impacts: The outcomes of this project have far-reaching impacts beyond the immediate scope of web application development. By improving the performance and reliability of web applications, the techniques developed can benefit a wide array of disciplines that rely on web-based services. This includes not only technology sectors but also any field that utilizes web applications to deliver services to the public, such as healthcare, education, and government services.      The project also contributed significantly to human resource development by training PhD students in various aspects of web application development. They gained experience in bug characterization, tool implementation, experimental evaluation, and result interpretation. This comprehensive training equipped them with valuable skills and knowledge, advancing their academic and professional careers and preparing them to contribute effectively to the tech industry and academia.      Overall, the project's advancements in web application analysis and optimization promise to enhance the user experience and operational efficiency of web services. By ensuring more reliable and performant web applications, this research benefits society at large. Users can enjoy smoother, faster, and more secure web experiences, which is increasingly important in our digital age where so much of our daily lives depend on web applications. This project not only advances the state of web application technology but also provides crucial insights and tools that can be used by developers worldwide to build better, more efficient web applications.        Last Modified: 08/07/2024       Submitted by: RuozhouYu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

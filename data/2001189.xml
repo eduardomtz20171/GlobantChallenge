@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Unraveling biofilm matrix composition, architecture, and function]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>999999.00</AwardTotalIntnAmount>
+<AwardAmount>999999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Engin Serpersu</SignBlockName>
+<PO_EMAI>eserpers@nsf.gov</PO_EMAI>
+<PO_PHON>7032927124</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Bacteria are essential to life as we know it and colonize and thrive in astonishing environments, ranging from within the human host to the acidic microbial mats in Yellowstone and industrial oil pipelines. The propensity for bacteria to form multicellular communities termed biofilms far exceeds the tendency to persist in suspension. Bacteria secrete and surround themselves with molecular polymers as building materials to enmesh and protect resident bacteria in slime-like assemblies. The PI’s recent work revealed the assembly of extraordinary mechanically robust basket-like architectures surrounding E. coli cells in biofilms and led to the discovery of a new chemical structure never before observed in nature within these baskets. Cellulose is the most abundant biopolymer on Earth, present in the cell walls of plants and trees, leading to wood, paper, and cotton products. Other industries also employ methods to modify standard cellulose through synthetic routes for desirable properties and are used as food additives and in membrane and biotechnology applications. E. coli produces its own uniquely modified form of cellulose with phosphoethanolamine groups through newly defined molecular machinery. This project tackles crucial questions involving nature’s phosphoethanolamine (pEtN) cellulose: its modification patterning, its physical properties and potential for application in new industrial materials, and the molecular basis for the assembly of the full polysaccharide-protein nanocomposite structures. This project will fuel new research directions with implications for bacterial physiology; glycobiology; and industrial applications including the production of new materials and uses in renewable energy. The PI communicates scientific concepts and discoveries through scientific and educational research articles targeted to broad audiences. This project will train undergraduate and graduate students, particularly those from groups under-represented in STEM. The PI is designing coursework changes to introduce more quantitative concepts and hands-on course-based undergraduate research experiences (CUREs) into undergraduate chemistry courses.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project will integrate biochemical analysis with characterization of polymer strength and materials properties, electron microscopy, fluorescence microscopy, solid-state NMR spectroscopy and mass spectrometry to: (1) deliver a fundamental understanding of the molecular patterning and physical properties of the zwitterionic phosphoethanolamine cellulose; (2) determine the influence of the cellulose modification on the Velcro-like association of curli at the bacterial cell surface; (3) define atomic-level parameters corresponding to molecular interactions between curli and pEtN cellulose in native bacterial composites in situ and highly tuned complexes formed in vitro. In addition to revealing the fundamental chemical principles underlying biofilm matrix assemblies, the work will introduce new methods for the production of pEtN cellulose and isotopically labeled matrix materials, and provide unprecedented atomic- level analysis of insoluble matrix materials that pose a challenge to analysis by conventional methods. The project may serve to reveal a new paradigm for understanding the molecular basis of other amyloid- polysaccharide interactions, prevalent not only in microorganisms but also in eukaryotic cell systems and should inspire the search for alternately modified celluloses and polysaccharides. This project is supported by the Molecular Biophysics Cluster of the Molecular and Cellular Biosciences Division in the Directorate for Biological Sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001189</AwardID>
+<Investigator>
+<FirstName>Lynette</FirstName>
+<LastName>Cegelski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lynette Cegelski</PI_FULL_NAME>
+<EmailAddress><![CDATA[cegelski@stanford.edu]]></EmailAddress>
+<NSF_ID>000533685</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>943052004</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>114400</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~999999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Intellectual Merit.</strong>&nbsp; Bacteria are essential to life on Earth and thrive in astonishing environments, typically in multicellular communities termed biofilms. These bacteria secrete and surround themselves with biopolymers in highly woven architectures. Our project was directed to understand the extraordinary assembly of complex structures that organisms engineer to surround and protect themselves. Important genetic and molecular determinants of biofilm formation are typically elucidated for organisms to provide a basic parts list of the extracellular matrix (ECM). Yet, formidable challenges exist in generating a complete accounting of the parts and in understanding how the parts function. We and others utilize proteomics and mass spectrometry to identify soluble components from chemically digested samples, but significant ECM remains insoluble and escapes detection by conventional methods. We have shown solid-state NMR to be a powerful tool for analysis of matrix composition and architecture. We previously made surprising discoveries by examining the <em>E. coli </em>ECM, identifying a new chemical structure never before observed in nature - phosphoethanolamine cellulose. The commonly studied bacterium had been assumed for decades to be producing ordinary cellulose, based on conventional detection methods. Our non-perturbative examination of the intact matrix polymers by solid-state NMR served as a unique discovery tool for this new polymer. We identified the genetic and molecular basis for installation of the phosphoethanolamine modification, revealing BcsG as a phosphoethanolamine transferase enzyme.</p>  <p>In this project, we defined differences in composition among <em>E. coli</em> biofilms. We used comparisons to connect the role of curli amyloid that are co-produced in their biofilms as contributing more to adhesion while phosphoethanolamine cellulose contributes more to cohesion. We revealed plasticity in matrix assembly, with some strains producing more than twice the amount of cellulose relative to curli and we connected this chemistry to phenotypes that previously were unexplained. We discovered that the small molecule and natural product nordihydroguaiaretic acid (NDGA) inhibits curli amyloid production in <em>E. coli</em>, but allows production of phosphoethanolamine cellulose. This emphasized the ability to identify bioactive amyloid assembly inhibitors using the powerful gene-directed amyloid biogenesis machinery in&nbsp;<em>E. coli</em> and provides a convenient small-molecule tool to suppress curli in different strains in order to have them selectively produce their polysaccharide component(s). To transform our understanding of the structural biology of the cellulose synthase secretion machinery at atomic-level, we partnered in major collaborative studies using cryo-electron microscopy to determine total structures of the pEtN cellulose secretion machinery, ultimately revealing that the N-terminal cytosolic domain of BcsA positions BcsG as a trimer near the nascent cellulose polymer. Here, we also introduced new rigorous methodology for validation and purification of pEtN cellulose from engineered strains producing pEtN cellulose in the periplasm instead of secreting it extracellularly.</p>  <p>Expanding the solid-state NMR platform to other fascinating expolysaccharides in nature, we quantified acetylation, pyruvylation, and succinylation modifications of Exopolysaccharide I (EPS I) and EPS II of S<em>inorhizobium meliloti</em>&nbsp;which fixes nitrogen for plants in biofilm-like communities in root nodules in the soil. Through integrating bioinformatics, genetic and biochemical tests, and solid-state NMR, we also uncovered a new pyruvyltransferase, WgaE. Finally, there is hardly a more remarkable transformation in nature than the metamorphosis of caterpillar to butterfly. This metamorphosis is an awe-inspiring example of how extraordinary functions are made possible through specific chemistry in nature's complex systems. We employed solid-state NMR with proteomics and biochemistry and revealed the chemical and molecular composition in chrysalides from which Monarch and Swallowtail butterflies emerged. Chitin is the second most abundant biopolymer on earth and the chrysalides contained 40-45% chitin - among the highest percentage observed in insect systems.&nbsp;Together with cuticular proteins, the chrysalis chemistry shares commonality with bacterial baskets in the production of protein-polysaccharide composites that provide essential barrier and protective functions.</p>  <p><strong>Broader Impacts.</strong>&nbsp;Cellulose is the most abundant biopolymer on Earth, present in the cell walls of plants and trees, leading to wood, paper, and cotton products. Industry employs methods to modify standard cellulose through synthetic routes for desirable properties, for use as food additives and in membrane and biotechnology applications. <em>E. coli</em> produces its own uniquely modified form of cellulose with pEtN. We furthered our atomic-level view of this newly defined molecular machinery and developed structure-activity relationships between complex polymers and biofilm phenotypes. This project tackled crucial questions involving nature&rsquo;s phosphoethanolamine cellulose (its physicochemical properties and the structural and molecular basis for its assembly) as well as other exopolysaccharides including those of the butterfly chrysalis and nitrogen-fixing bacteria that benefit plants. Overall: (1) We introduced broadly applicable strategies as many important cell-surface functions are achieved by polysaccharides, glycoconjugates, and heterogeneous, insoluble assemblies. (2) Our work inspires the search for other modified polysaccharides in nature. (3) The results of this project answered major outstanding research questions and fuel new research directions involving bacterial physiology, glycobiology, and industrial applications including the production of new cellulosic materials.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/16/2024<br> Modified by: Lynette&nbsp;Cegelski</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit. Bacteria are essential to life on Earth and thrive in astonishing environments, typically in multicellular communities termed biofilms. These bacteria secrete and surround themselves with biopolymers in highly woven architectures. Our project was directed to understand the extraordinary assembly of complex structures that organisms engineer to surround and protect themselves. Important genetic and molecular determinants of biofilm formation are typically elucidated for organisms to provide a basic parts list of the extracellular matrix (ECM). Yet, formidable challenges exist in generating a complete accounting of the parts and in understanding how the parts function. We and others utilize proteomics and mass spectrometry to identify soluble components from chemically digested samples, but significant ECM remains insoluble and escapes detection by conventional methods. We have shown solid-state NMR to be a powerful tool for analysis of matrix composition and architecture. We previously made surprising discoveries by examining the E. coli ECM, identifying a new chemical structure never before observed in nature - phosphoethanolamine cellulose. The commonly studied bacterium had been assumed for decades to be producing ordinary cellulose, based on conventional detection methods. Our non-perturbative examination of the intact matrix polymers by solid-state NMR served as a unique discovery tool for this new polymer. We identified the genetic and molecular basis for installation of the phosphoethanolamine modification, revealing BcsG as a phosphoethanolamine transferase enzyme.    In this project, we defined differences in composition among E. coli biofilms. We used comparisons to connect the role of curli amyloid that are co-produced in their biofilms as contributing more to adhesion while phosphoethanolamine cellulose contributes more to cohesion. We revealed plasticity in matrix assembly, with some strains producing more than twice the amount of cellulose relative to curli and we connected this chemistry to phenotypes that previously were unexplained. We discovered that the small molecule and natural product nordihydroguaiaretic acid (NDGA) inhibits curli amyloid production in E. coli, but allows production of phosphoethanolamine cellulose. This emphasized the ability to identify bioactive amyloid assembly inhibitors using the powerful gene-directed amyloid biogenesis machinery inE. coli and provides a convenient small-molecule tool to suppress curli in different strains in order to have them selectively produce their polysaccharide component(s). To transform our understanding of the structural biology of the cellulose synthase secretion machinery at atomic-level, we partnered in major collaborative studies using cryo-electron microscopy to determine total structures of the pEtN cellulose secretion machinery, ultimately revealing that the N-terminal cytosolic domain of BcsA positions BcsG as a trimer near the nascent cellulose polymer. Here, we also introduced new rigorous methodology for validation and purification of pEtN cellulose from engineered strains producing pEtN cellulose in the periplasm instead of secreting it extracellularly.    Expanding the solid-state NMR platform to other fascinating expolysaccharides in nature, we quantified acetylation, pyruvylation, and succinylation modifications of Exopolysaccharide I (EPS I) and EPS II of Sinorhizobium melilotiwhich fixes nitrogen for plants in biofilm-like communities in root nodules in the soil. Through integrating bioinformatics, genetic and biochemical tests, and solid-state NMR, we also uncovered a new pyruvyltransferase, WgaE. Finally, there is hardly a more remarkable transformation in nature than the metamorphosis of caterpillar to butterfly. This metamorphosis is an awe-inspiring example of how extraordinary functions are made possible through specific chemistry in nature's complex systems. We employed solid-state NMR with proteomics and biochemistry and revealed the chemical and molecular composition in chrysalides from which Monarch and Swallowtail butterflies emerged. Chitin is the second most abundant biopolymer on earth and the chrysalides contained 40-45% chitin - among the highest percentage observed in insect systems.Together with cuticular proteins, the chrysalis chemistry shares commonality with bacterial baskets in the production of protein-polysaccharide composites that provide essential barrier and protective functions.    Broader Impacts.Cellulose is the most abundant biopolymer on Earth, present in the cell walls of plants and trees, leading to wood, paper, and cotton products. Industry employs methods to modify standard cellulose through synthetic routes for desirable properties, for use as food additives and in membrane and biotechnology applications. E. coli produces its own uniquely modified form of cellulose with pEtN. We furthered our atomic-level view of this newly defined molecular machinery and developed structure-activity relationships between complex polymers and biofilm phenotypes. This project tackled crucial questions involving natures phosphoethanolamine cellulose (its physicochemical properties and the structural and molecular basis for its assembly) as well as other exopolysaccharides including those of the butterfly chrysalis and nitrogen-fixing bacteria that benefit plants. Overall: (1) We introduced broadly applicable strategies as many important cell-surface functions are achieved by polysaccharides, glycoconjugates, and heterogeneous, insoluble assemblies. (2) Our work inspires the search for other modified polysaccharides in nature. (3) The results of this project answered major outstanding research questions and fuel new research directions involving bacterial physiology, glycobiology, and industrial applications including the production of new cellulosic materials.         Last Modified: 12/16/2024       Submitted by: LynetteCegelski]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

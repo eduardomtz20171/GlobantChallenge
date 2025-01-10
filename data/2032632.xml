@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Proposal: Developmental and Genetic Pathways to Phenotypic Convergence in a Radiation of Groundwater Salamanders]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>829426.00</AwardTotalIntnAmount>
+<AwardAmount>829426</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Aime</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>Cave organisms as unrelated as insects and salamanders often have shared features – such as lack of eyes, pallid coloration, and elongated limbs. Life underground provides different challenges from life on the surface, and those challenges favor relatively rapid changes in appearance (and other, more subtle characteristics) at the population level. Those rapid changes lead to convergence in the appearance of many cave organisms, but the genetic and developmental processes that lead to repeated changes in different organisms are largely unknown. The Edwards Plateau of central Texas has an extensive, though fragmented, network of springs, caves, and aquifers that host numerous, diverse, underground salamanders. These salamanders attain reproductive maturity while retaining features (such as gills) that are characteristic of immature salamanders, and many of them show eyes reduced in size and development to varying degrees, along with other characteristics associated with living underground (e.g. an enhanced sense of smell).  These characteristics have evolved independently and repeatedly in the various species, and this research will integrate information derived through a variety of approaches to shed light on the mechanisms that enable new structures and functions to evolve. This project is timely because in addition to enhancing understanding of the evolution of sensory systems, it will highlight and clarify the diversity of salamanders in central Texas at a time when human population growth and commercial development further threaten species that have been identified as being in danger of extinction. Finally, this project will serve as a platform to train numerous undergraduates in STEM research.&lt;br/&gt;&lt;br/&gt;The researchers will use an integrative, hierarchical approach combining genetic, developmental, and phylogenetic perspectives to study the mechanisms that drive convergence in phenotypes of subterranean Groundwater Salamanders. Results from micro-computed tomography imaging, histology, transcriptomics, and exon sequencing will demonstrate the degree of morphological convergence in sensory systems (visual, olfactory, and lateral line) across subterranean lineages. Comparative transcriptomics will be employed to examine the developmental genetic mechanisms of organ system reduction and signatures of molecular convergence at the protein-coding level in sensory-system genes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032632</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Hillis</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David M Hillis</PI_FULL_NAME>
+<EmailAddress><![CDATA[dhillis@austin.utexas.edu]]></EmailAddress>
+<NSF_ID>000232711</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Devitt</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas J Devitt</PI_FULL_NAME>
+<EmailAddress><![CDATA[tdevitt@utexas.edu]]></EmailAddress>
+<NSF_ID>000611092</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121188</ZipCode>
+<StreetAddress><![CDATA[2415 Speedway, Patterson Labs]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>737400</Code>
+<Text>Systematics &amp; Biodiversity Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~829426</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project investigated the developmental and genetic mechanisms driving phenotypic convergence in groundwater salamanders (<em>Eurycea</em>), a remarkable radiation endemic to the Edwards Plateau of central Texas. This work provides key insights into repeated evolutionary processes in subterranean environments by integrating comparative developmental genetics, phylogenetics, and morphological analyses.</p>  <p><strong>Intellectual Merit</strong></p>  <p>This study improves our understanding of the processes responsible for repeated evolution by (i) investigating the extent to which phenotypic convergence is mirrored by molecular convergence and (ii) characterizing the developmental genetic basis of derived similarity. Results have shed light on how and through which pathways new structures and functions can evolve. Finally, this project exemplifies integrative biology by combining approaches from different subfields within a comparative, hierarchical framework, including:</p>  <ul>  <li><strong>Morphological Analyses</strong>: Micro-computed tomography (microCT) and histology quantified the degree of convergence in sensory systems (visual, chemosensory and mechanosensory) across subterranean lineages. Eye development showed common early stages, diverging significantly later, alongside compensatory enhancements in mechanosensory organs.</li>  <li><strong>Comparative Immunohistochemistry</strong>: We discovered that the <em>PAX6</em> protein, known for its role in eye development, is also present in the lateral line system of <em>Eurycea</em> salamanders, where it is concentrated in the hair-like tips of sensory cells. This suggests a previously unknown role for <em>PAX6</em> in cell structure and movement, expanding its known functions beyond vision.</li>  <li><strong>Molecular Convergence</strong>: Using transcriptomes from multiple populations of all species in this group, we are testing for selection at the protein-coding level, asking whether morphological convergence reflects parallel molecular evolution.</li>  </ul>  <p>Results demonstrated the hierarchical nature of convergence&mdash;occurring at morphological, developmental, and genetic levels&mdash;and highlighted the interplay between relaxed and heightened selection pressures in subterranean habitats. The reduction of visual systems in subterranean environments is compensated by an increase in mechanoreception via an increase in the number of neuromasts of the lateral line system. These compensatory changes have evolved repeatedly in multiple invasions of subterranean environments. These findings advance our understanding of how similar traits arise independently, shedding light on evolutionary and developmental pathways that shape biodiversity.</p>  <p><strong>Broader Impacts</strong></p>  <p>This project had significant impacts on education, diversity, and public engagement, particularly in STEM retention for underrepresented groups:</p>  <ol>  <li><strong>STEM Education and Inclusion</strong>:    <ul>  <li><strong>Course-Based Undergraduate Research Experience (CURE)</strong>: The project contributed to UT Austin&rsquo;s Freshman Research Initiative (FRI), a nationally recognized program integrating authentic research into undergraduate education. Through the &ldquo;Biodiversity Discovery&rdquo; research stream, students gained hands-on experience in molecular biology, bioinformatics, and morphological analysis. The FRI program is proven to increase STEM retention rates by 23%, with 50% of participants from underrepresented minority (URM) backgrounds.</li>  <li><strong>Summer Research Exchange</strong>: A collaborative summer program between UT Austin (Carnegie R1 and a Hispanic-serving institution) and Texas State University (a Hispanic-serving institution) trained more than 25 summer undergraduates. Students gained interdisciplinary skills, working on microscopy, developmental genetics, and computational analyses while developing independent projects. This initiative addressed barriers faced by first-generation and URM students, fostering retention and career readiness.</li>  </ul>  </li>  <li><strong>Mentorship and Career Development</strong>: Annual research meetings brought together undergraduates, graduate students, and faculty to present findings and receive constructive feedback. These meetings provided professional development opportunities and platforms for scientific communication, boosting student confidence and skills.</li>  <li><strong>Community Engagement and Conservation</strong>: The iconic <em>Eurycea</em> salamanders, celebrated locally in Austin and San Marcos as symbols of conservation, were an effective focus for public outreach. Educational initiatives targeted K-12 students, using interactive tools like 3D-printed salamander models to inspire interest in biodiversity. Public lectures and media coverage emphasized the importance of groundwater ecosystems, connecting the project&rsquo;s research to broader conservation goals.</li>  </ol>  <p><strong>Conclusion</strong></p>  <p>This project demonstrated how integrative research across genetics, development, and morphology can uncover the processes driving convergent evolution. Beyond advancing basic science, it provided a robust STEM education and training framework, thereby improving the retention of diverse groups of science students. By combining rigorous research with impactful outreach, this work supports scientific discovery and the development of a skilled, inclusive STEM workforce.</p><br> <p>  Last Modified: 12/20/2024<br> Modified by: Thomas&nbsp;J&nbsp;Devitt</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2032632/2032632_10697347_1734549261757_Project_Outcomes_Report_Fig_1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2032632/2032632_10697347_1734549261757_Project_Outcomes_Report_Fig_1--rgov-800width.png" title="Surface and subterranean forms of the Honey Creek Cave Salamander"><img src="/por/images/Reports/POR/2024/2032632/2032632_10697347_1734549261757_Project_Outcomes_Report_Fig_1--rgov-66x44.png" alt="Surface and subterranean forms of the Honey Creek Cave Salamander"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Surface and subterranean individuals of the Honey Creek Cave salamander illustrating morphological differences associated with different habitats.</div> <div class="imageCredit">Tom Devitt</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Thomas&nbsp;J&nbsp;Devitt <div class="imageTitle">Surface and subterranean forms of the Honey Creek Cave Salamander</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2032632/2032632_10697347_1734554776236_Project_Outcomes_Report_Fig_2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2032632/2032632_10697347_1734554776236_Project_Outcomes_Report_Fig_2--rgov-800width.png" title="A Honey Creek Cave salamander embryo through development."><img src="/por/images/Reports/POR/2024/2032632/2032632_10697347_1734554776236_Project_Outcomes_Report_Fig_2--rgov-66x44.png" alt="A Honey Creek Cave salamander embryo through development."></a> <div class="imageCaptionContainer"> <div class="imageCaption">A Honey Creek Cave salamander embryo through development.</div> <div class="imageCredit">Ruben Tovar</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Thomas&nbsp;J&nbsp;Devitt <div class="imageTitle">A Honey Creek Cave salamander embryo through development.</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project investigated the developmental and genetic mechanisms driving phenotypic convergence in groundwater salamanders (Eurycea), a remarkable radiation endemic to the Edwards Plateau of central Texas. This work provides key insights into repeated evolutionary processes in subterranean environments by integrating comparative developmental genetics, phylogenetics, and morphological analyses.    Intellectual Merit    This study improves our understanding of the processes responsible for repeated evolution by (i) investigating the extent to which phenotypic convergence is mirrored by molecular convergence and (ii) characterizing the developmental genetic basis of derived similarity. Results have shed light on how and through which pathways new structures and functions can evolve. Finally, this project exemplifies integrative biology by combining approaches from different subfields within a comparative, hierarchical framework, including:    Morphological Analyses: Micro-computed tomography (microCT) and histology quantified the degree of convergence in sensory systems (visual, chemosensory and mechanosensory) across subterranean lineages. Eye development showed common early stages, diverging significantly later, alongside compensatory enhancements in mechanosensory organs.  Comparative Immunohistochemistry: We discovered that the PAX6 protein, known for its role in eye development, is also present in the lateral line system of Eurycea salamanders, where it is concentrated in the hair-like tips of sensory cells. This suggests a previously unknown role for PAX6 in cell structure and movement, expanding its known functions beyond vision.  Molecular Convergence: Using transcriptomes from multiple populations of all species in this group, we are testing for selection at the protein-coding level, asking whether morphological convergence reflects parallel molecular evolution.      Results demonstrated the hierarchical nature of convergenceoccurring at morphological, developmental, and genetic levelsand highlighted the interplay between relaxed and heightened selection pressures in subterranean habitats. The reduction of visual systems in subterranean environments is compensated by an increase in mechanoreception via an increase in the number of neuromasts of the lateral line system. These compensatory changes have evolved repeatedly in multiple invasions of subterranean environments. These findings advance our understanding of how similar traits arise independently, shedding light on evolutionary and developmental pathways that shape biodiversity.    Broader Impacts    This project had significant impacts on education, diversity, and public engagement, particularly in STEM retention for underrepresented groups:    STEM Education and Inclusion:      Course-Based Undergraduate Research Experience (CURE): The project contributed to UT Austins Freshman Research Initiative (FRI), a nationally recognized program integrating authentic research into undergraduate education. Through the Biodiversity Discovery research stream, students gained hands-on experience in molecular biology, bioinformatics, and morphological analysis. The FRI program is proven to increase STEM retention rates by 23%, with 50% of participants from underrepresented minority (URM) backgrounds.  Summer Research Exchange: A collaborative summer program between UT Austin (Carnegie R1 and a Hispanic-serving institution) and Texas State University (a Hispanic-serving institution) trained more than 25 summer undergraduates. Students gained interdisciplinary skills, working on microscopy, developmental genetics, and computational analyses while developing independent projects. This initiative addressed barriers faced by first-generation and URM students, fostering retention and career readiness.      Mentorship and Career Development: Annual research meetings brought together undergraduates, graduate students, and faculty to present findings and receive constructive feedback. These meetings provided professional development opportunities and platforms for scientific communication, boosting student confidence and skills.  Community Engagement and Conservation: The iconic Eurycea salamanders, celebrated locally in Austin and San Marcos as symbols of conservation, were an effective focus for public outreach. Educational initiatives targeted K-12 students, using interactive tools like 3D-printed salamander models to inspire interest in biodiversity. Public lectures and media coverage emphasized the importance of groundwater ecosystems, connecting the projects research to broader conservation goals.      Conclusion    This project demonstrated how integrative research across genetics, development, and morphology can uncover the processes driving convergent evolution. Beyond advancing basic science, it provided a robust STEM education and training framework, thereby improving the retention of diverse groups of science students. By combining rigorous research with impactful outreach, this work supports scientific discovery and the development of a skilled, inclusive STEM workforce.     Last Modified: 12/20/2024       Submitted by: ThomasJDevitt]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

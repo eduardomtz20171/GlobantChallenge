@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: IUSE EHR - Inclusive Learning and Teaching in Undergraduate STEM Instruction]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/20/2019</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>402133.00</AwardTotalIntnAmount>
+<AwardAmount>402133</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith Sverdrup</SignBlockName>
+<PO_EMAI>ksverdru@nsf.gov</PO_EMAI>
+<PO_PHON>7032924671</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The economic prosperity of the United States relies on progress in science, the advancement of national health initiatives, and adaptation to an increasingly technical economy. This prosperity in turn relies on a talented workforce with the ability to nimbly address new challenges and develop innovative technologies. Colleges and universities can best prepare this future workforce by ensuring that educational environments are effective for a diverse range of students.  This project focuses on the design and dissemination of faculty development materials designed to enable faculty members to create more inclusive learning environments for their students.  Specifically, the project will incorporate research-based practices that enable students to develop further senses of self-efficacy, identity, persistence, and motivation to persist in STEM fields of study.  The project is intended to address persistent gaps in the rates at which women and members of underrepresented groups persist in STEM fields of study.  Closing these gaps would lead to greater degree attainment and workforce entry.  The product of this work will be a comprehensive virtual and in-person professional development program at a national scale that will prepare future and early career faculty to teach inclusively. &lt;br/&gt;&lt;br/&gt;The project will be led by Northwestern University in partnership with Boston University, the University of Wisconsin at Madison, University of Michigan at Ann Arbor, University of Georgia, Washington University in St. Louis, and the Des Moines Area Community College. Project leaders will work with the University of Michigan's Center for Research on Learning and Teaching Players, a group that uses theatrical and improvisational dramatization in the service of improved learning and teaching.  The materials will be designed to enable faculty members to rethink curricular choices, update their teaching methods, activities, and assessments, understand how aspects of their own identities and those of their students may affect learning, and recognize ways in which position and other issues play out in learning environments.  Building on the success of two prior Center for the Integration of Research, Teaching and Learning online courses in STEM teaching and their affiliated local learning communities, the project aims to build and sustain a diverse network of institutions through learning communities of trained facilitators to advance inclusive learning and teaching on their campuses.  The project has the potential to prepare 500 current faculty and 4,000 PhDs and postdoctoral scholars to apply inclusive teaching practices that would positively influence the learning experiences of more than 25,000 STEM students nationally.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2024180</AwardID>
+<Investigator>
+<FirstName>Regina</FirstName>
+<LastName>Frey</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Regina F Frey</PI_FULL_NAME>
+<EmailAddress><![CDATA[gina.frey@utah.edu]]></EmailAddress>
+<NSF_ID>000227238</NSF_ID>
+<StartDate>04/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Department of Chemistry]]></Name>
+<CityName>Salt Lake City</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841120850</ZipCode>
+<StreetAddress><![CDATA[315 S 1400 E]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>199800</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0418</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0421</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04001819DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04002122DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~20215</FUND_OBLG>
+<FUND_OBLG>2020~76503</FUND_OBLG>
+<FUND_OBLG>2021~305415</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-297a0175-7fff-a05f-a022-61a94c3e9730"> </span></p>  <p><span id="docs-internal-guid-b1c85f33-7fff-9575-2335-c23f13242240"> </span></p>  <p dir="ltr"><span>In Fall 2021, we released an asynchronous six-week free online course for instructors across higher education, from community and 2-year colleges to research-intensive universities. The Inclusive STEM Teaching Project (ISTP) centers identity, power, privilege, and positionality prior to focusing on evidence-based teaching and learning strategies. </span><span>The course centers equity and inclusion, 'doing no harm' and fostering ongoing self-reflection</span><span>. The 'do no harm' core value strives to ensure that participants feel safe from verbal and psychological harm while engaging with content. Evaluation confirms our ability to create deep learning through productive discomfort</span><span>.&nbsp;</span></p>  <p><strong>Key features: </strong>The five key features of ISTP are informed by the core values. (1) Embodied case studies provide a common experience and support learners' active reflection and discussion; (2) the 'My Inclusivity Framework' promotes reflection; (3) moderated discussion boards promote reflection and sharing of experiences; (4) local learning communities led by trained facilitators promote deeper course involvement; and (5) facilitated affinity groups allowed participants to choose a community based around intersectional racial and gender identities and sexual orientations for shared vulnerability and learning.&nbsp;</p>  <p><strong>Participation, engagement, reach and research outcomes: </strong>Learner engagement and completion have been very strong. Since 2020, seven open online courses have enrolled 12,719 participants, with 23% completing. Completion rates for those answering one question or visiting one page are five times higher than the average for free online courses. If these 3,000 STEM ISTP completers teach ~200 STEM students annually, they will deliver inclusive teaching to 800,000 STEM students per year.&nbsp;</p>  <p>To obtain a holistic view of the project's impact and gain insights into participants' development of confidence in inclusive teaching, we conducted both quantitative and qualitative studies. We studied the program's impact by (1) examining participant responses to course surveys&nbsp; - administered pre-course, immediately post-course and distal post-course - focusing on awareness, confidence, likelihood to implement, and self-reflection; (2) studying the fidelity of learning communities, their training, implementation and participant outcomes; (3) comparing outcomes based on demographic characteristics and background variables (e.g., teaching experience, DEI experience); (4) interviewing a selected participant sample and conducting classroom-based case studies; and (5) analyzing course-reflection responses across three cohorts.</p>  <p>Course participants who responded to the surveys reported that all modules helped them become more inclusive instructors, and increased their confidence in implementing inclusive practices (Calkins et al., Change: The Magazine of Higher Learning, 2024). In interviews, participants from multiple disciplines and institution types increased in their ability to reflect and awareness of inclusive teaching strategies. They reported changes in perspective, saw pre-existing beliefs validated, increased their self-efficacy and ability to implement inclusive practices. Findings from both the qualitative interviews and course-reflective prompts support the importance of creating inclusive-teaching programs that go beyond providing strategies and instead focus on exploring the connections between instructors' and students' identities and their impact on course design, teaching practices, and classroom climate. Furthermore, participants emphasized that fostering an inclusive classroom requires an ongoing, iterative process, empowering them to become ongoing learners in inclusive teaching and to engage actively with a community of colleagues.</p>  <p><strong>Nationwide Learning Communities: </strong>Participants have the option to participate in facilitator-led learning communities (LCs). LCs increase interest in student-centered teaching, encourage self-reflection of pedagogical skills, and promote community and agency among participants. We used a high-fidelity training model to select, train, and support facilitators as they led local LCs. This model utilizes team facilitation to help institutions develop shared capacity for engaging in DEI-related dialogues and to create a local support network. Facilitation teams are evaluated by ISTP personnel for a common baseline of knowledge, experience, and skill, which we believe necessary for upholding the core principle of 'do no harm.'&nbsp;</p>  <p>Facilitator Training Outcomes. Our research found facilitators gained confidence and skills from training and facilitation (Codding et al., To Improve the Academy, 2024), even those who reported many years of DEI experience prior to training. Our training model increased facilitator confidence in facilitating DEI conversations, creating open dialogue, leading conversations centered on identity, and managing difficult moments in DEI conversations. Facilitators experienced the greatest growth in confidence after completing the full cycle of support (e.g., facilitator selection, team-based training, and actively facilitating an ISTP LC (Codding et al., 2024). Both LC participants and facilitators reported LCs operating in high-fidelity to project goals. For example, participants reported feeling a sense of community, upholding community norms, and sharing their own experiences. Participants also reported increased feelings of readiness, confidence, and motivation to implement inclusive teaching practices following their participation in the LC.</p>  <p><strong>Publication and follow-on proposals and projects: </strong>To date, three manuscripts have been published and three more are either under review or in preparation. We have written or contributed significantly to eight follow-on grant proposals, one of which is funded, and four under review.&nbsp;</p>  <p><br /><br /></p>  <p>&nbsp;</p>  <p dir="ltr">&nbsp;</p><br> <p>  Last Modified: 11/30/2024<br> Modified by: Regina&nbsp;F&nbsp;Frey</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[            In Fall 2021, we released an asynchronous six-week free online course for instructors across higher education, from community and 2-year colleges to research-intensive universities. The Inclusive STEM Teaching Project (ISTP) centers identity, power, privilege, and positionality prior to focusing on evidence-based teaching and learning strategies. The course centers equity and inclusion, 'doing no harm' and fostering ongoing self-reflection. The 'do no harm' core value strives to ensure that participants feel safe from verbal and psychological harm while engaging with content. Evaluation confirms our ability to create deep learning through productive discomfort.    Key features: The five key features of ISTP are informed by the core values. (1) Embodied case studies provide a common experience and support learners' active reflection and discussion; (2) the 'My Inclusivity Framework' promotes reflection; (3) moderated discussion boards promote reflection and sharing of experiences; (4) local learning communities led by trained facilitators promote deeper course involvement; and (5) facilitated affinity groups allowed participants to choose a community based around intersectional racial and gender identities and sexual orientations for shared vulnerability and learning.    Participation, engagement, reach and research outcomes: Learner engagement and completion have been very strong. Since 2020, seven open online courses have enrolled 12,719 participants, with 23% completing. Completion rates for those answering one question or visiting one page are five times higher than the average for free online courses. If these 3,000 STEM ISTP completers teach ~200 STEM students annually, they will deliver inclusive teaching to 800,000 STEM students per year.    To obtain a holistic view of the project's impact and gain insights into participants' development of confidence in inclusive teaching, we conducted both quantitative and qualitative studies. We studied the program's impact by (1) examining participant responses to course surveys - administered pre-course, immediately post-course and distal post-course - focusing on awareness, confidence, likelihood to implement, and self-reflection; (2) studying the fidelity of learning communities, their training, implementation and participant outcomes; (3) comparing outcomes based on demographic characteristics and background variables (e.g., teaching experience, DEI experience); (4) interviewing a selected participant sample and conducting classroom-based case studies; and (5) analyzing course-reflection responses across three cohorts.    Course participants who responded to the surveys reported that all modules helped them become more inclusive instructors, and increased their confidence in implementing inclusive practices (Calkins et al., Change: The Magazine of Higher Learning, 2024). In interviews, participants from multiple disciplines and institution types increased in their ability to reflect and awareness of inclusive teaching strategies. They reported changes in perspective, saw pre-existing beliefs validated, increased their self-efficacy and ability to implement inclusive practices. Findings from both the qualitative interviews and course-reflective prompts support the importance of creating inclusive-teaching programs that go beyond providing strategies and instead focus on exploring the connections between instructors' and students' identities and their impact on course design, teaching practices, and classroom climate. Furthermore, participants emphasized that fostering an inclusive classroom requires an ongoing, iterative process, empowering them to become ongoing learners in inclusive teaching and to engage actively with a community of colleagues.    Nationwide Learning Communities: Participants have the option to participate in facilitator-led learning communities (LCs). LCs increase interest in student-centered teaching, encourage self-reflection of pedagogical skills, and promote community and agency among participants. We used a high-fidelity training model to select, train, and support facilitators as they led local LCs. This model utilizes team facilitation to help institutions develop shared capacity for engaging in DEI-related dialogues and to create a local support network. Facilitation teams are evaluated by ISTP personnel for a common baseline of knowledge, experience, and skill, which we believe necessary for upholding the core principle of 'do no harm.'    Facilitator Training Outcomes. Our research found facilitators gained confidence and skills from training and facilitation (Codding et al., To Improve the Academy, 2024), even those who reported many years of DEI experience prior to training. Our training model increased facilitator confidence in facilitating DEI conversations, creating open dialogue, leading conversations centered on identity, and managing difficult moments in DEI conversations. Facilitators experienced the greatest growth in confidence after completing the full cycle of support (e.g., facilitator selection, team-based training, and actively facilitating an ISTP LC (Codding et al., 2024). Both LC participants and facilitators reported LCs operating in high-fidelity to project goals. For example, participants reported feeling a sense of community, upholding community norms, and sharing their own experiences. Participants also reported increased feelings of readiness, confidence, and motivation to implement inclusive teaching practices following their participation in the LC.    Publication and follow-on proposals and projects: To date, three manuscripts have been published and three more are either under review or in preparation. We have written or contributed significantly to eight follow-on grant proposals, one of which is funded, and four under review.                   Last Modified: 11/30/2024       Submitted by: ReginaFFrey]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

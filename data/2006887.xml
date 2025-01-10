@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Growth and patterns: existence, stability, and dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project is focused on how spatially-periodic patterns arise in natural systems and how they are selected and controlled by domain growth, geometry, and more generally, spatio-temporal heterogeneities. A pattern typically refers to a regular, repeating geometric structure, and examples abound in many different scientific domains, such as striped convection rolls in fluids, spiral-seed arrangements on a sunflower, and differentiation in mammalian embryos in early stage gastrulation. In both natural and man-made settings, spatial growth processes have proven to be powerful tools for organizing and harnessing such pattern-forming mechanisms, while at the same time suppressing the formation of imperfections, commonly known as defects. This project seeks to rigorously understand the interaction of growth and patterns in mathematical models arising in various areas such as chemistry, material science, fluid dynamics, and biology, and used to study phenomena such as skeletal patterning in animals, quenching of eutectic metal alloys, evaporative chemical deposition, and defect suppression in elastic surface crystals. Such an understanding could also aid in the fabrication of novel and functional materials at macro-, micro, and nano-meter length scales, giving a cookbook for creating a desired structure. A facet of this project incorporates research experience opportunities for undergraduates.&lt;br/&gt;&lt;br/&gt;This project aims to develop and implement new techniques in infinite-dimensional dynamical systems theory and functional analysis to rigorously study growth in prototypical partial differential equation models for pattern-formation. It will also explore and illuminate complex phenomena by developing novel numerical approaches to approximate and continue spatially patterned structures in bounded and unbounded domains. To characterize the effect of growth speed and boundary curvature on pattern formation, the project will first focus on quenching inhomogeneities, which allow patterns in a sub-domain and suppress them in the complement. In simple planar quenching, the project will study existence, wavenumber selection, and stability of pattern-forming fronts in multi-dimensional spatial domains. As standard spatial dynamics methods apply here in only limited settings, functional analytic approaches will be developed to deal with the presence of continuous spectrum in bifurcation, perturbation, or continuation schemes for such patterned solutions. With the goal of studying patterns in non-planar quenching geometries, this project seeks to extend the tools of spatial dynamical systems to domains with more than one unbounded spatial direction. The project will also investigate pattern selection and defect formation for other types of spatio-temporal heterogeneity of physical interest, such as slowly-varying parameter ramps, temporally slow but spatially homogeneous quenches, and spatially localized source terms.  In addition to considering existence, stability, and wavenumber selection of patterns, this project will also use modulational techniques to approximate the interactions and defects of selected patterns in terms of the dynamics of simpler, more tractable partial differential equations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006887</AwardID>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Goh</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ryan N Goh</PI_FULL_NAME>
+<EmailAddress><![CDATA[rgoh@bu.edu]]></EmailAddress>
+<NSF_ID>000705671</NSF_ID>
+<StartDate>05/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151703</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress><![CDATA[1 SILBER WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THL6A6JLE1S7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151300</ZipCode>
+<StreetAddress><![CDATA[111 Cummington Mall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>745400</Code>
+<Text>MSPA-INTERDISCIPLINARY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~98838</FUND_OBLG>
+<FUND_OBLG>2021~84132</FUND_OBLG>
+<FUND_OBLG>2022~67030</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1"><span class="s1">In many natural processes, growth and dynamic variation of a system and its boundaries are potent tools to form ordered spatial structures, or<span>&nbsp; </span>&ldquo;patterns.&rdquo; This project developed understanding of such phenomena through analysis of mathematical models relevant to various scientific domains including biology, chemistry, fluid dynamics, and material science.<span>&nbsp;</span></span></p> <p class="p1"><span class="s1">Much previous study considered patterns arising from small fluctuations about a uniform but unstable state. Such states are often difficult to precisely configure and lead to imperfections in the resulting structure. More regular and defect-free patterns can be made by progressively growing or exciting the pattern-forming instability. One such method for doing this is directional quenching, where a stable system is spatially-progressively made unstable. Quenches caricature growth in physical systems and can be used to create a desired pattern in a given system. The PI developed novel mathematical and computational techniques to rigorously understand and characterize quenched patterned solutions of model equations. This analysis provides insight for experimentalists to design a quench which selects a desired spatial structure. The project furthermore showed that such selected patterns are stable, that is they are robust to many types of perturbation. The project also derived and analyzed new reduced equations which readily allow the characterization of how defects,&nbsp;imperfections, and combinations of<span>&nbsp; </span>already-formed patterns evolve on long time-scales.<span>&nbsp;</span></span></p> <p class="p1"><span class="s1">Another facet of this project characterized how pattern-forming systems react to system variations which are dynamic, but slowly varying in space and time. The PI found that such slowly-varying heterogeneities induce novel effects on the pattern, including a temporal delay of the formation spatial oscillations as well as the suppression of imperfections. Such delayed responses also have relevance in many different multi-scale systems such as the climate, neuronal networks, and vegetation spread.<span>&nbsp;</span></span></p> <p class="p1"><span class="s1">The rigorous mathematical study of grown patterns is often restricted to only one-dimensional spatial domains which are simplifications of those used in experiment or found in nature. The PI developed mathematical techniques to better characterize grown patterns in these more relevant spatial domains.<span>&nbsp;</span></span></p> <p class="p1"><span class="s1">During the research supported by this grant, the PI mentored and worked with students at both the undergraduate and graduate level. The project supported two summer research experience programs, each with two undergraduate participants hailing from across the US, as well as several research projects with undergraduates at the PIs home institution.<span>&nbsp; </span>These projects provided training, experience, and mentorship in mathematical research, and several of the students have continued on to graduate studies in physics and mathematics. <span>&nbsp; </span>At the graduate level, the PI worked with and mentored 5 different students on projects related to this grant. Three of the students received support from the grant.</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 09/30/2024<br> Modified by: Ryan&nbsp;N&nbsp;Goh</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In many natural processes, growth and dynamic variation of a system and its boundaries are potent tools to form ordered spatial structures, or patterns. This project developed understanding of such phenomena through analysis of mathematical models relevant to various scientific domains including biology, chemistry, fluid dynamics, and material science.   Much previous study considered patterns arising from small fluctuations about a uniform but unstable state. Such states are often difficult to precisely configure and lead to imperfections in the resulting structure. More regular and defect-free patterns can be made by progressively growing or exciting the pattern-forming instability. One such method for doing this is directional quenching, where a stable system is spatially-progressively made unstable. Quenches caricature growth in physical systems and can be used to create a desired pattern in a given system. The PI developed novel mathematical and computational techniques to rigorously understand and characterize quenched patterned solutions of model equations. This analysis provides insight for experimentalists to design a quench which selects a desired spatial structure. The project furthermore showed that such selected patterns are stable, that is they are robust to many types of perturbation. The project also derived and analyzed new reduced equations which readily allow the characterization of how defects,imperfections, and combinations of already-formed patterns evolve on long time-scales.   Another facet of this project characterized how pattern-forming systems react to system variations which are dynamic, but slowly varying in space and time. The PI found that such slowly-varying heterogeneities induce novel effects on the pattern, including a temporal delay of the formation spatial oscillations as well as the suppression of imperfections. Such delayed responses also have relevance in many different multi-scale systems such as the climate, neuronal networks, and vegetation spread.   The rigorous mathematical study of grown patterns is often restricted to only one-dimensional spatial domains which are simplifications of those used in experiment or found in nature. The PI developed mathematical techniques to better characterize grown patterns in these more relevant spatial domains.   During the research supported by this grant, the PI mentored and worked with students at both the undergraduate and graduate level. The project supported two summer research experience programs, each with two undergraduate participants hailing from across the US, as well as several research projects with undergraduates at the PIs home institution. These projects provided training, experience, and mentorship in mathematical research, and several of the students have continued on to graduate studies in physics and mathematics.  At the graduate level, the PI worked with and mentored 5 different students on projects related to this grant. Three of the students received support from the grant.        Last Modified: 09/30/2024       Submitted by: RyanNGoh]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

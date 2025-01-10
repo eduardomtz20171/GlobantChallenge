@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SaTC: CORE: Small: Deconstructing and Neutralizing Search Rank Fraud]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>450644.00</AwardTotalIntnAmount>
+<AwardAmount>450644</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sara Kiesler</SignBlockName>
+<PO_EMAI>skiesler@nsf.gov</PO_EMAI>
+<PO_PHON>7032928643</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Search rank fraud, or posting large numbers of paid activities for products hosted in online services, intends to give the illusion of grassroots engagement and to boost financial gains, promote malware and even assist censorship efforts. Search rank fraud continues to be a significant problem after years of investment by service providers and the academic community. This lack of progress is partly due to an incomplete and inaccurate understanding of the diverse community of professional raters. This project builds on the thesis that to be effective, fraud detection and prevention efforts need to involve the organizations and individuals who contribute to search rank fraud. To this end, this project is designing and developing techniques to validate professional raters and to study their capabilities, behaviors and detection avoidance strategies. The project introduces a new generation of solutions to address and neutralize the effects of search rank fraud. This project will help protect millions of online service users from misleading information, substandard products and even malware and censorship-enabling apps.&lt;br/&gt;&lt;br/&gt;This project introduces a novel approach to study, detect and prevent fraud in online services, and to evaluate developed solutions. The team is building a platform, techniques, and protocols to collect data about the online and mobile device behaviors of professional raters and honest users of peer-opinion services, and to evaluate developed solutions using live raters. Also, the team is designing fraud generators to produce benchmark datasets of synthetic but realistic timelines of fraudulent activities. The team is using an adversarial learning approach to iteratively train neural networks to disentangle different types of fraud from honest behaviors. Finally, the team will leverage unique insights extracted from the collected data, along with network representation learning and graph partitioning techniques, to develop predictors that attribute fraud and identify user accounts controlled by the same organization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2013671</AwardID>
+<Investigator>
+<FirstName>Bogdan</FirstName>
+<LastName>Carbunar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bogdan Carbunar</PI_FULL_NAME>
+<EmailAddress><![CDATA[carbunar@gmail.com]]></EmailAddress>
+<NSF_ID>000591376</NSF_ID>
+<StartDate>05/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q3KCVK5S9CP1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>Miami</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331990001</ZipCode>
+<StreetAddress><![CDATA[11200 SW 8th St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>065Z</Code>
+<Text>Human factors for security research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~450644</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Online activities entail undesirable behaviors that include search rank fraud, the distribution and promotion of abuse like misinformation, disinformation, and hate speech, and, at the other end of the spectrum, censorship of content and services. In this project we have studied diverse undesirable behaviors on online platforms, and their relationships. A first objective of the project was to expand our understanding of the capabilities, strategies, and perceptions of both victims and perpetrators of undesirable online behaviors. A second objective was to leverage the acquired knowledge to implement more effective undesirable behavior defenses, with designs choices that integrate perspectives of both victims and perpetrators.</p> <p>Work has encompassed the following thrusts. First, we have focused on search rank fraud, collaborative efforts of professional fraud workers to post fake activities for products hosted in commercial services such as those provided by Google, Apple, and Amazon. Search rank fraud seeks to give the illusion of grassroots engagement with products, to boost financial gains, promote malware, and even assist censorship efforts. We have designed and built a framework to study search rank fraud, by enabling the collection and analysis of data from the devices of consenting users, about their use of the devices and the apps installed on them. We used this framework to collect snapshots that capture how fraud workers and regular users use their mobile devices and the apps installed therein. We showed that differences in behaviors enable accurate, automated detection of fake app installs and reviews, and of devices controlled by ASO workers that we recruited online.</p> <p>The second thrust of this project was based on the hypothesis that influence operations on social platforms build on strategies borrowed from search rank fraud. To investigate this hypothesis and further improve our understanding of the motivation, organization, capabilities, and perceptions of influence operatives, we have conducted interviews with Twitter account owners who create and amplify misinformation, disinformation, hyper-partisan news, propaganda, and hate speech in Venezuela and India. We found diverse organizational structures that include hierarchical, flat, and decentralized organizations. Pro-government participants often equate efforts by social platforms to curtail their activities to censorship, while opposition participants reveal concerted efforts by pro-government networks to dismantle their groups. We documented diverse strategies employed by influence operations participants to avoid detection by social platforms and recover from penalties they impose upon discovery. We identified vulnerabilities in these strategies and proposed techniques to significantly increase the costs of influence operations.</p> <p>The third thrust has built on findings from the second thrust to explore and push the boundaries of our knowledge about the Chinese digital restrictions landscape, through the lens of online gamers. We found that participants potentially affected by more restrictive gaming policies were more likely to have evaded gaming addiction prevention systems and to have used tools that evade the Great Firewall of China (GFW). In addition, we found that gaming addiction prevention systems in China do not work as designed, even against very young online game players. Further, they can act as a censorship evasion training ground for tomorrow&rsquo;s adults, by familiarization with and normalization of general evasion techniques, and desensitization to their dangers. We leveraged findings from this study to propose recommendations for developers of tools to evade censorship.</p> <p>Finally, we conducted studies with students at a minority institution in the US about abuse experienced in social platforms, and their coping and defense strategies. We used findings from these studies to design a framework with a layered approach to abuse that incentivizes collaborations between victims and social platforms. We have designed a new user interface for social platforms to encourage users to carefully evaluate their pending contacts and showed through experiments its potential to significantly reduce the number of confirmed contact invitations received from fake accounts.</p> <p>Findings from this project have the potential to minimize the attack surface to influence campaigns that promote misinformation, disinformation, hate speech, substandard products, and malware, for many users of social platforms, particularly vulnerable users who lack the background required to recognize and safely react to such content. Our findings can also help improve solutions to evade censorship, with the potential to improve information access for millions of users in countries with a tradition of censorship. The project has provided support and mentorship for seven students, including a minority student.</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/13/2024<br> Modified by: Bogdan&nbsp;Carbunar</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2013671/2013671_10669349_1720887814561_mapofevasion--rgov-214x142.png" original="/por/images/Reports/POR/2024/2013671/2013671_10669349_1720887814561_mapofevasion--rgov-800width.png" title="Restrictions evading strategies of Chinese gamers"><img src="/por/images/Reports/POR/2024/2013671/2013671_10669349_1720887814561_mapofevasion--rgov-66x44.png" alt="Restrictions evading strategies of Chinese gamers"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Map of strategies to evade gaming addiction prevention systems in China, including techniques to evade the Chinese Great Firewall.</div> <div class="imageCredit">Self</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Bogdan&nbsp;Carbunar <div class="imageTitle">Restrictions evading strategies of Chinese gamers</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2013671/2013671_10669349_1720887758965_strategies_v2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2013671/2013671_10669349_1720887758965_strategies_v2--rgov-800width.png" title="Map of influence operations vulnerabilities"><img src="/por/images/Reports/POR/2024/2013671/2013671_10669349_1720887758965_strategies_v2--rgov-66x44.png" alt="Map of influence operations vulnerabilities"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Map of discovered strategies and vulnerabilities of influence operations participants.</div> <div class="imageCredit">Self</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Bogdan&nbsp;Carbunar <div class="imageTitle">Map of influence operations vulnerabilities</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Online activities entail undesirable behaviors that include search rank fraud, the distribution and promotion of abuse like misinformation, disinformation, and hate speech, and, at the other end of the spectrum, censorship of content and services. In this project we have studied diverse undesirable behaviors on online platforms, and their relationships. A first objective of the project was to expand our understanding of the capabilities, strategies, and perceptions of both victims and perpetrators of undesirable online behaviors. A second objective was to leverage the acquired knowledge to implement more effective undesirable behavior defenses, with designs choices that integrate perspectives of both victims and perpetrators.   Work has encompassed the following thrusts. First, we have focused on search rank fraud, collaborative efforts of professional fraud workers to post fake activities for products hosted in commercial services such as those provided by Google, Apple, and Amazon. Search rank fraud seeks to give the illusion of grassroots engagement with products, to boost financial gains, promote malware, and even assist censorship efforts. We have designed and built a framework to study search rank fraud, by enabling the collection and analysis of data from the devices of consenting users, about their use of the devices and the apps installed on them. We used this framework to collect snapshots that capture how fraud workers and regular users use their mobile devices and the apps installed therein. We showed that differences in behaviors enable accurate, automated detection of fake app installs and reviews, and of devices controlled by ASO workers that we recruited online.   The second thrust of this project was based on the hypothesis that influence operations on social platforms build on strategies borrowed from search rank fraud. To investigate this hypothesis and further improve our understanding of the motivation, organization, capabilities, and perceptions of influence operatives, we have conducted interviews with Twitter account owners who create and amplify misinformation, disinformation, hyper-partisan news, propaganda, and hate speech in Venezuela and India. We found diverse organizational structures that include hierarchical, flat, and decentralized organizations. Pro-government participants often equate efforts by social platforms to curtail their activities to censorship, while opposition participants reveal concerted efforts by pro-government networks to dismantle their groups. We documented diverse strategies employed by influence operations participants to avoid detection by social platforms and recover from penalties they impose upon discovery. We identified vulnerabilities in these strategies and proposed techniques to significantly increase the costs of influence operations.   The third thrust has built on findings from the second thrust to explore and push the boundaries of our knowledge about the Chinese digital restrictions landscape, through the lens of online gamers. We found that participants potentially affected by more restrictive gaming policies were more likely to have evaded gaming addiction prevention systems and to have used tools that evade the Great Firewall of China (GFW). In addition, we found that gaming addiction prevention systems in China do not work as designed, even against very young online game players. Further, they can act as a censorship evasion training ground for tomorrows adults, by familiarization with and normalization of general evasion techniques, and desensitization to their dangers. We leveraged findings from this study to propose recommendations for developers of tools to evade censorship.   Finally, we conducted studies with students at a minority institution in the US about abuse experienced in social platforms, and their coping and defense strategies. We used findings from these studies to design a framework with a layered approach to abuse that incentivizes collaborations between victims and social platforms. We have designed a new user interface for social platforms to encourage users to carefully evaluate their pending contacts and showed through experiments its potential to significantly reduce the number of confirmed contact invitations received from fake accounts.   Findings from this project have the potential to minimize the attack surface to influence campaigns that promote misinformation, disinformation, hate speech, substandard products, and malware, for many users of social platforms, particularly vulnerable users who lack the background required to recognize and safely react to such content. Our findings can also help improve solutions to evade censorship, with the potential to improve information access for millions of users in countries with a tradition of censorship. The project has provided support and mentorship for seven students, including a minority student.        Last Modified: 07/13/2024       Submitted by: BogdanCarbunar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

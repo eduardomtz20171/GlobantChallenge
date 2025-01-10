@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Resolving the Milky Way's Global Star Formation History]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>205497.00</AwardTotalIntnAmount>
+<AwardAmount>205497</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Glen Langston</SignBlockName>
+<PO_EMAI>glangsto@nsf.gov</PO_EMAI>
+<PO_PHON>7032924937</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The investigators seek to better understand where and when our Milky Way (MW) Galaxy formed its hundred billion stars.  As stars form and burn their nuclear fuel, this history is recorded in the chemical makeup of the gas and stars near them. Scientists can use those chemical changes to trace how different types of stars formed at different times. Reading this stellar life history requires sensitive observations and detailed models.  The researchers will fit models to age and chemical information for hundreds of thousands of stars in our galaxy. They will also look for the effects of gas flowing into the Galaxy, and of stars moving around inside the MW since they formed. These measurements will help us understand how the infant MW grew into the massive spiral galaxy we see today. In addition, the project will address scientific literacy among members of Utah’s refugee communities. The researchers will work with high-school students from these communities to design experiments for high-altitude balloons. These activities will teach computing skills and problem solving, and students will design kits for future groups to build and launch their own balloons.&lt;br/&gt;&lt;br/&gt;Until recently, our measurements of the MW’s enrichment history were largely limited to the solar neighborhood; but now, massive stellar surveys are enabling unprecedented chemical — and even age — measurements for enormous numbers of stars at a wide range of Galactic radius. These measurements reveal complex, position-dependent patterns of age and abundance that require new modeling to reproduce and interpret. The distributions of age, stellar metallicity, and alpha-element enhancement comprise the most stringent observational constraints ever confronted by chemical evolution models. The investigators will use chemical measurements from the Apache Point Observatory Galactic Evolution Experiment (APOGEE).  The survey data are ideal for this work because the data are homogeneous, and the dataset spans the full range of Galactic radius. However, many of APOGEE’s stars, especially in the inner Galaxy, do not yet have reliable age measurements. The investigators will compute the first ages for these luminous giant stars in order to complete the set of high-quality observations required for large-scale modeling of the disk’s stellar history.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009993</AwardID>
+<Investigator>
+<FirstName>Gail</FirstName>
+<LastName>Zasowski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gail Zasowski</PI_FULL_NAME>
+<EmailAddress><![CDATA[gail.zasowski@gmail.com]]></EmailAddress>
+<NSF_ID>000732018</NSF_ID>
+<StartDate>08/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>Salt Lake City</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841120090</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121600</Code>
+<Text>GALACTIC ASTRONOMY PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~205497</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Our narrative of how galaxies evolve and chemically enrich the Universe relies directly on our understanding of how and when our own Galaxy's stars formed, evolved, and died. Until recently, our measurements of the Milky Way's enrichment history were largely limited to regions close around the Sun. But now, massive surveys are enabling unprecedented chemical and even age measurements for enormous numbers of stars at a wide range of positions throughout the Galaxy. These data reveal complex, position-dependent patterns of age and chemistry that require new modeling to reproduce and interpret. The extensive data also allow us to make novel estimates of the Milky Way's total mass, luminosity, and color -- measurements that are relatively easy to obtain for external galaxies but much more difficult for our own Galaxy -- including the evolution of these properties over billions of years.<br /><br />The most significant scientific findings from this project can be summarized thus:<br /><br />1) The outer regions of the Galactic disk are dominated by stars that were actually formed closer to the Galactic center, and have since then moved outwards.<br /><br />2) Stars with different ages and chemical compositions have different distributions in the Milky Way, and few of these distributions can be described by a simple exponential profile (as is often assumed). The distributions show very interesting features such as breaks and flares, which preserve information on both the distribution of initial star-forming gas and the re-distribution of stars since they formed.<br /><br />3) Our best-fitting star-formation &amp; chemical-enrichment models reveal a coherent picture of the Milky Way's chemical evolution over time. When the Galaxy was very young, star formation was vigorous and largely homogeneous over the regions currently spanned by the older, puffier "thick disk" (consistent with earlier studies). This period was followed by a rapid quenching phase, a period of lower-level star formation, and then a large gas accretion event that reignited star formation and birthed the "thin disk". The star formation efficiency and accreted gas mass varied with Galactic distance, giving rise to the complex variations in the distribution of heavy elements we see today.<br /><br />4) Our estimates of the present-day Milky Way's mass and integrated luminosities agree well with values from previous studies using very different methods. More interesting and unique, however, are what we can learn by looking at the young Milky Way back in time. While our Galaxy is indeed in the underpopulated part of mass-color space called the "green valley", we have only been here for a couple of billion years. Comparison with low-redshift disk galaxies shows that prior to that, the Milky Way's track roughly paralleled the star-forming main sequence as it built up its stellar mass. Comparison with simulations suggests that our Galaxy may have undergone a more rapid mass build-up at very early times than other Milky-Way-like galaxies. However, galaxies that would have been considered Milky Way twins at earlier times are, today, on average less massive and redder. These findings may point to interesting differences in our Galaxy's rate of star formation and quenching over cosmic time.<br /><br />This project supported two primary education-focused initiatives: careers-in-science materials distributed to STEM teachers and schools around the world, and a peer-mentoring program serving undergraduate physics &amp; astronomy majors at the PI's home institution.<br /><br />The PI worked with the Futurum project (https://futurumcareers.com/) to develop a short article and activities designed to highlight astronomy research to middle- and high-school students exploring career options. These materials were circulated to educators around the world via newsletters and social media.<br /><br />This project also enabled the pilot launch of the PANDA Network, a peer-mentoring program for new physics &amp; astronomy majors and pre-majors. This program is providing peer group mentoring that gives both emotional/psychosocial support and practical knowledge to incoming students. The peer mentors receive several hours of training in mentoring practices and then meet several times throughout the semester with their mentees to discuss topics such as science identity and imposter syndrome, campus and department resources, and goal-setting. A pilot program took place in Spring 2022, with semesterly "full" implementation starting in Fall 2022. By May 2024, the PANDA Network had trained roughly 40 student mentors and provided mentoring to approximately 230 new physics &amp; astronomy students.</p><br> <p>  Last Modified: 06/26/2024<br> Modified by: Gail&nbsp;Zasowski</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Our narrative of how galaxies evolve and chemically enrich the Universe relies directly on our understanding of how and when our own Galaxy's stars formed, evolved, and died. Until recently, our measurements of the Milky Way's enrichment history were largely limited to regions close around the Sun. But now, massive surveys are enabling unprecedented chemical and even age measurements for enormous numbers of stars at a wide range of positions throughout the Galaxy. These data reveal complex, position-dependent patterns of age and chemistry that require new modeling to reproduce and interpret. The extensive data also allow us to make novel estimates of the Milky Way's total mass, luminosity, and color -- measurements that are relatively easy to obtain for external galaxies but much more difficult for our own Galaxy -- including the evolution of these properties over billions of years.  The most significant scientific findings from this project can be summarized thus:  1) The outer regions of the Galactic disk are dominated by stars that were actually formed closer to the Galactic center, and have since then moved outwards.  2) Stars with different ages and chemical compositions have different distributions in the Milky Way, and few of these distributions can be described by a simple exponential profile (as is often assumed). The distributions show very interesting features such as breaks and flares, which preserve information on both the distribution of initial star-forming gas and the re-distribution of stars since they formed.  3) Our best-fitting star-formation & chemical-enrichment models reveal a coherent picture of the Milky Way's chemical evolution over time. When the Galaxy was very young, star formation was vigorous and largely homogeneous over the regions currently spanned by the older, puffier "thick disk" (consistent with earlier studies). This period was followed by a rapid quenching phase, a period of lower-level star formation, and then a large gas accretion event that reignited star formation and birthed the "thin disk". The star formation efficiency and accreted gas mass varied with Galactic distance, giving rise to the complex variations in the distribution of heavy elements we see today.  4) Our estimates of the present-day Milky Way's mass and integrated luminosities agree well with values from previous studies using very different methods. More interesting and unique, however, are what we can learn by looking at the young Milky Way back in time. While our Galaxy is indeed in the underpopulated part of mass-color space called the "green valley", we have only been here for a couple of billion years. Comparison with low-redshift disk galaxies shows that prior to that, the Milky Way's track roughly paralleled the star-forming main sequence as it built up its stellar mass. Comparison with simulations suggests that our Galaxy may have undergone a more rapid mass build-up at very early times than other Milky-Way-like galaxies. However, galaxies that would have been considered Milky Way twins at earlier times are, today, on average less massive and redder. These findings may point to interesting differences in our Galaxy's rate of star formation and quenching over cosmic time.  This project supported two primary education-focused initiatives: careers-in-science materials distributed to STEM teachers and schools around the world, and a peer-mentoring program serving undergraduate physics & astronomy majors at the PI's home institution.  The PI worked with the Futurum project (https://futurumcareers.com/) to develop a short article and activities designed to highlight astronomy research to middle- and high-school students exploring career options. These materials were circulated to educators around the world via newsletters and social media.  This project also enabled the pilot launch of the PANDA Network, a peer-mentoring program for new physics & astronomy majors and pre-majors. This program is providing peer group mentoring that gives both emotional/psychosocial support and practical knowledge to incoming students. The peer mentors receive several hours of training in mentoring practices and then meet several times throughout the semester with their mentees to discuss topics such as science identity and imposter syndrome, campus and department resources, and goal-setting. A pilot program took place in Spring 2022, with semesterly "full" implementation starting in Fall 2022. By May 2024, the PANDA Network had trained roughly 40 student mentors and provided mentoring to approximately 230 new physics & astronomy students.     Last Modified: 06/26/2024       Submitted by: GailZasowski]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Deformation Mechanisms Governing Torsional Fatigue Failure of Additively Manufactured Metals at High Temperatures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>148885.00</AwardTotalIntnAmount>
+<AwardAmount>148885</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siddiq Qidwai</SignBlockName>
+<PO_EMAI>sqidwai@nsf.gov</PO_EMAI>
+<PO_PHON>7032922211</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Recent advances in the 3D metal printing/additive manufacturing technology have allowed for the realization and rapid production of nickel-based metal superalloy components, extending their geometric design space and mechanical performance envelope. Nevertheless, there is a need to ensure that these additively manufactured components can withstand in-service operational conditions while meeting necessary functional requirements and durability. Torsional fatigue, characterized by cyclic twisting loads, is often an underlying cause for failure of nickel-based metal superalloys used in the extreme environments of rocket and jet engines, high performance automobiles, and pressure vessels. These extreme temperature environments are characterized by a complex loading state, in which the deformation mechanisms contributing to torsional fatigue failure remain unclear. This award supports fundamental research to delineate the principal deformation mechanisms at the microstructural level, which govern torsional fatigue failure of additively manufactured nickel-based metal superalloys subject to varying service conditions. This research will advance the current state of knowledge and maximize durability and viability of these alloys for in-service use, thereby maturing the current technology. Additionally, this study will broaden participation, outreach, and professional training of under-represented minority undergraduate and graduate students in STEM research spanning across the disciplines of mechanics, manufacturing, and materials science and engineering. Research outcomes will be used to establish enhanced educational curriculum/tools, including incorporation of a research project-based teaching and learning structure.&lt;br/&gt;&lt;br/&gt;The fundamental problem that this research addresses is capturing the micron scale to structural scale deformation response spectrum experienced by additively manufactured nickel superalloys under torsional fatigue loading conditions at ambient and high temperatures representing in-service component conditions. The role of temperature, varying cyclic torsional loadings, and additive manufacturing processing conditions and build orientation will be explored. A variety of material characterization techniques, such as energy dispersive spectroscopy, X-ray diffraction, and electron microscopy, will be used in conjunction with extensive fatigue testing to capture the driving microstructural mechanisms leading to torsional fatigue crack initiation and growth. It is anticipated that outcomes resulting from this study will reveal how torsional response of these alloys is impacted in terms of microstructural evolution under ambient and in-service operational conditions, potentially providing insights that will contribute to an understanding of their multiaxial fatigue response.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2055027</AwardID>
+<Investigator>
+<FirstName>Sanna</FirstName>
+<LastName>Siddiqui</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sanna F Siddiqui</PI_FULL_NAME>
+<EmailAddress><![CDATA[ssiddiqui@floridapoly.edu]]></EmailAddress>
+<NSF_ID>000796027</NSF_ID>
+<StartDate>08/24/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida Polytechnic University]]></Name>
+<CityName>Lakeland</CityName>
+<ZipCode>338058531</ZipCode>
+<PhoneNumber>8638748585</PhoneNumber>
+<StreetAddress><![CDATA[4700 Research Way]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>K5D1NNQKJNX5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA POLYTECHNIC UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida Polytechnic University]]></Name>
+<CityName>Lakeland</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>338058531</ZipCode>
+<StreetAddress><![CDATA[4700 Research Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>163000</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>026E</Code>
+<Text>STRUCTURAL MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>027E</Code>
+<Text>NANOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~148885</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong><span style="text-decoration: underline;">Intellectual Merit:</span></strong></p>  <p>Nickel-based superalloys, such as Inconel 718, are used in rocket and aircraft engines, pressure vessels, and high-performance automobiles. With advancements in the metal 3D printing/additive manufacturing technologies towards wide-scale manufacturing and implementation of these materials, it becomes necessary to assess the durability and service life of these components subject to realistic in-service operational environments, characterized by an extreme stress state coupled with high temperature. These components are often subject to torsional fatigue (i.e., cyclic twisting loads), but their performance and service life subject to these extreme environments are unknown, and the role of microstructural defects introduced through the metal additive manufacturing process on limiting their performance is not understood. This National Science Foundation (NSF) study entitled: Deformation Mechanisms Governing Torsional Fatigue Failure of Additively Manufactured Metals at High Temperatures, awarded to Dr. Sanna F. Siddiqui, Principal Investigator at Florida Polytechnic University, has successfully achieved the following research aims: 1.) capturing micro-level to mechanical property relationships, and 2.) assessing the torsional fatigue performance in extreme environments of additively manufactured Inconel 718, effectively providing knowledge and bridging an understanding of the processing-microstructure-properties-performance relationship. Research findings reveal presence of sub-surface microstructural defects (i.e., lack of fusion and un-melted powder particles) introduced through the metal additive manufacturing process at sites of torsional fatigue crack paths, and presence of brittle damage mechanisms, following torsional fatigue testing at high temperature. Reduced torsional fatigue performance and life of additively manufactured Inconel 718 is also observed at high temperature, as compared with its conventionally manufactured counterpart. Research outcomes from this study includes completion of a Masters thesis, and multiple journal/conference publications and presentations, with the research recognized at professional society conferences including being the 2024 Winner of the American Standard for Testing and Materials (ASTM) E08: Fatigue and Fracture Mechanics Dr. M.R. Mitchell Student Presentation Forum, and Semifinalist in the 2024 American Institute for Aeronautics and Astronautics (AIAA) SciTech Forum Aerospace Design &amp; Structures Division Student Paper Competition.</p>  <p><strong><span style="text-decoration: underline;">Broader Impact:</span></strong></p>  <p>Florida Polytechnic University is an all STEM-degree awarding university, at which the PI has had the opportunity to achieve considerable broader impact activities as part of this NSF grant. In an effort to enhance the undergraduate educational curriculum at her institution, the PI established 2 new undergraduate technical courses in the Materials and Advanced Manufacturing Concentration within the Mechanical Engineering degree program, including Engineering Failure Analysis and Fatigue and Fracture Mechanics. Research findings on torsional fatigue performance and microstructural defects introduced through the metal additive manufacturing process from this NSF support study were incorporated within course curriculum material. The PI was awarded the 2023 Women in STEM Academic Award by the Florida Polytechnic University Foundation for her impact on inspiring students at the university, and further recognized by her alma mater, the University of Central Florida College of Engineering and Computer Science, with the 2023 Ad Astra Young Alumni Award. She was further nominated for the Florida Poly university-wide ABLAZE Excellence in Teaching Award in 2024.</p>  <p>This study actively incorporated underrepresented minority students in engineering research with 3 female undergraduate/graduate research students supported on this research grant, of which 1 was Hispanic American. Research mentoring by the PI included training on research equipment operation, data analysis/interpretation, and effective communication of research findings. Of these students, 1 is a part of the 4+1 Masters degree program, which provides undergraduate seniors the opportunity to complete graduate level courses on an accelerated path to achieve a Masters degree within 1 year following completion of Bachelors of Science degree.</p>  <p>Outreach activities to encourage/foster interest in engineering research and enhance knowledge of the general public was achieved by the following activities: a.) presentation by the PI and her research student to middle school girls at the 2022 Florida Poly International Day for Women and Girls in Science Event, b.) poster presentations of research findings at the 2024 Inaugural Mechanical Engineering Research Forum lead by the PI, and c.) an invited presentation by the PI on this research to the Florida Polytechnic University Board of Trustees. The PI has further led the development of the Order of the Engineer Link Chapter at Florida Polytechnic University. Order of the Engineer is a commitment made by graduates of engineering programs in maintaining the highest ethical standards throughout their professional career that is sealed by the wearing of a stainless-steel ring on the fifth finger of their working hand. Over the course of this NSF grant period, the PI has held 3 Order of the Engineer Induction Ceremonies, inducting a total of 151 graduates of the ABET-accredited Mechanical, Electrical and Computer Engineering Departments, including undergraduate and graduate research students supported on this grant.</p><br> <p>  Last Modified: 12/18/2024<br> Modified by: Sanna&nbsp;F&nbsp;Siddiqui</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit:    Nickel-based superalloys, such as Inconel 718, are used in rocket and aircraft engines, pressure vessels, and high-performance automobiles. With advancements in the metal 3D printing/additive manufacturing technologies towards wide-scale manufacturing and implementation of these materials, it becomes necessary to assess the durability and service life of these components subject to realistic in-service operational environments, characterized by an extreme stress state coupled with high temperature. These components are often subject to torsional fatigue (i.e., cyclic twisting loads), but their performance and service life subject to these extreme environments are unknown, and the role of microstructural defects introduced through the metal additive manufacturing process on limiting their performance is not understood. This National Science Foundation (NSF) study entitled: Deformation Mechanisms Governing Torsional Fatigue Failure of Additively Manufactured Metals at High Temperatures, awarded to Dr. Sanna F. Siddiqui, Principal Investigator at Florida Polytechnic University, has successfully achieved the following research aims: 1.) capturing micro-level to mechanical property relationships, and 2.) assessing the torsional fatigue performance in extreme environments of additively manufactured Inconel 718, effectively providing knowledge and bridging an understanding of the processing-microstructure-properties-performance relationship. Research findings reveal presence of sub-surface microstructural defects (i.e., lack of fusion and un-melted powder particles) introduced through the metal additive manufacturing process at sites of torsional fatigue crack paths, and presence of brittle damage mechanisms, following torsional fatigue testing at high temperature. Reduced torsional fatigue performance and life of additively manufactured Inconel 718 is also observed at high temperature, as compared with its conventionally manufactured counterpart. Research outcomes from this study includes completion of a Masters thesis, and multiple journal/conference publications and presentations, with the research recognized at professional society conferences including being the 2024 Winner of the American Standard for Testing and Materials (ASTM) E08: Fatigue and Fracture Mechanics Dr. M.R. Mitchell Student Presentation Forum, and Semifinalist in the 2024 American Institute for Aeronautics and Astronautics (AIAA) SciTech Forum Aerospace Design & Structures Division Student Paper Competition.    Broader Impact:    Florida Polytechnic University is an all STEM-degree awarding university, at which the PI has had the opportunity to achieve considerable broader impact activities as part of this NSF grant. In an effort to enhance the undergraduate educational curriculum at her institution, the PI established 2 new undergraduate technical courses in the Materials and Advanced Manufacturing Concentration within the Mechanical Engineering degree program, including Engineering Failure Analysis and Fatigue and Fracture Mechanics. Research findings on torsional fatigue performance and microstructural defects introduced through the metal additive manufacturing process from this NSF support study were incorporated within course curriculum material. The PI was awarded the 2023 Women in STEM Academic Award by the Florida Polytechnic University Foundation for her impact on inspiring students at the university, and further recognized by her alma mater, the University of Central Florida College of Engineering and Computer Science, with the 2023 Ad Astra Young Alumni Award. She was further nominated for the Florida Poly university-wide ABLAZE Excellence in Teaching Award in 2024.    This study actively incorporated underrepresented minority students in engineering research with 3 female undergraduate/graduate research students supported on this research grant, of which 1 was Hispanic American. Research mentoring by the PI included training on research equipment operation, data analysis/interpretation, and effective communication of research findings. Of these students, 1 is a part of the 4+1 Masters degree program, which provides undergraduate seniors the opportunity to complete graduate level courses on an accelerated path to achieve a Masters degree within 1 year following completion of Bachelors of Science degree.    Outreach activities to encourage/foster interest in engineering research and enhance knowledge of the general public was achieved by the following activities: a.) presentation by the PI and her research student to middle school girls at the 2022 Florida Poly International Day for Women and Girls in Science Event, b.) poster presentations of research findings at the 2024 Inaugural Mechanical Engineering Research Forum lead by the PI, and c.) an invited presentation by the PI on this research to the Florida Polytechnic University Board of Trustees. The PI has further led the development of the Order of the Engineer Link Chapter at Florida Polytechnic University. Order of the Engineer is a commitment made by graduates of engineering programs in maintaining the highest ethical standards throughout their professional career that is sealed by the wearing of a stainless-steel ring on the fifth finger of their working hand. Over the course of this NSF grant period, the PI has held 3 Order of the Engineer Induction Ceremonies, inducting a total of 151 graduates of the ABET-accredited Mechanical, Electrical and Computer Engineering Departments, including undergraduate and graduate research students supported on this grant.     Last Modified: 12/18/2024       Submitted by: SannaFSiddiqui]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

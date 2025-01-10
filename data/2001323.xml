@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Digitization PEN: Contribution of Digital Data from Ground-dwelling Orthopteroid Orders at American Museum of Natural History to the Symbiota Collections of Arthropods Network]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>166230.00</AwardTotalIntnAmount>
+<AwardAmount>166230</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reed Beaman</SignBlockName>
+<PO_EMAI>rsbeaman@nsf.gov</PO_EMAI>
+<PO_PHON>7032927163</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Our Earth is a dynamic, ever-changing planet of interacting species ranging from microscopic viruses and bacteria to hundred-ton whales. Just about all life on Earth exists due to intricate interactions that produce or allow for the production of food, medicine, shelter, fiber, fuel through pollination, decomposition, nutrient cycling and more. The cascading consequences of ecosystem shifts on these interactions and products can be understood by examining species distribution and diversity, as well as physical variation within and among species across a geographic range, in relation to environmental factors. Natural history collections hold such information and are a record of what happened yesterday to millions of years ago. These research collections can reveal putative reasons for past events, from which predictions about the future direction ecosystems may take and preparations for potentially volatile outcomes can be made. However, the details in these collections, some dating back 150 years or more, are often recorded on a minute slip of paper tied to a wing, tucked in the grooves of a bone or pierced with a pin underneath a collected insect. To unlock the secrets of the past for the benefit of the future, taxonomic, locality, time, and associated environmental condition collection information must be transcribed into digital form to be available for analysis. &lt;br/&gt;&lt;br/&gt;The Symbiota Collection of Arthropods Network Thematic Collection Network (SCAN TCN) has digitized specimens of select ground-dwelling insects collected from the southwestern U.S. and Mexico from 16 U.S. institutions. As a Partner to the Existing Network (PEN), the Division of Invertebrate Zoology (IZ) of the American Museum of Natural History will contribute data from 53,800 ground-dwelling roach (‘Blattaria’), earwig (Dermaptera), cricket and grasshopper (Orthoptera) specimens representing ca. 310 species in the AMNH collection. Tools such as automated image cropping and optical character recognition and help of volunteer citizen scientists are integral to this effort, an often slow and tedious process for old, handwritten labels no larger than a centimeter.  The result will be a more complete and robust understanding of species diversity and representation of current and past ecosystems and the impact of natural and anthropogenic activities. Localities will be georeferenced so specimens can be mapped in space and time, species distributions can be refined and models of distributional, ecological and diversity changes can be improved. High resolution images of exemplar males, females, alternative morphs, and AMNH holotypes for target species will aid in species identification and comparison. Additional images of earwig cerci (hind pincers) and expanded grasshopper hindwings will be available for data visualization projects. Data and images will be shared with the greater scientific community and public through AMNH’s portal, as well as with GIBF.org, iDigBio.org and SCAN.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/03/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001323</AwardID>
+<Investigator>
+<FirstName>Christine</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christine A Johnson</PI_FULL_NAME>
+<EmailAddress><![CDATA[cjohnson@amnh.org]]></EmailAddress>
+<NSF_ID>000317213</NSF_ID>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[American Museum Natural History]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100245102</ZipCode>
+<PhoneNumber>2127695975</PhoneNumber>
+<StreetAddress><![CDATA[200 CENTRAL PARK W]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MNJDKB4FXLM6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE AMERICAN MUSEUM OF NATURAL HISTORY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MNJDKB4FXLM6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American Museum of Natural History]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100245000</ZipCode>
+<StreetAddress><![CDATA[Central Park West at 79th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>689500</Code>
+<Text>Digitization</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6895</Code>
+<Text>DIGITIZATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~166230</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Our Earth is a dynamic, ever-changing planet of interacting species. Just about all life on Earth exists due to intricate interactions that produce or allow for the production of food, medicine, shelter, fiber, and fuel through pollination, decomposition, nutrient cycling and more. We can understand the cascading consequences of ecosystem shifts on these interactions and products by examining species&rsquo; distributions and diversity in relation to environmental factors. Natural history museums hold such information in their collections, which are records of what happened yesterday to millions of years ago, and these collections can therefore reveal putative reasons for past events, from which predictions about the future direction ecosystems may take and preparations for potentially volatile outcomes can be made. Details in these museum collections, some dating back 150 years or more, are often recorded on a minute slip of paper tied to a wing, tucked in the grooves of a fossil or pierced with a pin underneath a collected insect. To unlock the secrets of the past for the benefit of the future, taxonomic, locality, time, and associated environmental condition collection information must be transcribed into digital form to be available for analysis. As a Partner to the Symbiota Collection of Arthropods Network Thematic Collection Network (SCAN TCN), the goal of this project was to contribute specimen data and images from terrestrial roaches, earwigs, crickets and grasshoppers in the American Museum of Natural History insect collection to amplify the number of species and historic time-periods either under recorded or not recorded in the SCAN dataset, and to expand the geographic range of where these specimens were collected to improve the accuracy of historic and current species distribution models.</p>  <p>The project generated 31,593 new specimen catalog records of roaches, earwigs, crickets and grasshoppers from the AMNH pinned and ethanol collections; 31,543 of these records have associated high resolution images of the specimens and the labels attached to those specimens; 26,116 records have locality fields populated, representing 3,890 unique localities, of which 3,413 localities have geographical coordinates; 19,982 specimens are identified to a taxonomic level at or below the genus level (species, subspecies, variety). A total of 725 species are represented in these records, which is more than twice as many digitized species as the proposal anticipated. The specimen records databased for the project are publicly available on the AMNH Division of Invertebrate Zoology portal. <a href="https://emu-prod.amnh.org/imulive/iz/iz.html">https://emu-prod.amnh.org/imulive/iz/iz.html</a> as well as in the Global Biodiversity Information Facility (GBIF)database. A manuscript on the Orthoptera of the American Museum of Natural History has been drafted by two expert visitors who identified many of the undetermined specimens in the AMNH collection.</p>  <p>The project began with a hand-controlled copy stand-held camera to image specimens and their labels one by one. The acquisition of an automated robotic imaging system that was creatively re-purposed allowed the project to automate imaging of multiple individual specimens and their labels staged on a gray foam grid to accelerate the digitization process and generate high-resolution images whereby the specimen and labels are in focus in single image. At first, each grid of the staging platform was outfitted with scalebars and the AMNH logo, but the workflow advanced to utilizing lined grids on the staging platforms and inserting scalebars, color checkers, logos and shared labels across specimens using Photoshop to facilitate and accelerate the digitization process. Data matrix catalog number codes in the images were read with software and used to batch relabel the image filenames, which were then used to create media records and associated catalog records in the division database at AMNH. Roughly 95% of North American Polyneoptera specimens in the Invertebrate Zoology collection at AMNH is now digitized and the meta data are available to be combined with the SCAN or other datasets for spatial and temporal analysis.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/19/2024<br> Modified by: Christine&nbsp;A&nbsp;Johnson</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2001323/2001323_10700174_1734624044185_AMNH_IZC_00343432--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2001323/2001323_10700174_1734624044185_AMNH_IZC_00343432--rgov-800width.jpg" title="Melanoplus spretus"><img src="/por/images/Reports/POR/2024/2001323/2001323_10700174_1734624044185_AMNH_IZC_00343432--rgov-66x44.jpg" alt="Melanoplus spretus"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Type specimen of Rocky Mountain locust species that went extinct in 1902</div> <div class="imageCredit">Eva Larsen</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Christine&nbsp;A&nbsp;Johnson <div class="imageTitle">Melanoplus spretus</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2001323/2001323_10700174_1734623908912_IMG_2433--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2001323/2001323_10700174_1734623908912_IMG_2433--rgov-800width.jpg" title="Imaging platform"><img src="/por/images/Reports/POR/2024/2001323/2001323_10700174_1734623908912_IMG_2433--rgov-66x44.jpg" alt="Imaging platform"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Imaging platform for specimens in ethanol and automated imaging system with side light panels</div> <div class="imageCredit">Christine Johnson</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Christine&nbsp;A&nbsp;Johnson <div class="imageTitle">Imaging platform</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Our Earth is a dynamic, ever-changing planet of interacting species. Just about all life on Earth exists due to intricate interactions that produce or allow for the production of food, medicine, shelter, fiber, and fuel through pollination, decomposition, nutrient cycling and more. We can understand the cascading consequences of ecosystem shifts on these interactions and products by examining species distributions and diversity in relation to environmental factors. Natural history museums hold such information in their collections, which are records of what happened yesterday to millions of years ago, and these collections can therefore reveal putative reasons for past events, from which predictions about the future direction ecosystems may take and preparations for potentially volatile outcomes can be made. Details in these museum collections, some dating back 150 years or more, are often recorded on a minute slip of paper tied to a wing, tucked in the grooves of a fossil or pierced with a pin underneath a collected insect. To unlock the secrets of the past for the benefit of the future, taxonomic, locality, time, and associated environmental condition collection information must be transcribed into digital form to be available for analysis. As a Partner to the Symbiota Collection of Arthropods Network Thematic Collection Network (SCAN TCN), the goal of this project was to contribute specimen data and images from terrestrial roaches, earwigs, crickets and grasshoppers in the American Museum of Natural History insect collection to amplify the number of species and historic time-periods either under recorded or not recorded in the SCAN dataset, and to expand the geographic range of where these specimens were collected to improve the accuracy of historic and current species distribution models.    The project generated 31,593 new specimen catalog records of roaches, earwigs, crickets and grasshoppers from the AMNH pinned and ethanol collections; 31,543 of these records have associated high resolution images of the specimens and the labels attached to those specimens; 26,116 records have locality fields populated, representing 3,890 unique localities, of which 3,413 localities have geographical coordinates; 19,982 specimens are identified to a taxonomic level at or below the genus level (species, subspecies, variety). A total of 725 species are represented in these records, which is more than twice as many digitized species as the proposal anticipated. The specimen records databased for the project are publicly available on the AMNH Division of Invertebrate Zoology portal. https://emu-prod.amnh.org/imulive/iz/iz.html as well as in the Global Biodiversity Information Facility (GBIF)database. A manuscript on the Orthoptera of the American Museum of Natural History has been drafted by two expert visitors who identified many of the undetermined specimens in the AMNH collection.    The project began with a hand-controlled copy stand-held camera to image specimens and their labels one by one. The acquisition of an automated robotic imaging system that was creatively re-purposed allowed the project to automate imaging of multiple individual specimens and their labels staged on a gray foam grid to accelerate the digitization process and generate high-resolution images whereby the specimen and labels are in focus in single image. At first, each grid of the staging platform was outfitted with scalebars and the AMNH logo, but the workflow advanced to utilizing lined grids on the staging platforms and inserting scalebars, color checkers, logos and shared labels across specimens using Photoshop to facilitate and accelerate the digitization process. Data matrix catalog number codes in the images were read with software and used to batch relabel the image filenames, which were then used to create media records and associated catalog records in the division database at AMNH. Roughly 95% of North American Polyneoptera specimens in the Invertebrate Zoology collection at AMNH is now digitized and the meta data are available to be combined with the SCAN or other datasets for spatial and temporal analysis.         Last Modified: 12/19/2024       Submitted by: ChristineAJohnson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

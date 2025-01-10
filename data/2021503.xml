@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: EHR-Polar DCL: Polar Space and Place: Using GIS and interactive environments to bring polar science to the classroom]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>200366.00</AwardTotalIntnAmount>
+<AwardAmount>215497</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Rom</SignBlockName>
+<PO_EMAI>elrom@nsf.gov</PO_EMAI>
+<PO_PHON>7032927709</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Researchers at the University of Colorado Boulder, the National Snow and Ice Data Center, the University of Montana Western and Western Washington University will develop an innovative geoscience curriculum using Interactive Environments (IE)or Augmented Reality (AR)  technology combined with previously developed curriculum based on Geospatial Information System (GIS) technology.  Connecting polar-focused material with innovative teaching methods presents an opportunity to advance Science, Technology, Engineering and Mathematics (STEM) education and increase polar knowledge. The overarching goal of the "Polar Space and Place" project is to study the use of innovative and potentially transformative instructional technology to enhance and enliven STEM undergraduate teaching and learning. Within this goal, the Polar Space and Place curricular materials and education research will address three objectives: 1) to advance spatial learning in the geoscience curriculum, 2) to increase polar knowledge and interest in undergraduate STEM majors, and 3) to develop and test innovative teaching tools and methods to increase ‘sense of place’ (a primary place-based education goal) remotely.  The Polar Space and Place project will benefit society by testing, improving, and sharing tools to enhance STEM education. Furthermore, it will increase undergraduate spatial thinking skills, as well as students’ knowledge of and connection to the polar environment. These in turn support gains in overall Earth science and climate literacy. Through partnerships with the National Association of Geoscience Teachers (NAGT) and the Science Education Resources Center (SERC), project activities and material will reach a broad audience. SERC website material is freely available, and curriculum will also be linked to other popular resources including InTeGrate, GETSI, Teach the Earth, and Cutting Edge. Many educators will also be exposed to the materials and research findings via NAGT-sponsored webinars, Earth Educator Rendezvous activities and small workshop activities at the conferences and meetings attended by the diverse project team. &lt;br/&gt;&lt;br/&gt;Researchers will use the NSF InTeGrate and GETSI techniques to develop two new instructional modules to be deployed at a total of four institutions. The two module topics are Glacial Basin Systems and Ice sheet growth and retreat. Each module will consist of three parts: primary course material, GIS course material, and IE/AR material. This project is funded by the Office of Polar Programs and the Division of Undergraduate Education.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.078</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2021503</AwardID>
+<Investigator>
+<FirstName>Anne</FirstName>
+<LastName>Gold</LastName>
+<PI_MID_INIT>U</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anne U Gold</PI_FULL_NAME>
+<EmailAddress><![CDATA[anne.u.gold@colorado.edu]]></EmailAddress>
+<NSF_ID>000628846</NSF_ID>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Twila</FirstName>
+<LastName>Moon</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Twila A Moon</PI_FULL_NAME>
+<EmailAddress><![CDATA[twila.moon@colorado.edu]]></EmailAddress>
+<NSF_ID>000649616</NSF_ID>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803090481</ZipCode>
+<StreetAddress><![CDATA[3100 Marine Street, Room 481]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>017Y00</Code>
+<Text>Polar Special Initiatives</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>199800</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>02XX</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>0100CYXXDB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>0100XXXXDB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200366</FUND_OBLG>
+<FUND_OBLG>2023~15131</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The Polar Spaces and Places (PolarPASS, https://serc.carleton.edu/polarpass/index.html) project created a semester-length curriculum for the undergraduate geoscience classroom including lessons and resources to embed innovative technologies such as Geographic Information Systems (GIS) and interactive environment, established new methods for measuring learning outcomes, and evaluated the use of GIS and interactive environment technologies to achieve learning goals.</p>  <p>Earth's polar environments are undergoing rapid change during the 21<sup>st</sup>&nbsp;century and the U.S. and National Science Foundation have made substantial investments in polar research, generating new data and insights. Yet, there has been a lag in curriculum focused on undergraduate students to study environmental change using authentic geosciences&nbsp;and environmental science data. The PolarPASS resources address this curriculum gap to support student learning about the scientific discovery process and bring polar environments into the classroom, allow students to explore extreme environments and connect with new and seemingly distant places.</p>  <p>Using interactive 360-degree interactive environments and GIS data, and active learning techniques, PolarPASS provides a science-based curriculum that immerses students in unique polar locations and brings them up close and personal with Earth science data and field locations. The PolarPASS teaching materials feature two&nbsp;modules&nbsp;to immerse students in polar research: &ldquo;Exploring the Glacier Basin System&rdquo; and &ldquo;Long-term Spatial Transformations of the Glacier Basin System.&rdquo; The lessons use immersive imagery and videos collected in the town of Kangerlussuaq, Greenland, and in glaciated environments nearby. The modules have been tested, iteratively refined and used in a wide variety of classes and universities in the U.S. and internationally, and they include supporting materials for instructors who have not previously used GIS or interactive environments.</p>  <p>Along with developing curriculum, PolarPASS tested the efficacy of using GIS and 360-degree interactive environments to achieve place-based outcomes for a remote location. &nbsp;A new evaluation method for measuring sense of place remotely was developed and published and can now be applied by other education researchers. Using this tool, we found that descriptions of place vary substantially from novice (people have never visited a place) to experienced individuals (people have visited a place). Engaging with virtual environments, such as the 360-degree interactive environments developed by PolarPASS, can increase a person&rsquo;s connection to an area, even if they have not physically been there.&nbsp;</p>  <p>The full PolarPASS curriculum and associated research results will remain available for educator use via the project website (https://serc.carleton.edu/polarpass/index.html), and the team welcomes collaborative efforts to continue to create new PolarPASS modules, 360-degree interactive environments, and related activities. PolarPASS is a collaboration across the University of Colorado Boulder, Western Washington University, and University of Montana Western.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/27/2024<br> Modified by: Twila&nbsp;A&nbsp;Moon</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732729175124_5_PolarPASS_glacier_FINAL--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732729175124_5_PolarPASS_glacier_FINAL--rgov-800width.jpg" title="PolarPASS Glacial Environment Graphic"><img src="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732729175124_5_PolarPASS_glacier_FINAL--rgov-66x44.jpg" alt="PolarPASS Glacial Environment Graphic"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Graphic showing the Greenland glacial environment.</div> <div class="imageCredit">PolarPASS</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Twila&nbsp;A&nbsp;Moon <div class="imageTitle">PolarPASS Glacial Environment Graphic</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732728666161_1_PolarPASS_final_for_print_01--rgov-214x142.png" original="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732728666161_1_PolarPASS_final_for_print_01--rgov-800width.png" title="PolarPASS logo"><img src="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732728666161_1_PolarPASS_final_for_print_01--rgov-66x44.png" alt="PolarPASS logo"></a> <div class="imageCaptionContainer"> <div class="imageCaption">PolarPASS logo brands the Polar Spaces and Places project.</div> <div class="imageCredit">PolarPASS</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Twila&nbsp;A&nbsp;Moon <div class="imageTitle">PolarPASS logo</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732729098486_4_Screenshot_2024_11_12_at_2.42.24__8239_PM--rgov-214x142.png" original="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732729098486_4_Screenshot_2024_11_12_at_2.42.24__8239_PM--rgov-800width.png" title="PolarPASS GIS environment"><img src="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732729098486_4_Screenshot_2024_11_12_at_2.42.24__8239_PM--rgov-66x44.png" alt="PolarPASS GIS environment"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Example of PolarPASS GIS activities using QGreenland and QGIS.</div> <div class="imageCredit">PolarPASS</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Twila&nbsp;A&nbsp;Moon <div class="imageTitle">PolarPASS GIS environment</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732729034289_3_Screenshot_2024_11_12_at_2.26.50__8239_PM_v2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732729034289_3_Screenshot_2024_11_12_at_2.26.50__8239_PM_v2--rgov-800width.png" title="PolarPASS 360-degree Interactive Environments"><img src="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732729034289_3_Screenshot_2024_11_12_at_2.26.50__8239_PM_v2--rgov-66x44.png" alt="PolarPASS 360-degree Interactive Environments"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Preview of the PolarPASS 360-degree Interactive Environments.</div> <div class="imageCredit">PolarPASS</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Twila&nbsp;A&nbsp;Moon <div class="imageTitle">PolarPASS 360-degree Interactive Environments</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732728735690_2_Screenshot_2024_11_12_at_2.25.03__8239_PM--rgov-214x142.png" original="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732728735690_2_Screenshot_2024_11_12_at_2.25.03__8239_PM--rgov-800width.png" title="PolarPASS curriculum overview"><img src="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732728735690_2_Screenshot_2024_11_12_at_2.25.03__8239_PM--rgov-66x44.png" alt="PolarPASS curriculum overview"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Example of PolarPASS curriculum overview website.</div> <div class="imageCredit">PolarPASS</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Twila&nbsp;A&nbsp;Moon <div class="imageTitle">PolarPASS curriculum overview</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732729285573_6_journal.pone.0293003.g001--rgov-214x142.PNG" original="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732729285573_6_journal.pone.0293003.g001--rgov-800width.PNG" title="PolarPASS Sense of Place Knowledge Diagram"><img src="/por/images/Reports/POR/2024/2021503/2021503_10686279_1732729285573_6_journal.pone.0293003.g001--rgov-66x44.PNG" alt="PolarPASS Sense of Place Knowledge Diagram"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Diagram showing the conceptual change in sense of place from novice to expert studied in PolarPASS.</div> <div class="imageCredit">PolarPASS</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Twila&nbsp;A&nbsp;Moon <div class="imageTitle">PolarPASS Sense of Place Knowledge Diagram</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The Polar Spaces and Places (PolarPASS, https://serc.carleton.edu/polarpass/index.html) project created a semester-length curriculum for the undergraduate geoscience classroom including lessons and resources to embed innovative technologies such as Geographic Information Systems (GIS) and interactive environment, established new methods for measuring learning outcomes, and evaluated the use of GIS and interactive environment technologies to achieve learning goals.    Earth's polar environments are undergoing rapid change during the 21stcentury and the U.S. and National Science Foundation have made substantial investments in polar research, generating new data and insights. Yet, there has been a lag in curriculum focused on undergraduate students to study environmental change using authentic geosciencesand environmental science data. The PolarPASS resources address this curriculum gap to support student learning about the scientific discovery process and bring polar environments into the classroom, allow students to explore extreme environments and connect with new and seemingly distant places.    Using interactive 360-degree interactive environments and GIS data, and active learning techniques, PolarPASS provides a science-based curriculum that immerses students in unique polar locations and brings them up close and personal with Earth science data and field locations. The PolarPASS teaching materials feature twomodulesto immerse students in polar research: Exploring the Glacier Basin System and Long-term Spatial Transformations of the Glacier Basin System. The lessons use immersive imagery and videos collected in the town of Kangerlussuaq, Greenland, and in glaciated environments nearby. The modules have been tested, iteratively refined and used in a wide variety of classes and universities in the U.S. and internationally, and they include supporting materials for instructors who have not previously used GIS or interactive environments.    Along with developing curriculum, PolarPASS tested the efficacy of using GIS and 360-degree interactive environments to achieve place-based outcomes for a remote location. A new evaluation method for measuring sense of place remotely was developed and published and can now be applied by other education researchers. Using this tool, we found that descriptions of place vary substantially from novice (people have never visited a place) to experienced individuals (people have visited a place). Engaging with virtual environments, such as the 360-degree interactive environments developed by PolarPASS, can increase a persons connection to an area, even if they have not physically been there.    The full PolarPASS curriculum and associated research results will remain available for educator use via the project website (https://serc.carleton.edu/polarpass/index.html), and the team welcomes collaborative efforts to continue to create new PolarPASS modules, 360-degree interactive environments, and related activities. PolarPASS is a collaboration across the University of Colorado Boulder, Western Washington University, and University of Montana Western.         Last Modified: 11/27/2024       Submitted by: TwilaAMoon]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

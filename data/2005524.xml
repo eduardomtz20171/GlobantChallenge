@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Algebraic K-Theory in Fixed-Point Theory and Smooth Manifolds]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>154000.00</AwardTotalIntnAmount>
+<AwardAmount>154000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+<PO_EMAI>snaik@nsf.gov</PO_EMAI>
+<PO_PHON>7032924876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Fixed-point theory studies the fixed or stationary states in dynamical systems, which are critical to questions in topology, analysis, and even economics. Smooth manifolds are a special class of high-dimensional shapes that are of fundamental importance in geometry and physics. This project is concerned with important and unexpected connections between these two fields. To be more precise, they can be related using algebraic K-theory, a deep and abstract but pervasive subject whose reach already encompasses several mathematical disciplines, including homotopy theory, differential topology, algebraic geometry, and number theory. These research projects will develop these connections, giving us new ways to think about classical problems and to use techniques from fixed-point theory in unexpected places. Broader impacts include mentorship, workshop organization, and the writing of foundational works to lower the entry barrier into these disciplines.&lt;br/&gt;&lt;br/&gt;Four groups of projects will be pursued.  The first shows that the Fuller trace, a certain noncommutative trace in genuine G-spectra, provides a complete invariant for removing n-periodic points from a map by a homotopy. The second uses the trace from K-theory of endomorphisms to topological restriction homology (TR) to show that this Fuller trace is a topological, non-commutative generalization of the characteristic polynomial from linear algebra. The third project proves the equivariant refinement of Waldhausen's parametrized h-cobordism theorem, a fundamental and celebrated result in high-dimensional manifold theory. The fourth project uses noncommutative traces to compute transfer maps in algebraic K-theory, leading to torsion calculations that identify exotic bundles and fibrations that cannot be stably smoothed. In other words, fixed-point theory techniques can be used to understand smooth structures.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005524</AwardID>
+<Investigator>
+<FirstName>Cary</FirstName>
+<LastName>Malkiewich</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cary L Malkiewich</PI_FULL_NAME>
+<EmailAddress><![CDATA[cmalkiew@binghamton.edu]]></EmailAddress>
+<NSF_ID>000652351</NSF_ID>
+<StartDate>08/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY at Binghamton]]></Name>
+<CityName>BINGHAMTON</CityName>
+<ZipCode>139024400</ZipCode>
+<PhoneNumber>6077776136</PhoneNumber>
+<StreetAddress><![CDATA[4400 VESTAL PKWY E]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NQMVAAQUFU53</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GMZUKXFDJMA9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Binghamton]]></Name>
+<CityName>BINGHAMTON</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>139026000</ZipCode>
+<StreetAddress><![CDATA[4400 VESTAL PKWY E]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~154000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Topology is the study of shapes up to bending and stretching; for instance, a donut and a coffee cup with a handle look the same to a topologist, because we can bend the donut until it is the same shape as the coffee cup. Homotopy theory is a subfield of topology in which we allow even more moves such as collapsing the donut to an infinitely thin circle. Studying shapes in this way allows us to see their "essence," the features that do not change even as we deform them, such as the number of holes.</p> <p>The work undertaken in this project falls under three interrelated areas in topology. One is fixed-point theory, which tells us when transformations of a shape must have a point that does not move. Such theorems feature prominently in other areas of mathematics, as well as in economics and game theory. The second field is smooth manifolds, where we study particularly nice kinds of shapes that do not have sharp edges or points. For instance, our universe is a four-dimensional manifold, except perhaps at places where a black hole causes is to collapse to a sharp point. The third field is algebraic K-theory, which describes sophisticated behavior that can occur in matrices with coefficients in the real numbers, or in any other number system with addition and multiplication.</p> <p>In this project, the PI develops the connection between algebraic K-theory and fixed-point theory. Work of Geoghegan, Nicas, and others in the 1990s provided strong hints that the right way to count fixed points is not just as an integer, but as an element of topological Hochschild homology (THH), an invariant that is frequently used to approximate algebraic K-theory. Work of the PI and collaborators brings this idea to fruition. The paper "Periodic points and topological restriction homology" shows how to extend the count of fixed points in THH to a count of periodic points in a more sophisticated invariant called TR. The paper "K-theory of endomorphisms, the TR-trace, and zeta functions" builds on this success by relating the counts of periodic points all the way up to algebraic K-theory itself, not just its approximations THH and TR. Finally, "K-theoretic torsion and the zeta function" shows how these counts are related to the concept of Reidemeister torsion, which is one of the powerful tools topologists use to tell shapes apart.</p> <p>These papers require many technical ingredients that aren't present in the literature. The PI also takes up the task of creating these technical underpinnings, resulting in the papers "A convenient category of parametrized spectra," "Coherence for bicategories, lax functors, and shadows," and "Periodic-point structures on parametrized spectra: An application of rigidity." The first of these papers develops the entire theory of parametrized spectra from the ground up, allowing for new work in this area to proceed of firmer technical footing, such as Brazelton's recent work in equivariant enumerative geometry.&nbsp;</p> <p>This project also develops the connection between equivariant K-theory and equivariant manifolds. A shape is "equivariant" when it has symmetries, and we study the shape only up to deformations that preserve that symmetry. What is fascinating about this form of topology is that when we use algebra to characterize these shapes, the algebra itself needs to have the same kind of symmetry that the shape has. The papers "The equivariant parametrized h-cobordism theorem, the non-manifold part," "Coassembly is a homotopy limit map," and "On the functoriality of the space of equivariant smooth h-cobordisms" all develop this connection by making progress towards the equivariant version of Waldhausen's celebrated parametrized h-cobordism theorem. The upshot of this work is a more refined set of tools for classifying equivariant smooth shapes.</p> <p>This work has accelerated and invigorated the larger field, leading to work by many other authors in the last few years on equivariant manifolds and geometric applications of K-theory. It also raises many questions to be addressed in future work, such as the functoriality of the Becker-Gottlieb transfer. The PI and collaborators begin investigating this in the paper "On the multiplicativity of the Euler characteristic," along the way proving a fundamental result in the field.</p> <p>Finally, the broader impacts of this work include the organization of conferences for graduate students and other young researchers, mentoring graduate students both at the PI's institution and elsewhere, direct involvement with the Women in Topology organization, and a graduate-level textook in stable homotopy theory. The first half of this book has been written, and although it is not finished yet, it is already being used in graduate courses across the country.</p><br> <p>  Last Modified: 11/21/2024<br> Modified by: Cary&nbsp;L&nbsp;Malkiewich</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Topology is the study of shapes up to bending and stretching; for instance, a donut and a coffee cup with a handle look the same to a topologist, because we can bend the donut until it is the same shape as the coffee cup. Homotopy theory is a subfield of topology in which we allow even more moves such as collapsing the donut to an infinitely thin circle. Studying shapes in this way allows us to see their "essence," the features that do not change even as we deform them, such as the number of holes.   The work undertaken in this project falls under three interrelated areas in topology. One is fixed-point theory, which tells us when transformations of a shape must have a point that does not move. Such theorems feature prominently in other areas of mathematics, as well as in economics and game theory. The second field is smooth manifolds, where we study particularly nice kinds of shapes that do not have sharp edges or points. For instance, our universe is a four-dimensional manifold, except perhaps at places where a black hole causes is to collapse to a sharp point. The third field is algebraic K-theory, which describes sophisticated behavior that can occur in matrices with coefficients in the real numbers, or in any other number system with addition and multiplication.   In this project, the PI develops the connection between algebraic K-theory and fixed-point theory. Work of Geoghegan, Nicas, and others in the 1990s provided strong hints that the right way to count fixed points is not just as an integer, but as an element of topological Hochschild homology (THH), an invariant that is frequently used to approximate algebraic K-theory. Work of the PI and collaborators brings this idea to fruition. The paper "Periodic points and topological restriction homology" shows how to extend the count of fixed points in THH to a count of periodic points in a more sophisticated invariant called TR. The paper "K-theory of endomorphisms, the TR-trace, and zeta functions" builds on this success by relating the counts of periodic points all the way up to algebraic K-theory itself, not just its approximations THH and TR. Finally, "K-theoretic torsion and the zeta function" shows how these counts are related to the concept of Reidemeister torsion, which is one of the powerful tools topologists use to tell shapes apart.   These papers require many technical ingredients that aren't present in the literature. The PI also takes up the task of creating these technical underpinnings, resulting in the papers "A convenient category of parametrized spectra," "Coherence for bicategories, lax functors, and shadows," and "Periodic-point structures on parametrized spectra: An application of rigidity." The first of these papers develops the entire theory of parametrized spectra from the ground up, allowing for new work in this area to proceed of firmer technical footing, such as Brazelton's recent work in equivariant enumerative geometry.   This project also develops the connection between equivariant K-theory and equivariant manifolds. A shape is "equivariant" when it has symmetries, and we study the shape only up to deformations that preserve that symmetry. What is fascinating about this form of topology is that when we use algebra to characterize these shapes, the algebra itself needs to have the same kind of symmetry that the shape has. The papers "The equivariant parametrized h-cobordism theorem, the non-manifold part," "Coassembly is a homotopy limit map," and "On the functoriality of the space of equivariant smooth h-cobordisms" all develop this connection by making progress towards the equivariant version of Waldhausen's celebrated parametrized h-cobordism theorem. The upshot of this work is a more refined set of tools for classifying equivariant smooth shapes.   This work has accelerated and invigorated the larger field, leading to work by many other authors in the last few years on equivariant manifolds and geometric applications of K-theory. It also raises many questions to be addressed in future work, such as the functoriality of the Becker-Gottlieb transfer. The PI and collaborators begin investigating this in the paper "On the multiplicativity of the Euler characteristic," along the way proving a fundamental result in the field.   Finally, the broader impacts of this work include the organization of conferences for graduate students and other young researchers, mentoring graduate students both at the PI's institution and elsewhere, direct involvement with the Women in Topology organization, and a graduate-level textook in stable homotopy theory. The first half of this book has been written, and although it is not finished yet, it is already being used in graduate courses across the country.     Last Modified: 11/21/2024       Submitted by: CaryLMalkiewich]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

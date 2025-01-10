@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: SURF-I: Safe, Usable, Resilient and Fair Internet]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>405000.00</AwardTotalIntnAmount>
+<AwardAmount>405000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vladimir Pavlovic</SignBlockName>
+<PO_EMAI>vpavlovi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928318</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project hosts an REU Site at University of Southern California Information Sciences Institute, with the theme of ``SURF-I: Safe, Usable, Resilient and Fair Internet''. REU participants will work in a diverse, stimulating academic environment that gave birth to the Internet and the domain-name system, with researchers that are leaders in AI, social data mining, scientific workflows and networking. The REU site focuses on research to support emerging trends in cybersecurity, usability, safety and fairness as they pertain to the Internet communication. As the world has all learned from the current Covid-19 pandemic experiences, Internet communication permeates the daily lives. Even before the pandemic, people relied on the Internet for business and entertainment. During the pandemic, this reliance grew to meet education, telemedicine, exercise, governance and many other human needs. It is critical to keep Internet safe and secure for all participants, offering access to reliable and unbiased information. The research at the REU site will also investigate complex and timely issues of fairness in society, leveraging information shared on the Internet.&lt;br/&gt;&lt;br/&gt;This REU site intentionally offers a wide spectrum of research themes under the umbrella of ``Safe, Usable, Resilient and Fair Internet,'' to attract diverse student population. The research topics are grouped into three areas: communication infrastructure and cybersecurity, scientific experimentation and knowledge capture, and social data science. The communication and cybersecurity theme tackles several open problems: resilience in the face of natural disasters or targeted cyberattacks, secure communication with cloud servers, detecting emotionally manipulative language in online content and password reuse. These problems have naive solutions. As our reliance on the Internet grows, we need more systematic solutions to increase resilience and security of our communication and protect users from manipulation. The scientific experimentation and knowledge capture theme addresses important problems on data integration, knowledge representation and reusability, entity linking and knowledge discovery that span over multiple domains and are critical to improve scientific products and broaden participation in science. The social data science theme deals with important problems that require AI, data mining, data management and statistics to understand human behavioral patterns and preferences.  Its novel focus on cognitive factors and their impact on communication has already uncovered phenomena that can change the way social networks present information to users, and the way people leverage crowdsourcing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/02/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>12/20/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051101</AwardID>
+<Investigator>
+<FirstName>Jelena</FirstName>
+<LastName>Mirkovic</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jelena Mirkovic</PI_FULL_NAME>
+<EmailAddress><![CDATA[mirkovic@isi.edu]]></EmailAddress>
+<NSF_ID>000487322</NSF_ID>
+<StartDate>03/02/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rafael</FirstName>
+<LastName>Ferreira da Silva</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rafael Ferreira da Silva</PI_FULL_NAME>
+<EmailAddress><![CDATA[rafsilva@isi.edu]]></EmailAddress>
+<NSF_ID>000663889</NSF_ID>
+<StartDate>03/26/2021</StartDate>
+<EndDate>08/31/2021</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Frederick</FirstName>
+<LastName>Morstatter</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frederick G Morstatter</PI_FULL_NAME>
+<EmailAddress><![CDATA[fredmors@isi.edu]]></EmailAddress>
+<NSF_ID>000776594</NSF_ID>
+<StartDate>03/02/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Garijo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Garijo</PI_FULL_NAME>
+<EmailAddress><![CDATA[dgarijo@isi.edu]]></EmailAddress>
+<NSF_ID>000799112</NSF_ID>
+<StartDate>03/02/2021</StartDate>
+<EndDate>03/26/2021</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Garcia</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luis A Garcia</PI_FULL_NAME>
+<EmailAddress><![CDATA[la.garcia@utah.edu]]></EmailAddress>
+<NSF_ID>000827362</NSF_ID>
+<StartDate>03/02/2021</StartDate>
+<EndDate>12/20/2023</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>90033</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress><![CDATA[3720 S FLOWER ST FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA34</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>Marina del Rey</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>902926611</ZipCode>
+<StreetAddress><![CDATA[4676 Admiralty Way, Suite 1001]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>113900</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~405000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>Our REU site engaged participants in research that spans three themes under the umbrella of&nbsp;</span><span style="color: #990000;">Safe, Usable, Reliable and Fair Internet</span><span>: (1) communication and cybersecurity, (2) scientific experimentation and knowledge capture, and (3) social data science. These themes are&nbsp;</span><em>emerging</em><span>&nbsp;today because of the increased use of the Internet in daily lives. The abundance of applications and the ever-increasing traffic volume cannot be sustained by the current infrastructure. Today&rsquo;s businesses and critical infrastructure rely on the Internet more and more; this makes them attractive targets for cyberattacks. Young people are also increasingly using the Internet for learning and communication, putting themselves at risk of cyberbullying, cyber-predators, misinformation, etc. Communication and cybersecurity theme explores solutions to the above problems. Further, much information is automatically collected today by many digital devices, and much information is published online by various sources. This volume creates challenges for effectively making sense of information, and detecting important pieces, which can be presented to humans in a meaningful way. The scientific experimentation and knowledge capture theme explores these issues, and also focuses on broadening participation in science through education. Finally, increasing use of social networks allows us to study how people connect to each other, how information propagates in social systems, and how it is acquired and processed by humans. Social data science theme comprises of such projects.&nbsp;</span></p> <p>This REU site ran since&nbsp;2018. We have hosted 54 REU students, which worked with 19 mentors. Almost half of our students (26 out of 54) came from institutions with limited opportunities for undergraduate research (not R1 or R2 institutions, according to Carnegie classification), and 96% (52 out of 54) came from outside our home institution (USC). Around half of the students (23 out of 54) were female, and 4 were transgender/non-binary. In the last three years we also collected information about an applicant's minority status: 8 out of 27 of our REU students during these years (or 30%) were minorities.</p> <p>Our participants published 19 papers in peer-reviewed venues, and produced 51 research posters. Each year, they also participated in South California REU Symposium, where they presented their work and heard about the work of other 7--9 regional REU site programs. We also surveyed our past participants with regard to their career path after program participation.&nbsp;&nbsp;Out of 54 alumni, 37 have responded to our follow-up emails. Thirteen are still completing their undergraduate degree, ten are active in industry, seven have completed or are in the process of completing their MS degree and ten are in the process of completing their PhD (or in one case JD) degree.</p> <p>Overall, our REU site was very successful in teaching students about research and preparing them for graduate school. More details can be found at our REU site's Web page: https://reu.isi.edu.</p> <p><span><br /></span></p><br> <p>  Last Modified: 07/18/2024<br> Modified by: Jelena&nbsp;Mirkovic</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2051101/2051101_10720129_1721328984358_tristan--rgov-214x142.png" original="/por/images/Reports/POR/2024/2051101/2051101_10720129_1721328984358_tristan--rgov-800width.png" title="Analyzing Gameability in Citation Networks"><img src="/por/images/Reports/POR/2024/2051101/2051101_10720129_1721328984358_tristan--rgov-66x44.png" alt="Analyzing Gameability in Citation Networks"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Student research poster "Analyzing Gameability in Citation Networks"</div> <div class="imageCredit">USC/ISI</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Jelena&nbsp;Mirkovic <div class="imageTitle">Analyzing Gameability in Citation Networks</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2051101/2051101_10720129_1721329042474_hickey--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2051101/2051101_10720129_1721329042474_hickey--rgov-800width.jpg" title="Does Interacting in Hate Groups Increase Hate"><img src="/por/images/Reports/POR/2024/2051101/2051101_10720129_1721329042474_hickey--rgov-66x44.jpg" alt="Does Interacting in Hate Groups Increase Hate"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Student research poster "Does Interacting in Hate Groups Increase Hate"</div> <div class="imageCredit">USC/ISI</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Jelena&nbsp;Mirkovic <div class="imageTitle">Does Interacting in Hate Groups Increase Hate</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2051101/2051101_10720129_1721329133139_2022--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2051101/2051101_10720129_1721329133139_2022--rgov-800width.jpeg" title="2022 cohort"><img src="/por/images/Reports/POR/2024/2051101/2051101_10720129_1721329133139_2022--rgov-66x44.jpeg" alt="2022 cohort"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Students participating in 2022 edition of our REU site</div> <div class="imageCredit">USC/ISI</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Jelena&nbsp;Mirkovic <div class="imageTitle">2022 cohort</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2051101/2051101_10720129_1721329093584_kulkarni--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2051101/2051101_10720129_1721329093584_kulkarni--rgov-800width.jpg" title="MapQA: Geo-spatial Question Answering from OpenStreetMap"><img src="/por/images/Reports/POR/2024/2051101/2051101_10720129_1721329093584_kulkarni--rgov-66x44.jpg" alt="MapQA: Geo-spatial Question Answering from OpenStreetMap"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Student research poster "MapQA: Geo-spatial Question Answering from OpenStreetMap"</div> <div class="imageCredit">USC/ISI</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Jelena&nbsp;Mirkovic <div class="imageTitle">MapQA: Geo-spatial Question Answering from OpenStreetMap</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Our REU site engaged participants in research that spans three themes under the umbrella ofSafe, Usable, Reliable and Fair Internet: (1) communication and cybersecurity, (2) scientific experimentation and knowledge capture, and (3) social data science. These themes areemergingtoday because of the increased use of the Internet in daily lives. The abundance of applications and the ever-increasing traffic volume cannot be sustained by the current infrastructure. Todays businesses and critical infrastructure rely on the Internet more and more; this makes them attractive targets for cyberattacks. Young people are also increasingly using the Internet for learning and communication, putting themselves at risk of cyberbullying, cyber-predators, misinformation, etc. Communication and cybersecurity theme explores solutions to the above problems. Further, much information is automatically collected today by many digital devices, and much information is published online by various sources. This volume creates challenges for effectively making sense of information, and detecting important pieces, which can be presented to humans in a meaningful way. The scientific experimentation and knowledge capture theme explores these issues, and also focuses on broadening participation in science through education. Finally, increasing use of social networks allows us to study how people connect to each other, how information propagates in social systems, and how it is acquired and processed by humans. Social data science theme comprises of such projects.   This REU site ran since2018. We have hosted 54 REU students, which worked with 19 mentors. Almost half of our students (26 out of 54) came from institutions with limited opportunities for undergraduate research (not R1 or R2 institutions, according to Carnegie classification), and 96% (52 out of 54) came from outside our home institution (USC). Around half of the students (23 out of 54) were female, and 4 were transgender/non-binary. In the last three years we also collected information about an applicant's minority status: 8 out of 27 of our REU students during these years (or 30%) were minorities.   Our participants published 19 papers in peer-reviewed venues, and produced 51 research posters. Each year, they also participated in South California REU Symposium, where they presented their work and heard about the work of other 7--9 regional REU site programs. We also surveyed our past participants with regard to their career path after program participation.Out of 54 alumni, 37 have responded to our follow-up emails. Thirteen are still completing their undergraduate degree, ten are active in industry, seven have completed or are in the process of completing their MS degree and ten are in the process of completing their PhD (or in one case JD) degree.   Overall, our REU site was very successful in teaching students about research and preparing them for graduate school. More details can be found at our REU site's Web page: https://reu.isi.edu.         Last Modified: 07/18/2024       Submitted by: JelenaMirkovic]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

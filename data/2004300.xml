@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Hochschild-Type Invariants of Ring Spectra]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>212725.00</AwardTotalIntnAmount>
+<AwardAmount>212725</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+<PO_EMAI>snaik@nsf.gov</PO_EMAI>
+<PO_PHON>7032924876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Systems where one can add and multiply following the basic rules of arithmetic are called rings.  The integers are the most basic example, but other rings with very diverse properties occur in all areas of mathematics, pure and applied.  For more than fifty years, a major goal in the study of rings has been to understand their algebraic K-theory.  This is a way of thinking about rings via topology, the qualitative study of the shape of spaces.  The research supported by this award uses the trace method to connect algebraic K-theory to things which are easier to understand, like Hochschild homology and its variants.  It turns out, moreover, that if one replaces the rings by topological versions of rings that are called ring spectra, the Hochschild-type invariants become even better approximations of algebraic K-theory of the original rings, and this field has seen a lot of recent development. The principal investigator has made calculations of algebraic K-theory using these methods, and is working on others.  Understanding the Hochschild-type invariants of ring spectra also gives good tools for classifying them by analogies with traditional discrete rings.  This project provides research training opportunities for graduate students and will encourage and mentor young women mathematicians at the graduate and undergraduate levels.&lt;br/&gt;&lt;br/&gt;Most of the principal investigator's work to date has been in calculations of topological Hochschild homology, the ring spectrum version of Hochschild homology.  It turns out that this is a special case, associated to a circle, of a more general idea of tensoring any topological space with a ring spectrum, and viewing the circle calculation in this wider context has already enabled a better understanding of topological Hochschild homology calculations in some cases.  Just as the tensor product of a ring with a circle is instrumental in understanding algebraic K-theory, the tensor product of a ring with a higher dimensional torus is instrumental in understanding iterated algebraic K-theory, and so one is interested in understanding the interaction between rings (or ring spectra) and spaces that makes some such tensor product calculations much easier than others.  To get algebraic K-theory calculations, these projects will address topological cyclic homology calculations using Nikolaus and Scholze's new formulation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004300</AwardID>
+<Investigator>
+<FirstName>Ayelet</FirstName>
+<LastName>Lindenstrauss</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ayelet Lindenstrauss</PI_FULL_NAME>
+<EmailAddress><![CDATA[alindens@indiana.edu]]></EmailAddress>
+<NSF_ID>000750863</NSF_ID>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress><![CDATA[107 S INDIANA AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>Bloomington</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474057106</ZipCode>
+<StreetAddress><![CDATA[831 E. 3rd St., Rawles Hall 236]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~70256</FUND_OBLG>
+<FUND_OBLG>2021~142469</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Rings are sets of objects that one can add, subtract, and multiply, and they appear in all of mathematics---things like the integers, polynomial rings, and so on. &nbsp;Algebraic K-theory is an invariant which describes them---in fact, an invariant which in an appropriate technical sense is the foremost invariant that does that---but it is very hard to calculate. &nbsp;The trace method approach to algebraic K-theory uses an easier-to-calculate invariant called Hochschild homology to approximate algebraic K-theory. &nbsp;It turns out that if we replace discrete rings by more continuous collections of spaces where we can still add, subtract, and multiply, which are called ring spectra, we can still talk about algebraic K-theory and approximate it by topological Hochschild homology. This turns out to be an even better approximation.</p> <p>The Loday construction is a way of assembling a ring and a topological space into a new simplicial ring (a structured graded version of rings), or a ring spectrum and a space into a new ring spectrum. &nbsp;Hochschild and topological Hochschild homology, which are so useful in approximating algebraic K-theory, are actually obtained in this way, as Loday constructions over a circle. &nbsp;The PI and Birgit Richter have been studying Loday constructions over other spaces for several years now, in particular: over spheres of various dimensions. &nbsp;During this award period, they worked on a phenomenon they called stability, which enables one to understand Loday constructions over more general spaces in terms of Loday constructions over spheres. &nbsp;They have established many cases in which it holds (and know of many cases where it does not hold).</p> <p>In some cases, a group of symmetries may act on both the ring and the space, and therefore one would like to understand how this group of symmetries acts on the Loday construction. &nbsp;The correct settings to do this are Tambara functors in the discrete case and genuine equivariant ring spectra. &nbsp;The PI, Birgit Richter, and Foling Zou have used work of Hill, Hoyer, and Mazur in order to set up equivariant Loday constructions, and began making calculations of them. &nbsp;There are already calculations people are interested in for invariants of rings with a group of symmetries acting on them, like Real algebraic K-theory, and the PI, Richter, and Zou connect this and other theories that aim to approximate it to equivariant Loday constructions.</p> <p>During this award period, the PI and Birgit Richter completed their paper with a team of three junior researchers on various aspects of Loday constructions and stability. &nbsp;Two of the PI's graduate students obtained their Ph.D.'s: Emily Rudman is a Ross Visiting Assistant Professor of Mathematics at The Ohio State University and Hayley Bertrand is an Assistant Professor of Mathematics at the University of Wisconsin Whitewater. &nbsp;The PI has a new Ph.D. student, Legrand Jones II. &nbsp;The PI has been coorganizing regular pizza dinners for the women in the IU Mathematics Department since arriving there; during the pandemic these had to be replaced by various Zoom activities but they have been reinstated. &nbsp;The PI coorganized a conference, was on the scientific committee of another, and invited Birgit Richter and several seminar speakers to IU.</p><br> <p>  Last Modified: 08/11/2024<br> Modified by: Ayelet&nbsp;Lindenstrauss</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Rings are sets of objects that one can add, subtract, and multiply, and they appear in all of mathematics---things like the integers, polynomial rings, and so on. Algebraic K-theory is an invariant which describes them---in fact, an invariant which in an appropriate technical sense is the foremost invariant that does that---but it is very hard to calculate. The trace method approach to algebraic K-theory uses an easier-to-calculate invariant called Hochschild homology to approximate algebraic K-theory. It turns out that if we replace discrete rings by more continuous collections of spaces where we can still add, subtract, and multiply, which are called ring spectra, we can still talk about algebraic K-theory and approximate it by topological Hochschild homology. This turns out to be an even better approximation.   The Loday construction is a way of assembling a ring and a topological space into a new simplicial ring (a structured graded version of rings), or a ring spectrum and a space into a new ring spectrum. Hochschild and topological Hochschild homology, which are so useful in approximating algebraic K-theory, are actually obtained in this way, as Loday constructions over a circle. The PI and Birgit Richter have been studying Loday constructions over other spaces for several years now, in particular: over spheres of various dimensions. During this award period, they worked on a phenomenon they called stability, which enables one to understand Loday constructions over more general spaces in terms of Loday constructions over spheres. They have established many cases in which it holds (and know of many cases where it does not hold).   In some cases, a group of symmetries may act on both the ring and the space, and therefore one would like to understand how this group of symmetries acts on the Loday construction. The correct settings to do this are Tambara functors in the discrete case and genuine equivariant ring spectra. The PI, Birgit Richter, and Foling Zou have used work of Hill, Hoyer, and Mazur in order to set up equivariant Loday constructions, and began making calculations of them. There are already calculations people are interested in for invariants of rings with a group of symmetries acting on them, like Real algebraic K-theory, and the PI, Richter, and Zou connect this and other theories that aim to approximate it to equivariant Loday constructions.   During this award period, the PI and Birgit Richter completed their paper with a team of three junior researchers on various aspects of Loday constructions and stability. Two of the PI's graduate students obtained their Ph.D.'s: Emily Rudman is a Ross Visiting Assistant Professor of Mathematics at The Ohio State University and Hayley Bertrand is an Assistant Professor of Mathematics at the University of Wisconsin Whitewater. The PI has a new Ph.D. student, Legrand Jones II. The PI has been coorganizing regular pizza dinners for the women in the IU Mathematics Department since arriving there; during the pandemic these had to be replaced by various Zoom activities but they have been reinstated. The PI coorganized a conference, was on the scientific committee of another, and invited Birgit Richter and several seminar speakers to IU.     Last Modified: 08/11/2024       Submitted by: AyeletLindenstrauss]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

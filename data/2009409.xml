@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[How are HI Disks Fed? Probing the Drivers of Regulated Galaxy Growth]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>607040.00</AwardTotalIntnAmount>
+<AwardAmount>629240</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan Madrid</SignBlockName>
+<PO_EMAI>jmadrid@nsf.gov</PO_EMAI>
+<PO_PHON>7032927297</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Disk galaxies form stars through clouds of cold gas in their disks. As the stars form, the cold gas content is reduced. In order for galaxies to continue to form stars, they must acquire cold gas from outside. The process of accreting gas from intergalactic space is called condensation. This project will use observations from the Very Large Array (VLA) and the Hubble Space Telescope to map out the cold disk gas and the infalling intergalactic gas in order to better understand the process of condensation. The project will target 35 nearby disk galaxies for their observations and will compare the results with computer simulations of the growth and evolution of galaxies. The data from these observations will be converted to 3D visualizations for use in public and classroom settings.&lt;br/&gt;&lt;br/&gt;The project will use 21-cm data from the VLA and QSO absorption spectroscopy to trace the rotating HI disk to large galactic radii so that they can identify gas clumps that are inconsistent with the rotation of the disk. They will look for a correlation between the incidence of condensing clouds and the prevalence of young stars and stellar feedback. The VLA maps will be compared to mock images from simulations in order to estimate the source of the condensing clouds. The project will produce data products that will be available to the astronomical community through the VLA-Disk website. They will also produce interactive 3D visualizations for use in public outreach and within the classroom. Use of these interactive tools will be introduced to local high-school teachers at an annual StarLab workshop and their effectiveness will be evaluated through surveys of the teachers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/16/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009409</AwardID>
+<Investigator>
+<FirstName>Sanchayeeta</FirstName>
+<LastName>Borthakur</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sanchayeeta Borthakur</PI_FULL_NAME>
+<EmailAddress><![CDATA[Sanchayeeta.Borthakur@asu.edu]]></EmailAddress>
+<NSF_ID>000760956</NSF_ID>
+<StartDate>07/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852816011</ZipCode>
+<StreetAddress><![CDATA[ORSPA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121700</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>121900</Code>
+<Text>SPECIAL PROGRAMS IN ASTRONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~607040</FUND_OBLG>
+<FUND_OBLG>2023~22200</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1">The project was uniquely designed to detect the gas flow pathways that feed disks of galaxies and regulate star formation, thereby influencing galaxy growth. This novel approach led to significant progress in understanding gas inflow and outflow processes and the propagation of star formation. The study combined cold gas measurements from 21cm HI data from the Very Large Array with optical, UV, and IR imaging and optical and UV spectroscopy to trace gas flows in a sample of Milky Way-type galaxies, providing insights that apply to the broader population of galaxies. The achievements of this program include the discovery of the strong empirical connection between the amount of gas in the circumgalactic medium and the size of the cold-gas disk of the galaxies, the detection of outflowing gas from individual star-forming regions in galaxies such as M100, unveiling evidence of gas inflow and star formation in the disk in NGC 99, quantifying disk growth via recent star formation in NGC 3344, characterizing growth mechanisms (inside-out vs outside-in) in galaxies. These discoveries lead to seven peer-reviewed journal papers and multiple conferences and public talks.</p> <p class="p1">&nbsp;</p> <p class="p1">As part of the program, the PI conducted a series of public lectures on various aspects of astronomy at the Tempe Public Library in Arizona. In addition, a planetarium showing "light" and observing astronomical sources in multiple wavelengths, focusing on galaxy disks and the electromagnetic spectrum from radio to UV, was created for the public and is currently on the schedule for the Marston Theater Planetarium at the Arizona State University.</p> <p class="p1">&nbsp;</p><br> <p>  Last Modified: 10/27/2024<br> Modified by: Sanchayeeta&nbsp;Borthakur</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2009409/2009409_10684284_1730048308691_Outcome_report_fig1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2009409/2009409_10684284_1730048308691_Outcome_report_fig1--rgov-800width.jpg" title="Large co-rotating disk in NGC99"><img src="/por/images/Reports/POR/2024/2009409/2009409_10684284_1730048308691_Outcome_report_fig1--rgov-66x44.jpg" alt="Large co-rotating disk in NGC99"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Discovery of a large co-rotating disk extending up to 158 kpc in NGC 99. The data combines VLA HI 21cm imaging shown in color map and QSO absorption spectroscopy shown in the colored dot at the position of the QSO.</div> <div class="imageCredit">Sanch Borthakur, Alejandro Olvera</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sanchayeeta&nbsp;Borthakur <div class="imageTitle">Large co-rotating disk in NGC99</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The project was uniquely designed to detect the gas flow pathways that feed disks of galaxies and regulate star formation, thereby influencing galaxy growth. This novel approach led to significant progress in understanding gas inflow and outflow processes and the propagation of star formation. The study combined cold gas measurements from 21cm HI data from the Very Large Array with optical, UV, and IR imaging and optical and UV spectroscopy to trace gas flows in a sample of Milky Way-type galaxies, providing insights that apply to the broader population of galaxies. The achievements of this program include the discovery of the strong empirical connection between the amount of gas in the circumgalactic medium and the size of the cold-gas disk of the galaxies, the detection of outflowing gas from individual star-forming regions in galaxies such as M100, unveiling evidence of gas inflow and star formation in the disk in NGC 99, quantifying disk growth via recent star formation in NGC 3344, characterizing growth mechanisms (inside-out vs outside-in) in galaxies. These discoveries lead to seven peer-reviewed journal papers and multiple conferences and public talks.      As part of the program, the PI conducted a series of public lectures on various aspects of astronomy at the Tempe Public Library in Arizona. In addition, a planetarium showing "light" and observing astronomical sources in multiple wavelengths, focusing on galaxy disks and the electromagnetic spectrum from radio to UV, was created for the public and is currently on the schedule for the Marston Theater Planetarium at the Arizona State University.        Last Modified: 10/27/2024       Submitted by: SanchayeetaBorthakur]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

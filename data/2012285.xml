@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Fitted Finite Element Method for the Modeling of Complex Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Partial differential equations (PDEs) provide the principle mathematical models of physical phenomena that undergo continuous spatial and/or temporal variation, and the approximation of their solutions is of fundamental importance in a broad spectrum of scientific and engineering applications. Finite element methods (FEM) for solving PDEs are favored in the scientific community because of their flexibility in representing materials with complex geometries and spatially-varying material properties, and their ability to resolve local features of the solution, such as sharp transitions (e.g. shocks, layers) and singularities (unbounded derivatives). FEM works by partitioning the region of interest into a mesh consisting of smaller computational cells, and approximating the solution of the PDE in terms of “simple” functions defined on these cells. This project aims to increase the flexibility of FEM by allowing for significantly more general cell shapes and function types, to more efficiently model complex materials. Publicly-available software will be produced, together with supporting mathematical theory and numerical experiments illustrating its practical performance on problems exhibiting challenging and realistic features.&lt;br/&gt;&lt;br/&gt;The PI and collaborators will develop theory and practical algorithms for computing with finite elements defined on meshes consisting of rather general curvilinear polygons. Among the issues that will be addressed are: (i) interpolation/approximation theory for the  resulting finite element spaces, which contain special locally-harmonic functions in addition to local polynomials; (ii) basis selection and efficient and accurate quadrature rules for assembling the finite element linear system; (iii) efficient and reliable a posteriori error estimators, and self-adaptive refinement techniques based on them; (iv) development of freely-available software, hosted on a public repository, that includes example problems. The types of problems that motivate this work are those involving PDE models of complex materials that may have multiple complicated interfaces between material types. Numerical examples supplied in the articles will highlight the performance of the proposed method on such problems, making relevant comparisons with competing approaches where feasible.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012285</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Ovall</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey Ovall</PI_FULL_NAME>
+<EmailAddress><![CDATA[jovall@pdx.edu]]></EmailAddress>
+<NSF_ID>000554885</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Portland State University]]></Name>
+<CityName>PORTLAND</CityName>
+<ZipCode>972015508</ZipCode>
+<PhoneNumber>5037259900</PhoneNumber>
+<StreetAddress><![CDATA[1600 SW 4TH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H4CAHK2RD945</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PORTLAND STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WWUJS84WJ647</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Portland State University]]></Name>
+<CityName>Portland</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>972070751</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~87772</FUND_OBLG>
+<FUND_OBLG>2021~54769</FUND_OBLG>
+<FUND_OBLG>2022~57459</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Mathematical models for many important problems in science and engineering are given as partial differential equations, and their solutions must be approximated.&nbsp; Finite element methods provide a principled means of approximating such solutions, by partitioning the physical domain of interest is to multiple small cells (a mesh), and computing a function that is simple (e.g. a polynomial) on each cell, and that satisfies a version of the partial differential equation.&nbsp; This permits the conversion of a partial differential equation into a closely-related large system of linear equations.&nbsp;</p>  <p><br />Standard finite element methods employ only basic mesh cells---triangles and quadrilaterals in 2D, and their 3D analogues.&nbsp; We proposed a significant relaxation of this constraint on mesh cells, allowing for quite general cells that could be used to precisely fit geometric features of interest in physical structures.&nbsp; This generalization in the types of mesh cells allowed also required a generalization of the types of functions employed on these cells.&nbsp; Polynomials were still required, but were no longer sufficient by themselves, and the additional functions that were necessary were only defined implicitly.&nbsp; This project entailed the proper definition of such functions, theoretical and empirical analyses of their capability to efficiently approximate solutions of partial differential equations, and a practical realization of the proposed approach that could be readily tested by others.</p>  <p>Our theoretical and computational results are outlined in a series of peer-reviewed journal articles, most of which were written with graduate student who earned a PhD for work on this project.&nbsp; These results were also presented in multiple invited presentations at national and international conferences.&nbsp; Three additional graduate students also received training in the theoretical and computational aspects of this work because of the funding.&nbsp; The resulting software is freely available via a Github repository, which also includes easy-to-use tutorials for reproducing our results and building upon them.</p>  <p>Some key technical results that may be of interest beyond the applications that motivated us to establish them include:<br />* Efficient, high-order schemes for evaluating interior values and derivatives, as well as the boundary normal derivative, of the implicitly-defined functions arising in our method.<br />* The reduction of the quadratures on mesh cells to quadratures on their boundaries, where high-order techniques are available.&nbsp; This was a crucial step in making the method computationally viable.<br />* The efficient computation of a bi-harmonic function whose Laplacian is a harmonic function given in terms of its boundary data.</p>  <p>With a current PhD student, we will be using the tools developed in this project to explore the sensitivity of the phenomenon of spatial localization of eigenvectors, hence of waves at certain frequencies, to small perturbations in physical configurations.&nbsp; Such studies will require techniques such as what we have developed which can precisely fit the substructures in these configurations.&nbsp;</p><br> <p>  Last Modified: 12/30/2024<br> Modified by: Jeffrey&nbsp;Ovall</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2012285/2012285_10690112_1735575490326_MeshComparisons--rgov-214x142.png" original="/por/images/Reports/POR/2024/2012285/2012285_10690112_1735575490326_MeshComparisons--rgov-800width.png" title="MeshComparisons"><img src="/por/images/Reports/POR/2024/2012285/2012285_10690112_1735575490326_MeshComparisons--rgov-66x44.png" alt="MeshComparisons"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Comparisons of standard triangular meshes with our new type of meshes.  Ours yield equivalent accuracy with fewer degrees of freedom.</div> <div class="imageCredit">Jeff Ovall</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Jeffrey&nbsp;Ovall <div class="imageTitle">MeshComparisons</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Mathematical models for many important problems in science and engineering are given as partial differential equations, and their solutions must be approximated. Finite element methods provide a principled means of approximating such solutions, by partitioning the physical domain of interest is to multiple small cells (a mesh), and computing a function that is simple (e.g. a polynomial) on each cell, and that satisfies a version of the partial differential equation. This permits the conversion of a partial differential equation into a closely-related large system of linear equations.     Standard finite element methods employ only basic mesh cells---triangles and quadrilaterals in 2D, and their 3D analogues. We proposed a significant relaxation of this constraint on mesh cells, allowing for quite general cells that could be used to precisely fit geometric features of interest in physical structures. This generalization in the types of mesh cells allowed also required a generalization of the types of functions employed on these cells. Polynomials were still required, but were no longer sufficient by themselves, and the additional functions that were necessary were only defined implicitly. This project entailed the proper definition of such functions, theoretical and empirical analyses of their capability to efficiently approximate solutions of partial differential equations, and a practical realization of the proposed approach that could be readily tested by others.    Our theoretical and computational results are outlined in a series of peer-reviewed journal articles, most of which were written with graduate student who earned a PhD for work on this project. These results were also presented in multiple invited presentations at national and international conferences. Three additional graduate students also received training in the theoretical and computational aspects of this work because of the funding. The resulting software is freely available via a Github repository, which also includes easy-to-use tutorials for reproducing our results and building upon them.    Some key technical results that may be of interest beyond the applications that motivated us to establish them include: * Efficient, high-order schemes for evaluating interior values and derivatives, as well as the boundary normal derivative, of the implicitly-defined functions arising in our method. * The reduction of the quadratures on mesh cells to quadratures on their boundaries, where high-order techniques are available. This was a crucial step in making the method computationally viable. * The efficient computation of a bi-harmonic function whose Laplacian is a harmonic function given in terms of its boundary data.    With a current PhD student, we will be using the tools developed in this project to explore the sensitivity of the phenomenon of spatial localization of eigenvectors, hence of waves at certain frequencies, to small perturbations in physical configurations. Such studies will require techniques such as what we have developed which can precisely fit the substructures in these configurations.     Last Modified: 12/30/2024       Submitted by: JeffreyOvall]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Crossover of Molecular and Extended Magnetism in Engineered Solids]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>489187.00</AwardTotalIntnAmount>
+<AwardAmount>489187</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Birgit Schwenzer</SignBlockName>
+<PO_EMAI>bschwenz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924771</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Part I:  Non-technical Summary&lt;br/&gt;Magnetic materials have shaped our modern society because they are crucial for advances in the fields of renewable energy, electric engines, sensors, and data storage. There are two types of magnetic materials - molecular magnets, composed of isolated molecules, and extended solid or itinerant magnets with infinite frameworks of chemical bonds within the crystal structure. Molecular magnets are appealing due to their synthesis at low temperatures and high tunability but suffer from weak magnetic interactions. In turn, extended solid magnets exhibit strong magnetic interactions and large magnetic moments in the ordered state but have limited tunability. The current project is focused on bridging the gap between molecular and extended solid magnets by synthesizing a unique set of hybrid compounds, which combine advantages of both classes of magnetic materials. In the proposed hybrid compounds, tunable molecular fragments will be sandwiched in between one- and two-dimensional fragments of extended solid magnets. Understanding how structure determines properties is the key step for design of emerging materials. Thus, to achieve significant breakthroughs in the magnetic materials development, we are establishing fundamental relationships between structure and nature of interactions of molecular and extended fragments, and magnetic properties of the produced materials.  In the educational component of the project, chemistry graduate and undergraduate students are engaged in chemistry demonstrations at local elementary schools, the Iowa State STEM Program for Women in Science and Engineering, and the Des Moines Science Center to foster interest of K-12 students and adults in chemistry.  This project is supported by the Solid State and Materials Chemistry Program in the Division of Materials Research.&lt;br/&gt;&lt;br/&gt;Part II:  Technical Summary&lt;br/&gt;Exploration of chemical factors that affect magnetic interactions in solids is one of the major steps in the development of novel magnetic materials. Current solid state syntheses lack the predictability and rationality of organometallic and coordination chemistry. To achieve high predictability and rationally design magnetic materials, hybrid magnetic materials comprising infinite Fe-chalcogenide fragments separated by interstitial coordination metal complexes are being developed. In this way, strong magnetic interactions and tunability are segregated into two different sublattices of a hybrid material. The project uses coordination chemistry methodology to tune molecular transition metal amine complexes which are incorporated in between or connected to extended infinite Fe-chalcogenide fragments of itinerant magnets. It is anticipated that chirality and spin-crossover properties of coordination complexes will be translated to the itinerant Fe-chalcogenide fragments. An advantage of the target hybrids is that strong magnetic interactions and large magnetic moments present in the Fe-chalcogenide sublattice will either amplify the weak magnetic signatures of spin-crossover transitions or produce chiral magnets. In the educational component of the project, chemistry graduate and undergraduate students are engaged in chemistry demonstrations at local elementary schools, the Iowa State STEM Program for Women in Science and Engineering, and the Des Moines Science Center to foster interest of K-12 students and adults in chemistry.  This project is supported by the Solid State and Materials Chemistry Program in the Division of Materials Research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003783</AwardID>
+<Investigator>
+<FirstName>Kirill</FirstName>
+<LastName>Kovnir</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kirill Kovnir</PI_FULL_NAME>
+<EmailAddress><![CDATA[kovnir@iastate.edu]]></EmailAddress>
+<NSF_ID>000754191</NSF_ID>
+<StartDate>07/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<ZipCode>500112103</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress><![CDATA[1350 BEARDSHEAR HALL]]></StreetAddress>
+<StreetAddress2><![CDATA[515 MORRILL ROAD]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>Ames</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500111021</ZipCode>
+<StreetAddress><![CDATA[2415 Osborn Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>176200</Code>
+<Text>SOLID STATE &amp; MATERIALS CHEMIS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~159120</FUND_OBLG>
+<FUND_OBLG>2021~163019</FUND_OBLG>
+<FUND_OBLG>2022~167048</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Expanding the library of known inorganic compounds which hold promise for energy applications has long been a key objective in materials chemistry and engineering. These applications encompass materials that can convert waste heat into electricity (thermoelectrics), function as solar absorbers, as well as optoelectronics, superconductors, and memory storage. Chalcogenide materials are particularly valuable for these purposes. Compared to their oxide counterparts, the chalcogenide chemical space is less explored. Furthermore, due to the limited availability of tellurium in the earth&rsquo;s crust, there is a growing interest in selenium-containing materials to expand the chalcogenide chemical space by developing sustainable synthetic procedures. Unfortunately, exploration of chalcogenide materials is historically hindered by issues associated with their synthesis: a reliance on highly toxic and/or expensive reactants, and energy-intensive high-temperature synthetic techniques. Given that chalcogenides have potential for revolutionizing the energy sector by providing sustainable and cost-effective energy sources, it is crucial to dedicate research efforts to overcome the aforementioned synthetic challenges. As such, part of this proposal dealt with the development of sustainable synthetic method for activating elemental selenium to enable low-temperature synthesis of functional selenides.</p> <p>Elemental selenium was dissolved using a sustainable solvothermal method by reacting it with ethanolamine, an easily accessible organic solvent. The resulting solution remains stable in air for &nbsp;few days before solid selenium starts to precipitate. Reheating the solution causes the precipitate to dissolve thus producing no Se waste. Notably, when the activation process was carried out in an inert atmosphere (argon or nitrogen), no precipitation occurred even after several months, indicating the high stability of the prepared solution. The activated Se solution was extensively studied using various spectroscopic and spectrometric techniques. The facilely-prepared, cheap, and moderately stable Se precursor solution is a highly viable selenium source for synthesizing metal selenides with improved properties. The selenium solution enabled successful synthesis of various binary metal selenides at near-room temperature, including the polycrystalline <em>&beta;</em>-Ag<sub>2</sub>Se thermoelectric material, large single crystals of superconducting <em>&beta;</em>-FeSe, solar adsorber CdSe nanocrystals with varying particle sizes (3-10 nm), and nanosheets of PtSe<sub>2</sub> &ndash; an emergent nanocrystalline layered material. Thus, starting from elemental Se, the developed methodology provides a straightforward and sustainable approach for producing reduced selenium species, which were previously difficult to access via solution chemistry and are essential for synthesizing simple and complex functional selenides with improved properties.</p> <p>To enhance our understanding of the formation of complex functional selenides and facilitate their synthesis under low-temperature solvothermal conditions, a part of this proposal was dedicated to the development and application of an <em>in situ</em> solvothermal reaction environment at the synchrotron facilities, such as 17-BM beamline at the Advanced Photon Source at Argonne National Laboratory (APS ANL). This reaction environment allows for <em>in situ </em>variable-temperature studies of synthesis of complex materials by collecting powder X-ray diffraction patterns as the reaction progresses. This aids in understanding inorganic reaction mechanism by revealing intermediate and metastable crystalline phases that emerge during the reaction and allows to determine the optimal synthetic conditions required to achieve high selectivity and yield of the target phases. A typical half-hour synchrotron experiment saves months of synthetic optimization work in the laboratory and provides mechanistic insights that can help to understand other chalcogenide systems. The developed methodology was adopted by APS ANL and is anticipated to be expanded to other synchrotron facilities. Insights from <em>in situ</em> studies have steered our understanding of these complex systems and led to the synthesis of diverse functional selenide materials.</p> <p>This project provided exciting yet educational chemistry demonstrations to the public in Iowa. Project participants presented chemistry on Iowa State University Campus, at local elementary schools, and at the Des Moines Science Center (Spooky Science Halloween) with 1000+ visitors annually. In addition, online educational resources, a series of video tutorials, were created targeting a rookie performer audience, showing the demos, explaining chemistry behind it, and safety aspects performer should be aware of to not hurt a performer or audience members.</p><br> <p>  Last Modified: 09/30/2024<br> Modified by: Kirill&nbsp;Kovnir</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Expanding the library of known inorganic compounds which hold promise for energy applications has long been a key objective in materials chemistry and engineering. These applications encompass materials that can convert waste heat into electricity (thermoelectrics), function as solar absorbers, as well as optoelectronics, superconductors, and memory storage. Chalcogenide materials are particularly valuable for these purposes. Compared to their oxide counterparts, the chalcogenide chemical space is less explored. Furthermore, due to the limited availability of tellurium in the earths crust, there is a growing interest in selenium-containing materials to expand the chalcogenide chemical space by developing sustainable synthetic procedures. Unfortunately, exploration of chalcogenide materials is historically hindered by issues associated with their synthesis: a reliance on highly toxic and/or expensive reactants, and energy-intensive high-temperature synthetic techniques. Given that chalcogenides have potential for revolutionizing the energy sector by providing sustainable and cost-effective energy sources, it is crucial to dedicate research efforts to overcome the aforementioned synthetic challenges. As such, part of this proposal dealt with the development of sustainable synthetic method for activating elemental selenium to enable low-temperature synthesis of functional selenides.   Elemental selenium was dissolved using a sustainable solvothermal method by reacting it with ethanolamine, an easily accessible organic solvent. The resulting solution remains stable in air for few days before solid selenium starts to precipitate. Reheating the solution causes the precipitate to dissolve thus producing no Se waste. Notably, when the activation process was carried out in an inert atmosphere (argon or nitrogen), no precipitation occurred even after several months, indicating the high stability of the prepared solution. The activated Se solution was extensively studied using various spectroscopic and spectrometric techniques. The facilely-prepared, cheap, and moderately stable Se precursor solution is a highly viable selenium source for synthesizing metal selenides with improved properties. The selenium solution enabled successful synthesis of various binary metal selenides at near-room temperature, including the polycrystalline -Ag2Se thermoelectric material, large single crystals of superconducting -FeSe, solar adsorber CdSe nanocrystals with varying particle sizes (3-10 nm), and nanosheets of PtSe2  an emergent nanocrystalline layered material. Thus, starting from elemental Se, the developed methodology provides a straightforward and sustainable approach for producing reduced selenium species, which were previously difficult to access via solution chemistry and are essential for synthesizing simple and complex functional selenides with improved properties.   To enhance our understanding of the formation of complex functional selenides and facilitate their synthesis under low-temperature solvothermal conditions, a part of this proposal was dedicated to the development and application of an in situ solvothermal reaction environment at the synchrotron facilities, such as 17-BM beamline at the Advanced Photon Source at Argonne National Laboratory (APS ANL). This reaction environment allows for in situ variable-temperature studies of synthesis of complex materials by collecting powder X-ray diffraction patterns as the reaction progresses. This aids in understanding inorganic reaction mechanism by revealing intermediate and metastable crystalline phases that emerge during the reaction and allows to determine the optimal synthetic conditions required to achieve high selectivity and yield of the target phases. A typical half-hour synchrotron experiment saves months of synthetic optimization work in the laboratory and provides mechanistic insights that can help to understand other chalcogenide systems. The developed methodology was adopted by APS ANL and is anticipated to be expanded to other synchrotron facilities. Insights from in situ studies have steered our understanding of these complex systems and led to the synthesis of diverse functional selenide materials.   This project provided exciting yet educational chemistry demonstrations to the public in Iowa. Project participants presented chemistry on Iowa State University Campus, at local elementary schools, and at the Des Moines Science Center (Spooky Science Halloween) with 1000+ visitors annually. In addition, online educational resources, a series of video tutorials, were created targeting a rookie performer audience, showing the demos, explaining chemistry behind it, and safety aspects performer should be aware of to not hurt a performer or audience members.     Last Modified: 09/30/2024       Submitted by: KirillKovnir]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

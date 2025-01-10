@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Designing a Minimized Genome  Cyanobacterial Chassis for Efficient Bioproduction]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>514999.00</AwardTotalIntnAmount>
+<AwardAmount>514999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Rockcliffe</SignBlockName>
+<PO_EMAI>drockcli@nsf.gov</PO_EMAI>
+<PO_PHON>7032927123</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to obtain a photosynthetic bioproduction platform that can efficiently convert sunlight and CO2 into bioproducts of interest, through iterative removal of selected genes from a cyanobacterium.  Cyanobacteria are oxygenic photosynthetic prokaryotes that are uniquely poised to become optimal platforms for sustainable bioproduction using sunlight and atmospheric CO2 as well as free and ubiquitous substrates. The genes selected for removal would be identified with the aid of computational methods and gene editing techniques. Gene removal is accomplished without compromising the growth rate of the organism. This project trains several national and international undergraduate students under different collaborative programs, in the design and implementation of molecular tools, relevant computational techniques and physiology of photosynthetic organisms. In addition, the project is designed to align with a variety of scientific entrepreneurial ventures. &lt;br/&gt;&lt;br/&gt;This project develops Synechococcus 2973, a cyanobacterium displaying the fastest photoautotrophic growth ever observed, into an ideal chassis strain by streamlining its genome in a multi-step process that involves state-of-the-art genome-editing technology, guided by experimental analysis and metabolic modeling. Efficacy of reduction is assessed by both growth rate and productivity of a plug-in reporter pathway. Minimizing the genome while retaining fast growth eases the metabolic burden on the strain, removes cryptic regulatory processes that challenge predictable engineering, and improves understanding and control over this powerful autotrophic workhorse. The creation of a novel streamlined model cyanobacterium is a significant step in achieving an industrial “green E. coli” and establishing the foundation for a sustainable bioeconomy.&lt;br/&gt;&lt;br/&gt;This award is co-funded by the Systems and Synthetic Biology Cluster in the Division of Molecular and Cellular Biosciences and the Cellular and Biochemical Engineering Program in the Division of Chemical, Bioengineering, Environmental and Transport Systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/01/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037995</AwardID>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Church</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>George M Church</PI_FULL_NAME>
+<EmailAddress><![CDATA[gchurch@genetics.med.harvard.edu]]></EmailAddress>
+<NSF_ID>000265350</NSF_ID>
+<StartDate>02/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385366</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress><![CDATA[1033 MASSACHUSETTS AVE STE 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LN53LCFJFL45</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Wyss Institute at Harvard University]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021156027</ZipCode>
+<StreetAddress><![CDATA[3 Blackfan Circle]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>801100</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~514999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Cyanobacteria are promising platforms for the sustainable photosynthetic production of natural products and high-value chemicals. However, their adoption as synthetic biology chassis organisms is limited by slower growth rate, limited understanding of their metabolism, and a paucity of genetic tools, relative to heterotrophic model strains. This collaborative project asked whether building a &ldquo;streamlined&rdquo; genome cyanobacteria, with a substantial fraction of non-essential elements of the genome removed could improve productivity and potentially simplify cryptic regulation in the cyanobacterial genome, and set out to design, construct, and test streamlined designs. The project succeeded at these core goals, producing cyanobacterial strains with up to 2% of their genome deleted, growing more rapidly (by 23%), and producing more sucrose (by 22%) when engineered to do so than the fastest-growing model cyanobacterial strain described previously. The collaboration of three labs with differing expertise was critical in achieving this aim and in exploring adjacent questions, with expertise across computational modeling, cyanobacterial engineering, and genetic tool development and sequencing technology being strengths of the three labs.</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unexpected findings during this project spawned new project directions. Modeling predicted contiguous regions of the genome to delete, but difficulty was encountered when deleting long segments of the genome using existing methods. The team instead adapted a distinct technology, Cas3587, to facilitate large genome deletions. This was one of few published examples of this technology, and the first use of this technology in cyanobacteria. This technique generated the strains described in &ldquo;Genome streamlining to improve performance of a fast-growing cyanobacterium Synechococcus elongatus UTEX 2973&rdquo;, but additionally led the Pakrasi Lab to pursue an additional unplanned effort, cyanobacteria antenna reduction using this technology. Antenna reduction in cyano has led to mixed results in the past, but provided benefit in this case, using this new technique. This led to an additional avenue for producing improved phenotype strains, and this study led to ~22% improvement in sucrose productivity, through a distinct mechanism.</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Church Lab leveraged the cyanobacteria expertise from the Pakrasi Lab and Maranas lab and through collaboration and discussion, this proposal led to independent directions. This award supported in part the Church Lab&rsquo;s characterization of novel cyanobacteria isolated from marine CO<sub>2</sub>-emitting volcanic seeps, UTEX 3222. One such cyanobacterium displays unique and industrially-relevant characteristics, including higher density growth than previously reported in other relevant strains and an aggregation/sinking behavior, which appears relevant for biomass harvesting. We anticipate that the genome streamlining methods explored in this work may be relevant across many cyanobacteria. In an additional research direction, the Church lab also integrated cyanobacteria into their experience in hardware and automation, beginning new research directions exploring the automated culture systems that could more easily evolve and characterize improved cyanobacterial strains.</p> <p>The goal of creating streamlined-genome cyanobacterial chassis strains using the input of three labs not only succeeded at creating improved, genome-streamlined strains. In addition, this proposal generated novel genome engineering techniques for cyanobacteria, helped resolve older debates like antenna reduction, and spawned entirely new efforts in cyanobacterial genome modeling, new cyanobacteria chassis bioprospecting, and development of automated labware for cyanobacteria culture. Taken together, these results push photosynthetic Synthetic Biology biology and applications forward and extend what is possible in this area.</p><br> <p>  Last Modified: 05/30/2024<br> Modified by: George&nbsp;M&nbsp;Church</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Cyanobacteria are promising platforms for the sustainable photosynthetic production of natural products and high-value chemicals. However, their adoption as synthetic biology chassis organisms is limited by slower growth rate, limited understanding of their metabolism, and a paucity of genetic tools, relative to heterotrophic model strains. This collaborative project asked whether building a streamlined genome cyanobacteria, with a substantial fraction of non-essential elements of the genome removed could improve productivity and potentially simplify cryptic regulation in the cyanobacterial genome, and set out to design, construct, and test streamlined designs. The project succeeded at these core goals, producing cyanobacterial strains with up to 2% of their genome deleted, growing more rapidly (by 23%), and producing more sucrose (by 22%) when engineered to do so than the fastest-growing model cyanobacterial strain described previously. The collaboration of three labs with differing expertise was critical in achieving this aim and in exploring adjacent questions, with expertise across computational modeling, cyanobacterial engineering, and genetic tool development and sequencing technology being strengths of the three labs.    Unexpected findings during this project spawned new project directions. Modeling predicted contiguous regions of the genome to delete, but difficulty was encountered when deleting long segments of the genome using existing methods. The team instead adapted a distinct technology, Cas3587, to facilitate large genome deletions. This was one of few published examples of this technology, and the first use of this technology in cyanobacteria. This technique generated the strains described in Genome streamlining to improve performance of a fast-growing cyanobacterium Synechococcus elongatus UTEX 2973, but additionally led the Pakrasi Lab to pursue an additional unplanned effort, cyanobacteria antenna reduction using this technology. Antenna reduction in cyano has led to mixed results in the past, but provided benefit in this case, using this new technique. This led to an additional avenue for producing improved phenotype strains, and this study led to ~22% improvement in sucrose productivity, through a distinct mechanism.    The Church Lab leveraged the cyanobacteria expertise from the Pakrasi Lab and Maranas lab and through collaboration and discussion, this proposal led to independent directions. This award supported in part the Church Labs characterization of novel cyanobacteria isolated from marine CO2-emitting volcanic seeps, UTEX 3222. One such cyanobacterium displays unique and industrially-relevant characteristics, including higher density growth than previously reported in other relevant strains and an aggregation/sinking behavior, which appears relevant for biomass harvesting. We anticipate that the genome streamlining methods explored in this work may be relevant across many cyanobacteria. In an additional research direction, the Church lab also integrated cyanobacteria into their experience in hardware and automation, beginning new research directions exploring the automated culture systems that could more easily evolve and characterize improved cyanobacterial strains.   The goal of creating streamlined-genome cyanobacterial chassis strains using the input of three labs not only succeeded at creating improved, genome-streamlined strains. In addition, this proposal generated novel genome engineering techniques for cyanobacteria, helped resolve older debates like antenna reduction, and spawned entirely new efforts in cyanobacterial genome modeling, new cyanobacteria chassis bioprospecting, and development of automated labware for cyanobacteria culture. Taken together, these results push photosynthetic Synthetic Biology biology and applications forward and extend what is possible in this area.     Last Modified: 05/30/2024       Submitted by: GeorgeMChurch]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

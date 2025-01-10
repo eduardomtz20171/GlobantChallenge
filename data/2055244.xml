@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Regularity Questions in Linear and Nonlinear Partial Differential Equations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+<PO_EMAI>mbocea@nsf.gov</PO_EMAI>
+<PO_PHON>7032922595</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The project focuses on mathematical research in certain partial differential equations (PDE) that model phenomena in physics, engineering, materials science, and economics. The study of PDE arising in models for composite materials, in particular fiber reinforced materials, is of increasing importance due to industry's need to design for improved performance. The mathematical research of the Monge-Ampére equation and related equations has particularly significant applications in differential geometry and optimal mass transport such as, for example, constructing surfaces with prescribed Gaussian curvature and reflector/refractor design. The principal investigator (PI) will carry out research closely related to these topics and will attempt to address some of the open questions in these areas. He will engage graduate students and postdoctoral researchers in the work of the project.&lt;br/&gt;&lt;br/&gt;The PI will focus his attention on several questions in three main topical areas. First, he will develop new methods to study elliptic and parabolic equations with mixed boundary conditions and rough coefficients in nonsmooth domains by using tools from harmonic analysis and conformal maps, parabolic equations with nonlocal time derivatives or more generally with nonlocal derivatives in both space and time, and Kolmogorov equations of ultraparabolic (or hypoelliptic) type with measurable coefficients. Second, the PI will study the regularity theory for degenerate fully nonlinear equations, in particular the m-Hessian equation with optimal power, the degenerate quotient Hessian equations, and more general types of Hessian equations with elementary symmetric polynomials. Finally, regarding PDE arising in the study of composite materials, the PI is particularly interested in composites with Lipschitz inclusions, and quasilinear or singular/degenerate equations of this type, and will develop new methods for the analysis of these PDE.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/07/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2055244</AwardID>
+<Investigator>
+<FirstName>Hongjie</FirstName>
+<LastName>Dong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hongjie Dong</PI_FULL_NAME>
+<EmailAddress><![CDATA[Hongjie_Dong@brown.edu]]></EmailAddress>
+<NSF_ID>000078832</NSF_ID>
+<StartDate>07/07/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName>PROVIDENCE</CityName>
+<ZipCode>029129100</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress><![CDATA[1 PROSPECT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E3FDXZ6TBHW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BROWN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E3FDXZ6TBHW3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName>Providence</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>029129056</ZipCode>
+<StreetAddress><![CDATA[182 George St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This NSF-funded project aimed to advance our understanding of partial differential equations (PDEs), which are mathematical tools used to describe a wide range of phenomena, from the flow of fluids to the behavior of materials. The research focused on three main areas: (i) Nonstandard Sobolev type estimates for elliptic and parabolic equations; (ii) Regularity for certain type of degenerate fully nonlinear equations; (iii) Equations arising in composite materials.</p> <p><strong>Research Findings</strong></p> <p><strong>&nbsp;</strong>1. <strong>Sobolev-Type Estimates</strong>: The first area of research focused on improving the understanding of how solutions to some equations behave in different settings, especially when the equations involve complicated, non-local interactions. These types of problems are particularly challenging when the equations involve "weights" that adjust the importance of different parts of the equation. Collaborating with colleagues, we extended previous work to show that these equations can be solved in more general situations than previously thought. This work has applications in areas such as fluid dynamics and materials science, where understanding the detailed behavior of solutions is crucial.</p> <p>2. <strong>Degenerate Equations</strong>: The second research area addressed equations that behave irregularly or lose some of their usual properties under certain conditions, which we describe as "degenerate." One specific type of these equations, known as the kinetic Fokker-Planck equation, is important in understanding the motion of particles in a fluid, particularly in plasmas. Our research showed that even when these equations are very rough or irregular, it is still possible to find and describe solutions in precise mathematical terms. This has important implications for the study of plasmas, which are critical in fields like nuclear fusion and space science.</p> <p>3. <strong>Composite Materials</strong>: The third research area explored how materials made from different components&mdash;known as composite materials&mdash;behave, particularly when the components are very close together. In these cases, the mathematical equations that describe the material's behavior can become very difficult to solve, with the solutions potentially showing extreme changes or "blow-ups." Our research provided new insights into these problems, showing how the geometry of the components affects the solutions. This is particularly important for designing materials with specific properties, such as strong yet lightweight composites used in aerospace engineering.</p> <p><br /><strong>Broader Impacts and Educational Contributions</strong></p> <p>Beyond the technical findings, this project had significant impacts on education and training. The research was incorporated into graduate courses at Brown University, where students had the opportunity to learn about and contribute to cutting-edge developments in PDEs. The project also provided hands-on research training to four graduate students, two of whom have already completed their Ph.D. theses and published their work in prestigious mathematical journals.&nbsp;</p> <p>Additionally, the research findings were presented at conferences and seminars around the world, including in the U.S., China, Germany, Canada, Japan, and South Korea. This helped to spread the knowledge gained from this project and fostered international collaboration.</p> <p><br /><strong>Conclusion</strong></p> <p>In summary, this project has made important contributions to the mathematical understanding of PDEs, particularly in challenging areas such as non-standard estimates, degenerate equations, and the behavior of composite materials. These findings not only advance mathematical theory but also have practical implications in fields ranging from materials science to plasma physics. Through integrating research with education, this project also played a vital role in training the next generation of mathematicians and researchers.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/21/2024<br> Modified by: Hongjie&nbsp;Dong</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This NSF-funded project aimed to advance our understanding of partial differential equations (PDEs), which are mathematical tools used to describe a wide range of phenomena, from the flow of fluids to the behavior of materials. The research focused on three main areas: (i) Nonstandard Sobolev type estimates for elliptic and parabolic equations; (ii) Regularity for certain type of degenerate fully nonlinear equations; (iii) Equations arising in composite materials.   Research Findings   1. Sobolev-Type Estimates: The first area of research focused on improving the understanding of how solutions to some equations behave in different settings, especially when the equations involve complicated, non-local interactions. These types of problems are particularly challenging when the equations involve "weights" that adjust the importance of different parts of the equation. Collaborating with colleagues, we extended previous work to show that these equations can be solved in more general situations than previously thought. This work has applications in areas such as fluid dynamics and materials science, where understanding the detailed behavior of solutions is crucial.   2. Degenerate Equations: The second research area addressed equations that behave irregularly or lose some of their usual properties under certain conditions, which we describe as "degenerate." One specific type of these equations, known as the kinetic Fokker-Planck equation, is important in understanding the motion of particles in a fluid, particularly in plasmas. Our research showed that even when these equations are very rough or irregular, it is still possible to find and describe solutions in precise mathematical terms. This has important implications for the study of plasmas, which are critical in fields like nuclear fusion and space science.   3. Composite Materials: The third research area explored how materials made from different componentsknown as composite materialsbehave, particularly when the components are very close together. In these cases, the mathematical equations that describe the material's behavior can become very difficult to solve, with the solutions potentially showing extreme changes or "blow-ups." Our research provided new insights into these problems, showing how the geometry of the components affects the solutions. This is particularly important for designing materials with specific properties, such as strong yet lightweight composites used in aerospace engineering.    Broader Impacts and Educational Contributions   Beyond the technical findings, this project had significant impacts on education and training. The research was incorporated into graduate courses at Brown University, where students had the opportunity to learn about and contribute to cutting-edge developments in PDEs. The project also provided hands-on research training to four graduate students, two of whom have already completed their Ph.D. theses and published their work in prestigious mathematical journals.   Additionally, the research findings were presented at conferences and seminars around the world, including in the U.S., China, Germany, Canada, Japan, and South Korea. This helped to spread the knowledge gained from this project and fostered international collaboration.    Conclusion   In summary, this project has made important contributions to the mathematical understanding of PDEs, particularly in challenging areas such as non-standard estimates, degenerate equations, and the behavior of composite materials. These findings not only advance mathematical theory but also have practical implications in fields ranging from materials science to plasma physics. Through integrating research with education, this project also played a vital role in training the next generation of mathematicians and researchers.                 Last Modified: 08/21/2024       Submitted by: HongjieDong]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

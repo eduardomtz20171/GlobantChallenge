@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Online Interdisciplinary Big Data Analytics in Science and Engineering]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>293710.00</AwardTotalIntnAmount>
+<AwardAmount>293710</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sharmistha Bagchi-Sen</SignBlockName>
+<PO_EMAI>shabagch@nsf.gov</PO_EMAI>
+<PO_PHON>7032928104</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This REU Site program will provide 8-week summer online research experiences to undergraduates on how to utilize modern data science and high-performance computing (HPC) techniques to process and analyze big data in many science and engineering disciplines such as Atmospheric Science, Mechanical Engineering, and Medicine. The REU Site program will be conducted purely online to allow students to conduct research without traveling and to work with experts nationwide. In recent years, the astronomical growth of available datasets in many science and engineering disciplines often requires big data analytics techniques to efficiently and effectively process the large datasets and obtain knowledge and insight from them. The program will help students identify frontier research challenges encountered when facing big data in science and engineering, and guide students to conduct research to tackle those challenges using advanced cyberinfrastructure software technologies (big data, distributed machine/deep learning, HPC, etc.) and hardware resources (including big data clusters, CPU clusters and GPU clusters). The program will develop the national workforce in areas of critical need on “Data + Computing + X”. The project thus serves the national interest, as stated by NSF's mission, to promote the progress of science and advance the national prosperity and welfare. &lt;br/&gt;&lt;br/&gt;By having three phases of training, namely formal instruction, team-based research and dissemination, this REU Site program will i) ignite students' interest in how data science and high-performance computing techniques can aid in the scientific discovery process via interdisciplinary research projects; ii) provide interdisciplinary team-based research experiences via guidance from research mentors, graduate assistants, and interdisciplinary collaborators in the application domain area of each project; and iii) provide integrated training on crucial professional skills (including skills in collaboration, communication, presentation and writing, and experience in scientific paper preparation and presentation). This REU Site will provide a unique and comprehensive program integrating the following elements under the guidance of the faculty team, who have extensive experience in interdisciplinary research and online education: 1) frontier research connecting advanced cyberinfrastructure techniques with big data challenges in science and engineering, 2) online research experience that leverages modern communication tools, 3) team-based interdisciplinary research and communication experience, 4) complementary professional development activities (such as graduate school preparation, invited talks from established researchers, and interaction with university administers including college deans and department chairs), 5) educational research on online undergraduate training experiences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/22/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050943</AwardID>
+<Investigator>
+<FirstName>Jianwu</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jianwu Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[jianwu@umbc.edu]]></EmailAddress>
+<NSF_ID>000567338</NSF_ID>
+<StartDate>03/22/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthias</FirstName>
+<LastName>Gobbert</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthias K Gobbert</PI_FULL_NAME>
+<EmailAddress><![CDATA[gobbert@umbc.edu]]></EmailAddress>
+<NSF_ID>000485133</NSF_ID>
+<StartDate>03/22/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Maryland Baltimore County]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212500001</ZipCode>
+<PhoneNumber>4104553140</PhoneNumber>
+<StreetAddress><![CDATA[1000 HILLTOP CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RNKYWXURFRL5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND BALTIMORE COUNTY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland Baltimore County]]></Name>
+<CityName>Baltimore</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212500001</ZipCode>
+<StreetAddress><![CDATA[1000 Hilltop Circle]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>113900</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~293710</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-d9665800-7fff-7aec-51f7-ef476d60ad48"> </span></p> <p dir="ltr"><span>The NSF-funded grant </span><span>REU Site: Online Interdisciplinary Big Data Analytics in Science and Engineering </span><span>(</span><a href="https://bigdatareu.umbc.edu/"><span>bigdatareu.umbc.edu</span></a><span>), led by Dr. Jianwu Wang (PI) and Dr. Matthias K. Gobbert from the Department of Mathematics and Statistics, at the University of Maryland, Baltimore County (UMBC), conducts an eight-week online program each summer for undergraduate students in computing and data science related majors. The program provides development of the national workforce in areas of critical need through (i) integrated intensive instruction in data science, big data and high-performance computing (HPC), (ii) research training in team-based interdisciplinary projects that address big data challenges in various science and engineering disciplines, and (iii) complementary professional development activities. Each summer, we train two teams of at least four students per team. Each student team is supported by a research mentor, at least one interdisciplinary collaborator, and a graduate assistant (GA).&nbsp;</span></p> <p dir="ltr"><span>See </span><a href="https://bigdatareu.umbc.edu/"><span>bigdatareu.umbc.edu</span></a><span> for detailed information on participants, research projects, developed source codes, and publications. The following research snippets show the wide range of impact of this CyberTraining funding.</span></p> <p dir="ltr"><span>The REU Site recruited and worked with 28 participants: 1 Native American, 6 Hispanics, 5 African Americans, 10 Asians, and 12 Caucasians (note: some participants have two or more races/ethnicity). They include 4 participants with a disability, 2 military veterans, and 6 first-generation college students. The breakdown by class standing is 1 high school student, 5 freshmen (first-year), 5 sophomores (second-year), 14 juniors (third-year), and 3 seniors (fourth-year). We believe our online platform contributes to our ability to recruit a good amount of students with a disability.&nbsp; On average, our program received over 100 applications each year, which shows the popularity of the program.&nbsp;</span></p> <p dir="ltr"><span>We have organized the following five types of meetings/activities: (1) Regular internal meetings on research progress includes: a) daily research progress discussion with mentor and RA for each team, b) daily research progress discussion with external collaborator for each team, c) weekly research progress discussion for both teams. (2) Internal discussions and activities include a) Graduate school preparation and academic integrity, b) Paper writing and publishing, c) Explaining LaTeX and Overleaf. (3) Invited Talks from UMBC Leaders. (4) Invited Talks on Professional Development Activities. (5) Other External Activities include collaboration with UMBC Louis Stokes Alliances for Minority Participation (LSAMP) program and attend their professional development activities including graduate school application process and graduate school seminar.</span></p> <p dir="ltr"><span>The REU Site produced 6 technical reports and 9 peer-reviewed papers. As of July 2024, 3 participants are in their PhD programs and 5 more participants are/were in their MS programs. From our recent survey, most acknowledged this training program provided very positive impacts to their career growth.&nbsp;</span></p> <p dir="ltr"><span>Besides the participants, the program also trained 2 graduate students as RA to help participant training and joint research. Over 10 researchers were also invited to work with the participants. They mainly provided a scientific problem to work with and gave feedback.</span></p> <p dir="ltr"><span>We co-organized 21 talks over the 3 summers from UMBC leaders (University President, Vice President for Research, Dean of the Graduate School, College Deans, Associate College Dean for Research, Department Chairs) talks. The speakers shared their personal experiences and provided inspiring suggestions to our participants.</span></p> <p dir="ltr"><span>The program supported at least one student from each research project to attend the conference, present their research work and connect with other researchers. Several participants received travel awards from the conference. We also attended and presented at the UMBC Summer Undergraduate Research Fest (SURF) if our participants have students from UMBC.</span></p> <p><span>To provide paper submission and presentation opportunities for REU students of our participants and beyond, we organized the National Symposium for NSF REU Research in Data Science, Systems, and Security (</span><a href="https://bigdatareu.umbc.edu/reu-symposium"><span>https://bigdatareu.umbc.edu/reu-symposium</span></a><span>) each part at a major conference. The REU Symposium requires the submission&rsquo;s lead author must be an undergraduate student or high school student funded as part of the NSF REU program or related programs. About ten papers were published and presented in our REU Symposium each year.</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 07/19/2024<br> Modified by: Jianwu&nbsp;Wang</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2050943/2050943_10723467_1721420297375_SURF_2023--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2050943/2050943_10723467_1721420297375_SURF_2023--rgov-800width.jpeg" title="REU student present their research at UMBC Summer Undergraduate Research Fest (SURF)"><img src="/por/images/Reports/POR/2024/2050943/2050943_10723467_1721420297375_SURF_2023--rgov-66x44.jpeg" alt="REU student present their research at UMBC Summer Undergraduate Research Fest (SURF)"></a> <div class="imageCaptionContainer"> <div class="imageCaption">REU student present their research at UMBC Summer Undergraduate Research Fest (SURF)</div> <div class="imageCredit">Jianwu Wang</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Jianwu&nbsp;Wang <div class="imageTitle">REU student present their research at UMBC Summer Undergraduate Research Fest (SURF)</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050943/2050943_10723467_1721420248103_visit_by_UMBC_president--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2050943/2050943_10723467_1721420248103_visit_by_UMBC_president--rgov-800width.jpeg" title="Invited talk from UMBC President"><img src="/por/images/Reports/POR/2024/2050943/2050943_10723467_1721420248103_visit_by_UMBC_president--rgov-66x44.jpeg" alt="Invited talk from UMBC President"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Invited talk from UMBC President</div> <div class="imageCredit">Jianwu Wang</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Jianwu&nbsp;Wang <div class="imageTitle">Invited talk from UMBC President</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050943/2050943_10723467_1721420216381_team2_reu_symposium_2022--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2050943/2050943_10723467_1721420216381_team2_reu_symposium_2022--rgov-800width.jpg" title="REU student presenting their work at BDCAT conference"><img src="/por/images/Reports/POR/2024/2050943/2050943_10723467_1721420216381_team2_reu_symposium_2022--rgov-66x44.jpg" alt="REU student presenting their work at BDCAT conference"></a> <div class="imageCaptionContainer"> <div class="imageCaption">REU student presenting their work at BDCAT conference</div> <div class="imageCredit">Jianwu Wang</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Jianwu&nbsp;Wang <div class="imageTitle">REU student presenting their work at BDCAT conference</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050943/2050943_10723467_1721420164175_REU_2022_VIP_talk--rgov-214x142.png" original="/por/images/Reports/POR/2024/2050943/2050943_10723467_1721420164175_REU_2022_VIP_talk--rgov-800width.png" title="Invited talk from the department chair of Mathematics and Statistics"><img src="/por/images/Reports/POR/2024/2050943/2050943_10723467_1721420164175_REU_2022_VIP_talk--rgov-66x44.png" alt="Invited talk from the department chair of Mathematics and Statistics"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Invited talk from the department chair of Mathematics and Statistics</div> <div class="imageCredit">Jianwu Wang</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Jianwu&nbsp;Wang <div class="imageTitle">Invited talk from the department chair of Mathematics and Statistics</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050943/2050943_10723467_1721420097455_BigDataREU2021WebEx--rgov-214x142.png" original="/por/images/Reports/POR/2024/2050943/2050943_10723467_1721420097455_BigDataREU2021WebEx--rgov-800width.png" title="Internal WebEx Meeting among REU students, mentors and RAs"><img src="/por/images/Reports/POR/2024/2050943/2050943_10723467_1721420097455_BigDataREU2021WebEx--rgov-66x44.png" alt="Internal WebEx Meeting among REU students, mentors and RAs"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Internal WebEx Meeting among REU students, mentors and RAs</div> <div class="imageCredit">Jianwu Wang</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Jianwu&nbsp;Wang <div class="imageTitle">Internal WebEx Meeting among REU students, mentors and RAs</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      The NSF-funded grant REU Site: Online Interdisciplinary Big Data Analytics in Science and Engineering (bigdatareu.umbc.edu), led by Dr. Jianwu Wang (PI) and Dr. Matthias K. Gobbert from the Department of Mathematics and Statistics, at the University of Maryland, Baltimore County (UMBC), conducts an eight-week online program each summer for undergraduate students in computing and data science related majors. The program provides development of the national workforce in areas of critical need through (i) integrated intensive instruction in data science, big data and high-performance computing (HPC), (ii) research training in team-based interdisciplinary projects that address big data challenges in various science and engineering disciplines, and (iii) complementary professional development activities. Each summer, we train two teams of at least four students per team. Each student team is supported by a research mentor, at least one interdisciplinary collaborator, and a graduate assistant (GA).   See bigdatareu.umbc.edu for detailed information on participants, research projects, developed source codes, and publications. The following research snippets show the wide range of impact of this CyberTraining funding.   The REU Site recruited and worked with 28 participants: 1 Native American, 6 Hispanics, 5 African Americans, 10 Asians, and 12 Caucasians (note: some participants have two or more races/ethnicity). They include 4 participants with a disability, 2 military veterans, and 6 first-generation college students. The breakdown by class standing is 1 high school student, 5 freshmen (first-year), 5 sophomores (second-year), 14 juniors (third-year), and 3 seniors (fourth-year). We believe our online platform contributes to our ability to recruit a good amount of students with a disability. On average, our program received over 100 applications each year, which shows the popularity of the program.   We have organized the following five types of meetings/activities: (1) Regular internal meetings on research progress includes: a) daily research progress discussion with mentor and RA for each team, b) daily research progress discussion with external collaborator for each team, c) weekly research progress discussion for both teams. (2) Internal discussions and activities include a) Graduate school preparation and academic integrity, b) Paper writing and publishing, c) Explaining LaTeX and Overleaf. (3) Invited Talks from UMBC Leaders. (4) Invited Talks on Professional Development Activities. (5) Other External Activities include collaboration with UMBC Louis Stokes Alliances for Minority Participation (LSAMP) program and attend their professional development activities including graduate school application process and graduate school seminar.   The REU Site produced 6 technical reports and 9 peer-reviewed papers. As of July 2024, 3 participants are in their PhD programs and 5 more participants are/were in their MS programs. From our recent survey, most acknowledged this training program provided very positive impacts to their career growth.   Besides the participants, the program also trained 2 graduate students as RA to help participant training and joint research. Over 10 researchers were also invited to work with the participants. They mainly provided a scientific problem to work with and gave feedback.   We co-organized 21 talks over the 3 summers from UMBC leaders (University President, Vice President for Research, Dean of the Graduate School, College Deans, Associate College Dean for Research, Department Chairs) talks. The speakers shared their personal experiences and provided inspiring suggestions to our participants.   The program supported at least one student from each research project to attend the conference, present their research work and connect with other researchers. Several participants received travel awards from the conference. We also attended and presented at the UMBC Summer Undergraduate Research Fest (SURF) if our participants have students from UMBC.   To provide paper submission and presentation opportunities for REU students of our participants and beyond, we organized the National Symposium for NSF REU Research in Data Science, Systems, and Security (https://bigdatareu.umbc.edu/reu-symposium) each part at a major conference. The REU Symposium requires the submissions lead author must be an undergraduate student or high school student funded as part of the NSF REU program or related programs. About ten papers were published and presented in our REU Symposium each year.        Last Modified: 07/19/2024       Submitted by: JianwuWang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

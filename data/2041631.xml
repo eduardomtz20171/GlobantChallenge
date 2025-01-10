@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Characterization of the Oceanic Lithosphere-Asthenosphere Boundary in the Colombian Subduction Zone through Receiver Function Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>243553.00</AwardTotalIntnAmount>
+<AwardAmount>243553</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eva Zanzerkia</SignBlockName>
+<PO_EMAI>ezanzerk@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded in whole or in part under the American Rescue Plan Act of 2021 (Public Law 117-2).&lt;br/&gt;&lt;br/&gt;The goal of this project is to test two competing models of the boundary separating the Earth’s stiff outer layer (lithosphere) from the underlying, weaker layer (asthenosphere). One model proposes that this boundary is a narrow channel that decouples the lithosphere and asthenosphere. The other model proposes that this boundary forms a broad band of deformation that couples the lithosphere and asthenosphere. Each model has important implications for our understanding of plate tectonics—the process which drives the Earth’s long-term geologic evolution—and its relation to the Earth’s interior. Each model carries predictions about the boundary between the lithosphere and asthenosphere. These predictions can be tested using receiver functions. In collaboration with the Universidad Nacional de Colombia, this project uses recordings from seismic stations of the Colombian National Seismic Network located above the Colombian subduction zone. In this region, the characteristics of Nazca oceanic plate’s lower boundary can be examined over a range of depths to determine which of the models is most accurate. Understanding which model is most accurate will benefit society by helping to constrain the force balance acting on tectonic plates, especially around subduction zones where potentially destructive earthquakes driven by these forces occur. This project further benefits society by deepening international collaboration between institutions in the US and Colombia as well as furthering STEM education by providing training in seismology to a postdoctoral fellow.&lt;br/&gt;&lt;br/&gt;Observations of the oceanic lithosphere-asthenosphere boundary (LAB) support two categories of contradictory models for coupling between the lithosphere and underlying asthenosphere, and correspondingly contradictory implications for plate tectonics. One category interprets the boundary to be a narrow, melt-rich channel that decouples lithospheric plates from the asthenosphere. Plate motion is thus driven largely by slab pull. The other category interprets the boundary as a broad zone which couples plates to the asthenosphere. Plate motion is thus strongly influenced by asthenospheric flow induced drag. These models predict differing structures and localizations of shear along the LAB. Channel models predict two closely spaced, highly sheared boundaries while coupled models predict either a single boundary with little shear or a single highly sheared boundary. The predicted features respond differently to increasing pressure due to subduction. Channels narrow with depth and coupled structures persist to greater, differing depths, so observing a plate as it subducts offers an ideal natural experiment to test these models. Seismic waves with different frequency contents interact with these structures such that high frequencies can better image channels while low frequencies can better image coupled structures. This project uses P-to-S-wave receiver function analysis of radial and transverse components recorded at broadband seismic stations to examine structural characteristics and shear localization along the boundary. The complete characterization of structure and anisotropy caused by shear requires long-term observations at seismic stations from the coast to the back arc at a range of frequency bands. This project uses data from 2010 to the present from 26 stations in the Colombian National Seismic Network to investigate and characterize the subducting Nazca oceanic plate’s LAB from depths of &lt;100 km at the coastline to &gt;400 km in the back arc. These observations will provide constraints on the depth, thickness, and anisotropic properties (if present) of the boundary and use these to test the proposed models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/25/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041631</AwardID>
+<Investigator>
+<FirstName>Linda</FirstName>
+<LastName>Warren</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Linda M Warren</PI_FULL_NAME>
+<EmailAddress><![CDATA[linda.warren@slu.edu]]></EmailAddress>
+<NSF_ID>000101102</NSF_ID>
+<StartDate>07/25/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brandon</FirstName>
+<LastName>Bishop</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brandon T Bishop</PI_FULL_NAME>
+<EmailAddress><![CDATA[brandon.t.bishop@slu.edu]]></EmailAddress>
+<NSF_ID>000809061</NSF_ID>
+<StartDate>07/25/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Saint Louis University]]></Name>
+<CityName>SAINT LOUIS</CityName>
+<ZipCode>631032006</ZipCode>
+<PhoneNumber>3149773925</PhoneNumber>
+<StreetAddress><![CDATA[221 N GRAND BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JNBLLTBTLLD8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SAINT LOUIS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JNBLLTBTLLD8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Saint Louis University]]></Name>
+<CityName>St Louis</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>631032006</ZipCode>
+<StreetAddress><![CDATA[221 N. Grand Blvd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>162000</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>722200</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~243553</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Tectonic plates represent the rigid outermost ~100 kilometer layer of the Earth. This outer layer is called the lithosphere. The lithosphere lies above a weaker layer of the Earth called the asthenosphere. The characteristics of the boundary between the lithosphere and asthenosphere, called the LAB, controls whether the lithosphere moves independently of the asthenosphere or whether motion in one layer causes motion in the other. If the LAB is narrow and dominated by melt, the two layers will move independently. If the LAB is broad with limited or no melt, motion in the lithosphere will cause drag in the upper part of the asthenosphere, slowing both.</p> <p>Oceanic lithosphere is much younger than continental lithosphere, making it comparatively simpler to study as it has been affected by fewer geologic events. Oceanic lithosphere is also pulled to increasing depths during subduction, increasing pressure at the LAB while largely leaving the temperature contrast between the lithosphere and asthenosphere unaffected. This creates a natural experiment where the LAB is subjected to steadily increasing pressures. If melt dominates the LAB, it will tend to be forced upward by its buoyancy, making the LAB narrower with increasing depth. If drag dominates the LAB, there should be little effect on its thickness with depth. Drag affects different minerals in different ways, and for the main mineral making up the lithosphere and asthenosphere above ~410 km depth, drag causes an alignment of mineral grains which causes seismic waves traveling in different directions to travel faster or slower than they normally would (this is called anisotropy). Below 410 km depth, the dominant mineral does not cause anisotropy. If drag is an important characteristic of the LAB, anisotropy should affect seismic waves crossing the LAB until ~410 km depth.</p> <p>We used data from the Colombian National Seismic Network (the circles and diamonds in the accompanying figure mark the location of the network&rsquo;s seismometers) to investigate the LAB of the oceanic Nazca plate&rsquo;s lithosphere as it subducts from the surface to &gt;400 km depth below Colombia. The colored lines in the accompanying figure mark the estimated depth to the top of the Nazca plate&rsquo;s subducted lithosphere. The Nazca plate is very young, and the age of the plate is shown in millions of years along the left side of the figure. The plate&rsquo;s estimated motion with respect to the material below the asthenosphere is marked by a white arrow in the accompanying figure. If drag at a large scale is important for the asthenosphere, we might expect seismic anisotropy to approximately align with the arrow.</p> <p>Our data was used to calculate receiver functions, a technique that uses seismic waves from distant earthquakes to detect boundaries in the Earth directly below a seismometer. We found that the Nazca plate&rsquo;s LAB below all but 6 seismometers in the network has clear evidence for anisotropy. We further found that there is no LAB detectable at the seismometers above the deepest part of the subducted plate. Both of these observations indicate drag is the key characteristic for the LAB of this young plate. We further found that the orientation of anisotropy below the slab in the central and southern part of Colombia is highly variable and does not fit a simple model where anisotropy is mostly caused by the dip of the subducting plate (the cyan and magenta rays pointing out from the station symbol in the map key show the pattern that should be present if the dip of the plate is the primary cause of anisotropy).</p> <p>This grant also supported a Master&rsquo;s student in developing new receiver function techniques to potentially expand the usable data set and a post-doctoral researcher who helped mentor the Master&rsquo;s student and carried out the main part of the project. Results from this grant were presented at the American Geophysical Union&rsquo;s Fall Meeting in 2021-2023, and three manuscripts are being prepared to further disseminate our results. The &gt;35,000 receiver functions calculated for this study will be publicly released for use in other studies alongside these manuscripts. In addition, the grant supported collaboration between seismologists at Saint Louis University, the Colombian Geological Survey, and the National University of Colombia.</p><br> <p>  Last Modified: 11/19/2024<br> Modified by: Brandon&nbsp;T&nbsp;Bishop</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2041631/2041631_10752829_1732053412614_Summary_fig--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2041631/2041631_10752829_1732053412614_Summary_fig--rgov-800width.jpg" title="Summary of Observations of LAB in Colombia"><img src="/por/images/Reports/POR/2024/2041631/2041631_10752829_1732053412614_Summary_fig--rgov-66x44.jpg" alt="Summary of Observations of LAB in Colombia"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Results from receiver function observations made at seismic stations in Colombia. Stations shown as diamonds observe the Colombian flat slab, stations shown as circles observe the normally dipping slab. Spikes on circles show patterns of anisotropy observed, pattern in key shows expected anisotropy.</div> <div class="imageCredit">Brandon T. Bishop</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Brandon&nbsp;T&nbsp;Bishop <div class="imageTitle">Summary of Observations of LAB in Colombia</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Tectonic plates represent the rigid outermost ~100 kilometer layer of the Earth. This outer layer is called the lithosphere. The lithosphere lies above a weaker layer of the Earth called the asthenosphere. The characteristics of the boundary between the lithosphere and asthenosphere, called the LAB, controls whether the lithosphere moves independently of the asthenosphere or whether motion in one layer causes motion in the other. If the LAB is narrow and dominated by melt, the two layers will move independently. If the LAB is broad with limited or no melt, motion in the lithosphere will cause drag in the upper part of the asthenosphere, slowing both.   Oceanic lithosphere is much younger than continental lithosphere, making it comparatively simpler to study as it has been affected by fewer geologic events. Oceanic lithosphere is also pulled to increasing depths during subduction, increasing pressure at the LAB while largely leaving the temperature contrast between the lithosphere and asthenosphere unaffected. This creates a natural experiment where the LAB is subjected to steadily increasing pressures. If melt dominates the LAB, it will tend to be forced upward by its buoyancy, making the LAB narrower with increasing depth. If drag dominates the LAB, there should be little effect on its thickness with depth. Drag affects different minerals in different ways, and for the main mineral making up the lithosphere and asthenosphere above ~410 km depth, drag causes an alignment of mineral grains which causes seismic waves traveling in different directions to travel faster or slower than they normally would (this is called anisotropy). Below 410 km depth, the dominant mineral does not cause anisotropy. If drag is an important characteristic of the LAB, anisotropy should affect seismic waves crossing the LAB until ~410 km depth.   We used data from the Colombian National Seismic Network (the circles and diamonds in the accompanying figure mark the location of the networks seismometers) to investigate the LAB of the oceanic Nazca plates lithosphere as it subducts from the surface to 400 km depth below Colombia. The colored lines in the accompanying figure mark the estimated depth to the top of the Nazca plates subducted lithosphere. The Nazca plate is very young, and the age of the plate is shown in millions of years along the left side of the figure. The plates estimated motion with respect to the material below the asthenosphere is marked by a white arrow in the accompanying figure. If drag at a large scale is important for the asthenosphere, we might expect seismic anisotropy to approximately align with the arrow.   Our data was used to calculate receiver functions, a technique that uses seismic waves from distant earthquakes to detect boundaries in the Earth directly below a seismometer. We found that the Nazca plates LAB below all but 6 seismometers in the network has clear evidence for anisotropy. We further found that there is no LAB detectable at the seismometers above the deepest part of the subducted plate. Both of these observations indicate drag is the key characteristic for the LAB of this young plate. We further found that the orientation of anisotropy below the slab in the central and southern part of Colombia is highly variable and does not fit a simple model where anisotropy is mostly caused by the dip of the subducting plate (the cyan and magenta rays pointing out from the station symbol in the map key show the pattern that should be present if the dip of the plate is the primary cause of anisotropy).   This grant also supported a Masters student in developing new receiver function techniques to potentially expand the usable data set and a post-doctoral researcher who helped mentor the Masters student and carried out the main part of the project. Results from this grant were presented at the American Geophysical Unions Fall Meeting in 2021-2023, and three manuscripts are being prepared to further disseminate our results. The 35,000 receiver functions calculated for this study will be publicly released for use in other studies alongside these manuscripts. In addition, the grant supported collaboration between seismologists at Saint Louis University, the Colombian Geological Survey, and the National University of Colombia.     Last Modified: 11/19/2024       Submitted by: BrandonTBishop]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

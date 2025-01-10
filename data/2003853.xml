@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Nanoscale Charge Transfer in Quantum Dots Connected with Molecular Switches]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>282767.00</AwardTotalIntnAmount>
+<AwardAmount>282767</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Lane</SignBlockName>
+<PO_EMAI>plane@nsf.gov</PO_EMAI>
+<PO_PHON>7032922453</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to discover new ways of controlling how electrons move across arrays of quantum dots by using light as a switch. Quantum dots are nanoparticles of semiconductors with optical and electrical properties that can be tuned through changing the size of the particles. This research is focused on studying how flow of electrons between neighboring quantum dots can be turned ‘on’ and ‘off’ by switching the shape of molecules connecting the quantum dots using light with different colors. Such phenomena can be exploited to make materials for optically switchable components for optical computing and memory devices that are faster and more efficient compared to traditional electronics. Broadly, this research has a potential to advance the fundamental understanding of nanoscale charge transfer which is crucial for understanding optical and electrical processes in macromolecular, nanoscale, and biological systems. The research activities are integrated with educational efforts aimed at enhancing the recruitment, training, and retention of students in the science and engineering fields, especially among underrepresented groups at the University of Virginia and Old Dominion University. With an emphasis on middle and high school students, hands-on activities on 'Switching Molecules with Light' are provided. Undergraduate researchers are recruited through the Virginia-North Carolina Alliance for Minority Participation and other programs.&lt;br/&gt;&lt;br/&gt;The proposed research aims to test a hypothesis that the rates of charge transfer and exciton dissociation in colloidal quantum dot assemblies can be modulated by changing conformation of the 'bridge' photochromic molecules that inter-connect the quantum dots. To this end, a combination of nanoparticle synthesis, organic synthesis, surface chemistry characterization, optical spectroscopy, electrical measurements and X-ray scattering is employed. In the context of Marcus theory, the impact of potential barrier height on nanoscale charge transfer is systematically studied while keeping exactly the same charge donor-acceptor pair and the surface chemistry at contacts. This research has a potential to result in the discovery of a novel class of quantum dot assemblies with optically switchable light emission and non-volatile ‘read’ and ‘write’ operations. The dense, fast and reliable on-chip compatible non-volatile optical memory materials potentially obtained through this research can lead to new research directions and capabilities for optical computing, data storage, processing and transmission. The research team from the two universities will (1) determine the relationship between the potential barrier height and the rates of charge transfer and exciton dissociation in quantum dot assemblies in the context of Marcus theory, (2) investigate the relationship between bridge molecule structure and functional groups on charge transfer and exciton dissociation in quantum dot assemblies, and (3) demonstrate quantum dot assemblies with optically switchable photoluminescence intensity.  This award was partially funded by the Division of Chemistry/CSDM-B Program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003853</AwardID>
+<Investigator>
+<FirstName>Guijun</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guijun Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[g1wang@odu.edu]]></EmailAddress>
+<NSF_ID>000054537</NSF_ID>
+<StartDate>07/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Old Dominion University Research Foundation]]></Name>
+<CityName>NORFOLK</CityName>
+<ZipCode>235082561</ZipCode>
+<PhoneNumber>7576834293</PhoneNumber>
+<StreetAddress><![CDATA[4111 MONARCH WAY STE 204]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DSLXBD7UWRV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OLD DOMINION UNIVERSITY RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DSLXBD7UWRV6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Old Dominion University]]></Name>
+<CityName>Norfolk</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>235290001</ZipCode>
+<StreetAddress><![CDATA[5115 Hampton Blvd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>910200</Code>
+<Text>CMFP-Chem Mech Funct, and Prop</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6863</Code>
+<Text>SEBML-MOORE'S LAW</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~282767</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>&nbsp;</strong></p>  <p><strong>Intellectual merit&nbsp;&nbsp; &nbsp;</strong></p>  <p>This collaborative research grant has led to several important discoveries in photochromic and photoswitchable new materials. Diarylethene (DAE) based photochromic compounds are interesting molecules due to their reversible photo switching behaviors under ultraviolet (UV) or visible light irradiations. We have synthesized several different DAE derivatives (<strong>1-4</strong>) containing carboxylic acid or thioacid functional groups as shown in Figure 1. The open forms typically are colorless and can be converted to the cyclized closed forms which are generally colored upon UV exposure, and visible light can convert the closed forms back to the open forms. These reversible photo switching properties have been applied for the formation of new materials. For example, photochromic DAE diacid compound&nbsp;<strong>1</strong>&nbsp;was used to connect quantum dots (QDs), and light was used to switch the configuration of the DAE diacid to a fully conjugated system that led to the change in the inter-QD potential barrier height. The hybrid materials formed by photochromic compound&nbsp;<strong>1</strong>&nbsp;with QDs exhibit photoswitchable photoluminescence (PL). The change in structures of the diarylethene photochromic compounds led to physical and chemical property modifications in the hybrid materials. The switching of the photochromic compounds affected the QD photoluminescence intensity significantly. This finding has important implications for optical memory and computing. In another study, photochromic molecule&nbsp;<strong>2</strong>&nbsp;was used to form hybrid materials with QDs. In this system, the distance of the diacid remained the same, but the middle cyclopentene moiety was replaced with a hexafluorinated derivative. Replacing hydrogens with fluorines typically has influence on the switching stability and fatigue resistance, which was also studied in the formation of complexes with QDs (Figure 2). The photoluminescence of the quantum dots with either compounds&nbsp;<strong>1</strong>&nbsp;or&nbsp;<strong>2</strong>&nbsp;crosslinked exhibited significant increases in the PL intensity after visible light exposure and decreases in PL intensity after UV irradiation. The PL switching effect is larger for the crosslinked QDs with compound&nbsp;<strong>1</strong>&nbsp;than those with hexafluorinated compound&nbsp;<strong>2</strong>.&nbsp;&nbsp;</p>  <p>Recently, thioacid functional groups have also been incorporated into the DAE core structure (compounds&nbsp;<strong>3</strong>&nbsp;and&nbsp;<strong>4</strong>&nbsp;in Figure 1). These novel DAE derivatives are interesting compounds and their potassium salts can form water soluble photo switches that can change the color of the agarose hydrogels doped with these DAE thioacid derivatives (Figure 3). Lastly, we incorporated the photoswitches with a sugar template which typically results in molecular self-assembly and supramolecular gelation. The derivative using compound&nbsp;<strong>1</strong>&nbsp;resulted in a versatile gelator which formed gels in nine of the tested solvents, and the gels can respond to light irradiations as shown in Figure 4. In contrast, the derivative of compound&nbsp;<strong>2</strong>&nbsp;only formed gels at higher concentrations and is more soluble in the tested solvents. These interesting results are expected to inspire further interests and studies on this class of photoswitches, broadening the use of these compounds in the formation of hybrid materials and devices. We anticipate that further functionalization of DAE-based photoswitchable molecules will have more applications in catalysis, fluorescent probes, and as molecular gelators.<sup>&nbsp;</sup>&nbsp;</p>  <p><strong>Broader Impacts&nbsp;&nbsp;</strong></p>  <p>The design, synthesis, and evaluation of photoswitchable new materials especially photochromic compounds linked to quantum dots, has the potential to impact many research fields and advancing our knowledge in tunable photoelectronic materials. The research has impacts in organic chemistry, photochemistry, supramolecular chemistry, and materials sciences. DAE based molecular switches have applications for advanced smart materials and for optical electronic devices, as well as potential applications in biomedicines for photodynamic therapy.</p>  <p>The collaborative NSF grant has resulted in several peer-reviewed publications and conference presentations. The research is highly interdisciplinary, allowing students to gain research experiences in organic synthesis, photochemistry, supramolecular chemistry, and materials science. Several graduate students have been supported by the project and they have either entered the industrial work force or are working towards their PhD degrees. Many undergraduate students are exposed to the project efforts and are well versed in understanding the chemistry. Through collaboration with Prof. Choi's lab at UVA, the students at ODU have also learned much about photochemistry and nanotechnology, as well as photoluminescence and physics. We have also participated in many outreach events including the&nbsp;<em>Regin in Science</em>&nbsp;event at ODU, and at local middle schools, high schools and with the general community.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/29/2024<br> Modified by: Guijun&nbsp;Wang</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2003853/2003853_10684410_1732855624015_Figure_2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2003853/2003853_10684410_1732855624015_Figure_2--rgov-800width.jpg" title="Figure 2"><img src="/por/images/Reports/POR/2024/2003853/2003853_10684410_1732855624015_Figure_2--rgov-66x44.jpg" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The QDs with hydrogenated molecule 1 have stronger PL switching than the QDs of fluorinated compound 2. Ref doi: 10.1039/d3ra07539g</div> <div class="imageCredit">Joshua J. Choi, Ephraiem S. Sarabamoun, Guijun Wang</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Guijun&nbsp;Wang <div class="imageTitle">Figure 2</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2003853/2003853_10684410_1732855509924_Figure_1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2003853/2003853_10684410_1732855509924_Figure_1--rgov-800width.jpg" title="Figure 1"><img src="/por/images/Reports/POR/2024/2003853/2003853_10684410_1732855509924_Figure_1--rgov-66x44.jpg" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Structures of the photochromic compounds synthesized and   their conversions to the photo-cyclized forms.</div> <div class="imageCredit">Guijun Wang</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Guijun&nbsp;Wang <div class="imageTitle">Figure 1</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2003853/2003853_10684410_1732855715289_Figure_3_4--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2003853/2003853_10684410_1732855715289_Figure_3_4--rgov-800width.jpg" title="Figure 3-4"><img src="/por/images/Reports/POR/2024/2003853/2003853_10684410_1732855715289_Figure_3_4--rgov-66x44.jpg" alt="Figure 3-4"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Photochromic hydrogels  Refs dois: 10.3390/molecules28176228,  10.1021/acsomega.4c05945</div> <div class="imageCredit">Guijun Wang, Pramod Aryal</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Guijun&nbsp;Wang <div class="imageTitle">Figure 3-4</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      Intellectual merit     This collaborative research grant has led to several important discoveries in photochromic and photoswitchable new materials. Diarylethene (DAE) based photochromic compounds are interesting molecules due to their reversible photo switching behaviors under ultraviolet (UV) or visible light irradiations. We have synthesized several different DAE derivatives (1-4) containing carboxylic acid or thioacid functional groups as shown in Figure 1. The open forms typically are colorless and can be converted to the cyclized closed forms which are generally colored upon UV exposure, and visible light can convert the closed forms back to the open forms. These reversible photo switching properties have been applied for the formation of new materials. For example, photochromic DAE diacid compound1was used to connect quantum dots (QDs), and light was used to switch the configuration of the DAE diacid to a fully conjugated system that led to the change in the inter-QD potential barrier height. The hybrid materials formed by photochromic compound1with QDs exhibit photoswitchable photoluminescence (PL). The change in structures of the diarylethene photochromic compounds led to physical and chemical property modifications in the hybrid materials. The switching of the photochromic compounds affected the QD photoluminescence intensity significantly. This finding has important implications for optical memory and computing. In another study, photochromic molecule2was used to form hybrid materials with QDs. In this system, the distance of the diacid remained the same, but the middle cyclopentene moiety was replaced with a hexafluorinated derivative. Replacing hydrogens with fluorines typically has influence on the switching stability and fatigue resistance, which was also studied in the formation of complexes with QDs (Figure 2). The photoluminescence of the quantum dots with either compounds1or2crosslinked exhibited significant increases in the PL intensity after visible light exposure and decreases in PL intensity after UV irradiation. The PL switching effect is larger for the crosslinked QDs with compound1than those with hexafluorinated compound2.    Recently, thioacid functional groups have also been incorporated into the DAE core structure (compounds3and4in Figure 1). These novel DAE derivatives are interesting compounds and their potassium salts can form water soluble photo switches that can change the color of the agarose hydrogels doped with these DAE thioacid derivatives (Figure 3). Lastly, we incorporated the photoswitches with a sugar template which typically results in molecular self-assembly and supramolecular gelation. The derivative using compound1resulted in a versatile gelator which formed gels in nine of the tested solvents, and the gels can respond to light irradiations as shown in Figure 4. In contrast, the derivative of compound2only formed gels at higher concentrations and is more soluble in the tested solvents. These interesting results are expected to inspire further interests and studies on this class of photoswitches, broadening the use of these compounds in the formation of hybrid materials and devices. We anticipate that further functionalization of DAE-based photoswitchable molecules will have more applications in catalysis, fluorescent probes, and as molecular gelators.    Broader Impacts    The design, synthesis, and evaluation of photoswitchable new materials especially photochromic compounds linked to quantum dots, has the potential to impact many research fields and advancing our knowledge in tunable photoelectronic materials. The research has impacts in organic chemistry, photochemistry, supramolecular chemistry, and materials sciences. DAE based molecular switches have applications for advanced smart materials and for optical electronic devices, as well as potential applications in biomedicines for photodynamic therapy.    The collaborative NSF grant has resulted in several peer-reviewed publications and conference presentations. The research is highly interdisciplinary, allowing students to gain research experiences in organic synthesis, photochemistry, supramolecular chemistry, and materials science. Several graduate students have been supported by the project and they have either entered the industrial work force or are working towards their PhD degrees. Many undergraduate students are exposed to the project efforts and are well versed in understanding the chemistry. Through collaboration with Prof. Choi's lab at UVA, the students at ODU have also learned much about photochemistry and nanotechnology, as well as photoluminescence and physics. We have also participated in many outreach events including theRegin in Scienceevent at ODU, and at local middle schools, high schools and with the general community.         Last Modified: 11/29/2024       Submitted by: GuijunWang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

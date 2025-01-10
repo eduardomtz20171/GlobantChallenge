@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AF: Small: Graph Theory and Its Uses in Algorithms and Beyond]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>398163.00</AwardTotalIntnAmount>
+<AwardAmount>398163</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Brass</SignBlockName>
+<PO_EMAI>pbrass@nsf.gov</PO_EMAI>
+<PO_PHON>7032922182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project focuses on studying structure of graphs, as well as using insights about graph structure in order to design better algorithms for basic graph problems, and to prove negative results about the existence of such algorithms. Graphs are central combinatorial objects that are widely used in Computer Science, Mathematics, and other disciplines, both in theory and in applications. Graphs are a natural model of various types of networks, including computer and traffic networks. Additionally, graphs are also used to represent data and relationships between various objects. One of the goals of this project is to study properties of complex graphs that can be exploited in order to design faster and more accurate graph algorithms. In addition, the project will focus on several fundamental graph problems that have connections to routing traffic in a network that evolves over time, and to computing a layout of a graph with the goal of creating a good visualization of it. It will also explore the use of graph-theoretic techniques in proving negative results that show that designing fast and accurate algorithms for several central graph problems is impossible.&lt;br/&gt;&lt;br/&gt;More specifically, the project consists of three main parts. The first part focuses on graph-theoretic questions that aim at better understanding the structure of complex graphs. The questions include obtaining stronger bounds on the famous Excluded Grid Theorem, designing good algorithms for drawing graphs in the plane with few crossings, and studying a new problem on graph partitioning that arose from the study of graph theoretic questions. The second part focuses on dynamic algorithms for shortest-paths problems: given a graph that undergoes edge deletions and insertions, the goal is to provide quick and accurate responses to shortest-paths queries between pairs of vertices. This type of questions arises both in practical scenarios (such as applications for routing traffic), and in theoretical settings (algorithms for dynamic shortest-paths have been used as sub-routines in solving many central theoretical problems). The goal of this part is to obtain very fast algorithms that provide high-precision responses to the queries. In the third part, the project will focus on several closely related problems that are believed to be hard to approximate, and will  attempt to prove that this is indeed the case, by exploiting graph-theoretic techniques. This part of the project is closely related to the areas of Hardness of Approximation and Probabilistically Checkable Proof, and one of its goals is to increase the flow of ideas and techniques between these areas and Algorithmic Graph Theory.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006464</AwardID>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Chuzhoy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julia Chuzhoy</PI_FULL_NAME>
+<EmailAddress><![CDATA[cjulia@ttic.edu]]></EmailAddress>
+<NSF_ID>000509131</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Toyota Technological Institute at Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606372803</ZipCode>
+<PhoneNumber>7738340409</PhoneNumber>
+<StreetAddress><![CDATA[6045 S KENWOOD AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ERBJF4DMW6G4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TOYOTA TECHNOLOGICAL INSTITUTE AT CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ERBJF4DMW6G4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Toyota Technological Institute at Chicago]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606372803</ZipCode>
+<StreetAddress><![CDATA[6045 S Kenwood Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779600</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~398163</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-cc1107c7-7fff-7ea9-a881-a6a6fe42b74b"> </span></p> <p dir="ltr"><span>This project focuses on graph theory and algorithms. A graph can be thought of as a collection of points (vertices), and lines, or links (called edges) connecting some pairs of these vertices. Graphs are commonly used to represent many real-life phenomena, such as, for example, computer networks, friendship connections in social networks, train connections between cities, and so on. There are countless other examples in many scientific disciplines where graphs arise as a natural model for real-life problems. It is therefore essential to obtain a good understanding of the underlying structural properties of graphs, and to design algorithms for basic problems on graphs. As the data we need to deal with gets larger, it is crucial that such graph algorithms are very fast.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>In this project we studied several central graph problems. One such problem is Bipartite Matching. In this problem we are given a bipartite graph, that is, a graph whose vertices are partitioned into two sets, and all edges are between vertices that lie in different sets. The goal is to compute the largest collection of edges (called a matching), so that every vertex is an endpoint of at most one such edge. Bipartite Matching is one of the most basic problems in graph theory and algorithms, and it is used as a subroutine in many algorithms. Very recent advances have led to very fast algorithms for this problem, but all these algorithms rely on continuous methods, that have several drawbacks: there are some settings in which these methods are difficult or impossible to use, and furthermore, some more complex problems, such as, for example, Matching in general graphs, do not seem to be amenable to these techniques. We have designed a combinatorial algorithm for Bipartite Matching, that does not rely on continuous techniques, and has running time that is close to the best possible on dense graphs. Our techniques have the potential to help make progress on the more difficult problems in this area, such as the general Matching.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Another problem that we studied is dynamic All-Pairs Shortest Paths. This problem addresses the natural scenario where the underlying graph undergoes changes over time,&nbsp; and the algorithm is required to respond to queries: given a pair of vertices, it needs to return the shortest path connecting them, very fast. This type of problem naturally arises, for example, in the context of traffic routing, and also needs to be solved as a subroutine in many other graph algorithms. We designed an algorithm for this problem that achieves a very good approximation to the best possible paths, while responding very quickly to updates that occur to the graph.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>We also studied the Graph Crossing Number problem. In this problem, the goal is to draw a given graph in the plane, so as to minimize the number of crossings of its edges. This is a central problem in both graph theory and algorithms, that arises, for example, in data visualization. Despite a very long and extensive line of research, this problem is still poorly understood. For example, it is known that no algorithm can solve the problem efficiently. But we still do not have a good understanding of whether an efficient algorithm can compute a solution that is very close to the best possible one (in terms of the number of the edge crossings). We designed a new efficient algorithm for the problem, whose approximation factor is significantly smaller than that achieved by previous algorithms.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Lastly, we designed new algorithmic tools that can be used as building blocks in graph algorithms. In recent years, a powerful method emerged for designing algorithms for graph problems, that exploits expander graphs &ndash; graphs whose vertices are sufficiently well-connected. However, expander-based tools often fall short when used in distance-related problems, especially where one needs to deal with very short distances. We introduced a new type of graphs, called well-connected graphs, and designed several algorithmic tools for them, that mirror existing expander-based tools. Well-connected graphs, are better suited for distance-based problems than expanders, as evidenced by several recent follow-up results for the APSP problem, and low-stretch graph spanners, that build on well-connected graphs and the algorithmic tools that we designed.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/08/2024<br> Modified by: Julia&nbsp;Chuzhoy</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      This project focuses on graph theory and algorithms. A graph can be thought of as a collection of points (vertices), and lines, or links (called edges) connecting some pairs of these vertices. Graphs are commonly used to represent many real-life phenomena, such as, for example, computer networks, friendship connections in social networks, train connections between cities, and so on. There are countless other examples in many scientific disciplines where graphs arise as a natural model for real-life problems. It is therefore essential to obtain a good understanding of the underlying structural properties of graphs, and to design algorithms for basic problems on graphs. As the data we need to deal with gets larger, it is crucial that such graph algorithms are very fast.      In this project we studied several central graph problems. One such problem is Bipartite Matching. In this problem we are given a bipartite graph, that is, a graph whose vertices are partitioned into two sets, and all edges are between vertices that lie in different sets. The goal is to compute the largest collection of edges (called a matching), so that every vertex is an endpoint of at most one such edge. Bipartite Matching is one of the most basic problems in graph theory and algorithms, and it is used as a subroutine in many algorithms. Very recent advances have led to very fast algorithms for this problem, but all these algorithms rely on continuous methods, that have several drawbacks: there are some settings in which these methods are difficult or impossible to use, and furthermore, some more complex problems, such as, for example, Matching in general graphs, do not seem to be amenable to these techniques. We have designed a combinatorial algorithm for Bipartite Matching, that does not rely on continuous techniques, and has running time that is close to the best possible on dense graphs. Our techniques have the potential to help make progress on the more difficult problems in this area, such as the general Matching.      Another problem that we studied is dynamic All-Pairs Shortest Paths. This problem addresses the natural scenario where the underlying graph undergoes changes over time, and the algorithm is required to respond to queries: given a pair of vertices, it needs to return the shortest path connecting them, very fast. This type of problem naturally arises, for example, in the context of traffic routing, and also needs to be solved as a subroutine in many other graph algorithms. We designed an algorithm for this problem that achieves a very good approximation to the best possible paths, while responding very quickly to updates that occur to the graph.      We also studied the Graph Crossing Number problem. In this problem, the goal is to draw a given graph in the plane, so as to minimize the number of crossings of its edges. This is a central problem in both graph theory and algorithms, that arises, for example, in data visualization. Despite a very long and extensive line of research, this problem is still poorly understood. For example, it is known that no algorithm can solve the problem efficiently. But we still do not have a good understanding of whether an efficient algorithm can compute a solution that is very close to the best possible one (in terms of the number of the edge crossings). We designed a new efficient algorithm for the problem, whose approximation factor is significantly smaller than that achieved by previous algorithms.      Lastly, we designed new algorithmic tools that can be used as building blocks in graph algorithms. In recent years, a powerful method emerged for designing algorithms for graph problems, that exploits expander graphs  graphs whose vertices are sufficiently well-connected. However, expander-based tools often fall short when used in distance-related problems, especially where one needs to deal with very short distances. We introduced a new type of graphs, called well-connected graphs, and designed several algorithmic tools for them, that mirror existing expander-based tools. Well-connected graphs, are better suited for distance-based problems than expanders, as evidenced by several recent follow-up results for the APSP problem, and low-stretch graph spanners, that build on well-connected graphs and the algorithmic tools that we designed.             Last Modified: 10/08/2024       Submitted by: JuliaChuzhoy]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

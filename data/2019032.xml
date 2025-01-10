@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of a Large High-Temperature Vacuum Press for Advanced Materials Research, Manufacturing and Training at NC State University]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>640150.00</AwardTotalIntnAmount>
+<AwardAmount>640150</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alex Leonessa</SignBlockName>
+<PO_EMAI>aleoness@nsf.gov</PO_EMAI>
+<PO_PHON>7032922633</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Major Research Instrumentation (MRI) award will support the acquisition of a diffusion bonding hot press furnace (furnace) with high-temperature capabilities to enhance research and education at North Carolina State University (NCSU) and area universities and industries. The furnace will  catalyze fundamental research on new manufacturing processes and materials-- leading to enhanced performance, safety and efficiency for products ranging from aircraft to biomedical devices. The furnace will be integrated into courses on advanced materials and manufacturing and used for outreach activities in additive manufacturing, including a Manufacturing Summer Camp for high school and middle school students.  It will help to foster collaborative efforts with industry and to give students exposure to research experiences in partnership with industry.&lt;br/&gt;&lt;br/&gt;The furnace will enable fundamental studies to understand the effect of processing parameters on the performance of selected material systems, which range from metal foams to high temperature multifunctional ceramic sensors and from high entropy alloys to reinforced Ti matrix composites. Potentially transformative research on composite metal foam technology can enable higher energy absorption, excellent radiation shielding, blast resistance, and good thermal insulation. This instrument will allow the fabrication of the metal foams more consistently and reliably at much larger and testable scales.  The research on the development of high temperature sensors would be potentially transformative by allowing the microstructure and properties of the sensors to be controlled through the control of their thermal history. There is a great need for such multifunctional ceramics at ultrahigh temperatures for structural health monitoring.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019032</AwardID>
+<Investigator>
+<FirstName>Afsaneh</FirstName>
+<LastName>Rabiei</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Afsaneh Rabiei</PI_FULL_NAME>
+<EmailAddress><![CDATA[arabiei@ncsu.edu]]></EmailAddress>
+<NSF_ID>000108712</NSF_ID>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ola</FirstName>
+<LastName>Harrysson</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ola L Harrysson</PI_FULL_NAME>
+<EmailAddress><![CDATA[harrysson@ncsu.edu]]></EmailAddress>
+<NSF_ID>000483264</NSF_ID>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gracious</FirstName>
+<LastName>Ngaile</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gracious E Ngaile</PI_FULL_NAME>
+<EmailAddress><![CDATA[gngaile@unity.ncsu.edu]]></EmailAddress>
+<NSF_ID>000274445</NSF_ID>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chengying</FirstName>
+<LastName>Xu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chengying Xu</PI_FULL_NAME>
+<EmailAddress><![CDATA[cheryl.xu@ncsu.edu]]></EmailAddress>
+<NSF_ID>000286350</NSF_ID>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Horn</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy J Horn</PI_FULL_NAME>
+<EmailAddress><![CDATA[tjhorn@ncsu.edu]]></EmailAddress>
+<NSF_ID>000687773</NSF_ID>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276957910</ZipCode>
+<StreetAddress><![CDATA[2701 Sullivan Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>118900</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>027E</Code>
+<Text>NANOMECHANICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~640150</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp;</p> <div>Large High-Temperature Vacuum Press for Advanced Materials Research, Manufacturing and Training at NC State University</div> <div><span style="text-decoration: underline;">Centorr</span><span style="text-decoration: underline;"> / Vacuum Industries&rsquo; Series 3520 Hot Press Furnace, general Specs</span></div> <div> <div>&bull;Maximum Operating Temperature: 2000&ordm;C in vacuum or Argon.</div> <div>&bull;Heating Rate: 25 &nbsp;&#8451;&#8725;min&#8289;. Maximum. No load, no platens</div> <div>&bull;Maximum Vacuum: 5 &times;10^(-7)&nbsp; torr range (CEDOR)</div> <div>&bull;Working vacuum: 10^(-6)&nbsp; torr range at 1000 &#8451; and 10^(-4)&nbsp; torr range from 1600 &#8451; to 2000 &#8451;.</div> <div>&bull;Maximum Shell Temperature of the Furnace Chamber: 160 &#8457; (71.1 &#8451;)</div> <div>&bull;Load capacity 50 tons.</div> <div>&bull;Control cabinet and power supply.</div> <div>&bull;Working Hot Zone Size: 15.75" (400 mm) wide x 15.75" (400 mm) deep</div> <div>&bull;15.75&rdquo; (400 mm) height between platens</div> <div>&bull;Heating Element: Tungsten rod heating element six (6) sided.</div> <div>&bull;Heat Shields: 7 shields, 2 tungsten, 5 Shields molybdenum.</div> <div>&bull;Power Feedthroughs: Water-cooled copper</div> <div>&bull;Furnace Chamber: 316L stainless steel (double walled) and flanges</div> <div>&bull;Water Over-pressure relief.</div> <div>&bull;Pumping: - One (1) 16&rdquo; (406.4 &#119898;&#119898;) vacuum port</div> <div>&bull;Viewing Ports: One (1) 2&nbsp; 1&#8725;2 " (63.5 mm) sight window on front &amp; rear doors located in line with the center of the hot zone with swing shield.</div> <div>&bull;Chamber Mounting: &ldquo;H&rdquo; frame rated for 50-ton operation</div> <div> <div>&bull;Model VF1-036-42KHX Closed Circuit Cooling Tower</div> <div>&bull;Capable of maintaining the operational temperatures when Hot Press at maximum temperature setting.</div> <div>&bull;This was in addition to the compressed air and inert gas supplies, a large Chiller system was installed to cool the unit during each run.</div> <div> <div>&bull;In case of the primary cooling water system failure.</div> <div>&bull;Backup system designed to automatically redirect the water from the city line to the system to protect it from overheating.</div> <div>&bull;Meanwhile the operator can either address the issue or shut down the operation.</div> </div> </div> </div> <div>&bull;In case of the primary cooling water system failure.</div> <div>&bull;Backup system designed to automatically redirect the water from the city line to the system to protect it from overheating.</div> <div>&bull;Meanwhile the operator can either address the issue or shut down the operation.</div> <p>&nbsp;</p><br> <p>  Last Modified: 08/15/2024<br> Modified by: Afsaneh&nbsp;Rabiei</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2019032/2019032_10683941_1723736184636_IMG_1433--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2019032/2019032_10683941_1723736184636_IMG_1433--rgov-800width.jpg" title="Large High-Temperature Vacuum Press for Advanced Materials Research, Manufacturing and Training at NC State University"><img src="/por/images/Reports/POR/2024/2019032/2019032_10683941_1723736184636_IMG_1433--rgov-66x44.jpg" alt="Large High-Temperature Vacuum Press for Advanced Materials Research, Manufacturing and Training at NC State University"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Centorr / Vacuum Industries� Series 3520 Hot Press Furnace installed at NCSU</div> <div class="imageCredit">Afsaneh Rabiei</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Afsaneh&nbsp;Rabiei <div class="imageTitle">Large High-Temperature Vacuum Press for Advanced Materials Research, Manufacturing and Training at NC State University</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Large High-Temperature Vacuum Press for Advanced Materials Research, Manufacturing and Training at NC State University Centorr / Vacuum Industries Series 3520 Hot Press Furnace, general Specs  Maximum Operating Temperature: 2000C in vacuum or Argon. Heating Rate: 25 &#8451;&#8725;min&#8289;. Maximum. No load, no platens Maximum Vacuum: 5 10^(-7) torr range (CEDOR) Working vacuum: 10^(-6) torr range at 1000 &#8451; and 10^(-4) torr range from 1600 &#8451; to 2000 &#8451;. Maximum Shell Temperature of the Furnace Chamber: 160 &#8457; (71.1 &#8451;) Load capacity 50 tons. Control cabinet and power supply. Working Hot Zone Size: 15.75" (400 mm) wide x 15.75" (400 mm) deep 15.75 (400 mm) height between platens Heating Element: Tungsten rod heating element six (6) sided. Heat Shields: 7 shields, 2 tungsten, 5 Shields molybdenum. Power Feedthroughs: Water-cooled copper Furnace Chamber: 316L stainless steel (double walled) and flanges Water Over-pressure relief. Pumping: - One (1) 16 (406.4 &#119898;&#119898;) vacuum port Viewing Ports: One (1) 2 1&#8725;2 " (63.5 mm) sight window on front & rear doors located in line with the center of the hot zone with swing shield. Chamber Mounting: H frame rated for 50-ton operation  Model VF1-036-42KHX Closed Circuit Cooling Tower Capable of maintaining the operational temperatures when Hot Press at maximum temperature setting. This was in addition to the compressed air and inert gas supplies, a large Chiller system was installed to cool the unit during each run.  In case of the primary cooling water system failure. Backup system designed to automatically redirect the water from the city line to the system to protect it from overheating. Meanwhile the operator can either address the issue or shut down the operation.    In case of the primary cooling water system failure. Backup system designed to automatically redirect the water from the city line to the system to protect it from overheating. Meanwhile the operator can either address the issue or shut down the operation.        Last Modified: 08/15/2024       Submitted by: AfsanehRabiei]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

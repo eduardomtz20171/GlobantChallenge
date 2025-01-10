@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RI: Small: Random Perturbation Methods in Sequential Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vladimir Pavlovic</SignBlockName>
+<PO_EMAI>vpavlovi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928318</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Neither babies nor machines begin learning from a blank slate. Just like a baby comes into the world with brain structures that predispose her to learn motor and language skills, a machine has to be given enough prior structure to help it learn. This prior structure is called inductive bias in the field of machine learning. Inductive bias can take many forms, which is why there are many different sorts of machine learning algorithms. For example, the machine could be told that similar inputs should produce similar outputs, or that it should prefer simpler models over complex ones. Recently a class of methods has emerged that uses randomness to inject inductive bias into machine learning algorithms. However, researchers do not fully understand the power and limitations of these methods. For example, what is the relationship between injecting randomness and having a preference for simpler models? This project studies such fundamental questions about the power of randomness in designing machine learning algorithms. The algorithms developed in this project can be applied to many problems of practical interest including the discovery of cheap renewable energy sources.&lt;br/&gt;&lt;br/&gt;The technical goals of this project are divided into three categories according to the underlying sequential learning problem: online learning, bandit problems, and reinforcement learning. In online learning, the project examines the universality of perturbations. That is, are perturbation-based algorithms powerful enough to realize optimal performance guarantees in any online convex optimization problem? This work also aims to discover universal perturbation-based online learning algorithms that succeed in learning a problem as soon as the problem is online learnable. In bandit problems, random perturbations are used to design algorithms that are robust to non-stationarity and corruptions in the observed rewards. In reinforcement learning, exploration strategies based on random perturbations are designed that are both computationally tractable and sample efficient.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007055</AwardID>
+<Investigator>
+<FirstName>Ambuj</FirstName>
+<LastName>Tewari</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ambuj Tewari</PI_FULL_NAME>
+<EmailAddress><![CDATA[tewaria@umich.edu]]></EmailAddress>
+<NSF_ID>000635311</NSF_ID>
+<StartDate>08/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091107</ZipCode>
+<StreetAddress><![CDATA[1085 S. University Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>749500</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~145727</FUND_OBLG>
+<FUND_OBLG>2021~304273</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-129f728f-7fff-98e3-c5e5-19ccf8eb301e">  <p dir="ltr"><span>This project studied learning agents that interact with their environment and learn to perform better with experience. The environment could be the virtual environment of a chess game in the case of a chess playing agent. Or it could be a factory for an industrial robot. It could also be a user of a music streaming service in the case of a recommendation agent. This project developed new algorithms for sequential decision-making in such environments as well as new mathematical tools for understanding, and analyzing such algorithms.</span></p>  <br />  <p dir="ltr"><span>Graduate students received training in designing and analyzing learning algorithms in novel challenging settings. They presented their work at conferences and developed scientific presentation skills. They also received training in interdisciplinary scientific work.</span></p>  <br />  <p dir="ltr"><span>One key aspect of this project was the use of learning algorithms to drive scientific data collection and experimentation. We collaborated with chemists to use machine learning algorithms to find new reactions and reaction conditions using limited amounts of experimentation.</span></p>  <br />  <p dir="ltr"><span>A second key aspect of this project was to develop algorithms that satisfy safety constraints. For example, when designing an agent for driving a car, we want the learning agent to achieve the goal of reaching the destinations but it also has to adhere to safe driving practice at all times.</span></p>  <br />  <p dir="ltr"><span>A third key aspect was understanding whether certain learning tasks are in principle learnable as the agent gains more experience. Understanding the learnability of a task is often the first step towards designing fast learning algorithms.</span></p>  <div><span><br /></span></div>  </span></p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/26/2024<br> Modified by: Ambuj&nbsp;Tewari</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      This project studied learning agents that interact with their environment and learn to perform better with experience. The environment could be the virtual environment of a chess game in the case of a chess playing agent. Or it could be a factory for an industrial robot. It could also be a user of a music streaming service in the case of a recommendation agent. This project developed new algorithms for sequential decision-making in such environments as well as new mathematical tools for understanding, and analyzing such algorithms.       Graduate students received training in designing and analyzing learning algorithms in novel challenging settings. They presented their work at conferences and developed scientific presentation skills. They also received training in interdisciplinary scientific work.       One key aspect of this project was the use of learning algorithms to drive scientific data collection and experimentation. We collaborated with chemists to use machine learning algorithms to find new reactions and reaction conditions using limited amounts of experimentation.       A second key aspect of this project was to develop algorithms that satisfy safety constraints. For example, when designing an agent for driving a car, we want the learning agent to achieve the goal of reaching the destinations but it also has to adhere to safe driving practice at all times.       A third key aspect was understanding whether certain learning tasks are in principle learnable as the agent gains more experience. Understanding the learnability of a task is often the first step towards designing fast learning algorithms.              Last Modified: 12/26/2024       Submitted by: AmbujTewari]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

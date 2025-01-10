@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Digitization TCN: Collaborative Research: Mobilizing Millions of Marine Mollusks of the Eastern Seaboard]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>39600.00</AwardTotalIntnAmount>
+<AwardAmount>39600</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reed Beaman</SignBlockName>
+<PO_EMAI>rsbeaman@nsf.gov</PO_EMAI>
+<PO_PHON>7032927163</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Eastern Seaboard of the United States (ESB, U.S. Exclusive Economic Zone) stretches from the Canadian border on the Atlantic along nearly 6,000 km of eastern coastline, around the Floridian Peninsula, and along the Gulf of Mexico to the south end of the Texan coast, including 18 U.S. states. The ESB region is densely populated, with 47% of the U.S. population expected to inhabit the counties adjacent to the shoreline by 2021. Habitat loss, pollution, overfishing, and climate change threaten commercially and ecologically important marine species all along the ESB. This project will make occurrence data with map coordinates available for over 3,000 species of mollusks that find their habitat along the ESB, including mussels, clams, conchs, snails, and squid. Data from these ecologically and commercially important species (over 4.5 million individual specimens) will be made available through public online data portals. While the geographic ranges for many species of mollusks are well-known, the extent of their distribution within the seafloor habitats they occupy is unknown. Adding map coordinates to occurrence records for live-collected mollusks in natural history collections will provide detailed knowledge of distributions. Because natural history collections have specimens collected from the mid-1800s to present, these occurrence records can help track distributional changes over time and lead to better fisheries and conservation management.  &lt;br/&gt;&lt;br/&gt;One hundred million mollusk specimens have been documented in natural history collections across North America, and the breadth, depth, and growth of these collections is exceptionally well-known compared to other invertebrate taxa. Mollusks are among the best sampled group of animals, with some species having over 2,000 digital records available in natural history collections making them extremely well-suited for environmental and biogeographical studies that track faunal change over time and space. However, already-digitized mollusk lots are missing essential data such as collecting date (30% of records) and reliable georeferences (85% of records). This project will generate reliable geo-coordinate data for all covered specimen lots using a collaborative georeferencing project in GeoLocate.  GeoLocate will add layers for bathymetric data, benthic habitat, and marine conservation areas. Incorporating bathymetry into GeoLocate to determine the extent of locations will also provide that capability for complex elevational data for terrestrial species. Important trait data will also be incorporated. For the first time, molluscan occurrence data will distinguish between live- and dead-collected specimens, with a defined vocabulary for traits added to each record. Due to the long persistence of molluscan shells, the live/dead- collected distinction is crucial for all studies of biotic change using mollusks. Information on collecting dates will be refined where possible to increase resolution for detecting biotic changes. The data will be shared through public data repositories, including iDigBio, GBIF, OBIS, and the InvertEBase Symbiota portal.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001600</AwardID>
+<Investigator>
+<FirstName>Jann</FirstName>
+<LastName>Vendetti</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jann E Vendetti</PI_FULL_NAME>
+<EmailAddress><![CDATA[JVendett@nhm.org]]></EmailAddress>
+<NSF_ID>000676176</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Los Angeles County Museum of Natural History Foundation]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900074057</ZipCode>
+<PhoneNumber>2137443301</PhoneNumber>
+<StreetAddress><![CDATA[900 EXPOSITION BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UKB4JJ1M1647</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LOS ANGELES COUNTY MUSEUM OF NATURAL HISTORY FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Los Angeles County Museum of Natural History Foundation]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900074057</ZipCode>
+<StreetAddress><![CDATA[900 Exposition Blvd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>085Y00</Code>
+<Text>Infrastructure Capacity for Bi</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6895</Code>
+<Text>DIGITIZATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~39600</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Specimen record outcomes:</strong> Through this TCN, 'Mobilizing Millions of Marine Mollusks' from the <span style="text-decoration: underline;">E</span>astern <span style="text-decoration: underline;">S</span>ea<span style="text-decoration: underline;">b</span>oard, (abbreviated as ESB), the Malacology Department of the Natural History Museum of Los Angeles County (LACM/NHMLAC) created 6,701 publically available digital specimen lot records representing 69,144 specimens of 403 marine gastropod and bivalve species from the Eastern Seaboard. These specimen and lot totals meet the goals proposed by LACM/NHMLAC in the ESB grant. Approximately 60% of digitized records were completely georeferenced with precise latitude and longitudinal coordinates, all have been uploaded to InvertEBase or are scheduled to be by October 1 2024, and 100 original specimen photographs have been associated with 100 specimen lots. Of the digitized specimen lots, most were from coastal Florida, followed by Texas, then Massachusetts. A vitality record of Live/Dead, indicating if specimen(s) were collected alive or as dead shells was included with all specimen lots, and a record of epibionts was included for approximately 1% of specimen lots (as most did not include them).&nbsp;</p> <p><strong>Intellectual Merit outcomes:</strong>&nbsp;Although the majority of the marine mollusk collections at NHMLAC/LACM hail from the Eastern Pacific, a sizable portion was collected along the U.S. Eastern Seaboard. Because these specimens reside in a West Coast natural history museum and, until ESB funding, most were not publically available as digitized records, many scientists, researchers, and educators were unaware of them. Funding from ESB enabled nearly one third of these specimen lots to become publically available, allowing for research, loan requests, and museum visits. The added data field of Live/Dead for all specimen lots digitized during this effort will also help researchers discern if specimen records represent recently living populations, an important detail that can improve the understanding of species range extensions, contractions, shifts, and extirpations. Updated georeferencing, including accurate geographic coordinates, will also help in this effort, especially as population ranges change throughout the 21<sup>st</sup> century and beyond.</p> <p><strong>Broader Impact outcomes:</strong> LACM/NHMLAC contributed to the presence of this TCN on various social media platforms via several Mollusk of the Month vignettes, which were posted regularly to educate the public about Eastern Seaboard species. These had a reasonably wide reach and elicited comments and questions via facebook and other platforms. Also, the skills of our ESB-funded digitization specialist were developed through this project, enabling them to work part-time on an additional digitization grant and, as part of that grant, train a novice in collections digitization. Another broader impact, discussed in Specimen record outcomes above is the contribution of more than 6,000 specimen lot records to publically searchable online databases including InvertEBase and GBIF, wherein data and photos are now available for research and education.</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/03/2024<br> Modified by: Jann&nbsp;E&nbsp;Vendetti</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2001600/2001600_10690185_1725415099572_ESB3--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2001600/2001600_10690185_1725415099572_ESB3--rgov-800width.jpg" title="Specimen lots of the bivalve, Isognomon alatus, in LACM collections"><img src="/por/images/Reports/POR/2024/2001600/2001600_10690185_1725415099572_ESB3--rgov-66x44.jpg" alt="Specimen lots of the bivalve, Isognomon alatus, in LACM collections"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Specimen lots of the bivalve, Isognomon alatus, in LACM collections and digitized as part of the 'Mobilizing Millions of Marine Mollusks' from the Eastern Seaboard TCN.</div> <div class="imageCredit">Jann Vendetti, Lindsey Groves, and Cathy Groves</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jann&nbsp;E&nbsp;Vendetti <div class="imageTitle">Specimen lots of the bivalve, Isognomon alatus, in LACM collections</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2001600/2001600_10690185_1725414997705_ESB4--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2001600/2001600_10690185_1725414997705_ESB4--rgov-800width.jpg" title="Argopecten irradians in LACM collections"><img src="/por/images/Reports/POR/2024/2001600/2001600_10690185_1725414997705_ESB4--rgov-66x44.jpg" alt="Argopecten irradians in LACM collections"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Specimen lots of the bivalve, Argopecten irradians, in LACM collections and digitized as part of the 'Mobilizing Millions of Marine Mollusks' from the Eastern Seaboard TCN.</div> <div class="imageCredit">Jann Vendetti, Lindsey Groves, and Cathy Groves</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jann&nbsp;E&nbsp;Vendetti <div class="imageTitle">Argopecten irradians in LACM collections</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2001600/2001600_10690185_1725414744878_Aporrhais_occidentalis_LACM_111112--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2001600/2001600_10690185_1725414744878_Aporrhais_occidentalis_LACM_111112--rgov-800width.jpg" title="Digital image of gastropod, Aporrhais occidentalis"><img src="/por/images/Reports/POR/2024/2001600/2001600_10690185_1725414744878_Aporrhais_occidentalis_LACM_111112--rgov-66x44.jpg" alt="Digital image of gastropod, Aporrhais occidentalis"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Digital image of gastropod, Aporrhais occidentalis, which was added to the LACM digitized record of this species as part of the 'Mobilizing Millions of Marine Mollusks' from the Eastern Seaboard TCN.</div> <div class="imageCredit">Jann Vendetti, Lindsey Groves, and Cathy Groves</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jann&nbsp;E&nbsp;Vendetti <div class="imageTitle">Digital image of gastropod, Aporrhais occidentalis</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2001600/2001600_10690185_1725415394074_Screen_Shot_2024_09_03_at_7.01.07_PM--rgov-214x142.png" original="/por/images/Reports/POR/2024/2001600/2001600_10690185_1725415394074_Screen_Shot_2024_09_03_at_7.01.07_PM--rgov-800width.png" title="Mollusk of the Month example"><img src="/por/images/Reports/POR/2024/2001600/2001600_10690185_1725415394074_Screen_Shot_2024_09_03_at_7.01.07_PM--rgov-66x44.png" alt="Mollusk of the Month example"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Example of the short educational summary written for this TCN's Mollusk of the Month and contributed by staff from LACM/NHMLAC.</div> <div class="imageCredit">Jann Vendetti</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jann&nbsp;E&nbsp;Vendetti <div class="imageTitle">Mollusk of the Month example</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Specimen record outcomes: Through this TCN, 'Mobilizing Millions of Marine Mollusks' from the Eastern Seaboard, (abbreviated as ESB), the Malacology Department of the Natural History Museum of Los Angeles County (LACM/NHMLAC) created 6,701 publically available digital specimen lot records representing 69,144 specimens of 403 marine gastropod and bivalve species from the Eastern Seaboard. These specimen and lot totals meet the goals proposed by LACM/NHMLAC in the ESB grant. Approximately 60% of digitized records were completely georeferenced with precise latitude and longitudinal coordinates, all have been uploaded to InvertEBase or are scheduled to be by October 1 2024, and 100 original specimen photographs have been associated with 100 specimen lots. Of the digitized specimen lots, most were from coastal Florida, followed by Texas, then Massachusetts. A vitality record of Live/Dead, indicating if specimen(s) were collected alive or as dead shells was included with all specimen lots, and a record of epibionts was included for approximately 1% of specimen lots (as most did not include them).   Intellectual Merit outcomes:Although the majority of the marine mollusk collections at NHMLAC/LACM hail from the Eastern Pacific, a sizable portion was collected along the U.S. Eastern Seaboard. Because these specimens reside in a West Coast natural history museum and, until ESB funding, most were not publically available as digitized records, many scientists, researchers, and educators were unaware of them. Funding from ESB enabled nearly one third of these specimen lots to become publically available, allowing for research, loan requests, and museum visits. The added data field of Live/Dead for all specimen lots digitized during this effort will also help researchers discern if specimen records represent recently living populations, an important detail that can improve the understanding of species range extensions, contractions, shifts, and extirpations. Updated georeferencing, including accurate geographic coordinates, will also help in this effort, especially as population ranges change throughout the 21st century and beyond.   Broader Impact outcomes: LACM/NHMLAC contributed to the presence of this TCN on various social media platforms via several Mollusk of the Month vignettes, which were posted regularly to educate the public about Eastern Seaboard species. These had a reasonably wide reach and elicited comments and questions via facebook and other platforms. Also, the skills of our ESB-funded digitization specialist were developed through this project, enabling them to work part-time on an additional digitization grant and, as part of that grant, train a novice in collections digitization. Another broader impact, discussed in Specimen record outcomes above is the contribution of more than 6,000 specimen lot records to publically searchable online databases including InvertEBase and GBIF, wherein data and photos are now available for research and education.        Last Modified: 09/03/2024       Submitted by: JannEVendetti]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

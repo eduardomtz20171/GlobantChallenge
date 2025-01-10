@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nanoscale Investigation of Microwave Dynamics in Novel Ferroelectric Microstructures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>409277.00</AwardTotalIntnAmount>
+<AwardAmount>409277</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+<PO_EMAI>tdurakie@nsf.gov</PO_EMAI>
+<PO_PHON>7032924892</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Abstract:  &lt;br/&gt;For materials with permanent electric dipoles, the interaction with an oscillating electromagnetic field leads to energy dissipation in the microwave regime. In ferroelectric materials, the effective alternating-current conductivity due to dipolar loss can be very different from the direct-current conductivity due to mobile electrons. Using a specialized microscope, the research team aims to study the local response of ferroelectric samples to microwave excitations, the fast switching of spontaneous polarizations, and the feasibility of device structures based on structural dynamics. The fundamental knowledge on the nanoscale microwave dynamics in ferroelectric microstructures may directly influence their applications in nanotechnology and lead to novel device configurations. An integrated research and education program at University of Texas at Austin is established such that students at different levels are trained to participate in fundamental material research and master advanced microscopy techniques.&lt;br/&gt;&lt;br/&gt;Technical Abstract: &lt;br/&gt;Bulk ferroelectrics with complex domain structures are usually not compatible with microwave applications because of the strong dielectric dispersion. The situation, however, could be different if one can take advantage of the localized dielectric loss by addressing individual domain walls and other novel polar structures, which is nontrivial because of the difficulty to perform nanoscale impedance spectroscopy. Using a microwave impedance microscope with tunable frequencies, the research team plans to study many profound scientific questions such as the local response of domain walls, vortices, and polar skyrmions to microwave excitations and the giga-Hertz polarization switching of ferroelectric thin films under strong driving fields. The collective microwave dynamics of novel polar configurations is a vivid demonstration of emergent phenomena. The results are also critical for the applications of ferroelectric microstructures in communication systems. The research activities on advanced materials and technologies are integrated with outreach to local high school students through lab experience, Saturday workshop, and summer camps. The active involvement in frontier research will influence their career path towards physics or other STEM fields.&lt;br/&gt;&lt;br/&gt;This DMR grant supports research to understand microstructures within ferroelectric thin films under strong AC driving fields with funding from the Condensed Matter Physics (CMP) Program in the Division of Materials Research of the Mathematical and Physical Sciences Directorate.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004536</AwardID>
+<Investigator>
+<FirstName>Keji</FirstName>
+<LastName>Lai</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Keji Lai</PI_FULL_NAME>
+<EmailAddress><![CDATA[kejilai@physics.utexas.edu]]></EmailAddress>
+<NSF_ID>000632041</NSF_ID>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121532</ZipCode>
+<StreetAddress><![CDATA[2515 Speedway, RLM 12.210]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>171000</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>107E</Code>
+<Text>Magnetics and spin electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~132891</FUND_OBLG>
+<FUND_OBLG>2021~136386</FUND_OBLG>
+<FUND_OBLG>2022~140000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this NSF program, researchers have studied ferroelectric and piezoelectric nanostructures by piezo-response force microscopy (PFM) and microwave impedance microscopy (MIM). For barium titanate (BTO) thin films and MoS2 twisted bilayers with moire superlattices, the PFM characterization provided important information on the in-plane polarization orientation and coupling between different phonon modes, respectively. Moreover, the team performed transmission-mode MIM (TMIM) to study the propagation, mode conversion, and attenuation of acoustic waves in piezoelectric nanostructures. In a subwavelength phononic waveguide, the TMIM results revealed the acoustic loss of individual Lamb modes along the waveguide and the power-coupling coefficient between the waveguide and the parabolic couplers. For the study of electrical control of traveling acoustic waves, the TMIM was employed to measure the pi/2 phase shift in the acoustic wave when a d.c. bias voltage was applied to the modulation electrode. The team also reported the realization of valley Hall effect in nanoelectromechanical AlN membranes at ~ 1 GHz. The topologically protected valley Hall edge states were observed in both real and momentum space. Robust valley-polarized transport is evident from wave transmission across local disorder and around sharp corners. Finally, the nanoscale TMIM imaging has enabled the visualization of mode profiles in a super-high-frequency lateral overtone bulk acoustic resonator with unprecedented spatial resolution and displacement sensitivity. Quantitative analysis with finite-element modeling showed that the noise floor is equivalent to an in-plane displacement of 10 fm/sqrt(Hz) at room temperatures, which can be further improved under cryogenic environments. These results are critical for the applications of ferroelectric and piezoelectric materials in microwave-signal processing and quantum-information transduction. Graduate and undergraduate students were involved in all stages of the project, including the testing of microwave electronics in various scanning platforms, performing the measurements at different frequencies, analysis of the local impedance data with simulation tools, and formulating results into scientific manuscripts. The experience of frontier research is crucial for their career path towards physics or other STEM research.</p><br> <p>  Last Modified: 09/03/2024<br> Modified by: Keji&nbsp;Lai</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2004536/2004536_10677424_1725336566357_Outcome_2004536--rgov-214x142.png" original="/por/images/Reports/POR/2024/2004536/2004536_10677424_1725336566357_Outcome_2004536--rgov-800width.png" title="Outcome-2004536"><img src="/por/images/Reports/POR/2024/2004536/2004536_10677424_1725336566357_Outcome_2004536--rgov-66x44.png" alt="Outcome-2004536"></a> <div class="imageCaptionContainer"> <div class="imageCaption">TMIM images of (a) unbiased and biased acoustic modulator, (b) topological valley Hall edge state in a phononic crystal, (c) suspended phononic waveguide, (d) lateral overtone bulk acoustic resonator.</div> <div class="imageCredit">Keji Lai</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Keji&nbsp;Lai <div class="imageTitle">Outcome-2004536</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In this NSF program, researchers have studied ferroelectric and piezoelectric nanostructures by piezo-response force microscopy (PFM) and microwave impedance microscopy (MIM). For barium titanate (BTO) thin films and MoS2 twisted bilayers with moire superlattices, the PFM characterization provided important information on the in-plane polarization orientation and coupling between different phonon modes, respectively. Moreover, the team performed transmission-mode MIM (TMIM) to study the propagation, mode conversion, and attenuation of acoustic waves in piezoelectric nanostructures. In a subwavelength phononic waveguide, the TMIM results revealed the acoustic loss of individual Lamb modes along the waveguide and the power-coupling coefficient between the waveguide and the parabolic couplers. For the study of electrical control of traveling acoustic waves, the TMIM was employed to measure the pi/2 phase shift in the acoustic wave when a d.c. bias voltage was applied to the modulation electrode. The team also reported the realization of valley Hall effect in nanoelectromechanical AlN membranes at ~ 1 GHz. The topologically protected valley Hall edge states were observed in both real and momentum space. Robust valley-polarized transport is evident from wave transmission across local disorder and around sharp corners. Finally, the nanoscale TMIM imaging has enabled the visualization of mode profiles in a super-high-frequency lateral overtone bulk acoustic resonator with unprecedented spatial resolution and displacement sensitivity. Quantitative analysis with finite-element modeling showed that the noise floor is equivalent to an in-plane displacement of 10 fm/sqrt(Hz) at room temperatures, which can be further improved under cryogenic environments. These results are critical for the applications of ferroelectric and piezoelectric materials in microwave-signal processing and quantum-information transduction. Graduate and undergraduate students were involved in all stages of the project, including the testing of microwave electronics in various scanning platforms, performing the measurements at different frequencies, analysis of the local impedance data with simulation tools, and formulating results into scientific manuscripts. The experience of frontier research is crucial for their career path towards physics or other STEM research.     Last Modified: 09/03/2024       Submitted by: KejiLai]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

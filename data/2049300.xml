@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative research: The Intergenerational Effects of the COVID-19 Pandemic]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>174032.00</AwardTotalIntnAmount>
+<AwardAmount>174032</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Whitmeyer</SignBlockName>
+<PO_EMAI>jwhitmey@nsf.gov</PO_EMAI>
+<PO_PHON>7032927808</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project examines the effects of COVID-19 exposure during pregnancy on birth outcomes, over time, and across different groups defined by different sources of disadvantage.  The COVID-19 pandemic is a large shock likely to affect infant health through multiple pathways including maternal infection, stress and anxiety, economic hardship, and access to prenatal care. Because these factors differ across groups in the United States, the impact of COVID-19 on birth outcomes will likely be stronger among groups with fewer advantages and certain demographic groups, exacerbating differences in the United States.  These effects are critical to understand because birth outcomes predict health and socioeconomic attainment throughout the life course. &lt;br/&gt;&lt;br/&gt;This study relies on causal inference techniques exploiting variation in infection rates across time and place to capture the consequences of the pandemic on differences in birth outcomes, in particular intrauterine growth restriction, a key predictor of early-life cognition, education, and ultimately earnings.  Birth records obtained at the state level with early release are used to provide the earliest possible evidence.  Research focuses on six states that provide large and diverse samples across areas where the pandemic has unfolded with significant variation.  Time-varying data on COVID incidence and mortality, and local official responses are linked to these data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2049300</AwardID>
+<Investigator>
+<FirstName>Jenna</FirstName>
+<LastName>Nobles</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jenna Nobles</PI_FULL_NAME>
+<EmailAddress><![CDATA[jnobles@ssc.wisc.edu]]></EmailAddress>
+<NSF_ID>000630216</NSF_ID>
+<StartDate>12/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Felix</FirstName>
+<LastName>Elwert</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Felix Elwert</PI_FULL_NAME>
+<EmailAddress><![CDATA[felwert@ssc.wisc.edu]]></EmailAddress>
+<NSF_ID>000687409</NSF_ID>
+<StartDate>12/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537061320</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>133100</Code>
+<Text>Sociology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~174032</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The arrival of SARS-Cov-2 affected many features of life in the US, including employment, housing, economic welfare, and multiple dimensions of population health. This research investigated the effects of exposure to the pandemic on pregnancy health and birth outcomes. These early-life outcomes are important to investigate, both because of their immediate impact on infants and their families, and because of the enduring consequences of insults during pregnancy on attainment and wellbeing over the life course. A large body of research indicates that environmental exposures during the prenatal period have a lasting impact on health, cognition, education, earnings, and other determinants of economic security. As a result, measures of infant health &mdash;including intrauterine growth and gestational age&mdash; provide the first observable indicators of prenatal exposures and a proxy for health status and human capital endowments at the beginning of life. The link between prenatal exposures and attainment and wellbeing also has direct implications for the intergenerational transmission of inequalities<em>.</em></p> <p>We asked three questions: <em>Q1: What is the effect of local-level exposure to COVID-19 illness on birth outcomes?</em> <em>Q2: Are there differences in the effects of exposure to COVID-19 illness by maternal and community characteristics?</em> <em>Q3: Does COVID-19 exposure affect fertility across social groups, and how do fertility adjustments shape birth outcomes? </em>We answered these questions through analysis of high-resolution vital statistics data capturing all births in California from 2014-2023. California is a large and diverse population, responsible for 12% of the country&rsquo;s births each year. The data included information on maternal COVID-19 infection status at delivery and maternal sociodemographic indicators. We linked these data to area-level COVID-19 infection rates, area-level socioeconomic conditions, and COVID-19 testing policies at the facility in which the birth occurred. Where appropriate, we employed econometric tools to reduce key forms of estimate bias.</p> <p>The research generated multiple key findings. During the first 18 months of the pandemic &ndash; through November 2021 -- we observed large inequalities in maternal COVID-19 infection during pregnancy. People giving birth who had less education, who were living in lower-resourced zipcodes, and who were Hispanic were more likely to experience COVID-19 in pregnancy. COVID infection during pregnancy, in turn, predicted a large increase in the probability of preterm birth, by approximately one third.</p> <p>We built on these findings with three goals: (i) to assess whether COVID-19 in pregnancy causes increased risk of preterm birth, (ii) to determine whether the effect of COVID-19 in pregnancy on preterm birth changed over the course of the pandemic, and (iii) to test whether vaccine uptake is associated with a reduction in the risk of COVID-19 in pregnancy on preterm birth. We used linked population-level data on siblings born between 2014 and 2023 in birthing facilities with confirmed universal testing to establish that maternal COVID-19 infection during pregnancy causally increased the risk of preterm birth during 2020-2023. This effect was largest at the beginning of the pandemic. By 2022, the effect of COVID-19 in pregnancy on preterm birth risk had declined to zero. We show that the disappearance of the effect happened almost a year earlier in places that were early adopters of COVID-19 vaccination. The availability of vaccines and the decision to use them may have reduced the burden of COVID-19 on the next generation of American children.</p> <p>One pathway through which a pandemic and its effects on employment and poverty can affect infant health is by changing what kind of people are giving birth. We studied fertility trends using time series models. We observed short-term reductions in births from mid-2020 through early 2021. Birth counts in subsequent months matched or even eased the pace of fertility decline since the 2008 recession and were unlikely caused by the pandemic alone. The decline in births was largest among the foreign-born population, largely driven by changes in net migration. Among the U.S.-born, the pandemic-attributable reduction in births was largest among older, highly educated people, suggesting mechanisms of fertility reduction disparately accessible to the most-resourced people. We found no evidence of a fertility response to the pandemic's accompanying unemployment shock, providing additional evidence of a growing divide between macroeconomic conditions and fertility in the United States.</p> <p>The research supported two graduate students, one of whom authored a published study from the research. We have widely disseminated the findings. The research resulted in three published studies, one of which won the PNAS Cozzarelli prize. The National Academies of Science, Engineering, and Medicine produced and disseminated an accessible video describing the research. We also presented these findings to a wide range of academic, public, and policy audiences at institutions around the U.S. In addition to academic and clinical audiences, we presented findings to a convening of U.S. policymakers and to the leadership of the National Institute for Child Health and Human Development.</p> <p>&nbsp;</p><br> <p>  Last Modified: 06/26/2024<br> Modified by: Jenna&nbsp;Nobles</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The arrival of SARS-Cov-2 affected many features of life in the US, including employment, housing, economic welfare, and multiple dimensions of population health. This research investigated the effects of exposure to the pandemic on pregnancy health and birth outcomes. These early-life outcomes are important to investigate, both because of their immediate impact on infants and their families, and because of the enduring consequences of insults during pregnancy on attainment and wellbeing over the life course. A large body of research indicates that environmental exposures during the prenatal period have a lasting impact on health, cognition, education, earnings, and other determinants of economic security. As a result, measures of infant health including intrauterine growth and gestational age provide the first observable indicators of prenatal exposures and a proxy for health status and human capital endowments at the beginning of life. The link between prenatal exposures and attainment and wellbeing also has direct implications for the intergenerational transmission of inequalities.   We asked three questions: Q1: What is the effect of local-level exposure to COVID-19 illness on birth outcomes? Q2: Are there differences in the effects of exposure to COVID-19 illness by maternal and community characteristics? Q3: Does COVID-19 exposure affect fertility across social groups, and how do fertility adjustments shape birth outcomes? We answered these questions through analysis of high-resolution vital statistics data capturing all births in California from 2014-2023. California is a large and diverse population, responsible for 12% of the countrys births each year. The data included information on maternal COVID-19 infection status at delivery and maternal sociodemographic indicators. We linked these data to area-level COVID-19 infection rates, area-level socioeconomic conditions, and COVID-19 testing policies at the facility in which the birth occurred. Where appropriate, we employed econometric tools to reduce key forms of estimate bias.   The research generated multiple key findings. During the first 18 months of the pandemic  through November 2021 -- we observed large inequalities in maternal COVID-19 infection during pregnancy. People giving birth who had less education, who were living in lower-resourced zipcodes, and who were Hispanic were more likely to experience COVID-19 in pregnancy. COVID infection during pregnancy, in turn, predicted a large increase in the probability of preterm birth, by approximately one third.   We built on these findings with three goals: (i) to assess whether COVID-19 in pregnancy causes increased risk of preterm birth, (ii) to determine whether the effect of COVID-19 in pregnancy on preterm birth changed over the course of the pandemic, and (iii) to test whether vaccine uptake is associated with a reduction in the risk of COVID-19 in pregnancy on preterm birth. We used linked population-level data on siblings born between 2014 and 2023 in birthing facilities with confirmed universal testing to establish that maternal COVID-19 infection during pregnancy causally increased the risk of preterm birth during 2020-2023. This effect was largest at the beginning of the pandemic. By 2022, the effect of COVID-19 in pregnancy on preterm birth risk had declined to zero. We show that the disappearance of the effect happened almost a year earlier in places that were early adopters of COVID-19 vaccination. The availability of vaccines and the decision to use them may have reduced the burden of COVID-19 on the next generation of American children.   One pathway through which a pandemic and its effects on employment and poverty can affect infant health is by changing what kind of people are giving birth. We studied fertility trends using time series models. We observed short-term reductions in births from mid-2020 through early 2021. Birth counts in subsequent months matched or even eased the pace of fertility decline since the 2008 recession and were unlikely caused by the pandemic alone. The decline in births was largest among the foreign-born population, largely driven by changes in net migration. Among the U.S.-born, the pandemic-attributable reduction in births was largest among older, highly educated people, suggesting mechanisms of fertility reduction disparately accessible to the most-resourced people. We found no evidence of a fertility response to the pandemic's accompanying unemployment shock, providing additional evidence of a growing divide between macroeconomic conditions and fertility in the United States.   The research supported two graduate students, one of whom authored a published study from the research. We have widely disseminated the findings. The research resulted in three published studies, one of which won the PNAS Cozzarelli prize. The National Academies of Science, Engineering, and Medicine produced and disseminated an accessible video describing the research. We also presented these findings to a wide range of academic, public, and policy audiences at institutions around the U.S. In addition to academic and clinical audiences, we presented findings to a convening of U.S. policymakers and to the leadership of the National Institute for Child Health and Human Development.        Last Modified: 06/26/2024       Submitted by: JennaNobles]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

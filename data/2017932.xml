@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[BBSRC-NSF/BIO:  Real-time Nanosensing of Membrane Protein Assembly in a TXTL Synthetic Cell System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>666820.00</AwardTotalIntnAmount>
+<AwardAmount>666820</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Garza</SignBlockName>
+<PO_EMAI>aggarza@nsf.gov</PO_EMAI>
+<PO_PHON>7032922489</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The bottom-up construction of synthetic cells that emulate specific biological functions has the potential to address certain societal problems related to human health and the environment. A serious limitation in the current state-of-the-art production of synthetic cells is the lack of basic knowledge of how particular membrane-associated functions can be engineered into the cells. Indeed, integrating membrane functions into synthetic cells requires a quantitative understanding of basic aspects of membrane-protein interactions and dynamics. The goal of this collaborative project is to advance our fundamental understanding of membrane protein functions in genetically programmed synthetic cells using a cutting-edge sensor technology.  This project, which is a collaboration between the University of Minnesota-Twin Cities (US) and the University of Exeter (UK), also aims to provide early career scientists with opportunities to do interdisciplinary research and to introduce cutting-edge biotechnology into the classroom of undergraduate students.   &lt;br/&gt;&lt;br/&gt;This interdisciplinary project will provide novel quantitative information on various dynamic features of membrane proteins and their self-assembly by applying highly-sensitive whispering gallery mode single-molecule sensors to a set of three biological membrane functions recapitulated in a synthetic cell system: membrane channels, cytoskeleton and two-component signal transduction systems. The single molecule experiments will be paralleled by a quartz crystal microbalance with dissipation approach to provide complementary information on large scales and collective effects of membrane proteins at the lipid bilayer. The research effort is divided into three objectives, to be carried out during the three-year project. First, the synthetic cell, consisting of a liposome loaded with a cell-free expression reaction to express the membrane proteins, will be set up on the single molecule sensor to monitor the insertion of native membrane protein channels and to characterize their activity. Second, we will use the whispering gallery mode sensors and the microbalance to monitor previously inaccessible adsorption kinetics of cytoskeletal proteins that mediate cell shape and division at the membrane of synthetic cell, as a function of lipid membrane properties. Third, the single molecule experiments will be performed by several independent sensing channels to characterize in real time biomolecular structural changes during signaling of a two-component system. Nanoseconds to hour’s detection timescales of sensor channels will provide information to analyze the hierarchy of protein motions in two component systems signaling, with respect to physical and chemical stimuli. The microbalance will provide information on the relationship between the membrane biophysical and biochemical properties of the membrane and the interaction between the proteins of the two-component system. This project will support the interdisciplinary training of undergraduates and post-doctoral researchers and aspects of the project will be integrated into curriculum of an undergraduate student course.&lt;br/&gt;&lt;br/&gt;This collaborative US/UK project is supported by the US National Science Foundation and the UK Biotechnology and Biological Sciences Research Council.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2017932</AwardID>
+<Investigator>
+<FirstName>Vincent</FirstName>
+<LastName>Noireaux</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vincent Noireaux</PI_FULL_NAME>
+<EmailAddress><![CDATA[noireaux@umn.edu]]></EmailAddress>
+<NSF_ID>000155968</NSF_ID>
+<StartDate>05/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress><![CDATA[200 OAK ST SE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Minnesota]]></Name>
+<CityName>Minneapolis</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554552021</ZipCode>
+<StreetAddress><![CDATA[115 Union Street SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>801100</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~666820</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Building synthetic cells (SCs) that mimic specific biological functions holds strong promises as potential solutions to societal problems related to human health and the environment. One of the major approaches to assemble SCs from natural molecular components consists of encapsulating a cell-free transcription-translation system (TXTL) into liposomes. TXTL is a reconstituted cytoplasm, the liquid solution inside cells from which it&rsquo;s genomic DNA has been removed. It is a physiological solution that contains all the molecular components necessary to achieve the expression of genes encoded into DNA prepared in the laboratory. Liposomes are spherical cell-sized compartments (1-20 &micro;m in diameter) made of a closed lipid membrane, similar to real living cells. Such an experimental setting is used by experimentalists to build SCs that emulate specific biological functions, to understand the biological and biophysical mechanisms at play in living cells, as well as to develop potential applications. Developing elaborated biological functions at the membrane is one of the current bottlenecks in SCs research. Integral and interacting membrane proteins (IIMPs) constitute a vast family of biomolecules that perform essential functions in all forms of life, such as sensing and selective uptake and export of metabolites. Yet, characterizing their interactions with the lipid membrane of SCs remains limited due to challenges, such as the labeling of IIMPs without disrupting their function.</p> <p>In this project, we used a quartz crystal microbalance with dissipation (QCMD) to establish a non-disruptive approach to characterizing the interactions of IIMPs, synthesized using TXTL, with lipid membranes adsorbed onto the QCMD sensor surface. A QCMD is a highly sensitive scale that measures the mass added to a surface in real time. The combined TXTL-QCMD approach enables the non-disruptive characterization of IIMP interactions with a lipid membrane.</p> <p>We showed that membranes with arbitrary lipid compositions can be made on the QCMD surface, and we generated a broad variety of membranes with lipids compositions of biological relevance. We characterized the interactions TXTL with the lipid membranes and demonstrated that TXTL components show remarkedly low non-specific adsorption onto lipid membranes when no protein of interest is synthesized <em>in situ</em>. Therefore, adsorption measurements carried out under those conditions are characteristic of the interactions between the IIMPs and the membrane only.</p> <p>To demonstrate the specificity of IIMPs to the lipid composition of the membranes, we used two membrane proteins with well-known and different lipid selectivity and sensitivity. Alpha-hemolysin (AH) is a pore-forming protein that integrates into membranes made of lipids found in higher organisms like human cells, such as phosphatidylcholine (PC). MscL, a mechano-sensitive channel from <em>E. coli</em>, integrates into membranes made of lipids (ECL) found in bacteria. We showed that AH and MscL integrate exclusively into membranes made of their specific lipids. When hybrid membranes mixing PC and ECL lipids were made, we observed that both AH and MscL can integrate into the membranes at different degrees depending on the fraction of each lipid in the membrane. This experiment showed that SCs with hybrid membranes made of lipids from different biological kingdoms can be engineered.</p> <p>To determine whether the TXTL-QCMD approach enables the sensing of membrane-based dynamical patterns, we assayed the <em>E. coli</em> Min system that uses the inner membrane to position the cell division machinery via pole-to-pole dynamical oscillations. The MinCDE system in <em>E. coli</em>, composed of the protein MinC, MinD, and MinE, oscillates from pole to pole to precisely center the FtsZ cell division ring. We showed that TXTL-QCMD reconstitutes the oscillations of the MinCDE system. We characterized the lipid sensitivity of MinCDE and observed that PG (phosphatidylglycerol) and PE (phosphatidylethanolamine), both present in <em>E. coli</em> membrane, are essential for oscillations. The amplitude of the oscillations is amplified when two-dimensional crowding is emulated by simply adding neutral polymers at the membrane.</p> <p>In the last experiment, we used TXTL-QCMD to decipher the membrane biochemistry of the recently discovered Zorya anti-phage system that is unamenable to labeling <em>in vivo</em>. We discovered that ZorA and ZorB integrate within the lipids found at the poles of bacteria while ZorE diffuses freely on non-polar membrane lipids.</p> <p>These efforts establish the potential of TXTL-QCMD to broadly characterize the large diversity of IIMPs. The TXTL-QCMD approach is fast, non-disruptive, and reproducible. It enables assaying single or concurrently <em>in-situ</em> synthesized IIMPs on membranes with arbitrarily complex lipid compositions on physical scales that tolerate the formation of large dynamical patterns. We anticipate that it could be useful for the bottom-up engineering of SCs.</p> <p>In addition to research, one postdoc and two graduate students were trained during the project, and two REU students (Research Experience for Undergraduates) were hosted during summers. The results of the research were disseminated through several talks given at domestic and international conferences, and several publications.</p><br> <p>  Last Modified: 08/24/2024<br> Modified by: Vincent&nbsp;Noireaux</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2017932/2017932_10673674_1724526889822_QCMD2024--rgov-214x142.png" original="/por/images/Reports/POR/2024/2017932/2017932_10673674_1724526889822_QCMD2024--rgov-800width.png" title="ACMD project outcomes figure"><img src="/por/images/Reports/POR/2024/2017932/2017932_10673674_1724526889822_QCMD2024--rgov-66x44.png" alt="ACMD project outcomes figure"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Workflow of the TXTL-QCMD experimental procedure</div> <div class="imageCredit">Aset Khakimzhan</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Vincent&nbsp;Noireaux <div class="imageTitle">ACMD project outcomes figure</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Building synthetic cells (SCs) that mimic specific biological functions holds strong promises as potential solutions to societal problems related to human health and the environment. One of the major approaches to assemble SCs from natural molecular components consists of encapsulating a cell-free transcription-translation system (TXTL) into liposomes. TXTL is a reconstituted cytoplasm, the liquid solution inside cells from which its genomic DNA has been removed. It is a physiological solution that contains all the molecular components necessary to achieve the expression of genes encoded into DNA prepared in the laboratory. Liposomes are spherical cell-sized compartments (1-20 m in diameter) made of a closed lipid membrane, similar to real living cells. Such an experimental setting is used by experimentalists to build SCs that emulate specific biological functions, to understand the biological and biophysical mechanisms at play in living cells, as well as to develop potential applications. Developing elaborated biological functions at the membrane is one of the current bottlenecks in SCs research. Integral and interacting membrane proteins (IIMPs) constitute a vast family of biomolecules that perform essential functions in all forms of life, such as sensing and selective uptake and export of metabolites. Yet, characterizing their interactions with the lipid membrane of SCs remains limited due to challenges, such as the labeling of IIMPs without disrupting their function.   In this project, we used a quartz crystal microbalance with dissipation (QCMD) to establish a non-disruptive approach to characterizing the interactions of IIMPs, synthesized using TXTL, with lipid membranes adsorbed onto the QCMD sensor surface. A QCMD is a highly sensitive scale that measures the mass added to a surface in real time. The combined TXTL-QCMD approach enables the non-disruptive characterization of IIMP interactions with a lipid membrane.   We showed that membranes with arbitrary lipid compositions can be made on the QCMD surface, and we generated a broad variety of membranes with lipids compositions of biological relevance. We characterized the interactions TXTL with the lipid membranes and demonstrated that TXTL components show remarkedly low non-specific adsorption onto lipid membranes when no protein of interest is synthesized in situ. Therefore, adsorption measurements carried out under those conditions are characteristic of the interactions between the IIMPs and the membrane only.   To demonstrate the specificity of IIMPs to the lipid composition of the membranes, we used two membrane proteins with well-known and different lipid selectivity and sensitivity. Alpha-hemolysin (AH) is a pore-forming protein that integrates into membranes made of lipids found in higher organisms like human cells, such as phosphatidylcholine (PC). MscL, a mechano-sensitive channel from E. coli, integrates into membranes made of lipids (ECL) found in bacteria. We showed that AH and MscL integrate exclusively into membranes made of their specific lipids. When hybrid membranes mixing PC and ECL lipids were made, we observed that both AH and MscL can integrate into the membranes at different degrees depending on the fraction of each lipid in the membrane. This experiment showed that SCs with hybrid membranes made of lipids from different biological kingdoms can be engineered.   To determine whether the TXTL-QCMD approach enables the sensing of membrane-based dynamical patterns, we assayed the E. coli Min system that uses the inner membrane to position the cell division machinery via pole-to-pole dynamical oscillations. The MinCDE system in E. coli, composed of the protein MinC, MinD, and MinE, oscillates from pole to pole to precisely center the FtsZ cell division ring. We showed that TXTL-QCMD reconstitutes the oscillations of the MinCDE system. We characterized the lipid sensitivity of MinCDE and observed that PG (phosphatidylglycerol) and PE (phosphatidylethanolamine), both present in E. coli membrane, are essential for oscillations. The amplitude of the oscillations is amplified when two-dimensional crowding is emulated by simply adding neutral polymers at the membrane.   In the last experiment, we used TXTL-QCMD to decipher the membrane biochemistry of the recently discovered Zorya anti-phage system that is unamenable to labeling in vivo. We discovered that ZorA and ZorB integrate within the lipids found at the poles of bacteria while ZorE diffuses freely on non-polar membrane lipids.   These efforts establish the potential of TXTL-QCMD to broadly characterize the large diversity of IIMPs. The TXTL-QCMD approach is fast, non-disruptive, and reproducible. It enables assaying single or concurrently in-situ synthesized IIMPs on membranes with arbitrarily complex lipid compositions on physical scales that tolerate the formation of large dynamical patterns. We anticipate that it could be useful for the bottom-up engineering of SCs.   In addition to research, one postdoc and two graduate students were trained during the project, and two REU students (Research Experience for Undergraduates) were hosted during summers. The results of the research were disseminated through several talks given at domestic and international conferences, and several publications.     Last Modified: 08/24/2024       Submitted by: VincentNoireaux]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

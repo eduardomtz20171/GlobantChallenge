@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CCSS: Collaborative Research: Towards a Resource Rationing Framework for Wireless Federated Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Huaiyu Dai</SignBlockName>
+<PO_EMAI>hdai@nsf.gov</PO_EMAI>
+<PO_PHON>7032924568</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Federated learning (FL) is an emerging distributed machine learning paradigm that has many attractive properties. Despite the early studies that have demonstrated the potential of jointly optimizing communication and computation, existing designs are not tailored to the unique characteristics of FL. This project aims at developing a novel and rigorous resource allocation framework for wireless FL, which we term resource rationing to emphasize balancing resources over time so that the long-term impact to the final learning outcome is explicitly captured. Resource rationing is built on a rigorous theoretical foundation and guides the algorithmic development that solves specific resource allocation problems in both physical and Media Access Control (MAC) layers. Federated learning is an emerging new application for wireless communications, and this project has potential to advance the technology development of this new use case. Meanwhile, the theoretical foundation, algorithms, and validation will broadly advance the state of the art in machine learning, communication theory, and wireless networking. Developing such practical and impactful technology would also help maintain the leadership of the United States in wireless technologies as well as keep the pipeline to supply high-quality, well-trained, and innovative engineers.&lt;br/&gt;&lt;br/&gt;The project pursues synergistic activities for the successful design and implementation of resource rationing for wireless FL. Novel convergence analysis of FL with varying resource in each learning round is carried out, which establishes the general later-is-better principle. Guided by the theoretical foundation, the project further builds a comprehensive algorithmic framework for specific resource rationing designs, ranging from physical layer bit loading and adaptive coding and modulation to the MAC layer client selection, bandwidth allocation, and power control.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033681</AwardID>
+<Investigator>
+<FirstName>Jie</FirstName>
+<LastName>Xu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jie Xu</PI_FULL_NAME>
+<EmailAddress><![CDATA[jie.xu@ufl.edu]]></EmailAddress>
+<NSF_ID>000700862</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Miami]]></Name>
+<CityName>CORAL GABLES</CityName>
+<ZipCode>331462919</ZipCode>
+<PhoneNumber>3052843924</PhoneNumber>
+<StreetAddress><![CDATA[1320 SOUTH DIXIE HIGHWAY STE 650]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL27</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RQMFJGDTQ5V3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MIAMI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Miami]]></Name>
+<CityName>Coral Gables</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331462509</ZipCode>
+<StreetAddress><![CDATA[1251 Memorial Drive, MEB 520]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL27</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project aimed to advance the state of the art in both wireless communication and federated learning by addressing the unique challenges of resource allocation in Federated Learning (FL). Inspired by the "later-is-better" phenomenon, the project focused on developing a rigorous resource rationing framework to optimize learning outcomes over time. The outcomes of this project reflect significant contributions to both intellectual merit and broader impacts as defined by the NSF merit review criteria.</p>  <p><strong>Intellectual Merit</strong></p>  <p>The key intellectual contributions of the project include:</p>  <p>1. Theoretical Foundations of Resource Rationing:</p>  <p>&nbsp;&nbsp;&nbsp;- The project established a novel "ater-is-better" principle, providing a theoretical framework for resource allocation in federated learning. This principle demonstrated that delaying the use of certain resources to later stages of training could enhance overall learning outcomes.</p>  <p>&nbsp;&nbsp;&nbsp;- Comprehensive convergence analyses were conducted, revealing how resource allocation impacts the learning process over time. This work extended existing theories in federated learning by accounting for dynamic resource constraints and their long-term effects.</p>  <p>2. Algorithm Development for Resource Rationing:</p>  <p>&nbsp;&nbsp;&nbsp;- We studied client selection and bandwidth allocation in wireless FL, formulating a stochastic optimization problem under long-term client energy constraints. A new algorithm was developed to optimize resource usage based on available wireless channel information, ensuring long-term performance guarantees.</p>  <p>&nbsp;&nbsp;&nbsp;- We explored federated learning with energy harvesting clients and developed resource management strategies that address random energy arrivals. For FL systems with multiple services, we formulated a two-level bandwidth allocation problem and proposed algorithms to optimize both intra- and inter-service resource allocation. Additionally, we introduced a context-aware client selection algorithm for hierarchical FL to handle uncertain wireless environments and straggler clients.</p>  <p>&nbsp;&nbsp;&nbsp;- We created energy-efficient clustering algorithms to address heterogeneous wireless conditions in clustered FL systems, minimizing energy costs while optimizing learning performance. A hybrid FL algorithm was also developed, leveraging server-side training to accelerate convergence and mitigate partial participation errors in non-IID scenarios.</p>  <p>&nbsp;&nbsp;&nbsp;- We proposed optimal storage and cache allocation strategies for streaming FL systems to address data distribution shifts and developed a novel FL framework using UAVs as mobile transporters for indirect communication. Algorithms for client assignment and UAV route planning were introduced to optimize FL performance under UAV energy constraints.</p>  <p><strong>Broader Impacts</strong></p>  <p>The broader impacts of the project include technological, educational, and societal contributions:</p>  <p>1. Technological Advancements:</p>  <p>&nbsp;&nbsp;&nbsp;- The project&rsquo;s outcomes have the potential to transform how federated learning is deployed in wireless networks, paving the way for efficient and scalable implementations of FL in applications such as autonomous vehicles, smart cities, and healthcare.</p>  <p>&nbsp;&nbsp;&nbsp;- The developed algorithms and the &ldquo;later-is-better&rdquo; principle are expected to play a foundational role in future FL applications, ensuring sustainable and energy-efficient use of wireless resources.</p>  <p>2. Educational and Outreach Activities:</p>  <p>&nbsp;&nbsp;&nbsp;- The cross-disciplinary nature of the project informed curriculum development for undergraduate and graduate courses in machine learning, algorithms, and wireless communications.</p>  <p>&nbsp;&nbsp;&nbsp;- Case studies derived from the research were integrated into classroom projects, providing students with hands-on experience in tackling real-world challenges.</p>  <p>&nbsp;&nbsp;&nbsp;- Outreach activities engaged underrepresented communities through university-led initiatives, inspiring the next generation of engineers and scientists.</p>  <p>3. Workforce Development:</p>  <p>&nbsp;&nbsp;&nbsp;- By training graduate and undergraduate students in cutting-edge research, the project contributed to the development of a highly skilled workforce equipped to lead advancements in wireless networking and machine learning technologies.</p>  <p>&nbsp;<strong>Conclusion</strong></p>  <p>This project has laid a solid foundation for resource-efficient federated learning in wireless networks. By addressing both theoretical and practical challenges, it has advanced knowledge and technology in wireless communication, machine learning, and their intersection. The broader impacts underscore the project&rsquo;s commitment to fostering innovation and inclusivity. These outcomes not only enhance U.S. leadership in emerging technologies but also ensure their societal and educational benefits are widely shared.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/17/2024<br> Modified by: Jie&nbsp;Xu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project aimed to advance the state of the art in both wireless communication and federated learning by addressing the unique challenges of resource allocation in Federated Learning (FL). Inspired by the "later-is-better" phenomenon, the project focused on developing a rigorous resource rationing framework to optimize learning outcomes over time. The outcomes of this project reflect significant contributions to both intellectual merit and broader impacts as defined by the NSF merit review criteria.    Intellectual Merit    The key intellectual contributions of the project include:    1. Theoretical Foundations of Resource Rationing:    - The project established a novel "ater-is-better" principle, providing a theoretical framework for resource allocation in federated learning. This principle demonstrated that delaying the use of certain resources to later stages of training could enhance overall learning outcomes.    - Comprehensive convergence analyses were conducted, revealing how resource allocation impacts the learning process over time. This work extended existing theories in federated learning by accounting for dynamic resource constraints and their long-term effects.    2. Algorithm Development for Resource Rationing:    - We studied client selection and bandwidth allocation in wireless FL, formulating a stochastic optimization problem under long-term client energy constraints. A new algorithm was developed to optimize resource usage based on available wireless channel information, ensuring long-term performance guarantees.    - We explored federated learning with energy harvesting clients and developed resource management strategies that address random energy arrivals. For FL systems with multiple services, we formulated a two-level bandwidth allocation problem and proposed algorithms to optimize both intra- and inter-service resource allocation. Additionally, we introduced a context-aware client selection algorithm for hierarchical FL to handle uncertain wireless environments and straggler clients.    - We created energy-efficient clustering algorithms to address heterogeneous wireless conditions in clustered FL systems, minimizing energy costs while optimizing learning performance. A hybrid FL algorithm was also developed, leveraging server-side training to accelerate convergence and mitigate partial participation errors in non-IID scenarios.    - We proposed optimal storage and cache allocation strategies for streaming FL systems to address data distribution shifts and developed a novel FL framework using UAVs as mobile transporters for indirect communication. Algorithms for client assignment and UAV route planning were introduced to optimize FL performance under UAV energy constraints.    Broader Impacts    The broader impacts of the project include technological, educational, and societal contributions:    1. Technological Advancements:    - The projects outcomes have the potential to transform how federated learning is deployed in wireless networks, paving the way for efficient and scalable implementations of FL in applications such as autonomous vehicles, smart cities, and healthcare.    - The developed algorithms and the later-is-better principle are expected to play a foundational role in future FL applications, ensuring sustainable and energy-efficient use of wireless resources.    2. Educational and Outreach Activities:    - The cross-disciplinary nature of the project informed curriculum development for undergraduate and graduate courses in machine learning, algorithms, and wireless communications.    - Case studies derived from the research were integrated into classroom projects, providing students with hands-on experience in tackling real-world challenges.    - Outreach activities engaged underrepresented communities through university-led initiatives, inspiring the next generation of engineers and scientists.    3. Workforce Development:    - By training graduate and undergraduate students in cutting-edge research, the project contributed to the development of a highly skilled workforce equipped to lead advancements in wireless networking and machine learning technologies.    Conclusion    This project has laid a solid foundation for resource-efficient federated learning in wireless networks. By addressing both theoretical and practical challenges, it has advanced knowledge and technology in wireless communication, machine learning, and their intersection. The broader impacts underscore the projects commitment to fostering innovation and inclusivity. These outcomes not only enhance U.S. leadership in emerging technologies but also ensure their societal and educational benefits are widely shared.         Last Modified: 12/17/2024       Submitted by: JieXu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

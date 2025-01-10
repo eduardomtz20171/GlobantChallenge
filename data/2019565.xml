@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Possible Storage of H2O in Mantle Ca(Ti,Si)O3 Perovskite]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>279262.00</AwardTotalIntnAmount>
+<AwardAmount>279262</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Wade</SignBlockName>
+<PO_EMAI>jwade@nsf.gov</PO_EMAI>
+<PO_PHON>7032924739</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Water is one of the key ingredients for the habitability of the Earth.  While 70% of the Earth’s surface is covered with water, far more water may exist in the rocks of the interior.  This “deep water” is believed to have been contributing to the evolution of the atmosphere and hydrosphere over geologic time scales.  However, it is difficult to obtain samples from depths greater than ~10 km because of technological limitations.  Therefore, it is important to conduct laboratory experiments on the main minerals at the high pressure-temperature conditions of the Earth’s interior.  Laboratory experiments for the past two decades have shown that some minerals in the mantle above 660-km depth can contain large amounts of water, contributing to approximately one ocean mass of water stored in this part of the mantle.  However, laboratory measurements have also shown that water storage capacities of some main minerals stable at the mantle from 660 km to 2900 km depths could be very low, leading to a hypothesis that the layer is essentially dry. However, the water storage capacity of the third most abundant phase in the lower part of the mantle, Ca(Ti,Si)O3 perovskite, has not been well studied. In this research project, researchers will synthesize Ca(Ti,Si)O3 perovskite at the high pressure-temperature conditions of the lower mantle and measure its water storage capacity.  The measurements will advance our knowledge on how much water can be stored in the lower mantle, which represents more than 50% of the Earth’s volume.  The researchers will also measure the impact of water solubility on the physical properties of Ca(Ti,Si)O3 perovskite, providing key data for investigating possible existence of water-rich regions in the lower mantle through seismic imaging methods. A Ph.D. student and undergraduate students will be trained for a comprehensive skill-set in high-pressure apparatus and in the characterization of very small run products. Informing the public about the important role of hydrogen in the interior of Earth (and other planets) will be achieved using the annual “Earth and Space Exploration Day” open house and the campus-wide “Night of the Open Door” event. The data analysis will be written in Jupyter notebook files and then converted to education materials for mineralogy and geochemistry courses at ASU.&lt;br/&gt;&lt;br/&gt;Through this grant, PI Shim’s research group will measure the water storage capacity of Ca(Ti,Si)O3 perovskite. They will synthesize high-quality samples at the pressure–temperature conditions for the stability of Ca(Ti,Si)O3 perovskite in the large-volume press.  The synthesized samples will be carefully analyzed using a range of techniques (infrared and Raman spectroscopy, thermogravimetric analysis, secondary ion mass spectrometry, X-ray diffraction, and electron microscopy) for possible H2O storage. The synthesized samples will also be studied in the diamond-anvil cell to measure the effects of H2O and Ti on the thermoelastic properties at mantle-related pressures. Intense effort has been made in Earth science over a decade to understand the role of the interior for the evolution of Earth’s atmosphere and hydrosphere.  Yet, water storage in the lower mantle still remains uncertain.  By studying the third most abundant mineral phase in the lower mantle, the research project will advance our knowledge on the deep H2O storage which is important for a range of issues in Earth science, including volatiles recycling, Earth formation and differentiation, and seismic structures in the deep mantle.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019565</AwardID>
+<Investigator>
+<FirstName>Kurt</FirstName>
+<LastName>Leinenweber</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kurt D Leinenweber</PI_FULL_NAME>
+<EmailAddress><![CDATA[kurtl@asu.edu]]></EmailAddress>
+<NSF_ID>000469013</NSF_ID>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sang-Heon</FirstName>
+<LastName>Shim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sang-Heon Shim</PI_FULL_NAME>
+<EmailAddress><![CDATA[SHDShim@gmail.com]]></EmailAddress>
+<NSF_ID>000193831</NSF_ID>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852816011</ZipCode>
+<StreetAddress><![CDATA[ORSPA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157300</Code>
+<Text>Petrology and Geochemistry</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>157400</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1031</Code>
+<Text>STUDIES OF THE EARTH'S DEEP INTERIOR</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~279262</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This research project focused on understanding how hydrogen is stored in mineral phases within the Earth's deep mantle, specifically exploring minerals that make up the lower mantle. The deep mantle, which constitutes 55% of Earth's volume, is crucial to understanding the global water cycle over billions of years. Until now, scientists have widely accepted that H2O or OH is the primary form of hydrogen storage in deep mantle minerals. However, our research discovered alternative forms of hydrogen storage that could significantly change our understanding of this region.</p> <p>Our experiments focused on Ca(Ti,Si)O3 perovskite, the third most abundant mineral phase in the lower mantle. We found that under the reducing conditions of the lower mantle, Ca(Ti,Si)O3 perovskite can store hydrogen not only in the form of H2O but also as molecular hydrogen (H2). We found that the thermal reduction of titanium in CaTiO3 perovskite can lead to the splitting of water into O2 and H2, with the crystal structure of the mineral capturing and storing molecular H2. This process, previously studied in materials science for producing hydrogen from water as a potential energy source, is now shown to occur naturally under the extreme conditions of Earth's deep mantle.</p> <p>This discovery has significant implications for our understanding of hydrogen storage and the deep-water cycle, challenging the conventional view that H2O is the dominant form of hydrogen storage. These findings also point to complex chemical processes occurring deep within Earth that have not been previously considered in models of the mantle's composition and behavior. This work enhances our understanding of the deep mantle's role in the geological water cycle, which is essential for understanding Earth's long-term evolution.</p> <p>The project provided essential training opportunities for both postdoctoral researchers and students. Our postdoctoral researchers, made significant advances in their respective research fields. They developed expertise in multi-anvil press techniques, which played a key role in their early career development.</p> <p>This grant also supported the research training of three undergraduate students. A Hispanic student trained under this project, is now a Ph.D. student at Caltech. Two female undergraduate students, who are interested in continuing their studies into STEM graduate programs, have been trained. The diverse team supported by this grant highlights the importance of fostering an inclusive research environment and promoting diversity in the geophysical sciences.</p> <p>Overall, the support from the NSF has been instrumental in advancing our understanding of hydrogen storage in the deep Earth, contributing to significant scientific discoveries, and training the next generation of scientists in high-pressure geophysics.</p><br> <p>  Last Modified: 11/08/2024<br> Modified by: Sang-Heon&nbsp;Shim</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This research project focused on understanding how hydrogen is stored in mineral phases within the Earth's deep mantle, specifically exploring minerals that make up the lower mantle. The deep mantle, which constitutes 55% of Earth's volume, is crucial to understanding the global water cycle over billions of years. Until now, scientists have widely accepted that H2O or OH is the primary form of hydrogen storage in deep mantle minerals. However, our research discovered alternative forms of hydrogen storage that could significantly change our understanding of this region.   Our experiments focused on Ca(Ti,Si)O3 perovskite, the third most abundant mineral phase in the lower mantle. We found that under the reducing conditions of the lower mantle, Ca(Ti,Si)O3 perovskite can store hydrogen not only in the form of H2O but also as molecular hydrogen (H2). We found that the thermal reduction of titanium in CaTiO3 perovskite can lead to the splitting of water into O2 and H2, with the crystal structure of the mineral capturing and storing molecular H2. This process, previously studied in materials science for producing hydrogen from water as a potential energy source, is now shown to occur naturally under the extreme conditions of Earth's deep mantle.   This discovery has significant implications for our understanding of hydrogen storage and the deep-water cycle, challenging the conventional view that H2O is the dominant form of hydrogen storage. These findings also point to complex chemical processes occurring deep within Earth that have not been previously considered in models of the mantle's composition and behavior. This work enhances our understanding of the deep mantle's role in the geological water cycle, which is essential for understanding Earth's long-term evolution.   The project provided essential training opportunities for both postdoctoral researchers and students. Our postdoctoral researchers, made significant advances in their respective research fields. They developed expertise in multi-anvil press techniques, which played a key role in their early career development.   This grant also supported the research training of three undergraduate students. A Hispanic student trained under this project, is now a Ph.D. student at Caltech. Two female undergraduate students, who are interested in continuing their studies into STEM graduate programs, have been trained. The diverse team supported by this grant highlights the importance of fostering an inclusive research environment and promoting diversity in the geophysical sciences.   Overall, the support from the NSF has been instrumental in advancing our understanding of hydrogen storage in the deep Earth, contributing to significant scientific discoveries, and training the next generation of scientists in high-pressure geophysics.     Last Modified: 11/08/2024       Submitted by: Sang-HeonShim]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist.  The title of the project for this fellowship to Leonardo E Abbrescia is "Shock Formation in 3D Relativistic and Classical Fluids with non-trivial Vorticity and Entropy."  The host institution for the fellowship is Vanderbilt University, and the sponsoring scientist is Jared Speck.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002012</AwardID>
+<Investigator>
+<FirstName>Leonardo</FirstName>
+<LastName>Abbrescia</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leonardo E Abbrescia</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000804593</NSF_ID>
+<StartDate>03/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Abbrescia, Leonardo Enrique]]></Name>
+<CityName>East Lansing</CityName>
+<ZipCode>48824</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Abbrescia, Leonardo Enrique]]></Name>
+<CityName>Lansing</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488243402</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1">The partial differential equations (PDEs) governing fluid dynamics, though easy to write down, feature a large variety of mathematical nonlinear subtleties that accurately describe physical phenomena such as shock waves, rarefactions, and implosions.<span>&nbsp;</span></p> <p class="p1">In 1860, in one spatial dimension, Riemann proved that shock waves -- discontinuous jumps in pressure and density --<span>&nbsp;&nbsp;</span>are caused by the compression of sound waves to a threshold of infinite density. This acoustical degeneracy of the sound waves is called a shock singularity and it causes the solution's gradient to blow-up.&nbsp;</p> <p class="p1">In spite of 164 years of progress, a mathematically rigorous description of Riemann's understanding in multiple spatial dimensions and without symmetry assumptions remains an outstanding open problem. The first major breakthrough came from Christodoulou's 2007 monograph which gave a description of a shock singularity (the collapse of sound waves) in irrotational fluids with constant entropy. He accomplished this by using analytical insights from handling gravitational waves featured in Einstein's theory of relativity and his celebrated proof of the stability of Minkowski space with Klainerman.<span>&nbsp;</span></p> <p class="p1">This left the analysis of the full description of a shock singularity in multi-D with nontrivial vorticity and dynamic entropy as an outstanding open problem. One of the main sources of difficulty is that, in multi-D, vorticity and entropy propagate at a <em>strictly slower</em>&nbsp;speed of propagation from sound waves. This prevents one from blindly implementing Christodoulou's methods to control the energy of the vorticity and entropy near the shock singularity.<span>&nbsp;</span></p> <p class="p1">This NSF Postdoctoral Fellowship developed and completed a research program that tracks the nonlinear coupling of sound waves to vorticity and entropy in all mathematically and physically relevant scenarios -- including shock singularities. For any acoustically globally hyperbolic region (i.e., a spacetime region which is causally determined by the speed of sound), the PI proved localized integral identities from which an energy based functional framework for the vorticity and entropy was built. This was highly nontrivial as I) the identities recover a naive loss of derivatives for the vorticity and entropy in the PDE; II) fully nonlinear cancellations of deadly terms in the PDEs were needed, which was only visible to the PI due to a complete <em>geometric</em>&nbsp;and tensorial<em> </em>decomposition of the acoustics.<span>&nbsp;</span></p> <p class="p1">Using the functional framework described above, the PI gave the first complete description of the shock singularity in 3D featuring nontrivial vorticity, dynamic entropy, and without symmetry assumptions. That is, the PI was able to completely track the new geometric subtleties of how the nonlinear feedback between vorticity/entropy waves and the infinitely compressing sound waves that cause the shock singularity. This completed the full picture of shock singularities started from Riemann's historic work and Christodoulou's breakthrough for irrotational and isentropic (constant entropy) fluids. In addition to being mathematically interesting in its own right, full knowledge of the geometry of the shock singularity is necessary for the subsequent development of shock waves observed in physics. This is termed "The shock development problem", which remains open. In 2019 Christodoulou gave a partial resolution in the restricted setting of irrotational and isentropic fluids. The word "restricted" stems from the laws of thermodynamics, which imply that entropy and vorticity must jump across the shock wave. For this reason, the PI believes his work that incorporates vorticity and entropy at the shock singularity will be fundamental in the full resolution of the shock development problem.</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/15/2024<br> Modified by: Leonardo&nbsp;E&nbsp;Abbrescia</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2002012/2002012_10659273_1729021602387_1DQNLWMGHDwithshear--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2002012/2002012_10659273_1729021602387_1DQNLWMGHDwithshear--rgov-800width.jpg" title="A shock singularity in 1D"><img src="/por/images/Reports/POR/2024/2002012/2002012_10659273_1729021602387_1DQNLWMGHDwithshear--rgov-66x44.jpg" alt="A shock singularity in 1D"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Characteristics collapse along the red curve with infinite density. This causes the fluid to suffer from gradient blow-up. The green line is the domain of influence of the initial singularity, called the Cauchy horizon.</div> <div class="imageCredit">Created with Mathematica</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Leonardo&nbsp;E&nbsp;Abbrescia <div class="imageTitle">A shock singularity in 1D</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The partial differential equations (PDEs) governing fluid dynamics, though easy to write down, feature a large variety of mathematical nonlinear subtleties that accurately describe physical phenomena such as shock waves, rarefactions, and implosions.   In 1860, in one spatial dimension, Riemann proved that shock waves -- discontinuous jumps in pressure and density --are caused by the compression of sound waves to a threshold of infinite density. This acoustical degeneracy of the sound waves is called a shock singularity and it causes the solution's gradient to blow-up.   In spite of 164 years of progress, a mathematically rigorous description of Riemann's understanding in multiple spatial dimensions and without symmetry assumptions remains an outstanding open problem. The first major breakthrough came from Christodoulou's 2007 monograph which gave a description of a shock singularity (the collapse of sound waves) in irrotational fluids with constant entropy. He accomplished this by using analytical insights from handling gravitational waves featured in Einstein's theory of relativity and his celebrated proof of the stability of Minkowski space with Klainerman.   This left the analysis of the full description of a shock singularity in multi-D with nontrivial vorticity and dynamic entropy as an outstanding open problem. One of the main sources of difficulty is that, in multi-D, vorticity and entropy propagate at a strictly slowerspeed of propagation from sound waves. This prevents one from blindly implementing Christodoulou's methods to control the energy of the vorticity and entropy near the shock singularity.   This NSF Postdoctoral Fellowship developed and completed a research program that tracks the nonlinear coupling of sound waves to vorticity and entropy in all mathematically and physically relevant scenarios -- including shock singularities. For any acoustically globally hyperbolic region (i.e., a spacetime region which is causally determined by the speed of sound), the PI proved localized integral identities from which an energy based functional framework for the vorticity and entropy was built. This was highly nontrivial as I) the identities recover a naive loss of derivatives for the vorticity and entropy in the PDE; II) fully nonlinear cancellations of deadly terms in the PDEs were needed, which was only visible to the PI due to a complete geometricand tensorial decomposition of the acoustics.   Using the functional framework described above, the PI gave the first complete description of the shock singularity in 3D featuring nontrivial vorticity, dynamic entropy, and without symmetry assumptions. That is, the PI was able to completely track the new geometric subtleties of how the nonlinear feedback between vorticity/entropy waves and the infinitely compressing sound waves that cause the shock singularity. This completed the full picture of shock singularities started from Riemann's historic work and Christodoulou's breakthrough for irrotational and isentropic (constant entropy) fluids. In addition to being mathematically interesting in its own right, full knowledge of the geometry of the shock singularity is necessary for the subsequent development of shock waves observed in physics. This is termed "The shock development problem", which remains open. In 2019 Christodoulou gave a partial resolution in the restricted setting of irrotational and isentropic fluids. The word "restricted" stems from the laws of thermodynamics, which imply that entropy and vorticity must jump across the shock wave. For this reason, the PI believes his work that incorporates vorticity and entropy at the shock singularity will be fundamental in the full resolution of the shock development problem.        Last Modified: 10/15/2024       Submitted by: LeonardoEAbbrescia]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

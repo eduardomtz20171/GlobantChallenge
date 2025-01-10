@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mechanisms for enhancing n-type polaronic transport in transition metal oxides: ionic size, pair formation/clustering, and valence effects]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>532227.00</AwardTotalIntnAmount>
+<AwardAmount>652415</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Mann</SignBlockName>
+<PO_EMAI>elmann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922655</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non-Technical Abstract &lt;br/&gt;This award supports a project focused on studying a group of materials called transition metal oxides. These materials are promising candidates for making devices for storing energy such as lithium-ion batteries and for converting energy such as solar cells. However, their efficiency has been fundamentally limited by the slow movement of negative and positive charges in them, restricting their use in practical applications. The main reason for the restricted movement of these charges is that they get trapped by the distortions in the materials’ atomic structure. This project will investigate the use of dopants to improve the mobility of the charges in iron oxide, a representative of these transition metal oxides. It will determine the design principles of “good” dopants that improve the transport of charges in these oxides so that they can be used in practical energy applications. The project will train undergraduate and graduate students and will engage in outreach activities involving high school students, emphasizing in broadening participation of underrepresented students.&lt;br/&gt;&lt;br/&gt;Technical Abstract &lt;br/&gt;This research project aims to quantitatively investigate the mechanisms that limit charge transport, including how the clustering of extrinsic n-type dopants takes place, how the interaction between electron small polarons and (clustered) dopants affects the electronic transport properties, and what steps might increase the carrier concentration in transition metal oxides. This project will initially use hematite, a representative polaronic oxide, doped with tin and other 4+/5+ ions as a model system for the study. The dopant clustering is believed to be due to ionic size mismatch, and consequently limit the carrier conductivity. The research team will use a “co-doping” strategy to improve the solubility of dopants and avoid clustering and correspondingly enhance carrier mobility as a function of doping concentration. A crucial step in this project is determining the local environment about extrinsic dopants and dopant clusters and if/how they are modified when the second dopants are incorporated; this work will combine physical measurements with first-principles simulations. The findings in this project can provide rules for rational design of polaronic oxides with improved transport properties, and more importantly, develop a fundamental understanding of key factors determining whether an isolated dopant, dopant cluster or co-doping can be beneficial or harmful for transport properties.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003563</AwardID>
+<Investigator>
+<FirstName>Yat</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yat Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[yatli@ucsc.edu]]></EmailAddress>
+<NSF_ID>000509598</NSF_ID>
+<StartDate>04/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>Bridges</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Frank G Bridges</PI_FULL_NAME>
+<EmailAddress><![CDATA[bridges@ucsc.edu]]></EmailAddress>
+<NSF_ID>000450111</NSF_ID>
+<StartDate>04/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Santa Cruz]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress><![CDATA[1156 HIGH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VXUFPE4MCZH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA SANTA CRUZ</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California Santa Cruz]]></Name>
+<CityName>Santa Cruz</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950641077</ZipCode>
+<StreetAddress><![CDATA[1156 High Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>150400</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>171000</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>171200</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1515</Code>
+<Text>MINORITY GRADUATE EDUC ACTIVIT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~532227</FUND_OBLG>
+<FUND_OBLG>2022~120188</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The objective of this proposal is to quantitatively investigate and reveal the mechanisms of how the clustering of extrinsic n-type dopants takes place, how the interaction between (clustered) dopants and&nbsp;electron small polarons&nbsp;affects&nbsp;the electronic transport properties, and how the carrier concentration can be significantly increased in transition metal oxides (TMOs). Addressing this issue is critical for overcoming the fundamental limitation of low carrier conduction for using TMOs for energy conversion and storage applications. The findings in this project provide rules for rational design of polaronic oxides with improved transport properties, and more importantly, develop a fundamental understanding of key factors determining whether an isolated dopant, dopant cluster or co-doping can be beneficial or harmful for transport properties, with&nbsp;a goal to improve the polaronic conductivity in &alpha;-Fe<sub>2</sub>O<sub>3</sub>&nbsp;and other electron polaronic oxides.</p> <p><strong>Intellectual Merit:</strong></p> <p>The project focused on understanding the mechanisms of dopant clustering and its impact on the electronic transport properties of hematite (&alpha;-Fe2O3). The research revealed critical insights into how dopants interact with electron polarons, affecting the material's conductivity and potential applications in energy conversion and storage. Significant outcomes include:</p> <ol> <li><strong>Materials Synthesis and      Characterization:</strong> Hematite nanowires doped with elements such as Sn,      Ti, Nb, Zr, and Ge were successfully synthesized. Methods to control and      increase doping concentrations were developed, and continuous hematite      films were prepared for electrical and photoelectrochemical measurements.</li> <li><strong>EXAFS Analysis:</strong> Extended X-ray absorption fine structure (EXAFS) data showed that dopant      clustering and the formation of dopant oxides occur at specific      concentrations. Forming dopant oxides could negatively impact      conductivity. New insights into the local environment of dopants and their      effects on hematite structure were gained.</li> <li><strong>Simulations:</strong> First-principles calculations provided a deeper understanding of how      dopant-polaron interactions influence carrier concentration and mobility.      Novel dopant-polaron clustering mechanisms were discovered, explaining the      doping bottleneck at low concentrations.</li> <li><strong>Photoelectrochemical      Measurements:</strong> Doped hematite samples demonstrated enhanced      photocurrent density, though this decreased at higher dopant      concentrations due to oxide formation and clustering.</li> <li><strong>Key Achievements:</strong> The      project resulted in several joint publications and trained multiple      graduate and undergraduate students in cutting-edge materials synthesis,      characterization, and computational techniques.</li> </ol> <p><strong>Broader Impact:</strong></p> <p>The project significantly contributed to educational and outreach activities by involving graduate and undergraduate students in research, including hands-on training in materials synthesis, EXAFS analysis, and computational modeling. The project also provided opportunities for collaboration with national laboratories and industry, thereby broadening the impact of the research findings.</p> <ol> <li><strong>Educational Outreach:</strong> The project recruited and trained 14 graduate and undergraduate students,      providing them with mentorship and hands-on experience in advanced      scientific techniques. This training helped to build a skilled workforce      in materials science and engineering.</li> <li><strong>Collaborations:</strong> New      collaborations were established with Brookhaven National Laboratory and Air      Force Research Laboratory, facilitating new research opportunities and the      application of research findings.</li> <li><strong>Dissemination:</strong> The      results were widely disseminated through publications in high-impact      journals and presentations at national scientific conferences, ensuring      that the findings reached a broad audience within the scientific      community.</li> </ol> <p>This comprehensive approach not only advanced the fundamental understanding of doped TMOs but also contributed to the development of future scientists and engineers, demonstrating the project's broad societal impact.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/30/2024<br> Modified by: Yat&nbsp;Li</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The objective of this proposal is to quantitatively investigate and reveal the mechanisms of how the clustering of extrinsic n-type dopants takes place, how the interaction between (clustered) dopants andelectron small polaronsaffectsthe electronic transport properties, and how the carrier concentration can be significantly increased in transition metal oxides (TMOs). Addressing this issue is critical for overcoming the fundamental limitation of low carrier conduction for using TMOs for energy conversion and storage applications. The findings in this project provide rules for rational design of polaronic oxides with improved transport properties, and more importantly, develop a fundamental understanding of key factors determining whether an isolated dopant, dopant cluster or co-doping can be beneficial or harmful for transport properties, witha goal to improve the polaronic conductivity in -Fe2O3and other electron polaronic oxides.   Intellectual Merit:   The project focused on understanding the mechanisms of dopant clustering and its impact on the electronic transport properties of hematite (-Fe2O3). The research revealed critical insights into how dopants interact with electron polarons, affecting the material's conductivity and potential applications in energy conversion and storage. Significant outcomes include:  Materials Synthesis and      Characterization: Hematite nanowires doped with elements such as Sn,      Ti, Nb, Zr, and Ge were successfully synthesized. Methods to control and      increase doping concentrations were developed, and continuous hematite      films were prepared for electrical and photoelectrochemical measurements. EXAFS Analysis: Extended X-ray absorption fine structure (EXAFS) data showed that dopant      clustering and the formation of dopant oxides occur at specific      concentrations. Forming dopant oxides could negatively impact      conductivity. New insights into the local environment of dopants and their      effects on hematite structure were gained. Simulations: First-principles calculations provided a deeper understanding of how      dopant-polaron interactions influence carrier concentration and mobility.      Novel dopant-polaron clustering mechanisms were discovered, explaining the      doping bottleneck at low concentrations. Photoelectrochemical      Measurements: Doped hematite samples demonstrated enhanced      photocurrent density, though this decreased at higher dopant      concentrations due to oxide formation and clustering. Key Achievements: The      project resulted in several joint publications and trained multiple      graduate and undergraduate students in cutting-edge materials synthesis,      characterization, and computational techniques.    Broader Impact:   The project significantly contributed to educational and outreach activities by involving graduate and undergraduate students in research, including hands-on training in materials synthesis, EXAFS analysis, and computational modeling. The project also provided opportunities for collaboration with national laboratories and industry, thereby broadening the impact of the research findings.  Educational Outreach: The project recruited and trained 14 graduate and undergraduate students,      providing them with mentorship and hands-on experience in advanced      scientific techniques. This training helped to build a skilled workforce      in materials science and engineering. Collaborations: New      collaborations were established with Brookhaven National Laboratory and Air      Force Research Laboratory, facilitating new research opportunities and the      application of research findings. Dissemination: The      results were widely disseminated through publications in high-impact      journals and presentations at national scientific conferences, ensuring      that the findings reached a broad audience within the scientific      community.    This comprehensive approach not only advanced the fundamental understanding of doped TMOs but also contributed to the development of future scientists and engineers, demonstrating the project's broad societal impact.           Last Modified: 08/30/2024       Submitted by: YatLi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Development of a 50-Tesla Ultrabroadband Magneto-optical Spectroscopy System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1519461.00</AwardTotalIntnAmount>
+<AwardAmount>1519461</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Souleymane Diallo</SignBlockName>
+<PO_EMAI>somardia@nsf.gov</PO_EMAI>
+<PO_PHON>7032928302</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project develops a unique facility at Rice University that houses an ultracompact pulsed magnet combined with an arsenal of state-of-the-art instruments for materials research. A distinctive feature of this system is the combination of a strong magnetic field with ultrashort laser pulses covering a broad spectrum. This unconventional coupling of magnetism and optics can produce new scientific knowledge and exciting breakthroughs, advancing the frontier of materials physics and chemistry. With current collaborations with Japanese and French researchers, the novel facility positions Rice University as an international hub for materials researchers. The project also features a multifaceted workforce development plan run through the facility wherein graduate students receive hands-on experience in developing, fabricating, and disseminating miniature magnet models during classroom demonstrations. Workforce impact extends beyond the current project reaching an anticipated ~50 Ph.D. students over 10 years, thereby producing a new generation of rigorously educated and trained material scientists and engineers who are equipped with the technical expertise to advance fundamental and applied research well into the future.&lt;br/&gt;&lt;br/&gt;The objective of this project is the development of a 50-Tesla ultrabroadband magneto-optical spectroscopy system, a unique facility that houses an ultracompact pulsed magnet combined with an arsenal of state-of-the-art instruments for modern materials, which has the potential to impact numerous technologies, including computation, communications, and sensing, in ways never before possible. The system combines a mini-coil magnet, an ultrafast ultrabroadband laser, and photodetection systems to develop various magneto-spectroscopic capabilities that will allow scientists to conduct transformative research. The system and research conducted therein provide new insights into the states, dynamics, and behaviors of electrons in unique materials that exhibit novel properties in high magnetic fields, including the spontaneous appearance of macroscopic coherence of excitons; nonequilibrium dynamics of Dirac fermions in a quantizing magnetic field; spin dynamics of strongly-interacting, one-dimensional electrons; states in high temperature superconductors; and magnon-polaritons. Team members are world leaders in an array of research areas: magneto-optical and ultrafast optical studies of low-dimensional systems, terahertz spectroscopy of nanomaterials, and theoretical and experimental condensed matter physics. The system is operated and maintained for Rice University researchers and external collaborators from around the world, making Rice a hub for an international network of materials researchers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019004</AwardID>
+<Investigator>
+<FirstName>Junichiro</FirstName>
+<LastName>Kono</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Junichiro Kono</PI_FULL_NAME>
+<EmailAddress><![CDATA[kono@rice.edu]]></EmailAddress>
+<NSF_ID>000203736</NSF_ID>
+<StartDate>07/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aditya</FirstName>
+<LastName>Mohite</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aditya Mohite</PI_FULL_NAME>
+<EmailAddress><![CDATA[adm4@rice.edu]]></EmailAddress>
+<NSF_ID>000761157</NSF_ID>
+<StartDate>07/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hanyu</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hanyu Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[hanyu.zhu@rice.edu]]></EmailAddress>
+<NSF_ID>000790907</NSF_ID>
+<StartDate>07/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ming</FirstName>
+<LastName>Yi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ming Yi</PI_FULL_NAME>
+<EmailAddress><![CDATA[mingyi@rice.edu]]></EmailAddress>
+<NSF_ID>000796172</NSF_ID>
+<StartDate>07/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[William Marsh Rice University]]></Name>
+<CityName>Houston</CityName>
+<ZipCode>770051827</ZipCode>
+<PhoneNumber>7133484820</PhoneNumber>
+<StreetAddress><![CDATA[6100 MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>K51LECU1G8N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WILLIAM MARSH RICE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[William Marsh Rice University]]></Name>
+<CityName>Houston</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>770051827</ZipCode>
+<StreetAddress><![CDATA[6100 Main Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>118900</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>175000</Code>
+<Text>MPS DMR INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~1519461</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-451d96c9-7fff-069b-4920-c50ff4124971">  <p dir="ltr"><span>This project develops a unique facility at Rice University that houses an ultracompact pulsed magnet combined with an arsenal of state-of-the-art instruments for modern materials. A distinctive feature of this system is the marriage of a strong magnetic field and ultrashort laser pulses covering a broad spectrum. This unconventional coupling of magnetism and optics can produce new scientific knowledge and exciting breakthroughs, advancing the frontier of materials physics and chemistry. In this NSF award, we have partially developed (awaiting delivery of the long-delayed commercial equipment &ndash; a laser source to cover the XUV frequency region) a 50-Tesla ultra-broadband magneto-optical spectroscopy system, a unique facility that houses an ultracompact pulsed magnet combined with an arsenal of state-of-the-art instruments for modern materials. It includes four pulsed magnets with different geometries specifically designed to couple with THz radiation (50 Tesla, still under testing), near-infrared and visible radiation (50 Tesla), extreme ultraviolet (XUV) (25 Tesla), and angle-resolved photoemission spectroscopy (ARPES) (30 Tesla for pre-magnetization in the ARPES chamber and 10-mT for </span><span>in situ</span><span> ARPES measurements). We have systematically probed the effects of a magnetic field on the photo-emitted electrons during an ARPES measurement, including the rotation of the measured Fermi surface, the broadening of momentum distribution, and momentum shrinking. These studies are crucial for the current interpretation of ARPES measurements in magnetic fields. The 50-T mini-coil magnet for transmission and photoluminescence measurements in the visible and near-infrared spectral ranges has been extensively tested and safely pulsed to peak fields of 48 T. We have also measured the diamagnetic shift in the 2D halide perovskites and discovered an increase of exciton binding energy with increasing temperature, which bears implications for their solar cell applications. As we are expecting the arrival of the XUV laser source past the end of the project, other functionalities of the awarded proposal will be demonstrated soon.</span></p>  <p dir="ltr"><span>During the project, two postdoctoral scholars, five graduate students, and one undergraduate student were involved. They received experience in instrumentation design and development, instrument control, data acquisition, and data analysis. They acquired the technical expertise necessary to advance fundamental and applied research well into the future.</span></p>  </span></p><br> <p>  Last Modified: 11/28/2024<br> Modified by: Junichiro&nbsp;Kono</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      This project develops a unique facility at Rice University that houses an ultracompact pulsed magnet combined with an arsenal of state-of-the-art instruments for modern materials. A distinctive feature of this system is the marriage of a strong magnetic field and ultrashort laser pulses covering a broad spectrum. This unconventional coupling of magnetism and optics can produce new scientific knowledge and exciting breakthroughs, advancing the frontier of materials physics and chemistry. In this NSF award, we have partially developed (awaiting delivery of the long-delayed commercial equipment  a laser source to cover the XUV frequency region) a 50-Tesla ultra-broadband magneto-optical spectroscopy system, a unique facility that houses an ultracompact pulsed magnet combined with an arsenal of state-of-the-art instruments for modern materials. It includes four pulsed magnets with different geometries specifically designed to couple with THz radiation (50 Tesla, still under testing), near-infrared and visible radiation (50 Tesla), extreme ultraviolet (XUV) (25 Tesla), and angle-resolved photoemission spectroscopy (ARPES) (30 Tesla for pre-magnetization in the ARPES chamber and 10-mT for in situ ARPES measurements). We have systematically probed the effects of a magnetic field on the photo-emitted electrons during an ARPES measurement, including the rotation of the measured Fermi surface, the broadening of momentum distribution, and momentum shrinking. These studies are crucial for the current interpretation of ARPES measurements in magnetic fields. The 50-T mini-coil magnet for transmission and photoluminescence measurements in the visible and near-infrared spectral ranges has been extensively tested and safely pulsed to peak fields of 48 T. We have also measured the diamagnetic shift in the 2D halide perovskites and discovered an increase of exciton binding energy with increasing temperature, which bears implications for their solar cell applications. As we are expecting the arrival of the XUV laser source past the end of the project, other functionalities of the awarded proposal will be demonstrated soon.    During the project, two postdoctoral scholars, five graduate students, and one undergraduate student were involved. They received experience in instrumentation design and development, instrument control, data acquisition, and data analysis. They acquired the technical expertise necessary to advance fundamental and applied research well into the future.       Last Modified: 11/28/2024       Submitted by: JunichiroKono]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

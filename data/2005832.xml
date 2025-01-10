@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Probabilistic Approach to Rough PDEs: Applications to Finance and Control]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>293899.00</AwardTotalIntnAmount>
+<AwardAmount>293899</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research project concerns the mathematical theory of optimal decision making under uncertainty. A particular focus will be put on problems arising in quantitative finance, where a classical issue is to maximize an investor’s future gain or to minimize their future risk. We will further develop the probabilistic theory underpinning the modeling and investigation of such problems. A particular focus will be put on situations where, in addition to randomness, models have to reflect some particular discontinuities that can occur in the system. One example is that of optimal investment in a company subject to possible bankruptcy proceedings or, more generally, subject to possible drastic changes. In addition to developing the mathematical theory, we also aim to further the understanding of the numerical computation of such systems so that the outcomes of the project will directly benefit the financial engineering and academic communities. Moreover, the proposed research activity will include mentorship of undergraduate as well as graduate students, and scientific dissemination through presentations and publications in scientific journals. &lt;br/&gt;&lt;br/&gt;It is well-known that the value and optimal strategies of many optimal stochastic control problems can be characterized by (forward) backward stochastic differential equations. However, the rather strong regularity conditions imposed on coefficient of these equations for their well-posedness severely restrict the realm of control problems that can be tackled with these probabilistic methods. The goal of this project is, in the first part, to develop a set of new ideas that can be used to study well-posedness and regularity of solutions of backward stochastic differential equations with rough coefficients and the associated second order partial differential equations. The main approach we envision will make ample use of strong compactness criteria from the theory of Malliavin calculus. Then, we will consider a number of applications, including application to rough partial differential equations, quantitative finance (portfolio optimization problems) and optimal transport. Putting our theoretical results together with newly developed deep learning approaches to the approximation of backward stochastic differential equations will further allow to numerically simulate the solutions constructed in some of the application areas.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005832</AwardID>
+<Investigator>
+<FirstName>Ludovic</FirstName>
+<LastName>Tangpi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ludovic Tangpi</PI_FULL_NAME>
+<EmailAddress><![CDATA[ludovic.tangpi@princeton.edu]]></EmailAddress>
+<NSF_ID>000787383</NSF_ID>
+<StartDate>05/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>Princeton</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442020</ZipCode>
+<StreetAddress><![CDATA[203 Sherrerd Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~192767</FUND_OBLG>
+<FUND_OBLG>2022~101132</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp;</p> <p>The main objectives of the projects were as follows:&nbsp;</p> <ul> <li><span>&nbsp;</span>Stochastic control problems with non-smooth coefficients.&nbsp;</li> <li><span>&nbsp;</span>Develop probabilistic methods to study a class of partial differential equations with irregular coefficients arising in stochastic control problems.</li> <li>Develop numerical techniques for some stochastic control problems with irregular coefficients.</li> <li>Develop a concept of concentration of measures allowing to study asymptotic issues in stochastic optimal control.</li> <li>Study applications to quantitative finance.</li> </ul> <p>During the past three years, along with our graduate students, we have actively worked on the&nbsp; six specific research objectives listed above, as well as related areas. We have successfully solved many problems and developed ideas that we believe would help going forward in the theory. Of course, these (broad) questions have not been fully solved, but we made remarkable progress. Let us briefly present the results that have been achieved in each of these objectives.</p> <p>Study of stochastic control problems with non-smooth coefficients: This is a broad question with that can take many form depending on the application considered. We considered two cases of such problems. The first case is that of controlled diffusions with irregular drifts. In this direction, we developed a, general new stochastic maximum principle that will allow to solve such problems using fully probabilistic techniques. This is an interesting result insofar that all papers on the subject assumed quite a lot of smoothness on the coefficient. We have been able to recover maximum principle with much lower regularity requirement, in particular, we assumed the drift coefficient to be simply Borel measurable. Along the same lines, we went on to solve forward backward stochastic differential equations with irregular coefficients and showed how this can be used to solve stochastic control problems. We also presented applications</p> <p>&nbsp;The second type of control problems with irregular coefficients we consider comes from the theory of (stochastic) optimal transport. In this realm, the natural formulation of the problem is one that has a certain singularity at the terminal cost, while being a control problem of McKean-Vlasov type. We developed a penalization technique allowing to solve this problem.</p> <p>&nbsp;</p> <p>Probabilistic methods for PDE with irregular coefficients in stochastic control problems: In this direction we obtained a sort of nonlinear Feynman-Kac formula for diffusions with irregular coefficients. This allows to give a probabilistic formulation of some parabolic PDEs. The notion of nonlinear Feynman-Kac formula is well-understood, in the case where coefficients are smooth and the PDE can be solved either in the classical sense or in the weak sense (viscosity or Sobolev). We showed that this notion can be extended to deriving a probabilistic construction of L^p viscosity solutions for quasi linear parabolic PDEs with Borel-measurable coefficients.&nbsp;</p> <p>Numerics techniques for stochastic control problems with irregular coefficients: Here we focused on applications to optimal investment and games. We considered a stochastic control problem coming from an optimal investment game. Using FBSDEs derived for such problems, we developed a deep learning technique allowing to solve a stochastic differential game among a large population of heterogeneous agents.</p> <p>Concentration of measures for stochastic optimal control. In this direction we we derived Talagrand and log-Sobolev inequalities for solutions of (F)BSDEs as well as values of optimal stopping problems. These functional inequalities are important theoretical steps to derive concentration inequalities for various asymptotic issues in stochastic control problems.</p> <p>Applications to stochastic differential games and finance. The main applications that have been considered are optimal investment games among a large population of investors. In this direction we obtained well-posedness of the games and we studied issues around the importance of common noise as well as the convergence problem of N-player games to mean field games.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/13/2024<br> Modified by: Ludovic&nbsp;Tangpi</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     The main objectives of the projects were as follows:  Stochastic control problems with non-smooth coefficients. Develop probabilistic methods to study a class of partial differential equations with irregular coefficients arising in stochastic control problems. Develop numerical techniques for some stochastic control problems with irregular coefficients. Develop a concept of concentration of measures allowing to study asymptotic issues in stochastic optimal control. Study applications to quantitative finance.    During the past three years, along with our graduate students, we have actively worked on the six specific research objectives listed above, as well as related areas. We have successfully solved many problems and developed ideas that we believe would help going forward in the theory. Of course, these (broad) questions have not been fully solved, but we made remarkable progress. Let us briefly present the results that have been achieved in each of these objectives.   Study of stochastic control problems with non-smooth coefficients: This is a broad question with that can take many form depending on the application considered. We considered two cases of such problems. The first case is that of controlled diffusions with irregular drifts. In this direction, we developed a, general new stochastic maximum principle that will allow to solve such problems using fully probabilistic techniques. This is an interesting result insofar that all papers on the subject assumed quite a lot of smoothness on the coefficient. We have been able to recover maximum principle with much lower regularity requirement, in particular, we assumed the drift coefficient to be simply Borel measurable. Along the same lines, we went on to solve forward backward stochastic differential equations with irregular coefficients and showed how this can be used to solve stochastic control problems. We also presented applications   The second type of control problems with irregular coefficients we consider comes from the theory of (stochastic) optimal transport. In this realm, the natural formulation of the problem is one that has a certain singularity at the terminal cost, while being a control problem of McKean-Vlasov type. We developed a penalization technique allowing to solve this problem.      Probabilistic methods for PDE with irregular coefficients in stochastic control problems: In this direction we obtained a sort of nonlinear Feynman-Kac formula for diffusions with irregular coefficients. This allows to give a probabilistic formulation of some parabolic PDEs. The notion of nonlinear Feynman-Kac formula is well-understood, in the case where coefficients are smooth and the PDE can be solved either in the classical sense or in the weak sense (viscosity or Sobolev). We showed that this notion can be extended to deriving a probabilistic construction of L^p viscosity solutions for quasi linear parabolic PDEs with Borel-measurable coefficients.   Numerics techniques for stochastic control problems with irregular coefficients: Here we focused on applications to optimal investment and games. We considered a stochastic control problem coming from an optimal investment game. Using FBSDEs derived for such problems, we developed a deep learning technique allowing to solve a stochastic differential game among a large population of heterogeneous agents.   Concentration of measures for stochastic optimal control. In this direction we we derived Talagrand and log-Sobolev inequalities for solutions of (F)BSDEs as well as values of optimal stopping problems. These functional inequalities are important theoretical steps to derive concentration inequalities for various asymptotic issues in stochastic control problems.   Applications to stochastic differential games and finance. The main applications that have been considered are optimal investment games among a large population of investors. In this direction we obtained well-posedness of the games and we studied issues around the importance of common noise as well as the convergence problem of N-player games to mean field games.        Last Modified: 09/13/2024       Submitted by: LudovicTangpi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

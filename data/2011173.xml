@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Metallic nanocluster structure fluctuations as an early detector of cancer biomarkers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>391343.00</AwardTotalIntnAmount>
+<AwardAmount>391343</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aleksandr Simonian</SignBlockName>
+<PO_EMAI>asimonia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922191</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The chances of surviving cancer are increased if onset can be detected at an early stage.  One approach to cancer detection is to look for specific peptides (small protein fragments) released by cancer cells. In this research project, Dr. Reiner of Virginia Commonwealth University aims to develop a rapid and low-cost method for detecting cancer-marking peptides in early cancer screening. The project provides opportunities to engage undergraduate and graduate students in biosensing research.  It also introduces biosensing concepts to students from a diverse range of backgrounds in grades 5-12.   &lt;br/&gt; &lt;br/&gt;The new approach to cancer-specific peptide detection is based on nanopore sensing of structural fluctuation kinetics of metallic nanoparticles. The exchange of peptides in solution with the thiolate- or amine-ligands on the nanometer-sized particles leads to detectable changes in the size and shape of the particles.  These changes can be monitored by the nanopore-based resistive pulse technique and used to infer the identity of the various peptides. This project explores the possibility of developing a ligand-exchange based peptide sensor by achieving the following specific aims: 1) characterize thiolate- and amine-capped metallic clusters in a nanopore environment and find the clusters that are most amenable to peptide exchange; 2) perform exchange measurements on a variety of cysteine- and lysine-containing peptides to establish relationships between the physical characteristics of the peptides and the corresponding nanopore current fluctuations; and 3) perform exchange measurements with a collection of cancer-marking peptides to establish efficacy of the technique and set limits on the size and sequence of peptides that are detectable.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011173</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Reiner</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph Reiner</PI_FULL_NAME>
+<EmailAddress><![CDATA[jereiner@vcu.edu]]></EmailAddress>
+<NSF_ID>000641642</NSF_ID>
+<StartDate>05/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Virginia Commonwealth University]]></Name>
+<CityName>RICHMOND</CityName>
+<ZipCode>232849005</ZipCode>
+<PhoneNumber>8048286772</PhoneNumber>
+<StreetAddress><![CDATA[910 WEST FRANKLIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MLQFL4JSSAA9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA COMMONWEALTH UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WXQLZ1PA6XP3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Commonwealth University]]></Name>
+<CityName>Richmond</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>232842000</ZipCode>
+<StreetAddress><![CDATA[701 W. Grace St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>790900</Code>
+<Text>BIOSENS-Biosensing</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~391343</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The primary research goal of this project was to demonstrate that a new type of nanopore-based biosensing could be used to detect and discriminate between a number of different cancer-biomarker peptides in bodily fluids.&nbsp; To do this, we introduce gold nanoparticles into a biological nanopore where the particle acts as a binding site for cysteine-containing peptides.&nbsp; The first part of the project focused on analyzing and understanding the different types of ionic current fluctuations that result from various peptides interacting with the nanoparticle-modified pore.&nbsp; The second part applied the knowledge gained from the first part to demonstrate the detection of various ovarian cancer biomarker peptides.&nbsp; In the final step we demonstrated that the technique could be applied to peptides dissolved in human urine.&nbsp; This suggests that the nanoparticle-modified approach could be a viable method for detecting and discriminating between cancer biomarker peptides and thus could be used as an initial screening tool in clinical settings.&nbsp; The educational and outreach goals of the project included training graduate students on the interdisciplinary research involved and generating interest in nanobiosensing among middle and high school-aged students through numerous classroom visits.&nbsp; &nbsp;&nbsp;</p> <p>We made two major discoveries during the funding period of this NSF award. These findings have now been published in 3 peer-reviewed papers: ACS Applied Nano Materials, ACS NANO and ACS Sensors.&nbsp; The important results from these papers are summarized below.&nbsp; &nbsp;</p> <p>The first result required optimizing the gold nanoparticle composition and studying the current fluctuations from a variety of different peptides interacting with these particles.&nbsp; It was discovered that smaller peptides (less than 1 kDa) attaching to the gold nanoparticle tend to give rise to step-like changes in the current while larger peptides (greater than 1 kDa) typically resulted in complex and rapid multistate fluctuations.&nbsp; The magnitude and kinetics of these fluctuations usually correlated with the peptide&rsquo;s sequence, length and/or charge.&nbsp; Analysis of these fluctuations suggested that the nanoparticle-modified nanopore sensor could serve as a useful identifier for various peptides.&nbsp; The initial work demonstrating these results was published in ACS Applied Nano Materials in 2020 and this was followed by a more in-depth analysis of peptide-induced fluctuations published in ACS NANO in 2022&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>The second discovery was that we could apply this technique to detect and discriminate between a variety of different ovarian cancer biomarker peptides.&nbsp; These are peptides that have been found to uniquely present in the urine of ovarian cancer patients.&nbsp; Additionally, we showed that the nanoparticle-modified nanopore sensor could be used to detect peptides dissolved in human urine.&nbsp; This work was published in ACS Sensors in 2024.&nbsp;</p> <p>For the broader impact portion of this award, we published 8 peer-reviewed papers with acknowledgement of support from the NSF grant.&nbsp; Additionally, this award partially supported 4 Ph.D. students and 14 undergraduate students.&nbsp; The grant also provided support for the PI, co-PI and several students to attend the following meetings (either in person or remotely): 5<sup>th</sup> Prato Conference on Pore Forming Proteins, Annual Meeting of the Southeastern section of the American Physical Society, Annual Meeting of the American Chemical Society, Biophysical Society Annual Meeting and the Mid-Atlantic Regional Meeting of the American Chemical Society.&nbsp; At these meetings, team members delivered 3 invited talks, 1 contributed talk and 8 contributed posters.&nbsp; Finally, the PI visited several high school and middle school classes to discuss the scientific principles related to this project.&nbsp; In conclusion, this award was used to demonstrate the potential of the nanoparticle-modified approach to nanopore sensing when applied to the detection of cancer biomarker peptides. &nbsp;&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/28/2024<br> Modified by: Joseph&nbsp;Reiner</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The primary research goal of this project was to demonstrate that a new type of nanopore-based biosensing could be used to detect and discriminate between a number of different cancer-biomarker peptides in bodily fluids. To do this, we introduce gold nanoparticles into a biological nanopore where the particle acts as a binding site for cysteine-containing peptides. The first part of the project focused on analyzing and understanding the different types of ionic current fluctuations that result from various peptides interacting with the nanoparticle-modified pore. The second part applied the knowledge gained from the first part to demonstrate the detection of various ovarian cancer biomarker peptides. In the final step we demonstrated that the technique could be applied to peptides dissolved in human urine. This suggests that the nanoparticle-modified approach could be a viable method for detecting and discriminating between cancer biomarker peptides and thus could be used as an initial screening tool in clinical settings. The educational and outreach goals of the project included training graduate students on the interdisciplinary research involved and generating interest in nanobiosensing among middle and high school-aged students through numerous classroom visits.    We made two major discoveries during the funding period of this NSF award. These findings have now been published in 3 peer-reviewed papers: ACS Applied Nano Materials, ACS NANO and ACS Sensors. The important results from these papers are summarized below.    The first result required optimizing the gold nanoparticle composition and studying the current fluctuations from a variety of different peptides interacting with these particles. It was discovered that smaller peptides (less than 1 kDa) attaching to the gold nanoparticle tend to give rise to step-like changes in the current while larger peptides (greater than 1 kDa) typically resulted in complex and rapid multistate fluctuations. The magnitude and kinetics of these fluctuations usually correlated with the peptides sequence, length and/or charge. Analysis of these fluctuations suggested that the nanoparticle-modified nanopore sensor could serve as a useful identifier for various peptides. The initial work demonstrating these results was published in ACS Applied Nano Materials in 2020 and this was followed by a more in-depth analysis of peptide-induced fluctuations published in ACS NANO in 2022    The second discovery was that we could apply this technique to detect and discriminate between a variety of different ovarian cancer biomarker peptides. These are peptides that have been found to uniquely present in the urine of ovarian cancer patients. Additionally, we showed that the nanoparticle-modified nanopore sensor could be used to detect peptides dissolved in human urine. This work was published in ACS Sensors in 2024.   For the broader impact portion of this award, we published 8 peer-reviewed papers with acknowledgement of support from the NSF grant. Additionally, this award partially supported 4 Ph.D. students and 14 undergraduate students. The grant also provided support for the PI, co-PI and several students to attend the following meetings (either in person or remotely): 5th Prato Conference on Pore Forming Proteins, Annual Meeting of the Southeastern section of the American Physical Society, Annual Meeting of the American Chemical Society, Biophysical Society Annual Meeting and the Mid-Atlantic Regional Meeting of the American Chemical Society. At these meetings, team members delivered 3 invited talks, 1 contributed talk and 8 contributed posters. Finally, the PI visited several high school and middle school classes to discuss the scientific principles related to this project. In conclusion, this award was used to demonstrate the potential of the nanoparticle-modified approach to nanopore sensing when applied to the detection of cancer biomarker peptides.               Last Modified: 10/28/2024       Submitted by: JosephReiner]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

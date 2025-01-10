@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: WoU-MMA: Studies in Numerical Relativity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>244673.00</AwardTotalIntnAmount>
+<AwardAmount>244673</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Einstein’s theory of general relativity describes all gravitational interactions in the universe, ranging from the force that pulls a falling apple to the Earth, to the expansion of the Universe itself.  The equations of general relativity - called Einstein’s equations - are quite complicated and can be solved exactly, i.e. with pencil and paper, only under very special and unrealistic circumstances.  Modeling more general scenarios requires computer simulations.  Ongoing research efforts supported by this award aim at developing methods and approaches for such computer simulations, and to use these simulations to explore processes in relativistic astrophysics and general relativity.  In the next few years this will include unresolved questions pertaining to the nature of general relativity — can arbitrarily small black holes form? — as well as effects of radiation in newly formed neutron stars and on black-hole accretion.  Undergraduate students will participate in these activities, providing them with a “hands-on” research experience, and generating a research-enriched learning environment at Bowdoin College.&lt;br/&gt;&lt;br/&gt;The scientific goals of these research efforts include the development and implementation of numerical algorithms for the solution of Einstein's equations of general relativity, as well as their application in the numerical modeling of relativistic objects, in particular neutron stars and black holes.  In the next funding period these activities will focus on projects in two main areas, namely critical phenomena in the gravitational collapse to black holes, and dynamical effects of radiation.  With regard to the former, the focus will be on situations in which the critical solution cannot be spherically symmetric. Building on experience and insights from previous work on critical collapse, these phenomena will be explored for the collapse of gravitational waves in vacuum spacetimes, an important problem that remains poorly understood even 25 years after it was first tackled.  With regard to the latter, an approximate treatment of radiation transfer will be implemented and used to explore several scenarios in which radiation may play an important dynamical role.  Examples include the evolution of supermassive stars up to the onset of radial instability, possible non-axisymmetric instabilities triggered by cooling in proto-neutron stars, and an exploration of super-Eddington flows in accretion onto black holes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010394</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Baumgarte</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas W Baumgarte</PI_FULL_NAME>
+<EmailAddress><![CDATA[tbaumgar@bowdoin.edu]]></EmailAddress>
+<NSF_ID>000120847</NSF_ID>
+<StartDate>04/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Bowdoin College]]></Name>
+<CityName>BRUNSWICK</CityName>
+<ZipCode>040113343</ZipCode>
+<PhoneNumber>2077253767</PhoneNumber>
+<StreetAddress><![CDATA[255 MAINE ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ME01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JE5WBLZJUME7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOWDOIN COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bowdoin College]]></Name>
+<CityName/>
+<StateCode>ME</StateCode>
+<ZipCode>040118451</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ME01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124400</Code>
+<Text>Gravity Theory</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~78072</FUND_OBLG>
+<FUND_OBLG>2021~81501</FUND_OBLG>
+<FUND_OBLG>2022~85100</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Einstein&rsquo;s theory of general relativity describes gravitation.&nbsp; It describes all gravitational interactions &mdash; ranging from the gravitational forces we feel on the Earth, to the evolution and fate of the Universe itself &mdash; and it predicts objects and phenomena as exotic as black holes and gravitational waves &mdash; both of which were confirmed spectacularly when LIGO detected, for the first time, gravitational waves from two colliding black holes in 2015. &nbsp;</p> <p>&nbsp;</p> <p>Learning about such objects and phenomena, and the interactions between them, requires solving Einstein&rsquo;s equations, a complicated set of differential equations that form the core of general relativity.&nbsp; For some simple cases these differential equations can be solved analytically, i.e. with pencil and paper, but for more general cases this is not possible.&nbsp; In the field of &ldquo;numerical relativity&rdquo; we instead solve the equations numerically, writing computer programs that help us model black holes and other relativistic objects on the computer. &nbsp; During my entire career, my research has been focussed on developing approaches and methods for numerical relativity, and the application of these methods to model astrophysical objects with strong gravitational fields, in particular black holes and neutron stars.&nbsp; During the funding period of this grant I have focused on two main areas, namely small black holes inside neutron stars, and so-called critical phenomena that occur at the onset of black-hole formation.</p> <p>&nbsp;</p> <p>While we know that so-called dark matter accounts for about five times as much mass in the Universe as ordinary matter, the nature of dark matter remains quite mysterious.&nbsp; One possible explanation suggests that the dark matter is composed, at least in part, by primordial black holes that formed in the early Universe.&nbsp; Primordial black holes have never been observed directly, but they also have not been ruled out &mdash; meaning that it is of great interest to explore their observational signatures. &nbsp; A particularly promising scenario invokes the collision of a (small) primordial black hole with a neutron star.&nbsp; Typically, the black hole will traverse the neutron star and reemerge on the other side, but it may lose enough energy in the process to remain gravitationally bound.&nbsp; In this case it will return to the neutron star for more passages through the star, until it finally remains completely contained inside the neutron star without reemerging.&nbsp; Such an &ldquo;endoparasitic&rdquo; black hole will slowly settle toward the stellar center and accrete material from the host star in the process, until the entire star has been swallowed by the black hole.&nbsp; &nbsp;</p> <p>&nbsp;</p> <p>My collaborators, including several Bowdoin College undergraduate students, and I have performed a number of calculations and simulations to explore different aspects of this process.&nbsp; Specifically, we demonstrated that sufficiently small black holes can indeed pass through a neutron star without inducing collapse, and we placed firm limits on the time that it would take an endoparasitic black holes to swallow the entire host star. &nbsp; Perhaps most excitingly we identified a new feature of the gravitational wave signal emitted by black holes orbiting inside neutron star, which we refer to as ``gravitational-wave beats&rdquo;.&nbsp; These gravitational-wave beats depend sensitively on the structure of the neutron star, so that a future detection would provide valuable information on the properties of matter at densities at and above nuclear density &mdash; which is one of the key goals of relativistic astrophysics.</p> <p>&nbsp;</p> <p>Critical phenomena in gravitational collapse appear at the threshold of black-hole formation and reflect remarkable properties of Einstein&rsquo;s theory.&nbsp; Discovered originally in 1993 by Matt Choptuik, many aspects of critical collapse are now well understood.&nbsp; A notable exception, however, has been the &ldquo;pure gravity&rdquo; collapse, i.e. critical collapse of gravitational waves.&nbsp; Remarkably, Andrew Abrahams and Chuck Evans reported on critical phenomena in the gravitational collapse of gravitational waves also in 1993, only months after Choptuik&rsquo;s discovery.&nbsp; Unfortunately, however, it has proven very difficult to reproduce these results, as most modern codes crashed in the attempt, while others produced results that appeared inconsistent with those of Abrahams and Evans.</p> <p>&nbsp;</p> <p>I am pleased that my collaborators and I have been able to resolve several of these issues.&nbsp; Specifically, we identified what caused many codes to crash in these simulations, and demonstrated that a simple code modification prevents these crashes.&nbsp; We then modeled critical collapse of gravitational waves with three different and independent codes and, reassuringly, found very good agreement.&nbsp; Moreover, we found that the details of the observed critical phenomena depend on the details of the gravitational waves: unlike for many other cases, critical collapse of gravitational waves does not appear to feature &ldquo;uniqueness&rdquo;.&nbsp; This absence of uniqueness explains the apparent inconsistencies mentioned above and, based on previous work of ours, appears to be a feature of critical collapse in the absence of spherical symmetry. &nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/10/2024<br> Modified by: Thomas&nbsp;W&nbsp;Baumgarte</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Einsteins theory of general relativity describes gravitation. It describes all gravitational interactions  ranging from the gravitational forces we feel on the Earth, to the evolution and fate of the Universe itself  and it predicts objects and phenomena as exotic as black holes and gravitational waves  both of which were confirmed spectacularly when LIGO detected, for the first time, gravitational waves from two colliding black holes in 2015.       Learning about such objects and phenomena, and the interactions between them, requires solving Einsteins equations, a complicated set of differential equations that form the core of general relativity. For some simple cases these differential equations can be solved analytically, i.e. with pencil and paper, but for more general cases this is not possible. In the field of numerical relativity we instead solve the equations numerically, writing computer programs that help us model black holes and other relativistic objects on the computer.  During my entire career, my research has been focussed on developing approaches and methods for numerical relativity, and the application of these methods to model astrophysical objects with strong gravitational fields, in particular black holes and neutron stars. During the funding period of this grant I have focused on two main areas, namely small black holes inside neutron stars, and so-called critical phenomena that occur at the onset of black-hole formation.      While we know that so-called dark matter accounts for about five times as much mass in the Universe as ordinary matter, the nature of dark matter remains quite mysterious. One possible explanation suggests that the dark matter is composed, at least in part, by primordial black holes that formed in the early Universe. Primordial black holes have never been observed directly, but they also have not been ruled out  meaning that it is of great interest to explore their observational signatures.  A particularly promising scenario invokes the collision of a (small) primordial black hole with a neutron star. Typically, the black hole will traverse the neutron star and reemerge on the other side, but it may lose enough energy in the process to remain gravitationally bound. In this case it will return to the neutron star for more passages through the star, until it finally remains completely contained inside the neutron star without reemerging. Such an endoparasitic black hole will slowly settle toward the stellar center and accrete material from the host star in the process, until the entire star has been swallowed by the black hole.       My collaborators, including several Bowdoin College undergraduate students, and I have performed a number of calculations and simulations to explore different aspects of this process. Specifically, we demonstrated that sufficiently small black holes can indeed pass through a neutron star without inducing collapse, and we placed firm limits on the time that it would take an endoparasitic black holes to swallow the entire host star.  Perhaps most excitingly we identified a new feature of the gravitational wave signal emitted by black holes orbiting inside neutron star, which we refer to as ``gravitational-wave beats. These gravitational-wave beats depend sensitively on the structure of the neutron star, so that a future detection would provide valuable information on the properties of matter at densities at and above nuclear density  which is one of the key goals of relativistic astrophysics.      Critical phenomena in gravitational collapse appear at the threshold of black-hole formation and reflect remarkable properties of Einsteins theory. Discovered originally in 1993 by Matt Choptuik, many aspects of critical collapse are now well understood. A notable exception, however, has been the pure gravity collapse, i.e. critical collapse of gravitational waves. Remarkably, Andrew Abrahams and Chuck Evans reported on critical phenomena in the gravitational collapse of gravitational waves also in 1993, only months after Choptuiks discovery. Unfortunately, however, it has proven very difficult to reproduce these results, as most modern codes crashed in the attempt, while others produced results that appeared inconsistent with those of Abrahams and Evans.      I am pleased that my collaborators and I have been able to resolve several of these issues. Specifically, we identified what caused many codes to crash in these simulations, and demonstrated that a simple code modification prevents these crashes. We then modeled critical collapse of gravitational waves with three different and independent codes and, reassuringly, found very good agreement. Moreover, we found that the details of the observed critical phenomena depend on the details of the gravitational waves: unlike for many other cases, critical collapse of gravitational waves does not appear to feature uniqueness. This absence of uniqueness explains the apparent inconsistencies mentioned above and, based on previous work of ours, appears to be a feature of critical collapse in the absence of spherical symmetry.                  Last Modified: 09/10/2024       Submitted by: ThomasWBaumgarte]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

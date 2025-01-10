@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Calibrating Stellar Gyrochronology Using Improved Rotation Period Measurements]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>522662.00</AwardTotalIntnAmount>
+<AwardAmount>522662</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gioia Rau</SignBlockName>
+<PO_EMAI>grau@nsf.gov</PO_EMAI>
+<PO_PHON>7032928729</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Stellar rotation provides a promising, yet flawed means for age-dating stars. Recent surveys of rotation in open clusters revealed that spin-down stalls for an extended period of time, the duration of which increases toward lower stellar masses. This research program will improve rotation-based age-dating techniques for low-mass stars (40-130% of the Sun's mass) by calibrating “gyrochronology” with a modern, expanded database of rotation period measurements for benchmark star clusters.  The PI is the founder of the Columbia University Bridge to the Ph.D. in STEM Program.  For twelve years, the Bridge program has increased the number of underrepresented scholars entering STEM Ph.D. programs and to equip them to succeed in these programs.  A Bridge scholar will play a leading role in this research program, with careful mentoring from the senior researchers on the team.&lt;br/&gt;&lt;br/&gt;The project will determine when stars converge on the slow sequence by examining nearby and young open clusters and moving groups observed by TESS (50-500 Myr). Next, Kepler, K2, and PTF data for older clusters (&gt;1 Gyr) will be analyzed to constrain the stalling timescale and the subsequent rate of spin-down. This will inform a new empirical model that will describe all the observed phases of spin-down in stars of different masses. Finally, the impact of metallicity on rotational evolution will be tested using sets of coeval but chemically different clusters. For example, rotation period distributions will be produced for NGC 6866 using Kepler data, and Coma Ber using TESS data. These sequences will be compared to those for Praesepe and the Hyades, which are approximately coeval (all ~700 Myr) but are 0.2 dex richer in metallicity than the target clusters. Determining this sensitivity to metallicity is critical for inferring accurate rotation-based ages for field stars.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009840</AwardID>
+<Investigator>
+<FirstName>Marcel</FirstName>
+<LastName>Agueros</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marcel A Agueros</PI_FULL_NAME>
+<EmailAddress><![CDATA[marcel@astro.columbia.edu]]></EmailAddress>
+<NSF_ID>000153218</NSF_ID>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276902</ZipCode>
+<StreetAddress><![CDATA[2960 Broadway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121500</Code>
+<Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7480</Code>
+<Text>ARCHIVAL DATA ANALYSIS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~522662</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The observable properties of Sun-like stars change very little during their long hydrogen-burning lifetimes, making their ages one of their most challenging properties to determine. However, knowing stellar ages, especially for low-mass stars, which are defined as having masses up to that of the Sun, is essential in this era of precision astrophysics. These stars are the most common stars in our sky, and our current inability to provide confident ages for them limits our understanding of the Milky Way's star-formation and chemical-enrichment histories, for example. But it is the recent explosion of interest in finding exoplanets and determining their habitability that has given the question of how to determine the ages of low-mass stars a new urgency, because potentially habitable, Earth-like planets are most likely to be discovered orbiting these stars.</p> <p>Fortunately, low-mass stars do have built-in clocks: their rotation periods and their magnetic activity, which are interdependent. These stars spin down over time as their magnetized winds remove their angular momentum, a process known as magnetic braking. This coupling of magnetic activity and rotation causes observed manifestations of stellar magnetic activity, such as coronal X-ray emission or the strength of the&nbsp;H&alpha;&nbsp;chromospheric emission line, to wane with time as well. The resulting feedback loop causes rotation periods for a given stellar mass to converge after a period of time that depends on that mass (e.g., for G dwarfs like the Sun, it only takes &asymp;100 Myr). This convergence motivates the age-dating technique known as gyrochronology, whereby a measurement of a star's rotation period can be used to estimate its age.</p> <p>It has become clear, however, that the spin-down of Sun-like stars is not as simple as it once appeared. Recent studies have confirmed that stars temporarily stop spinning down after converging on a "slow sequence," the tight, slow-rotating sequence in mass-period space seen in clusters older than &asymp;150 Myr. Furthermore, based on where the period sequences for these clusters overlap, the duration of this epoch of stalled spin-down increases toward lower stellar masses.</p> <p>Standard empirical gyrochronology relations and angular momentum evolution models do not account for this phenomenon, so ages inferred for low-mass stars with these models will likely be incorrect. Any gyrochronology formula that applies across a wide range of (low) masses will need to be different from those proposed to date. It is therefore imperative that we extend the benchmark sample of cluster rotators to lower masses and older ages, so that we can constrain the timescale for stalled spin-down. This will allow us to repair empirical gyrochronology models so that accurate ages can be inferred for low-mass stars in the field. Furthermore, empirical relations and most theoretical models for angular-momentum evolution do not account for how metallicity impacts spin-down.</p> <p>This project was designed to improve the rotation-based age-dating technique for low-mass stars by calibrating gyrochronology for low-mass stars. Our goals were to:</p> <p>(1)&nbsp;determine when stars converge on the slow sequence. Data for the Pleiades and Praesepe show that FGK stars have mostly converged on the slow-rotating sequence by 120 Myr, and this process continues down the main sequence over time, reaching the fully convective stars by 700 Myr. However, it is unclear precisely when these tight sequences in mass-period space form, obscuring how long stars remain stalled before spin-down resumes. To solve this problem, we measured rotation periods for young (50-500 Myr) open clusters observed by the&nbsp;Transiting Exoplanet Survey Satellite (TESS). A forthcoming publication focuses on NGC 3532, where we developed techniques for measuring rotation periods in (relatively) crowded fields, a challenge given TESS's large pixels.</p> <p>(2) test the impact of metallicity on rotational evolution. A nagging question for gyrochronology is the impact that metallicity may have on low-mass stars' rotational evolution. We investigated this for the first time in coeval clusters by comparing the period distribution we produced Coma Berenices to those for the well-studied Praesepe and Hyades clusters, which are &asymp;0.2 dex richer in [Fe/H]. A forthcoming publication describes the results of this comparison, which shows that while the overall distributions of periods are the same, there are differences evident in the spin down of the later M dwarfs in the two clusters.&nbsp;</p><br> <p>  Last Modified: 09/01/2024<br> Modified by: Marcel&nbsp;A&nbsp;Agueros</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2009840/2009840_10697091_1725243688898_Screenshot_2024_09_01_222045--rgov-214x142.png" original="/por/images/Reports/POR/2024/2009840/2009840_10697091_1725243688898_Screenshot_2024_09_01_222045--rgov-800width.png" title="Period distribution for Coma Ber and for Praesepe"><img src="/por/images/Reports/POR/2024/2009840/2009840_10697091_1725243688898_Screenshot_2024_09_01_222045--rgov-66x44.png" alt="Period distribution for Coma Ber and for Praesepe"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Color-period diagrams for Coma Ber (yellow stars) and Praesepe (white squares). We plot the periods linearly (bottom panel) and logarithmically (top). The agreement in the distributions for hotter stars is very clear in both; the apparent offset for the mid and late M dwarfs is most obvious on top.</div> <div class="imageCredit">Marcel Agueros</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Marcel&nbsp;A&nbsp;Agueros <div class="imageTitle">Period distribution for Coma Ber and for Praesepe</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The observable properties of Sun-like stars change very little during their long hydrogen-burning lifetimes, making their ages one of their most challenging properties to determine. However, knowing stellar ages, especially for low-mass stars, which are defined as having masses up to that of the Sun, is essential in this era of precision astrophysics. These stars are the most common stars in our sky, and our current inability to provide confident ages for them limits our understanding of the Milky Way's star-formation and chemical-enrichment histories, for example. But it is the recent explosion of interest in finding exoplanets and determining their habitability that has given the question of how to determine the ages of low-mass stars a new urgency, because potentially habitable, Earth-like planets are most likely to be discovered orbiting these stars.   Fortunately, low-mass stars do have built-in clocks: their rotation periods and their magnetic activity, which are interdependent. These stars spin down over time as their magnetized winds remove their angular momentum, a process known as magnetic braking. This coupling of magnetic activity and rotation causes observed manifestations of stellar magnetic activity, such as coronal X-ray emission or the strength of theHchromospheric emission line, to wane with time as well. The resulting feedback loop causes rotation periods for a given stellar mass to converge after a period of time that depends on that mass (e.g., for G dwarfs like the Sun, it only takes 100 Myr). This convergence motivates the age-dating technique known as gyrochronology, whereby a measurement of a star's rotation period can be used to estimate its age.   It has become clear, however, that the spin-down of Sun-like stars is not as simple as it once appeared. Recent studies have confirmed that stars temporarily stop spinning down after converging on a "slow sequence," the tight, slow-rotating sequence in mass-period space seen in clusters older than 150 Myr. Furthermore, based on where the period sequences for these clusters overlap, the duration of this epoch of stalled spin-down increases toward lower stellar masses.   Standard empirical gyrochronology relations and angular momentum evolution models do not account for this phenomenon, so ages inferred for low-mass stars with these models will likely be incorrect. Any gyrochronology formula that applies across a wide range of (low) masses will need to be different from those proposed to date. It is therefore imperative that we extend the benchmark sample of cluster rotators to lower masses and older ages, so that we can constrain the timescale for stalled spin-down. This will allow us to repair empirical gyrochronology models so that accurate ages can be inferred for low-mass stars in the field. Furthermore, empirical relations and most theoretical models for angular-momentum evolution do not account for how metallicity impacts spin-down.   This project was designed to improve the rotation-based age-dating technique for low-mass stars by calibrating gyrochronology for low-mass stars. Our goals were to:   (1)determine when stars converge on the slow sequence. Data for the Pleiades and Praesepe show that FGK stars have mostly converged on the slow-rotating sequence by 120 Myr, and this process continues down the main sequence over time, reaching the fully convective stars by 700 Myr. However, it is unclear precisely when these tight sequences in mass-period space form, obscuring how long stars remain stalled before spin-down resumes. To solve this problem, we measured rotation periods for young (50-500 Myr) open clusters observed by theTransiting Exoplanet Survey Satellite (TESS). A forthcoming publication focuses on NGC 3532, where we developed techniques for measuring rotation periods in (relatively) crowded fields, a challenge given TESS's large pixels.   (2) test the impact of metallicity on rotational evolution. A nagging question for gyrochronology is the impact that metallicity may have on low-mass stars' rotational evolution. We investigated this for the first time in coeval clusters by comparing the period distribution we produced Coma Berenices to those for the well-studied Praesepe and Hyades clusters, which are 0.2 dex richer in [Fe/H]. A forthcoming publication describes the results of this comparison, which shows that while the overall distributions of periods are the same, there are differences evident in the spin down of the later M dwarfs in the two clusters.     Last Modified: 09/01/2024       Submitted by: MarcelAAgueros]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Discovering the Self-Assembly Mechanisms of Carbon Nanotube Forests Using an Intelligent Autonomous Research Robot]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>657420.00</AwardTotalIntnAmount>
+<AwardAmount>657420</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tom Kuech</SignBlockName>
+<PO_EMAI>tkuech@nsf.gov</PO_EMAI>
+<PO_PHON>7032922218</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The materials development is often slow and guided by trial and error. The typical process development includes synthesizing a new material, characterizing its structure, and then examining its physical properties. The process is repeated iteratively by changing processing parameters and measuring how parameter changes influence the properties of interest. This research will bring to bear new advances in experimental hardware, artificial intelligence (AI)  and machine learning (ML) for materials processing in order to increase the rate of materials development while decreasing cost and removing human biases. By employing an autonomously-operating system, that employs AI and ML tools, carbon nanotube (CNT) forest processing will be accelerated. CNT forests could be an important source material for reinforcement materials in many key technologies, such as plastic-based composites and automobile tires. With limited or no human intervention, the autonomous system will launch experiments, observe and characterize the results in real time, and then learn from the results to refine the process. The tools and procedures developed will be used to enhance the national manufacturing base and global competitiveness while enabling rapid development of new materials and applications to advance public prosperity.&lt;br/&gt;&lt;br/&gt;The autonomous system incorporates a) in-situ scanning electron microscope (SEM) synthesis of CNT forests, b) computer vision to quantify the governing mechanisms of CNT assembly, c) a complementary finite element simulation, d) deep learning networks to predict CNT forest properties, and e) a knowledge-based driven distributed control algorithm for autonomous decision making. The system will first operate in manual mode to establish baseline protocols. Process automation will then be demonstrated by allowing the system to execute user-defined tasks. Autonomy will occur when the system plans experiments based on previous results in a knowledge-base and then executes experiments to observe the outcomes. As proof of concept, the system will demonstrate the ability to deterministically synthesize CNT forests having an effective modulus between 100 kPa and 1 GPa without human input. The open-source software, data and the simulations generated in this work will be provided freely to researchers and educators to benefit efforts for effective design and control of materials discovery processes. Broadening participation in computation among minorities and women will be pursued through  engaging undergraduates into the research environment and project activities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026847</AwardID>
+<Investigator>
+<FirstName>Kannappan</FirstName>
+<LastName>Palaniappan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kannappan Palaniappan</PI_FULL_NAME>
+<EmailAddress><![CDATA[palaniappank@missouri.edu]]></EmailAddress>
+<NSF_ID>000296984</NSF_ID>
+<StartDate>06/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Prasad</FirstName>
+<LastName>Calyam</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Prasad Calyam</PI_FULL_NAME>
+<EmailAddress><![CDATA[calyamp@umsystem.edu]]></EmailAddress>
+<NSF_ID>000268773</NSF_ID>
+<StartDate>06/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Maschmann</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew R Maschmann</PI_FULL_NAME>
+<EmailAddress><![CDATA[MaschmannM@missouri.edu]]></EmailAddress>
+<NSF_ID>000651171</NSF_ID>
+<StartDate>06/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Filiz</FirstName>
+<LastName>Bunyak Ersoy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Filiz Bunyak Ersoy</PI_FULL_NAME>
+<EmailAddress><![CDATA[bunyak@missouri.edu]]></EmailAddress>
+<NSF_ID>000744905</NSF_ID>
+<StartDate>06/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Missouri-Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652113020</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress><![CDATA[121 UNIVERSITY HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SZPJL5ZRCLF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Curators of the University of Missouri]]></Name>
+<CityName>Columbia</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>652110001</ZipCode>
+<StreetAddress><![CDATA[115 Business Loop 70W Mizzou Nor]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>088Y00</Code>
+<Text>AM-Advanced Manufacturing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>080E</Code>
+<Text>DEFORMATION PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>085E</Code>
+<Text>POLYMER &amp; COMPOSITES PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8021</Code>
+<Text>Materials Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8025</Code>
+<Text>Advanced Materials Processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~657420</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Intellectual Merit</strong></p>  <p>This project is motivated by the need for advanced automation and autonomy in advanced manufacturing. We developed a multi-pronged approach towards process autonomy in carbon&nbsp;<span><span>nanotube</span></span>&nbsp;(<span><span>CNT</span></span>) forest synthesis. Our approach leveraged in-situ scanning electron microscope (<span><span>SEM</span></span>) synthesis of&nbsp;<span><span>CNT</span></span>&nbsp;forests, a digital twin simulation, machine learning and artificial intelligence, and a remote instrumentation environment with a&nbsp;<span><span>chatbot</span></span>&nbsp;interface to supervise these processes.</p>  <p>The project significantly advanced the in-situ&nbsp;<span><span>SEM</span></span>&nbsp;synthesis of&nbsp;<span><span>nanomaterials</span></span>&nbsp;by chemical vapor deposition (<span><span>CVD</span></span>). We showed robust and controllable&nbsp;<span><span>CNT</span></span>&nbsp;forest synthesis using a thin film heater substrate and an environmental&nbsp;<span><span>SEM</span></span>&nbsp;that allowed process gases to flow while imaging. The synthesis of&nbsp;<span><span>CNT</span></span>&nbsp;forests was observed at approximately 100,000x magnification to resolve individual&nbsp;<span><span>CNTs</span></span>&nbsp;and their collective interactions during growth. Image analysis tools were developed to track the growth rate of&nbsp;<span><span>CNTs</span></span>, the areal density of&nbsp;<span><span>CNTs</span></span>, and segmentation methods to isolate each growing&nbsp;<span><span>CNT</span></span>&nbsp;within a forest for isolated analysis. Transverse electrical conductance across the width of a&nbsp;<span><span>CNT</span></span>&nbsp;forest pillar was measured as an additional metric to quantify to indirectly monitor the number of&nbsp;<span><span>CNT</span></span>-<span><span>CNT</span></span>&nbsp;contacts within a forest and the&nbsp;<span><span>CNT</span></span>&nbsp;forest areal density.</p>  <p>Image analysis was conducted on&nbsp;<span><span>SEM</span></span>&nbsp;image sequences to better quantify the kinematics of the&nbsp;<span><span>CNT</span></span>&nbsp;forest growth and self-assembly. An advanced algorithm we entitled "<span><span>CNT</span></span>-<span><span>NeRF</span></span>" was generated that used a generative adversarial network (GAN) for simultaneous depth layer decomposition and segmentation of&nbsp;<span><span>CNT</span></span>&nbsp;forests in&nbsp;<span><span>SEM</span></span>&nbsp;images. Segmentation enabled accurate counting of&nbsp;<span><span>CNTs</span></span>&nbsp;and&nbsp;<span><span>CNT</span></span>&nbsp;areal density and the tracing of curvature for isolated&nbsp;<span><span>CNTs</span></span>.</p>  <p>A mechanical finite element simulation was developed as a digital twin to the in-situ&nbsp;<span><span>SEM</span></span>&nbsp;synthesis process. In the simulation, growing&nbsp;<span><span>CNT</span></span>&nbsp;elements contacted each other due to proximity. The resulting mechanical interactions bent, translated, and even&nbsp;<span><span>delaminated</span></span>&nbsp;<span><span>CNTs</span></span>&nbsp;from the growth substrate. An electrical finite element model was superimposed to the mechanical model to measure transverse electrical conductance during dynamic forest growth. The simulation was of great significance because it provided ground truth measurements in which the state of each&nbsp;<span><span>CNT</span></span>&nbsp;at every instance in time was known with certainty. Simulation also provided quantification of physical phenomena that could not be measured, such as internal&nbsp;<span><span>CNT</span></span>&nbsp;strain. It also produced plots&nbsp;<span><span>represe</span></span><span><span>nting</span></span>&nbsp;synthetic images of&nbsp;<span><span>CNT</span></span>&nbsp;forests.</p>  <p>Photo-realistic&nbsp;<span><span>CNT</span></span>&nbsp;forests were generated from&nbsp;simulation-generated&nbsp;images using a sequential process. The goal of the process was to generate simulated&nbsp;<span><span>CNT</span></span>&nbsp;forest imagery that appeared identical to&nbsp;<span><span>SEM</span></span>&nbsp;images of real&nbsp;<span><span>CNT</span></span>&nbsp;forests. Numerous 2-dimensional images of&nbsp;<span><span>CNT</span></span>&nbsp;forests were generated from distinct simulation instances. These images were then layered in a stack, and gray scale values were adjusted to reflect depth. The multi-layer image was then subjected to a wavelet-based style transfer network and a selective decision fusion mechanism that preserved the curvilinear structures of&nbsp;<span><span>CNTs</span></span>&nbsp;without introducing artifacts. The resulting imagery was nearly identical to&nbsp;<span><span>SEM</span></span>&nbsp;images of&nbsp;<span><span>CNT</span></span>&nbsp;forests with respect to content and style. The benefit of synthetic imagery includes the ability to generate large quantities of diverse images at low cost and the ability to know the ground truth&nbsp;attributes.</p>  <p><span><span>Convolutional</span></span>&nbsp;neural network and random forest machine learning tools were used to predict&nbsp;attributes of&nbsp;simulated&nbsp;<span><span>CNT</span></span>&nbsp;forests (such as diameter, areal density, and growth rate variation) and to predict the mechanical properties of yield strength and stiffness.&nbsp;<span><span>CNT</span></span>&nbsp;forest&nbsp;attributes were labeled with &gt; 91% accuracy, and mechanical properties that varied over 3 orders of magnitude were predicted with an&nbsp;<em>R</em><sup>2</sup>&nbsp;value of 0.96 for buckling load and 0.94 for stiffness. These initial results were generated considering only 2D simulations. The current iteration of these techniques, utilizing style-transfer quasi-3D images, is ongoing.</p>  <p>Remote instrument management was achieved using cloud-based services referred to as Remote Instrumentation Science Environment (RISE). The environment enabled streamlined and automated&nbsp;<span><span>SEM</span></span>&nbsp;instrument control and image analytics processes. The services include: (1) remote user access to experiment workspace; (2) web portal services to monitor&nbsp;<span><span>workflows</span></span>&nbsp;and interact with the&nbsp;<span><span>chatbot</span></span>&nbsp;interface; (3) back-end services providing learning-based feedback during image analytics experiments; (4) integration with local lab instrumentation environment via a&nbsp;<span><span>cloudlet</span></span>; (5) storage service integrated via a&nbsp;<span><span>cloudlet</span></span>; and (6) resource access security mechanisms between&nbsp;<span><span>SEM</span></span>, storage repositories, and their respective&nbsp;<span><span>cloudlets</span></span>.</p>  <p><strong>Broader Impacts</strong></p>  <p>The grant supported 10 graduate students and 1 undergraduate student. Currently, 3 theses have been generated. Ten peer-reviewed journal articles or conference papers and 2 other conference papers were produced. Materials generated from this grant were used as the foundation for projects in 4 classes (1 in Mechanical &amp; Aerospace Engineering and 3 in Electrical Engineering &amp; Computer Science). In-situ&nbsp;<span><span>SEM</span></span>&nbsp;synthesis of&nbsp;<span><span>CNT</span></span>&nbsp;forests has also been highlighted in lab tours of the MU Electron Microscopy Core (<span><span>EMC</span></span>) facility, and a video captured from in-situ syntheses is aired as promotional content within the&nbsp;<span><span>EMC</span></span>&nbsp;facility.</p>  <p>&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/30/2024<br> Modified by: Matthew&nbsp;R&nbsp;Maschmann</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit    This project is motivated by the need for advanced automation and autonomy in advanced manufacturing. We developed a multi-pronged approach towards process autonomy in carbonnanotube(CNT) forest synthesis. Our approach leveraged in-situ scanning electron microscope (SEM) synthesis ofCNTforests, a digital twin simulation, machine learning and artificial intelligence, and a remote instrumentation environment with achatbotinterface to supervise these processes.    The project significantly advanced the in-situSEMsynthesis ofnanomaterialsby chemical vapor deposition (CVD). We showed robust and controllableCNTforest synthesis using a thin film heater substrate and an environmentalSEMthat allowed process gases to flow while imaging. The synthesis ofCNTforests was observed at approximately 100,000x magnification to resolve individualCNTsand their collective interactions during growth. Image analysis tools were developed to track the growth rate ofCNTs, the areal density ofCNTs, and segmentation methods to isolate each growingCNTwithin a forest for isolated analysis. Transverse electrical conductance across the width of aCNTforest pillar was measured as an additional metric to quantify to indirectly monitor the number ofCNT-CNTcontacts within a forest and theCNTforest areal density.    Image analysis was conducted onSEMimage sequences to better quantify the kinematics of theCNTforest growth and self-assembly. An advanced algorithm we entitled "CNT-NeRF" was generated that used a generative adversarial network (GAN) for simultaneous depth layer decomposition and segmentation ofCNTforests inSEMimages. Segmentation enabled accurate counting ofCNTsandCNTareal density and the tracing of curvature for isolatedCNTs.    A mechanical finite element simulation was developed as a digital twin to the in-situSEMsynthesis process. In the simulation, growingCNTelements contacted each other due to proximity. The resulting mechanical interactions bent, translated, and evendelaminatedCNTsfrom the growth substrate. An electrical finite element model was superimposed to the mechanical model to measure transverse electrical conductance during dynamic forest growth. The simulation was of great significance because it provided ground truth measurements in which the state of eachCNTat every instance in time was known with certainty. Simulation also provided quantification of physical phenomena that could not be measured, such as internalCNTstrain. It also produced plotsrepresentingsynthetic images ofCNTforests.    Photo-realisticCNTforests were generated fromsimulation-generatedimages using a sequential process. The goal of the process was to generate simulatedCNTforest imagery that appeared identical toSEMimages of realCNTforests. Numerous 2-dimensional images ofCNTforests were generated from distinct simulation instances. These images were then layered in a stack, and gray scale values were adjusted to reflect depth. The multi-layer image was then subjected to a wavelet-based style transfer network and a selective decision fusion mechanism that preserved the curvilinear structures ofCNTswithout introducing artifacts. The resulting imagery was nearly identical toSEMimages ofCNTforests with respect to content and style. The benefit of synthetic imagery includes the ability to generate large quantities of diverse images at low cost and the ability to know the ground truthattributes.    Convolutionalneural network and random forest machine learning tools were used to predictattributes ofsimulatedCNTforests (such as diameter, areal density, and growth rate variation) and to predict the mechanical properties of yield strength and stiffness.CNTforestattributes were labeled with  91% accuracy, and mechanical properties that varied over 3 orders of magnitude were predicted with anR2value of 0.96 for buckling load and 0.94 for stiffness. These initial results were generated considering only 2D simulations. The current iteration of these techniques, utilizing style-transfer quasi-3D images, is ongoing.    Remote instrument management was achieved using cloud-based services referred to as Remote Instrumentation Science Environment (RISE). The environment enabled streamlined and automatedSEMinstrument control and image analytics processes. The services include: (1) remote user access to experiment workspace; (2) web portal services to monitorworkflowsand interact with thechatbotinterface; (3) back-end services providing learning-based feedback during image analytics experiments; (4) integration with local lab instrumentation environment via acloudlet; (5) storage service integrated via acloudlet; and (6) resource access security mechanisms betweenSEM, storage repositories, and their respectivecloudlets.    Broader Impacts    The grant supported 10 graduate students and 1 undergraduate student. Currently, 3 theses have been generated. Ten peer-reviewed journal articles or conference papers and 2 other conference papers were produced. Materials generated from this grant were used as the foundation for projects in 4 classes (1 in Mechanical & Aerospace Engineering and 3 in Electrical Engineering & Computer Science). In-situSEMsynthesis ofCNTforests has also been highlighted in lab tours of the MU Electron Microscopy Core (EMC) facility, and a video captured from in-situ syntheses is aired as promotional content within theEMCfacility.             Last Modified: 12/30/2024       Submitted by: MatthewRMaschmann]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

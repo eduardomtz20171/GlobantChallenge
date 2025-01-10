@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AF: Small: Fundamental High-Dimensional Algorithms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Brass</SignBlockName>
+<PO_EMAI>pbrass@nsf.gov</PO_EMAI>
+<PO_PHON>7032922182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The availability of high-dimensional data in a myriad of applications makes efficient and general-purpose algorithmic tools a critical need. This project explores basic questions to address this need in high dimension:  How to compute the volume? How to optimize with constraints? How to sample from a desired distribution? How to learn from samples? Progress on these questions will build the foundations of the emerging science of data. The investigator routinely collaborates with scientists from other disciplines to identify specific challenges. He will continue to organize collaborative workshops, write up-to-date research surveys informed by the discoveries of this project, as well as a textbook on Continuous Algorithms, and maintain open-source software for state-of-the-art sampling.&lt;br/&gt;&lt;br/&gt;The major goal of this project is to extend algorithmic techniques in three ways: from Euclidean to non-Euclidean geometries, from convex to non-convex settings and from optimization to sampling problems. Concretely, it will explore algorithms for non-convex optimization and sampling, for robust clustering and learning (in the presence of adversarial noise), for faster sampling by utilizing Riemannian geometries, and for volume computation by leveraging recent progress on the Kannan-Lovasz-Simonovits hyperplane conjecture. It will also explore such a conjecture for manifolds, and the possibility of a deterministic algorithm for polytope volume.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007443</AwardID>
+<Investigator>
+<FirstName>Santosh</FirstName>
+<LastName>Vempala</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Santosh S Vempala</PI_FULL_NAME>
+<EmailAddress><![CDATA[vempala@cc.gatech.edu]]></EmailAddress>
+<NSF_ID>000215458</NSF_ID>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>287800</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>779600</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7929</Code>
+<Text>COMPUTATIONAL GEOMETRY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~400000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The goal of this project was to develop new tools for the design and analysis of algorithms for problems in high dimension. Major findings include:</p>  <p>1- Volume Computation and Sampling:<br />(a) A faster algorithm for computing the volume of an arbitrary convex body, the first improvement since the work of Lovasz and Vempala in 2003. The core innovation is a faster algorithm for rounding a convex body, i.e., putting it near-isotropic position.<br />(b)&nbsp; The first polytime mixing bound for the popular sampling method known as Coordinate-Hit-and-Run (CHAR), where random steps are made only along coordinate directions. The proof formulates and proves a new type of isoperimetric inequality.<br />(c) An interior-point method for sampling, by refining self-concordance and related notions to take advantage of the structure of convex constraints and thereby develop more efficient sampling algorithms,<br />(d) An improved complexity for polytope sampling using Riemannian Hamiltonian Monte Carlo with the Lewis weights barrier.<br />(e) A practical sampling algorithm for ill-conditioned, non-smooth, constrained distributions in very high dimension, upwards of 100,000. On benchmark data sets in systems biology and linear programming, the algorithm outperforms existing packages by orders of magnitude and has been incorporated into a popular Bioinformatics library.</p>  <p>2- Robust Learning: <br />(a) The first polytime algorithm for learning a mixture of arbitrary Gaussians in the presence of adversarial corruptions, with no assumptions on the mixture. The main ingredients of this algorithm are a new Sum-of-Squares based clustering algorithm and a tensor decomposition technique that takes advantage of low-rank components. <br />(b) A polynomial time and near-optimal error algorithm for robustly learning an unknown affine transformation of the standard hypercube from samples, an $\epsilon$ fraction of which are corrupted adversarially. The new method, Robust Gradient Descent, circumvents the difficulties in the classical method of moments, which provably does not work for this problem.</p>  <p>3- Solving Linear Systems: <br />A new algorithm for solving sparse linear systems, faster than previously thought possible. In particular for sufficiently sparse systems, the complexity is lower than that of matrix inversion/multiplication.</p>  <p>4- Representation Learning: <br />(a) An improved analysis for Lifelong learning, where learning tasks arrive sequentially in arbitrary order. In the setting where all target tasks can be represented in the span of a small number of unknown linear features of the input data, a simple and natural algorithm achieves the optimal sample complexity. <br />(b) A polynomial-time unsupervised algorithm for learning high-dimensional halfspaces with margins in high-dimensional space to within desired Total Variation distance when the ambient distribution is an unknown affine transformation of a product logconcave distribution, and the halfspace is introduced by deleting a fraction of the data in one of the two classes. <br />(c) The k-cap (or k-winners-take-all) process on a graph works as follows: in each iteration, a subset of&nbsp; k vertices of the graph are identified as winners; the next round winners are the vertices that have the highest total degree from the current winners, with ties broken randomly. This natural process is a simple model of firing activity and inhibition in the brain and has been found to have desirable robustness properties as an activation function. The study of its convergence on directed geometric random graphs in any constant dimension reveals rather surprising behavior, with the support of the current active set converging to lie in a small ball and the active set itself remaining essentially random within that.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/29/2024<br> Modified by: Santosh&nbsp;S&nbsp;Vempala</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The goal of this project was to develop new tools for the design and analysis of algorithms for problems in high dimension. Major findings include:    1- Volume Computation and Sampling: (a) A faster algorithm for computing the volume of an arbitrary convex body, the first improvement since the work of Lovasz and Vempala in 2003. The core innovation is a faster algorithm for rounding a convex body, i.e., putting it near-isotropic position. (b) The first polytime mixing bound for the popular sampling method known as Coordinate-Hit-and-Run (CHAR), where random steps are made only along coordinate directions. The proof formulates and proves a new type of isoperimetric inequality. (c) An interior-point method for sampling, by refining self-concordance and related notions to take advantage of the structure of convex constraints and thereby develop more efficient sampling algorithms, (d) An improved complexity for polytope sampling using Riemannian Hamiltonian Monte Carlo with the Lewis weights barrier. (e) A practical sampling algorithm for ill-conditioned, non-smooth, constrained distributions in very high dimension, upwards of 100,000. On benchmark data sets in systems biology and linear programming, the algorithm outperforms existing packages by orders of magnitude and has been incorporated into a popular Bioinformatics library.    2- Robust Learning:  (a) The first polytime algorithm for learning a mixture of arbitrary Gaussians in the presence of adversarial corruptions, with no assumptions on the mixture. The main ingredients of this algorithm are a new Sum-of-Squares based clustering algorithm and a tensor decomposition technique that takes advantage of low-rank components.  (b) A polynomial time and near-optimal error algorithm for robustly learning an unknown affine transformation of the standard hypercube from samples, an $\epsilon$ fraction of which are corrupted adversarially. The new method, Robust Gradient Descent, circumvents the difficulties in the classical method of moments, which provably does not work for this problem.    3- Solving Linear Systems:  A new algorithm for solving sparse linear systems, faster than previously thought possible. In particular for sufficiently sparse systems, the complexity is lower than that of matrix inversion/multiplication.    4- Representation Learning:  (a) An improved analysis for Lifelong learning, where learning tasks arrive sequentially in arbitrary order. In the setting where all target tasks can be represented in the span of a small number of unknown linear features of the input data, a simple and natural algorithm achieves the optimal sample complexity.  (b) A polynomial-time unsupervised algorithm for learning high-dimensional halfspaces with margins in high-dimensional space to within desired Total Variation distance when the ambient distribution is an unknown affine transformation of a product logconcave distribution, and the halfspace is introduced by deleting a fraction of the data in one of the two classes.  (c) The k-cap (or k-winners-take-all) process on a graph works as follows: in each iteration, a subset of k vertices of the graph are identified as winners; the next round winners are the vertices that have the highest total degree from the current winners, with ties broken randomly. This natural process is a simple model of firing activity and inhibition in the brain and has been found to have desirable robustness properties as an activation function. The study of its convergence on directed geometric random graphs in any constant dimension reveals rather surprising behavior, with the support of the current active set converging to lie in a small ball and the active set itself remaining essentially random within that.         Last Modified: 11/29/2024       Submitted by: SantoshSVempala]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

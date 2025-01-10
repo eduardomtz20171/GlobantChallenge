@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Smooth 4-Manifold Topology, 3-Manifold Group Actions, the Heegaard Tree, and Low Volume Hyperbolic 3-Manifolds]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>504611.00</AwardTotalIntnAmount>
+<AwardAmount>504611</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+<PO_EMAI>jkaniaba@nsf.gov</PO_EMAI>
+<PO_PHON>7032924881</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Low-dimensional topology, the study of objects modeled on surfaces (two dimensions), our space (three dimensions), and space-time (four dimensions), is a central area of mathematics of intense contemporary interest. It is at the crossroad of many subfields of mathematics. Methods from combinatorial topology, geometry, minimal surface theory, analysis, group theory, number theory, dynamical systems, and theoretical computer science have contributed to the development of low dimensional topology, and conversely, research in that field stimulates advances in those areas. This research project addresses topics in hyperbolic geometry and foliation theory, which are structures for globally understanding three dimensional spaces, and will also address fundamental questions in smooth 4-dimensional topology. Parts of the research are suitable for undergraduate and beginning graduate student projects. Background material needed for the research as well as new ideas discovered will be incorporated into graduate courses. The award provides funds to support graduate students.&lt;br/&gt;&lt;br/&gt;The investigator will continue his approach to the smooth 4-dimensional Schoenflies conjecture through the investigation of knotted three-balls in four-dimensional manifolds and diffeomorphisms of four-dimensional manifolds.  He plans to discover new constructions of foliations and laminations and to address the structure of low volume hyperbolic 3-manifolds. The PI and collaborators have discovered new techniques to address these problems and plan to use these methods and discover new ones to make further advances.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003892</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Gabai</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Gabai</PI_FULL_NAME>
+<EmailAddress><![CDATA[gabai@math.princeton.edu]]></EmailAddress>
+<NSF_ID>000216187</NSF_ID>
+<StartDate>05/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>Princeton</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442020</ZipCode>
+<StreetAddress><![CDATA[Fine Hall, Washington Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~158965</FUND_OBLG>
+<FUND_OBLG>2021~174976</FUND_OBLG>
+<FUND_OBLG>2022~170670</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The following are summaries of five research works partially  supported by the NSF grant.&nbsp; The PI (with Mehdi Yazdi) proved the fully  marked surface theorem: Given a 2-dimensional homology class in a closed  hyperbolic 3-manifold whose Thurston norm is induced by the Euler class  of a taut foliation, then there is another taut foliation with compact  leaves representing that homology class.&nbsp; Further, the two foliations  have homotopic plane fields. The fully marked surface theorem is a  converse to Thurston's theorem that compact leaves of taut foliations  are norm minimizing.&nbsp; As an application the PI (with Yazdi) found  infinitely many counter examples to Thurston's Euler class-one  conjecture, the last remaining open problem from his seminal 1976 paper  on the Thurston norm.&nbsp; These counterexamples relied on a paper of Yazdi  based on his Ph. D. thesis written under the PI's supervision.&nbsp;&nbsp;</p> <p>The PI initiated the study of homotopy vs isotopy for discs in  4-manifolds with dual spheres, exhibiting phenomena that didn't appear  in the 2-sphere setting.&nbsp; As an application the PI gave the first  examples of codimension-1 knotting in 4-manifolds.&nbsp;</p> <p>Answering a problem that implicitly goes back to Mazur in the 1960's  the PI (with Budney) gave the first examples diffeomorphism of the  product of the circle with the 3-sphere that are homotopic but not  isotopic to the identity.&nbsp; They achieved this through a novel  construction of diffeomorphisms that can be implanted in any  4-manifold.&nbsp;</p> <p>The PI (with Haraway, Meyerhoff, N. Thurston and Yarmola) classified  the complete hyperbolic 3-manifolds admitting a maximal cusp of volume  at most 2.62. They used this to show that the figure-8 knot complement  is the unique 1-cusped hyperbolic 3-manifold with nine or more  non-hyperbolic fillings, proving the long-standing Gordon conjecture.&nbsp;</p> <p>The PI continued his efforts towards the smooth 4-dimensional  Schoenflies conjecture.&nbsp; As biproducts he proved that a diffeomorphism  of a compact 4-manifolds is stably isotopic to the identity if and only  if it is pseudo-isotopic to the identity via a pseudo-isotopy with  vanishing Hatcher - Wagoner first obstruction.&nbsp; The PI also introduced  the method of "factorization" which the PI (with Gay, Hartman, Krushkal  and Powell) used to fix a problem in a fundamental paper of Frank Quinn.</p> <p>In terms of broader impacts the PI (with Colding and Ketover) wrote  an expository paper on geometric methods in Heegaard theory that  includes a number of open problems. The PI (with Agol) edited a volume  of surveys on the geometry of 3-manifolds.&nbsp; The PI (with Meyerhoff, N.  Thurston and Yarmola) wrote an expository paper on computer  experimentation and rigorous computer assisted proofs in the study of  Kleinian groups.&nbsp;&nbsp; The PI co-edited (with Farb and Kerckhoff) three  volumes of William Thurston's scientific works which included most of  his published and unpublished papers.&nbsp; These volumes included  commentaries on Thurston's contributions to fields such as foliations,  hyperbolic geometry, geometric group theory, dynamical systems and  theoretical computer science.&nbsp;</p> <p>The PI served on the organizing committee of two conferences  including the 2023 Princeton RTG Topology Summer School aimed at  advanced undergraduates and graduate students.&nbsp; He served on the  advisory board of the <em>Princeton Journal of Undergraduate Research</em><em></em></p> <p>During the grant period the PI mentored three postdocs, supervised four  Ph. D. students of whom two finished and two are current in addition to  mentoring a visiting graduate student.&nbsp; He also supervised two senior  theses.&nbsp; The writer of one won a departmental research prize.&nbsp; In  addition, the PI gave many research and expository lectures at national  and international conferences as well as university seminars.&nbsp;These  include a four lecture minicourse on surfaces in 4-manifolds at the 2023  Princeton RTG Summer School.</p><br> <p>  Last Modified: 08/10/2024<br> Modified by: David&nbsp;Gabai</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The following are summaries of five research works partially  supported by the NSF grant. The PI (with Mehdi Yazdi) proved the fully  marked surface theorem: Given a 2-dimensional homology class in a closed  hyperbolic 3-manifold whose Thurston norm is induced by the Euler class  of a taut foliation, then there is another taut foliation with compact  leaves representing that homology class. Further, the two foliations  have homotopic plane fields. The fully marked surface theorem is a  converse to Thurston's theorem that compact leaves of taut foliations  are norm minimizing. As an application the PI (with Yazdi) found  infinitely many counter examples to Thurston's Euler class-one  conjecture, the last remaining open problem from his seminal 1976 paper  on the Thurston norm. These counterexamples relied on a paper of Yazdi  based on his Ph. D. thesis written under the PI's supervision.   The PI initiated the study of homotopy vs isotopy for discs in  4-manifolds with dual spheres, exhibiting phenomena that didn't appear  in the 2-sphere setting. As an application the PI gave the first  examples of codimension-1 knotting in 4-manifolds.   Answering a problem that implicitly goes back to Mazur in the 1960's  the PI (with Budney) gave the first examples diffeomorphism of the  product of the circle with the 3-sphere that are homotopic but not  isotopic to the identity. They achieved this through a novel  construction of diffeomorphisms that can be implanted in any  4-manifold.   The PI (with Haraway, Meyerhoff, N. Thurston and Yarmola) classified  the complete hyperbolic 3-manifolds admitting a maximal cusp of volume  at most 2.62. They used this to show that the figure-8 knot complement  is the unique 1-cusped hyperbolic 3-manifold with nine or more  non-hyperbolic fillings, proving the long-standing Gordon conjecture.   The PI continued his efforts towards the smooth 4-dimensional  Schoenflies conjecture. As biproducts he proved that a diffeomorphism  of a compact 4-manifolds is stably isotopic to the identity if and only  if it is pseudo-isotopic to the identity via a pseudo-isotopy with  vanishing Hatcher - Wagoner first obstruction. The PI also introduced  the method of "factorization" which the PI (with Gay, Hartman, Krushkal  and Powell) used to fix a problem in a fundamental paper of Frank Quinn.   In terms of broader impacts the PI (with Colding and Ketover) wrote  an expository paper on geometric methods in Heegaard theory that  includes a number of open problems. The PI (with Agol) edited a volume  of surveys on the geometry of 3-manifolds. The PI (with Meyerhoff, N.  Thurston and Yarmola) wrote an expository paper on computer  experimentation and rigorous computer assisted proofs in the study of  Kleinian groups. The PI co-edited (with Farb and Kerckhoff) three  volumes of William Thurston's scientific works which included most of  his published and unpublished papers. These volumes included  commentaries on Thurston's contributions to fields such as foliations,  hyperbolic geometry, geometric group theory, dynamical systems and  theoretical computer science.   The PI served on the organizing committee of two conferences  including the 2023 Princeton RTG Topology Summer School aimed at  advanced undergraduates and graduate students. He served on the  advisory board of the Princeton Journal of Undergraduate Research   During the grant period the PI mentored three postdocs, supervised four  Ph. D. students of whom two finished and two are current in addition to  mentoring a visiting graduate student. He also supervised two senior  theses. The writer of one won a departmental research prize. In  addition, the PI gave many research and expository lectures at national  and international conferences as well as university seminars.These  include a four lecture minicourse on surfaces in 4-manifolds at the 2023  Princeton RTG Summer School.     Last Modified: 08/10/2024       Submitted by: DavidGabai]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Uncovering the Multiscale Determinants of Atypical Femoral Fracture using MRI and CT-Based Modeling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>278643.00</AwardTotalIntnAmount>
+<AwardAmount>278643</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy C. Crone</SignBlockName>
+<PO_EMAI>wcrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award supports fundamental research to uncover the factors that contribute to atypical femoral fracture. Atypical femoral fracture is a rare side effect of long-term use of some drugs to treat osteoporosis.  Osteoporosis, or a decrease in bone strength, is responsible for over two million bone fractures annually in the United States.  This increases mortality and decreases quality-of-life. This project will make a computer model of atypical femoral fracture, based on images from real patients.  It will then be used to study how the effects of bone geometry and material properties (for example, how hard or soft a bone is) combine to determine fracture risk.  This new understanding of atypical femoral fracture made possible by this project will ultimately improve the ability to identify those at risk and may also enable new drug discovery to avoid all types of bone fracture. These longer-term outcomes will result in improved quality of life for patients and reduced health care costs. This project will also include activities to improve long term faculty diversity in science and engineering through outreach to groups underrepresented in science and engineering. &lt;br/&gt;&lt;br/&gt;There is currently neither a systematic experimental or computational study that has identified which factors are the most important determinants of atypical femoral fracture, nor a suitable computational model for assessing such types of fracture. Thus, the overall goal of this project is to identify the fundamental mechanisms that lead to atypical femoral fracture using a novel, multimodal, image-based, and multiscale computational bone model. The project will develop and validate multiscale whole femur computational models based on magnetic resonance imaging and high resolution micro-computed tomography. This new model will be used to determine the individual and coupled effects of macro- and microscale properties on atypical femoral fracture, as well as the critical levels of these factors that would lead to atypical femoral fracture. As a result, this novel computational modeling approach will provide unique information on the most important determinants of atypical femoral fracture that cannot be directly identified by experiments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026906</AwardID>
+<Investigator>
+<FirstName>Chamith</FirstName>
+<LastName>Rajapakse</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chamith S Rajapakse</PI_FULL_NAME>
+<EmailAddress><![CDATA[chamith@pennmedicine.upenn.edu]]></EmailAddress>
+<NSF_ID>000767520</NSF_ID>
+<StartDate>06/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress><![CDATA[3451 WALNUT ST STE 440A]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GM1XX56LEP58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GM1XX56LEP58</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>Philadelphia</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191046205</ZipCode>
+<StreetAddress><![CDATA[3400 Spruce Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>747900</Code>
+<Text>BMMB-Biomech &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>070Z</Code>
+<Text>MB-Mechanobiology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~278643</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The aim of this project was to explore the mechanisms leading to atypical femur fractures (AFF), a concerning side effect associated with osteoporosis treatments. AFFs are rare but can result in severe pain, disability, and decreased quality of life for patients. By identifying the underlying causes of these fractures, our goal was to develop effective strategies for recognizing patients at high risk, ultimately reducing the incidence of AFFs.</p> <p>This project focused on two primary objectives:</p> <ol> <li><strong>Developing a      Computational Bone Model:</strong> We established a novel,      multimodal imaging and computational model to assess the mechanisms that      contribute to AFF.</li> <li><strong>Investigating      Risk Factors:</strong> We examined how the geometry and material properties of bones at      both macro (overall shape) and micro (cellular structure) levels influence      fracture risk.</li> </ol> <div> <hr size="3" /> </div> <p><strong>Major Findings</strong></p> <p>Throughout the course of this research, we achieved milestones that enhance our understanding of AFFs:</p> <ol> <li><strong>Linking Bone      Structure and Strength:</strong> Our team demonstrated how the      geometry of the femur (the thigh bone) and its material distribution      affect bone strength and the likelihood of crack formation. This finding      provides a clearer picture of how specific structural characteristics can      increase fracture risk.</li> <li><strong>Predictive      Modeling:</strong> We created an innovative machine learning model that predicts an      individual's risk of sustaining an atypical femur fracture. By integrating      clinical data with advanced imaging techniques, this model can identify      patients who may benefit from closer monitoring and preventive measures.</li> <li><strong>Identifying Key      Risk Factors:</strong> Our research identified several geometric features of the      femur&mdash;such as the angle of the femoral neck and the length of the hip      axis&mdash;as significant risk factors for AFFs. Understanding these factors      helps clinicians evaluate patients more effectively.</li> <li><strong>Collaborative      Research Impact:</strong> We shared our parametric 3D bone models and imaging data with other      research groups, promoting collaboration and enhancing the overall      knowledge of bone health and fracture risks.</li> </ol> <div> <hr size="3" /> </div> <p><strong>Broader Impacts</strong></p> <p>The findings of this project extend beyond the academic realm and have potential applications in public health, clinical practices, and even material science:</p> <ul> <li><strong>Improved      Patient Care:</strong> By identifying at-risk patients earlier, healthcare providers can      implement preventive strategies to reduce the occurrence of AFFs. This not      only improves patient outcomes but also reduces healthcare costs      associated with treating complications arising from fractures.</li> <li><strong>Guiding      Osteoporosis Treatment:</strong> A better understanding of the      mechanisms behind AFFs can inform clinical guidelines on osteoporosis      treatment, enabling healthcare providers to make more informed decisions      about the use of medications like bisphosphonates.</li> <li><strong>Educational      Opportunities:</strong> Throughout the project, we trained multiple Ph.D. students and      other researchers in advanced imaging and modeling techniques, equipping      them with skills that are vital in the fields of medical imaging and      biomechanics. This training fosters the next generation of scientists and      engineers who will continue to contribute to advancements in healthcare.</li> <li><strong>Adaptability to      Other Disciplines:</strong> The advanced imaging techniques      and modeling methods developed during this project are not limited to      studying bones. They can be applied to other biological materials and      composite structures, paving the way for innovations in various fields,      including materials science and engineering.</li> </ul> <div> <hr size="3" /> </div> <p><strong>Conclusion</strong></p> <p>This project has contributed to our understanding of atypical femur fractures, revealing crucial insights into the structural and material properties of bones that influence fracture risk. The innovative approaches developed here not only advance scientific knowledge but also hold the potential for tangible benefits to public health and patient care. Our findings emphasize the importance of integrating advanced imaging techniques and computational models in the study of complex health issues, ultimately leading to better outcomes for patients with osteoporosis and those at risk for atypical femur fractures.</p> <p>Through continued research and collaboration, we aim to further enhance our understanding of bone health and develop targeted strategies to mitigate the risks associated with osteoporosis treatment.</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/01/2024<br> Modified by: Chamith&nbsp;S&nbsp;Rajapakse</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The aim of this project was to explore the mechanisms leading to atypical femur fractures (AFF), a concerning side effect associated with osteoporosis treatments. AFFs are rare but can result in severe pain, disability, and decreased quality of life for patients. By identifying the underlying causes of these fractures, our goal was to develop effective strategies for recognizing patients at high risk, ultimately reducing the incidence of AFFs.   This project focused on two primary objectives:  Developing a      Computational Bone Model: We established a novel,      multimodal imaging and computational model to assess the mechanisms that      contribute to AFF. Investigating      Risk Factors: We examined how the geometry and material properties of bones at      both macro (overall shape) and micro (cellular structure) levels influence      fracture risk.       Major Findings   Throughout the course of this research, we achieved milestones that enhance our understanding of AFFs:  Linking Bone      Structure and Strength: Our team demonstrated how the      geometry of the femur (the thigh bone) and its material distribution      affect bone strength and the likelihood of crack formation. This finding      provides a clearer picture of how specific structural characteristics can      increase fracture risk. Predictive      Modeling: We created an innovative machine learning model that predicts an      individual's risk of sustaining an atypical femur fracture. By integrating      clinical data with advanced imaging techniques, this model can identify      patients who may benefit from closer monitoring and preventive measures. Identifying Key      Risk Factors: Our research identified several geometric features of the      femursuch as the angle of the femoral neck and the length of the hip      axisas significant risk factors for AFFs. Understanding these factors      helps clinicians evaluate patients more effectively. Collaborative      Research Impact: We shared our parametric 3D bone models and imaging data with other      research groups, promoting collaboration and enhancing the overall      knowledge of bone health and fracture risks.       Broader Impacts   The findings of this project extend beyond the academic realm and have potential applications in public health, clinical practices, and even material science:  Improved      Patient Care: By identifying at-risk patients earlier, healthcare providers can      implement preventive strategies to reduce the occurrence of AFFs. This not      only improves patient outcomes but also reduces healthcare costs      associated with treating complications arising from fractures. Guiding      Osteoporosis Treatment: A better understanding of the      mechanisms behind AFFs can inform clinical guidelines on osteoporosis      treatment, enabling healthcare providers to make more informed decisions      about the use of medications like bisphosphonates. Educational      Opportunities: Throughout the project, we trained multiple Ph.D. students and      other researchers in advanced imaging and modeling techniques, equipping      them with skills that are vital in the fields of medical imaging and      biomechanics. This training fosters the next generation of scientists and      engineers who will continue to contribute to advancements in healthcare. Adaptability to      Other Disciplines: The advanced imaging techniques      and modeling methods developed during this project are not limited to      studying bones. They can be applied to other biological materials and      composite structures, paving the way for innovations in various fields,      including materials science and engineering.       Conclusion   This project has contributed to our understanding of atypical femur fractures, revealing crucial insights into the structural and material properties of bones that influence fracture risk. The innovative approaches developed here not only advance scientific knowledge but also hold the potential for tangible benefits to public health and patient care. Our findings emphasize the importance of integrating advanced imaging techniques and computational models in the study of complex health issues, ultimately leading to better outcomes for patients with osteoporosis and those at risk for atypical femur fractures.   Through continued research and collaboration, we aim to further enhance our understanding of bone health and develop targeted strategies to mitigate the risks associated with osteoporosis treatment.        Last Modified: 10/01/2024       Submitted by: ChamithSRajapakse]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

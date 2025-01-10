@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Belmont Forum Collaborative Research: Health effects and associated socio-economic costs of increasing temperatures and wildfires - A global assessment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>199495.00</AwardTotalIntnAmount>
+<AwardAmount>199495</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06010000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>RISE</Abbreviation>
+<LongName>Div of Res, Innovation, Synergies, &amp; Edu</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Uhle</SignBlockName>
+<PO_EMAI>muhle@nsf.gov</PO_EMAI>
+<PO_PHON>7032922250</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award provides support to U.S. researchers participating in a project competitively selected by a 55-country initiative on global change research through the Belmont Forum.  The Belmont Forum is a consortium of research funding organizations focused on support for transdisciplinary approaches to global environmental change challenges and opportunities.  It aims to accelerate delivery of the international research most urgently needed to remove critical barriers to sustainability by aligning and mobilizing international resources. Each partner country provides funding for their researchers within a consortium to alleviate the need for funds to cross international borders. This approach facilitates effective leveraging of national resources to support excellent research on topics of global relevance best tackled through a multinational approach, recognizing that global challenges need global solutions.&lt;br/&gt;&lt;br/&gt;Working together in this Collaborative Research Action, the partner agencies have provided support to foster global transdisciplinary research teams of natural (including climate), health and social scientists and stakeholders from across the globe to improve understanding of climate, environment and health pathways to protect and promote health. The projects will provide crucial new understanding into the health implications arising from the impacts of climate change and variability on; 1) the quality/quantity of food, 2) chronic exposure to increases/changes in heat and humidity and 3) changes in the distribution and incidence of a range of infectious diseases and emergence of novel pathogens. This award provides support for the U.S. researchers to cooperate in consortia that consist of partners from at least three of the participating countries to increase our knowledge of the complex linkages and pathways between the climate, environment and health to help solve complex challenges that face societies.  &lt;br/&gt;&lt;br/&gt;The project will focus on the health effects and associated socio-economic costs of increasing temperatures and wildfires to quantify the changes in cardiopulmonary mortality and morbidity and associated economic costs due to extreme heat and air pollution under alternative climate and socioeconomic scenarios.  The project will produce a global heat index projection related to air pollution data including that of wildfires, projection of cardiopulmonary diseases burden under different scenarios, and data on socio-economic costs associated to co-occurring events of extreme heat and high pollution.  The project brings together an international research consortium with expertise in climate modelling, epidemiology, economics and health impact assessments.  The team of academics, non-governmental and private sector researchers will work together to assess the link between heat, air pollution and human health and quantify the associated health burden.  The project will benefit a broad range of local and national-level stakeholders, including local communities, government, health service agencies, and local and national decision-makers.  The major impacts will be improved capability in assessing health impacts; cohesive resilience towards climate change; data to inform major international scientific assessments; strategies to ease economic burden of diseases and improve public health and safety.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034630</AwardID>
+<Investigator>
+<FirstName>Trevor</FirstName>
+<LastName>Houser</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Trevor Houser</PI_FULL_NAME>
+<EmailAddress><![CDATA[tghouser@rhg.com]]></EmailAddress>
+<NSF_ID>000827732</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[RHODIUM GROUP, LLC]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100191471</ZipCode>
+<PhoneNumber>2125321157</PhoneNumber>
+<StreetAddress><![CDATA[5 COLUMBUS CIR]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 1801]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V8FYBN7Z7193</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RHODIUM GROUP LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M32SMS2CMM79</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[RHODIUM GROUP, LLC]]></Name>
+<CityName>OAKLAND</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>946073556</ZipCode>
+<StreetAddress><![CDATA[647 4th St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>731300</Code>
+<Text>Intl Global Change Res &amp; Coord</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>U27200</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>1679</Code>
+<Text>INTERNATIONAL COORDINATION ACT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7313</Code>
+<Text>REGIONAL INST FOR GLOBAL CHANG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~179600</FUND_OBLG>
+<FUND_OBLG>2021~19895</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Project Summary: The Rhodium Group's Contributions to HEATCOST</strong></p>  <p><span>Understanding how climate change impacts human health is critical for designing effective policies to protect vulnerable populations. As part of the HEATCOST project, Rhodium Group conducted advanced simulations to assess the combined effects of extreme temperatures and air pollution on mortality rates. This work provided new insights into how climate change exacerbates health risks, particularly how hotter temperatures interact with particulate matter (PM2.5) and ozone and how much of that effect is attributable to wildfire activity.</span></p>  <p><strong>Key Findings and Intellectual Merit</strong></p>  <p><span>Rhodium's research centered on integrating temperature-pollution-mortality response models from recent research into advanced simulations under three shared socioeconomic pathways. These models quantified how cardiovascular and respiratory mortality risks increase under various climate scenarios, highlighting the disproportionate impacts on vulnerable regions such as northern South America, western Sub-Saharan Africa, and Oceania from 2020 through 2090. The analysis revealed that under a high-emissions scenario (SSP3-7.0), respiratory mortality rates in some regions could increase by over 400%, underscoring the critical need for global emissions reductions and targeted health interventions. By contrast, low-emissions pathways (SSP 1-2.6) indicated potential declines in mortality rates in some areas due to reductions in particulate emissions. The project underscored the compounded health risks in vulnerable regions such as northern South America, western Sub-Saharan Africa, and Oceania. </span></p>  <p><span>One of the critical innovations in Rhodium's work was isolating the effects of wildfire-driven particulate matter on health outcomes. Using the IS4FIRES modeling framework, they quantified how wildfires contribute to elevated PM levels and their subsequent impacts on human health. These insights are critical for designing mitigation strategies and adaptive responses to the combined threats of increasing heat, air pollution, and wildfire risk.</span></p>  <p><strong>Broader Impacts</strong></p>  <p><span>Rhodium Group's population-weighted analyses provided detailed, actionable data for over 24,000 subnational regions worldwide. These localized assessments empower policymakers and public health officials to prioritize resources effectively, implement early warning systems, and tailor health interventions to the specific needs of high-risk areas. Rhodium's work bridges the gap between scientific research and practical policy applications by linking climate modeling with health outcomes. Their findings also have global relevance, highlighting how socioeconomic factors and regional disparities shape climate-related health risks. For instance, low-income regions with limited healthcare infrastructure face more significant challenges adapting to rising temperatures and worsening air quality. These insights inform international efforts to promote equity in climate adaptation and resilience planning.</span></p>  <p><strong>Outcomes and Legacy</strong></p>  <p><span>Rhodium Group's contributions to HEATCOST advanced the scientific understanding of how climate change amplifies health risks through its interactions with air pollution. By isolating critical drivers of mortality and providing detailed regional insights, their work offers a roadmap for mitigating health impacts through improved policy, urban planning, and disaster preparedness. Heatcost data findings </span><span>were presented</span><span> in scientific workshops and stakeholder meetings with project partners. The data and modeling were shared with the project's international research partners to support their efforts to develop global climate change and public health policies. These results were an internal product that project partners may further develop into an external public product.</span></p>  <p class="Source">&nbsp;</p><br> <p>  Last Modified: 11/25/2024<br> Modified by: Trevor&nbsp;Houser</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2034630/2034630_10705795_1732573871693_Screenshot_2024_11_25_at_3.27.42__8239_PM--rgov-214x142.png" original="/por/images/Reports/POR/2024/2034630/2034630_10705795_1732573871693_Screenshot_2024_11_25_at_3.27.42__8239_PM--rgov-800width.png" title="Changes in cardiovascular mortality due to changes in temperature and PM2.5"><img src="/por/images/Reports/POR/2024/2034630/2034630_10705795_1732573871693_Screenshot_2024_11_25_at_3.27.42__8239_PM--rgov-66x44.png" alt="Changes in cardiovascular mortality due to changes in temperature and PM2.5"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Fraction of baseline mortality rate.</div> <div class="imageCredit">Source: Rhodium Group future simulations of Rai et al. (2023) findings</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Trevor&nbsp;Houser <div class="imageTitle">Changes in cardiovascular mortality due to changes in temperature and PM2.5</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2034630/2034630_10705795_1732573947735_Screenshot_2024_11_25_at_3.28.02__8239_PM--rgov-214x142.png" original="/por/images/Reports/POR/2024/2034630/2034630_10705795_1732573947735_Screenshot_2024_11_25_at_3.28.02__8239_PM--rgov-800width.png" title="Changes in respiratory mortality due to changes in temperature and PM2.5"><img src="/por/images/Reports/POR/2024/2034630/2034630_10705795_1732573947735_Screenshot_2024_11_25_at_3.28.02__8239_PM--rgov-66x44.png" alt="Changes in respiratory mortality due to changes in temperature and PM2.5"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Fraction of baseline mortality rate</div> <div class="imageCredit">Source: Rhodium Group future simulations of Rai et al. (2023) findings</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Trevor&nbsp;Houser <div class="imageTitle">Changes in respiratory mortality due to changes in temperature and PM2.5</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Summary: The Rhodium Group's Contributions to HEATCOST    Understanding how climate change impacts human health is critical for designing effective policies to protect vulnerable populations. As part of the HEATCOST project, Rhodium Group conducted advanced simulations to assess the combined effects of extreme temperatures and air pollution on mortality rates. This work provided new insights into how climate change exacerbates health risks, particularly how hotter temperatures interact with particulate matter (PM2.5) and ozone and how much of that effect is attributable to wildfire activity.    Key Findings and Intellectual Merit    Rhodium's research centered on integrating temperature-pollution-mortality response models from recent research into advanced simulations under three shared socioeconomic pathways. These models quantified how cardiovascular and respiratory mortality risks increase under various climate scenarios, highlighting the disproportionate impacts on vulnerable regions such as northern South America, western Sub-Saharan Africa, and Oceania from 2020 through 2090. The analysis revealed that under a high-emissions scenario (SSP3-7.0), respiratory mortality rates in some regions could increase by over 400%, underscoring the critical need for global emissions reductions and targeted health interventions. By contrast, low-emissions pathways (SSP 1-2.6) indicated potential declines in mortality rates in some areas due to reductions in particulate emissions. The project underscored the compounded health risks in vulnerable regions such as northern South America, western Sub-Saharan Africa, and Oceania.     One of the critical innovations in Rhodium's work was isolating the effects of wildfire-driven particulate matter on health outcomes. Using the IS4FIRES modeling framework, they quantified how wildfires contribute to elevated PM levels and their subsequent impacts on human health. These insights are critical for designing mitigation strategies and adaptive responses to the combined threats of increasing heat, air pollution, and wildfire risk.    Broader Impacts    Rhodium Group's population-weighted analyses provided detailed, actionable data for over 24,000 subnational regions worldwide. These localized assessments empower policymakers and public health officials to prioritize resources effectively, implement early warning systems, and tailor health interventions to the specific needs of high-risk areas. Rhodium's work bridges the gap between scientific research and practical policy applications by linking climate modeling with health outcomes. Their findings also have global relevance, highlighting how socioeconomic factors and regional disparities shape climate-related health risks. For instance, low-income regions with limited healthcare infrastructure face more significant challenges adapting to rising temperatures and worsening air quality. These insights inform international efforts to promote equity in climate adaptation and resilience planning.    Outcomes and Legacy    Rhodium Group's contributions to HEATCOST advanced the scientific understanding of how climate change amplifies health risks through its interactions with air pollution. By isolating critical drivers of mortality and providing detailed regional insights, their work offers a roadmap for mitigating health impacts through improved policy, urban planning, and disaster preparedness. Heatcost data findings were presented in scientific workshops and stakeholder meetings with project partners. The data and modeling were shared with the project's international research partners to support their efforts to develop global climate change and public health policies. These results were an internal product that project partners may further develop into an external public product.         Last Modified: 11/25/2024       Submitted by: TrevorHouser]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Time-dependent Composites and Inverse Problems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>165000.00</AwardTotalIntnAmount>
+<AwardAmount>165000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Composite materials find numerous applications in engineering and manufacturing for their unique properties that are superior to those of conventional materials. The search for composites that guarantee higher levels of performance requires the development of mathematical models able to accurately predict the behavior of such materials. Particularly interesting are time-dependent composites: passive materials, such as viscoelastic composites, exhibit a time-dependent response when subject to static loadings, due to the dissipation of energy carried out by the viscous component; on the other hand, active materials, such as space-time composites, in which energy accumulates or dissipates depending on the change of the applied field, provide entirely new ways to channel waves. The first goal of the project is to provide accurate models to predict the static response of passive time-dependent composites and to describe wave propagation in active composites. The second goal of the project concerns inverse problems: given the response of an inhomogeneous medium, not necessarily a composite, the aim is to develop reconstruction formulas to determine the internal geometry of the medium, a fundamental problem in geotechnical and medical applications for which one wants to recover the internal structure of a body. For instance, for a homogeneous elastic body with a viscoelastic inclusion, the objective is to determine the volume and the shape of the inclusion by applying suitable loadings and by measuring the corresponding response at a specific moment of time. San Francisco State University is a Research Undergraduate Institution; several undergraduate students will be involved in this research and will be trained through their participation.&lt;br/&gt;&lt;br/&gt;The nature of the project will bring forward mathematical advancements in several areas with focus on the following research avenues. (i) Wave equations with time-dependent coefficients: the project aims at exploring the behavior of solutions of such equations in the presence of dissipation, dispersion, nonlinearity, and more than one spatial dimension. The ultimate goal is to address the issue regarding the implementation of space-time composites to design one-way propagation devices and to engineer filtering devices and absorbers. (ii) The theory of Herglotz-Nevannlina-Pick functions: such theory plays a crucial role in the description of the behavior of passive and causal materials and one of the objective of the project is to broaden its applications to bound the response of two- and three-dimensional passive time-dependent composites in time, by using the analyticity of the effective properties tensor, and to solve inverse problems regarding lossy inhomogeneous media, by using the analyticity of the Dirichlet-to-Neumann map. (iii) Boundary integral formulations: one of the objective of the project is to determine the elastic fields in a two-dimensional unbounded isotropic medium with an elastic inclusion of arbitrary shape, by applying the single layer potential technique and by choosing a suitable set of functions for the series expansion of the elastic fields. The goal is to investigate how to derive reconstruction formulas for the shape of the inclusion.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008105</AwardID>
+<Investigator>
+<FirstName>ORNELLA</FirstName>
+<LastName>MATTEI</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>ORNELLA MATTEI</PI_FULL_NAME>
+<EmailAddress><![CDATA[mattei@sfsu.edu]]></EmailAddress>
+<NSF_ID>000811337</NSF_ID>
+<StartDate>07/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[San Francisco State University]]></Name>
+<CityName>SAN FRANCISCO</CityName>
+<ZipCode>941321740</ZipCode>
+<PhoneNumber>4153387090</PhoneNumber>
+<StreetAddress><![CDATA[1600 HOLLOWAY AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4SLJ5WF59F6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SAN FRANCISCO STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JW7YN4NDAHC1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[San Francisco State University]]></Name>
+<CityName>San Francisco</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>941321722</ZipCode>
+<StreetAddress><![CDATA[1600 Holloway Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~165000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1">Media that exhibit a response that changes in time are ubiquitous in engineering. Here we focused on two classes of time-dependent materials: (i) active media, where an external agent acts on the material by modulating its properties in time (space-time materials), and (ii) passive media for which the change in time is due to damping and dissipation. Specifically, the project consisted of&nbsp;four research avenues: (i) wave propagation in space-time composites, (ii) response of viscoelastic composites in time, (iii) inverse problems for time-dependent inhomogeneous media, and (iv) inverse problems for unbounded elastic media.</p> <p class="p2">&nbsp;</p> <p class="p1">Concerning the former, the goal was to understand how to channel waves in desired ways by modulating the properties of composites in time. The PI, together with collaborators, extended some previous results regarding the&nbsp; propagation of waves in special composites in which the spatial microstructure is commensurate to the time modulation, resulting in interesting wave phenomena. The PI also studied the properties of the spectrum of the related transfer matrices, matrices that allow to find a semi-analytical solution of the problem by stepping through time. Furthermore, she analyzed the properties of the frequency spectrum of space-time laminates to determine some universal properties regarding the directional and total frequency band gaps.&nbsp;</p> <p class="p2">&nbsp;</p> <p class="p1">For what concerns direct and inverse problems of time-dependent inhomogeneous media (problems (ii) and (iii)), the PI, together with collaborators, determined how to tailor the boundary conditions to accurately predict the time response of inhomogeneous media with time-dependent behavior, when different pieces of information are known about the medium. Based on the theory of Herglotz-Nevannlina functions, such results allow one to determine the volume fraction in a two-phase inhomogeneous medium by measuring the response of the medium at certain moments of time. Finally, the PI&nbsp;extended some of these results to the case where also a void phase is present.<span>&nbsp;</span></p> <p class="p2">&nbsp;</p> <p class="p1">Lastly, the PI focused on inverse problems for unbounded elastic media.<span>&nbsp; </span>Together with collaborators, she proved that, for the case of a rigid inclusion of arbitrary shape embedded in an isotropic unbounded medium subject to an arbitrary far-field loading in the plane elastostatic case, the elastic fields in the inclusion and in the surrounding hosting medium can be found by using a boundary integral formulation and series expansions in terms of Faber polynomials.<span>&nbsp;</span></p> <p class="p2">&nbsp;</p> <p class="p1">The major outcomes of the project consist of six papers published in peer-review journals, two preprints, three co-organized mini symposia, twenty-five seminars and talks at national and international conferences.<span>&nbsp;</span></p> <p class="p2">&nbsp;</p> <p class="p1">Regarding the broader impacts, the project resulted in the involvement of several student researchers, four Master&rsquo;s students and twenty-three undergraduates, the majority of whom coming from underrepresented minorities in Mathematics. The PI continued her outreach activities both nationally and internationally, as well as the mentoring of students through the Association of Women in Mathematics and the Society of Industrial and Applied Mathematics.<span>&nbsp;</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 08/30/2024<br> Modified by: Ornella&nbsp;Mattei</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Media that exhibit a response that changes in time are ubiquitous in engineering. Here we focused on two classes of time-dependent materials: (i) active media, where an external agent acts on the material by modulating its properties in time (space-time materials), and (ii) passive media for which the change in time is due to damping and dissipation. Specifically, the project consisted offour research avenues: (i) wave propagation in space-time composites, (ii) response of viscoelastic composites in time, (iii) inverse problems for time-dependent inhomogeneous media, and (iv) inverse problems for unbounded elastic media.      Concerning the former, the goal was to understand how to channel waves in desired ways by modulating the properties of composites in time. The PI, together with collaborators, extended some previous results regarding the propagation of waves in special composites in which the spatial microstructure is commensurate to the time modulation, resulting in interesting wave phenomena. The PI also studied the properties of the spectrum of the related transfer matrices, matrices that allow to find a semi-analytical solution of the problem by stepping through time. Furthermore, she analyzed the properties of the frequency spectrum of space-time laminates to determine some universal properties regarding the directional and total frequency band gaps.      For what concerns direct and inverse problems of time-dependent inhomogeneous media (problems (ii) and (iii)), the PI, together with collaborators, determined how to tailor the boundary conditions to accurately predict the time response of inhomogeneous media with time-dependent behavior, when different pieces of information are known about the medium. Based on the theory of Herglotz-Nevannlina functions, such results allow one to determine the volume fraction in a two-phase inhomogeneous medium by measuring the response of the medium at certain moments of time. Finally, the PIextended some of these results to the case where also a void phase is present.      Lastly, the PI focused on inverse problems for unbounded elastic media. Together with collaborators, she proved that, for the case of a rigid inclusion of arbitrary shape embedded in an isotropic unbounded medium subject to an arbitrary far-field loading in the plane elastostatic case, the elastic fields in the inclusion and in the surrounding hosting medium can be found by using a boundary integral formulation and series expansions in terms of Faber polynomials.      The major outcomes of the project consist of six papers published in peer-review journals, two preprints, three co-organized mini symposia, twenty-five seminars and talks at national and international conferences.      Regarding the broader impacts, the project resulted in the involvement of several student researchers, four Masters students and twenty-three undergraduates, the majority of whom coming from underrepresented minorities in Mathematics. The PI continued her outreach activities both nationally and internationally, as well as the mentoring of students through the Association of Women in Mathematics and the Society of Industrial and Applied Mathematics.        Last Modified: 08/30/2024       Submitted by: OrnellaMattei]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

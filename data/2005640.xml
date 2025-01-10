@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Boundaries and Nonpositive Curvature]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>283145.00</AwardTotalIntnAmount>
+<AwardAmount>283145</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+<PO_EMAI>jkaniaba@nsf.gov</PO_EMAI>
+<PO_PHON>7032924881</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The collection of symmetries of an object has a mathematical structure known as a group. Group theory has enjoyed a wide range of applications both in the physical world and the ideal mathematical universe. A particularly fruitful direction in the study of groups has been to consider symmetries of geometric spaces of nonpositive curvature and their associated boundaries. A geometric space is nonpositively curved if it is not "rounded" in any significant way. That is, it is either flat (such as the Euclidean plane), saddle-shaped, or some combination of the two. Given an infinite geometric object, one can attach a boundary at infinity in a way that allows us to view it from the outside in. This project centers on investigation of boundary theory in the context of nonpositively curved spaces. The results are expected to both expand the class of groups that are accessible through this theory and help define its limitations.  The award includes support for graduate students involved in the project.&lt;br/&gt;&lt;br/&gt;The project focuses on structure-preserving automorphisms of products of hyperbolic spaces and CAT(0) cube complexes together with their associated boundaries. The investigator and collaborators will: (1) introduce and study irreducibly-acylindrical actions on products of hyperbolic spaces and examine persistence of known properties of acylindrically hyperbolic groups; (2) establish automorphism-equivariant relationships among three of the key natural boundaries associated to CAT(0) cube complexes: the Roller, simplicial, and Tits boundaries; and (3) examine the quality of convergence of a random walk on a CAT(0) cube complex, specifically to establish a Central Limit Theorem.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005640</AwardID>
+<Investigator>
+<FirstName>Talia</FirstName>
+<LastName>Fernos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Talia Fernos</PI_FULL_NAME>
+<EmailAddress><![CDATA[talia.fernos@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000478519</NSF_ID>
+<StartDate>07/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of North Carolina Greensboro]]></Name>
+<CityName>GREENSBORO</CityName>
+<ZipCode>274125068</ZipCode>
+<PhoneNumber>3363345878</PhoneNumber>
+<StreetAddress><![CDATA[1000 SPRING GARDEN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C13DF16LC3H4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT GREENSBORO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of North Carolina at Greensboro]]></Name>
+<CityName>Greensboro</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>274125013</ZipCode>
+<StreetAddress><![CDATA[1400 Spring Garden St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~283145</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The general theme of the project was to examine finite products of hyperbolic spaces as examples of nonpositively curved spaces, and where appropriate their boundaries. During the grant period, the PI successfully carried out all the research projects and objectives outlined in the Project Description, with the exception of irreducibility within the context of acylindricity in higher rank. This question proved to be more intricate than initially thought and is now the subject of ongoing study. Key aspects of the finished products are below. <br /><br />The PI and collaborator Balasubramanya introduce a framework which contains acylindrically hyperbolic groups and (<em>S-</em>)arithmetic lattices in semi-simple algebraic groups with rank-1 factors. Because there are few straightforward conditions to verify in this context, the class of groups covered by the theory is quite vast and is closed under taking direct products, passing to an over-group of finite index, and subgroups, provided their factor actions are of general type. The PI and Balasubramanya found that such groups admit a strongly canonical product decomposition which descends to the outer automorphism group, allowing them to give a partial resolution to a recent conjecture of Sela. Along the way, they prove a virtually abelian vs free Tits alternative and various structure theorems. <br /><br />The PI with collaborators L&eacute;cur&eacute;ux and Math&eacute;us extend their previous work on random walks on CAT(0) cube complexes and prove a standard central limit theorem. When the complex is irreducible, they also prove the existence of an automorphism group equivariant homeomorphism between the regular points of the Roller boundary and the Gromov boundary of the contact graph. This allows them to reformulate the Caprace-Sageev Rank-Rigidty Theorem in terms of the action on the contact graph. This homeomorphism is then utilized to lift hyperbolic data from the contact graph to the CAT(0) cube complex in order to prove their central limit theorem. <br /><br />With collaborators Futer and Hagen, the PI introduces the simplicialized Roller boundary and develops a systematic study of the interplay between it, the Tits boundary, and Hagen's simplicial boundary associated to a finite dimensional CAT(0) cube complex. They prove that these boundaries are homotopy equivalent, and moreover, the homotopy equivalence is group-equivariant up to homotopy equivalence. These results apply to the CAT(0) cube complexes studied by Qing in her thesis, where she found that there can be no group-equivariant homeomorphism between the Tits boundaries when side-lengths are appropriately perturbed.<br /><br />The PI also published an expository article, containing original results, on CAT(0) cube complexes in the spirit of a bed time story. This work was in response to student requests for accessible and engaging material. The article contains 11 illustrations. <br /><br />During the funding period, the PI was quite active in activities with broader impact. For example, the PI developed an interactive Desmos model for approximating filled-in Julia sets as part of a Math Club activity, which is freely available on their website, along with several mathematical illustrations. The PI developed and executed a solutions-based and collaborative diversity, equity, and inclusion forum discussion. The PI ran a "Science Everywhere" exhibition on paradoxes and contradictions, illustrating the latter with a game of hopscotch. The PI served as an expert referee for article and grant review, both with an international reach.</p><br> <p>  Last Modified: 11/04/2024<br> Modified by: Talia&nbsp;Fernos</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2005640/2005640_10689273_1728397073709_ClassificationActions--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2005640/2005640_10689273_1728397073709_ClassificationActions--rgov-800width.jpg" title="classification of actions on a delta-hyperbolic space"><img src="/por/images/Reports/POR/2024/2005640/2005640_10689273_1728397073709_ClassificationActions--rgov-66x44.jpg" alt="classification of actions on a delta-hyperbolic space"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure showing the classification of actions on a $\delta$-hyperbolic space      Counter-clockwise from 3 o'clock: general type, quasiparabolic, rift, tremble, rotation, lineal  Center: parabolic</div> <div class="imageCredit">PI joint work with Balasubramanya</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Talia&nbsp;Fernos <div class="imageTitle">classification of actions on a delta-hyperbolic space</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2005640/2005640_10689273_1730288167403_PnC--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2005640/2005640_10689273_1730288167403_PnC--rgov-800width.jpeg" title="Paradoxes and Contradictions"><img src="/por/images/Reports/POR/2024/2005640/2005640_10689273_1730288167403_PnC--rgov-66x44.jpeg" alt="Paradoxes and Contradictions"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Hopscotch game exemplifying an argument ending in a contradiction</div> <div class="imageCredit">Talia Fern�s</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Talia&nbsp;Fernos <div class="imageTitle">Paradoxes and Contradictions</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2005640/2005640_10689273_1730288286105_CAT_0_LeConte--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2005640/2005640_10689273_1730288286105_CAT_0_LeConte--rgov-800width.jpg" title="Title image-Le Conte"><img src="/por/images/Reports/POR/2024/2005640/2005640_10689273_1730288286105_CAT_0_LeConte--rgov-66x44.jpg" alt="Title image-Le Conte"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A measure on a CAT(0) cube complex</div> <div class="imageCredit">Talia Fern�s</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Talia&nbsp;Fernos <div class="imageTitle">Title image-Le Conte</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2005640/2005640_10689273_1730289439748_Screenshot_2024_10_30_at_6.51.57_AM--rgov-214x142.png" original="/por/images/Reports/POR/2024/2005640/2005640_10689273_1730289439748_Screenshot_2024_10_30_at_6.51.57_AM--rgov-800width.png" title="Filled-in Julia Set Approx"><img src="/por/images/Reports/POR/2024/2005640/2005640_10689273_1730289439748_Screenshot_2024_10_30_at_6.51.57_AM--rgov-66x44.png" alt="Filled-in Julia Set Approx"></a> <div class="imageCaptionContainer"> <div class="imageCaption">15 backward iterates of the disk of radius 4 under the map f(z) = z^2 + c, where c= 1.3exp(3.4 i)  This is a 15th level approximation of the filled-in Julia set.</div> <div class="imageCredit">Talia Fern�s</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Talia&nbsp;Fernos <div class="imageTitle">Filled-in Julia Set Approx</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2005640/2005640_10689273_1730288538305_spherical--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2005640/2005640_10689273_1730288538305_spherical--rgov-800width.jpg" title="Spherical triangle"><img src="/por/images/Reports/POR/2024/2005640/2005640_10689273_1730288538305_spherical--rgov-66x44.jpg" alt="Spherical triangle"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A spherical triangle that shows that the circumcenter need not be interior.</div> <div class="imageCredit">Talia Fern?s</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Talia&nbsp;Fernos <div class="imageTitle">Spherical triangle</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2005640/2005640_10689273_1730289732685_Actions--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2005640/2005640_10689273_1730289732685_Actions--rgov-800width.jpg" title="Venn diagram from lattices to acylindricity"><img src="/por/images/Reports/POR/2024/2005640/2005640_10689273_1730289732685_Actions--rgov-66x44.jpg" alt="Venn diagram from lattices to acylindricity"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The Venn diagram illustrates the progressive weakening of restrictions on actions and appears as an ocean sunset. The sunset portion corresponds to the uniform case, whereas the ocean portion corresponds to the nonuniform case.</div> <div class="imageCredit">Talia Fern�s</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Talia&nbsp;Fernos <div class="imageTitle">Venn diagram from lattices to acylindricity</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The general theme of the project was to examine finite products of hyperbolic spaces as examples of nonpositively curved spaces, and where appropriate their boundaries. During the grant period, the PI successfully carried out all the research projects and objectives outlined in the Project Description, with the exception of irreducibility within the context of acylindricity in higher rank. This question proved to be more intricate than initially thought and is now the subject of ongoing study. Key aspects of the finished products are below.   The PI and collaborator Balasubramanya introduce a framework which contains acylindrically hyperbolic groups and (S-)arithmetic lattices in semi-simple algebraic groups with rank-1 factors. Because there are few straightforward conditions to verify in this context, the class of groups covered by the theory is quite vast and is closed under taking direct products, passing to an over-group of finite index, and subgroups, provided their factor actions are of general type. The PI and Balasubramanya found that such groups admit a strongly canonical product decomposition which descends to the outer automorphism group, allowing them to give a partial resolution to a recent conjecture of Sela. Along the way, they prove a virtually abelian vs free Tits alternative and various structure theorems.   The PI with collaborators Lcurux and Mathus extend their previous work on random walks on CAT(0) cube complexes and prove a standard central limit theorem. When the complex is irreducible, they also prove the existence of an automorphism group equivariant homeomorphism between the regular points of the Roller boundary and the Gromov boundary of the contact graph. This allows them to reformulate the Caprace-Sageev Rank-Rigidty Theorem in terms of the action on the contact graph. This homeomorphism is then utilized to lift hyperbolic data from the contact graph to the CAT(0) cube complex in order to prove their central limit theorem.   With collaborators Futer and Hagen, the PI introduces the simplicialized Roller boundary and develops a systematic study of the interplay between it, the Tits boundary, and Hagen's simplicial boundary associated to a finite dimensional CAT(0) cube complex. They prove that these boundaries are homotopy equivalent, and moreover, the homotopy equivalence is group-equivariant up to homotopy equivalence. These results apply to the CAT(0) cube complexes studied by Qing in her thesis, where she found that there can be no group-equivariant homeomorphism between the Tits boundaries when side-lengths are appropriately perturbed.  The PI also published an expository article, containing original results, on CAT(0) cube complexes in the spirit of a bed time story. This work was in response to student requests for accessible and engaging material. The article contains 11 illustrations.   During the funding period, the PI was quite active in activities with broader impact. For example, the PI developed an interactive Desmos model for approximating filled-in Julia sets as part of a Math Club activity, which is freely available on their website, along with several mathematical illustrations. The PI developed and executed a solutions-based and collaborative diversity, equity, and inclusion forum discussion. The PI ran a "Science Everywhere" exhibition on paradoxes and contradictions, illustrating the latter with a game of hopscotch. The PI served as an expert referee for article and grant review, both with an international reach.     Last Modified: 11/04/2024       Submitted by: TaliaFernos]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

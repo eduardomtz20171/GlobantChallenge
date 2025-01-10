@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+<PO_EMAI>sgdewint@nsf.gov</PO_EMAI>
+<PO_PHON>7032922599</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist.  The title of the project for this fellowship to Erik Waingarten is "Nearest Neighbor Search in High Dimensional Spaces."  The host institution for the fellowship is Stanford University, and the sponsoring scientist is Moses Charikar.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002201</AwardID>
+<Investigator>
+<FirstName>Erik</FirstName>
+<LastName>Waingarten</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Erik A Waingarten</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000811573</NSF_ID>
+<StartDate>03/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Waingarten, Erik A]]></Name>
+<CityName>New York</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>Stanford</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943059025</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project dealt with algorithmic questions in metric spaces. Given a collection of points in a metric space, one is interested in problems such as: finding similar objects (which is the "nearest neighbor search" problem), clustering objects (which corresponds to partitioning objects into similar and dissimilar parts), and approximating the objects via simpler structures (which may be more efficiently stored and communicated). A common theme is "sketching algorithms," which is an algorithmic paradigm where one takes a large object, and is able to quickly and succinctly summarize its important features.&nbsp;</p> <p>Concretely, the project resulted in the development of the following algorithms:</p> <p>1. The best known approximation for computing the Earth Mover's distance, and the Euclidean minimum spanning tree in the streaming model of computation.&nbsp;</p> <p>2. The best sketching algorithms for clustering in ell_p norms for all p between 1 and 2. Importantly, the complexity does not grow as the dimension increases, which was previously unknown for spaces beyond p = 2.&nbsp;</p> <p>3. An algorithm for accurately approximating a new relaxation of the optimal transport problem in Euclidean space in near-linear time. These relaxations provide the first evidence that near-linear time algorithms may be possible. The development of this algorithm proceeded by making a connection, for the first time, to algorithms for kernel density estimation.</p> <p>4. A new algorithm for approximating the kernel density of a dataset of points. The new algorithm improves on the dependence on the accuracy, and aims to extend techniques for the "fast multipole method" (a highly successful technique in scientific computing) to high-dimensional spaces.</p><br> <p>  Last Modified: 08/01/2024<br> Modified by: Erik&nbsp;A&nbsp;Waingarten</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The project dealt with algorithmic questions in metric spaces. Given a collection of points in a metric space, one is interested in problems such as: finding similar objects (which is the "nearest neighbor search" problem), clustering objects (which corresponds to partitioning objects into similar and dissimilar parts), and approximating the objects via simpler structures (which may be more efficiently stored and communicated). A common theme is "sketching algorithms," which is an algorithmic paradigm where one takes a large object, and is able to quickly and succinctly summarize its important features.   Concretely, the project resulted in the development of the following algorithms:   1. The best known approximation for computing the Earth Mover's distance, and the Euclidean minimum spanning tree in the streaming model of computation.   2. The best sketching algorithms for clustering in ell_p norms for all p between 1 and 2. Importantly, the complexity does not grow as the dimension increases, which was previously unknown for spaces beyond p = 2.   3. An algorithm for accurately approximating a new relaxation of the optimal transport problem in Euclidean space in near-linear time. These relaxations provide the first evidence that near-linear time algorithms may be possible. The development of this algorithm proceeded by making a connection, for the first time, to algorithms for kernel density estimation.   4. A new algorithm for approximating the kernel density of a dataset of points. The new algorithm improves on the dependence on the accuracy, and aims to extend techniques for the "fast multipole method" (a highly successful technique in scientific computing) to high-dimensional spaces.     Last Modified: 08/01/2024       Submitted by: ErikAWaingarten]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

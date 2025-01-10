@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: SaTC: Bottom-up psychosocial interventions for interpersonal privacy preservation in social media]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>175000.00</AwardTotalIntnAmount>
+<AwardAmount>190600</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sara Kiesler</SignBlockName>
+<PO_EMAI>skiesler@nsf.gov</PO_EMAI>
+<PO_PHON>7032928643</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>People's privacy is violated on popular social media sites every day, with users sharing sensitive photos and information about other people on a massive scale. Many current interventions for reducing the spread of private information on social media are limited to addressing privacy violations that have already occurred, and interventions are typically initiated by corporations. This project studies the effectiveness of story- and fact-based intervention strategies that can be deployed to users and used by them to promote privacy on social media. The approach attempts to by change users’ attitudes and reduce their sharing of others’ personal photos and information. This project supports safe online behavior by testing ways to increase privacy awareness and improve online decision-making, preventing interpersonal privacy violations on social media. &lt;br/&gt;&lt;br/&gt;Emotional and personal narratives are demonstrated sources of influence in health promotion and disease prevention. Such narratives may be important to preventing privacy violations within highly interconnected social networks, where individuals may be both influenced by narratives and, in turn, participate in influencing others within their network. Employing a mixed-method experimental approach, the project identifies users’ attitudes towards social media intervention strategies. The project establishes the efficacy of user-oriented privacy intervention strategies in altering young people’s privacy attitudes and behavior, leveraging strategies modeled after successes from other disciplines that vary in modality (text, video, or interactive format) and type (fact-based or narrative appeals). The project also examines the extent to which communication mechanisms on social media platforms (i.e., online comments) are viable entry points for users to participate in privacy preservation. Overall, the project contributes to the overarching goal of cultivating user-based interpersonal privacy preservation on social media to preserve the social and economic benefits of the web.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/16/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>12/01/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2053152</AwardID>
+<Investigator>
+<FirstName>Mary</FirstName>
+<LastName>Amon</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mary J Amon</PI_FULL_NAME>
+<EmailAddress><![CDATA[mamon@ist.ucf.edu]]></EmailAddress>
+<NSF_ID>000735910</NSF_ID>
+<StartDate>03/16/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[The University of Central Florida Board of Trustees]]></Name>
+<CityName>ORLANDO</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress><![CDATA[4000 CENTRAL FLORIDA BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RD7MXJV7DKT9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Central Florida Board of Trustees]]></Name>
+<CityName>Orlando</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>328263281</ZipCode>
+<StreetAddress><![CDATA[3100 Technology Pkwy]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>171400</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>065Z</Code>
+<Text>Human factors for security research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~175000</FUND_OBLG>
+<FUND_OBLG>2022~15600</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&lsquo;Interdependent privacy&rsquo; violations occur when social media users share private photos or information about other people without their permission. Interdependent privacy violations occur on a massive scale, as users post others&rsquo; embarrassing moments, identifying information, photos taken without permission, medical or sexual histories, and other sensitive content. Although people rate interdependent privacy violations as very serious and highly concerning, the general public lacks a common language for discussing interdependent privacy and practical understandings, limiting their ability to effectively participate in privacy preservation. Thus, this project&rsquo;s overarching objective was to extend proven educational intervention strategies from the public health literature to support interdependent privacy preservation in social networks.</p> <p>&nbsp;</p> <p>This overarching objective was supported via a three-pronged approach: First, this research examined people&rsquo;s interdependent privacy perspectives, including degree of concern, what information is considered especially private, and preferred intervention strategies. For example, although people assign social media users, social media corporations, and government responsibility for preserving privacy, people hold social media users primarily responsible for interdependent privacy violations. When considering various intervention strategies for interdependent privacy preservation, people prefer strategies that are controlled by social media users themselves (e.g., user interface tools) and also support the use of educational interventions. Findings regarding user perspectives were foundational in formulating intervention content, format, and goals. Second, this research investigated how interdependent privacy violations occur online, uncovering lesser-known threats. For example, despite the many benefits of online health communities, these communities often involve users disclosing other people&rsquo;s sensitive medical diagnoses. In addition, users influence one another&rsquo;s relevant sharing through social media posts and comments, which serve as the building blocks for interdependent privacy norms. These findings enrich understandings of interdependent privacy as a multifaceted issue and support the need broader awareness. Third, educational interventions to reduce interdependent privacy violations were developed and tested. In particular, we compared concept-based (explaining interdependent privacy), fact-based (sharing statistics about violations), and narrative-based (sharing stories about violations) educational interventions. The concept-based educational video best supported interdependent privacy preservation by reducing users&rsquo; sharing of the most private content about other people. Moreover, the research findings showed that social media users could themselves actively participate in interdependent privacy preservation, such that even brief comments about interdependent privacy in social media forums can alter sharing norms. Taken together, the research highlights how social media users can leverage their collective values to alter broader social media sharing norms for enhanced privacy.</p> <p>&nbsp;</p> <p>This project resulted in empirically-validated educational interventions that reduce sharing of the most private interdependent privacy content in social media, with interventions formulated based on user preferences. Notably, interventions are scalable in that they can be disseminated to large audiences without buy-in from social media corporations themselves. In addition, findings from the project highlight interdependent privacy as an umbrella term that subsumes a wide variety of privacy-violating behaviors in social media. For example, interdependent privacy violations may include families sharing young children&rsquo;s sensitive information online (i.e., &lsquo;sharenting&rsquo;), as well as posting other people&rsquo;s medical diagnoses in online health forums, among others. In this way, the project enriches foundational understandings of interdependent privacy while forwarding interventions to support a more informed public.</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/01/2024<br> Modified by: Mary&nbsp;J&nbsp;Amon</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Interdependent privacy violations occur when social media users share private photos or information about other people without their permission. Interdependent privacy violations occur on a massive scale, as users post others embarrassing moments, identifying information, photos taken without permission, medical or sexual histories, and other sensitive content. Although people rate interdependent privacy violations as very serious and highly concerning, the general public lacks a common language for discussing interdependent privacy and practical understandings, limiting their ability to effectively participate in privacy preservation. Thus, this projects overarching objective was to extend proven educational intervention strategies from the public health literature to support interdependent privacy preservation in social networks.      This overarching objective was supported via a three-pronged approach: First, this research examined peoples interdependent privacy perspectives, including degree of concern, what information is considered especially private, and preferred intervention strategies. For example, although people assign social media users, social media corporations, and government responsibility for preserving privacy, people hold social media users primarily responsible for interdependent privacy violations. When considering various intervention strategies for interdependent privacy preservation, people prefer strategies that are controlled by social media users themselves (e.g., user interface tools) and also support the use of educational interventions. Findings regarding user perspectives were foundational in formulating intervention content, format, and goals. Second, this research investigated how interdependent privacy violations occur online, uncovering lesser-known threats. For example, despite the many benefits of online health communities, these communities often involve users disclosing other peoples sensitive medical diagnoses. In addition, users influence one anothers relevant sharing through social media posts and comments, which serve as the building blocks for interdependent privacy norms. These findings enrich understandings of interdependent privacy as a multifaceted issue and support the need broader awareness. Third, educational interventions to reduce interdependent privacy violations were developed and tested. In particular, we compared concept-based (explaining interdependent privacy), fact-based (sharing statistics about violations), and narrative-based (sharing stories about violations) educational interventions. The concept-based educational video best supported interdependent privacy preservation by reducing users sharing of the most private content about other people. Moreover, the research findings showed that social media users could themselves actively participate in interdependent privacy preservation, such that even brief comments about interdependent privacy in social media forums can alter sharing norms. Taken together, the research highlights how social media users can leverage their collective values to alter broader social media sharing norms for enhanced privacy.      This project resulted in empirically-validated educational interventions that reduce sharing of the most private interdependent privacy content in social media, with interventions formulated based on user preferences. Notably, interventions are scalable in that they can be disseminated to large audiences without buy-in from social media corporations themselves. In addition, findings from the project highlight interdependent privacy as an umbrella term that subsumes a wide variety of privacy-violating behaviors in social media. For example, interdependent privacy violations may include families sharing young childrens sensitive information online (i.e., sharenting), as well as posting other peoples medical diagnoses in online health forums, among others. In this way, the project enriches foundational understandings of interdependent privacy while forwarding interventions to support a more informed public.        Last Modified: 07/01/2024       Submitted by: MaryJAmon]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

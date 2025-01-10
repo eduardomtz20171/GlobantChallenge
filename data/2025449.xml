@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[An Uplift Friction Damper for Seismically Resilient Mass-Timber Buildings]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>204514.00</AwardTotalIntnAmount>
+<AwardAmount>252995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joy Pauschke</SignBlockName>
+<PO_EMAI>jpauschk@nsf.gov</PO_EMAI>
+<PO_PHON>7032927024</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award will investigate a low-damage solution for cross-laminated timber (CLT) seismic force-resisting systems (SFRSs) using a novel uplift friction damper (UFD) device for seismically resilient mass-timber buildings. The UFD device will embrace the natural rocking wall behavior that is expected in tall CLT buildings, provide stable energy dissipation, and exhibit self-centering characteristics. Structural repair of buildings with these devices is expected to be minimal after a design level earthquake. Although CLT has emerged as a construction material that has revitalized the timber industry, there exists a lack of CLT-specific seismic energy dissipation devices that can integrate holistically with the natural kinematics of CLT-based SFRSs. CLT wall panels themselves do not provide any measurable seismic energy dissipation. As a payload to the large-scale, ten-story CLT building specimen to be tested on the Natural Hazards Engineering Research Infrastructure (NHERI) shake table at the University of California, San Diego, as part of NSF award 1636164, “Collaborative Research: A Resilience-based Seismic Design Methodology for Tall Wood Buildings,” this project  will conduct a series of tests with the UFD devices installed on the CLT building specimen. These tests will bridge analytical and numerical models with the high fidelity test data collected with realistic boundary and earthquake loading conditions. The calibrated models will be incorporated in a probabilistic numerical framework to establish a design methodology for seismically resilient tall wood buildings, leading to a more diverse and eco-sustainable urban landscape. This project will provide local elementary school outreach activities, integrate participation of undergraduate minorities and underrepresented groups into the research activities, and foster graduate level curriculum innovations.  Project data will be archived and made available publicly in the NSF-supported NHERI Data Depot (https://www.DesignSafe-CI.org). This award contributes to NSF's role in the National Earthquake Hazards Reduction Program (NEHRP). &lt;br/&gt;&lt;br/&gt;The research objectives of this payload project are to: 1) bridge the fundamental mechanistic UFD models linking analytical and numerical models necessary for seismic response prediction of seismically resilient CLT-based SFRSs, 2) characterize the fundamental dynamic UFD behavior with validation and calibration through large-scale tests with realistic boundary conditions and earthquake loadings, and 3) integrate low-damage, friction-based damping system alternatives within a resilience-based seismic design methodology for tall wood buildings. To achieve these objectives, the test data collected will provide a critical pathway to reliably establish numerical and analytical models that extend the shake table test results to a broad range of archetype buildings. The seismic performance of mass-timber archetype building systems will be established through collapse risk assessment using incremental dynamic analyses. This will provide a first step in the longer term goal of establishing code-based seismic performance factors for CLT-based SFRSs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025449</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Dowden</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel M Dowden</PI_FULL_NAME>
+<EmailAddress><![CDATA[dmdowden@mtu.edu]]></EmailAddress>
+<NSF_ID>000607473</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan Technological University]]></Name>
+<CityName>HOUGHTON</CityName>
+<ZipCode>499311200</ZipCode>
+<PhoneNumber>9064871885</PhoneNumber>
+<StreetAddress><![CDATA[1400 TOWNSEND DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GKMSN3DA6P91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN TECHNOLOGICAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GKMSN3DA6P91</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan Technological University]]></Name>
+<CityName>Houghton</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>499311295</ZipCode>
+<StreetAddress><![CDATA[1400 Townsend Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>073Y00</Code>
+<Text>ECI-Engineering for Civil Infr</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>161Y00</Code>
+<Text>COVID Impacts on Exisiting Act</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>039E</Code>
+<Text>STRUCTURAL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>040E</Code>
+<Text>Haz mitigation of structural sys</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>043E</Code>
+<Text>EARTHQUAKE ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1576</Code>
+<Text>NATIONL EARTHQK HZRD REDCT PRG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7231</Code>
+<Text>CYBERINFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~204514</FUND_OBLG>
+<FUND_OBLG>2022~48481</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Challenges exist that limit the use of mass timber-based lateral force-resisting systems (LFRSs) for tall timber buildings (i.e., 8 to 18 stories) in the United States (U.S.). This includes lack of appropriate mass timber specific seismic energy dissipation devices/connections and knowledge gaps in seismic performance of tall mass timber building systems with these mass timber-based LFRSs. Post-Tensioned Rocking Mass Timber Walls (PT-RMTWs) have emerged as LFRSs that show high promise in advancing mass timber technologies towards practical implementation. Recent research has shown that PT-RMTWs are feasible and have the benefit of being inherently seismically resilient compared to conventional code-based prescriptive LFRSs. Specifically, PT-RMTWs can provide building self-centering and concentrates inelastic energy dissipation (damage) to replaceable elements (i.e., structural fuses) leading to rapid repairability post event. Unlike seismically resilient LFRSs, the inelastic energy dissipation elements of conventional LFRSs are coupled with the gravity frame system leading to irreparable structural damage and large residual building drifts remain after a moderate to large earthquake, leaving the building vulnerable to possible collapse. Consequently, buildings with conventional LFRSs would likely face demolition after a large seismic event. The 2010-2011 Christchurch earthquakes and the rebuilding of Christchurch, New Zealand (where buildings were designed with modern seismic codes, construction material, and practices) has highlighted this issue.</p> <p>To advance knowledge of tall mass timber building systems towards practical implementation while leading a shift in paradigm on how buildings can be more resilient against large earthquake events, the TallWood Project team designed a large-scale 10-story mass timber building for shake table testing as a final proof of concept. This NHERI TallWood test program has validated the realization of tall mass timber buildings with seismically resilient mass timber-based LFRSs. Based on the culmination of research established from the NHERI TallWood project leading up to these large-scale shake table tests, the PT-RMTWs were detailed with U-shaped flexural steel plate (UFP) energy dissipators. Although the use of these structural fuses showed excellent performance, yielding dampers have limitations including stiffness and strength degradation, potential fracture due to accumulated plastic deformation, and no potential for self-centering capacity. To overcome some of these limitations, this payload research project investigated a seismically resilient uplift friction damper (UFD) for PT-RMTWs that provides stable energy dissipation, enhanced self-centering capabilities, and eliminates the need for repair/replacement of these devices post-seismic event. For this purpose, after the NHERI TallWood team completed their tests, UFDs were installed, and additional earthquake tests were conducted. These tests validated the excellent performance of the UFDs and showed that the UFDs in combination with the UFPs, that were installed by the NHERI TallWood team, was an effective combination in controlling the building response under severe earthquakes.&nbsp;&nbsp;</p> <p>Lastly, this project has had a direct impact on student experiential learning. This payload test program provided the opportunity for a PhD student and an undergraduate student to be involved with the installation of the proposed friction dampers, instrumentation setup on the 10-story test building, gain an understanding of mass timber as a construction material prior to entering professional practice, and expanding their professional network. Furthermore, mass timber construction in the U.S. is behind the state-of-practice of other countries around the globe, where tall mass timber buildings are being constructed that leverage the sustainability and rapid constructability benefits of these types of building systems. This overall test program will influence the future of sustainable construction practices, in doing so promoting financial prosperity of the timber industry and related supply chains. Additionally, the research outcomes have advanced fundamental knowledge of tall mass timber buildings in regions of high seismic risk. This has provided a pathway for the development of code-based seismic performance factors for seismically resilient mass timber building systems as an alternative to conventional building systems constructed of mineral-based materials. Finally, these payload tests have shown the high potential of the proposed friction dampers as an effective earthquake protection device for seismically resilient buildings. Specifically, these tests have shown that PT-RMTWs can be detailed with alternative energy dissipation devices. This has broadened the pathway for the application of the proposed friction dampers and opened up more possibilities for further advancement of seismically resilient friction-based energy dissipation devices for earthquake protection of buildings.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/19/2024<br> Modified by: Daniel&nbsp;M&nbsp;Dowden</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Challenges exist that limit the use of mass timber-based lateral force-resisting systems (LFRSs) for tall timber buildings (i.e., 8 to 18 stories) in the United States (U.S.). This includes lack of appropriate mass timber specific seismic energy dissipation devices/connections and knowledge gaps in seismic performance of tall mass timber building systems with these mass timber-based LFRSs. Post-Tensioned Rocking Mass Timber Walls (PT-RMTWs) have emerged as LFRSs that show high promise in advancing mass timber technologies towards practical implementation. Recent research has shown that PT-RMTWs are feasible and have the benefit of being inherently seismically resilient compared to conventional code-based prescriptive LFRSs. Specifically, PT-RMTWs can provide building self-centering and concentrates inelastic energy dissipation (damage) to replaceable elements (i.e., structural fuses) leading to rapid repairability post event. Unlike seismically resilient LFRSs, the inelastic energy dissipation elements of conventional LFRSs are coupled with the gravity frame system leading to irreparable structural damage and large residual building drifts remain after a moderate to large earthquake, leaving the building vulnerable to possible collapse. Consequently, buildings with conventional LFRSs would likely face demolition after a large seismic event. The 2010-2011 Christchurch earthquakes and the rebuilding of Christchurch, New Zealand (where buildings were designed with modern seismic codes, construction material, and practices) has highlighted this issue.   To advance knowledge of tall mass timber building systems towards practical implementation while leading a shift in paradigm on how buildings can be more resilient against large earthquake events, the TallWood Project team designed a large-scale 10-story mass timber building for shake table testing as a final proof of concept. This NHERI TallWood test program has validated the realization of tall mass timber buildings with seismically resilient mass timber-based LFRSs. Based on the culmination of research established from the NHERI TallWood project leading up to these large-scale shake table tests, the PT-RMTWs were detailed with U-shaped flexural steel plate (UFP) energy dissipators. Although the use of these structural fuses showed excellent performance, yielding dampers have limitations including stiffness and strength degradation, potential fracture due to accumulated plastic deformation, and no potential for self-centering capacity. To overcome some of these limitations, this payload research project investigated a seismically resilient uplift friction damper (UFD) for PT-RMTWs that provides stable energy dissipation, enhanced self-centering capabilities, and eliminates the need for repair/replacement of these devices post-seismic event. For this purpose, after the NHERI TallWood team completed their tests, UFDs were installed, and additional earthquake tests were conducted. These tests validated the excellent performance of the UFDs and showed that the UFDs in combination with the UFPs, that were installed by the NHERI TallWood team, was an effective combination in controlling the building response under severe earthquakes.   Lastly, this project has had a direct impact on student experiential learning. This payload test program provided the opportunity for a PhD student and an undergraduate student to be involved with the installation of the proposed friction dampers, instrumentation setup on the 10-story test building, gain an understanding of mass timber as a construction material prior to entering professional practice, and expanding their professional network. Furthermore, mass timber construction in the U.S. is behind the state-of-practice of other countries around the globe, where tall mass timber buildings are being constructed that leverage the sustainability and rapid constructability benefits of these types of building systems. This overall test program will influence the future of sustainable construction practices, in doing so promoting financial prosperity of the timber industry and related supply chains. Additionally, the research outcomes have advanced fundamental knowledge of tall mass timber buildings in regions of high seismic risk. This has provided a pathway for the development of code-based seismic performance factors for seismically resilient mass timber building systems as an alternative to conventional building systems constructed of mineral-based materials. Finally, these payload tests have shown the high potential of the proposed friction dampers as an effective earthquake protection device for seismically resilient buildings. Specifically, these tests have shown that PT-RMTWs can be detailed with alternative energy dissipation devices. This has broadened the pathway for the application of the proposed friction dampers and opened up more possibilities for further advancement of seismically resilient friction-based energy dissipation devices for earthquake protection of buildings.        Last Modified: 11/19/2024       Submitted by: DanielMDowden]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

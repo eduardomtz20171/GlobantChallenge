@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: spatio-temporal variability of microplastics in ocean and river cores using fluorescence microscopy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>69095.00</AwardTotalIntnAmount>
+<AwardAmount>69095</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gail Christeson</SignBlockName>
+<PO_EMAI>gchriste@nsf.gov</PO_EMAI>
+<PO_PHON>7032922952</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>During this project, how microplastics accumulate within sediments along the eastern U.S. coastal setting will be investigated. This study will be the first of its kind to use fluorescent microscopy techniques to quantify plastic deposition over time in sediment cores from the Hudson River and Long Island Sound to farther offshore.  Results will provide information about how microplastics get transported from their sources to the ocean and how fast they accumulate in sediments. With a better understanding of microplastic accumulation, more reliable computer models can be constructed to predict how sediment layers are generated as well as the future distribution of microplastics and their impact in the coastal environment. This project will promote the training and professional growth of junior scientists and graduate students from Columbia University as well as nearby high school students. &lt;br/&gt;&lt;br/&gt;This study investigates the spatio-temporal variability microplastics accumulating in sediments within a transect of cores from the Hudson River, Long Island Sound and nearshore ocean within 50 km of the coast.  Microplastics will be identified through fluorescence microscopy after staining with a lipid soluble fluorescent dye. Chronostratigraphic data already available on these cores will be used to constrain age estimates and allow quantitative comparison of microplastic accumulation during the last century.  In particular, the following hypotheses will be tested: a) vertically-integrated concentrations of microplastics differ for samples collected nearby large urban environments (e.g., cities) vs. those collected in open ocean, with concentrations increasing as we get closer to cities; and b) microplastic concentrations began accumulating around 1950 and have been increasing at an exponential rate over the past few decades. Results from this project will provide basic data needed to understand natural processes that control the transport and distribution of microplastic particulates over time and to develop models that predict their future microplastic concentrations in the oceanic sedimentary environment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/22/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019835</AwardID>
+<Investigator>
+<FirstName>Marco</FirstName>
+<LastName>Tedesco</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marco Tedesco</PI_FULL_NAME>
+<EmailAddress><![CDATA[mtedesco@ldeo.columbia.edu]]></EmailAddress>
+<NSF_ID>000477271</NSF_ID>
+<StartDate>02/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maureen</FirstName>
+<LastName>Raymo</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maureen E Raymo</PI_FULL_NAME>
+<EmailAddress><![CDATA[raymo@ldeo.columbia.edu]]></EmailAddress>
+<NSF_ID>000591214</NSF_ID>
+<StartDate>02/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University Lamont-Doherty Earth Obs.]]></Name>
+<CityName>Palisades</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>109648000</ZipCode>
+<StreetAddress><![CDATA[61 Route 9W]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>162000</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9198</Code>
+<Text>OTHER ENVIRONMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~69095</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Microplastics (MPs) are small particles derived from plastics from different origins and compositions. Due to their small size, low density and environmental persistence, all the plastic we&rsquo;ve created on Earth still exists. These tiny bits of plastic can come from our clothing, facial exfoliants, and other products, or the breakdown of larger plastic items. They are everywhere, in the oceans and rivers, fish and soil, and even in the atmosphere. Plastic never biodegrades, it just breaks down into smaller pieces of plastic.</p> <p>&nbsp;</p> <p>Despite studies that have found microplastics in pristine environments, little is known about their transport and deposition, either through the atmosphere or within the oceans and rivers. Moreover, little is known about the spatio-temporal variability of MPs and their depositional rates. Quantifying these processes is crucial to provide policymakers with necessary information to reduce the impact on human health associated with exposure to MPs. It is also important for developing and assessing models that can generate maps of depositional and transport rates and help isolate sources, understand processes, and eventually project the future distribution of MPs on our planet.&nbsp;</p> <p>&nbsp;</p> <p>The objectives of our study were to analyze river and ocean core samples stored at the Lamont-Doherty Earth Observatory of Columbia University to quantify the vertical distribution of MP concentrations.&nbsp;</p> <p>&nbsp;</p> <p>Our original plan was disrupted when the pandemic imposed lockdown on all activities at Lamont. The pandemic prevented us from purchasing the microscope as the seller was unable to provide the services. However, we continued to explore methods for assessing microplastic concentration in the samples. When activities resumed, we purchased a fluorescent microscope with financial resources identified through private donors and internal resources. We positioned the microscope in a clean room and made it available for data collection.&nbsp;</p> <p>&nbsp;</p> <p>We identified suitable samples from the ocean core laboratory and extracted them for analysis, after removing biological material through heating at 60 degrees Celsius for 8 hours. We also sieved and further removed potential minerals that could be fluorescing, similar to microplastics. The images were then used to count the number of microplastics that were originally identified. Microplastics were visually characterized by their shape and size. Generally speaking, microplastics are shaped as filaments or relatively geometric shapes.</p> <p>&nbsp;</p> <p>We performed measurements on five selected samples, which were longer than a meter. However, only the top 5-20 cm corresponded to the last 50-70 years, given the compaction. This made the cutting and sample selection more complicated. Samples at the top were made of a brittle material, so we decided to cut the samples in 5 cm intervals. Given the brittleness of the material, we were not always able to cut the sample precisely. In total, we considered 150 samples, 30 cuts per core. As mentioned, the samples were heated and sieved to remove minerals and biological material.&nbsp;</p> <p>&nbsp;</p> <p>Despite all our efforts, the results we obtained did not show any significant relationship between microplastics and depth. We identified two main reasons for this: the data we obtained was very noisy, as confirmed by multiple measurements on samples from the same core and depth, and the intrinsic distribution of MP within the sample or in view of the turbulent fluxes at the ocean-bottom interface, which can alter the concentration and depositional fluxes.</p> <p>&nbsp;</p><br> <p>  Last Modified: 06/08/2024<br> Modified by: Marco&nbsp;Tedesco</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Microplastics (MPs) are small particles derived from plastics from different origins and compositions. Due to their small size, low density and environmental persistence, all the plastic weve created on Earth still exists. These tiny bits of plastic can come from our clothing, facial exfoliants, and other products, or the breakdown of larger plastic items. They are everywhere, in the oceans and rivers, fish and soil, and even in the atmosphere. Plastic never biodegrades, it just breaks down into smaller pieces of plastic.      Despite studies that have found microplastics in pristine environments, little is known about their transport and deposition, either through the atmosphere or within the oceans and rivers. Moreover, little is known about the spatio-temporal variability of MPs and their depositional rates. Quantifying these processes is crucial to provide policymakers with necessary information to reduce the impact on human health associated with exposure to MPs. It is also important for developing and assessing models that can generate maps of depositional and transport rates and help isolate sources, understand processes, and eventually project the future distribution of MPs on our planet.      The objectives of our study were to analyze river and ocean core samples stored at the Lamont-Doherty Earth Observatory of Columbia University to quantify the vertical distribution of MP concentrations.      Our original plan was disrupted when the pandemic imposed lockdown on all activities at Lamont. The pandemic prevented us from purchasing the microscope as the seller was unable to provide the services. However, we continued to explore methods for assessing microplastic concentration in the samples. When activities resumed, we purchased a fluorescent microscope with financial resources identified through private donors and internal resources. We positioned the microscope in a clean room and made it available for data collection.      We identified suitable samples from the ocean core laboratory and extracted them for analysis, after removing biological material through heating at 60 degrees Celsius for 8 hours. We also sieved and further removed potential minerals that could be fluorescing, similar to microplastics. The images were then used to count the number of microplastics that were originally identified. Microplastics were visually characterized by their shape and size. Generally speaking, microplastics are shaped as filaments or relatively geometric shapes.      We performed measurements on five selected samples, which were longer than a meter. However, only the top 5-20 cm corresponded to the last 50-70 years, given the compaction. This made the cutting and sample selection more complicated. Samples at the top were made of a brittle material, so we decided to cut the samples in 5 cm intervals. Given the brittleness of the material, we were not always able to cut the sample precisely. In total, we considered 150 samples, 30 cuts per core. As mentioned, the samples were heated and sieved to remove minerals and biological material.      Despite all our efforts, the results we obtained did not show any significant relationship between microplastics and depth. We identified two main reasons for this: the data we obtained was very noisy, as confirmed by multiple measurements on samples from the same core and depth, and the intrinsic distribution of MP within the sample or in view of the turbulent fluxes at the ocean-bottom interface, which can alter the concentration and depositional fluxes.        Last Modified: 06/08/2024       Submitted by: MarcoTedesco]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

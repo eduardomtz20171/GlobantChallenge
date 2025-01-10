@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+<PO_EMAI>sgdewint@nsf.gov</PO_EMAI>
+<PO_PHON>7032922599</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist. The title of the project for this fellowship to Avery St Dizier is " Log-Concavity of Polynomials in Algebra, Geometry, and Combinatorics." The host institution for the fellowship is University of Illinois Urbana-Champaign, and the sponsoring scientist is Alexander Yong.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002079</AwardID>
+<Investigator>
+<FirstName>Avery</FirstName>
+<LastName>St Dizier</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Avery St Dizier</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000806683</NSF_ID>
+<StartDate>03/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[St Dizier, Avery]]></Name>
+<CityName>Ithaca</CityName>
+<ZipCode>14850</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois Urbana-Champaign]]></Name>
+<CityName>Urbana</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618012907</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The primary focus of the PI's research was combinatorics of Schubert varieties, especially related to Schubert and Grothendieck polynomials. Schubert polynomials are a basis of polynomials whose structure constants encode the number of intersections of linear spaces in general position. More specifically, they are a linear basis of the cohomology of the complete flag variety in complex space. Grothendieck polynomials are their K-theoretic analogues.</p> <p>In collaboration with Yong, the PI studied cohomology of Schubert varieties. This collaboration led to discovering a new sufficient condition for vanishing of Schubert structure constants derived from recent results on the support of Schubert polynomials, and proving minimality of a previously known generating set for the cohomology of a Schubert variety.</p> <p>In joint works with subsets of M&eacute;sz&aacute;ros, Setiabrata, Dreyer, and Hafner, the PI studied the support and degree of Grothendieck polynomials. These works lead to a generalized Weyl character formula for Grothendieck polynomials, in need of a geometric interpretation. Additionally gained was a description of Grothendieck polynomial degree in terms of Bruhat chains, and support in terms of bumpless pipe dreams. A conjectural description of support in terms of posets was also given.</p> <p>The PI involved undergraduate and graduate students in their research, and made all supporting programs and articles freely available online, including a Mathematica package for computing with Schubert and Grothendieck polynomials. The PI also co-organized the biweekly Algebra-Geometry-Combinatorics seminar, and a large 2023 summer school and conference on Schubert calculus aimed at bringing together senior and junior researchers in and around the field.</p><br> <p>  Last Modified: 07/29/2024<br> Modified by: Avery&nbsp;St Dizier</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The primary focus of the PI's research was combinatorics of Schubert varieties, especially related to Schubert and Grothendieck polynomials. Schubert polynomials are a basis of polynomials whose structure constants encode the number of intersections of linear spaces in general position. More specifically, they are a linear basis of the cohomology of the complete flag variety in complex space. Grothendieck polynomials are their K-theoretic analogues.   In collaboration with Yong, the PI studied cohomology of Schubert varieties. This collaboration led to discovering a new sufficient condition for vanishing of Schubert structure constants derived from recent results on the support of Schubert polynomials, and proving minimality of a previously known generating set for the cohomology of a Schubert variety.   In joint works with subsets of Mszros, Setiabrata, Dreyer, and Hafner, the PI studied the support and degree of Grothendieck polynomials. These works lead to a generalized Weyl character formula for Grothendieck polynomials, in need of a geometric interpretation. Additionally gained was a description of Grothendieck polynomial degree in terms of Bruhat chains, and support in terms of bumpless pipe dreams. A conjectural description of support in terms of posets was also given.   The PI involved undergraduate and graduate students in their research, and made all supporting programs and articles freely available online, including a Mathematica package for computing with Schubert and Grothendieck polynomials. The PI also co-organized the biweekly Algebra-Geometry-Combinatorics seminar, and a large 2023 summer school and conference on Schubert calculus aimed at bringing together senior and junior researchers in and around the field.     Last Modified: 07/29/2024       Submitted by: AverySt Dizier]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Equivariant Stable Stems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>221203.00</AwardTotalIntnAmount>
+<AwardAmount>221203</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+<PO_EMAI>snaik@nsf.gov</PO_EMAI>
+<PO_PHON>7032924876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Spheres are simple yet important objects of study in topology. One of the central questions of algebraic topology is the classification of all possible mappings of a high-dimensional sphere onto a sphere of lower dimension. It turns out that this classification of mappings of spheres has wide-ranging repercussions in geometry and in physics. Recently, this question has received attention in other contexts: when the spheres are considered in the realm of algebraic geometry, or when the spheres have specified symmetries which must be preserved by the mappings in question. More recently, greater understanding of how these various contexts impact each other has emerged. The research supported by this award will employ these newfound connections to expand the range in which these questions are understood, especially in the setting of spheres with a twofold symmetry. This project provides and funds research training for graduate students.&lt;br/&gt;&lt;br/&gt;The principal investigator will continue joint work with Dan Isaksen on computations of the motivic and C2-equivariant stable homotopy groups of spheres. The R-motivic computations are more approachable, and these determine a portion of the C2-equivariant stable homotopy groups. The main tools will be the rho-Bockstein spectral sequence and the Adams spectral sequence. Various techniques will be employed to run these spectral sequences, including the use of Massey products. The PI and collaborators will also investigate v1-periodicity in the R-motivic and C2-equivariant settings, producing finite complexes that support periodicity operators. This will lead to periodic families of elements in the stable homotopy groups of spheres in these contexts. In another direction, another collaboration will analyze additive power operations for equivariant cohomology theories.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003204</AwardID>
+<Investigator>
+<FirstName>Bertrand</FirstName>
+<LastName>Guillou</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bertrand J Guillou</PI_FULL_NAME>
+<EmailAddress><![CDATA[bertguillou@uky.edu]]></EmailAddress>
+<NSF_ID>000513968</NSF_ID>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Kentucky Research Foundation]]></Name>
+<CityName>LEXINGTON</CityName>
+<ZipCode>405260001</ZipCode>
+<PhoneNumber>8592579420</PhoneNumber>
+<StreetAddress><![CDATA[500 S LIMESTONE]]></StreetAddress>
+<StreetAddress2><![CDATA[109 KINKEAD HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KY06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H1HYA8Z1NTM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kentucky Research Foundtion]]></Name>
+<CityName>Lexington</CityName>
+<StateCode>KY</StateCode>
+<ZipCode>405260001</ZipCode>
+<StreetAddress><![CDATA[500 S Limestone 109 Kinkead Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KY06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~72507</FUND_OBLG>
+<FUND_OBLG>2021~73409</FUND_OBLG>
+<FUND_OBLG>2022~75287</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><br />Many important examples of topological spaces have a two-fold symmetry or more generally have an action of the group of order two, C_2. Prominent examples include spheres equipped with the antipodal action, spheres regarded as one-point compactifications of orthogonal representations, and complex manifolds, where the action is given by complex conjugation.<br /><br />The intellectual merit of this project was largely focused on C_2-equivariant stable homotopy theory and the closely related area of real motivic homotopy theory. The latter is built upon algebraic varieties defined over the real numbers, and the associated complex manifolds of complex points inherit C_2-actions. This construction, known as Betti realization, extends to transform R-motivic homotopy theory to C_2-equivariant homotopy theory. One reason this comparison is useful can be explained in the homology of a point in these two theories. The R-motivic homology of a point is a polynomial ring in two variables, which is a well-behaved algebraic object. In contrast, the C_2-equivariant homology of a point has the polynomial part, known as the "positive cone", and also a dual negative cone that is poorly behaved.<br /><br />The PI and his collaborators Belmont, Bhattacharya, Isaksen, and Li advanced understanding of C_2-equivariant homotopy theory by use of R-motivic homotopy theory. Specific accomplishments include:<br />1) With Belmont and Isaksen, a description of how closely Betti realization ties together R-motivic and C_2-equivariant homotopy groups, improving on previous work of Dugger and Isaksen<br />2) With Isaksen, the computation of C_2-equivariant stable homotopy groups in a larger range than had been previously studied, building upon R-motivic calculations of Belmont and Isaksen<br />3) With Bhattacharya and Li, the beginning of the study of periodic self-maps of finite complexes in R-motivic and C_2-equivariant homotopy theory<br />4) With Bhattacharya and Li, a description of how (Spanier-Whitehead) dualization in the R-motivic and C_2-equivariant contexts interacts with cohomology operations<br /><br />The grant had broader impact in the training of graduate students and postdocs. During the scope of this grant, the PI advised four PhD students and three postdocs. The PI lead a research team at an NSF-funded workshop at the University of Virginia in the summer of 2022. The PI gave an online minicourse on the slice filtration, via the electronic Computational Homotopy Theory network.<br /><br /></p><br> <p>  Last Modified: 11/27/2024<br> Modified by: Bertrand&nbsp;J&nbsp;Guillou</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Many important examples of topological spaces have a two-fold symmetry or more generally have an action of the group of order two, C_2. Prominent examples include spheres equipped with the antipodal action, spheres regarded as one-point compactifications of orthogonal representations, and complex manifolds, where the action is given by complex conjugation.  The intellectual merit of this project was largely focused on C_2-equivariant stable homotopy theory and the closely related area of real motivic homotopy theory. The latter is built upon algebraic varieties defined over the real numbers, and the associated complex manifolds of complex points inherit C_2-actions. This construction, known as Betti realization, extends to transform R-motivic homotopy theory to C_2-equivariant homotopy theory. One reason this comparison is useful can be explained in the homology of a point in these two theories. The R-motivic homology of a point is a polynomial ring in two variables, which is a well-behaved algebraic object. In contrast, the C_2-equivariant homology of a point has the polynomial part, known as the "positive cone", and also a dual negative cone that is poorly behaved.  The PI and his collaborators Belmont, Bhattacharya, Isaksen, and Li advanced understanding of C_2-equivariant homotopy theory by use of R-motivic homotopy theory. Specific accomplishments include: 1) With Belmont and Isaksen, a description of how closely Betti realization ties together R-motivic and C_2-equivariant homotopy groups, improving on previous work of Dugger and Isaksen 2) With Isaksen, the computation of C_2-equivariant stable homotopy groups in a larger range than had been previously studied, building upon R-motivic calculations of Belmont and Isaksen 3) With Bhattacharya and Li, the beginning of the study of periodic self-maps of finite complexes in R-motivic and C_2-equivariant homotopy theory 4) With Bhattacharya and Li, a description of how (Spanier-Whitehead) dualization in the R-motivic and C_2-equivariant contexts interacts with cohomology operations  The grant had broader impact in the training of graduate students and postdocs. During the scope of this grant, the PI advised four PhD students and three postdocs. The PI lead a research team at an NSF-funded workshop at the University of Virginia in the summer of 2022. The PI gave an online minicourse on the slice filtration, via the electronic Computational Homotopy Theory network.       Last Modified: 11/27/2024       Submitted by: BertrandJGuillou]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

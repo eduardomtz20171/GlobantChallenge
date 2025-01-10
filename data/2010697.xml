@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[COLLABORATIVE RESEARCH: Genomic and Morphological Consequences of Landscape-Level Hybridization between Wild and Domesticated Congeners]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>68348.00</AwardTotalIntnAmount>
+<AwardAmount>68348</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leslie J. Rissler</SignBlockName>
+<PO_EMAI>lrissler@nsf.gov</PO_EMAI>
+<PO_PHON>7032924628</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Domestication of wild animals was important in the evolution of human societies. However, traits that make animals suitable in domestic settings can make them poorly suited for life in the wild. The release of domesticated animals into the wild often results in widespread hybridization with their wild cousins (e.g., in fish, pigs, cows, ducks, plants), potentially introducing domesticated traits into wild populations. The consequences of such hybridization could include declines in abundance because of reduced survival and reproduction of wild populations. The mallard duck is one of the most recognized species in the world, and has been a primary source for many of today’s popular domestic duck breeds. Unfortunately, the intentional release of captive-reared mallards in North America over the last century has resulted in widespread hybridization with wild mallards, particularly in eastern North America. This project will examine the genetic and morphological qualities of today’s distinct North American mallard populations in order to understand how hybridization has affected the wild populations, and how it may affect the species' future viability in the wild. This project will contribute to the development of human resources at the undergraduate, graduate and post-doctoral levels. This work will also have implications for the management and conservation of this important game bird.&lt;br/&gt;The research team will investigate the propensity for genetic material to move during gene flow events between domesticated and wild mallards at a landscape level. They will apply a comprehensive set of molecular techniques to geographically broad species-wide sample sets from contemporary populations, and will extend genetic sampling 100 to 150 years into the past using ancient DNA approaches with museum specimens. Using 3D morphometric analysis of museum specimens, as well as feeding trails with live wild and domesticated mallards, they will examine how the movement of traits associated with domesticated birds (e.g., bill morphologies that affect feeding efficacy) into wild populations may affect the adaptability of wild populations. The researchers are set to address three broad aims: (1) Understanding the origins and timing of development of a domestic x wild hybrid swarm of mallards in North America by assessing molecular changes in wild mallards over approximately the last century, (2) Determining how the combination of gene flow with varying selective regimes (i.e., natural versus artificial selection) and demographic histories affect estimates of molecular diversity and divergence, by comparing the genomes of domestic and wild variants of the mallard, and (3) Understanding the potential importance of morphological traits for population viability, and whether domesticated traits are both increasingly prevalent and maladaptive in wild settings, by assessing morphological and foraging efficiency differences between domestic and wild variants of the mallard.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010697</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Davis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian Davis</PI_FULL_NAME>
+<EmailAddress><![CDATA[brian.davis@msstate.edu]]></EmailAddress>
+<NSF_ID>000711449</NSF_ID>
+<StartDate>07/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Mississippi State University]]></Name>
+<CityName>MISSISSIPPI STATE</CityName>
+<ZipCode>39762</ZipCode>
+<PhoneNumber>6623257404</PhoneNumber>
+<StreetAddress><![CDATA[245 BARR AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MS03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTXJM52SHKS7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MISSISSIPPI STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Mississippi State University]]></Name>
+<CityName>Mississippi State</CityName>
+<StateCode>MS</StateCode>
+<ZipCode>397629662</ZipCode>
+<StreetAddress><![CDATA[449 Hardy Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MS03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>112700</Code>
+<Text>Evolutionary Processes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~68348</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Our project entitled, Genomic and Morphological Consequences of Landscape-Level Hybridization between Wild and Domesticated Congeners, was a successful collaboration among three universities and the Forbes Biological Station in Havana, Illinois.</p>  <p>The project objectives were to study foraging capabilities and the morphology between two cohorts of ducks, wild mallards and those raised and released from captivity, otherwise known as game-farm mallards.&nbsp; The latter group is feared to be genetically and functionally inferior to their wild counterparts.&nbsp;</p>  <p>This project was a collaboration among 4 lead scientists and multiple graduate and undergraduate students at the four institutions. At Mississippi State University alone, Dr. Brian Davis supervised two undergraduate and two post-baccalaureate students working on the project, largely conducting feeding trials and managing daily operations in a large aviary.&nbsp;</p>  <p>We conducted our study at the captive waterfowl facility of the Forbes Biological Station (hereafter Forbes) in Havana, Illinois, May &ndash; August 2021 and February &ndash; June 2022, and at Pinola Conservancy (hereafter Pinola), Shreveport, Louisiana, March 2021 to May 2022. We collected and hatched eggs of wild mallards from different regions and purchased game-farm mallards from various breeders. We used 53 wild and 85 game-farm mallards in our study.</p>  <p>Once we acclimated ducks in captivity, we provided them trays that had a mixture of 80 g of clay and 180 ml of water to simulate wetland substrate, or something similar to mud where birds naturally forage. Foods fed to ducks included whole kernel corn (<em>Zea mays</em>), Japanese millet (<em>Echinochloa frumentacea</em>), lentils (<em>Lens culinaris</em>), or amaranth (<em>Amaranthus</em> spp.).&nbsp;We provided ducks 10 min to begin feeding and recorded individual ducks using GoPro Hero 4 cameras mounted to isolation cages to accurately determine the time each duck spent actively attempting to feed with their bill in the substrate (&plusmn; 1 sec).&nbsp;</p>  <p>When ducks attempted to feed, game-farm mallard females always consumed some food and game-farm males failed to intake food 20.5% of the time. Wild mallard females and males failed to consume food 58.3%, and 55.2% of the time, respectively. However, despite feeding more when compared to wild mallards, game-farm mallards, on average, consumed 59.3% fewer grams of food per second. Overall, we found that wild mallards ingested food at over twice the rate of game-farm mallards, which is consistent with the hypothesis that game-farm mallards are maladapted to obtain food from wetlands. It could be that the bills of the game-farm ducks (see below, Objective 2) were maladapted from living so long in captivity and led to poor foraging.&nbsp; this has consequences in the wild, as game-farm ducks have more difficulty sifting and swallowing very small seeds or aquatic invertebrates, which are both very nutritious.&nbsp;</p>  <p>Our second objective concerned the morphology (ie., body and bill shape differences between the two types of ducks).&nbsp; We measured various parts of the duck including their bill length, width, and height, total body length, wing and leg length, and the lamellae, or the "teeth" of ducks that help them strain food.&nbsp;&nbsp;</p>  <p>On average, game-farm Mallards had shorter and wider culmens, greater bill height, and longer bill nails than wild Mallards. Game-farm Mallards also had longer bodies, shorter wings, shorter heads, and longer tarsi than wild Mallards. The wing:body length ratio was less in game-farm than wild Mallards.&nbsp;Our results corroborated those from Europe whereby game-farm Mallards had shorter, wider, and taller bills than wild Mallards. Moreover, we detected that mean bill nail length and density of lamellae:culmen length of game-farm Mallards were greater than wild Mallards and most of the increase in lamellae occurred towards the front of the bill. Overall, game-farm Mallard bill morphology in our study resembled the morphology of waterfowl that peck or pick food items, i.e. goose-like, rather than strain food. We advocate that differences in morphology between wild and game-farm Mallards resulted from prolonged artificial selection in captivity that differ from natural selection pressures on wild Mallards. Such differences may limit the capacity of game-farm Mallards to adapt to regional environmental conditions, such as dynamic wetland environments.&nbsp;</p>  <p>The impact of our work should be considered highly influential. We have been able to confirm that game-farm mallards are less efficient foragers and morphologically more limited to wild counterparts. These results and patterns have created a massive opportunity to teach/inform other researchers, wetland managers, politicians, and the general public (e.g., waterfowl hunters) about the downfall of raise-and-release mallards, mostly for hunting purposes. This project has spawned ideas for future research. This research has been reported at scientific meetings, on podcasts, and frequently discussed at conferences by scientists, wildlife administrators, and regulators. Frankly, the "mileage" and interest generated by this project among the public and other professionals has perhaps been the most I have ever experienced in my own professional career.&nbsp; I now use the information in my own university classroom lectures.</p>  <p>&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/28/2024<br> Modified by: Brian&nbsp;Davis</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Our project entitled, Genomic and Morphological Consequences of Landscape-Level Hybridization between Wild and Domesticated Congeners, was a successful collaboration among three universities and the Forbes Biological Station in Havana, Illinois.    The project objectives were to study foraging capabilities and the morphology between two cohorts of ducks, wild mallards and those raised and released from captivity, otherwise known as game-farm mallards. The latter group is feared to be genetically and functionally inferior to their wild counterparts.    This project was a collaboration among 4 lead scientists and multiple graduate and undergraduate students at the four institutions. At Mississippi State University alone, Dr. Brian Davis supervised two undergraduate and two post-baccalaureate students working on the project, largely conducting feeding trials and managing daily operations in a large aviary.    We conducted our study at the captive waterfowl facility of the Forbes Biological Station (hereafter Forbes) in Havana, Illinois, May  August 2021 and February  June 2022, and at Pinola Conservancy (hereafter Pinola), Shreveport, Louisiana, March 2021 to May 2022. We collected and hatched eggs of wild mallards from different regions and purchased game-farm mallards from various breeders. We used 53 wild and 85 game-farm mallards in our study.    Once we acclimated ducks in captivity, we provided them trays that had a mixture of 80 g of clay and 180 ml of water to simulate wetland substrate, or something similar to mud where birds naturally forage. Foods fed to ducks included whole kernel corn (Zea mays), Japanese millet (Echinochloa frumentacea), lentils (Lens culinaris), or amaranth (Amaranthus spp.).We provided ducks 10 min to begin feeding and recorded individual ducks using GoPro Hero 4 cameras mounted to isolation cages to accurately determine the time each duck spent actively attempting to feed with their bill in the substrate ( 1 sec).    When ducks attempted to feed, game-farm mallard females always consumed some food and game-farm males failed to intake food 20.5% of the time. Wild mallard females and males failed to consume food 58.3%, and 55.2% of the time, respectively. However, despite feeding more when compared to wild mallards, game-farm mallards, on average, consumed 59.3% fewer grams of food per second. Overall, we found that wild mallards ingested food at over twice the rate of game-farm mallards, which is consistent with the hypothesis that game-farm mallards are maladapted to obtain food from wetlands. It could be that the bills of the game-farm ducks (see below, Objective 2) were maladapted from living so long in captivity and led to poor foraging. this has consequences in the wild, as game-farm ducks have more difficulty sifting and swallowing very small seeds or aquatic invertebrates, which are both very nutritious.    Our second objective concerned the morphology (ie., body and bill shape differences between the two types of ducks). We measured various parts of the duck including their bill length, width, and height, total body length, wing and leg length, and the lamellae, or the "teeth" of ducks that help them strain food.    On average, game-farm Mallards had shorter and wider culmens, greater bill height, and longer bill nails than wild Mallards. Game-farm Mallards also had longer bodies, shorter wings, shorter heads, and longer tarsi than wild Mallards. The wing:body length ratio was less in game-farm than wild Mallards.Our results corroborated those from Europe whereby game-farm Mallards had shorter, wider, and taller bills than wild Mallards. Moreover, we detected that mean bill nail length and density of lamellae:culmen length of game-farm Mallards were greater than wild Mallards and most of the increase in lamellae occurred towards the front of the bill. Overall, game-farm Mallard bill morphology in our study resembled the morphology of waterfowl that peck or pick food items, i.e. goose-like, rather than strain food. We advocate that differences in morphology between wild and game-farm Mallards resulted from prolonged artificial selection in captivity that differ from natural selection pressures on wild Mallards. Such differences may limit the capacity of game-farm Mallards to adapt to regional environmental conditions, such as dynamic wetland environments.    The impact of our work should be considered highly influential. We have been able to confirm that game-farm mallards are less efficient foragers and morphologically more limited to wild counterparts. These results and patterns have created a massive opportunity to teach/inform other researchers, wetland managers, politicians, and the general public (e.g., waterfowl hunters) about the downfall of raise-and-release mallards, mostly for hunting purposes. This project has spawned ideas for future research. This research has been reported at scientific meetings, on podcasts, and frequently discussed at conferences by scientists, wildlife administrators, and regulators. Frankly, the "mileage" and interest generated by this project among the public and other professionals has perhaps been the most I have ever experienced in my own professional career. I now use the information in my own university classroom lectures.             Last Modified: 11/28/2024       Submitted by: BrianDavis]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

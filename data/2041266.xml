@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral dissertation research: Evoked Category Representations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>19200.00</AwardTotalIntnAmount>
+<AwardAmount>19200</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rachel M. Theodore</SignBlockName>
+<PO_EMAI>rtheodor@nsf.gov</PO_EMAI>
+<PO_PHON>7032924770</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Humans understand speech by mapping fine-grained acoustic details to phonemes – the smallest units used to distinguish words – stored in long-term memory. A fundamental issue regarding this process is the nature of the phoneme. In classical generative phonology, a phoneme is a combination of abstract and discretized features, devoid of acoustic details. On this view, speech perception is a process of sorting gradient information into non-gradient categories. However, evidence has emerged that speakers are sensitive to minute and gradient acoustic properties of speech sounds when making decisions about what they hear, which suggests that the phoneme itself may encapsulate acoustic details and their probability distributions that can be reshaped by speakers’ experience. This view assumes a more direct relationship between the speech sound and the phoneme.  The current project will conduct experiments measuring brain activity designed to test the predictions of both models, facilitating an understanding of this core mechanism in speech perception.&lt;br/&gt;&lt;br/&gt;The experimental methodology utilizes event-related brain potentials which measure automatic sound change detection in auditory cortex via oddball paradigms. One experiment will compare a category to a token from the same category: here, a change detection response will require that the category encodes physical stimulus properties. A second experiment will manipulate two different statistical distributions of the tokens that lead to a category representation. If the oddball response is modulated by the statistical information in the stimuli that gave rise to the "temporary" category, then the brain must be able to encode this information in category representations. If no sensitivity to acoustics or statistics is observed, then it must be the case that phoneme category representations do not contain gradient acoustic information. The findings can potentially increase the understanding of how categories are formed in human cognition.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/24/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041266</AwardID>
+<Investigator>
+<FirstName>ARILD</FirstName>
+<LastName>HESTVIK</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>ARILD G HESTVIK</PI_FULL_NAME>
+<EmailAddress><![CDATA[hestvik@udel.edu]]></EmailAddress>
+<NSF_ID>000534777</NSF_ID>
+<StartDate>02/24/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chao</FirstName>
+<LastName>Han</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chao Han</PI_FULL_NAME>
+<EmailAddress><![CDATA[hanchao@udel.edu]]></EmailAddress>
+<NSF_ID>000818299</NSF_ID>
+<StartDate>02/24/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197131324</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress><![CDATA[550 S COLLEGE AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware,Dept of Linguistics and Cognitive Science]]></Name>
+<CityName>Newark</CityName>
+<StateCode>DE</StateCode>
+<ZipCode>197160099</ZipCode>
+<StreetAddress><![CDATA[125 East Main Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>837400</Code>
+<Text>DDRI Linguistics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~19200</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>This project investigates the nature of phoneme representation. In classical generative phonology, a phoneme representation is discrete, symbolic and abstract, consisting only of a matrix of distinctive features, thus excluding analog acoustic information or lexically redundant phonetic information. However, recent studies have proposed that phonological representations encompass fine-grained acoustic details (McMurray, 2022; Smolensky et al., 2014), arguing that the mental representation of a phoneme is not a discrete symbol but must contains information about the likely acoustic realizations of that phoneme.</span></p> <p><span>We aimed to measure the nature of phonemes through the lens of the varying standards paradigm of MMN studies of speech sound categories. Previous studies (Phillips et al., 2000) have implied that if the standards are varying speech sounds belonging to the same phoneme category, then the MMN that is then generated is a result of &ldquo;accessing&rdquo; the phoneme for the purpose of generating a mismatch response. In practical terms, this can be modeled as if the abstract, symbolic phoneme itself is the memory trace. If this is the case, then the nature of that phoneme can be assessed by examining what kind of contrasts the memory trace is sensitive to and generates a mismatch response for. This is the model that has been employed by a line of research probing for the amount of feature information encoded in phonemes, and has produced evidence for asymmetrically underspecified phonemes.</span></p> <p><span>A central prediction of this model, namely that varying standards engender a phoneme memory trace, is that within-phoneme category allophones should not elicit an MMN, for precisely the same reason that underspecified phonemes lead to a reduced or absent MMN when contrasted with specified phonemes.</span></p> <p><span>The project tested this prediction with three experiments. We found that the varying standards did elicit an MMN to a within-category contrast, contradicting this prediction, and leading to the conclusion that varying the standards does not preclude encoding of phonetic statistics associated with the standards.</span></p> <p><span>Experiment 1 - Memory Trace Includes Acoustic Details:<br />In our first experiment, we presented subjects with speech sounds varying in acoustic details but all falling within the same phoneme category /t/. If a phoneme representation is abstract and excludes acoustic details, no MMN should be found. However, we observed an MMN, indicating that acoustic details were still encoded in the memory trace.</span></p> <p><span>Experiment 2 - Source of Acoustic Details in Memory Trace:<br />Our second experiment probed the origin of the acoustic/phonetic effects found in Experiment 1, asking whether they stemmed from long-term memory of the empirical VOT realizations of the phoneme /t/ or from the acoustic properties of the presented stimuli. We found that the MMN amplitude did not differ depending on the statistical structure of the presented stimuli, suggesting that the observed acoustic details in the memory trace were informed by the knowledge of the empirical acoustics of a phoneme. However, the lack of an effect of the two different standard deviations of standards could be due to lack of power.</span></p> <p><span>Experiment 3 - Effect of Presented Stimuli:<br /></span><span lang="EN-US">As an alternative to increasing power in Exp2, we decided to test sensitivity to standard statistics using an alternative. We presented oddball sounds that function as outliers of the presented stimuli but as prototypical acoustic realizations of /t/. If the acoustic details were purely informed by the long-term memory representations of the VOT statistics of /t/, the prototypical oddball should not elicit a novelty detection response &ndash; i.e., no MMN. However, an MMN was detected, suggesting that the brain did treat the oddball sounds as outliers relative to the statistics of the presented standards, indicating that the brain tracked the statistical structure of the presented stimuli.</span></p> <p><span>On balance, these somewhat contradictory results suggest that the MMN mechanism tracks the acoustic statistics of the presented standards. These findings casts doubt on the assumption that varying standards can provide an exclusive measure of the abstract, discrete phoneme. That is, Phillips et al (2000) may have measured the effect of a phoneme influencing the MMN, but our results show that the method does not preclude the additional encoding of the phonetic statistics on the presented standards, contradicting their conclusion from their &ldquo;phonetic&rdquo; experiment.</span></p><br> <p>  Last Modified: 06/19/2024<br> Modified by: Chao&nbsp;Han</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project investigates the nature of phoneme representation. In classical generative phonology, a phoneme representation is discrete, symbolic and abstract, consisting only of a matrix of distinctive features, thus excluding analog acoustic information or lexically redundant phonetic information. However, recent studies have proposed that phonological representations encompass fine-grained acoustic details (McMurray, 2022; Smolensky et al., 2014), arguing that the mental representation of a phoneme is not a discrete symbol but must contains information about the likely acoustic realizations of that phoneme.   We aimed to measure the nature of phonemes through the lens of the varying standards paradigm of MMN studies of speech sound categories. Previous studies (Phillips et al., 2000) have implied that if the standards are varying speech sounds belonging to the same phoneme category, then the MMN that is then generated is a result of accessing the phoneme for the purpose of generating a mismatch response. In practical terms, this can be modeled as if the abstract, symbolic phoneme itself is the memory trace. If this is the case, then the nature of that phoneme can be assessed by examining what kind of contrasts the memory trace is sensitive to and generates a mismatch response for. This is the model that has been employed by a line of research probing for the amount of feature information encoded in phonemes, and has produced evidence for asymmetrically underspecified phonemes.   A central prediction of this model, namely that varying standards engender a phoneme memory trace, is that within-phoneme category allophones should not elicit an MMN, for precisely the same reason that underspecified phonemes lead to a reduced or absent MMN when contrasted with specified phonemes.   The project tested this prediction with three experiments. We found that the varying standards did elicit an MMN to a within-category contrast, contradicting this prediction, and leading to the conclusion that varying the standards does not preclude encoding of phonetic statistics associated with the standards.   Experiment 1 - Memory Trace Includes Acoustic Details: In our first experiment, we presented subjects with speech sounds varying in acoustic details but all falling within the same phoneme category /t/. If a phoneme representation is abstract and excludes acoustic details, no MMN should be found. However, we observed an MMN, indicating that acoustic details were still encoded in the memory trace.   Experiment 2 - Source of Acoustic Details in Memory Trace: Our second experiment probed the origin of the acoustic/phonetic effects found in Experiment 1, asking whether they stemmed from long-term memory of the empirical VOT realizations of the phoneme /t/ or from the acoustic properties of the presented stimuli. We found that the MMN amplitude did not differ depending on the statistical structure of the presented stimuli, suggesting that the observed acoustic details in the memory trace were informed by the knowledge of the empirical acoustics of a phoneme. However, the lack of an effect of the two different standard deviations of standards could be due to lack of power.   Experiment 3 - Effect of Presented Stimuli: As an alternative to increasing power in Exp2, we decided to test sensitivity to standard statistics using an alternative. We presented oddball sounds that function as outliers of the presented stimuli but as prototypical acoustic realizations of /t/. If the acoustic details were purely informed by the long-term memory representations of the VOT statistics of /t/, the prototypical oddball should not elicit a novelty detection response  i.e., no MMN. However, an MMN was detected, suggesting that the brain did treat the oddball sounds as outliers relative to the statistics of the presented standards, indicating that the brain tracked the statistical structure of the presented stimuli.   On balance, these somewhat contradictory results suggest that the MMN mechanism tracks the acoustic statistics of the presented standards. These findings casts doubt on the assumption that varying standards can provide an exclusive measure of the abstract, discrete phoneme. That is, Phillips et al (2000) may have measured the effect of a phoneme influencing the MMN, but our results show that the method does not preclude the additional encoding of the phonetic statistics on the presented standards, contradicting their conclusion from their phonetic experiment.     Last Modified: 06/19/2024       Submitted by: ChaoHan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

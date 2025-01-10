@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Gold Reagents for Protein-Polymer Conjugate Synthesis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>510660.00</AwardTotalIntnAmount>
+<AwardAmount>535395</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomislav Pintauer</SignBlockName>
+<PO_EMAI>tompinta@nsf.gov</PO_EMAI>
+<PO_PHON>7032927168</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In this project funded by the Macromolecular, Supramolecular, and Nanochemistry Program in the Division of Chemistry, Professors Heather Maynard, Alexander Spokoyn, and Kendall Houk of the Department of Chemistry and Biochemistry at University of California-Los Angeles are developing gold chemistries to attach the strands of artificial polymers to naturally occurring proteins and peptides.  The attachment of synthetic polymers to proteins and peptides create desirable properties in the biomolecules.  Applications of these novel biomaterials include use as therapeutic agents with improved stability or solubility.  This project has the potential to advance knowledge for commercial healthcare applications.  The broader impacts of this research include increasing the number of students, particularly female and underrepresented minorities, with doctoral degrees in chemistry.  Other efforts include outreach to girls by working with the Los Angeles Brownie and Junior Girl Scout Troops and the development of a program for Girl Scouts called Curieosity.  Girls already interested in STEM are provided with mentorship and networking opportunities through the Mayor of Los Angeles’ program WiSTEM.&lt;br/&gt;&lt;br/&gt;This research is focused on developing gold reagents to synthesize polymer-protein conjugates.  Organometallic gold(III) reagents are optimized using a combination of theory and experiment to understand the mechanism of cysteine arylation.  Ligand design expands the use of these operationally-simple organometallic reagents in the synthesis of protein-polymer conjugates in aqueous solutions.  These reactions are carried out by synthesizing protein and peptide-polymer conjugates by both “grafting to” and “grafting from” methods.  Furthermore, non-native amino acid genetic encoding techniques are examined to place gold reagents at the protein surface for further modification with thiol-end-functionalized polymers.  This research has the potential to develop new and highly efficient synthetic methodologies to prepare polymer-protein conjugates.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/17/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003946</AwardID>
+<Investigator>
+<FirstName>Heather</FirstName>
+<LastName>Maynard</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Heather D Maynard</PI_FULL_NAME>
+<EmailAddress><![CDATA[maynard@chem.ucla.edu]]></EmailAddress>
+<NSF_ID>000148757</NSF_ID>
+<StartDate>05/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244200</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California, Los Angeles]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951569</ZipCode>
+<StreetAddress><![CDATA[607 Charles E Young Dr East]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688500</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~510660</FUND_OBLG>
+<FUND_OBLG>2023~24735</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Medicines that are made out of proteins are important, but typically short lived in the human body.&nbsp;&nbsp;This translates to patients needing to have many injections.&nbsp;&nbsp;One way to increase the lifetime of those medicines so that patients have to have fewer injections is to attach polymer chains to them to make what are called protein-polymer conjugates.&nbsp;&nbsp;The polymer chains cause the medicine to last longer in the body.&nbsp;&nbsp;In this NSF funded research, a way to make these protein-polymer conjugates more efficiently and faster with products that are easier to purify was created.&nbsp;&nbsp;The intellectual merit of the research project was to develop a way to prepare protein-polymer conjugates using gold complexes.&nbsp;&nbsp;The reactions were shown to be very fast and efficient.&nbsp;&nbsp;The gold complexes could be changed to make the reaction slower or faster.&nbsp;&nbsp;It was demonstrated that the polymer attached only to the desired and predicted place on the protein.&nbsp;&nbsp;This work is useful fundamentally for chemists, and also for engineers and researchers in the medical field.&nbsp;&nbsp;The broader impacts of the research are important because efficient ways to make protein-polymer conjugates could help industry prepare medicines that last longer in the human body.&nbsp;&nbsp;Furthermore, four graduate students and one undergraduate researcher were trained how to conduct this chemistry.&nbsp;&nbsp;Four of the students are female and one is from an underrepresented group.&nbsp;&nbsp;Three of the four already obtained their PhD degrees, two going to start up companies and one to be a teacher at a community college.&nbsp;&nbsp;All of them are utilizing the skills they learned while undertaking the NSF funded research.&nbsp;&nbsp;The undergraduate student successfully transitioned to graduate school.&nbsp;&nbsp;Furthermore, the research was discussed with local community college students, many of whom are from underrepresented groups. In addition, the students help run a booth at large outreach events for K-12 students.&nbsp;&nbsp;Thus, funding of this research has helped to augment and diversify the chemical pipeline. &nbsp;</p><br> <p>  Last Modified: 11/07/2024<br> Modified by: Heather&nbsp;D&nbsp;Maynard</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Medicines that are made out of proteins are important, but typically short lived in the human body.This translates to patients needing to have many injections.One way to increase the lifetime of those medicines so that patients have to have fewer injections is to attach polymer chains to them to make what are called protein-polymer conjugates.The polymer chains cause the medicine to last longer in the body.In this NSF funded research, a way to make these protein-polymer conjugates more efficiently and faster with products that are easier to purify was created.The intellectual merit of the research project was to develop a way to prepare protein-polymer conjugates using gold complexes.The reactions were shown to be very fast and efficient.The gold complexes could be changed to make the reaction slower or faster.It was demonstrated that the polymer attached only to the desired and predicted place on the protein.This work is useful fundamentally for chemists, and also for engineers and researchers in the medical field.The broader impacts of the research are important because efficient ways to make protein-polymer conjugates could help industry prepare medicines that last longer in the human body.Furthermore, four graduate students and one undergraduate researcher were trained how to conduct this chemistry.Four of the students are female and one is from an underrepresented group.Three of the four already obtained their PhD degrees, two going to start up companies and one to be a teacher at a community college.All of them are utilizing the skills they learned while undertaking the NSF funded research.The undergraduate student successfully transitioned to graduate school.Furthermore, the research was discussed with local community college students, many of whom are from underrepresented groups. In addition, the students help run a booth at large outreach events for K-12 students.Thus, funding of this research has helped to augment and diversify the chemical pipeline.      Last Modified: 11/07/2024       Submitted by: HeatherDMaynard]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SaTC: TTP: Medium: Securing Python's Software Supply Chain]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>800000.00</AwardTotalIntnAmount>
+<AwardAmount>800000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel F. Massey</SignBlockName>
+<PO_EMAI>dmassey@nsf.gov</PO_EMAI>
+<PO_PHON>7032925147</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Creating and distributing software written in Python, in a secure manner, is surprisingly difficult. And as many recent incidents demonstrate, the security of this software chain is dramatically vulnerable. Right now, in nearly all Python packaging and distribution tools, there are no mechanisms in place for someone who downloads software to understand whether a malicious party has not inserted or removed code, or if the code was even written by the right developers! This work will for the first time capture metadata about the steps of the Python software supply chain systematically. This project will carry information between the steps of the chain in a way that an external party can verify author signing and repository signing of packages.  This project will also be breaking ground for researchers and developers who want to improve how other interpreted languages handle managing dependencies. The project's impacts are particularly strong in academia, science, and industry, where Python is the most widely used programming language; millions of users will be more protected against a variety of attacks.&lt;br/&gt;&lt;br/&gt;This project transitions two security mechanisms -- backtracking dependency resolution and The Update Framework (TUF) -- into practical use in the core Python infrastructure. Backtracking dependency resolution ensures that users get understandable package dependency installation, even in the face of attacks or missing metadata. TUF ensures that even a compromise of the major package infrastructure will have severely limited impact on clients. Together, the resolver and TUF work will ensure that important research transitions into substantial security improvements for all Python software, and will positively impact millions of developers and many more users.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/17/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2054692</AwardID>
+<Investigator>
+<FirstName>Justin</FirstName>
+<LastName>Cappos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Justin Cappos</PI_FULL_NAME>
+<EmailAddress><![CDATA[jcappos@nyu.edu]]></EmailAddress>
+<NSF_ID>000600621</NSF_ID>
+<StartDate>03/17/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 Washington Square S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~800000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project improved the state of security for Python, one of the most widely used programming languages.&nbsp; Our efforts make certain types of attack on the Python community much harder to launch.&nbsp; We helped to reduce the likelihood of certain attacks related to dependency confusion.&nbsp; As a result, this addresses many attacks which involve causing users to install an incorrect or incompatible piece of software.&nbsp; As a result, developers are more likely to create correct, stable software.</p> <p>&nbsp;</p> <p>Furthermore, we also helped not only the Python community, but several other large communities (such as Ruby and Github) add support for a system called TUF (The Update Framework) which makes a hack of them less harmful to users.&nbsp; TUF is already used on millions of devices to protect them from software repository hacks.&nbsp; The deployment in the ecosystems can potentailly reduce the harm to millions of devices in the case of an incident.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>All of the work here has been done in an open manner, with participants from other companies and organzations freely contributing.&nbsp; This means that many efforts had impacts and effects well beyond our core team.&nbsp; Our work is hosted under open source organizations and have a majority of leadership from outside our core team.&nbsp; We are confident these communities will continue to thrive and improve software security after the end of this award period.</p><br> <p>  Last Modified: 07/25/2024<br> Modified by: Justin&nbsp;Cappos</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project improved the state of security for Python, one of the most widely used programming languages. Our efforts make certain types of attack on the Python community much harder to launch. We helped to reduce the likelihood of certain attacks related to dependency confusion. As a result, this addresses many attacks which involve causing users to install an incorrect or incompatible piece of software. As a result, developers are more likely to create correct, stable software.      Furthermore, we also helped not only the Python community, but several other large communities (such as Ruby and Github) add support for a system called TUF (The Update Framework) which makes a hack of them less harmful to users. TUF is already used on millions of devices to protect them from software repository hacks. The deployment in the ecosystems can potentailly reduce the harm to millions of devices in the case of an incident.      All of the work here has been done in an open manner, with participants from other companies and organzations freely contributing. This means that many efforts had impacts and effects well beyond our core team. Our work is hosted under open source organizations and have a majority of leadership from outside our core team. We are confident these communities will continue to thrive and improve software security after the end of this award period.     Last Modified: 07/25/2024       Submitted by: JustinCappos]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

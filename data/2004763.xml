@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:Frameworks: Basic ALgebra LIbraries for Sustainable Technology with Interdisciplinary Collaboration (BALLISTIC)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>611758.00</AwardTotalIntnAmount>
+<AwardAmount>611758</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sheikh Ghafoor</SignBlockName>
+<PO_EMAI>sghafoor@nsf.gov</PO_EMAI>
+<PO_PHON>7032927116</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Scientific software libraries have long provided a large and growing resource for high-quality, reusable software components upon which applications from science and engineering can be rapidly constructed — with improved robustness, portability, and sustainability. For this, a team of researchers from four collaborating organizations proposed to develop BALLISTIC (Basic ALgebra Libraries for Sustainable Technology with Interdisciplinary Collaboration). The BALLISTIC project, through the leading-edge research it channels into its software deliverables, will lead to the introduction of tools that will simplify the transition to the next generation of extreme-scale computer architectures. The main impact of the project will be to develop, push, and deploy software into the scientific community to make it competitive on a world-wide scale and to contribute to standardization efforts in the area. BALLISTIC has the potential to become the community standard for dense linear algebra and be adopted and/or supported by a large community of users, computing centers, and High-Performance Computing (HPC) vendors. Learning to use numerical libraries is a basic part of the education of a computational scientist or engineer in many fields and at many academic institutions. BALLISTIC will have a correspondingly large impact on the research and education community, government laboratories, and private industry and support national efforts to build a workforce capable of employing state of the art tools in pursuit of science and engineering discoveries.&lt;br/&gt;&lt;br/&gt;The goal of BALLISTIC is to create a layered package of software components that is capable of running at every level of the platform deployment pyramid and achieves three complementary objectives: (1) deliver seamless access to the most up-to-date algorithms, numerics, and performance via familiar Sca/LAPACK interfaces, wherever possible; (2) make advanced algorithms, numerics, and performance capabilities available through new interface extensions, wherever necessary; and (3) provide a well-engineered conduit through which new discoveries at the frontiers of research in these areas can be channeled as quickly as possible to all the applications from science and engineering communities that depend on high-performance linear algebra libraries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004763</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Demmel</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James W Demmel</PI_FULL_NAME>
+<EmailAddress><![CDATA[demmel@cs.berkeley.edu]]></EmailAddress>
+<NSF_ID>000207659</NSF_ID>
+<StartDate>05/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>947201770</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>800400</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7925</Code>
+<Text>LARGE PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~611758</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Linear algebra, including solving systems of linear equations, least squares problems, computing eigenvalues and eigenvectors, and with many variations, is at the core of computational science and engineering, and more recently machine learning. As a result, there are many scientists and engineers who depend on fast and reliable software libraries to solve these ubiquitous problems. Our team is responsible for maintaining and improving the most widely used libraries for linear algebra involving dense matrices, including the BLAS (Basic Linear Algebra Subroutines for basic operations like matrix multiplication), LAPACK (Linear Algebra Package, originally for sequential computers, and the basis of the following libraries), LAPACK (templated LAPACK, a C++ version allowing more general data types), ScaLAPACK (Scalable LAPACK, the first version for distributed memory parallel computers), PLASMA (Parallel Linear Algebra Software for Multicore Architectures), MAGMA (Matrix Algebra on GPU and Multi-core Architectures), and SLATE (Software for Linear Algebra Targeting Exascale, a modern version of ScaLAPACK). As the names suggest, these libraries must continuously evolve as the underlying hardware changes, and as new algorithms emerge to exploit these new resources. Our team has been responsible for these libraries for many years, and over the duration of this project, have made a number of significant improvements, of which we highlight those to which co-PI Demmel and his team at UC Berkeley made significant contributions.</p> <p>&nbsp;</p> <p>Improved floating point exception handling. A floating point exception occurs when an operation overflows (the result becomes too large to represent), or the result cannot be mathematically defined (eg 0/0, sqrt(-1), etc), or related situations. The IEEE 754 Floating Point Standard defines what the underlying computer arithmetic should return in cases like these (Inf = Infinity or NaN = Not-a-Number), but it is up to software designers what to do when this occurs. There are already examples of airplane and car crashes caused by mishandled exceptions, so as we become increasingly dependent on cyberphysical systems and other critical applications, which in turn use linear algebra, it becomes more important to make sure that our libraries handle Infs and NaNs consistently, whether provided as inputs or created during execution. In a user survey we conducted of LAPACK users, 67% of the respondents said that handling exceptions was either important or very important. We began by examining the BLAS and LAPACK carefully,&nbsp;&nbsp;discovering multiple decades-old inconsistencies, and designed a set of &ldquo;consistency principles&rdquo; to improve their implementations, which is ongoing work. This work involved all the co-PIs, and was led by co-PI Demmel.</p> <p>&nbsp;</p> <p>Randomized Numerical Linear Algebra (RNLA). One of the biggest changes in numerical linear algebra in recent decades is the introduction of RNLA, where one replaces the (large) input matrix by a smaller &ldquo;random projection&rdquo;, and solves the smaller problem to get an answer to the original problem, much faster than using a conventional algorithm on the original large problem. RNLA algorithms exist for a variety of problems, including least squares, low-rank approximation, and others. Depending on the problem and algorithm, the answer may be an approximation of the true solution, or nearly as accurate as a conventional algorithm. The literature of proposed algorithms and their accuracy analyses is large and growing, so we began by doing a comprehensive survey to determine the best and most mature algorithms worth including in a new library we call Randomized LAPACK, or RandLAPACK. We have a draft 200 page book describing the design of RandLAPACK, and are continuing to work on its implementation. We also determined that we needed a new version of the BLAS, called RandBLAS, which contain the BLAS-like operations that implement the random projections we need, eg multiplication by different kinds of random matrices. Depending on the kinds of random matrices, matrix multiplication by them can be much faster than the conventional BLAS, justifying the definition of this new RandBLAS library, which like its namesake, should eventually be provided in highly optimized versions by vendors. This work was co-lead by co-PIs Demmel and Mahoney.</p> <p>&nbsp;</p> <p>New LAPACK functionality. We highlight 3 new routines developed at UC Berkeley, providing either new or faster functionality. Truncated QRCP (GEQP3RK, released in LAPACK 3.12.0) provides a potentially much faster implementation of QR factorization with column pivoting, which is already in LAPACK and widely used to compute low-rank matrix factorizations. The speedup comes from stopping early, when the norm of the trailing submatrix falls below a user-provided threshold. GELST (in LAPACK 3.11.0) is a faster version of the existing GELS routine for solving least squares problems. It is faster because it avoids computing the blocked Householder format of the orthogonal Q factor more than once. Householder Reconstruction routine ORHR (in LAPACK 3.9.0 and 3.10.0) allows one to efficiently recompute the standard representation of the Q factor from QR decomposition, after using the much faster TSQR algorithm, which produces a different data structure.</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/29/2024<br> Modified by: James&nbsp;W&nbsp;Demmel</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Linear algebra, including solving systems of linear equations, least squares problems, computing eigenvalues and eigenvectors, and with many variations, is at the core of computational science and engineering, and more recently machine learning. As a result, there are many scientists and engineers who depend on fast and reliable software libraries to solve these ubiquitous problems. Our team is responsible for maintaining and improving the most widely used libraries for linear algebra involving dense matrices, including the BLAS (Basic Linear Algebra Subroutines for basic operations like matrix multiplication), LAPACK (Linear Algebra Package, originally for sequential computers, and the basis of the following libraries), LAPACK (templated LAPACK, a C++ version allowing more general data types), ScaLAPACK (Scalable LAPACK, the first version for distributed memory parallel computers), PLASMA (Parallel Linear Algebra Software for Multicore Architectures), MAGMA (Matrix Algebra on GPU and Multi-core Architectures), and SLATE (Software for Linear Algebra Targeting Exascale, a modern version of ScaLAPACK). As the names suggest, these libraries must continuously evolve as the underlying hardware changes, and as new algorithms emerge to exploit these new resources. Our team has been responsible for these libraries for many years, and over the duration of this project, have made a number of significant improvements, of which we highlight those to which co-PI Demmel and his team at UC Berkeley made significant contributions.      Improved floating point exception handling. A floating point exception occurs when an operation overflows (the result becomes too large to represent), or the result cannot be mathematically defined (eg 0/0, sqrt(-1), etc), or related situations. The IEEE 754 Floating Point Standard defines what the underlying computer arithmetic should return in cases like these (Inf = Infinity or NaN = Not-a-Number), but it is up to software designers what to do when this occurs. There are already examples of airplane and car crashes caused by mishandled exceptions, so as we become increasingly dependent on cyberphysical systems and other critical applications, which in turn use linear algebra, it becomes more important to make sure that our libraries handle Infs and NaNs consistently, whether provided as inputs or created during execution. In a user survey we conducted of LAPACK users, 67% of the respondents said that handling exceptions was either important or very important. We began by examining the BLAS and LAPACK carefully,discovering multiple decades-old inconsistencies, and designed a set of consistency principles to improve their implementations, which is ongoing work. This work involved all the co-PIs, and was led by co-PI Demmel.      Randomized Numerical Linear Algebra (RNLA). One of the biggest changes in numerical linear algebra in recent decades is the introduction of RNLA, where one replaces the (large) input matrix by a smaller random projection, and solves the smaller problem to get an answer to the original problem, much faster than using a conventional algorithm on the original large problem. RNLA algorithms exist for a variety of problems, including least squares, low-rank approximation, and others. Depending on the problem and algorithm, the answer may be an approximation of the true solution, or nearly as accurate as a conventional algorithm. The literature of proposed algorithms and their accuracy analyses is large and growing, so we began by doing a comprehensive survey to determine the best and most mature algorithms worth including in a new library we call Randomized LAPACK, or RandLAPACK. We have a draft 200 page book describing the design of RandLAPACK, and are continuing to work on its implementation. We also determined that we needed a new version of the BLAS, called RandBLAS, which contain the BLAS-like operations that implement the random projections we need, eg multiplication by different kinds of random matrices. Depending on the kinds of random matrices, matrix multiplication by them can be much faster than the conventional BLAS, justifying the definition of this new RandBLAS library, which like its namesake, should eventually be provided in highly optimized versions by vendors. This work was co-lead by co-PIs Demmel and Mahoney.      New LAPACK functionality. We highlight 3 new routines developed at UC Berkeley, providing either new or faster functionality. Truncated QRCP (GEQP3RK, released in LAPACK 3.12.0) provides a potentially much faster implementation of QR factorization with column pivoting, which is already in LAPACK and widely used to compute low-rank matrix factorizations. The speedup comes from stopping early, when the norm of the trailing submatrix falls below a user-provided threshold. GELST (in LAPACK 3.11.0) is a faster version of the existing GELS routine for solving least squares problems. It is faster because it avoids computing the blocked Householder format of the orthogonal Q factor more than once. Householder Reconstruction routine ORHR (in LAPACK 3.9.0 and 3.10.0) allows one to efficiently recompute the standard representation of the Q factor from QR decomposition, after using the much faster TSQR algorithm, which produces a different data structure.        Last Modified: 09/29/2024       Submitted by: JamesWDemmel]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

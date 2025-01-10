@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Preparing Skilled Technicians in Geographical Information Systems for Agricultural and Land Management Fields]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>299635.00</AwardTotalIntnAmount>
+<AwardAmount>299635</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith Sverdrup</SignBlockName>
+<PO_EMAI>ksverdru@nsf.gov</PO_EMAI>
+<PO_PHON>7032924671</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Technological innovations and advancements in geographic information systems (GIS) enable better management of land resources. For example, GIS-based agricultural practices enable farmers to increase production and reduce costs by providing tools for monitoring soil properties and crop health. GIS technologies are also used by public land managers to track invasive species and to plan maintenance activities such as controlled burns. The emerging applications of GIS technologies in agroindustry and land management has resulted in the need for technicians with a variety of GIS skills such as ArcGIS, remote data collection, and spatial data presentation. This project at the Cossatot Community College of the University of Arkansas intends to address the need for GIS-trained technicians in southwest Arkansas.  This area is dominated by farmland, interspersed with local, state, and federal public lands. &lt;br/&gt;&lt;br/&gt;Baseline surveys of regional employers indicated that their employees require training in GIS skills, which they use daily on the job.  The employers also indicated that they would give hiring priority to individuals with GIS training.  To meet this workforce need, the project team and faculty will work with an industry advisory board to develop a new Introduction to GIS Technology lab course. This board will also help to design experiential learning opportunities in GIS, including internships with local industry.  The project will provide professional development to help faculty incorporate GIS activities into their teaching, including novice, advanced, and expert GIS skill applications. The project will also create two new courses in GIS and establish a new Certificate of Proficiency in GIS Technology.  UA Cossatot is a Hispanic Service Institution.  Consequently, the project plans to increase participation of Hispanic students in GIS programs by supporting bilingual career coaches and faculty professional development regarding strategies to support diverse students. The project will develop a website to highlight student internships, job shadowing, and career opportunities that require GIS training. It is expected that this model can be adopted and adapted by other community colleges in areas with similar workforce needs. The assessment and evaluation will inform stakeholders in education, agriculture, and the public. This project is funded by the Advanced Technological Education program that focuses on the education of technicians for the advanced-technology fields that drive the nation's economy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/22/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2055051</AwardID>
+<Investigator>
+<FirstName>Kelli</FirstName>
+<LastName>Harris</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kelli S Harris</PI_FULL_NAME>
+<EmailAddress><![CDATA[kharris@cccua.edu]]></EmailAddress>
+<NSF_ID>000838394</NSF_ID>
+<StartDate>03/22/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Guillory</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert M Guillory</PI_FULL_NAME>
+<EmailAddress><![CDATA[rguillory@cccua.edu]]></EmailAddress>
+<NSF_ID>000838566</NSF_ID>
+<StartDate>03/22/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Crystal</FirstName>
+<LastName>Sims</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Crystal Sims</PI_FULL_NAME>
+<EmailAddress><![CDATA[csims@cccua.edu]]></EmailAddress>
+<NSF_ID>000838613</NSF_ID>
+<StartDate>03/22/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Cossatot Technical College]]></Name>
+<CityName>DE QUEEN</CityName>
+<ZipCode>71832</ZipCode>
+<PhoneNumber>8705844471</PhoneNumber>
+<StreetAddress><![CDATA[183 HIGHWAY 399]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arkansas</StateName>
+<StateCode>AR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KPL7E2MG16E4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ARKANSAS ON BEHALF OF COSSATOT COMMUNITY COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KPL7E2MG16E4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cossatot Community College of the University of Arkansas]]></Name>
+<CityName>DeQueen</CityName>
+<StateCode>AR</StateCode>
+<ZipCode>718323929</ZipCode>
+<StreetAddress><![CDATA[183 College Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arkansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>741200</Code>
+<Text>Advanced Tech Education Prog</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0421</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002122DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~299635</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The GSTARS (Geographic Information Skills in Agriculture and Related Sciences) grant at UA Cossatot was developed to design and implement a curriculum that meets the need for technician-level GIS skills in agriculture and related science industries in southwest Arkansas. This goal was met by providing faculty with training in GIS technology instruction, developing a new <em>Introduction to GIS</em> course, establishing a new certificate of proficiency (CP) in GIS Technology, incorporating and expanding industry-defined GIS instruction in agriculture and related science curriculum, and engaging industry partners in curriculum design and student learning experiences.</p> <p>During the first year of the grant, we integrated GIS skills into existing courses, including, Forestry, Soil Science, Natural Resources. We also completed the development of our Intro to GIS in Agriculture Course, which was offered in the spring of 2022. The Certificate of Proficiency in GIS Technology was approved and we had our first graduates a year ahead of schedule.There were 9 students enrolled, and 7 of the students completed their Certificate of Proficiency in GIS Technology that semester. In addition to completing their CP, 100% of students successfully completed the Remote Pilot 101 course, and 2 students passed their FAA Part 107 Commercial Drone Certificate Exam. The PI and Co-PI both obtained their FAA Part 107 commercial drone pilot certificates and professional development was offered for both faculty and students that covered drone operation and use of ArcGIS in agriculture.&nbsp;</p> <p>A highlight of this grant was the student-developed GIS projects, which were showcased at the annual NSF ATE conference in Washington, DC. The projects included topics related to water quality, thermal drones, and mapping natural resources. The students were able to demonstrate their skills in drone operation and spatial data analysis through these projects.&nbsp;</p> <p>A significant challenge we faced in this grant was the failure of students to obtain their FAA Part 107 commercial drone pilot certificates. The students were enrolled in prep courses and provided addtitional support in the classroom. We tried multiple preparation methods and have not been able to determine why the pass rate for our students was so low. Only 3 students passed the exam and received their FAA Part 107 certificate over the course of the grant.&nbsp;</p> <div>Despite these challenges, students obtained numerous skills and made invaluable industry connections through their involvement with this grant. Students participated in industry tours, worked closely with government agencies, such as the Arkansas Game &amp; Fish Commission and the Arkansas Division of Forestry on various projects, and had the opportunity to meet with pilots and tour a helicopter manufacturing facility in Shreveport, Louisiana.</div> <p>&nbsp;</p> <p>The GSTARS grant provided opportunities for our students and has created a new educational pathway for students in rural southwest Arkansas. It is a part of the core agricultural curriculum at UA Cossatot and we have plans to continue and build upon the successes of this grant.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/29/2024<br> Modified by: Kelli&nbsp;S&nbsp;Harris</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730210939138_GSTARS_2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730210939138_GSTARS_2--rgov-800width.png" title="Touring Rick Evans Grandview Prairie"><img src="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730210939138_GSTARS_2--rgov-66x44.png" alt="Touring Rick Evans Grandview Prairie"></a> <div class="imageCaptionContainer"> <div class="imageCaption">UA Cossatot Natural Resources students toured Rick Evans Grandview Prairie and developed a project in conjunction with the educational director at the facility.</div> <div class="imageCredit">Kelli Harris</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Kelli&nbsp;S&nbsp;Harris <div class="imageTitle">Touring Rick Evans Grandview Prairie</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730211375431_GSTARS_8--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730211375431_GSTARS_8--rgov-800width.jpg" title="Water Quality Testing"><img src="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730211375431_GSTARS_8--rgov-66x44.jpg" alt="Water Quality Testing"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Students are testing water samples and will enter data into ArcGIS so that it is part of the interactive map they are creating.</div> <div class="imageCredit">Kelli Harris</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Kelli&nbsp;S&nbsp;Harris <div class="imageTitle">Water Quality Testing</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730210353739_GSTARS_1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730210353739_GSTARS_1--rgov-800width.jpg" title="Remote Pilot 101 Certificates"><img src="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730210353739_GSTARS_1--rgov-66x44.jpg" alt="Remote Pilot 101 Certificates"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Students in the Intro to GIS in Agri course received their Remote Pilot 101 certificates.</div> <div class="imageCredit">Kelli Harris</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Kelli&nbsp;S&nbsp;Harris <div class="imageTitle">Remote Pilot 101 Certificates</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730210620401_GSTARS_6--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730210620401_GSTARS_6--rgov-800width.jpg" title="NSF ATE Conference"><img src="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730210620401_GSTARS_6--rgov-66x44.jpg" alt="NSF ATE Conference"></a> <div class="imageCaptionContainer"> <div class="imageCaption">UA Cossatot students recognized at the NSF ATE Conference in 2022.</div> <div class="imageCredit">Kelli Harris</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Kelli&nbsp;S&nbsp;Harris <div class="imageTitle">NSF ATE Conference</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730211095209_GSTARS_7--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730211095209_GSTARS_7--rgov-800width.jpg" title="Thermal Drone Operation"><img src="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730211095209_GSTARS_7--rgov-66x44.jpg" alt="Thermal Drone Operation"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Students partnered with local rancher, Al Wright, to monitor cattle with thermal drone to identify increased body temperature before evidence of disease.</div> <div class="imageCredit">Kelli Harris</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Kelli&nbsp;S&nbsp;Harris <div class="imageTitle">Thermal Drone Operation</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730211223364_GSTARS_3--rgov-214x142.png" original="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730211223364_GSTARS_3--rgov-800width.png" title="Touring Helicopter Facility"><img src="/por/images/Reports/POR/2024/2055051/2055051_10723402_1730211223364_GSTARS_3--rgov-66x44.png" alt="Touring Helicopter Facility"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Students toured a helicopter training and manufacturing facility in Shreveport, Louisiana.</div> <div class="imageCredit">Kelli Harris</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Kelli&nbsp;S&nbsp;Harris <div class="imageTitle">Touring Helicopter Facility</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The GSTARS (Geographic Information Skills in Agriculture and Related Sciences) grant at UA Cossatot was developed to design and implement a curriculum that meets the need for technician-level GIS skills in agriculture and related science industries in southwest Arkansas. This goal was met by providing faculty with training in GIS technology instruction, developing a new Introduction to GIS course, establishing a new certificate of proficiency (CP) in GIS Technology, incorporating and expanding industry-defined GIS instruction in agriculture and related science curriculum, and engaging industry partners in curriculum design and student learning experiences.   During the first year of the grant, we integrated GIS skills into existing courses, including, Forestry, Soil Science, Natural Resources. We also completed the development of our Intro to GIS in Agriculture Course, which was offered in the spring of 2022. The Certificate of Proficiency in GIS Technology was approved and we had our first graduates a year ahead of schedule.There were 9 students enrolled, and 7 of the students completed their Certificate of Proficiency in GIS Technology that semester. In addition to completing their CP, 100% of students successfully completed the Remote Pilot 101 course, and 2 students passed their FAA Part 107 Commercial Drone Certificate Exam. The PI and Co-PI both obtained their FAA Part 107 commercial drone pilot certificates and professional development was offered for both faculty and students that covered drone operation and use of ArcGIS in agriculture.   A highlight of this grant was the student-developed GIS projects, which were showcased at the annual NSF ATE conference in Washington, DC. The projects included topics related to water quality, thermal drones, and mapping natural resources. The students were able to demonstrate their skills in drone operation and spatial data analysis through these projects.   A significant challenge we faced in this grant was the failure of students to obtain their FAA Part 107 commercial drone pilot certificates. The students were enrolled in prep courses and provided addtitional support in the classroom. We tried multiple preparation methods and have not been able to determine why the pass rate for our students was so low. Only 3 students passed the exam and received their FAA Part 107 certificate over the course of the grant. Despite these challenges, students obtained numerous skills and made invaluable industry connections through their involvement with this grant. Students participated in industry tours, worked closely with government agencies, such as the Arkansas Game & Fish Commission and the Arkansas Division of Forestry on various projects, and had the opportunity to meet with pilots and tour a helicopter manufacturing facility in Shreveport, Louisiana.      The GSTARS grant provided opportunities for our students and has created a new educational pathway for students in rural southwest Arkansas. It is a part of the core agricultural curriculum at UA Cossatot and we have plans to continue and build upon the successes of this grant.        Last Modified: 10/29/2024       Submitted by: KelliSHarris]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

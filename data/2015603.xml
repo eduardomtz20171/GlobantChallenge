@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Joint Control of Hydraulics and Water Quality Dynamics in Drinking Water Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>258446.00</AwardTotalIntnAmount>
+<AwardAmount>258446</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marcello Canova</SignBlockName>
+<PO_EMAI>mcanova@nsf.gov</PO_EMAI>
+<PO_PHON>7032922576</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>After leaving water treatment facilities, drinking water is delivered to consumers through an intricate network of pipes. Recent studies have demonstrated that the quality of treated drinking water deteriorates during the journey from treatment plants to consumers’ taps; this has significant implications for public health. Operating under limited budgets, water utilities adopt different degrees of water quality monitoring that are geared towards regulatory compliance but are unbefitting for rapid detection and mitigation of contamination events. Furthermore, utilities typically lack targeted, real-time control strategies and often respond to contamination events by issuing utility-wide advisories (e.g., “boil water” or “do not consume” advisories). Such advisories have significant socio-economic impacts and are typically slow in improving water quality. In contrast to this, this project creates new methods for real-time water quality management in urban water networks by controlling hydraulic pumps, valves, and disinfectant dosing stations in response to contamination events. To this end, this research harnesses recent advances in water sensing technologies while investigating control algorithms through interdisciplinary research from environmental science, optimization, network control, and aquatic chemistry. This research enables real-time monitoring and control of hydraulics and water quality, allows water utilities to adopt strategies in response to contamination events, and broadens participation of underrepresented groups in research and education at UT San Antonio, UT Austin and the University of Illinois at Chicago. &lt;br/&gt;&lt;br/&gt;This project puts forth a novel mathematical framework that couples the hydraulic equations governing water flow and pressure with dynamic water quality models depicting the transport and decay of disinfectant residuals, which act as a proxy for contamination event detection in drinking water distribution networks. The resulting framework faithfully describes the network operation under regular conditions and contamination events. This framework also enables the development of scalable optimization algorithms that are amenable to real-time implementation for control of pumps, valves, and disinfectant booster stations, thereby ensuring compliance with water quality standards. The algorithms are designed to deal with a variety of water system applications such as flow modulation, response and recovery from contaminant intrusion events, and reliable network-wide disinfection. The theory is evaluated on realistic water network models in addition to data from fixed and mobile sensors that collect hydraulic and water quality data from a real-life water system.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015603</AwardID>
+<Investigator>
+<FirstName>Ahmed</FirstName>
+<LastName>Abokifa</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ahmed A Abokifa</PI_FULL_NAME>
+<EmailAddress><![CDATA[abokifa@uic.edu]]></EmailAddress>
+<NSF_ID>000800967</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress><![CDATA[809 S MARSHFIELD AVE M/C 551]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>W8XEAJDKMXH3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606074272</ZipCode>
+<StreetAddress><![CDATA[842 W Taylor St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>163100</Code>
+<Text>CIS-Civil Infrastructure Syst</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>756900</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~258446</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The primary role of municipal water utilities is to deliver safe and reliable drinking water to their consumers. After leaving water treatment facilities, drinking water travels to consumers through a complex network of pipes that spans hundreds or even thousands of miles. However, water quality of treated drinking water deteriorates as it moves from treatment plants to consumers&rsquo; taps, posing significant concerns for public health and safety. Water utilities, often operating under limited budgets, rely on water quality sampling protocols primarily designed to meet EPA regulatory requirements. While these protocols are essential, they offer limited spatial and temporal surveillance of water quality conditions across distribution systems. &nbsp;As a result, they are not always effective in rapidly detecting and addressing contamination events. Modeling tools have long been recognized as powerful solutions to address these limitations. These tools can help utilities optimize disinfectant dosing schedules, strategically place sensors for better water quality monitoring, predict water quality in areas without sensors, and quickly identify potential sources of contamination. Without such targeted, real-time strategies, utilities often resort to broad advisories like "boil water" or "do not consume" notices. These advisories, while necessary, have significant socio-economic consequences and are not always effective in promptly restoring water quality.</p>  <p>This project aims to create new advanced computational tools to enhance water quality monitoring and management across entire urban water systems, both during routine operating conditions and in response to contamination events. The Key Outcomes of this project are:</p>  <p>(1)&nbsp;&nbsp;&nbsp; Creating advanced algorithms for managing chlorine dosage in real time, enabling water utilities to maintain safe disinfectant residuals throughout the water supply system, while minimizing the risk of harmful disinfection byproducts.</p>  <p>(2)&nbsp;&nbsp;&nbsp; Designing new techniques to optimize the placement of water quality sensors, allowing to monitor water quality more effectively using fewer sensors while still covering critical areas of the drinking water system.</p>  <p>(3)&nbsp;&nbsp;&nbsp; Developing new AI-driven techniques to predict disinfectant levels in parts of the water system where no sensors are present, using real-time data from strategically placed sensors to provide a complete picture of water quality.</p>  <p>(4)&nbsp;&nbsp;&nbsp; Creating rapid detection tools that combine sensor data, hydraulic and water quality models, and statistical analysis to quickly identify and trace contamination sources, allowing to respond faster and more accurately to potential events.</p>  <p>With over 52,000 community water systems in the U.S., water utilities carry a tremendous responsibility for public health. The outcomes of this research introduce critical innovations to make water quality monitoring more efficient, cost-effective, and reliable, ultimately ensuring safer drinking water.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/30/2024<br> Modified by: Ahmed&nbsp;A&nbsp;Abokifa</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The primary role of municipal water utilities is to deliver safe and reliable drinking water to their consumers. After leaving water treatment facilities, drinking water travels to consumers through a complex network of pipes that spans hundreds or even thousands of miles. However, water quality of treated drinking water deteriorates as it moves from treatment plants to consumers taps, posing significant concerns for public health and safety. Water utilities, often operating under limited budgets, rely on water quality sampling protocols primarily designed to meet EPA regulatory requirements. While these protocols are essential, they offer limited spatial and temporal surveillance of water quality conditions across distribution systems. As a result, they are not always effective in rapidly detecting and addressing contamination events. Modeling tools have long been recognized as powerful solutions to address these limitations. These tools can help utilities optimize disinfectant dosing schedules, strategically place sensors for better water quality monitoring, predict water quality in areas without sensors, and quickly identify potential sources of contamination. Without such targeted, real-time strategies, utilities often resort to broad advisories like "boil water" or "do not consume" notices. These advisories, while necessary, have significant socio-economic consequences and are not always effective in promptly restoring water quality.    This project aims to create new advanced computational tools to enhance water quality monitoring and management across entire urban water systems, both during routine operating conditions and in response to contamination events. The Key Outcomes of this project are:    (1) Creating advanced algorithms for managing chlorine dosage in real time, enabling water utilities to maintain safe disinfectant residuals throughout the water supply system, while minimizing the risk of harmful disinfection byproducts.    (2) Designing new techniques to optimize the placement of water quality sensors, allowing to monitor water quality more effectively using fewer sensors while still covering critical areas of the drinking water system.    (3) Developing new AI-driven techniques to predict disinfectant levels in parts of the water system where no sensors are present, using real-time data from strategically placed sensors to provide a complete picture of water quality.    (4) Creating rapid detection tools that combine sensor data, hydraulic and water quality models, and statistical analysis to quickly identify and trace contamination sources, allowing to respond faster and more accurately to potential events.    With over 52,000 community water systems in the U.S., water utilities carry a tremendous responsibility for public health. The outcomes of this research introduce critical innovations to make water quality monitoring more efficient, cost-effective, and reliable, ultimately ensuring safer drinking water.         Last Modified: 12/30/2024       Submitted by: AhmedAAbokifa]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

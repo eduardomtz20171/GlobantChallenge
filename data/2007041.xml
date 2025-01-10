@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CHS: Small: Enabling Accessibility of Virtual Reality for Persons with Balance Impairments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>497121.00</AwardTotalIntnAmount>
+<AwardAmount>497121</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Virtual Reality (VR) renders 3D computer graphics and sound in head mounted displays (HMDs) to make users feel as though they are in another place. Although consumer level HMDs are affordable enough to benefit a large user base, these devices are not accessible for many persons with balance impairments, such as elderly persons, persons with multiple sclerosis, Parkinson's, or stroke. Currently, immersive VR applications, such as education, physical fitness, rehabilitation, and entertainment, are not accessible to users with balance impairments. To address this need, the team of researchers will use a combination of visual, audio, and touch feedback to improve balance in VR. Although these methods have been effectively used in reality, they have minimally been tested in VR and it is unknown what the most effective combination of feedbacks are. If VR imbalance issues can be mitigated, persons with balance impairments may be able to more readily benefit from consumer VR. The project will also impact community outreach for persons with disabilities in that the investigators plan to give lectures at support groups and symposia on disabilities that will further educate persons with disabilities about VR. The project will also increase involvement of underrepresented minority students in research, because more than 59% of The University of Texas at San Antonio's students come from groups underrepresented in higher education. &lt;br/&gt;&lt;br/&gt;The overall objective of this project is to investigate multimodal techniques to improve balance in VR for persons with balance impairments, such as elderly persons and persons with neurological disorders. Based on the research team's preliminary studies, the central hypothesis is: sensory cues from a combination of multimodal feedback techniques, such as a visual static rest frame, auditory feedback on posture, and tactile feedback on posture from a vibro-tactile belt, will help to mitigate the imbalance effects, depending upon the cause of the imbalance. The idea will be to separately group the target populations due to several factors (e.g., clinical condition, age) and interpret the balance impaired human participants' experiences in VR based on that grouping. Ultimately, this research will result in a set of validated, gait-in-VR data and open-source tools that will make VR more accessible for persons with balance impairments, improving their quality of life. The project is creative and original because there has been minimal previous research into why VR causes imbalance and how it affects persons with balance impairments and hence, few works have explored solutions to this problem. The project is potentially transformative because it may disrupt accepted theories and perspectives of user interaction in VR, especially for persons with balance impairments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007041</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Quarles</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John P Quarles</PI_FULL_NAME>
+<EmailAddress><![CDATA[jpq@cs.utsa.edu]]></EmailAddress>
+<NSF_ID>000559237</NSF_ID>
+<StartDate>08/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alberto</FirstName>
+<LastName>Cordova</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alberto Cordova</PI_FULL_NAME>
+<EmailAddress><![CDATA[alberto.cordova@utsa.edu]]></EmailAddress>
+<NSF_ID>000760798</NSF_ID>
+<StartDate>08/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at San Antonio]]></Name>
+<CityName>SAN ANTONIO</CityName>
+<ZipCode>782491644</ZipCode>
+<PhoneNumber>2104584340</PhoneNumber>
+<StreetAddress><![CDATA[1 UTSA CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U44ZMVYU52U6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF TEXAS AT SAN ANTONIO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at San Antonio]]></Name>
+<CityName>San Antonio</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>782491644</ZipCode>
+<StreetAddress><![CDATA[One UTSA Circle]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736700</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~497121</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This research increased the accessibility of immersive virtual reality (VR) using several types of sensory feedback - audio, visual, and touch (vibration) on a person&rsquo;s balance. VR users often experience imbalance and walking patterns disturbances, which is a major barrier to accessibility of VR for all, especially for people with balance impairments (BI). To solve this issue, this research developed and evaluated sixteen novel assistive feedback techniques (four audio, four vibration-based, four visual, and four techniques that&nbsp; combined multiple senses) to improve balance and walking &nbsp;while immersed in VR. The research team conducted a series of different studies with a total of 431 participants (178 with BI due to multiple sclerosis, 75 with BI due to diabetes, and 178 without BI) d to evaluate the developed techniques. Participants performed three types of tasks - standing visual exploration, standing reach and grasp, and timed walking tasks in the real world and identical tasks in virtual environments. Results showed that combinations of sensory feedback improved balance and walking significantly more than any single sensory feedback technique for all participants. However, mental load and fatigue levels were significantly higher (p &lt;.001) with combined feedback.</p> <p>These results contribute to a deeper understanding of the efficacy of different assistive feedback methods (auditory, vibrotactile, visual, and combined) for maintaining balance and walking in a virtual environment with head mounted displays. VR researchers and developers could apply these techniques to design more accessible virtual environments for people with and without balance impairments and make VR universally usable.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/01/2024<br> Modified by: John&nbsp;P&nbsp;Quarles</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2007041/2007041_10691987_1722538071306_pg1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2007041/2007041_10691987_1722538071306_pg1--rgov-800width.jpg" title="Reach and grab task in VR"><img src="/por/images/Reports/POR/2024/2007041/2007041_10691987_1722538071306_pg1--rgov-66x44.jpg" alt="Reach and grab task in VR"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A participant reaches and grabs cubes in VR.</div> <div class="imageCredit">John Quarles</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">John&nbsp;P&nbsp;Quarles <div class="imageTitle">Reach and grab task in VR</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2007041/2007041_10691987_1722537996721_reach_bi--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2007041/2007041_10691987_1722537996721_reach_bi--rgov-800width.jpg" title="Results of reaching task in VR"><img src="/por/images/Reports/POR/2024/2007041/2007041_10691987_1722537996721_reach_bi--rgov-66x44.jpg" alt="Results of reaching task in VR"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This shows the effect of several types of audio feedback. The most effective types scored a lower Center of Pressure velocity.</div> <div class="imageCredit">John Quarles</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">John&nbsp;P&nbsp;Quarles <div class="imageTitle">Results of reaching task in VR</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This research increased the accessibility of immersive virtual reality (VR) using several types of sensory feedback - audio, visual, and touch (vibration) on a persons balance. VR users often experience imbalance and walking patterns disturbances, which is a major barrier to accessibility of VR for all, especially for people with balance impairments (BI). To solve this issue, this research developed and evaluated sixteen novel assistive feedback techniques (four audio, four vibration-based, four visual, and four techniques that combined multiple senses) to improve balance and walking while immersed in VR. The research team conducted a series of different studies with a total of 431 participants (178 with BI due to multiple sclerosis, 75 with BI due to diabetes, and 178 without BI) d to evaluate the developed techniques. Participants performed three types of tasks - standing visual exploration, standing reach and grasp, and timed walking tasks in the real world and identical tasks in virtual environments. Results showed that combinations of sensory feedback improved balance and walking significantly more than any single sensory feedback technique for all participants. However, mental load and fatigue levels were significantly higher (p    These results contribute to a deeper understanding of the efficacy of different assistive feedback methods (auditory, vibrotactile, visual, and combined) for maintaining balance and walking in a virtual environment with head mounted displays. VR researchers and developers could apply these techniques to design more accessible virtual environments for people with and without balance impairments and make VR universally usable.           Last Modified: 08/01/2024       Submitted by: JohnPQuarles]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

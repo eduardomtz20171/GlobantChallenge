@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CIF: Small: Fundamental Limits of DNA-Based Storage]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>484140.00</AwardTotalIntnAmount>
+<AwardAmount>484140</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+<PO_EMAI>pregalia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922981</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The demand for data storage continues to increase at a rapid pace, posing significant challenges to current data centers and spurring significant interest in the development of new storage technologies. DNA, the molecule that carries the genetic information of all living matter, has become a promising medium for long-term archival data storage due to its longevity and very high information density. This new approach to data storage presents unique challenges. Unlike typical hard drives, where data bits are stored in a well-ordered linear fashion, storing data on DNA requires the synthesis of a large number of DNA molecules that are then mixed out of order in a liquid solution. This makes the process of reliably reading the data after storage significantly more expensive and computationally complex. The goal of this project is to understand the fundamental limitations and capabilities of DNA as a storage medium. In particular, this research seeks to characterize basic tradeoffs between cost, information density, reading and writing speeds, and reliability, aiming to develop new coding strategies that can unlock the full potential of this innovative approach to data storage.&lt;br/&gt;&lt;br/&gt;The project will investigate the fundamental limits of DNA storage systems by focusing on three main objectives. The first objective is to develop an information theory framework to formally analyze these systems. DNA storage systems will be modeled via the abstraction of a shuffling channel, which captures the fact that, in DNA-based storage, many blocks of data are shuffled out of order. The capacity of these channels will be characterized under different noise models and properties of optimal coding schemes will be studied. A particular question of interest is how to design capacity-optimal indexing strategies that allow the proper reordering of the data. Since the cost of synthesizing long DNA strands is the main obstacle to practical DNA storage, the second research objective will deal with systems that store data on many very short DNA strands, each of which is too short to encode any meaningful information. For that reason, new strategies to encode information in the concentration of different DNA molecules in the solution will be proposed, and their fundamental capabilities established. The third research objective will focus on the computational challenges associated with the joint processing of a large set of DNA sequences. In particular, basic tradeoffs between storage capacity and computational requirements will be established, and recent algorithmic advances in large-scale sequence alignment will be leveraged towards the development of computationally efficient decoding algorithms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007597</AwardID>
+<Investigator>
+<FirstName>Ilan</FirstName>
+<LastName>Shomorony</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ilan Shomorony</PI_FULL_NAME>
+<EmailAddress><![CDATA[ilans@illinois.edu]]></EmailAddress>
+<NSF_ID>000797273</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>V2PHZ2CSCH63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Board of Trustees of the University of Illinois]]></Name>
+<CityName>Urbana</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S. Wright Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779700</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~484140</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project investigated the fundamental limitations and capabilities of DNA-based data storage, a potentially transformative emerging technology. The project focused on several information-theoretic questions regarding achievable storage data rates and basic tradeoffs between data rates, DNA synthesis costs, and computational efficiency.</p> <p>The first major goal of the project was to develop new information-theoretic models that capture key distinguishing aspects of DNA data storage. We began this effort by proposing the noisy shuffling channel illustrated in Figure 1. This channel model captures the fact that the data is written onto short DNA molecules that are stored out-of-order in a solution (shuffling) and read via random sampling in a noisy fashion (noisy channel). We characterized the capacity (maximum number of bits that can be reliably stored) for this channel under several choices of sampling distribution (e.g., Bernoulli and Poisson) and noise (e.g., substitutions and erasures). We developed optimal coding strategies and showed that, in many scenarios, a simple index-based coding scheme is capacity optimal.</p> <p>Another distinguishing aspect of DNA (and, more generally, macromolecular) data storage is that molecules may be subject to random breaks when stored over long periods of time. To study how this impacts the storage capacity, we proposed the torn-paper channel (TPC) model. This channel breaks the input message into fragments of random sizes, which are then read out of order. In addition, to study the impact of using short-read shotgun sequencing technologies in DNA storage systems, we proposed the shotgun sequencing channel (SSC) model. The output of this channel are randomly sampled fixed-length substrings from the input message. The TPC and SSC are illustrated in Figure 2. We developed new achievability and converse techniques to characterize the capacity of these two channel models exactly under several distributional assumptions. The capacity expressions describe how the maximum storage rate varies as a function of fragment lengths and number of observed fragments. We developed a unified coding strategy to deal with the out-of-order nature of these two channels, based on the idea of spreading synchronization bits throughout the codewords. This coding strategy is computationally efficient and achieves rates close to capacity in several regimes.</p> <p>The second major goal of the project was to understand how short the stored DNA molecules can be while still allowing for a significant amount of data to be stored. In particular, we explored the very-short-molecule regime, where the asymptotic capacity is technically zero, but it is still possible to store non-negligible amounts of information in the concentration of the different molecules. As illustrated in Figure 3, in this setting one seeks to store information by choosing a &ldquo;histogram&rdquo; of DNA molecules, which is corrupted by the synthesis and sequencing processes. We developed a connection between this storage problem and the Poisson channel, previously studied in the context of optical communications. This connection allowed us to develop a coding scheme for this regime with optimality guarantees. While this coding strategy is nearly optimal for the very-short molecules, the actual storage rates achieved turn out to be too small for large-scale data storage and are more likely useful in applications where few data bits need to be stored (e.g., metadata storage or fingerprinting).</p> <p>The third major focus of the project was related to the computational challenges that arise when having to process the output of a large-scale DNA data storage system. Practically, one needs to (1) cluster the output sequences to identify clusters of reads corresponding to the same input molecule and (2) align the sequences in each cluster to each other to produce a consensus (error-corrected) sequence. For the clustering task, we developed a new algorithm called BanditPAM (and its optimized version, BanditPAM++). BanditPAM utilizes a multi-armed bandit algorithm to adaptively and efficiently identify groups of similar reads (or other objects), which allows clustering to be performed while avoiding a full pairwise comparison of all reads. We also developed a multi-armed bandit approach to speed up the alignment task and released a tool called J-bandit that can efficiently perform multiple-sequence alignment on a large number of sequences.</p> <p>The theoretical framework that was developed in this project led to the publication of a long-form monograph on Information-Theoretic Foundations of DNA Data Storage. This monograph and, more generally, the outcomes from this project have been influential in turning this topic into an active research area. The PI also organized and participated in several invited sessions and workshops on information theory and coding for macromolecular storage. The computational tools that were developed have applications that are broader than DNA data storage and are useful for the processing of more general genomic data. Finally, results from this project have been included as modern applications in a graduate-level Information Theory course and have contributed to the development of a new advanced course on Fundamental Limits in Data Science.</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/09/2024<br> Modified by: Ilan&nbsp;Shomorony</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2007597/2007597_10679369_1723259368945_histogram--rgov-214x142.png" original="/por/images/Reports/POR/2024/2007597/2007597_10679369_1723259368945_histogram--rgov-800width.png" title="Figure 3: Encoding information into histograms"><img src="/por/images/Reports/POR/2024/2007597/2007597_10679369_1723259368945_histogram--rgov-66x44.png" alt="Figure 3: Encoding information into histograms"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 3: In the regime of very short DNA molecules, one can encode information into the molecule concentrations by treating the stored molecule histogram as the channel input.</div> <div class="imageCredit">Ilan Shomorony</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Ilan&nbsp;Shomorony <div class="imageTitle">Figure 3: Encoding information into histograms</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2007597/2007597_10679369_1723259301029_tpc_ssc--rgov-214x142.png" original="/por/images/Reports/POR/2024/2007597/2007597_10679369_1723259301029_tpc_ssc--rgov-800width.png" title="Figure 2: Torn-Paper Channel and Shotgun Sequencing Channel"><img src="/por/images/Reports/POR/2024/2007597/2007597_10679369_1723259301029_tpc_ssc--rgov-66x44.png" alt="Figure 2: Torn-Paper Channel and Shotgun Sequencing Channel"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2: The torn-paper channel breaks up the input codeword into fragments of random lengths, some of which are recovered out-of-order at the output. The shotgun sequencing channel samples random substrings of the input codeword and outputs them out-of-order.</div> <div class="imageCredit">Ilan Shomorony</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Ilan&nbsp;Shomorony <div class="imageTitle">Figure 2: Torn-Paper Channel and Shotgun Sequencing Channel</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2007597/2007597_10679369_1723258009751_shuffling_channel--rgov-214x142.png" original="/por/images/Reports/POR/2024/2007597/2007597_10679369_1723258009751_shuffling_channel--rgov-800width.png" title="Figure 1: Noisy Shuffling Channel"><img src="/por/images/Reports/POR/2024/2007597/2007597_10679369_1723258009751_shuffling_channel--rgov-66x44.png" alt="Figure 1: Noisy Shuffling Channel"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 1: The input to the noisy shuffling channel is a set of DNA sequences, which are shuffled out of order, resampled, and corrupted by noise.</div> <div class="imageCredit">Ilan Shomorony</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Ilan&nbsp;Shomorony <div class="imageTitle">Figure 1: Noisy Shuffling Channel</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project investigated the fundamental limitations and capabilities of DNA-based data storage, a potentially transformative emerging technology. The project focused on several information-theoretic questions regarding achievable storage data rates and basic tradeoffs between data rates, DNA synthesis costs, and computational efficiency.   The first major goal of the project was to develop new information-theoretic models that capture key distinguishing aspects of DNA data storage. We began this effort by proposing the noisy shuffling channel illustrated in Figure 1. This channel model captures the fact that the data is written onto short DNA molecules that are stored out-of-order in a solution (shuffling) and read via random sampling in a noisy fashion (noisy channel). We characterized the capacity (maximum number of bits that can be reliably stored) for this channel under several choices of sampling distribution (e.g., Bernoulli and Poisson) and noise (e.g., substitutions and erasures). We developed optimal coding strategies and showed that, in many scenarios, a simple index-based coding scheme is capacity optimal.   Another distinguishing aspect of DNA (and, more generally, macromolecular) data storage is that molecules may be subject to random breaks when stored over long periods of time. To study how this impacts the storage capacity, we proposed the torn-paper channel (TPC) model. This channel breaks the input message into fragments of random sizes, which are then read out of order. In addition, to study the impact of using short-read shotgun sequencing technologies in DNA storage systems, we proposed the shotgun sequencing channel (SSC) model. The output of this channel are randomly sampled fixed-length substrings from the input message. The TPC and SSC are illustrated in Figure 2. We developed new achievability and converse techniques to characterize the capacity of these two channel models exactly under several distributional assumptions. The capacity expressions describe how the maximum storage rate varies as a function of fragment lengths and number of observed fragments. We developed a unified coding strategy to deal with the out-of-order nature of these two channels, based on the idea of spreading synchronization bits throughout the codewords. This coding strategy is computationally efficient and achieves rates close to capacity in several regimes.   The second major goal of the project was to understand how short the stored DNA molecules can be while still allowing for a significant amount of data to be stored. In particular, we explored the very-short-molecule regime, where the asymptotic capacity is technically zero, but it is still possible to store non-negligible amounts of information in the concentration of the different molecules. As illustrated in Figure 3, in this setting one seeks to store information by choosing a histogram of DNA molecules, which is corrupted by the synthesis and sequencing processes. We developed a connection between this storage problem and the Poisson channel, previously studied in the context of optical communications. This connection allowed us to develop a coding scheme for this regime with optimality guarantees. While this coding strategy is nearly optimal for the very-short molecules, the actual storage rates achieved turn out to be too small for large-scale data storage and are more likely useful in applications where few data bits need to be stored (e.g., metadata storage or fingerprinting).   The third major focus of the project was related to the computational challenges that arise when having to process the output of a large-scale DNA data storage system. Practically, one needs to (1) cluster the output sequences to identify clusters of reads corresponding to the same input molecule and (2) align the sequences in each cluster to each other to produce a consensus (error-corrected) sequence. For the clustering task, we developed a new algorithm called BanditPAM (and its optimized version, BanditPAM++). BanditPAM utilizes a multi-armed bandit algorithm to adaptively and efficiently identify groups of similar reads (or other objects), which allows clustering to be performed while avoiding a full pairwise comparison of all reads. We also developed a multi-armed bandit approach to speed up the alignment task and released a tool called J-bandit that can efficiently perform multiple-sequence alignment on a large number of sequences.   The theoretical framework that was developed in this project led to the publication of a long-form monograph on Information-Theoretic Foundations of DNA Data Storage. This monograph and, more generally, the outcomes from this project have been influential in turning this topic into an active research area. The PI also organized and participated in several invited sessions and workshops on information theory and coding for macromolecular storage. The computational tools that were developed have applications that are broader than DNA data storage and are useful for the processing of more general genomic data. Finally, results from this project have been included as modern applications in a graduate-level Information Theory course and have contributed to the development of a new advanced course on Fundamental Limits in Data Science.        Last Modified: 08/09/2024       Submitted by: IlanShomorony]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

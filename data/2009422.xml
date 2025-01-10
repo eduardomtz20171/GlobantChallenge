@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mathematical Analysis of Magnetohydrodynamic Flows with Hall Effect]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>199989.00</AwardTotalIntnAmount>
+<AwardAmount>199989</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Magnetic reconnection is a fundamental process in highly conducting plasmas that involves rapid changes in the configuration of the magnetic flux lines, with the conversion of magnetic to kinetic energy. Solar flares, violent events with significant impact to telecommunications and the electric grid, may involve magnetic reconnection in a large scale. Magnetic reconnection is inherently a multi-scale process and causes difficulties in laboratory experimental study, satellite observations, and computational simulations. During magnetic reconnection, the magnetic force can create thin localized region wherein the elevated voltage difference generates intense electric currents and dissipation - the Hall effect. The Hall magnetohydrodynamics (Hall MHD) model has recently received increasing attention because of its improvements in predicting the fast-changing nature of magnetic reconnection compared to other models. Nevertheless, the mathematical theory of this model is far from being complete. This project will further advance the fundamental theoretical understanding of the Hall MHD model by addressing the issues such as existence and uniqueness of solutions, anomalous dissipation, and long-time behavior of the solutions. The project will provide opportunities for students to participate in the research. &lt;br/&gt;&lt;br/&gt;The Hall MHD model couples the Navier-Stokes equations and Maxwell's equations. The Hall MHD system is mathematically challenging due to the usual convective nonlinearities and the additional source term given by the Hall effect. The project includes investigations on the conservation or anomalous dissipation of energy and magnetic helicity for weak solutions, uniqueness, or lack thereof for weak solutions, weak-strong type of uniqueness, and asymptotic uniqueness in energy space within the framework of determining wavenumber.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009422</AwardID>
+<Investigator>
+<FirstName>Mimi</FirstName>
+<LastName>Dai</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mimi Dai</PI_FULL_NAME>
+<EmailAddress><![CDATA[mdai@uic.edu]]></EmailAddress>
+<NSF_ID>000630988</NSF_ID>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress><![CDATA[809 S MARSHFIELD AVE M/C 551]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>W8XEAJDKMXH3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName/>
+<StateCode>IL</StateCode>
+<ZipCode>606124305</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199989</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div><span style="color: #333333; font-family: Arial, Helvetica, sans-serif;"><span>The support of this NSF award has led to a sequence of research activities and findings. It has provided the PI the opportunity to engage in educational activities that give rise to several broader impacts.&nbsp;</span></span></div> <div><span style="color: #333333; font-family: Arial, Helvetica, sans-serif;"><span><br /></span></span></div> <div><span style="color: #333333; font-family: Arial, Helvetica, sans-serif;"><span>In collaboration with students and other researchers, the PI has obtained research findings through which we have gained better understanding of MHD systems. The intellectual merit of the outcomes is the advancement on a few mathematical topics for MHD, in particular, ill-posedness phenomena of weak solutions with low regularity, such as the lack of uniqueness and anomalous dissipation of physical invariant quantities. Below is a list of the research papers on the findings.&nbsp;</span></span></div> <div><span style="color: #333333; font-family: Arial, Helvetica, sans-serif;"><span><br /></span></span></div> <div><span style="color: #333333; font-family: Arial, Helvetica, sans-serif;"><span>1.&nbsp;</span></span><span>M. Dai.&nbsp;</span><span>Local well-posedness for the Hall-MHD system in optimal Sobolev spaces.&nbsp;</span><span>Journal of Differential Equations, Vol. 289: 159-181, 2021.</span></div> <div><span><br /></span></div> <div><span>2.&nbsp;</span><span>M. Dai.&nbsp;</span><span>Non-uniqueness of weak solutions in Leray-Hopf space for the 3D Hall-MHD system.&nbsp;</span><span>SIAM Journal of Mathematical Analysis, 53(5): 5979&ndash;6016, 2021.</span></div> <div><span><br /></span></div> <div><span>3.&nbsp;</span><span>M. Dai.&nbsp;</span><span>Phenomenologies of intermittent Hall MHD turbulence.&nbsp;</span><span>DCDS-Series B. DOI: 10.3934/dcdsb.2021285, 2021.</span></div> <div><span><br /></span></div> <div><span>4.&nbsp;</span><span>M. Dai.&nbsp;</span><span>Blow-up of a dyadic model with intermittency dependence for the Hall MHD.&nbsp;</span><span>Physica D: Nonlinear Phenomena. DOI: 10.1016/j.physd.2021.133066.</span></div> <div><span><br /></span></div> <div><span>5.&nbsp;</span><span>M. Dai and S. Friedlander.&nbsp;</span><span>Dyadic models for ideal MHD.&nbsp;</span><span>Journal of Mathematical Fluid Mechanics. DOI:10.1007/s00021-021-00640-9, 2021.</span></div> <div><span><br /></span></div> <div><span>6.&nbsp;</span><span>M. Dai, J. Krol and H. Liu.&nbsp;</span><span>On uniqueness and helicity conservation of weak solutions to the electron-MHD system.&nbsp;</span><span>Journal of Mathematical Fluid Mechanics, 24:69, 2022.</span></div> <div><span><br /></span></div> <div><span>7.&nbsp;</span><span>M. Dai and H. Liu.&nbsp;</span><span>On wel l-posedness of generalized Hal l-magnetohydrodynamics.&nbsp;</span><span>Zeitschrift fu&#776;r angewandte Mathematik und Physik, 73:139, 2022.</span></div> <div><span><br /></span></div> <div><span>8.&nbsp;</span><span>M. Dai and S. Friedlander.&nbsp;</span><span>Uniqueness and non-uniqueness results for dyadic MHD models.&nbsp;</span><span>Journal of Nonlinear Science, https://doi.org/10.1007/s00332-022-09868-9, 2022.</span></div> <div><span><br /></span></div> <div><span>9.&nbsp;</span><span>M. Dai.&nbsp;</span><span>Blow-up of dyadic MHD models with forward energy cascade.&nbsp;</span><span>International Mathematics Research Notices, https://doi.org/10.1093/imrn/rnac337, 2022.</span></div> <div><span><br /></span></div> <div><span>10.&nbsp;</span><span>A. Cheskidov, M. Dai and S. Friedlander.&nbsp;</span><span>Dyadic models for fluid equations: a survey.&nbsp;</span><span>Journal of Mathematical Fluid Mechanics, Vol.25, 62, 2023.</span></div> <div><span><br /></span></div> <div><span>11.&nbsp;</span><span>M. Dai, B. Vyas and X. Zhang.&nbsp;</span><span>1D model for the 3D magnetohydrodynamics.&nbsp;</span><span>Journal of Nonlinear Science, doi.org/10.1007/s00332-023-09944-8, 2023.</span></div> <div><span><br /></span></div> <div><span>12.&nbsp;</span><span>M. Dai.&nbsp;</span><span>Almost sure existence of global weak solutions for supercritical electron MHD.&nbsp;</span><span>Discrete and Continuous Dynamical Systems Series B, doi:10.3934/dcdsb.2023146, 2023.</span></div> <div><span><br /></span></div> <div><span>13.&nbsp;</span><span>M. Dai and C. Wu.&nbsp;</span><span>Dissipation wavenumber and regularity for electron ma- gnetohydrodynamics.&nbsp;</span><span>Journal of Differential Equations, Vol. 376: 655&ndash;681, 2023.</span></div> <div><span><br /></span></div> <div><span>14.&nbsp;</span><span>M. Dai.&nbsp;</span><span>Almost sure well-posedness for Hall MHD.&nbsp;</span><span>Journal of Mathematical Fluid Mechanics. Accepted, 2023.</span></div> <div><span><br /></span></div> <div><span>15.&nbsp;</span><span>M. Dai, M. Hoeller, Q. Peng and X. Zhang.&nbsp;</span><span>Kolmogorov&rsquo;s dissipation number and determining wavenumber for dyadic models.&nbsp;</span><span>Nonlinearity, 37, 025015, https://doi.org/10.1088/1361-6544/ad1af0, 2024.</span></div> <div><span><br /></span></div> <div><span>16.&nbsp;</span><span>M. Dai and S. Friedlander.&nbsp;</span><span>Non-uniqueness of forced active scalar equations with even drift operators.&nbsp;</span><span>Physica D: Nonlinear Phenomena, Vol. 467, 134271, https://doi.org/10.1016/j.physd.2024.134271, 2024.</span></div> <div> <div class="page" title="Page 3"> <div class="layoutArea"> <div class="column"> <p><span>17. M. Dai.&nbsp;</span><span>Reduced models for electron magnetohydrodynamics: well-posedness and singularity formation.&nbsp;</span><span>Transactions of AMS. Accepted, 2024.</span></p> </div> </div> </div> </div> <div><span>18. &nbsp;</span><span>A. Cheskidov and M. Dai.&nbsp;</span><span>The number of degrees of freedom for the 2D Navier-Stokes equation: a connection with Kraichnan&rsquo;s theory of turbulence.&nbsp;</span><span>arXiv:2112.11606, 2021.</span></div> <div><span><br /></span></div> <div><span>19.&nbsp;</span><span>M. Dai and Q. Peng.&nbsp;</span><span>Non-unique stationary solutions of forced SQG.&nbsp;</span><span>arXiv:2302.03283, 2023.</span></div> <div><span><br /></span></div> <div><span>20.&nbsp;</span><span>M. Dai, C. Ouyang and Q. Peng.&nbsp;</span><span>Uniqueness for a stochastic ideal dyadic MHD model.&nbsp;</span><span>arXiv:2306.10909, 2023.</span></div> <div><span><br /></span></div> <div><span>21.&nbsp;</span><span>M. Dai.&nbsp;</span><span>Global existence of 2D electron MHD near a steady state.&nbsp;</span><span>arXiv:2306.13036, 2023.</span></div> <div><span><br /></span></div> <div><span>22.&nbsp;</span><span>M. Dai and Q. Peng.&nbsp;</span><span>Non-unique weak solutions of forced SQG.&nbsp;</span><span>arXiv:2310.13537, 2023.</span></div> <div><span><br /></span></div> <div><span>23.&nbsp;</span><span>M. Dai and C. Wu.&nbsp;</span><span>Non-unique stationary solutions of even active scalar equations.&nbsp;</span><span>arXiv:2403.16800, 2024.</span></div> <div><span><br /></span></div> <div><span>24.&nbsp;</span><span>M. Dai, H. Guerra and C. Wu.&nbsp;</span><span>Self-similar singularities for electron MHD.&nbsp;</span><span>arXiv:2405.00324, 2024.</span></div> <div><span><br /></span></div> <div><span>25.&nbsp;</span><span>M. Dai.&nbsp;</span><span>Non-unique solutions for electron MHD.&nbsp;</span><span>arXiv:2405.14127, 2024.</span></div> <div><span><br /></span></div> <div><span>26.&nbsp;</span><span>M. Dai, V. Giri, and R. Radu.&nbsp;</span><span>An Onsager-type theorem for SQG.&nbsp;</span><span>arXiv:2407.02582, 2024.</span></div> <div><span><br /></span></div> <div><span>27.&nbsp;</span><span>M. Dai and S.-J. Oh.&nbsp;</span><span>Beale&ndash;Kato&ndash;Majda-type continuation criteria for Hall- and electron- magnetohydrodynamics.&nbsp;</span><span>arXiv:2407.04314, 2024.</span></div> <div><span><br /></span></div> <div><span style="font-family: LMRoman10; font-size: medium;">The broader impacts of the support include both educational and scientific broader impacts. Educational impacts include training graduate students, providing research opportunities for&nbsp;undergraduate students, introducing interesting mathematics topics to high school students, and encouraging women and underrepresented&nbsp;ethnic groups to pursue study in mathematics and related sciences. The PI has mentored three PhD students and a master student, and supervised many undergraduate students during the project period. Many of the papers listed above are joint work with students. Two PhD students are getting close to complete their thesis. They have been supported by this NSF award and have been trained to get ready for the next step of their academic journey. The broader impacts from the scientific perspective of the outcomes is the potential benefits for numerical and experimental study of MHD.&nbsp;</span></div> <p>&nbsp;</p><br> <p>  Last Modified: 11/17/2024<br> Modified by: Mimi&nbsp;Dai</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[The support of this NSF award has led to a sequence of research activities and findings. It has provided the PI the opportunity to engage in educational activities that give rise to several broader impacts.   In collaboration with students and other researchers, the PI has obtained research findings through which we have gained better understanding of MHD systems. The intellectual merit of the outcomes is the advancement on a few mathematical topics for MHD, in particular, ill-posedness phenomena of weak solutions with low regularity, such as the lack of uniqueness and anomalous dissipation of physical invariant quantities. Below is a list of the research papers on the findings.   1.M. Dai.Local well-posedness for the Hall-MHD system in optimal Sobolev spaces.Journal of Differential Equations, Vol. 289: 159-181, 2021.   2.M. Dai.Non-uniqueness of weak solutions in Leray-Hopf space for the 3D Hall-MHD system.SIAM Journal of Mathematical Analysis, 53(5): 59796016, 2021.   3.M. Dai.Phenomenologies of intermittent Hall MHD turbulence.DCDS-Series B. DOI: 10.3934/dcdsb.2021285, 2021.   4.M. Dai.Blow-up of a dyadic model with intermittency dependence for the Hall MHD.Physica D: Nonlinear Phenomena. DOI: 10.1016/j.physd.2021.133066.   5.M. Dai and S. Friedlander.Dyadic models for ideal MHD.Journal of Mathematical Fluid Mechanics. DOI:10.1007/s00021-021-00640-9, 2021.   6.M. Dai, J. Krol and H. Liu.On uniqueness and helicity conservation of weak solutions to the electron-MHD system.Journal of Mathematical Fluid Mechanics, 24:69, 2022.   7.M. Dai and H. Liu.On wel l-posedness of generalized Hal l-magnetohydrodynamics.Zeitschrift fu&#776;r angewandte Mathematik und Physik, 73:139, 2022.   8.M. Dai and S. Friedlander.Uniqueness and non-uniqueness results for dyadic MHD models.Journal of Nonlinear Science, https://doi.org/10.1007/s00332-022-09868-9, 2022.   9.M. Dai.Blow-up of dyadic MHD models with forward energy cascade.International Mathematics Research Notices, https://doi.org/10.1093/imrn/rnac337, 2022.   10.A. Cheskidov, M. Dai and S. Friedlander.Dyadic models for fluid equations: a survey.Journal of Mathematical Fluid Mechanics, Vol.25, 62, 2023.   11.M. Dai, B. Vyas and X. Zhang.1D model for the 3D magnetohydrodynamics.Journal of Nonlinear Science, doi.org/10.1007/s00332-023-09944-8, 2023.   12.M. Dai.Almost sure existence of global weak solutions for supercritical electron MHD.Discrete and Continuous Dynamical Systems Series B, doi:10.3934/dcdsb.2023146, 2023.   13.M. Dai and C. Wu.Dissipation wavenumber and regularity for electron ma- gnetohydrodynamics.Journal of Differential Equations, Vol. 376: 655681, 2023.   14.M. Dai.Almost sure well-posedness for Hall MHD.Journal of Mathematical Fluid Mechanics. Accepted, 2023.   15.M. Dai, M. Hoeller, Q. Peng and X. Zhang.Kolmogorovs dissipation number and determining wavenumber for dyadic models.Nonlinearity, 37, 025015, https://doi.org/10.1088/1361-6544/ad1af0, 2024.   16.M. Dai and S. Friedlander.Non-uniqueness of forced active scalar equations with even drift operators.Physica D: Nonlinear Phenomena, Vol. 467, 134271, https://doi.org/10.1016/j.physd.2024.134271, 2024.       17. M. Dai.Reduced models for electron magnetohydrodynamics: well-posedness and singularity formation.Transactions of AMS. Accepted, 2024.     18. A. Cheskidov and M. Dai.The number of degrees of freedom for the 2D Navier-Stokes equation: a connection with Kraichnans theory of turbulence.arXiv:2112.11606, 2021.   19.M. Dai and Q. Peng.Non-unique stationary solutions of forced SQG.arXiv:2302.03283, 2023.   20.M. Dai, C. Ouyang and Q. Peng.Uniqueness for a stochastic ideal dyadic MHD model.arXiv:2306.10909, 2023.   21.M. Dai.Global existence of 2D electron MHD near a steady state.arXiv:2306.13036, 2023.   22.M. Dai and Q. Peng.Non-unique weak solutions of forced SQG.arXiv:2310.13537, 2023.   23.M. Dai and C. Wu.Non-unique stationary solutions of even active scalar equations.arXiv:2403.16800, 2024.   24.M. Dai, H. Guerra and C. Wu.Self-similar singularities for electron MHD.arXiv:2405.00324, 2024.   25.M. Dai.Non-unique solutions for electron MHD.arXiv:2405.14127, 2024.   26.M. Dai, V. Giri, and R. Radu.An Onsager-type theorem for SQG.arXiv:2407.02582, 2024.   27.M. Dai and S.-J. Oh.BealeKatoMajda-type continuation criteria for Hall- and electron- magnetohydrodynamics.arXiv:2407.04314, 2024.   The broader impacts of the support include both educational and scientific broader impacts. Educational impacts include training graduate students, providing research opportunities forundergraduate students, introducing interesting mathematics topics to high school students, and encouraging women and underrepresentedethnic groups to pursue study in mathematics and related sciences. The PI has mentored three PhD students and a master student, and supervised many undergraduate students during the project period. Many of the papers listed above are joint work with students. Two PhD students are getting close to complete their thesis. They have been supported by this NSF award and have been trained to get ready for the next step of their academic journey. The broader impacts from the scientific perspective of the outcomes is the potential benefits for numerical and experimental study of MHD.        Last Modified: 11/17/2024       Submitted by: MimiDai]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

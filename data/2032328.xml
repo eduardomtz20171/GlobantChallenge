@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Southern Ocean Biogeochemistry Control on Short-Lived Ozone-Depleting Substances and Impacts on the Climate System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>343969.00</AwardTotalIntnAmount>
+<AwardAmount>343969</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Porter</SignBlockName>
+<PO_EMAI>dporter@nsf.gov</PO_EMAI>
+<PO_PHON>7032922930</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>A class of small molecules, very short-lived substances (VSLS; e.g. CHBr3,CH2Br2, and CH3I) are important components in the climate system where they act as tropospheric ozone destroyers as described in the multilateral environmental Montreal Protocol on Substances that Deplete the Ozone Layer. The Southern Ocean represents a key component in the climate system and has a critical role in other global biogeochemical cycles.&lt;br/&gt;&lt;br/&gt;This project will use the NSF/NCAR Community Earth System Model (CESM) with a newly developed online air-sea exchange framework, to evaluate biogeochemical controls on the marine sources of VSLS in the Southern Ocean as well as the Southern Hemisphere. A machine-learning approach will be used to couple ocean biogeochemistry with air-sea exchange for these compounds. A variety of oceanic and atmospheric observations of VSLS will be used to evaluate a unique oceanic VSLS inventory. In particular, the recent ORCAS field campaign provides a unique opportunity to examine Southern Ocean VSLS emissions, and their impacts from ocean biogeochemistry, meteorology and sea ice cycles. The project will also support a postdoctoral early-career researcher, and a specific effort of this project is STEM education and public outreach activities. The research team will extend opportunities to high school and undergraduate students so they may gain experience in the coupled ocean and atmospheric sciences, including exposure to and experience in programming and modeling.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/01/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>09/01/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.078</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032328</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Apel</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric C Apel</PI_FULL_NAME>
+<EmailAddress><![CDATA[apel@ucar.edu]]></EmailAddress>
+<NSF_ID>000418690</NSF_ID>
+<StartDate>09/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Kinnison</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Douglas E Kinnison</PI_FULL_NAME>
+<EmailAddress><![CDATA[dkin@ucar.edu]]></EmailAddress>
+<NSF_ID>000690758</NSF_ID>
+<StartDate>09/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University Corporation For Atmospheric Res]]></Name>
+<CityName>BOULDER</CityName>
+<ZipCode>803012252</ZipCode>
+<PhoneNumber>3034971000</PhoneNumber>
+<StreetAddress><![CDATA[3090 CENTER GREEN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YEZEE8W5JKA3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[National Center for Atmospheric Research]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803012252</ZipCode>
+<StreetAddress><![CDATA[3090 Center Green Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>164200</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>511300</Code>
+<Text>ANT Ocean &amp; Atmos Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5113</Code>
+<Text>ANTARCTIC OCEAN &amp; ATMOSPH SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>02XX</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>0100XXXXDB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~343969</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>A goal of this project was to develop a global emission ocean inventory for two major, naturally occurring ozone-depleting bromocarbons, bromoform (CHBr<sub>3</sub>) and dibromomethane (CH<sub>2</sub>Br<sub>2</sub>). We also developed the framework to project their emissions and resultant impacts on atmospheric concentrations from now to the end of the century. Originally, the focus of the project was on the Southern Ocean but was extended to include the entire globe. &nbsp;</p>  <p>These bromine containing species (bromocarbons) are part of a group of substances referred to as very short lived species (VSLS) which are, by definition, species that have atmospheric lifetimes of less than 6 months. The VSLS designation is in reference to the much longer-lived chlorine containing chlorofluorocarbons (CFCs) which are well known ozone depleting substances that have been banned through the Montreal protocol. Bromine, like chlorine, is an important ozone depleting substance. The VSLS, which include both bromocarbons and chlorocarbons, are not regulated by the protocol but are emerging as important species to consider when determining the projected recovery date of the ozone layer. This is the date that scientists foresee in which the ozone layer returns to 1980 levels, which is the date just prior to the rapid depletion of the ozone layer from freon (CFC) sources.</p>  <p>The oceanic emissions and climate impacts of VSLS were explored using a bottom-up oceanic emission inventory of VSLS that we developed based on a machine learning approach that coupled the ocean biogeochemistry with VSLS oceanic concentration. A variety of oceanic and atmospheric observations of VSLS were used to develop, test, and refine this new oceanic VSLS inventory. In particular, the 2016 NSF O<sub>2</sub>/N<sub>2</sub> Ratio and CO<sub>2</sub> Airborne Southern Ocean Study (ORCAS) field campaign provided a unique opportunity to examine Southern Ocean VSLS emissions, and their impacts from ocean biogeochemistry, meteorology and sea ice conditions.</p>  <p>This work used the NSF/NCAR Community Earth System Model (CESM) with a newly developed online air-sea exchange framework, to evaluate biogeochemical controls first on the marine sources of VSLS in the Southern Ocean and to then to extend that to the global scale.</p>  <p>The oceanic emissions of CHBr<sub>3</sub> and CH<sub>2</sub>Br<sub>2</sub> result from their production in the ocean and their subsequent flux to the atmosphere. Their oceanic production is dependent to both biological (e.g., phytoplankton functional types) and physical parameters (e.g., temperature). This project incorporated these factors and estimated the 2010-2100 oceanic concentration and flux of CHBr<sub>3</sub> and CH<sub>2</sub>Br<sub>2</sub> in 1 degree horizontal resolution. The emission flux was developed to investigate how&nbsp; future changes in anthropogenic greenhouse (AGG) gas emissions will impact the oceanic emissions of CHBr<sub>3</sub> and CH<sub>2</sub>Br<sub>2</sub>, and their corresponding contribution to bromine loading in the Upper Troposphere Lower Stratosphere (UTLS). The results suggest that changes in AGG emissions will increase the oceanic emissions in the future and, therefore, enhance the tropospheric bromine abundance by up to 1.5 ppt in the UTLS region, with larger values during summer and fall. In addition, we have provided climate researchers with the long-term oceanic concentration of CHBr<sub>3</sub> and CH<sub>2</sub>Br<sub>2</sub> which enables other climate studies involving the impact of other Earth system components within the CESM framework on the chemistry-climate-ecosystems interactions, and ozone.</p>  <p>Throughout this effort, we also investigated the global chlorinated VSLS distribution using the CESM Earth system model with updated short lived halogen chemistry, and quantified the inter-hemispheric transport of these compounds. We showed that Asia is the predominant source of these ozone depleting substances. The project outcomes of this study demonstrate that human activities can adversely impact the earth ecosystem. &nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/30/2024<br> Modified by: Eric&nbsp;C&nbsp;Apel</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  A goal of this project was to develop a global emission ocean inventory for two major, naturally occurring ozone-depleting bromocarbons, bromoform (CHBr3) and dibromomethane (CH2Br2). We also developed the framework to project their emissions and resultant impacts on atmospheric concentrations from now to the end of the century. Originally, the focus of the project was on the Southern Ocean but was extended to include the entire globe.     These bromine containing species (bromocarbons) are part of a group of substances referred to as very short lived species (VSLS) which are, by definition, species that have atmospheric lifetimes of less than 6 months. The VSLS designation is in reference to the much longer-lived chlorine containing chlorofluorocarbons (CFCs) which are well known ozone depleting substances that have been banned through the Montreal protocol. Bromine, like chlorine, is an important ozone depleting substance. The VSLS, which include both bromocarbons and chlorocarbons, are not regulated by the protocol but are emerging as important species to consider when determining the projected recovery date of the ozone layer. This is the date that scientists foresee in which the ozone layer returns to 1980 levels, which is the date just prior to the rapid depletion of the ozone layer from freon (CFC) sources.    The oceanic emissions and climate impacts of VSLS were explored using a bottom-up oceanic emission inventory of VSLS that we developed based on a machine learning approach that coupled the ocean biogeochemistry with VSLS oceanic concentration. A variety of oceanic and atmospheric observations of VSLS were used to develop, test, and refine this new oceanic VSLS inventory. In particular, the 2016 NSF O2/N2 Ratio and CO2 Airborne Southern Ocean Study (ORCAS) field campaign provided a unique opportunity to examine Southern Ocean VSLS emissions, and their impacts from ocean biogeochemistry, meteorology and sea ice conditions.    This work used the NSF/NCAR Community Earth System Model (CESM) with a newly developed online air-sea exchange framework, to evaluate biogeochemical controls first on the marine sources of VSLS in the Southern Ocean and to then to extend that to the global scale.    The oceanic emissions of CHBr3 and CH2Br2 result from their production in the ocean and their subsequent flux to the atmosphere. Their oceanic production is dependent to both biological (e.g., phytoplankton functional types) and physical parameters (e.g., temperature). This project incorporated these factors and estimated the 2010-2100 oceanic concentration and flux of CHBr3 and CH2Br2 in 1 degree horizontal resolution. The emission flux was developed to investigate how future changes in anthropogenic greenhouse (AGG) gas emissions will impact the oceanic emissions of CHBr3 and CH2Br2, and their corresponding contribution to bromine loading in the Upper Troposphere Lower Stratosphere (UTLS). The results suggest that changes in AGG emissions will increase the oceanic emissions in the future and, therefore, enhance the tropospheric bromine abundance by up to 1.5 ppt in the UTLS region, with larger values during summer and fall. In addition, we have provided climate researchers with the long-term oceanic concentration of CHBr3 and CH2Br2 which enables other climate studies involving the impact of other Earth system components within the CESM framework on the chemistry-climate-ecosystems interactions, and ozone.    Throughout this effort, we also investigated the global chlorinated VSLS distribution using the CESM Earth system model with updated short lived halogen chemistry, and quantified the inter-hemispheric transport of these compounds. We showed that Asia is the predominant source of these ozone depleting substances. The project outcomes of this study demonstrate that human activities can adversely impact the earth ecosystem.          Last Modified: 12/30/2024       Submitted by: EricCApel]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

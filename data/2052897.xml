@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAR PF: Investigating the competition between thermal pressurization and dilatancy on rough surfaces at earthquake slip rates]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>174000.00</AwardTotalIntnAmount>
+<AwardAmount>174000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aisha Morris</SignBlockName>
+<PO_EMAI>armorris@nsf.gov</PO_EMAI>
+<PO_PHON>7032927081</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded in whole or in part under the American Rescue Plan Act of 2021 (Public Law 117-2).&lt;br/&gt;&lt;br/&gt;An NSF EAR Postdoctoral Fellowship has been awarded to Dr. Monica Barbery to investigate earthquake physics at Brown University under the mentorship of Dr. Terry Tullis. Dr. Barbery will work to understand how rocks behave when exposed to the friction produced when there is rapid movement on a fault. The postdoctoral fellow will use new experimental machinery to conduct the first rock friction experiments at the velocity and pressures of real earthquakes to understand earthquake processes and the associated risks. This work will improve the ability to scale existing laboratory results to nature. This research will help in the development and modification of new and existing earthquake models that play a vital role in mitigating earthquake risk. In addition to these research activities, Dr. Barbery will work with Providence public schools to develop and implement curriculum for an educational outreach program at Brown University and will co-teach a stacked graduate and undergraduate course within the Department of Earth, Environmental, and Planetary Sciences.&lt;br/&gt;&lt;br/&gt;Dynamic weakening by thermal pore fluid pressurization (TP) and dynamic strengthening by dilatancy hardening (DH) are mechanisms theorized to contribute to the frictional strength and stability of faults during earthquakes. TP occurs as frictionally heated pore fluids expand along undrained faults to frictionally weaken the fault. DH occurs as microcracks develop during shearing and as previously mated fault surfaces become unmated with slip, both of which increase pore space and frictionally strengthen the fault. Both processes are closely tied to the roughness and displacement history of the sliding surface however TP will only contribute significantly to the frictional weakening that leads to earthquake instability if DH is minimal. Rock friction experiments will be conducted to examine the efficacy of TP and DH at elevated slip rates (≥100 mm/s), elevated confining pressure (≥25 MPa), and elevated pore pressure (≥25 MPa) using a newly modified rotary shear apparatus. Experiment results will be combined with modelling to characterize the competition between TP and DH across a range of slip rate, roughness, and displacement scales to better understand how to scale DH and TP processes to earthquakes on natural faults.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052897</AwardID>
+<Investigator>
+<FirstName>Monica</FirstName>
+<LastName>Barbery</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Monica R Barbery</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000832374</NSF_ID>
+<StartDate>07/19/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Barbery, Monica R]]></Name>
+<CityName>College Station</CityName>
+<ZipCode>778433115</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[DEEPS Brown University]]></Name>
+<CityName>Providence</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>029129019</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>722200</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~174000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Faults that host earthquakes are naturally rough. Asperities on these rough surfaces can collide and lock, preventing any further movement on a fault. Earthquakes often begin when these locked asperities fail, and earthquake characteristics are controlled by frictional processes at the fault surface. Earthquakes can also begin on faults that are creeping or slowing moving at slip rates of nanometers per seconds or lower, though it is unclear what processes can trigger earthquake on creeping faults. Here, we aim to advance our understanding of the physics of earthquakes.</p> <p>In one project, we explored two processes that may activate during earthquakes. The first is thermal pressurization of pore fluids (TP), which can facilitate earthquakes, and the second is dilatancy hardening (DH), which can impede earthquakes. TP occurs as heated pore fluids, naturally present in most fault zones, thermally expand due to frictional heating faster than the surrounding fault surface. This process decreases the stress on the fault, thereby decreasing the frictional strength of the fault which can contribute to earthquake propagation. DH has the opposite effect; it increases the available pore volume as cracks develop and previously mated, rough fault surfaces become unmated with slip. TP will only be significant during earthquakes if DH is minimal. To better understand these processes, we conducted experiments at earthquake like conditions using a one-of-a-kind deformation apparatus at Brown University. Experiments were conducted by rotating two rocks samples against each other, first at low sliding rates of 1 micron per second, akin to creeping sliding rates, and then increased the velocity up to 10 millimeters per second, approaching earthquake sliding rates. We found that on smooth faults, TP occurs following every velocity step after 20 mm of rotation. In contrast, on rough faults, TP occurred in only half of the velocity steps we performed and weakening occurred after over 80 mm of slip, representing a fourfold delay. Our results suggest that TP may be significantly delayed or possibly inhibited along rough faults in nature, and that TP may be less prevalent in earthquakes than previously thought. A manuscript detailing this work is in preparation for submission to the high-impact scientific journal with an anticipated submission date of December 2024.</p> <p>In a second project, we explored the frictional behavior of rough laboratory faults to explore if interactions between large asperities on rough faults can trigger earthquakes. Experiments were conducted at creeping slip rates on samples with four different roughness configurations. We found that when asperities collide on rough faults, they trigger laboratory earthquakes, though asperities are heavily fractured and damaged from these collisions and become obsolete after two collisions. These results suggest that collisions of rough asperities provide a framework to explain the development of slow and fast earthquakes on creeping faults in nature. A manuscript detailing this work has been completed for submission to a high-impact scientific journal in October of 2024.</p> <p>The results from both of these projects will advance our understanding of earthquake physics and fault stability, and will inform the development and modification of new and existing earthquake models, which play a vital role in mitigating earthquake hazard and risk in the United States and worldwide. This project also supported PI Dr. Monica Barbery&rsquo;s participation in DEEPS CORES, a program that develops and implements STEM curriculum for local Providence public schools. DEEPS CORES aims to expand participation in STEM fields from under-represented groups and to improve science literacy of the general public.</p><br> <p>  Last Modified: 10/01/2024<br> Modified by: Monica&nbsp;R&nbsp;Barbery</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Faults that host earthquakes are naturally rough. Asperities on these rough surfaces can collide and lock, preventing any further movement on a fault. Earthquakes often begin when these locked asperities fail, and earthquake characteristics are controlled by frictional processes at the fault surface. Earthquakes can also begin on faults that are creeping or slowing moving at slip rates of nanometers per seconds or lower, though it is unclear what processes can trigger earthquake on creeping faults. Here, we aim to advance our understanding of the physics of earthquakes.   In one project, we explored two processes that may activate during earthquakes. The first is thermal pressurization of pore fluids (TP), which can facilitate earthquakes, and the second is dilatancy hardening (DH), which can impede earthquakes. TP occurs as heated pore fluids, naturally present in most fault zones, thermally expand due to frictional heating faster than the surrounding fault surface. This process decreases the stress on the fault, thereby decreasing the frictional strength of the fault which can contribute to earthquake propagation. DH has the opposite effect; it increases the available pore volume as cracks develop and previously mated, rough fault surfaces become unmated with slip. TP will only be significant during earthquakes if DH is minimal. To better understand these processes, we conducted experiments at earthquake like conditions using a one-of-a-kind deformation apparatus at Brown University. Experiments were conducted by rotating two rocks samples against each other, first at low sliding rates of 1 micron per second, akin to creeping sliding rates, and then increased the velocity up to 10 millimeters per second, approaching earthquake sliding rates. We found that on smooth faults, TP occurs following every velocity step after 20 mm of rotation. In contrast, on rough faults, TP occurred in only half of the velocity steps we performed and weakening occurred after over 80 mm of slip, representing a fourfold delay. Our results suggest that TP may be significantly delayed or possibly inhibited along rough faults in nature, and that TP may be less prevalent in earthquakes than previously thought. A manuscript detailing this work is in preparation for submission to the high-impact scientific journal with an anticipated submission date of December 2024.   In a second project, we explored the frictional behavior of rough laboratory faults to explore if interactions between large asperities on rough faults can trigger earthquakes. Experiments were conducted at creeping slip rates on samples with four different roughness configurations. We found that when asperities collide on rough faults, they trigger laboratory earthquakes, though asperities are heavily fractured and damaged from these collisions and become obsolete after two collisions. These results suggest that collisions of rough asperities provide a framework to explain the development of slow and fast earthquakes on creeping faults in nature. A manuscript detailing this work has been completed for submission to a high-impact scientific journal in October of 2024.   The results from both of these projects will advance our understanding of earthquake physics and fault stability, and will inform the development and modification of new and existing earthquake models, which play a vital role in mitigating earthquake hazard and risk in the United States and worldwide. This project also supported PI Dr. Monica Barberys participation in DEEPS CORES, a program that develops and implements STEM curriculum for local Providence public schools. DEEPS CORES aims to expand participation in STEM fields from under-represented groups and to improve science literacy of the general public.     Last Modified: 10/01/2024       Submitted by: MonicaRBarbery]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

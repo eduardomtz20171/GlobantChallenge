@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Characterization of Materials Using Synchrotron and X-ray Based Tools]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>404776.00</AwardTotalIntnAmount>
+<AwardAmount>404776</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Meulenberg</SignBlockName>
+<PO_EMAI>rmeulenb@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This site is supported by the Department of Defense in partnership with the NSF REU program. NSF support for this REU Site comes from the Division of Engineering Education &amp; Centers (Directorate for Engineering) and the Division of Materials Research (Directorate of Mathematical and Physical Sciences).&lt;br/&gt;&lt;br/&gt;NON-TECHNICAL DESCRIPTION: This Research Experiences for Undergraduates (REU) Site in Materials Research provides undergraduate students nationwide with an opportunity to learn about X-ray science and technology and explore their broad applications by participating in a number of cutting-edge interdisciplinary research projects in materials science, physics, chemistry, biology, chemical and biomedical engineering. The main objectives of this REU are (1) to introduce undergraduates from across the nation to the field of X-ray, and its powerful impact on modern science and technology, (2) to provide, through a series of lectures, discussions, and demonstrations, a basic working knowledge of the subject, including history, generation, and utilization of X-rays, (3) to engage students with faculty and graduate students in hands-on X-ray research projects on campus at the Illinois Tech and off campus at Argonne National Laboratory’s Advanced Photon Source, the largest X-ray facility in the US, (4) to conduct regular group meetings for students to report on and discuss their research results and findings, and (5) to organize seminars, mentorship sessions, and lectures aimed at enhancing students’ professional skills including technical writing, technical communication, professional ethics, team work, etc. as well exploring graduate study and career opportunities in area of national needs including the field of X-ray.  Since its discovery, X-ray has had an outsized, broad, and significant impact on our understanding of the physical world and has led to the creation and development of many new fields in science with huge technical and economic impact. This REU provides a unique opportunity for undergraduate students, particularly those from the underrepresented groups, to learn about X-ray, experience X-ray research first hand, appreciate its immense impact, and potentially explore graduate studies and future careers in this field where there is a national need for trained personnel.  &lt;br/&gt;&lt;br/&gt;TECHNICAL DETAILS: The REU student participants are engaged to join the summer research activities at Illinois Tech working with one of 12 participating faculty mentors. The REU Site is designed to introduce REU students to the generation and use of X-rays in science and engineering research, providing them with firsthand experience in using X-rays. Research projects include: (1) Development of an X-ray system for characterization of defects during 3D printing, (2) Machine learning approaches to processing X-ray data, (3) Development of X-ray lenses, (4) X-ray spectroscopy technique, (5) X-ray tomography, (6) X-ray tomography in additive manufacturing, (7) X-ray study of nano-scale precipitates in superalloys, (8) Photochemistry of crystalline 2-Dimensional Covalent Organic Framework using X-ray, (9) Evolution of crystal structure and defects during plastic deformation of a ductile semiconductor, (10) In-situ characterization of battery and fuel cell materials using X-ray absorption spectroscopy, (11) Investigation of pancreatic cancer chemotherapy using X-ray diffraction, and (12) Operando characterization of heteroatomic transition metal-based electrocatalysts for conversion of carbon dioxide to alcohols. The key technical objective of the REU activities is to provide the participating students with a basic understanding of X-rays and how they are used, exposure to various X-ray techniques, appreciation of the broad range of their applications, and knowledge about the immense and exciting opportunities that an education and career in this field can provide.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/08/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050916</AwardID>
+<Investigator>
+<FirstName>Ali</FirstName>
+<LastName>Khounsary</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ali Khounsary</PI_FULL_NAME>
+<EmailAddress><![CDATA[akhounsa@iit.edu]]></EmailAddress>
+<NSF_ID>000067302</NSF_ID>
+<StartDate>03/08/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amir</FirstName>
+<LastName>Mostafaei</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amir Mostafaei</PI_FULL_NAME>
+<EmailAddress><![CDATA[mostafaei@iit.edu]]></EmailAddress>
+<NSF_ID>000825057</NSF_ID>
+<StartDate>03/08/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Illinois Institute of Technology]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606163717</ZipCode>
+<PhoneNumber>3125673035</PhoneNumber>
+<StreetAddress><![CDATA[10 W 35TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NDENMDUEG8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ILLINOIS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Illinois Institute of Technology]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606163717</ZipCode>
+<StreetAddress><![CDATA[10 West 35th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>136000</Code>
+<Text>EWFD-Eng Workforce Development</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>722200</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>V14900</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7736</Code>
+<Text>DOD ASSURE PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0421</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04002122RB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~404776</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>There is a critical need for domestic workforce development in the expanding field of X-ray science and technology. Nationally, science and engineering students have minimal to no exposure to this field. Illinois Institute of Technology, with its expertise and resources, including several X-ray beams operated at Argonne National Laboratory's synchrotron facility and a robust health physics program, is uniquely positioned to offer this REU site. This program aimed to provide early training for undergraduate students in X-ray science, focusing on X-rays and their applications in materials characterization and beyond. Students learn about a wide range of career opportunities where X-rays and X-ray techniques are indispensable, including careers in science, engineering, medicine, pharmacology, archaeology, crystallography, and health physics.</p> <p>&nbsp;</p> <p>During the course of this REU site at Illinois Institute of Technology, 31 undergraduate students were hired, including 15 females, 8 African Americans, 5 Hispanics, 1 refugee, 1 LGBTQIA+ individual, and 2 students with disabilities. 12 faculties from different majors actively mentored REU participants. We also had over 10 graduate student mentors assisting REU site at Illinois Institute of Technology. REU students were supported in presenting their research outcomes at conferences between 2022-24, either as poster presentations or oral talks. Additionally, 22 peer-reviewed articles were published in scientific journals, all of which included REU student participants.</p> <p>&nbsp;</p> <p>This REU site at Illinois Institute of Technology was built on the following goals:</p> <p>&nbsp;</p> <ol> <li><strong>Hands-on Research      Experience</strong>: Provide      undergraduate students with practical research opportunities to deeply      understand X-ray production, interactions with matter, and modern      applications in imaging, spectroscopy, and scattering, with a focus on      materials science. The program welcomes students from various science and      engineering disciplines, assuming no prior knowledge or experience with      X-ray techniques.</li> <li><strong>Expanding Knowledge in      X-ray Techniques</strong>: Highlight the      expanding role of X-ray techniques in modern science and engineering,      particularly in materials research. Since X-ray techniques are rarely      covered at the undergraduate level, this REU program aims to introduce      interested students to this crucial field. Participants conduct hands-on      research on advanced scientific problems at campus facilities and X-ray      beamlines at the Advanced Photon Source, Argonne National Laboratory.</li> <li><strong>Promoting Diversity</strong>: Address social issues affecting underrepresented      and disadvantaged groups in science and engineering. Leveraging      established relationships with community colleges and universities, the      program aims to attract and recruit underrepresented students based on      merit.</li> <li><strong>Professional and      Intellectual Development</strong>:      Enhance REU students' professional and intellectual skills through      individual and teamwork activities. This includes seminars by IIT faculty      and staff on topics such as professional presentation, basic research      skills, literature and patent searches, professional ethics, and      scientific societies. Students present their research findings and      participate in the IIT-sponsored summer undergraduate research      competition. Additional activities include field trips, poster sessions,      and social events for networking and exchange.</li> <li><strong>Broadening Knowledge      in X-ray and Materials Science</strong>:      Provide foundational knowledge in X-ray and materials science fields      through weekly lectures, seminars, discussions, workshops, and tours of      research labs and industrial facilities.</li> <li><strong>Real-world      Applications</strong>: Organize site visits      to X-ray research and industrial facilities to demonstrate how research in      materials science addresses real-world problems and how X-ray techniques      facilitate scientific and industrial progress.</li> </ol> <p>&nbsp;</p> <p>The defined goals were achieved as follows activities:</p> <p>&nbsp;</p> <ol> <li>Heavily advertised the REU Site, with a special      focus on contacting Historically Black Colleges and Universities (HBCUs)      to attract underrepresented student groups.</li> <li>Held a kick-off meeting for REU students to meet      their faculty mentors and assisting graduate students.</li> <li>Presented campus resources to participating      students.</li> <li>Organized weekly presentations for REU participants      where each student provided a 5&ndash;10-minute overview of their selected      projects.</li> <li>Organized weekly presentations where students      shared their research progress with the entire REU cohort and faculty.</li> <li>Provided ongoing mentor/faculty feedback to      students to improve their weekly presentations.</li> <li>Provided students with recorded tutorials on      various X-ray-related topics.</li> <li>Organized visits to a Chicago area industrial      CT-scan company (Nel Pretech Corporation) where students participated in      experiments.</li> <li>Arranged visits to a Chicago area industrial      manufacturing and machining company (DMG MORI).</li> <li>Facilitated visits to Argonne National Laboratory,      where students toured several synchrotron beamlines and observed      experiments and scientists working on X-ray beamlines.</li> <li>Hosted weekly technical and professional seminars      by faculty and staff on the following topics:</li> </ol> <ul> <li>ntroduction to X-ray and synchrotron-based radiation</li> <li>Introduction to X-ray optics and other key instruments of a synchrotron beamline</li> <li>Resources, methods, and techniques in conducting research (by IIT Librarian)</li> <li>Ethics in the conduct of science (by the Center of Ethics and Profession)</li> <li>Application of novel X-ray-based technologies in physics and engineering</li> <li>Current trends in materials science and characterization tools</li> <li>X-ray optics and metrology by staff from Argonne National Laboratory</li> <li>Oral and poster presentation skills</li> <li>Machine learning tools for predicting materials behavior based on X-ray data</li> <li>Group discussion about career choices including graduate study</li> <li>An introduction to graduate studies, school selection, and the application process</li> </ul> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <ul> </ul><br> <p>  Last Modified: 06/30/2024<br> Modified by: Amir&nbsp;Mostafaei</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2050916/2050916_10720948_1719804941729_REU_Site_Illinois_Tech--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2050916/2050916_10720948_1719804941729_REU_Site_Illinois_Tech--rgov-800width.jpg" title="REU student"><img src="/por/images/Reports/POR/2024/2050916/2050916_10720948_1719804941729_REU_Site_Illinois_Tech--rgov-66x44.jpg" alt="REU student"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Exemplary photos from REU participants at different event between 2021-2023.</div> <div class="imageCredit">Priciple Investigators</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Amir&nbsp;Mostafaei <div class="imageTitle">REU student</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  There is a critical need for domestic workforce development in the expanding field of X-ray science and technology. Nationally, science and engineering students have minimal to no exposure to this field. Illinois Institute of Technology, with its expertise and resources, including several X-ray beams operated at Argonne National Laboratory's synchrotron facility and a robust health physics program, is uniquely positioned to offer this REU site. This program aimed to provide early training for undergraduate students in X-ray science, focusing on X-rays and their applications in materials characterization and beyond. Students learn about a wide range of career opportunities where X-rays and X-ray techniques are indispensable, including careers in science, engineering, medicine, pharmacology, archaeology, crystallography, and health physics.      During the course of this REU site at Illinois Institute of Technology, 31 undergraduate students were hired, including 15 females, 8 African Americans, 5 Hispanics, 1 refugee, 1 LGBTQIA+ individual, and 2 students with disabilities. 12 faculties from different majors actively mentored REU participants. We also had over 10 graduate student mentors assisting REU site at Illinois Institute of Technology. REU students were supported in presenting their research outcomes at conferences between 2022-24, either as poster presentations or oral talks. Additionally, 22 peer-reviewed articles were published in scientific journals, all of which included REU student participants.      This REU site at Illinois Institute of Technology was built on the following goals:     Hands-on Research      Experience: Provide      undergraduate students with practical research opportunities to deeply      understand X-ray production, interactions with matter, and modern      applications in imaging, spectroscopy, and scattering, with a focus on      materials science. The program welcomes students from various science and      engineering disciplines, assuming no prior knowledge or experience with      X-ray techniques. Expanding Knowledge in      X-ray Techniques: Highlight the      expanding role of X-ray techniques in modern science and engineering,      particularly in materials research. Since X-ray techniques are rarely      covered at the undergraduate level, this REU program aims to introduce      interested students to this crucial field. Participants conduct hands-on      research on advanced scientific problems at campus facilities and X-ray      beamlines at the Advanced Photon Source, Argonne National Laboratory. Promoting Diversity: Address social issues affecting underrepresented      and disadvantaged groups in science and engineering. Leveraging      established relationships with community colleges and universities, the      program aims to attract and recruit underrepresented students based on      merit. Professional and      Intellectual Development:      Enhance REU students' professional and intellectual skills through      individual and teamwork activities. This includes seminars by IIT faculty      and staff on topics such as professional presentation, basic research      skills, literature and patent searches, professional ethics, and      scientific societies. Students present their research findings and      participate in the IIT-sponsored summer undergraduate research      competition. Additional activities include field trips, poster sessions,      and social events for networking and exchange. Broadening Knowledge      in X-ray and Materials Science:      Provide foundational knowledge in X-ray and materials science fields      through weekly lectures, seminars, discussions, workshops, and tours of      research labs and industrial facilities. Real-world      Applications: Organize site visits      to X-ray research and industrial facilities to demonstrate how research in      materials science addresses real-world problems and how X-ray techniques      facilitate scientific and industrial progress.       The defined goals were achieved as follows activities:     Heavily advertised the REU Site, with a special      focus on contacting Historically Black Colleges and Universities (HBCUs)      to attract underrepresented student groups. Held a kick-off meeting for REU students to meet      their faculty mentors and assisting graduate students. Presented campus resources to participating      students. Organized weekly presentations for REU participants      where each student provided a 510-minute overview of their selected      projects. Organized weekly presentations where students      shared their research progress with the entire REU cohort and faculty. Provided ongoing mentor/faculty feedback to      students to improve their weekly presentations. Provided students with recorded tutorials on      various X-ray-related topics. Organized visits to a Chicago area industrial      CT-scan company (Nel Pretech Corporation) where students participated in      experiments. Arranged visits to a Chicago area industrial      manufacturing and machining company (DMG MORI). Facilitated visits to Argonne National Laboratory,      where students toured several synchrotron beamlines and observed      experiments and scientists working on X-ray beamlines. Hosted weekly technical and professional seminars      by faculty and staff on the following topics:   ntroduction to X-ray and synchrotron-based radiation Introduction to X-ray optics and other key instruments of a synchrotron beamline Resources, methods, and techniques in conducting research (by IIT Librarian) Ethics in the conduct of science (by the Center of Ethics and Profession) Application of novel X-ray-based technologies in physics and engineering Current trends in materials science and characterization tools X-ray optics and metrology by staff from Argonne National Laboratory Oral and poster presentation skills Machine learning tools for predicting materials behavior based on X-ray data Group discussion about career choices including graduate study An introduction to graduate studies, school selection, and the application process                       Last Modified: 06/30/2024       Submitted by: AmirMostafaei]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CCF:SHF: Small: Some New Class of Error Control Codes for VLSI and Computer Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>327467.00</AwardTotalIntnAmount>
+<AwardAmount>359467</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Error-control codes continue to play a major role in achieving highly reliable operations of computers, communications, storage systems, and wireless networks. Most of the codes are developed under the error model of Binary Symmetric Channel (BSC), where the probability of a 1 to 0 error is the same as the probability of a 0 to 1 error. However, the error natures of the recently developed VLSI systems and memory systems are different. This project considers two important error models, the limited magnitude error model and the insertion/deletion of symbol error model. This project will investigate efficient error-control codes for these error models.  The optimal design of codes and the efficient encoding/decoding algorithms for these codes will be considered. In addition, noise reduction in VLSI systems using pin-efficient "balanced codes," where each codeword contains an equal number of zeros and ones, will be investigated. It is also planned to implement the balanced codes in silicon and study their performance. The research results can be applied to broad areas in order to achieve more reliable computing, communications, and network systems. The project will also help enhance education and outreach activities of undergraduate, graduate, and underrepresented students at the PIs' institution by including them in the project. &lt;br/&gt;&lt;br/&gt;The balanced-code technique to overcome noise in modern VLSI chip-to-chip communications is novel. Compared to the currently used "differential-signaling" techniques the balanced-code technique is efficient in terms of the pin count. For example, to communicate k data bits between two chips, the differential-signaling method requires k extra pins, whereas the balanced coding method requires only log_2 (k) extra pins. This project will investigate balanced codes with the aim to achieve efficient VLSI implementation. This project will also advance the design knowledge of all limited-magnitude error-correcting codes, which are related to the zero-error capacity codes. Since the introduction of the concept of zero-error capacity of a channel in 1958 by Shannon, this project, for the first time, proposes the zero-error capacity as a means to achieving systematic codes for the limited-magnitude error channel. Constructing codes capable of correcting t insertion/deletion of symbols has been an open research problem for more than 50 years. Designing limited-magnitude error-correcting codes based on the concept of elementary symmetric functions is a novel approach, and the codes are efficient in terms of redundancy used, and also in terms of encoding and decoding complexities. The elementary symmetric-function technique investigated in this project can also be used to design codes correcting the insertion and deletion of symbols.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/19/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006571</AwardID>
+<Investigator>
+<FirstName>Bella</FirstName>
+<LastName>Bose</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bella Bose</PI_FULL_NAME>
+<EmailAddress><![CDATA[bose@eecs.orst.edu]]></EmailAddress>
+<NSF_ID>000372267</NSF_ID>
+<StartDate>06/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tejasvi</FirstName>
+<LastName>Anand</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tejasvi Anand</PI_FULL_NAME>
+<EmailAddress><![CDATA[anandt@eecs.oregonstate.edu]]></EmailAddress>
+<NSF_ID>000718951</NSF_ID>
+<StartDate>06/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Oregon State University]]></Name>
+<CityName>CORVALLIS</CityName>
+<ZipCode>973318655</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress><![CDATA[1500 SW JEFFERSON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MZ4DYXE1SL98</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OREGON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oregon State University]]></Name>
+<CityName>Corvallis</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>973315501</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~327467</FUND_OBLG>
+<FUND_OBLG>2021~16000</FUND_OBLG>
+<FUND_OBLG>2022~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project outcomes of this proposal consist of three parts.</p>  <p>1.<strong>Error-Correcting Code Designs for Limited Magnitude Error Channels</strong></p>  <p>Currently, flash memory systems are among the leading non-volatile memory technologies. To increase storage density, each memory cell in these systems is programmed to hold&nbsp; q levels, allowing it to store <span class="katex"><span class="katex-mathml">log&#8289;(q)</span></span>&nbsp;bits. Errors in these systems tend to be of limited magnitude. This project focuses on designing efficient codes capable of correcting such limited magnitude errors. The codes leverage the mathematical framework of <em>Elementary Symmetric Functions</em> to enhance error correction. The proposed codes are shown to be nearly optimal in terms of the number of check bits required. A related paper was published at the International Symposium on Information Theory in 2023.</p>  <p><strong>2. Insertion and deletion error correcting codes</strong></p>  <p>In communication and magnetic recording systems, syn-chronization errors can occur in two forms. The first type isa deletion error, where a transmitted symbol is not received.The second type is an insertion error, where an unexpected,spurious symbol is received. The propagation of these errorscan greatly reduce the performance of these systems.</p>  <p>In this project, we have designed efficient codes capable of correcting t insertion and deletion of the symbol 0 in a codeword. Both systematic and non-systematic codes are designed. These codes are shown to be optimal in terms of the number of check bits used. In addition, efficient encoding and decoding algorithms are also developed. A related paper on non-systematic code design was published at the IEEE Transactions on Information Theory, Jan. 2023.&nbsp;<span>&nbsp;Another paper describing the systematic codes capable of correcting t insertion/deletion of symbol 0 is published&nbsp; at the IEEE International Workshop on Information Theory, November 2022.</span></p>  <p>Additionally,&nbsp;we explore a different error model, where the number of insertion/deletion of a fixed symbol, say zero,in each and every bucket of zeros (i. e., maximal 0-run, or sequence of zeros in between two consecutive ones of a binary string) is at most t. The code design problem for this type of error model is shown to be related to the zero error capacity codes, first&nbsp; introduced by Shannon in 1956. Optimal and near optimal systematic and non-systematic codes are designed. Two papers in these areas are published, one at the International Symposium on Information Thoery 2022 and the other at the International Symposium on Information Theory, 2024.</p>  <p><strong>3 Balanced codes for VLSI systems.</strong></p>  <p>Evolving artificial intelligence and high-performance computing applications demand higher aggregate data rates between SoC-to-SoC and SoC-to-module. However, achieving higher aggregate data throughput is often constrained by the limited number of I/O pins available in the package. A balanced coding technique in which the codewords contain a balanced (equal) number of ones and zeros in a binary code setting, can achieve high pin efficiency, which helps to increase the data throughput.</p>  <p>In this project, we designed a high-speed wireline transceiver using balanced coding with higher pin efficiency without compromising the signal-to-noise ratio (SNR). The proposed transceiver architecture utilizes a 4b6w (4 bits over 6 wires) balanced encoding technique to achieve 0.66 pin efficiency, which is 33% higher than fully differential. The Rx front end is designed to differentially sense the six lanes to achieve 3dB higher SNR over single-ended. The proposed transceiver achieves a 60Gb/s aggregate data rate (15Gb/s/ch) and compensates for 15dB channel loss at 7.5GHz with an FoM of 0.167pJ/bit/dB in 16nm FinFET.</p><br> <p>  Last Modified: 12/23/2024<br> Modified by: Tejasvi&nbsp;Anand</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The project outcomes of this proposal consist of three parts.    1.Error-Correcting Code Designs for Limited Magnitude Error Channels    Currently, flash memory systems are among the leading non-volatile memory technologies. To increase storage density, each memory cell in these systems is programmed to hold q levels, allowing it to store log&#8289;(q)bits. Errors in these systems tend to be of limited magnitude. This project focuses on designing efficient codes capable of correcting such limited magnitude errors. The codes leverage the mathematical framework of Elementary Symmetric Functions to enhance error correction. The proposed codes are shown to be nearly optimal in terms of the number of check bits required. A related paper was published at the International Symposium on Information Theory in 2023.    2. Insertion and deletion error correcting codes    In communication and magnetic recording systems, syn-chronization errors can occur in two forms. The first type isa deletion error, where a transmitted symbol is not received.The second type is an insertion error, where an unexpected,spurious symbol is received. The propagation of these errorscan greatly reduce the performance of these systems.    In this project, we have designed efficient codes capable of correcting t insertion and deletion of the symbol 0 in a codeword. Both systematic and non-systematic codes are designed. These codes are shown to be optimal in terms of the number of check bits used. In addition, efficient encoding and decoding algorithms are also developed. A related paper on non-systematic code design was published at the IEEE Transactions on Information Theory, Jan. 2023.Another paper describing the systematic codes capable of correcting t insertion/deletion of symbol 0 is published at the IEEE International Workshop on Information Theory, November 2022.    Additionally,we explore a different error model, where the number of insertion/deletion of a fixed symbol, say zero,in each and every bucket of zeros (i. e., maximal 0-run, or sequence of zeros in between two consecutive ones of a binary string) is at most t. The code design problem for this type of error model is shown to be related to the zero error capacity codes, first introduced by Shannon in 1956. Optimal and near optimal systematic and non-systematic codes are designed. Two papers in these areas are published, one at the International Symposium on Information Thoery 2022 and the other at the International Symposium on Information Theory, 2024.    3 Balanced codes for VLSI systems.    Evolving artificial intelligence and high-performance computing applications demand higher aggregate data rates between SoC-to-SoC and SoC-to-module. However, achieving higher aggregate data throughput is often constrained by the limited number of I/O pins available in the package. A balanced coding technique in which the codewords contain a balanced (equal) number of ones and zeros in a binary code setting, can achieve high pin efficiency, which helps to increase the data throughput.    In this project, we designed a high-speed wireline transceiver using balanced coding with higher pin efficiency without compromising the signal-to-noise ratio (SNR). The proposed transceiver architecture utilizes a 4b6w (4 bits over 6 wires) balanced encoding technique to achieve 0.66 pin efficiency, which is 33% higher than fully differential. The Rx front end is designed to differentially sense the six lanes to achieve 3dB higher SNR over single-ended. The proposed transceiver achieves a 60Gb/s aggregate data rate (15Gb/s/ch) and compensates for 15dB channel loss at 7.5GHz with an FoM of 0.167pJ/bit/dB in 16nm FinFET.     Last Modified: 12/23/2024       Submitted by: TejasviAnand]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

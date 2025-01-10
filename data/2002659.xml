@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nanoparticle Materials as Chemical and Biological Tools for Peptides and Proteins]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>525000.00</AwardTotalIntnAmount>
+<AwardAmount>525000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nitsa Rosenzweig</SignBlockName>
+<PO_EMAI>nirosenz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927256</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>PART 1:   NON-TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Proteins are extremely important biomolecules involved in practically every biological process. Although synthetic materials that bind peptides and proteins in aqueous environments are highly desirable, they are difficult to produce due to complexity of biological peptides. The research group of Professor Yan Zhao at Iowa State University develops novel antibody-mimicking polymeric nanoparticles for sequence-specific recognition of peptides. These materials are expected to enable numerous applications in chemistry and biology including identification of functional residues responsible for Alzheimer’s disease, regulation of enzymatic catalysis, and purification of peptides and proteins. The research trains student researchers into professional scientists by exposing them to a wide range of skills in biomaterials science, physical organic chemistry, supramolecular chemistry, and polymer chemistry.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;PART 2:   TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Proteins are extremely important biomolecules involved in practically every biological process. Although synthetic materials that bind peptides and proteins in competitive aqueous environments have numerous applications in chemistry and biology, they are difficult to produce because of complexity of the guest, subtle structural differences among some amino acids, and difficulty in molecular recognition in water. This project, funded by the Biomaterials Program of the Division of Materials Research, supports Professor Yan Zhao of Iowa State University to develop antibody-mimicking polymeric nanoparticles for sequence-specific recognition of peptides. The materials are prepared through molecular imprinting within cross-linked surfactant micelles and can be tuned systematically in their molecular recognition. With abilities to distinguish closely related amino acid residues, they can be used to probe functional roles of specific sequences in a long peptide, as well as flexible loops catalytically relevant in an enzyme. By their strong and tunable binding for peptides, they enable facile purification of peptides and proteins from complex mixtures.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002659</AwardID>
+<Investigator>
+<FirstName>Yan</FirstName>
+<LastName>Zhao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yan Zhao</PI_FULL_NAME>
+<EmailAddress><![CDATA[zhaoy@iastate.edu]]></EmailAddress>
+<NSF_ID>000297016</NSF_ID>
+<StartDate>05/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<ZipCode>500112103</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress><![CDATA[1350 BEARDSHEAR HALL]]></StreetAddress>
+<StreetAddress2><![CDATA[515 MORRILL ROAD]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>Ames</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>501111021</ZipCode>
+<StreetAddress><![CDATA[Department of Chemistry]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>762300</Code>
+<Text>BIOMATERIALS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~525000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Proteins are extremely important biomolecules involved in practically every biological process. Although synthetic materials that bind peptides and proteins in competitive aqueous environments have numerous applications in chemistry and biology, they are difficult to produce because of complexity of the guest, subtle structural differences among some amino acids, and difficulty in molecular recognition in water.</p> <p>The PI&rsquo;s group had developed a novel class of polymeric nanoparticles that resemble proteins in their size, hydrophilic exterior, and hydrophobic interior. They contain tailor-made pockets that can bind a range of biologically interesting molecules including peptides and proteins. They are synthesized and purified in &lt;2 days, without any special techniques. They frequently display tens of nanomolar binding affinities in water for biological peptides with over a dozen amino acids. Closely related residues including leucine/isoleucine, arginine/lysine, phenylalanines/tyrosine could be distinguished. In this project, the PI&rsquo;s group used different strategies to enhance the binding affinity of these nanoparticles, making them useful antibody-mimics for protein purification and isolation. They also demonstrated their usage as &ldquo;sequence scanners&rdquo; to probe functional roles of specific sequences in a long peptide or full protein. Their strong binding affinities for peptides allow them to be used as &ldquo;protecting agents&rdquo; in protease digestion, allowing selective hydrolysis of a particular residue (e.g., K or R) in a peptide with multiple such residues. Similarly, they allow precise control of posttranslational modifications of peptides and proteins.</p> <p>These antibody-mimicking nanoparticles tolerate high temperature, organic solvents, extreme pH, and long-term storage. They have the potential to replace expensive, fragile antibodies in many applications. As a result, the research provides an extremely useful set of tools for handling peptides and proteins, and is expected to impact both fundamental research and technological applications.</p> <p>The research helps train students as future scientists. The multidisciplinary research requires the students to acquire a broad range of skills including supramolecular chemistry, organic synthesis, biology, physical organic chemistry, and polymer chemistry.</p> <p>The PI includes the biomimetic research in his graduate and undergraduate classes. He also uses his previous industrial experience to help students in his class to better prepare for industrial career. In the undergraduate organic class, he illustrates how &ldquo;smart&rdquo; synthetic materials can be designed for molecular recognition (in sensory applications), temperature detection, and catalysis (in enzymatic mimicry). He helps non-science students understand how chemists learn from nature and develop useful materials for technological and biomedical applications. The PI has participated in multiple outreach activities on campus and through partnership with external organizations.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/03/2024<br> Modified by: Yan&nbsp;Zhao</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Proteins are extremely important biomolecules involved in practically every biological process. Although synthetic materials that bind peptides and proteins in competitive aqueous environments have numerous applications in chemistry and biology, they are difficult to produce because of complexity of the guest, subtle structural differences among some amino acids, and difficulty in molecular recognition in water.   The PIs group had developed a novel class of polymeric nanoparticles that resemble proteins in their size, hydrophilic exterior, and hydrophobic interior. They contain tailor-made pockets that can bind a range of biologically interesting molecules including peptides and proteins. They are synthesized and purified in    These antibody-mimicking nanoparticles tolerate high temperature, organic solvents, extreme pH, and long-term storage. They have the potential to replace expensive, fragile antibodies in many applications. As a result, the research provides an extremely useful set of tools for handling peptides and proteins, and is expected to impact both fundamental research and technological applications.   The research helps train students as future scientists. The multidisciplinary research requires the students to acquire a broad range of skills including supramolecular chemistry, organic synthesis, biology, physical organic chemistry, and polymer chemistry.   The PI includes the biomimetic research in his graduate and undergraduate classes. He also uses his previous industrial experience to help students in his class to better prepare for industrial career. In the undergraduate organic class, he illustrates how smart synthetic materials can be designed for molecular recognition (in sensory applications), temperature detection, and catalysis (in enzymatic mimicry). He helps non-science students understand how chemists learn from nature and develop useful materials for technological and biomedical applications. The PI has participated in multiple outreach activities on campus and through partnership with external organizations.           Last Modified: 07/03/2024       Submitted by: YanZhao]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CHS: Small: Collaborative Research: A Graph-Based Data Fusion Framework Towards Guiding A Hybrid Brain-Computer Interface]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>309846.00</AwardTotalIntnAmount>
+<AwardAmount>309846</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Major advances in non-invasive brain-computer interfaces (BCIs) have enriched the lives of persons with certain disabilities by providing them with alternative means of communication.  However, current systems rely heavily on unimodal techniques that limit both their performance and our understanding of the integrated neural dynamics essential to properly explain multiscale neural functions.  To address this issue it has been proposed to employ hybrid (multimodal) BCIs, but attempts to date to utilize the complementary benefits of multiple modalities through simple combinations (e.g., concatenation of feature sets from two neuroimaging modalities) have yielded only incremental advances; generalizable computational data-driven approaches for the fusion of multimodal signals to efficiently and simultaneously extract complementary information from multiple signals of interest remain lacking.  This research will explore an innovative approach to a hybrid non-invasive BCI system that capitalizes on the complementary physiological features that can be obtained from electrical and hemodynamic neural signals using EEG and fNIRS respectively, with the help of a graph-based data fusion framework. Project outcomes will include novel signal processing pipelines and lay the foundation for practical BCI techniques for mainstream user applications.  In addition to the project's potential societal impacts, the team will focus on broadening participation in STEM and will also engage students from K-12 through the graduate level.&lt;br/&gt;&lt;br/&gt;The research will involve three main thrusts.  A novel graph theoretical multimodal data fusion framework will be developed to systematically capture complex topological features of hybrid patterns and user intentions during a dual-task interaction that concurrently modulates electrical and hemodynamic responses of interest.  Because multimodal techniques create inherently complementary attributes in terms of both spatiotemporal resolution and information content, the framework will aim to capture the corresponding complementary synergistic topological features from the complex hybrid patterns hidden in EEG and fNIRS signals for the high-level abstraction of user intentions.  The framework will be evaluated on non-communicative individuals by optimizing parameters and channels containing the highest mutual information, in real-world settings.  Finally, a conceptually new hybrid subspace-based filter will be proposed to maximize the distance between two classes of hybrid data and enhance classification performance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006012</AwardID>
+<Investigator>
+<FirstName>Yalda</FirstName>
+<LastName>Shahriari</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yalda Shahriari</PI_FULL_NAME>
+<EmailAddress><![CDATA[yalda_shahriari@uri.edu]]></EmailAddress>
+<NSF_ID>000754303</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Rhode Island]]></Name>
+<CityName>KINGSTON</CityName>
+<ZipCode>028811974</ZipCode>
+<PhoneNumber>4018742635</PhoneNumber>
+<StreetAddress><![CDATA[75 LOWER COLLEGE RD RM 103]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CJDNG9D14MW7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF RHODE ISLAND</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NSA8T7PLC9K3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rhode Island]]></Name>
+<CityName/>
+<StateCode>RI</StateCode>
+<ZipCode>028811967</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736700</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~309846</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-2deb0574-7fff-7043-9c80-ce110dbc66bc"> <p dir="ltr"><span>The primary goal of this project was to develop a novel graph-theoretical (GT) multimodal data fusion framework (GT-MMDF) to represent and decode electrical and hemodynamic neural signatures recorded using electroencephalography (EEG) and functional near-infrared spectroscopy (fNIRS) in a hybrid brain-computer interface (BCI) setup. This framework was designed to improve the usability of BCIs for intended end users, including individuals with motor deficits, particularly those without fine eye-gaze control.</span></p> <br /> <p dir="ltr"><span>To date, several studies have explored methods for combining EEG and fNIRS recording modalities in the BCI context. However, a significant knowledge gap persists in the development of systematic computational approaches to optimize and fuse electrical and hemodynamic features, minimizing redundancy while maximizing the complementary information extracted from each modality. To address this gap, we designed a series of studies to define high-level features of dual-task responses for constructing the GT-MMDF framework and subsequently tested the system&rsquo;s usability on individuals with amyotrophic lateral sclerosis (ALS) who lack fine eye-gaze control.</span></p> <br /> <p dir="ltr"><span>To achieve the primary goals of this project, we first developed a visuo-mental dual-task paradigm specifically designed to evoke strong, discriminable neural responses. These responses were reflected in fast electrocortical signals recorded via EEG and slower hemodynamic responses recorded via fNIRS. In this task, users focused on selecting a letter from an array of alphanumeric characters and symbols while a series of visual stimuli flashed over the array. When the desired character or symbol was highlighted, the user performed a mental arithmetic task based on the flashed stimulus. By engaging multiple cortical processes simultaneously&mdash;attention, mental arithmetic, and visual processing&mdash;the neural responses used by the BCI system to determine the attended target were maximized. This dual-task approach was particularly advantageous for the intended end-user population due to its reduced dependence on eye-gaze control.</span></p> <br /> <p dir="ltr"><span>We further demonstrated that nonlinear graph-based recurrence quantification analysis (RQA) features improved hybrid BCI performance in individuals with ALS compared to classical features in the proposed visuo-mental experimental setup. A unimodal EEG investigation of this approach showed improved performance over classical features, leveraging the rich spatial and spectral information contained in EEG signals to enhance BCI accuracy. Similarly, nonlinear features extracted using graph-based RQA were found to improve motor imagery (MI)-BCI performance compared to classical feature extraction methods, extending the utility of this approach to other BCI paradigms. Additionally, we demonstrated that a graph-based EEG-fNIRS data fusion framework improved BCI performance and reliability, providing evidence that nonlinear graph-based EEG features synergize effectively with fNIRS features. These findings suggest that graph-theoretical approaches are vital for maximizing complementary information from each modality, ultimately improving system performance.</span></p> <br /> <p dir="ltr"><span>Another significant finding of this project was the observation of the 'double descent' phenomenon in our multimodal neuroimaging data. This raised intriguing questions about the relationship between model complexity and the risk of overfitting in convolutional neural network (CNN) models integrated into BCI setups. We investigated the impact of model complexity and activation function selection on overall performance, demonstrating that changes to the activation function within identical model settings could yield diverse outcomes. These insights are critical for understanding and harnessing the double descent and multiple descent phenomena in CNN models, paving the way for enhanced model selection and training strategies for BCI-related data analysis.</span></p> <br /> <p dir="ltr"><span>We also demonstrated the importance of a pre-screening process combining a cognitive questionnaire, resting-state, and task-based recordings using multimodal neuroimaging, alongside other physiological signals and eye-tracking data, to predict BCI task parameters that maximize performance. This pre-screening approach facilitated improved BCI performance in both healthy participants and individuals with motor deficits, including those with limited eye-gaze control.</span></p> <br /> <p dir="ltr"><span>This award played a pivotal role in fostering inclusivity and creating numerous opportunities for underrepresented minorities (URMs) to engage in the research endeavors outlined in the proposal. The grant supported various educational and outreach initiatives, leaving a lasting impact. One such initiative involved an informative workshop introducing the fundamentals of designing and configuring hybrid EEG-fNIRS BCIs. The results of this project were disseminated through multiple forums, including a Multimodal Neuroimaging Workshop organized by Dr. Shahriari and a webinar hosted by NIRx Medical Technologies. These events highlighted the broader societal impacts of the research, including its potential to enhance neurorehabilitation technologies and improve the quality of life for individuals with neurological impairments. Additionally, an educational event was organized to engage middle school students, imparting fundamental knowledge about BCI systems.</span></p> <br /> <p dir="ltr"><span>During the summer, high school students participated in research activities in our lab as part of a broader effort to inspire young scholars through hands-on experience. Beyond these initiatives, the grant outcomes supported the creation of educational resources, enabling the establishment of a permanent course titled BME 473/ELE 573: Brain Signal Processing and Applications at the University of Rhode Island (URI). This course stands as a testament to the grant&rsquo;s lasting legacy, providing students with a dedicated avenue to explore the multifaceted realm of BCIs.</span></p> </span></p><br> <p>  Last Modified: 11/19/2024<br> Modified by: Yalda&nbsp;Shahriari</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     The primary goal of this project was to develop a novel graph-theoretical (GT) multimodal data fusion framework (GT-MMDF) to represent and decode electrical and hemodynamic neural signatures recorded using electroencephalography (EEG) and functional near-infrared spectroscopy (fNIRS) in a hybrid brain-computer interface (BCI) setup. This framework was designed to improve the usability of BCIs for intended end users, including individuals with motor deficits, particularly those without fine eye-gaze control.     To date, several studies have explored methods for combining EEG and fNIRS recording modalities in the BCI context. However, a significant knowledge gap persists in the development of systematic computational approaches to optimize and fuse electrical and hemodynamic features, minimizing redundancy while maximizing the complementary information extracted from each modality. To address this gap, we designed a series of studies to define high-level features of dual-task responses for constructing the GT-MMDF framework and subsequently tested the systems usability on individuals with amyotrophic lateral sclerosis (ALS) who lack fine eye-gaze control.     To achieve the primary goals of this project, we first developed a visuo-mental dual-task paradigm specifically designed to evoke strong, discriminable neural responses. These responses were reflected in fast electrocortical signals recorded via EEG and slower hemodynamic responses recorded via fNIRS. In this task, users focused on selecting a letter from an array of alphanumeric characters and symbols while a series of visual stimuli flashed over the array. When the desired character or symbol was highlighted, the user performed a mental arithmetic task based on the flashed stimulus. By engaging multiple cortical processes simultaneouslyattention, mental arithmetic, and visual processingthe neural responses used by the BCI system to determine the attended target were maximized. This dual-task approach was particularly advantageous for the intended end-user population due to its reduced dependence on eye-gaze control.     We further demonstrated that nonlinear graph-based recurrence quantification analysis (RQA) features improved hybrid BCI performance in individuals with ALS compared to classical features in the proposed visuo-mental experimental setup. A unimodal EEG investigation of this approach showed improved performance over classical features, leveraging the rich spatial and spectral information contained in EEG signals to enhance BCI accuracy. Similarly, nonlinear features extracted using graph-based RQA were found to improve motor imagery (MI)-BCI performance compared to classical feature extraction methods, extending the utility of this approach to other BCI paradigms. Additionally, we demonstrated that a graph-based EEG-fNIRS data fusion framework improved BCI performance and reliability, providing evidence that nonlinear graph-based EEG features synergize effectively with fNIRS features. These findings suggest that graph-theoretical approaches are vital for maximizing complementary information from each modality, ultimately improving system performance.     Another significant finding of this project was the observation of the 'double descent' phenomenon in our multimodal neuroimaging data. This raised intriguing questions about the relationship between model complexity and the risk of overfitting in convolutional neural network (CNN) models integrated into BCI setups. We investigated the impact of model complexity and activation function selection on overall performance, demonstrating that changes to the activation function within identical model settings could yield diverse outcomes. These insights are critical for understanding and harnessing the double descent and multiple descent phenomena in CNN models, paving the way for enhanced model selection and training strategies for BCI-related data analysis.     We also demonstrated the importance of a pre-screening process combining a cognitive questionnaire, resting-state, and task-based recordings using multimodal neuroimaging, alongside other physiological signals and eye-tracking data, to predict BCI task parameters that maximize performance. This pre-screening approach facilitated improved BCI performance in both healthy participants and individuals with motor deficits, including those with limited eye-gaze control.     This award played a pivotal role in fostering inclusivity and creating numerous opportunities for underrepresented minorities (URMs) to engage in the research endeavors outlined in the proposal. The grant supported various educational and outreach initiatives, leaving a lasting impact. One such initiative involved an informative workshop introducing the fundamentals of designing and configuring hybrid EEG-fNIRS BCIs. The results of this project were disseminated through multiple forums, including a Multimodal Neuroimaging Workshop organized by Dr. Shahriari and a webinar hosted by NIRx Medical Technologies. These events highlighted the broader societal impacts of the research, including its potential to enhance neurorehabilitation technologies and improve the quality of life for individuals with neurological impairments. Additionally, an educational event was organized to engage middle school students, imparting fundamental knowledge about BCI systems.     During the summer, high school students participated in research activities in our lab as part of a broader effort to inspire young scholars through hands-on experience. Beyond these initiatives, the grant outcomes supported the creation of educational resources, enabling the establishment of a permanent course titled BME 473/ELE 573: Brain Signal Processing and Applications at the University of Rhode Island (URI). This course stands as a testament to the grants lasting legacy, providing students with a dedicated avenue to explore the multifaceted realm of BCIs.      Last Modified: 11/19/2024       Submitted by: YaldaShahriari]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

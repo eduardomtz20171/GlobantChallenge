@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Collaborative Research: Feasibility of Self-Propelled Nanoparticles for Heat Transfer Enhancement]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>71807.00</AwardTotalIntnAmount>
+<AwardAmount>71807</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sachin Velankar</SignBlockName>
+<PO_EMAI>svelanka@nsf.gov</PO_EMAI>
+<PO_PHON>7032922894</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The performance of many devices, such as computers, is limited by the ability to remove heat from critical components. Improving heat removal technologies will enable faster, smaller, more reliable, and lower-cost devices. The research conducted under this award will focus on the enhancement of heat transfer fluids resulting from active “stirring” elements in the form of self-propelled microparticles. Theory indicates that substantial improvements may be possible. If these predictions can be realized, the resulting technological advances could lead to transformative improvements in the design of data centers, electric vehicle batteries, solar panels, medical devices and other such devices, potentially leading to cost savings of several billion dollars per year.&lt;br/&gt;&lt;br/&gt;The research objective of this project is to measure the effect on heat transfer of the addition of self-propelled microparticles to coolant liquids. A series of heat transfer measurements will be obtained using two different designs of self-propelled microparticles that have already been shown to generate bulk fluid mixing and active turbulence. The measurement of thermal conductivity in a microstirred liquid poses unique challenges. The figure of merit for heat transfer enhancement used in this work is the effective thermal conductivity, which is defined as the thermal conductivity of a fictitious stagnant liquid that permits the same heat transfer rates as the self-propelled microparticle suspensions. Enhancement is defined here as the increase in effective thermal conductivity relative to the thermal conductivity of the liquid containing identical particles but with their self-propelled motion deactivated. Measurements will be taken over a range of particle diameters, speeds, and volume fractions to quantify the effect of these parameters on effective thermal conductivity. Experimental results will be compared to finite-element simulations to facilitate comparison with extant theory and identify the thermal-fluid transport phenomena underlying enhancement. The intellectual merit of this research lies in a more comprehensive understanding of the thermal-fluid behavior of fluid-particle mixtures under conditions where the particles propel themselves through the fluid.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039262</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Moran</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey L Moran</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmoran23@gmu.edu]]></EmailAddress>
+<NSF_ID>000790434</NSF_ID>
+<StartDate>07/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EADLFP7Z72E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4NRWLFCDF43</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>Fairfax</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304422</ZipCode>
+<StreetAddress><![CDATA[4400 University Dr, MSN 4C6]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>140600</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~71807</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The performance of many devices, such as computers, is limited by the ability to remove heat from critical components. Accordingly, there has been significant research into the development of high-performance coolants. Nanofluids (liquid coolants containing suspended nanoparticles to improve their efficiency) have been studied for over 25 years, but conventional nanoparticles lack the ability to move on their own, so the enhancement in heat transfer they can provide is fundamentally limited. In this research, we extend the concept of nanofluids to incorporate micro- and nanoparticles that can propel themselves through the fluid, disturbing the fluid as they do so. We hypothesize that the "micro-stirring" resulting from self-propelled particles' motion could lead to substantial enhancements in thermal mixing, much as stirring cold cream into hot coffee accelerates the transfer of heat from coffee to cream.</p>  <p>The research objective of this project was to measure the effect on heat transfer of the addition of micro- and nanoscale self-propelled particles (SPPs) to coolant liquids. First, we conducted simulations using molecular dynamics that demonstrated that the temperature gradient in a suspension of nanoparticles is shallower in the presence of self-propulsion than for stationary particles for the same rate of heat flow through the fluid; this finding implies that self-propulsion makes the suspension a more efficient coolant. Next, we validated the simulation findings with experimental measurements. Infrared images revealed that the self-propelled particles' motion substantially enhances the mixing of thermal energy in the liquids compared to the case without propulsion. Additional experiments yielded strong evidence that particle self-propulsion enhances heat transfer in liquids, as quantified by an increase in the heat transfer coefficient (a common metric of heat transfer efficiency) of over 100% in some cases, as compared to the same particles without propulsion.</p>  <p>The intellectual merit of this research lies in a more comprehensive understanding of the thermal-fluid behavior of fluid-particle mixtures under conditions where the particles propel themselves through the fluid. The broader impacts of this work are severalfold. First, this project offers a strategy to enhance the performance of heat transfer fluids, which are a crucial component of many of the technologies that make modern life possible. These include computer microchips, light-emitting diodes (LEDs), hybrid electric vehicle batteries, electrical power generation, the oil and gas industries, and more. In addition, this project also supported the work of undergraduate and graduate students who led the simulation and experimental efforts. It also served as a basis for several lectures given by the PI to students at his institution and to the public.</p>  <p>This project produced one journal article and six peer-reviewed conference presentations, with additional publications in preparation. Overall, this project has helped launch a long-term effort in the PI&rsquo;s laboratory to improve the efficiency of cooling technologies for energy-hungry technologies, such as large data centers. We now have several follow-up projects that aim to scale the impact of this work further. Our long-term goal is to improve the design and reduce the carbon footprint of large data centers, hybrid electric vehicle batteries, and other technologies of the future.</p><br> <p>  Last Modified: 12/23/2024<br> Modified by: Jeffrey&nbsp;L&nbsp;Moran</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The performance of many devices, such as computers, is limited by the ability to remove heat from critical components. Accordingly, there has been significant research into the development of high-performance coolants. Nanofluids (liquid coolants containing suspended nanoparticles to improve their efficiency) have been studied for over 25 years, but conventional nanoparticles lack the ability to move on their own, so the enhancement in heat transfer they can provide is fundamentally limited. In this research, we extend the concept of nanofluids to incorporate micro- and nanoparticles that can propel themselves through the fluid, disturbing the fluid as they do so. We hypothesize that the "micro-stirring" resulting from self-propelled particles' motion could lead to substantial enhancements in thermal mixing, much as stirring cold cream into hot coffee accelerates the transfer of heat from coffee to cream.    The research objective of this project was to measure the effect on heat transfer of the addition of micro- and nanoscale self-propelled particles (SPPs) to coolant liquids. First, we conducted simulations using molecular dynamics that demonstrated that the temperature gradient in a suspension of nanoparticles is shallower in the presence of self-propulsion than for stationary particles for the same rate of heat flow through the fluid; this finding implies that self-propulsion makes the suspension a more efficient coolant. Next, we validated the simulation findings with experimental measurements. Infrared images revealed that the self-propelled particles' motion substantially enhances the mixing of thermal energy in the liquids compared to the case without propulsion. Additional experiments yielded strong evidence that particle self-propulsion enhances heat transfer in liquids, as quantified by an increase in the heat transfer coefficient (a common metric of heat transfer efficiency) of over 100% in some cases, as compared to the same particles without propulsion.    The intellectual merit of this research lies in a more comprehensive understanding of the thermal-fluid behavior of fluid-particle mixtures under conditions where the particles propel themselves through the fluid. The broader impacts of this work are severalfold. First, this project offers a strategy to enhance the performance of heat transfer fluids, which are a crucial component of many of the technologies that make modern life possible. These include computer microchips, light-emitting diodes (LEDs), hybrid electric vehicle batteries, electrical power generation, the oil and gas industries, and more. In addition, this project also supported the work of undergraduate and graduate students who led the simulation and experimental efforts. It also served as a basis for several lectures given by the PI to students at his institution and to the public.    This project produced one journal article and six peer-reviewed conference presentations, with additional publications in preparation. Overall, this project has helped launch a long-term effort in the PIs laboratory to improve the efficiency of cooling technologies for energy-hungry technologies, such as large data centers. We now have several follow-up projects that aim to scale the impact of this work further. Our long-term goal is to improve the design and reduce the carbon footprint of large data centers, hybrid electric vehicle batteries, and other technologies of the future.     Last Modified: 12/23/2024       Submitted by: JeffreyLMoran]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

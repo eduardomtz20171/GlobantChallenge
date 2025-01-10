@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CNS Core: Small: Operating Systems Abstractions for Serverless Computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>499986.00</AwardTotalIntnAmount>
+<AwardAmount>499986</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jason Hallstrom</SignBlockName>
+<PO_EMAI>jhallstr@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Serverless functions, or Functions as a Service (FaaS), are a cloud computing feature whose popularity has been increasing in recent years. This project will improve serverless functions with a sophisticated runtime system that will allow users to run code efficiently while keeping serverless functions economically viable to providers.  While keeping the programming model simple, a more sophisticated runtime will provide features such as efficient caching of intermediate results and fault tolerance.  Meanwhile hardware acceleration (e.g., graphical processing units (GPUs)) will be transparently enabled.  As a consequence, serverless functions will be made efficient for new classes of workloads such as video processing and machine learning inference.&lt;br/&gt;&lt;br/&gt;Achieving efficient execution with a simple programming model requires a technically sophisticated runtime system.  Organizing the computation as a data flow graph allows the user to provide only simple data dependencies while the runtime simultaneously schedules local storage and computational accelerators along with more traditional resources such as the Central Processing Unit (CPU) cores and memory.  Serverless workloads require high parallelism and short run times to make the platform worthwhile.  However, maintaining high levels of parallelism can be difficult because of input-dependent processing requirements and GPU acceleration.  Load imbalance arises when the stages specified in a data flow graph have data-dependent processing requirements.  This is common in some machine learning (ML) related tasks, e.g., face recognition. GPUs may make the problem worse because a data flow graph that is balanced for CPU execution might become unbalanced when some stages are executed on a GPU where execution is much faster.&lt;br/&gt;&lt;br/&gt;This project will provide the necessary tools, techniques, and infrastructure to bring serverless functions to new workloads with unprecedented levels of performance.  This allows the continued exponential evolution and innovation for systems that rely on machine learning and other compute-intensive computations. This project will also provide an opportunity for doctoral students to work as graduate research assistants while gaining broad exposure to interdisciplinary research that draws from multiple areas of computer science, including operating systems, virtualization and GPUs.&lt;br/&gt;&lt;br/&gt;Results from this project will be made public where they can be archived.  All published material from the project will be distributed for free from the authors' web site.  Research artifacts are likely to include modified source code and workloads.  Research publications will be available at https://www.cs.utexas.edu/users/witchel/.  Source code, workloads, and other artifacts will be available at https://github.com/ut-osa/.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008321</AwardID>
+<Investigator>
+<FirstName>Emmett</FirstName>
+<LastName>Witchel</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Emmett Witchel</PI_FULL_NAME>
+<EmailAddress><![CDATA[witchel@cs.utexas.edu]]></EmailAddress>
+<NSF_ID>000164959</NSF_ID>
+<StartDate>07/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787595316</ZipCode>
+<StreetAddress><![CDATA[3925 W Braker Lane, Suite 3340]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>735400</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~499986</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Our goal is to provide better performance and better price/performance with a reasonable programming cost for serverless computing as compared with current cloud virtual machines.&nbsp; Our progress toward this goal came from solving the following problems: making GPUs available to serverless workloads, adapting scalable, distributed, shared, fault-tolerant, append-only logs to enable stateful serverless workloads, and finally, we showed how streaming workloads, an important stateful workload, can run effectively on serverless.&nbsp; These technical accomplishments establish the intellectual merit of the project.</p> <p>We built and published DGSF, a platform that enables serverless applications to access virtualized GPUs by disaggregating resources.&nbsp; DGSF uses a small pool of remote physical GPUs to serve many serverless applications concurrently.&nbsp; This approach makes cost-efficient use of GPUs, incentivizing cloud providers to make them available to serverless workloads.</p> <p>For stateful serverless workloads, we observe that distributed, shared, fault-tolerant logs have emerged as a powerful tool in distributed systems to solve several difficult problems with a single, elegant abstraction. Logs provide persistent and fault-tolerant storage, but they also provide fine-grained state machine replication, which forms the basis for important distributed services like consensus and transactional data management. A fault-tolerant distributed log enables distributed services to be built quickly and correctly, while also providing a single target for low level, system optimizations.</p> <p>We built and published Boki which uses shared logs to enable efficient stateful services built on the serverless paradigm.&nbsp; For serverless applications, the total order provided by the shared log enables serverless functions to agree on the order of state updates, eliminating the need for complex coordination protocols. Moreover, the shared log acts as a reliable and durable storage layer, ensuring that state updates are persisted even in the presence of failures.</p> <p>Boki is the first system that allows stateful serverless functions to manage state using distributed shared logs.&nbsp; Boki's shared log abstraction supports diverse serverless use cases, including fault-tolerant workflows, durable object storage, and message queues.&nbsp; Boki's shared logs achieve elasticity, data locality, and resource efficiency.&nbsp; Our evaluation of Boki re\veals promising performance.&nbsp; It provides significantly lower latency and higher throughput for a variety of tasks when compared with current alternatives like MongoDB, Amazon SQS, and Apache Pulsar.</p> <p>Stream processing is a paradigm for continuously transforming and analyzing data as it arrives.&nbsp; To handle high data rates, stream processing systems distribute the workload across multiple nodes.&nbsp; However, unlike simple data-parallel batch jobs, streaming computations are long-running and stateful -- they maintain and update intermediate results over time as new data arrives. Fault tolerance is crucial for stream processing systems to ensure results remain correct in the presence of failures. The key challenge is providing exactly-once semantics -- ensuring each input record is reflected in the processing results exactly one time, even if failures occur.</p> <p>Fault-tolerant distributed shared logs (such as Boki) have emerged as a storage substrate well suited for streaming workloads.&nbsp; Shared log systems have nodes dedicated to storage and ordering, which provide fault-tolerant storage whose bandwidth capacity scales with increasing resources.&nbsp; Boki supports string tags for selective reads, and string tags can implement an efficient atomic multi-stream append by a specific encoding of metadata on a single data record append.&nbsp; Compared to current systems that send messages to coordinate the atomic logging, using the advanced features of modern shared logs significantly reduces the cost of maintaining exactly-once semantics and subsequently the median and tail latencies for a range of workloads.</p> <p>We built and submitted a streaming system that uses Boki and is mature enough that we can port the complete NEXMark benchmark suite. We compare the performance of it with Kafka Streams, which is an industry-leading distributed stream processing engine that uses logging for fault tolerance.&nbsp; Evaluation results show that our system achieves 1.3x to 5.4x lower median latency, or 1.3x to 5.0x higher saturation throughput than Kafka Streams on NEXMark workloads.</p> <p>For the broader impact of our work, every day billions of people use applications that run in data centers.&nbsp; Cloud computing and the services it has enabled have transformed computing and life over the past decade.&nbsp; By bringing new workloads to serverless platforms, we provide necessary tools, techniques, and infrastructure to enable the continued exponential evolution and innovation for systems that rely on ML and other compute-intensive computations.&nbsp; All of our software is open source.&nbsp; Also, the work has contributed to student development and has been integrated into our teaching curriculum.</p><br> <p>  Last Modified: 09/22/2024<br> Modified by: Emmett&nbsp;Witchel</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Our goal is to provide better performance and better price/performance with a reasonable programming cost for serverless computing as compared with current cloud virtual machines. Our progress toward this goal came from solving the following problems: making GPUs available to serverless workloads, adapting scalable, distributed, shared, fault-tolerant, append-only logs to enable stateful serverless workloads, and finally, we showed how streaming workloads, an important stateful workload, can run effectively on serverless. These technical accomplishments establish the intellectual merit of the project.   We built and published DGSF, a platform that enables serverless applications to access virtualized GPUs by disaggregating resources. DGSF uses a small pool of remote physical GPUs to serve many serverless applications concurrently. This approach makes cost-efficient use of GPUs, incentivizing cloud providers to make them available to serverless workloads.   For stateful serverless workloads, we observe that distributed, shared, fault-tolerant logs have emerged as a powerful tool in distributed systems to solve several difficult problems with a single, elegant abstraction. Logs provide persistent and fault-tolerant storage, but they also provide fine-grained state machine replication, which forms the basis for important distributed services like consensus and transactional data management. A fault-tolerant distributed log enables distributed services to be built quickly and correctly, while also providing a single target for low level, system optimizations.   We built and published Boki which uses shared logs to enable efficient stateful services built on the serverless paradigm. For serverless applications, the total order provided by the shared log enables serverless functions to agree on the order of state updates, eliminating the need for complex coordination protocols. Moreover, the shared log acts as a reliable and durable storage layer, ensuring that state updates are persisted even in the presence of failures.   Boki is the first system that allows stateful serverless functions to manage state using distributed shared logs. Boki's shared log abstraction supports diverse serverless use cases, including fault-tolerant workflows, durable object storage, and message queues. Boki's shared logs achieve elasticity, data locality, and resource efficiency. Our evaluation of Boki re\veals promising performance. It provides significantly lower latency and higher throughput for a variety of tasks when compared with current alternatives like MongoDB, Amazon SQS, and Apache Pulsar.   Stream processing is a paradigm for continuously transforming and analyzing data as it arrives. To handle high data rates, stream processing systems distribute the workload across multiple nodes. However, unlike simple data-parallel batch jobs, streaming computations are long-running and stateful -- they maintain and update intermediate results over time as new data arrives. Fault tolerance is crucial for stream processing systems to ensure results remain correct in the presence of failures. The key challenge is providing exactly-once semantics -- ensuring each input record is reflected in the processing results exactly one time, even if failures occur.   Fault-tolerant distributed shared logs (such as Boki) have emerged as a storage substrate well suited for streaming workloads. Shared log systems have nodes dedicated to storage and ordering, which provide fault-tolerant storage whose bandwidth capacity scales with increasing resources. Boki supports string tags for selective reads, and string tags can implement an efficient atomic multi-stream append by a specific encoding of metadata on a single data record append. Compared to current systems that send messages to coordinate the atomic logging, using the advanced features of modern shared logs significantly reduces the cost of maintaining exactly-once semantics and subsequently the median and tail latencies for a range of workloads.   We built and submitted a streaming system that uses Boki and is mature enough that we can port the complete NEXMark benchmark suite. We compare the performance of it with Kafka Streams, which is an industry-leading distributed stream processing engine that uses logging for fault tolerance. Evaluation results show that our system achieves 1.3x to 5.4x lower median latency, or 1.3x to 5.0x higher saturation throughput than Kafka Streams on NEXMark workloads.   For the broader impact of our work, every day billions of people use applications that run in data centers. Cloud computing and the services it has enabled have transformed computing and life over the past decade. By bringing new workloads to serverless platforms, we provide necessary tools, techniques, and infrastructure to enable the continued exponential evolution and innovation for systems that rely on ML and other compute-intensive computations. All of our software is open source. Also, the work has contributed to student development and has been integrated into our teaching curriculum.     Last Modified: 09/22/2024       Submitted by: EmmettWitchel]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

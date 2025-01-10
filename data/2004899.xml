@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Peptide Brush Polymers: Theory and Synthesis for Functional Design]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>525000.00</AwardTotalIntnAmount>
+<AwardAmount>525000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nitsa Rosenzweig</SignBlockName>
+<PO_EMAI>nirosenz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927256</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Summary &lt;br/&gt;&lt;br/&gt;This award by the Biomaterials program in the Division of Materials Research to Northwestern University is for the development of an approach to make peptide biomaterials into therapeutics and tools for discovery in biology. Peptides are typically small biomolecules discovered as fragments of proteins or coming from natural sources such as hormones. They are a class of molecule used to treat diseases such as diabetes. However, widespread use across diverse diseases has been severely limited compared to how many peptides are known. The promise of peptide biomaterials has also been limited because of several conspiring attributes. One is that, in using these molecules we are trying to make functional therapeutics out of that which we normally regard as food. Natural digestion processes break down peptides to amino acids before they can function. In addition, cells and tissues have physical barriers that prevent most foreign peptides from entering; an evolutionary feature that usually serves us well. These processes mean that peptides are short lived when given intravenously or orally as medicines. In addition, unlike large proteins such as antibodies, individual peptides lack the ability to make multiple contacts with target receptors that may be present on cells or invading pathogens. This is analogous to the difference between picking up a pen with one finger versus using an entire hand. We term this multivalency in target binding. This award focuses on the experimental and theoretical development of a new kind of peptide biomaterial formulation. These formulations display peptides at exceptionally high-density, enabling resistance to degradation, while maintaining and enhancing cell uptake and receptor binding, or gripping strength by multivalency. Through this effort to impact scientific problems of urgency and relevance to society, the award will establish a research internship for underrepresented post-baccalaureate students in science, to recruit them to STEM fields. The award will also enable outreach programs including one focused on clinicians interested in learning about future technologies of potential translational relevance arising from the fields of polymer chemistry and nanoscience.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Technical Summary: &lt;br/&gt;&lt;br/&gt;Peptides show tremendous potential as therapeutics and as tools in chemical biology. However, this promise has been consistently compromised by natural digestion processes and by chemical and physical barriers in cells and tissues. These processes mean that peptides suffer from short half-lives upon systemic (intravenous or oral) administration and are degraded or excluded entirely from cells and organs. In addition, they can be low molecular weight as individual strands, a feature contributing to rapid clearance when administered systemically and to a lack of multivalency in target binding. This award focuses on the experimental and theoretical development of polymer scaffolds that are capable of displaying peptides at exceptionally high density enabling resistance to degradation, while maintaining and enhancing cell uptake and bioactivity. Furthermore, the project offers opportunities for broader societal impact. This is based on the fact that peptides are exciting targets, ripe for development with new delivery methods for longstanding, and for emerging diseases alike. To fuel these scientific thrusts, the program has established a research internship for underrepresented post-baccalaureate students in science to prepare them to apply for graduate school. The multidisciplinary research program seeks to broaden the base of students coming into STEM fields by recruiting them to work on scientific problems of urgency and relevance to society.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004899</AwardID>
+<Investigator>
+<FirstName>Nathan</FirstName>
+<LastName>Gianneschi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nathan Gianneschi</PI_FULL_NAME>
+<EmailAddress><![CDATA[nathan.gianneschi@northwestern.edu]]></EmailAddress>
+<NSF_ID>000537549</NSF_ID>
+<StartDate>05/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Monica</FirstName>
+<LastName>Olvera de la Cruz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Monica Olvera de la Cruz</PI_FULL_NAME>
+<EmailAddress><![CDATA[m-olvera@northwestern.edu]]></EmailAddress>
+<NSF_ID>000235056</NSF_ID>
+<StartDate>05/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Baofu</FirstName>
+<LastName>Qiao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Baofu Qiao</PI_FULL_NAME>
+<EmailAddress><![CDATA[baofu.qiao@baruch.cuny.edu]]></EmailAddress>
+<NSF_ID>000779820</NSF_ID>
+<StartDate>05/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress><![CDATA[633 CLARK ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>Evanston</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602083113</ZipCode>
+<StreetAddress><![CDATA[2145 Sheridan Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>762300</Code>
+<Text>BIOMATERIALS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~525000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="OutlineElement Ltr SCXW54352397 BCX0"> <p><span class="normaltextrun">The principal objective of the proposed research is to elucidate the structure-property relationships leading to emergent properties in protein-like polymers (&ldquo;PLPs&rdquo;), which are peptide-brush polymers made by graft-through living polymerization. </span>The main outcome of this research project is a generalized understanding of how the structure of the polymer backbone governs properties of peptide sidechains and in turn, how the peptide side-chains impact macromolecular structure. Having established this insight, we design and select backbones for achieving tunable resistance to proteolysis, while maintaining and enhancing their bioactivity via various modes, including through potential multivalent effects wherein multiple peptides on a single chain imbue the material with enhanced binding constants.<span class="normaltextrun">&nbsp;</span></p> <p class="Paragraph SCXW54352397 BCX0"><span class="TextRun SCXW54352397 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW54352397 BCX0">The main activities of</span><span class="NormalTextRun SCXW54352397 BCX0"> the last period of this project </span><span class="NormalTextRun SCXW54352397 BCX0">focused</span><span class="NormalTextRun SCXW54352397 BCX0"> on understanding how the folding and secondary structure of peptide side chains affect the overall structure of PLPs. This effort led to a more profound understanding of this polymer system which improves our ability to predict the behavior of PLPs and use them for intracellular targeting. For this intent</span><span class="NormalTextRun SCXW54352397 BCX0"> </span><span class="NormalTextRun SCXW54352397 BCX0">we created a </span><span class="NormalTextRun SCXW54352397 BCX0">selection</span><span class="NormalTextRun SCXW54352397 BCX0"> of polymers with different peptide side chains that naturally adopt secondary structures, such as alpha helix. To better understand the PLP system, we have improved our </span><span class="NormalTextRun SCXW54352397 BCX0">capacity</span><span class="NormalTextRun SCXW54352397 BCX0"> to use Circular Dichroism (CD)</span><span class="NormalTextRun SCXW54352397 BCX0">, </span><span class="NormalTextRun SCXW54352397 BCX0">to gain </span><span class="NormalTextRun SCXW54352397 BCX0">a </span><span class="NormalTextRun SCXW54352397 BCX0">more detailed analysis of the side chain conformational changes and their dependencies on medium effects when contrasted to free peptides. By this technique we were able to confirm the permanence of secondary structures of peptides grafted to polymer backbones</span><span class="NormalTextRun SCXW54352397 BCX0"> due to the local hydrophobic environments created by polymer moieties.</span></span><span class="EOP SCXW54352397 BCX0">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW54352397 BCX0"> <p class="Paragraph SCXW54352397 BCX0"><span class="TextRun SCXW54352397 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW54352397 BCX0">A series of </span><span class="NormalTextRun SCXW54352397 BCX0">Nuclear Magnetic Resonance (</span><span class="NormalTextRun SCXW54352397 BCX0">NMR</span><span class="NormalTextRun SCXW54352397 BCX0">)</span><span class="NormalTextRun SCXW54352397 BCX0"> studies were produced to confirm the helicity of the polymer structures, also showing how the helical structure formation </span><span class="NormalTextRun SCXW54352397 BCX0">mainly resides</span><span class="NormalTextRun SCXW54352397 BCX0"> in the central residues of the peptide sequence for both the monomer and the PLP case. In </span><span class="NormalTextRun SCXW54352397 BCX0">a similar manner</span><span class="NormalTextRun SCXW54352397 BCX0"> we also conducted Small-angle X-ray scattering (SAXS) to look upon the dependency of PLPs conformation to changes to the solution phase environment. Independent confirmations of the globular shape that these polymers present were possible through cryogenic transmission electron microscopy (Cryo-TEM) where we directly imaged the polymers in their solvated state.</span></span><span class="EOP SCXW54352397 BCX0">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW54352397 BCX0"> <p class="Paragraph SCXW54352397 BCX0"><span class="TextRun SCXW54352397 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW54352397 BCX0">Furthermore, we have implemented</span><span class="NormalTextRun SCXW54352397 BCX0"> </span><span class="NormalTextRun SCXW54352397 BCX0">innovative simulation strategies, namely atomistic </span><span class="NormalTextRun SpellingErrorV2Themed SCXW54352397 BCX0">metadynamics</span><span class="NormalTextRun SCXW54352397 BCX0"> that can sample out complex metastable states present in the folding of peptides. This allowed us to circumvent the obstacles of traditional molecular dynamics (MD) simulations to probe the phase space of the energy landscape and </span><span class="NormalTextRun SCXW54352397 BCX0">determine</span><span class="NormalTextRun SCXW54352397 BCX0"> the probability of forming secondary structures for peptide monomers.</span></span><span class="EOP SCXW54352397 BCX0">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW54352397 BCX0"> <p class="Paragraph SCXW54352397 BCX0"><span class="TextRun SCXW54352397 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW54352397 BCX0">Overall, the results obtained advance the understanding structured peptides with respect to the role that these play as side chains play when being grafted and interacting with the polymer backbone. These findings also point out the relevance other PLP components have in solution-phase such as polarity of backbone moieties and backbone flexibility. Parameters that build a more complete understanding of these proteomimetic materials that already show results in targeting intracellular proteins.</span><span class="NormalTextRun SCXW54352397 BCX0"> </span><span class="NormalTextRun SCXW54352397 BCX0">Their further study will enable more functionalities as therapeutical platforms.</span></span><span class="EOP SCXW54352397 BCX0">&nbsp;</span></p> </div> <p>&nbsp;</p><br> <p>  Last Modified: 07/11/2024<br> Modified by: Monica&nbsp;Olvera De La Cruz</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   The principal objective of the proposed research is to elucidate the structure-property relationships leading to emergent properties in protein-like polymers (PLPs), which are peptide-brush polymers made by graft-through living polymerization. The main outcome of this research project is a generalized understanding of how the structure of the polymer backbone governs properties of peptide sidechains and in turn, how the peptide side-chains impact macromolecular structure. Having established this insight, we design and select backbones for achieving tunable resistance to proteolysis, while maintaining and enhancing their bioactivity via various modes, including through potential multivalent effects wherein multiple peptides on a single chain imbue the material with enhanced binding constants.   The main activities of the last period of this project focused on understanding how the folding and secondary structure of peptide side chains affect the overall structure of PLPs. This effort led to a more profound understanding of this polymer system which improves our ability to predict the behavior of PLPs and use them for intracellular targeting. For this intent we created a selection of polymers with different peptide side chains that naturally adopt secondary structures, such as alpha helix. To better understand the PLP system, we have improved our capacity to use Circular Dichroism (CD), to gain a more detailed analysis of the side chain conformational changes and their dependencies on medium effects when contrasted to free peptides. By this technique we were able to confirm the permanence of secondary structures of peptides grafted to polymer backbones due to the local hydrophobic environments created by polymer moieties.     A series of Nuclear Magnetic Resonance (NMR) studies were produced to confirm the helicity of the polymer structures, also showing how the helical structure formation mainly resides in the central residues of the peptide sequence for both the monomer and the PLP case. In a similar manner we also conducted Small-angle X-ray scattering (SAXS) to look upon the dependency of PLPs conformation to changes to the solution phase environment. Independent confirmations of the globular shape that these polymers present were possible through cryogenic transmission electron microscopy (Cryo-TEM) where we directly imaged the polymers in their solvated state.     Furthermore, we have implemented innovative simulation strategies, namely atomistic metadynamics that can sample out complex metastable states present in the folding of peptides. This allowed us to circumvent the obstacles of traditional molecular dynamics (MD) simulations to probe the phase space of the energy landscape and determine the probability of forming secondary structures for peptide monomers.     Overall, the results obtained advance the understanding structured peptides with respect to the role that these play as side chains play when being grafted and interacting with the polymer backbone. These findings also point out the relevance other PLP components have in solution-phase such as polarity of backbone moieties and backbone flexibility. Parameters that build a more complete understanding of these proteomimetic materials that already show results in targeting intracellular proteins. Their further study will enable more functionalities as therapeutical platforms.         Last Modified: 07/11/2024       Submitted by: MonicaOlvera De La Cruz]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

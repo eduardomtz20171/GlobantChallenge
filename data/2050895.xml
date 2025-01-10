@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Program for Access to Training in Health Informatics (PATHI)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>405000.00</AwardTotalIntnAmount>
+<AwardAmount>405000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vladimir Pavlovic</SignBlockName>
+<PO_EMAI>vpavlovi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928318</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The REU Program for Access to Training in Health Informatics (REU-PATHI) will provide 10 undergraduate students with the opportunity to conduct meaningful health informatics research for a period of 10 weeks in the summer. Health informatics connects science, engineering, social sciences, and multiple other fields to identify, design, develop, deploy, and study innovative technology-based solutions for important health-related problems. The REU-PATHI site seeks to broaden participation in health informatics and open new opportunities in this rapidly expanding field. Health Informatics is one of the fastest growing fields today. At least 50% of REU-PATHI students will come from groups that are underrepresented in STEM-C fields, including women, members of minority groups, first generation college students, and students attending institutions with limited access to research experiences. Students will be matched with faculty mentors in the Vanderbilt University Medical Center Department of Biomedical Informatics, who will work with students to develop knowledge, skills, and experience in health informatics research. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The objectives of the REU-PATHI Site are to engage undergraduate students from diverse backgrounds in meaningful scientific research projects. The undergraduate students will have the opportunity to work in one of three health informatics focus areas: 1) Computing, focusing on computationally-intensive topics such as biomedical data science, predictive analytics, natural language processing, and data privacy; 2) Precision Health, focusing on topics such as genome-phenome studies, multi-omics analysis, phenotype risk scoring, and clinical decision support and 3) Human-Technology Interaction, applying concepts from human-computer interaction, human factors engineering, and sociotechnical systems to topics such as studying workflow and patient safety. Regardless of specific research area, all REU-PATHI students will participate in twice-weekly seminars presented by faculty, professional development workshops, a team-based design challenge, and other professional development activities. However, there are significant challenges in orienting and training diverse undergraduate students to the many career pathways available in this high-impact scientific research field. REU-PATHI addresses this urgent problem by 1) training undergraduate students to conduct cutting-edge health informatics research; 2) introducing students to pathways in health informatics graduate education and research and giving them the skills, knowledge, and confidence to pursue those pathways; 3) involving graduate students, postdoctoral scholars, and faculty in mentoring undergraduate students; 4) providing opportunities for REU students to disseminate their research to peers, graduate students, faculty, and the field; and 5) linking high school students in our larger internship program to undergraduate peers to help high school students understand next educational steps.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/04/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>03/04/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050895</AwardID>
+<Investigator>
+<FirstName>Bradley</FirstName>
+<LastName>Malin</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bradley A Malin</PI_FULL_NAME>
+<EmailAddress><![CDATA[bradley.malin@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000502423</NSF_ID>
+<StartDate>03/04/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kim</FirstName>
+<LastName>Unertl</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kim M Unertl</PI_FULL_NAME>
+<EmailAddress><![CDATA[kim.unertl@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000754794</NSF_ID>
+<StartDate>03/04/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Vanderbilt University Medical Center]]></Name>
+<CityName>NASHVILLE</CityName>
+<ZipCode>372320001</ZipCode>
+<PhoneNumber>6153222450</PhoneNumber>
+<StreetAddress><![CDATA[1161 21ST AVE S STE D3300 MCN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GYLUH9UXHDX5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VANDERBILT UNIVERSITY MEDICAL CENTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Vanderbilt University Medical Center]]></Name>
+<CityName>Nashville</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>372035545</ZipCode>
+<StreetAddress><![CDATA[1161 21st Avenue South]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>113900</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~405000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The Research Experiences for Undergraduates - Program for Access to Training in Health Informatics (REU-PATHI) at Vanderbilt University Medical Center (VUMC) was organized between 2021 and 2024 at Vanderbilt University Medical Center in Nashville, Tennessee.&nbsp; This program was designed to provide 10 undergraduate students per year with the opportunity to conduct meaningful and innovative health informatics research for a period of 10 weeks each summer. Health informatics is a multi-disciplinary field that bridges computational and information science, engineering, and the social sciences to address critical health-related research topics. The REU-PATHI site broadened participation in health informatics and opened new opportunities in this rapidly expanding field. In addition, we conducted outreach activities, by communicating about our site to interested community partners, including our high school partners and a local community college and by building new partnerships with two Nashville HBCUs, Fisk Unviersity and Meharry Medical College.</p> <p>The students were matched with faculty mentors affiliated with the Department of Biomedical Informatics (DBMI), who worked with students to develop knowledge, skills, and experience in health informatics research. While the students worked on a variety of research projects, they were broadly categorized into three health informatics focus areas: 1) Computing, focusing on computationally-intensive topics such as natural language processing, data science, predictive analytics, and data privacy; 2) Precision Health, focusing on topics such as genome-wide and phenome-wide association studies, genomics, and proteomics, and 3) Human-Technology Interaction, applying concepts from human-computer interaction, human factors engineering, and sociotechnical systems to topics such as studying workflow in complex clinical environments and patient safety. &nbsp;Each REU student presented an oral presentation, attended by DBMI faculty and graduate students and people from related departments. Many of our students had their scholarly work accepted to research conferences and peer-reviewed journals in health informatics and computer science.</p> <p>All REU-PATHI students participated in twice-weekly seminars presented by faculty and professional development activities. REU-PATHI students also attended a session on biomedical informatics graduate education and a panel session featuring DBMI graduate students about graduate school experiences.</p> <p>We engaged students in activities focused on preparation for graduate education in our weekly course on Professional Development, which included topics on graduate school admissions and skills needed for successfully navigating graduate education. The weekly professional development course was taught by the PI and facilitated by a several DBMI graduate students, using materials from the Facilitating Entering Research curriculum developed by the Center for the Improvement of Mentored Experiences in Research (CIMER) at the University of Wisconsin-Madison and supplementary materials developed by the PI.</p> <p>After successfully functioning in a remote format for 2020 and 2021, we successfully transitioned back to an in-person format in 2022 and 2023. With the return to an in-person format, we were able to return high school students to our broader internship program, providing students with the opportunity to mentor younger students. Across all years of the program, both virtual and in-person, we successfully achieved the goals of our site, to provide high-quality innovative reserach experiences at hte cutting edge of biomedical informatics research to undergraduate students.&nbsp;</p><br> <p>  Last Modified: 07/28/2024<br> Modified by: Kim&nbsp;M&nbsp;Unertl</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The Research Experiences for Undergraduates - Program for Access to Training in Health Informatics (REU-PATHI) at Vanderbilt University Medical Center (VUMC) was organized between 2021 and 2024 at Vanderbilt University Medical Center in Nashville, Tennessee. This program was designed to provide 10 undergraduate students per year with the opportunity to conduct meaningful and innovative health informatics research for a period of 10 weeks each summer. Health informatics is a multi-disciplinary field that bridges computational and information science, engineering, and the social sciences to address critical health-related research topics. The REU-PATHI site broadened participation in health informatics and opened new opportunities in this rapidly expanding field. In addition, we conducted outreach activities, by communicating about our site to interested community partners, including our high school partners and a local community college and by building new partnerships with two Nashville HBCUs, Fisk Unviersity and Meharry Medical College.   The students were matched with faculty mentors affiliated with the Department of Biomedical Informatics (DBMI), who worked with students to develop knowledge, skills, and experience in health informatics research. While the students worked on a variety of research projects, they were broadly categorized into three health informatics focus areas: 1) Computing, focusing on computationally-intensive topics such as natural language processing, data science, predictive analytics, and data privacy; 2) Precision Health, focusing on topics such as genome-wide and phenome-wide association studies, genomics, and proteomics, and 3) Human-Technology Interaction, applying concepts from human-computer interaction, human factors engineering, and sociotechnical systems to topics such as studying workflow in complex clinical environments and patient safety. Each REU student presented an oral presentation, attended by DBMI faculty and graduate students and people from related departments. Many of our students had their scholarly work accepted to research conferences and peer-reviewed journals in health informatics and computer science.   All REU-PATHI students participated in twice-weekly seminars presented by faculty and professional development activities. REU-PATHI students also attended a session on biomedical informatics graduate education and a panel session featuring DBMI graduate students about graduate school experiences.   We engaged students in activities focused on preparation for graduate education in our weekly course on Professional Development, which included topics on graduate school admissions and skills needed for successfully navigating graduate education. The weekly professional development course was taught by the PI and facilitated by a several DBMI graduate students, using materials from the Facilitating Entering Research curriculum developed by the Center for the Improvement of Mentored Experiences in Research (CIMER) at the University of Wisconsin-Madison and supplementary materials developed by the PI.   After successfully functioning in a remote format for 2020 and 2021, we successfully transitioned back to an in-person format in 2022 and 2023. With the return to an in-person format, we were able to return high school students to our broader internship program, providing students with the opportunity to mentor younger students. Across all years of the program, both virtual and in-person, we successfully achieved the goals of our site, to provide high-quality innovative reserach experiences at hte cutting edge of biomedical informatics research to undergraduate students.     Last Modified: 07/28/2024       Submitted by: KimMUnertl]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

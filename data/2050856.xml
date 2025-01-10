@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Exploring the Limits of Life - Understanding Biofilms in Extreme Environments]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>397090.00</AwardTotalIntnAmount>
+<AwardAmount>397090</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Patricia Simmons</SignBlockName>
+<PO_EMAI>psimmons@nsf.gov</PO_EMAI>
+<PO_PHON>7032925143</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Montana State University’s (MSU) centers of excellence, the Thermal Biology Institute (TBI) and the Center for Biofilm Engineering (CBE), in Bozeman, Montana, will implement an REU site to support the training of 10 students each year during the summers of 2021-2023. This REU program will explore the limits of life in extreme environments (e.g., under glaciers and in Yellowstone National Park hot springs) and combine team-orientated learning and guided research, helping students discover new ways to grow, understand, and use extreme biofilms for society’s benefit. The goals of the REU program are to 1) increase participation of underrepresented minority students in innovative science and engineering research; 2) empower more undergraduates to pursue advanced degrees in bioengineering, microbiology, and related disciplines; and 3) strengthen and encourage the persistence of students’ science and engineering identities through novel research and professional development. It is anticipated that a total of 30 students, primarily from non-research-intensive universities, tribal colleges, community colleges, or from an underrepresented minority will be trained in the program. To achieve the recruitment goals, the core participant team will actively network with faculty at regional universities and colleges, as well as embark on an annual in-person recruitment ‘blitz’ at state tribal colleges and community colleges. Program assessment will leverage the online SALG URSSA evaluation tool and student interviews, with longitudinal tracking surveys used after the program to determine student career paths. &lt;br/&gt;&lt;br/&gt;This REU program is an experience where participants are paired into teams of two and work collaboratively on an extreme biofilm research project under the guidance of faculty experts. As part of their research, program participants help a) characterize and grow extreme biofilms, b) investigate extreme biofilm functions, or c) explore biofilm growth at extreme pressures/temperatures/pH, assessing their utility in different biotechnologies. As a group, students participate in a field trip and workshop in Yellowstone National Park, a scientific literacy and communication short course, and weekly professional development activities. Several workshops help students learn the fundamentals of how to formulate a research question, design an experiment, and critically evaluate data. Students attend weekly informal lunch gatherings with faculty mentors to discuss project progress, upcoming goals, and share ways of solving problems. Participants communicate findings from their research by presenting a poster at a local summer science and technology meeting, giving a presentation at a research symposium, and completing a writing-to-learn assignment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/03/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050856</AwardID>
+<Investigator>
+<FirstName>Brent</FirstName>
+<LastName>Peyton</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brent M Peyton</PI_FULL_NAME>
+<EmailAddress><![CDATA[bpeyton@montana.edu]]></EmailAddress>
+<NSF_ID>000264754</NSF_ID>
+<StartDate>03/03/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dana</FirstName>
+<LastName>Skorupa</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dana Skorupa</PI_FULL_NAME>
+<EmailAddress><![CDATA[dana.skorupa@montana.edu]]></EmailAddress>
+<NSF_ID>000808093</NSF_ID>
+<StartDate>03/03/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Montana State University]]></Name>
+<CityName>BOZEMAN</CityName>
+<ZipCode>59717</ZipCode>
+<PhoneNumber>4069942381</PhoneNumber>
+<StreetAddress><![CDATA[216 MONTANA HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EJ3UF7TK8RT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MONTANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Montana State University]]></Name>
+<CityName>Bozeman</CityName>
+<StateCode>MT</StateCode>
+<ZipCode>597172470</ZipCode>
+<StreetAddress><![CDATA[305 Cobleigh Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>136000</Code>
+<Text>EWFD-Eng Workforce Development</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~397090</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project united the unique strengths of the Thermal Biology Institute and the Center for Biofilm Engineering at Montana State University, bringing together research teams from the environmental, engineering, biochemical, microbiological, and molecular sciences to help REU students study the physical, chemical, and biological underpinnings of biofilm-forming microorganisms in extreme environments.<em> </em>Our integrative training program was holistic in its <span style="text-decoration: underline;">goal</span><em> </em>of developing participants&rsquo; professional and technical skills, helping students experience and practice core competencies that are important to STEM disciplines. Considerable program efforts focused on recruiting students who were historically underrepresented in STEM, those from disadvantaged backgrounds, and/or students with limited research experience.&nbsp;The <span style="text-decoration: underline;">objectives</span> of our REU program were to 1) increase the participation of underrepresented students in innovative science and engineering research; 2) empower more undergraduates to pursue advanced degrees in STEM disciplines; and 3) strengthen and encourage the persistence of student STEM identities through novel research and professional development.</p> <p>Our integrative training program was committed to making actionable changes to improve the representation of students who are historically underrepresented in STEM. Our recruitment and selection plan placed considerable effort into recruiting many underrepresented candidates each year, as well as a high proportion of candidates from community colleges, minority-serving institutions, and non-research-intensive institutions. Collectively, 43% of our REU participants identified as being from a group who are historically underrepresented in STEM. In addition, 63% of our participants were from non-research-intensive universities, tribal colleges, and minority-serving institutions. This, along with our high proportion of first-generation college attendees (37%), women (70%), and students from low socioeconomic status groups (47%), shows we were training diverse cohorts of undergraduates.</p> <p class="vert-spacing">This REU program also engaged students in applied research work, where our participants were inspired to take action to solve pressing challenges related to extreme biofilms in natural and engineered systems. Our participants had direct access to faculty mentors and researchers who provided advice and role modeling that helped build our participant's self-efficacy and scientific identity. The participants engaged in the messy, value-laden contexts of hands-on scientific research. Collectively, these components helped our undergraduates gain the skills and expertise that will empower them to be engaged scholars, hopefully inspiring them to continue their training at the graduate level and become leaders that will solve grand research challenges. Our evaluation instruments suggest our REU Site is meeting this goal. As part of our evaluation, each year we asked our participants to compare their likelihood of enrolling in a STEM Ph.D. program before and after participating in our research experience. Here, 50% of our participants expressed they were much more to extremely more likely, to enroll in a Ph.D. program and an additional 40% stated it was likely they would apply to graduate school to pursue a master&rsquo;s degree. Collectively, the findings suggest our program is encouraging participants to consider seeking advanced STEM degrees.</p> <p class="vert-spacing">Finally, our Extreme Biofilms integrative REU program provided participants with an in-depth understanding of real-world scientific investigation, allowing our undergraduates to discover and develop inquiry skills that they may not use in traditional classes and labs. Our summer projects are tailored to engage students with research questions that neither the faculty mentor nor the REU participant knows the answer to, which functions to enhance and strengthen students&rsquo; inquiry skills. This process also created student agency, stimulating the curiosity of our participants and helping them acquire new knowledge and technical skills such that they naturally build identification as STEM professionals. We also hope that this active learning and early engagement in research helped our participants identify as a scientist or engineer (or both!) and creates a framework that inspires our STEM students to persist in their undergraduate discipline, and beyond. Findings from our post-program evaluation suggest we are meeting this goal, where our participants noted gains in their ability to think and work like a scientist/engineer, including either good or great gains in areas such as: formulating a research question, analyzing data, planning a research project, identifying study limitations, understanding theory and concepts, working across STEM disciplines, and drawing conclusions. When evaluating the students&rsquo; self-confidence gains, our participants also signified they had either mostly good or great gains in their ability to contribute to science, talk about science concepts, defend an argument when asked questions, feel like a scientist, work independently, and feel a part of a scientific community. The evaluation findings inform us that we are supporting students from a wide variety of backgrounds and helping them overcome barriers and imagine their path forward in STEM.</p><br> <p>  Last Modified: 07/19/2024<br> Modified by: Dana&nbsp;Skorupa</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721405160998_2023_Grand_Canyon_of_the_Yellowstone--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721405160998_2023_Grand_Canyon_of_the_Yellowstone--rgov-800width.jpg" title="Extreme Biofilms REU Trip to Yellowstone National Park."><img src="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721405160998_2023_Grand_Canyon_of_the_Yellowstone--rgov-66x44.jpg" alt="Extreme Biofilms REU Trip to Yellowstone National Park."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Extreme Biofilms REU participants during their field sampling trip in Yellowstone National Park. The participants and the REU PI and Co-PI stopped to visit an overlook of the Grand Canyon of the Yellowstone River, an iconic spot.</div> <div class="imageCredit">Dana Skorupa</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Dana&nbsp;Skorupa <div class="imageTitle">Extreme Biofilms REU Trip to Yellowstone National Park.</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721405321315_2023_Alicia_G_Research_Symposium--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721405321315_2023_Alicia_G_Research_Symposium--rgov-800width.jpg" title="Extreme Biofilms REU End-of-Program Research Symposium"><img src="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721405321315_2023_Alicia_G_Research_Symposium--rgov-66x44.jpg" alt="Extreme Biofilms REU End-of-Program Research Symposium"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A 2023 Extreme Biofilms REU participant stands in front of their poster presentation at the end-of-program research symposium.</div> <div class="imageCredit">Dana Skorupa</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Dana&nbsp;Skorupa <div class="imageTitle">Extreme Biofilms REU End-of-Program Research Symposium</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721407927956_North_Cottonwood--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721407927956_North_Cottonwood--rgov-800width.jpg" title="Extreme Biofilms REU Hump Day Hike"><img src="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721407927956_North_Cottonwood--rgov-66x44.jpg" alt="Extreme Biofilms REU Hump Day Hike"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The 2021 Extreme Biofilms REU cohort can be seen enjoying a weekly Wednesday 'Hump-Day' hike at North Cottonwood Trail located outside of Bozeman, Montana. The participants and the REU Program Director are standing in a field of blossoming wildflowers.</div> <div class="imageCredit">Dana Skorupa</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Dana&nbsp;Skorupa <div class="imageTitle">Extreme Biofilms REU Hump Day Hike</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721410651197_20220720_REU_Student__2_Compressed.jpg--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721410651197_20220720_REU_Student__2_Compressed.jpg--rgov-800width.jpg" title="Extreme Biofilms REU Participant Conducting Hands-on Research"><img src="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721410651197_20220720_REU_Student__2_Compressed.jpg--rgov-66x44.jpg" alt="Extreme Biofilms REU Participant Conducting Hands-on Research"></a> <div class="imageCaptionContainer"> <div class="imageCaption">An Extreme Biofilms REU student sits at the laboratory bench and inoculates spread plates. The student is wearing a lab coat and safety glasses.</div> <div class="imageCredit">Colter Peterson, Montana State University Photographer</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Dana&nbsp;Skorupa <div class="imageTitle">Extreme Biofilms REU Participant Conducting Hands-on Research</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721409672102_20220720_REU_Biofilm_Students_13_Compressed--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721409672102_20220720_REU_Biofilm_Students_13_Compressed--rgov-800width.jpg" title="Extreme Biofilms REU Participant Conducting Hands-on Research"><img src="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721409672102_20220720_REU_Biofilm_Students_13_Compressed--rgov-66x44.jpg" alt="Extreme Biofilms REU Participant Conducting Hands-on Research"></a> <div class="imageCaptionContainer"> <div class="imageCaption">An Extreme Biofilms REU student looks through the eye pieces of a microscope at a sample.</div> <div class="imageCredit">Colter Peterson, Montana State University Photographer</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Dana&nbsp;Skorupa <div class="imageTitle">Extreme Biofilms REU Participant Conducting Hands-on Research</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721410874229_20220720_REU_Student__3_Compressed.jpg--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721410874229_20220720_REU_Student__3_Compressed.jpg--rgov-800width.jpg" title="Extreme Biofilms REU Participant Conducting Hands-on Research"><img src="/por/images/Reports/POR/2024/2050856/2050856_10720384_1721410874229_20220720_REU_Student__3_Compressed.jpg--rgov-66x44.jpg" alt="Extreme Biofilms REU Participant Conducting Hands-on Research"></a> <div class="imageCaptionContainer"> <div class="imageCaption">An Extreme Biofilms REU student works to prepare samples for Ion Chromatography. The student is wearing a lab coat and safety glasses.</div> <div class="imageCredit">Colter Peterson, Montana State University Photographer</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Dana&nbsp;Skorupa <div class="imageTitle">Extreme Biofilms REU Participant Conducting Hands-on Research</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project united the unique strengths of the Thermal Biology Institute and the Center for Biofilm Engineering at Montana State University, bringing together research teams from the environmental, engineering, biochemical, microbiological, and molecular sciences to help REU students study the physical, chemical, and biological underpinnings of biofilm-forming microorganisms in extreme environments. Our integrative training program was holistic in its goal of developing participants professional and technical skills, helping students experience and practice core competencies that are important to STEM disciplines. Considerable program efforts focused on recruiting students who were historically underrepresented in STEM, those from disadvantaged backgrounds, and/or students with limited research experience.The objectives of our REU program were to 1) increase the participation of underrepresented students in innovative science and engineering research; 2) empower more undergraduates to pursue advanced degrees in STEM disciplines; and 3) strengthen and encourage the persistence of student STEM identities through novel research and professional development.   Our integrative training program was committed to making actionable changes to improve the representation of students who are historically underrepresented in STEM. Our recruitment and selection plan placed considerable effort into recruiting many underrepresented candidates each year, as well as a high proportion of candidates from community colleges, minority-serving institutions, and non-research-intensive institutions. Collectively, 43% of our REU participants identified as being from a group who are historically underrepresented in STEM. In addition, 63% of our participants were from non-research-intensive universities, tribal colleges, and minority-serving institutions. This, along with our high proportion of first-generation college attendees (37%), women (70%), and students from low socioeconomic status groups (47%), shows we were training diverse cohorts of undergraduates.   This REU program also engaged students in applied research work, where our participants were inspired to take action to solve pressing challenges related to extreme biofilms in natural and engineered systems. Our participants had direct access to faculty mentors and researchers who provided advice and role modeling that helped build our participant's self-efficacy and scientific identity. The participants engaged in the messy, value-laden contexts of hands-on scientific research. Collectively, these components helped our undergraduates gain the skills and expertise that will empower them to be engaged scholars, hopefully inspiring them to continue their training at the graduate level and become leaders that will solve grand research challenges. Our evaluation instruments suggest our REU Site is meeting this goal. As part of our evaluation, each year we asked our participants to compare their likelihood of enrolling in a STEM Ph.D. program before and after participating in our research experience. Here, 50% of our participants expressed they were much more to extremely more likely, to enroll in a Ph.D. program and an additional 40% stated it was likely they would apply to graduate school to pursue a masters degree. Collectively, the findings suggest our program is encouraging participants to consider seeking advanced STEM degrees.   Finally, our Extreme Biofilms integrative REU program provided participants with an in-depth understanding of real-world scientific investigation, allowing our undergraduates to discover and develop inquiry skills that they may not use in traditional classes and labs. Our summer projects are tailored to engage students with research questions that neither the faculty mentor nor the REU participant knows the answer to, which functions to enhance and strengthen students inquiry skills. This process also created student agency, stimulating the curiosity of our participants and helping them acquire new knowledge and technical skills such that they naturally build identification as STEM professionals. We also hope that this active learning and early engagement in research helped our participants identify as a scientist or engineer (or both!) and creates a framework that inspires our STEM students to persist in their undergraduate discipline, and beyond. Findings from our post-program evaluation suggest we are meeting this goal, where our participants noted gains in their ability to think and work like a scientist/engineer, including either good or great gains in areas such as: formulating a research question, analyzing data, planning a research project, identifying study limitations, understanding theory and concepts, working across STEM disciplines, and drawing conclusions. When evaluating the students self-confidence gains, our participants also signified they had either mostly good or great gains in their ability to contribute to science, talk about science concepts, defend an argument when asked questions, feel like a scientist, work independently, and feel a part of a scientific community. The evaluation findings inform us that we are supporting students from a wide variety of backgrounds and helping them overcome barriers and imagine their path forward in STEM.     Last Modified: 07/19/2024       Submitted by: DanaSkorupa]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

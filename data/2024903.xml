@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Robust methods for estimating conspecific negative density dependence]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>99471.00</AwardTotalIntnAmount>
+<AwardAmount>154075</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Dudgeon</SignBlockName>
+<PO_EMAI>sdudgeon@nsf.gov</PO_EMAI>
+<PO_PHON>7032922279</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>To conserve plant diversity, scientists must first understand how individuals and species affect their neighbors. There are many processes that drive these neighborly interactions and they are related to each other in confusing ways. This award will support a series of workshops with the goal helping scientists understand one particularly important process that maintains plant diversity. When plants of the same type grow too close together, many of them die from shared disease or intense competition. Those deaths create opportunities for plants of different types to move in, enhancing diversity. In short, this process prevents one species from growing everywhere and taking over everything. Although this may seem like common sense, scientists disagree a lot about how to measure it and what it really means for diversity. This award will bring many of those scientists together to figure out a path forward. Scientists from many types of institutions and career stages will be invited, including from primarily undergraduate institutions, early career researchers and members of underrepresented groups. All participants will be given opportunities to contribute to products resulting from the workshops, which will have important implications for predicting how plants will respond to environmental stresses. &lt;br/&gt;&lt;br/&gt;This series of workshops has two main objectives. First, organizers will bring together top researchers to develop robust approaches that use cutting-edge modeling techniques to assess whether local interactions among plants – specifically, conspecific negative density-dependence -- contribute to plant species diversity. The approaches that emerge from these meetings will likely become standardized methodologies, providing a much-needed common currency to evaluate ecological influences on the maintenance of plant species diversity. Second, organizers will apply these newly developed approaches to long-term data on plant survival and growth from sites around the world. These analyses will test how diversity-maintaining interactions among plants change across climatic gradients and among different plant species as a function of their traits. Synthesized examination of these basic questions is the first step to transformational insights and further experimental studies into the importance of local interactions among plants in determining regional and global patterns of plant species diversity. To ensure these goals, multiple perspectives are essential. Therefore, the proposed series of workshops will actively engage and involve participants from a variety of career stages and backgrounds, including groups underrepresented in science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2024903</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>LaManna</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph A LaManna</PI_FULL_NAME>
+<EmailAddress><![CDATA[joseph.lamanna@marquette.edu]]></EmailAddress>
+<NSF_ID>000714689</NSF_ID>
+<StartDate>04/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Marquette University]]></Name>
+<CityName>MILWAUKEE</CityName>
+<ZipCode>532332244</ZipCode>
+<PhoneNumber>4142887200</PhoneNumber>
+<StreetAddress><![CDATA[313 N 13TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HKJCKTFJNBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MARQUETTE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Marquette University]]></Name>
+<CityName>Milwaukee</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>532011881</ZipCode>
+<StreetAddress><![CDATA[PO Box 1881]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>112700</Code>
+<Text>Evolutionary Processes</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>112800</Code>
+<Text>Population &amp; Community Ecology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>108Z</Code>
+<Text>Post-baccalaureate Involvement</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1228</Code>
+<Text>MINORITY INVOLVEMENT -- BIO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~99471</FUND_OBLG>
+<FUND_OBLG>2021~54604</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>A thorough understanding of processes that enhance and maintain the diversity of living things is critically important to our basic understanding of ecology and our ability to conserve biodiversity in the face of threats like pollution, wildfire, drought, and land-use change. This award supported 28 researchers to attend a series of workshops, including two week-long meetings and many virtual meetings, with the goal of advancing our understanding of a fundamental ecological process thought to contribute to the maintenance of biodiversity. When plants of the same type grow too close together, many of them die from shared disease or intense competition. Those deaths create opportunities for different types of plants to establish, and this process can enhance local plant diversity. Prior to our meetings, a multitude of approaches to assess this process and substantial debate among leading scientists had hampered advances in our understanding of the extent to which local interactions among plants contribute to biological diversity around the world. Our working group and the series of meetings supported by this award has produced important advances in understanding the contribution of such local species interactions to diversity maintenance. Besides transforming our basic understanding of how species interactions influence diversity maintenance, these advances improve our ability to predict how ecological communities will respond to wildfire, drought, and other environmental stressors.</p>  <p><span style="white-space: pre;"> </span>With support from this award, we brought together top ecological researchers from different sides of conceptual and empirical debates surrounding local plant interactions and their ability to enhance the maintenance of diversity. These meetings were conducted in a constructive and positive manner that yielded numerous breakthroughs. First, our working group published a paper synthesizing key concepts and recent advances in the study of how local interactions may scale up to influence regional to global patterns of plant species diversity. This paper resolves contentious debate, recommends consensus approaches, and highlights prominent outstanding questions in the field. Second, we developed robust approaches to assess whether local interactions among plants contribute to plant species diversity. These approaches involve cutting-edge modeling techniques and will be a how-to guide for researchers seeking to make further advances in this important area of ecological research. We also anticipate that these approaches will become standardized methodologies, providing a critical common currency to evaluate ecological influences on the maintenance of plant species diversity. Third, we have applied these newly developed approaches to long-term data on plant survival and growth from across the United States and the world. So far, these empirical analyses have yielded six papers published or accepted in top-tier journals that push forward our understanding of the contribution of local plant interactions to larger-scale diversity patterns. Several more empirical and conceptual papers produced by our group are currently in review at top-tier journals, and we have presented our findings at national and international meetings. These products are high-profile advances that will set the stage for continued breakthroughs in our understanding of how local species interactions shape patterns of biodiversity as well as how local interactions may help us mitigate biodiversity loss.</p>  <p><span style="white-space: pre;"> </span>Multiple perspectives were essential to achieving our goals. This is one reason we formed a "team of rivals" working group to discuss contentious issues from multiple viewpoints in a productive, positive, and constructive setting that yielded substantial advances. Engaging and involving participants from a variety of career stages and backgrounds, including groups underrepresented in science, was also a priority for our working group. We therefore mentored and trained 12 graduate students and postdoctoral researchers along with eight early-career faculty in this area of ecological research. This included one research experience for post-bachelors (REPS) fellowship, which was funded under a supplement to this award. This REPS fellow, from a group currently underrepresented in science, had a successful research experience and is finishing a manuscript based on this experience that evaluates the role of plant chemistry in shaping local interactions among plants and landscape diversity patterns. Since participating in this REPS experience, he has been admitted to and is currently pursuing his M.S. degree in restoration ecology.</p>  <p><span style="white-space: pre;"> </span>In summary, our working group has advanced and transformed the study of local species interactions and how they may contribute to landscape, regional, and global patterns of biodiversity. Moving forward, we are continuing our collaborations within the broader working group as well as within smaller sub-groups that formed through the course of our project. By bringing together multiple sides of contentious issues in a constructive and positive forum that facilitated productive debate, our group has laid a consensus foundation that will promote future breakthroughs in the study of species interactions and diversity maintenance.</p><br> <p>  Last Modified: 12/18/2024<br> Modified by: Joseph&nbsp;A&nbsp;Lamanna</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  A thorough understanding of processes that enhance and maintain the diversity of living things is critically important to our basic understanding of ecology and our ability to conserve biodiversity in the face of threats like pollution, wildfire, drought, and land-use change. This award supported 28 researchers to attend a series of workshops, including two week-long meetings and many virtual meetings, with the goal of advancing our understanding of a fundamental ecological process thought to contribute to the maintenance of biodiversity. When plants of the same type grow too close together, many of them die from shared disease or intense competition. Those deaths create opportunities for different types of plants to establish, and this process can enhance local plant diversity. Prior to our meetings, a multitude of approaches to assess this process and substantial debate among leading scientists had hampered advances in our understanding of the extent to which local interactions among plants contribute to biological diversity around the world. Our working group and the series of meetings supported by this award has produced important advances in understanding the contribution of such local species interactions to diversity maintenance. Besides transforming our basic understanding of how species interactions influence diversity maintenance, these advances improve our ability to predict how ecological communities will respond to wildfire, drought, and other environmental stressors.     With support from this award, we brought together top ecological researchers from different sides of conceptual and empirical debates surrounding local plant interactions and their ability to enhance the maintenance of diversity. These meetings were conducted in a constructive and positive manner that yielded numerous breakthroughs. First, our working group published a paper synthesizing key concepts and recent advances in the study of how local interactions may scale up to influence regional to global patterns of plant species diversity. This paper resolves contentious debate, recommends consensus approaches, and highlights prominent outstanding questions in the field. Second, we developed robust approaches to assess whether local interactions among plants contribute to plant species diversity. These approaches involve cutting-edge modeling techniques and will be a how-to guide for researchers seeking to make further advances in this important area of ecological research. We also anticipate that these approaches will become standardized methodologies, providing a critical common currency to evaluate ecological influences on the maintenance of plant species diversity. Third, we have applied these newly developed approaches to long-term data on plant survival and growth from across the United States and the world. So far, these empirical analyses have yielded six papers published or accepted in top-tier journals that push forward our understanding of the contribution of local plant interactions to larger-scale diversity patterns. Several more empirical and conceptual papers produced by our group are currently in review at top-tier journals, and we have presented our findings at national and international meetings. These products are high-profile advances that will set the stage for continued breakthroughs in our understanding of how local species interactions shape patterns of biodiversity as well as how local interactions may help us mitigate biodiversity loss.     Multiple perspectives were essential to achieving our goals. This is one reason we formed a "team of rivals" working group to discuss contentious issues from multiple viewpoints in a productive, positive, and constructive setting that yielded substantial advances. Engaging and involving participants from a variety of career stages and backgrounds, including groups underrepresented in science, was also a priority for our working group. We therefore mentored and trained 12 graduate students and postdoctoral researchers along with eight early-career faculty in this area of ecological research. This included one research experience for post-bachelors (REPS) fellowship, which was funded under a supplement to this award. This REPS fellow, from a group currently underrepresented in science, had a successful research experience and is finishing a manuscript based on this experience that evaluates the role of plant chemistry in shaping local interactions among plants and landscape diversity patterns. Since participating in this REPS experience, he has been admitted to and is currently pursuing his M.S. degree in restoration ecology.     In summary, our working group has advanced and transformed the study of local species interactions and how they may contribute to landscape, regional, and global patterns of biodiversity. Moving forward, we are continuing our collaborations within the broader working group as well as within smaller sub-groups that formed through the course of our project. By bringing together multiple sides of contentious issues in a constructive and positive forum that facilitated productive debate, our group has laid a consensus foundation that will promote future breakthroughs in the study of species interactions and diversity maintenance.     Last Modified: 12/18/2024       Submitted by: JosephALamanna]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

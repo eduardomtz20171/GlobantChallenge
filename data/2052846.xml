@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FRG: Collaborative Research: Trace Methods and Applications for Cut-and-Paste K-Theory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>156887.00</AwardTotalIntnAmount>
+<AwardAmount>156887</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+<PO_EMAI>snaik@nsf.gov</PO_EMAI>
+<PO_PHON>7032924876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research brings together ideas, techniques, and insights from two long-standing programs in mathematics: scissors congruence and algebraic K-theory.  Scissors congruence originated in Hilbert's 3rd Problem, which asks when two polyhedra in three-dimensional space are "scissors congruent," meaning one can be obtained from the other by cutting it into smaller polyhedra and reassembling in a different way.  This question, together with its solution by Dehn, initiated an extensive program of research. Over the past 120 years these ideas have grown and now connect to almost every branch of geometry. Ground-breaking recent work provides a fundamental link between this program and algebraic K-theory, which is itself a deep and rapidly developing area of research.  Algebraic K-theory intertwines three major fields of mathematics: topology, algebraic geometry, and number theory. Developing the connection between scissors congruence and algebraic K-theory will significantly advance research in both.  This work also provides the platform for striking new research avenues that will bring to bear the tools and techniques of modern algebraic K-theory research on a wide range of geometric questions.  This project additionally includes a number of efforts to support students and new researchers in the field, expanding and broadening access to these innovative ideas.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This broad new program of research develops the foundations of combinatorial, or "cut-and-paste," algebraic K-theory, applies these new tools to resolve outstanding geometric questions, and expands the scope of combinatorial K-theory to new applications.  It brings modern techniques in algebraic K-theory to the emerging K-theoretic approach to cut-and-paste invariants, and applies this approach to a variety of problems in algebraic topology, differential topology, and algebraic geometry. Algebraic K-theory has seen a stunning revolution in the last thirty years due to the invention of trace methods, but these tools have not yet been developed for combinatorial K-theory, a deficiency that this project hopes to remedy. This requires developing the foundations of this new theory and exploiting connections to equivariant homotopy theory.  New computational and analytic tools for combinatorial K-theory will lead to progress on a wide variety of geometric problems, including applications to manifolds and invertible TQFTs, varieties and motivic measures, and fixed point theory.  Many questions in these fields have natural interpretations in terms of cut-and-paste invariants.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/10/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052846</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Mandell</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael A Mandell</PI_FULL_NAME>
+<EmailAddress><![CDATA[mmandell@iu.edu]]></EmailAddress>
+<NSF_ID>000268008</NSF_ID>
+<StartDate>05/10/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress><![CDATA[107 S INDIANA AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>Bloomington</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474057106</ZipCode>
+<StreetAddress><![CDATA[831 E. 3rd St., Rawles Hall 449]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1616</Code>
+<Text>FOCUSED RESEARCH GROUPS IN MATH SCIENCES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~156887</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In geometry, objects are said to be congruent if they can be made to coincide by applying a rigid motion (translation, rotation, reflection) to one of them.&nbsp; Scissors congruence generalizes this by allowing you to cut the objects into pieces and reassemble them.&nbsp; Classically, in 2-dimensions, polygons are scissors congruent exactly when they have the same area (any polygon can be cut up and reassembled into any other polygon with the same area).&nbsp; In the early 20th century, Dehn proved that the same is not true in three dimensions: he found another invariant of polyhedra preserved by scissors congruence, independent of volume.&nbsp; Late in the 20th century, it was shown that the Dehn invariant and volume determine scissors congruence in 3 dimensions.&nbsp; In the 21st century, Zakharevich showed that these problems fit into the framework of algebraic K-theory and defined "higher" scissors congruence groups in terms of algebraic K-theory spectra.</p> <p>This FRG studies higher scissors congrences groups and generalizations of scissors congruence in the general topic area of "cut-and-paste K-theory".&nbsp; The FRG has been very successful at studying higher scissors congruence in Euclidean space and hyperbolic space, identifying the K-theory spectra as orbit spectra of Thom spectra.&nbsp; As a consequence the higher scissors congruence groups in these cases turn out to be describable in terms group cohomology.&nbsp; The FRG has also been successful at developing some tools to study cut and paste K-theory more generally.&nbsp; The FRG has provided opportunities for career development, through a virtual conference series and mentorship opportunities.&nbsp; The FRG ran a workshop for graduate students and earlier career researchers providing background on the problems in the area and related tools.&nbsp; The FRG ran a collaborative workshop with working groups on several problems in the area.&nbsp; The FRG is planning a research conference on recent accomplishments in the area for summer 2025.</p><br> <p>  Last Modified: 08/18/2024<br> Modified by: Michael&nbsp;A&nbsp;Mandell</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In geometry, objects are said to be congruent if they can be made to coincide by applying a rigid motion (translation, rotation, reflection) to one of them. Scissors congruence generalizes this by allowing you to cut the objects into pieces and reassemble them. Classically, in 2-dimensions, polygons are scissors congruent exactly when they have the same area (any polygon can be cut up and reassembled into any other polygon with the same area). In the early 20th century, Dehn proved that the same is not true in three dimensions: he found another invariant of polyhedra preserved by scissors congruence, independent of volume. Late in the 20th century, it was shown that the Dehn invariant and volume determine scissors congruence in 3 dimensions. In the 21st century, Zakharevich showed that these problems fit into the framework of algebraic K-theory and defined "higher" scissors congruence groups in terms of algebraic K-theory spectra.   This FRG studies higher scissors congrences groups and generalizations of scissors congruence in the general topic area of "cut-and-paste K-theory". The FRG has been very successful at studying higher scissors congruence in Euclidean space and hyperbolic space, identifying the K-theory spectra as orbit spectra of Thom spectra. As a consequence the higher scissors congruence groups in these cases turn out to be describable in terms group cohomology. The FRG has also been successful at developing some tools to study cut and paste K-theory more generally. The FRG has provided opportunities for career development, through a virtual conference series and mentorship opportunities. The FRG ran a workshop for graduate students and earlier career researchers providing background on the problems in the area and related tools. The FRG ran a collaborative workshop with working groups on several problems in the area. The FRG is planning a research conference on recent accomplishments in the area for summer 2025.     Last Modified: 08/18/2024       Submitted by: MichaelAMandell]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

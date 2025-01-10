@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+<PO_EMAI>sgdewint@nsf.gov</PO_EMAI>
+<PO_PHON>7032922599</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist. The title of the project for this fellowship to Melissa L. Emory is "Beyond Endoscopy, Representation Theory, and the Generalized Sato-Tate Conjecture." The host institution for the fellowship is University of Toronto and the sponsoring scientist is James Arthur.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002085</AwardID>
+<Investigator>
+<FirstName>Melissa</FirstName>
+<LastName>Emory</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Melissa L Emory</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000757942</NSF_ID>
+<StartDate>03/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Emory                   Melissa        L]]></Name>
+<CityName>Columbia</CityName>
+<ZipCode>652114100</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Toronto]]></Name>
+<CityName>Toronto</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>M5S 2E4</ZipCode>
+<StreetAddress/>
+<CountryCode>CA</CountryCode>
+<CountryName>Canada</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>0</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF>AZ"</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp; &nbsp; The first project outcome deals with a strategy of Langlands known as&nbsp; `beyond endoscopy' which utilizes the trace formula to study the analytic behavior of automorphic L-functions. Its goal is to establish the principle of functoriality which is the fundamental pillar of the Langlands program, with enormous implications for number theory, arithmetic geometry and representation theory.&nbsp;A first step was achieved by A. Altug who worked with the group&nbsp;<span id="MathJax-Element-1-Frame" class="MathJax"><span id="MathJax-Span-1" class="math"><span id="MathJax-Span-2" class="mrow"><span id="MathJax-Span-3" class="mi">G</span><span id="MathJax-Span-4" class="mi">L</span><span id="MathJax-Span-5" class="mo">(</span><span id="MathJax-Span-6" class="mn">2</span><span id="MathJax-Span-7" class="mo">,</span><span id="MathJax-Span-8" class="texatom"><span id="MathJax-Span-9" class="mrow"><span id="MathJax-Span-10" class="mi">&#8474;</span></span></span><span id="MathJax-Span-11" class="mo">)</span></span></span></span>&nbsp;in a series of three papers. We generalize the first part of this result to a class of totally real number fields. In particular, we cancel the contribution of the trivial and special representations to the trace formula using an additive Poisson summation on the regular elliptic terms.</p> <p>&nbsp; &nbsp; The second project outcome here is on the restriction of representations of a non-classical group, the general spin group. In general, the question is how a representation of a group decomposes when restricted to a subgroup.&nbsp; The representation theory of general spin groups is important as it subsumes the representation theory of the special orthogonal groups; and having a non-trivial center (as occurs with general spin groups) is preferred&nbsp; for application purposes.&nbsp; We proved a multiplicity one theorem for general spin groups as in and the general Pin groups.&nbsp; Theorems regarding multiplicity at most one have important applications to the relative trace formula, to local and global liftings of automorphic representations, to automorphic descent, as well as to determinations of L-functions.&nbsp;&nbsp;</p> <p>&nbsp; &nbsp; The third project outcome determined the full Sato-Tate group for curves of the form $y^2=x^p-1$ and $y^2=x^{2p}-1$ where $p$ is a prime and we proved the generalized Sato-Tate conjecture for each these family of curves.&nbsp; Roughly speaking, we are interestedin studying how the coefficients of the (local) normalized L-polynomials $L_p(C, T)$ of a curve$C$ vary as the prime $p$ goes to infinity. This research area is important because the coefficients of $L_p(C, T)$ encode arithmetic information about the curve $C$. The generalized Sato-Tate conjecture predicts that as $p \to \infty$ this distribution converges to the distribution of traces in the Sato-Tate group, a compact subgroup of $\USp(2g)$ associated to the Jacobian of the curve. Of particular interest is that the component group of the Sato-Tate group is non-cyclic.&nbsp; We went on to prove a similar result for two other families of curves.</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/29/2024<br> Modified by: Melissa&nbsp;L&nbsp;Emory</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[    The first project outcome deals with a strategy of Langlands known as `beyond endoscopy' which utilizes the trace formula to study the analytic behavior of automorphic L-functions. Its goal is to establish the principle of functoriality which is the fundamental pillar of the Langlands program, with enormous implications for number theory, arithmetic geometry and representation theory.A first step was achieved by A. Altug who worked with the groupGL(2,&#8474;)in a series of three papers. We generalize the first part of this result to a class of totally real number fields. In particular, we cancel the contribution of the trivial and special representations to the trace formula using an additive Poisson summation on the regular elliptic terms.     The second project outcome here is on the restriction of representations of a non-classical group, the general spin group. In general, the question is how a representation of a group decomposes when restricted to a subgroup. The representation theory of general spin groups is important as it subsumes the representation theory of the special orthogonal groups; and having a non-trivial center (as occurs with general spin groups) is preferred for application purposes. We proved a multiplicity one theorem for general spin groups as in and the general Pin groups. Theorems regarding multiplicity at most one have important applications to the relative trace formula, to local and global liftings of automorphic representations, to automorphic descent, as well as to determinations of L-functions.     The third project outcome determined the full Sato-Tate group for curves of the form $y^2=x^p-1$ and $y^2=x^{2p}-1$ where $p$ is a prime and we proved the generalized Sato-Tate conjecture for each these family of curves. Roughly speaking, we are interestedin studying how the coefficients of the (local) normalized L-polynomials $L_p(C, T)$ of a curve$C$ vary as the prime $p$ goes to infinity. This research area is important because the coefficients of $L_p(C, T)$ encode arithmetic information about the curve $C$. The generalized Sato-Tate conjecture predicts that as $p \to \infty$ this distribution converges to the distribution of traces in the Sato-Tate group, a compact subgroup of $\USp(2g)$ associated to the Jacobian of the curve. Of particular interest is that the component group of the Sato-Tate group is non-cyclic. We went on to prove a similar result for two other families of curves.        Last Modified: 09/29/2024       Submitted by: MelissaLEmory]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

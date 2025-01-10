@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Exploring the genomics of convergent snout elongations in deep-sea fishes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>300062.00</AwardTotalIntnAmount>
+<AwardAmount>300062</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carolyn J. Ferguson</SignBlockName>
+<PO_EMAI>cferguso@nsf.gov</PO_EMAI>
+<PO_PHON>7032922689</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Explaining how similar traits have independently evolved in distantly related organisms is a central goal of evolutionary biology. Among vertebrates, fishes are one of the few evolutionary systems that provide repeated cases of adaptation to deep-sea marine environments, one of the most extreme and underexplored environments on earth. Transitions from shallow to deep-sea habitats have occurred multiple times, resulting in a variety of remarkable adaptations, from the presence of bioluminescence and small body size to a diverse array of morphological specializations. However, detailed comparative studies investigating the origin and genomic bases of specialized phenotypic novelties that have repeatedly appeared in the deep-sea continue to be poorly understood. This project aims to develop a comparative approach to study convergent morphological evolution and its underlying ecological and genomic bases in the deep-sea spikefishes (Triacanthodidae, Tetraodontiformes), which are distributed around the tropical and temperate upper slopes of the world’s oceans.&lt;br/&gt;&lt;br/&gt;Spikefishes provide an outstanding system for investigating convergent evolution as lineages in the group have independently evolved at least twice the most extreme tubular snout elongation in the Fish Tree of Life, have some of the smallest vertebrate genomes, and included well-preserved fossil species from the Eocene and Oligocene. The integration of state-of-the-art genomic and morphological data with the study of extant and fossil species will allow new ways of exploring convergent morphological evolution in a genomic and ecological framework. Moreover, understanding the determinants of deep-sea convergence at the molecular level has the potential to inform general principles of adaptation and morphological predictivity along ocean depth gradients. Overall, this project will contribute whole-genome resequencing data, CT-scans for extant and fossil taxa, and a well-resolved phylogeny of triacanthodids and allies. This project will also provide online videos, tutorials, interactive apps, museum exhibits, undergraduate and graduate training, and a series of integrative research papers exploring the links between phenotype and genotype and the associations of genomic regions involved in morphological adaptations in fishes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015404</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Broughton</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard E Broughton</PI_FULL_NAME>
+<EmailAddress><![CDATA[rbroughton@ou.edu]]></EmailAddress>
+<NSF_ID>000439158</NSF_ID>
+<StartDate>07/05/2023</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dahiana</FirstName>
+<LastName>Arcila</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dahiana Arcila</PI_FULL_NAME>
+<EmailAddress><![CDATA[dkarcila@ucsd.edu]]></EmailAddress>
+<NSF_ID>000734383</NSF_ID>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katherine</FirstName>
+<LastName>Bemis</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katherine E Bemis</PI_FULL_NAME>
+<EmailAddress><![CDATA[keb242@cornell.edu]]></EmailAddress>
+<NSF_ID>000816533</NSF_ID>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Oklahoma Norman Campus]]></Name>
+<CityName>NORMAN</CityName>
+<ZipCode>730193003</ZipCode>
+<PhoneNumber>4053254757</PhoneNumber>
+<StreetAddress><![CDATA[660 PARRINGTON OVAL RM 301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVTSTTLCEWS5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OKLAHOMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oklahoma Norman Campus]]></Name>
+<CityName>Norman</CityName>
+<StateCode>OK</StateCode>
+<ZipCode>730199705</ZipCode>
+<StreetAddress><![CDATA[201 Stephenson Parkway Five Part]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>737400</Code>
+<Text>Systematics &amp; Biodiversity Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300062</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Understanding Extreme Morphological Adaptations in Deep-Sea Fishes</strong></p> <p>&nbsp;Spikefishes, a group of deep-sea teleosts, exhibit extraordinary morphological adaptations, including elongated, tube-shaped snouts. These features, which superficially resemble those of seahorse relatives such as snipefishes, have evolved independently, providing a compelling model for studying convergent evolution. This research utilized whole-genome sequencing data, high-resolution anatomical imaging, and paleontological information to elucidate the evolutionary processes underlying these extreme body forms.</p> <p><strong>Key Findings</strong></p> <p>This study has yielded several critical insights into the evolutionary history and functional morphology of spikefishes:</p> <p><em><strong>Phylogenetic reconstruction</strong></em>: The first complete phylogenetic framework for spikefishes was constructed, revealing that their pronounced snout elongation evolved approximately 10 million years ago.</p> <p><em><strong>Morphological diversification: </strong></em>Long-snouted spikefishes demonstrate greater variability in tooth morphology and craniofacial structures compared to their short-snouted relatives, indicating functional adaptations to novel ecological niches.</p> <p><em><strong>Convergent evolution: </strong></em>Comparative analyses reveal that while spikefishes and snipefishes exhibit analogous craniofacial elongation, these traits arose through distinct evolutionary pathways, with overlapping modifications in certain skeletal elements.</p> <p><strong><em>Genomic advances:</em></strong> High-quality genome assemblies were generated for multiple spikefish species, creating foundational resources for future genomic and evolutionary research.</p> <p>&nbsp;</p> <p><strong>Educational Contributions</strong></p> <p>The project provided substantial training and capacity-building opportunities for emerging researchers:</p> <p>- Graduate students gained expertise in cutting-edge research techniques, including whole-genome sequencing, computed tomography (CT) imaging, and quantitative morphological analyses.</p> <p>- Specialized workshops on genomic data processing and fish anatomy were conducted to broaden accessibility and skill development within the scientific community.</p> <p>- Students disseminated their findings at international scientific conferences and through publications in peer-reviewed journals.</p> <p>- Collaborative efforts included contributions from researchers in Australia, Japan, Taiwan, and other nations, enriching the study with diverse perspectives and specimens.</p> <p><strong>Broader Implications</strong></p> <p>This research significantly advances our understanding of morphological evolution and ecological adaptation in deep-sea environments:&nbsp;</p> <p><em><strong>Evolutionary insights: </strong></em>The study provides a detailed examination of the mechanisms driving the evolution of extreme morphological traits, highlighting the role of ecological pressures and developmental constraints.</p> <p><em><strong>Conservation relevance:</strong></em> As human activities increasingly threaten deep-sea ecosystems, understanding the biodiversity and evolutionary history of these environments is critical for informing conservation strategies.</p> <p><strong><em>Open data access:</em></strong> To facilitate further research, genomic sequences, anatomical scans, and associated datasets have been made publicly available, supporting ongoing and future investigations into marine biodiversity and evolutionary biology.</p> <p><strong>Conclusion</strong></p> <p>By integrating phylogenetics, genomics, and comparative morphology, this study provides a comprehensive understanding of the evolutionary innovations in spikefishes. These findings contribute to broader questions about adaptation and diversification in extreme environments, while the resources generated will serve as a platform for continued research into the remarkable diversity of life in the deep sea.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/13/2024<br> Modified by: Dahiana&nbsp;Arcila</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2015404/2015404_10676334_1731560126283_methods--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2015404/2015404_10676334_1731560126283_methods--rgov-800width.jpg" title="Spikefishes diversity"><img src="/por/images/Reports/POR/2024/2015404/2015404_10676334_1731560126283_methods--rgov-66x44.jpg" alt="Spikefishes diversity"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Morphological data collected from four different spikefish species. Each species shows landmarks in context (top left), landmarking scheme (top right), tooth measurements (bottom left), and the CT scan without morphological data collected (bottom right)</div> <div class="imageCredit">Zach Heiple</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Dahiana&nbsp;Arcila <div class="imageTitle">Spikefishes diversity</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Understanding Extreme Morphological Adaptations in Deep-Sea Fishes   Spikefishes, a group of deep-sea teleosts, exhibit extraordinary morphological adaptations, including elongated, tube-shaped snouts. These features, which superficially resemble those of seahorse relatives such as snipefishes, have evolved independently, providing a compelling model for studying convergent evolution. This research utilized whole-genome sequencing data, high-resolution anatomical imaging, and paleontological information to elucidate the evolutionary processes underlying these extreme body forms.   Key Findings   This study has yielded several critical insights into the evolutionary history and functional morphology of spikefishes:   Phylogenetic reconstruction: The first complete phylogenetic framework for spikefishes was constructed, revealing that their pronounced snout elongation evolved approximately 10 million years ago.   Morphological diversification: Long-snouted spikefishes demonstrate greater variability in tooth morphology and craniofacial structures compared to their short-snouted relatives, indicating functional adaptations to novel ecological niches.   Convergent evolution: Comparative analyses reveal that while spikefishes and snipefishes exhibit analogous craniofacial elongation, these traits arose through distinct evolutionary pathways, with overlapping modifications in certain skeletal elements.   Genomic advances: High-quality genome assemblies were generated for multiple spikefish species, creating foundational resources for future genomic and evolutionary research.      Educational Contributions   The project provided substantial training and capacity-building opportunities for emerging researchers:   - Graduate students gained expertise in cutting-edge research techniques, including whole-genome sequencing, computed tomography (CT) imaging, and quantitative morphological analyses.   - Specialized workshops on genomic data processing and fish anatomy were conducted to broaden accessibility and skill development within the scientific community.   - Students disseminated their findings at international scientific conferences and through publications in peer-reviewed journals.   - Collaborative efforts included contributions from researchers in Australia, Japan, Taiwan, and other nations, enriching the study with diverse perspectives and specimens.   Broader Implications   This research significantly advances our understanding of morphological evolution and ecological adaptation in deep-sea environments:   Evolutionary insights: The study provides a detailed examination of the mechanisms driving the evolution of extreme morphological traits, highlighting the role of ecological pressures and developmental constraints.   Conservation relevance: As human activities increasingly threaten deep-sea ecosystems, understanding the biodiversity and evolutionary history of these environments is critical for informing conservation strategies.   Open data access: To facilitate further research, genomic sequences, anatomical scans, and associated datasets have been made publicly available, supporting ongoing and future investigations into marine biodiversity and evolutionary biology.   Conclusion   By integrating phylogenetics, genomics, and comparative morphology, this study provides a comprehensive understanding of the evolutionary innovations in spikefishes. These findings contribute to broader questions about adaptation and diversification in extreme environments, while the resources generated will serve as a platform for continued research into the remarkable diversity of life in the deep sea.        Last Modified: 11/13/2024       Submitted by: DahianaArcila]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

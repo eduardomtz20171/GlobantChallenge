@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ATD: Collaborative Research: Computationally Efficient Algorithms for Detecting Anomalous Atmospheric Emissions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>161944.00</AwardTotalIntnAmount>
+<AwardAmount>161944</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+<PO_EMAI>tbartosz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Large-scale anomalous emissions of greenhouse gases and air pollution pose threats to human health in the vicinity of the emissions, compromise state emissions targets, and threaten energy security.  Two recent, high-profile natural gas blowouts underscore the need for early detection and intervention. Several new and forthcoming satellites have the specific purpose of detecting and monitoring greenhouse gas emissions, and recent studies have demonstrated the potential of detecting such events using satellite data. However, there are enormous computational challenges in quantifying these emission anomalies or super-emitters due to the massive amounts of satellite data to be processed and the fine-scale resolution at which reconstructions are needed for threat detection. This project aims to tackle these challenges by developing improved computational methods for use in detection of atmospheric emissions. The project supports one graduate per year at each of the three universities.&lt;br/&gt;&lt;br/&gt;The project aims to address fundamental issues in the development of computationally efficient solvers for inverse problems, and to push the traditional boundaries of threat detection via satellites by enabling researchers to detect and monitor anomalous atmospheric emissions quickly, accurately, and with quantifiable uncertainty. The main thrusts of this project are (i) efficient incorporation of prior information and parameter selection, (ii) improved spatio-temporal inverse modeling with multiple stochastic components and cost-cutting inexact and sampling approaches to handle expensive adjoint models, and (iii) evaluations, testing, and integration of the developed methods via case studies with synthetic satellite data. The aim of this project is to help identify potential immediate threats (e.g., oil and gas blowouts) using satellites, which have significant broader impacts not only in disaster response and recovery but also in minimizing the long-term environmental risks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026830</AwardID>
+<Investigator>
+<FirstName>Arvind</FirstName>
+<LastName>Saibaba</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arvind K Saibaba</PI_FULL_NAME>
+<EmailAddress><![CDATA[asaibab@ncsu.edu]]></EmailAddress>
+<NSF_ID>000702534</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>Raleigh</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276958209</ZipCode>
+<StreetAddress><![CDATA[2700 Stinson Dr., Box 8209, Cox]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>046Y00</Code>
+<Text>ATD-Algorithms for Threat Dete</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6877</Code>
+<Text>ALGORITHMS IN THREAT DETECTION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~161944</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In recent years, high-profile anomalies or super-emitters have played an increasing role in the national conversation about greenhouse gas (GHG) and air pollution emissions because of the threats they pose to energy security (i.e., the availability of natural resources for energy consumption), public health, and safety. These leaks not only threaten state GHG emissions targets but also threaten the reliability and efficiency of the energy supply chain, occupational safety at gas facilities, human health in the vicinity of emissions, and contribute to air pollution exceedances.</p>  <p>&nbsp;</p>  <p>In this project, we developed computational methods and tools to enable fast and accurate atmospheric inverse modeling for threat detection.&nbsp; We advanced computational techniques for detecting and monitoring facilities that have abnormally large, disproportionate atmospheric emissions, so-called &ldquo;super-emitters&rdquo;; we developed robust algorithms, with data-informed automatic parameter selection, that can incorporate complex priors and handle very large geospatial datasets, and we established a robust evaluation and feedback procedure for working with new remote sensing satellite data to detect threats due to anomalous emissions.</p>  <p>&nbsp;</p>  <p>The award has resulted in 7 peer-reviewed publications, in esteemed journals such as the SIAM Journal on Scientific Computing, Geoscientfic Model Development, SIAM Journal on Matrix Analysis and Applications, and Advances in Computational Mathematics. The research developments have been broadly disseminated in the scientific community. In addition to over 30 invited talks and colloquia given by the PIs Chung, Miller, and Saibaba, including multiple prestigious plenary talks. Students and postdocs gave numerous contributed talks at national and international conferences during this award. &nbsp;The project also supported the development and dissemination of open-source code available on GitHub, for wide impact.</p>  <p>&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/26/2024<br> Modified by: Arvind&nbsp;K&nbsp;Saibaba</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In recent years, high-profile anomalies or super-emitters have played an increasing role in the national conversation about greenhouse gas (GHG) and air pollution emissions because of the threats they pose to energy security (i.e., the availability of natural resources for energy consumption), public health, and safety. These leaks not only threaten state GHG emissions targets but also threaten the reliability and efficiency of the energy supply chain, occupational safety at gas facilities, human health in the vicinity of emissions, and contribute to air pollution exceedances.        In this project, we developed computational methods and tools to enable fast and accurate atmospheric inverse modeling for threat detection. We advanced computational techniques for detecting and monitoring facilities that have abnormally large, disproportionate atmospheric emissions, so-called super-emitters; we developed robust algorithms, with data-informed automatic parameter selection, that can incorporate complex priors and handle very large geospatial datasets, and we established a robust evaluation and feedback procedure for working with new remote sensing satellite data to detect threats due to anomalous emissions.        The award has resulted in 7 peer-reviewed publications, in esteemed journals such as the SIAM Journal on Scientific Computing, Geoscientfic Model Development, SIAM Journal on Matrix Analysis and Applications, and Advances in Computational Mathematics. The research developments have been broadly disseminated in the scientific community. In addition to over 30 invited talks and colloquia given by the PIs Chung, Miller, and Saibaba, including multiple prestigious plenary talks. Students and postdocs gave numerous contributed talks at national and international conferences during this award. The project also supported the development and dissemination of open-source code available on GitHub, for wide impact.             Last Modified: 11/26/2024       Submitted by: ArvindKSaibaba]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

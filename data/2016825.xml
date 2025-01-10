@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Scripps Institution of Oceanography - Oceanographic Equipment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>268616.00</AwardTotalIntnAmount>
+<AwardAmount>268616</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kandace Binkley</SignBlockName>
+<PO_EMAI>kbinkley@nsf.gov</PO_EMAI>
+<PO_PHON>7032927577</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Scripps Institution of Oceanography (SIO) requests funds for oceanographic instrumentation that is needed to carry out NSF-supported scientific research. Working within the collaborative framework of the University-National Oceanographic Laboratory System (UNOLS), the proposed instrumentation will be maintained by the SIO ship operations department for use by NSF-supported scientists from institutions nationwide who require these seagoing facilities. Instrumentation is requested for RV Sally Ride, a 238-foot, Navy-owned vessel built in 2014. The vessel completed 282 funded days in 2019, only 13 of which were for NSF. In 2020, the ship is scheduled for 254 days with 102 of them in support of NSF-funded science. With this proposal, SIO provides technical descriptions and rationale for the acquisition of the following Oceanographic Instrumentation:&lt;br/&gt;&lt;br/&gt;1) Virtual Desktop Infrastructure R/V Sally Ride $178,129&lt;br/&gt;2) CTD Rosette and CTD Cart System R/V Sally Ride $90,487&lt;br/&gt;3) Acoustic Release System R/V Roger Revelle and R/V Sally Ride $46,730&lt;br/&gt;       $315,346&lt;br/&gt;Broader Impacts&lt;br/&gt;The principal impact of the present proposal is under Merit Review Criterion 2 of the Proposal Guidelines (NSF 13-589). It provides infrastructure support for scientists to use the vessel and its shared-use instrumentation in support of their NSF-funded oceanographic research projects (which individually undergo separate review by the relevant research program of NSF).  The acquisition, maintenance and operation of shared-use instrumentation allows NSF-funded researchers from any US university or lab access to working, calibrated instruments for their research, reducing the cost of that research, and expanding the base of potential researchers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016825</AwardID>
+<Investigator>
+<FirstName>Terry</FirstName>
+<LastName>Appelgate</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME>Jr</PI_SUFX_NAME>
+<PI_FULL_NAME>Terry B Appelgate</PI_FULL_NAME>
+<EmailAddress><![CDATA[bappelgate@ucsd.edu]]></EmailAddress>
+<NSF_ID>000463246</NSF_ID>
+<StartDate>03/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lee</FirstName>
+<LastName>Ellett</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lee Ellett</PI_FULL_NAME>
+<EmailAddress><![CDATA[lellett@ucsd.edu]]></EmailAddress>
+<NSF_ID>000743967</NSF_ID>
+<StartDate>03/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego Scripps Inst of Oceanography]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920931500</ZipCode>
+<PhoneNumber>8585341293</PhoneNumber>
+<StreetAddress><![CDATA[8622 DISCOVERY WAY # 116]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QJ8HMDK7MRM3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QJ8HMDK7MRM3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[UC San Diego Scripps Inst of Oceanography]]></Name>
+<CityName>La Jolla</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930210</ZipCode>
+<StreetAddress><![CDATA[9500 Gilman Drive - 0210]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>541300</Code>
+<Text>OCEANOGRAPHIC INSTRUMENTATION</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~268616</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Outcomes</strong></p> <p>At Scripps Institution of Oceanography (SIO) and throughout the oceanographic research, the observation, measurement, and collection of samples and data are accomplished at sea on a global scale by operations aboard seagoing research vessels. National Science Foundation (NSF) support for shipboard scientific equipment aboard oceanographic research vessels enables NSF-supported scientists to project their ability to observe, measure and sample the planet worldwide, facilitating scientific endeavor across a broad range of disciplines including biology, chemistry, geology, geophysics, physics, atmospheric sciences, and many others.</p> <p>This award supported the procurement of scientific equipment that is now being used aboard the Research Vessels (R/V) <em>Sally Ride</em>.&nbsp; All were important to shipboard capabilities required for research programs supported by the NSF during 2020 and beyond. Specifically, this award supported the acquisition of a virtual desktop infrastructure computing cluster on R/V&nbsp;<em>Sally Ride</em>, and the fabrication of a new CTD rosette frame and CTD track system on R/V&nbsp;<em>Sally Ride</em>.</p> <p><strong>Intellectual merit: </strong>&nbsp;SIO-operated ships and technical services have played a critical role in the exploration and understanding of our planet since 1907, and continue to contribute significantly to the U.S. ocean research effort. The equipment supported by this award are operated on a shared-use basis to enable NSF-supported scientists to observe, measure and sample the planet worldwide, facilitating scientific endeavors across a range of disciplines. The intellectual merit of this proposal is amplified by the combined merit of the many individual research projects undertaken by scientists who use this equipment. This award supported the procurement of shipboard scientific equipment that can be used by NSF-supported scientists on a shared-use basis. Individual scientific programs on board that use this equipment are selected through NSF's peer review processes, and each program is directed by its own Principal Investigator with unique objectives, outcomes and intellectual merit.&nbsp;</p> <p><strong>Broader impacts:</strong>&nbsp;&nbsp; The equipment supported by this award has been integrated into our community's shared-use research and education infrastructure, which is managed following NSF guidelines to be strongly collaborative, multidisciplinary and multi-institutional. As a charter member of the University-National Oceanographic Laboratory System (UNOLS), SIO is actively involved in coordinating research operations with scientists and funding agencies so shipboard capabilities can best meet the current and anticipated research needs of the entire community. Through UNOLS, SIO marine technical support personnel collaborate with colleagues at other institutions to broadly communicate best practices, lessons learned, and operational practices that benefit the entire U.S. research community. The spectrum of research projects enabled by SIO's marine technical services achieves far-reaching broader impacts through the operation and maintenance of infrastructure that is critical to the promotion of training and learning, increasing the participation of underrepresented groups in research, advancing scientific and technological understanding, and informing policy making. The equipment is now operated by SIO's ship operations department, and leverage institutional programs that advance NSF's mission to promote achievement and progress in science, engineering and education for the benefit of the nation. In the five-year period ending in 2020, 978 graduate students and 864 undergraduate students, and 12 K12 and college educators obtained firsthand experience at sea aboard SIO-operated research vessels. The equipment enables graduate and undergraduate students, postdoctoral researchers and early career faculty to pursue independent research and instruction at sea. As shared-use resources available to all NSF-supported scientists, this equipment has a tremendously broad impact because they enable education, training and outreach missions of the home institutions of each scientist.</p> <p>&nbsp;</p><br> <p>  Last Modified: 06/28/2024<br> Modified by: Terry&nbsp;B&nbsp;Appelgate</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Outcomes   At Scripps Institution of Oceanography (SIO) and throughout the oceanographic research, the observation, measurement, and collection of samples and data are accomplished at sea on a global scale by operations aboard seagoing research vessels. National Science Foundation (NSF) support for shipboard scientific equipment aboard oceanographic research vessels enables NSF-supported scientists to project their ability to observe, measure and sample the planet worldwide, facilitating scientific endeavor across a broad range of disciplines including biology, chemistry, geology, geophysics, physics, atmospheric sciences, and many others.   This award supported the procurement of scientific equipment that is now being used aboard the Research Vessels (R/V) Sally Ride. All were important to shipboard capabilities required for research programs supported by the NSF during 2020 and beyond. Specifically, this award supported the acquisition of a virtual desktop infrastructure computing cluster on R/VSally Ride, and the fabrication of a new CTD rosette frame and CTD track system on R/VSally Ride.   Intellectual merit: SIO-operated ships and technical services have played a critical role in the exploration and understanding of our planet since 1907, and continue to contribute significantly to the U.S. ocean research effort. The equipment supported by this award are operated on a shared-use basis to enable NSF-supported scientists to observe, measure and sample the planet worldwide, facilitating scientific endeavors across a range of disciplines. The intellectual merit of this proposal is amplified by the combined merit of the many individual research projects undertaken by scientists who use this equipment. This award supported the procurement of shipboard scientific equipment that can be used by NSF-supported scientists on a shared-use basis. Individual scientific programs on board that use this equipment are selected through NSF's peer review processes, and each program is directed by its own Principal Investigator with unique objectives, outcomes and intellectual merit.   Broader impacts: The equipment supported by this award has been integrated into our community's shared-use research and education infrastructure, which is managed following NSF guidelines to be strongly collaborative, multidisciplinary and multi-institutional. As a charter member of the University-National Oceanographic Laboratory System (UNOLS), SIO is actively involved in coordinating research operations with scientists and funding agencies so shipboard capabilities can best meet the current and anticipated research needs of the entire community. Through UNOLS, SIO marine technical support personnel collaborate with colleagues at other institutions to broadly communicate best practices, lessons learned, and operational practices that benefit the entire U.S. research community. The spectrum of research projects enabled by SIO's marine technical services achieves far-reaching broader impacts through the operation and maintenance of infrastructure that is critical to the promotion of training and learning, increasing the participation of underrepresented groups in research, advancing scientific and technological understanding, and informing policy making. The equipment is now operated by SIO's ship operations department, and leverage institutional programs that advance NSF's mission to promote achievement and progress in science, engineering and education for the benefit of the nation. In the five-year period ending in 2020, 978 graduate students and 864 undergraduate students, and 12 K12 and college educators obtained firsthand experience at sea aboard SIO-operated research vessels. The equipment enables graduate and undergraduate students, postdoctoral researchers and early career faculty to pursue independent research and instruction at sea. As shared-use resources available to all NSF-supported scientists, this equipment has a tremendously broad impact because they enable education, training and outreach missions of the home institutions of each scientist.        Last Modified: 06/28/2024       Submitted by: TerryBAppelgate]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

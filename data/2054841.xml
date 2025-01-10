@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Spectral Theory and Nonlinear Waves]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>400237.00</AwardTotalIntnAmount>
+<AwardAmount>400237</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+<PO_EMAI>mbocea@nsf.gov</PO_EMAI>
+<PO_PHON>7032922595</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project is devoted to the study of wave propagation in both structured and disordered media. Modern society relies extensively on engineering applications involving transmission of waves. Cell phone communications, satellite data transmissions and information on the internet - all sent along thousands of miles of glass fiber cables - are controlled by mathematics describing the motion of waves. A striking feature of the wave propagation, and the topic of this project, is its universality. In fact, waves propagating on astronomical scales such as the gravitational waves detected by LIGO, as well as waves on a microscopic scale such as those emitted by atoms in the form of electromagnetic radiation in a laser, are governed by exactly the same mathematical theories. It is therefore of the utmost strategic importance for the well-being and safety of the society at large to train young specialists in the PI’s area of research; this is also one of the goals of this project. Experience shows that this broader impact can only be achieved by scientists who are actively working at the frontier of knowledge. &lt;br/&gt;&lt;br/&gt;The PI recently completed a perturbative analysis of equivariant critical wave maps into the 2-sphere, without any symmetry assumptions on the perturbations. This nonlinear analysis is based on the semi-classical representations of wave functions for Bessel-type potentials which the PI developed more than a decade ago in the context of the Price law in general relativity. Application of this new technique is planned to other nonlinear evolution equations, which admit separation of variables and a reduction to an infinite system of coupled semi-classical wave equations. The role of the semi-classical parameter h is typically played by the reciprocal of the angular momentum. Another area in which spectral theory is now coming to the fore is the rapidly developing field of asymptotic stability of topological solitons, specifically of kink solutions for one-dimensional scalar fields. Jointly with others, the PI recently demonstrated how to treat Klein-Gordon equations with a nongeneric potential and long-range nonlinearities. The basic scalar field equations each exhibit a nongeneric potential with a threshold resonance and are therefore of the type to be considered in this project. The PI's work on quasi-periodic localization and its ramifications will be continued. A particularly challenging novel perspective will be offered by nonuniformly hyperbolic dynamical systems, where there are strong indications that it is possible to bring Anderson localization techniques to bear.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/08/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2054841</AwardID>
+<Investigator>
+<FirstName>Wilhelm</FirstName>
+<LastName>Schlag</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wilhelm Schlag</PI_FULL_NAME>
+<EmailAddress><![CDATA[wilhelm.schlag@yale.edu]]></EmailAddress>
+<NSF_ID>000488708</NSF_ID>
+<StartDate>04/08/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065113572</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>New Haven</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065208283</ZipCode>
+<StreetAddress><![CDATA[10 Hillhouse Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~400237</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Wave propagation is not only a fundamental process in nature, but understanding, harnessing and controlling it is also of essential importance to our modern technological society. On the one hand, life on earth would not be possible without the sun's energy reaching us through light waves of various spectra. On the other hand, our ubiquitous cell phones became possible through decades of innovations in science and engineering solving a multitude of problems including the effective and accurate transmission of inforrmation through waves. Mathematics played a pivotal role in this process.&nbsp;</p> <p>During the funding period of the grant DMS-2054841 on&nbsp;<em>Spectral Theory and Nonlinear Waves, </em>the PI studied the propagation of waves in both deterministic as well as in disordered media. In both cases, he investigated models originating in quantum mechanics. In mathematical terms, they are written in terms of differential equations and the goal is to analyze the large time behavior of waves which solve these equations. The basic question is to predict the shape of the wave.&nbsp;</p> <p>Jointly with Jonas Luhrmann (Texas A&amp;M) the PI established the asymptotic stability of solitons in models of field theory relevant to condensed matter physics. Solitons here refer to special waves which model elementary particles. They move in a deterministic fashion and can even collide with other solitons without disintegrating. In joint work with Luhrmann the PI developed techniques which allow one to follow the evolution of special solitons (so-called kink solutions) under the influence of small perturbations. There are many challenging open problems of this kind, for example in models of superconductivity (Ginzburg-Landau equations). The first step is always to analyze the spectral theory of the linearized model.&nbsp;</p> <p>As far as disordered media are concerned, the PI has collaborated with Rui Han at Louisiana State to study waves in quasi-perodic crystals. These models originate in condensed matter physics and exhibit a transition from conductor to insulator depending on the strength of the disorder in the system. The PI's research with Dr. Han exhibited unexpected connections between his work with Michael Goldstein from about 20 years ago and Artur Avila's g<em>lobal theory of cocycles </em>which is closely related to reducibility<em>. </em>These connections are natural in hindsight, and enable one to describe spectral properties of quasi-periodic quantum models that are not accessible by other techniques.&nbsp;</p> <p>During the funding period of&nbsp;DMS-2054841 the PI traveled both nationally and internationally, disseminating his results to a wider scientific audience. He started a Brown-Yale working group in the fall of '22, with Benoit Pausader from the Brown mathematics department. This working group involves graduate students and postdocs from both universities. Through monthly meetings which entail an entire Saturday's worth of lectures and discussions, young mathematicians are exposed to a wide area of problems, results, and techniques related to the PI's research.&nbsp;</p> <p>The need for highly trained specialists in STEM fields is well-documented. Both industry and government require the expertise of scientists to address fundamental problems of our modern technological information society. The PI's teaching, training and research are part of the nation's efforts to retain leadership in the sciences.&nbsp;&nbsp;</p><br> <p>  Last Modified: 10/20/2024<br> Modified by: Wilhelm&nbsp;Schlag</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Wave propagation is not only a fundamental process in nature, but understanding, harnessing and controlling it is also of essential importance to our modern technological society. On the one hand, life on earth would not be possible without the sun's energy reaching us through light waves of various spectra. On the other hand, our ubiquitous cell phones became possible through decades of innovations in science and engineering solving a multitude of problems including the effective and accurate transmission of inforrmation through waves. Mathematics played a pivotal role in this process.   During the funding period of the grant DMS-2054841 onSpectral Theory and Nonlinear Waves, the PI studied the propagation of waves in both deterministic as well as in disordered media. In both cases, he investigated models originating in quantum mechanics. In mathematical terms, they are written in terms of differential equations and the goal is to analyze the large time behavior of waves which solve these equations. The basic question is to predict the shape of the wave.   Jointly with Jonas Luhrmann (Texas A&M) the PI established the asymptotic stability of solitons in models of field theory relevant to condensed matter physics. Solitons here refer to special waves which model elementary particles. They move in a deterministic fashion and can even collide with other solitons without disintegrating. In joint work with Luhrmann the PI developed techniques which allow one to follow the evolution of special solitons (so-called kink solutions) under the influence of small perturbations. There are many challenging open problems of this kind, for example in models of superconductivity (Ginzburg-Landau equations). The first step is always to analyze the spectral theory of the linearized model.   As far as disordered media are concerned, the PI has collaborated with Rui Han at Louisiana State to study waves in quasi-perodic crystals. These models originate in condensed matter physics and exhibit a transition from conductor to insulator depending on the strength of the disorder in the system. The PI's research with Dr. Han exhibited unexpected connections between his work with Michael Goldstein from about 20 years ago and Artur Avila's global theory of cocycles which is closely related to reducibility. These connections are natural in hindsight, and enable one to describe spectral properties of quasi-periodic quantum models that are not accessible by other techniques.   During the funding period ofDMS-2054841 the PI traveled both nationally and internationally, disseminating his results to a wider scientific audience. He started a Brown-Yale working group in the fall of '22, with Benoit Pausader from the Brown mathematics department. This working group involves graduate students and postdocs from both universities. Through monthly meetings which entail an entire Saturday's worth of lectures and discussions, young mathematicians are exposed to a wide area of problems, results, and techniques related to the PI's research.   The need for highly trained specialists in STEM fields is well-documented. Both industry and government require the expertise of scientists to address fundamental problems of our modern technological information society. The PI's teaching, training and research are part of the nation's efforts to retain leadership in the sciences.     Last Modified: 10/20/2024       Submitted by: WilhelmSchlag]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

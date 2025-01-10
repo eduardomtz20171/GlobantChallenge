@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Catalyst Project: Photoelectrochemical Water Splitting for Hydrogen and Oxygen Production Using Nanostructured Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>149971.00</AwardTotalIntnAmount>
+<AwardAmount>149971</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EES</Abbreviation>
+<LongName>Div. of Equity for Excellence in STEM</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joyce Belcher</SignBlockName>
+<PO_EMAI>jbelcher@nsf.gov</PO_EMAI>
+<PO_PHON>7032928221</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Catalyst Projects provide support for Historically Black Colleges and Universities to work towards establishing research capacity of faculty to strengthen science, technology, engineering and mathematics undergraduate education and research. It is expected that the award will further the faculty member's research capability, improve research and teaching at the institution and involve undergraduate students in research experiences.  The award to the University of Arkansas Pine Bluff has potential to broaden impacts in several areas. The goal of this project is to study the use of light, electricity and novel materials to generate hydrogen and oxygen from water. The production of these gases proves to be useful for proposed space travel. Several undergraduate students will participate in this work and learn techniques and theories related to nanomaterial fabrication and energy production.  This project is jointly funded by HBCU-UP and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;Photoelectrochemical (PEC) water splitting using nanomaterials is one of the most promising techniques to generate hydrogen in an easier, cheaper and sustainable way. PEC water splitting is a process which involves generation of charge carriers (electrons and holes) by solar radiation and their transfer to respective electrodes to produce H2 and O2. However, charge separation and transportation are the major concerns in PEC water splitting. Here we propose to develop a novel and highly efficient PEC water splitting nanocatalyst, by carefully growing a PEC-efficient catalyst with a suitable band width nanomaterial on a three-dimensional nanographene scaffold via a convenient one-pot hydrothermal synthesis. This novel nanocatalyst can achieve high surface to volume ratio which therefore facilitates charge separation and suppress electron-hole pair recombination. In addition, the desired PEC catalyst’s band width can be realized by controlling its size and morphology. Optimum conditions for synthesizing the desired nanostructures will be established to maximize the water-splitting efficiency. Results will help solve the hydrogen and oxygen shortage during space missions and surface applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/07/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2000452</AwardID>
+<Investigator>
+<FirstName>Daoyuan</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daoyuan Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[wangd@uapb.edu]]></EmailAddress>
+<NSF_ID>000784387</NSF_ID>
+<StartDate>05/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Arkansas at Pine Bluff]]></Name>
+<CityName>PINE BLUFF</CityName>
+<ZipCode>716012780</ZipCode>
+<PhoneNumber>8705758750</PhoneNumber>
+<StreetAddress><![CDATA[1200 UNIVERSITY DR STOP 4984]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arkansas</StateName>
+<StateCode>AR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS4HPMAP57Q5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ARKANSAS SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>CBQ1T88L7TC6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Arkansas at Pine Bluff]]></Name>
+<CityName>Pine Bluff</CityName>
+<StateCode>AR</StateCode>
+<ZipCode>716012790</ZipCode>
+<StreetAddress><![CDATA[1200 N University Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arkansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>159400</Code>
+<Text>Hist Black Colleges and Univ</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9264</Code>
+<Text>RESEARCH INITIATION AWARD</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~149971</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="Default">The main outcomes of this project can be concluded as follows.</p> <p class="Default">This funded research gave the PI a wonderful opportunity to start up his research in photoelectrochemical (PEC) water splitting. An electrochemical workstation along with some necessary electrodes and substrates were purchased from this grant and utilized for research and teaching purposes. The experiments were started with the synthesis of reduced nanographene foam structure. It was then utilized as scaffolds to grow MoS2, BiVO4, and NiFeOx on it hydrothermally and respectively. These nanostructures and their composites were prepared to be photo/electro catalysts for hydrogen and oxygen production via water splitting processes. The catalytical efficiencies were carefully collected and compared. The results showed that nanographene foam scaffolds were suitable to provide effective conducting network for electron transfer and large surface areas for catalysis. The structures of selected metal-containing nanomaterials did improve the overall water-splitting efficiency.&nbsp;&nbsp;</p> <p class="Default">This funded research also helped to attract and recruit many underrepresented minority students to study chemistry/nanochemistry and conduct research. The PI introduced the background knowledge and theories of PEC catalytic water splitting to students once they joined the project. Students were mentored and guided from every aspect, such as a series of literature studies, sample synthesis, electrode preparations, material characterization, data collection and analysis using software, and so on. The strong educational interactions and research collaborations between the PI and students not only improved the students&rsquo; overall research skills and hands-on experiences but also improved the PI&rsquo;s problem-solving and mentoring abilities.&nbsp;</p> <p class="Default">During the funding periods, the PI attended several material science-related national conferences, state-wide research meetings, UAPB&rsquo;s faculty-student research forums, online and on-campus student recruitment events, student career fairs, and department research seminars. He introduced the research results obtained from this project to all these occasions. His efforts attracted and raised research interests among many underrepresented minority students, expanded the visibility of this NSF funded project, and increase the awareness of public in materials research in the area of central Arkansas.</p> <p class="Default">&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/29/2024<br> Modified by: Daoyuan&nbsp;Wang</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2000452/2000452_10670040_1727666937976_1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2000452/2000452_10670040_1727666937976_1--rgov-800width.png" title="Pic 1"><img src="/por/images/Reports/POR/2024/2000452/2000452_10670040_1727666937976_1--rgov-66x44.png" alt="Pic 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Students focused on research</div> <div class="imageCredit">Daoyuan Wang</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Daoyuan&nbsp;Wang <div class="imageTitle">Pic 1</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2000452/2000452_10670040_1727667061984_3--rgov-214x142.png" original="/por/images/Reports/POR/2024/2000452/2000452_10670040_1727667061984_3--rgov-800width.png" title="Pic 3"><img src="/por/images/Reports/POR/2024/2000452/2000452_10670040_1727667061984_3--rgov-66x44.png" alt="Pic 3"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Group photo of PI Daoyuan Wang and students</div> <div class="imageCredit">Daoyuan Wang</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Daoyuan&nbsp;Wang <div class="imageTitle">Pic 3</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2000452/2000452_10670040_1727666820489_2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2000452/2000452_10670040_1727666820489_2--rgov-800width.png" title="Pic 2"><img src="/por/images/Reports/POR/2024/2000452/2000452_10670040_1727666820489_2--rgov-66x44.png" alt="Pic 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">UAPB STEM students attended local INBRE meeting</div> <div class="imageCredit">Daoyuan Wang</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Daoyuan&nbsp;Wang <div class="imageTitle">Pic 2</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The main outcomes of this project can be concluded as follows.   This funded research gave the PI a wonderful opportunity to start up his research in photoelectrochemical (PEC) water splitting. An electrochemical workstation along with some necessary electrodes and substrates were purchased from this grant and utilized for research and teaching purposes. The experiments were started with the synthesis of reduced nanographene foam structure. It was then utilized as scaffolds to grow MoS2, BiVO4, and NiFeOx on it hydrothermally and respectively. These nanostructures and their composites were prepared to be photo/electro catalysts for hydrogen and oxygen production via water splitting processes. The catalytical efficiencies were carefully collected and compared. The results showed that nanographene foam scaffolds were suitable to provide effective conducting network for electron transfer and large surface areas for catalysis. The structures of selected metal-containing nanomaterials did improve the overall water-splitting efficiency.   This funded research also helped to attract and recruit many underrepresented minority students to study chemistry/nanochemistry and conduct research. The PI introduced the background knowledge and theories of PEC catalytic water splitting to students once they joined the project. Students were mentored and guided from every aspect, such as a series of literature studies, sample synthesis, electrode preparations, material characterization, data collection and analysis using software, and so on. The strong educational interactions and research collaborations between the PI and students not only improved the students overall research skills and hands-on experiences but also improved the PIs problem-solving and mentoring abilities.   During the funding periods, the PI attended several material science-related national conferences, state-wide research meetings, UAPBs faculty-student research forums, online and on-campus student recruitment events, student career fairs, and department research seminars. He introduced the research results obtained from this project to all these occasions. His efforts attracted and raised research interests among many underrepresented minority students, expanded the visibility of this NSF funded project, and increase the awareness of public in materials research in the area of central Arkansas.           Last Modified: 09/29/2024       Submitted by: DaoyuanWang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

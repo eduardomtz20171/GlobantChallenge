@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[WoU-MMA: Aspects of Compact Object Mergers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>208731.00</AwardTotalIntnAmount>
+<AwardAmount>208731</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award supports research in relativity and relativistic astrophysics and it addresses the priority areas of NSF's "Windows on the Universe" Big Idea. Much excitement has accompanied the beginning of the gravitational wave era ushered in by LIGO's first detections, and this project seeks to study and model the types of systems observed in these detections. In particular, this work will implement a number of physical processes including magnetic and neutrino cooling and heating effects in a numerical code used to simulate such systems. For a few different reasons, a phase transition at very high densities is expected in neutron star matter, and this project will study what range of effects such a transition could have on both the gravitational wave signature and electromagnetic emissions. This study will contribute to furthering the science obtained with LIGO and electromagnetic telescopes as well as future observatories. The project will train students and other personnel and its research will be broadly disseminated.&lt;br/&gt;&lt;br/&gt;In an effort to push forward the multi-messenger science achieved in the merger of non-vacuum, compact object mergers, this project seeks the continued development of a distributed and adaptive code infrastructure that models such mergers within relativistic, magnetohydrodynamics. In addition to magnetic effects, realistic equations of state, along with neutrino heating and cooling, will be adopted in simulations of the merger and post-merger of compact object binaries. In addition, adopting a model of a high density phase transition in a piecewise-polytropic equation of state agnostic to the underlying physics, the range of dynamics for such transitions in mergers will be studied.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011383</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Liebling</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven L Liebling</PI_FULL_NAME>
+<EmailAddress><![CDATA[steve.liebling@liu.edu]]></EmailAddress>
+<NSF_ID>000421110</NSF_ID>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Long Island University]]></Name>
+<CityName>GREENVALE</CityName>
+<ZipCode>115481319</ZipCode>
+<PhoneNumber>7184881413</PhoneNumber>
+<StreetAddress><![CDATA[700 NORTHERN BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QNAVQDR2HN55</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LONG ISLAND UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QNAVQDR2HN55</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Long Island University]]></Name>
+<CityName>brookville</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>115481319</ZipCode>
+<StreetAddress><![CDATA[720 northern blvd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124400</Code>
+<Text>Gravity Theory</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~71919</FUND_OBLG>
+<FUND_OBLG>2021~67903</FUND_OBLG>
+<FUND_OBLG>2022~68909</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project developed and tested an open source code, MHDueT, to evolve the mergers of black holes and neutron stars, the two primary sources of gravitational waves observed by the LIGO-Virgo-Kagra collaborative observatory. In particular, as shown in the attached figure, this code now incorporates a number of advanced features that allow the code to include much of the extreme physics probed by such mergers, including realistic, temperature-dependent equations of state, neutrino cooling via a leakage scheme, and Large Eddy Simulation techniques to help resolve the fine scales on which magnetic turbulence develops. We have applied this code to a number of scenarios including neutron star mergers in which the equation of state include a phase transition, and to the merger of a magnetized neutron star with a black hole. For each of these projects, effects observable in gravitational waves, light, or neutrinos are sought, consistent with the promise of multi-messenger astronomy.</p> <p>&nbsp;</p> <p>We have released our code via a website, and we are currently further developing&nbsp;this code to run on GPUs. Various undergraduate students and a few high school students (and a couple graduate students at the institutions of collaborators) have carried out research projects within the scope of this work, obtaining valuable training in computational techniques.</p><br> <p>  Last Modified: 09/29/2024<br> Modified by: Steven&nbsp;L&nbsp;Liebling</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2011383/2011383_10668789_1727627548138_rho_640x640--rgov-214x142.png" original="/por/images/Reports/POR/2024/2011383/2011383_10668789_1727627548138_rho_640x640--rgov-800width.png" title="Neutron star merger density"><img src="/por/images/Reports/POR/2024/2011383/2011383_10668789_1727627548138_rho_640x640--rgov-66x44.png" alt="Neutron star merger density"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The density at various times of the merger of two neutron stars. The solid black contour lines represent fixed values of the density. The fluid has largely circularized by the last frame at 9 ms after merger.</div> <div class="imageCredit">steven liebling</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Steven&nbsp;L&nbsp;Liebling <div class="imageTitle">Neutron star merger density</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project developed and tested an open source code, MHDueT, to evolve the mergers of black holes and neutron stars, the two primary sources of gravitational waves observed by the LIGO-Virgo-Kagra collaborative observatory. In particular, as shown in the attached figure, this code now incorporates a number of advanced features that allow the code to include much of the extreme physics probed by such mergers, including realistic, temperature-dependent equations of state, neutrino cooling via a leakage scheme, and Large Eddy Simulation techniques to help resolve the fine scales on which magnetic turbulence develops. We have applied this code to a number of scenarios including neutron star mergers in which the equation of state include a phase transition, and to the merger of a magnetized neutron star with a black hole. For each of these projects, effects observable in gravitational waves, light, or neutrinos are sought, consistent with the promise of multi-messenger astronomy.      We have released our code via a website, and we are currently further developingthis code to run on GPUs. Various undergraduate students and a few high school students (and a couple graduate students at the institutions of collaborators) have carried out research projects within the scope of this work, obtaining valuable training in computational techniques.     Last Modified: 09/29/2024       Submitted by: StevenLLiebling]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

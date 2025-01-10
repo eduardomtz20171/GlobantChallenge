@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[BBSRC-NSF/BIO: IIBR Informatics: Collaborative Research: Inference of isoform-level regulatory infrastructures with studies in steroid-producing cells]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Weller</SignBlockName>
+<PO_EMAI>jweller@nsf.gov</PO_EMAI>
+<PO_PHON>7032922224</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Cells are the fundamental units that provide functions needed to sustain life in living organisms. Cellular functions are carried out by proteins, products of genes, and the process of producing proteins from genes (i.e., gene expression) is mediated by complex regulation systems. Much remains unknown about the mechanisms of gene regulations. Given all genes in a cell, the regulatory relationships among genes can be represented by networks, called gene regulatory networks. It has been a long-standing challenge to reconstruct these networks experimentally and computationally. A gene can express multiple isoforms (mRNA molecules), and hence produces multiple different proteins, which makes the underlying gene regulatory networks more complicated. Recent advances in single cell RNA-Sequencing (scRNA-Seq) technology has brought new opportunities in resolving high-quality regulatory networks, but also posed new computational challenges. The project aims to computationally reconstruct accurate regulatory networks at the isoform-level from large-scale sequencing data.  Educational and outreach activities, such as courses on topics in computational biology and inclusion of minority students, will be carried out. &lt;br/&gt;&lt;br/&gt;The project will develop efficient approaches to identify expressed isoforms and to determine expression abundances, and then develop a network-reconstruction method which improves current state-of-art. The new computational methods will be validated and applied to the field of immunology--to study cellular mechanisms in steroid-producing cells. The project will make contribution in improvements over existing methods. First, the proposed methods for developing a scalable transcript assembler will enable accurate determination and quantification of the expressed isoforms, and make it possible to build regulatory networks at the level of isoforms to reflect the possible difference in regulatory mechanisms for different isoforms. Second, many recently developed methods for network inference require cells to be pre-ordered with trajectory inference or RNA-velocity to mimic time-series data. Errors in the cell ordering can mislead network inference and lead to false predictions. The project proposes to perform cell ordering and network inference simultaneously, which is expected to provide better results for both cell ordering and network inference. The project will reconstruct transcript-level regulatory networks for different types of steroid-producing cells from both published and newly generated single-cell data. The results of the project can be found at the PI’s website: https://www.cc.gatech.edu/~xzhang954/.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/02/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019771</AwardID>
+<Investigator>
+<FirstName>Xiuwei</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiuwei Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[xiuwei.zhang@gatech.edu]]></EmailAddress>
+<NSF_ID>000814840</NSF_ID>
+<StartDate>06/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue, NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>084Y00</Code>
+<Text>Infrastructure Innovation for</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1165</Code>
+<Text>ADVANCES IN BIO INFORMATICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~400000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-606b0ff7-7fff-f1af-6860-ed9278684f34">  <p dir="ltr"><span>Cells in an organism undergo significant transformations during development and disease progression. Unraveling the mechanisms that regulate these changes is crucial for identifying the key molecules responsible for ensuring proper cellular processes, as well as those that drive disease.</span></p>  <p dir="ltr"><span>The major goal of this project is to study cell regulatory mechanisms. Under this theme, we studied the following problems: 1. Information on cell dynamics, that is, how cells change their identity or cell types in a temporal process, is important to study the regulatory mechanism. We therefore developed methods to better learn cell dynamics. We developed a method to reconstruct high-resolution cell trajectories from RNA velocity, as well as a method to infer cell trajectories using integrated single cell multi-modality data. 2. Information on cell types and cell identity is also key for understanding regulatory mechanisms, as the regulatory mechanisms primarily lead to different cell types. We developed methods to integrate multi-modality data including spatial coordinates of cells, to learn cell identity. 3. Biological networks are natural representations of regulatory mechanisms that indicate interactions between molecules in the cells. We studied the evolution of protein protein interaction networks where we learned interactions that are preserved during evolution which are likely to play key roles. 4. Temporal dynamics of cells can also be studied using a specific technology named lineage tracing. We developed methods to reconstruct cell lineage trees from lineage tracing barcodes, as well as simulation tools to benchmark these methods. 5. Perturbation studies, that is, considering gene expression profiles under different conditions, can also help to learn the regulatory mechanisms. We developed a method to process single cell gene expression data from patients under different conditions, and to predict data under new conditions.&nbsp;</span></p>  <p dir="ltr"><span>These developed tools have been applied for analysis of real biological datasets and have led to collaborations with biologists. Research products on learning cell dynamics and cell representations have been incorporated into the PI&rsquo;s course, Machine Learning in Computational Biology, and a summer short course, Computational Problems for Single Cell Transcriptomics and Multi-omics. All developed computational tools are available through public repositories, with links provided in the manuscripts. This project has provided opportunities to include undergraduate researchers, and three undergraduate students trained in the lab have gained authorship in associated publications. The group also has been providing research opportunities for master student researchers and students from under-represented groups.&nbsp;</span></p>  <br /></span></p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/26/2024<br> Modified by: Xiuwei&nbsp;Zhang</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      Cells in an organism undergo significant transformations during development and disease progression. Unraveling the mechanisms that regulate these changes is crucial for identifying the key molecules responsible for ensuring proper cellular processes, as well as those that drive disease.    The major goal of this project is to study cell regulatory mechanisms. Under this theme, we studied the following problems: 1. Information on cell dynamics, that is, how cells change their identity or cell types in a temporal process, is important to study the regulatory mechanism. We therefore developed methods to better learn cell dynamics. We developed a method to reconstruct high-resolution cell trajectories from RNA velocity, as well as a method to infer cell trajectories using integrated single cell multi-modality data. 2. Information on cell types and cell identity is also key for understanding regulatory mechanisms, as the regulatory mechanisms primarily lead to different cell types. We developed methods to integrate multi-modality data including spatial coordinates of cells, to learn cell identity. 3. Biological networks are natural representations of regulatory mechanisms that indicate interactions between molecules in the cells. We studied the evolution of protein protein interaction networks where we learned interactions that are preserved during evolution which are likely to play key roles. 4. Temporal dynamics of cells can also be studied using a specific technology named lineage tracing. We developed methods to reconstruct cell lineage trees from lineage tracing barcodes, as well as simulation tools to benchmark these methods. 5. Perturbation studies, that is, considering gene expression profiles under different conditions, can also help to learn the regulatory mechanisms. We developed a method to process single cell gene expression data from patients under different conditions, and to predict data under new conditions.    These developed tools have been applied for analysis of real biological datasets and have led to collaborations with biologists. Research products on learning cell dynamics and cell representations have been incorporated into the PIs course, Machine Learning in Computational Biology, and a summer short course, Computational Problems for Single Cell Transcriptomics and Multi-omics. All developed computational tools are available through public repositories, with links provided in the manuscripts. This project has provided opportunities to include undergraduate researchers, and three undergraduate students trained in the lab have gained authorship in associated publications. The group also has been providing research opportunities for master student researchers and students from under-represented groups.            Last Modified: 11/26/2024       Submitted by: XiuweiZhang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

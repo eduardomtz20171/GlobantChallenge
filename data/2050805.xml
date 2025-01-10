@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Tropical ecology and evolution at El Verde Field Station, Puerto Rico]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>332973.00</AwardTotalIntnAmount>
+<AwardAmount>332973</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Melissa A. Pilgrim</SignBlockName>
+<PO_EMAI>mpilgrim@nsf.gov</PO_EMAI>
+<PO_PHON>7032924152</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This REU Site award to North Carolina State University, located in Raleigh, North Carolina, will support the training of 10 students for 10 weeks during the summers of 2021- 2023. Research is conducted at El Verde Field Station, located at El Yunque National Forest in Puerto Rico. It is anticipated that a total of 30 students, primarily from schools with limited research opportunities or from an under-represented group, will be trained in the program. Students will learn how research is conducted, with emphasis in tropical ecology and evolution.  Students develop independent projects under the advice of faculty mentors, spending most of their time conducting research and attending seminars and workshops on scientific data analysis and techniques to study tropical systems. Most students are expected to present the results of their work at scientific conferences and that some will publish their summer research in scientific journals. Assessment of the program will be done thru the online SALG URSSA tool. Students will be tracked after the program in order to determine their career paths.&lt;br/&gt;The program focuses on Tropical Ecology and Evolution. Students develop projects in areas such as the study of plant population biology, stream ecology, aquatic insect dynamics, forest ecology, arthropod biology, and coevolution in tropical rainforest.  El Verde Field Station is the base of operations of the program and of many tropical researchers, including the Luquillo LTER program.  Students work with their faculty mentors in designing a research project.  Students spend the summer collecting field data in rainforest ecosystems, conducting data analysis and interpretation. At the end of the summer, students present their results in a summer research symposium.  Support activities are provided to help students become researchers (e.g., workshops, seminars, round tables). A responsible conduct in science component is provided to discuss issues commonly encountered by students during their careers. Student selection is based on their research interest, academic record, and potential for outstanding research in biological sciences. More information about the program is available by visiting https://www.ramirezlab.net/reu, by writing to reu@ramirezlab.net, or contacting the PI (Dr. A. Ramirez at alonso.ramirez@ncsu.edu).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/16/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>03/22/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050805</AwardID>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Ramirez-Ulate</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luis A Ramirez-Ulate</PI_FULL_NAME>
+<EmailAddress><![CDATA[alonso.ramirez@ncsu.edu]]></EmailAddress>
+<NSF_ID>000261347</NSF_ID>
+<StartDate>02/16/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[El Verde Field Station]]></Name>
+<CityName>Rio Grande</CityName>
+<StateCode>PR</StateCode>
+<ZipCode>009252537</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PR00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>113900</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~110551</FUND_OBLG>
+<FUND_OBLG>2022~110986</FUND_OBLG>
+<FUND_OBLG>2023~111436</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Our summer REU program provides research experiences in Tropical Ecology and Evolution at El Verde Field Station, Puerto Rico. We follow a strategy of immersing students in an active research environment, where they develop independent research projects under the guidance of established scientists. Research experiences are enriched by providing educational activities designed to equip students with the necessary tools to conduct scientific research, and, in many cases, by providing them the opportunity to study and conduct research in an ecosystem and culture not accessible at their home institution.</p> <p>Program activities include: (1) Independent research under the advice of faculty mentors. Examples of study areas include population ecology, invasive species ecology, stream and aquatic insect ecology, microbial ecology, and disturbance dynamics and impacts on communities. (2) Seminars and workshops on techniques and tools to improve student skills. (3) A seminar series on faculty mentor research. (4) Seminars on professional development. And (5) Poster presentations of research results.&nbsp;</p> <p>Examples of student research include:</p> <ol> <li>Drought and riparian web-building spiders &ndash; REU student Adriana Villanueva took advantage of an ongoing flow reduction designed by the Luquillo LTER to assess how low flow affects riparian spiders. She found higher densities of spider webs and prey under low water flow conditions, with spiders capturing a higher number of insects under simulated drought conditions. As the climate in the Caribbean becomes drier, Adriana&rsquo;s project highlights how stream ecosystems might be impacted.</li> <li>Indirect impacts of predators on stream periphyton accrual - REU student Sophia Gomez worked on assessing the effects of different shrimp species on aquatic insect activity and their combined impacts on benthic algal accrual. Shrimp species differ in the way they affect insects and periphyton. Omnivorous shrimp had direct effects by deterring mayflies from grazing, but also indirect effects as predation risk in the presence of X. elongata outweighed the consumption ease provided by shrimp behaviors.</li> <li>The effects of reduced flow on leaf litter decomposition in streams - REU student Alexandra Casiano worked on assessing the effects of low flow on leaf litter decomposition in streams. Using leaf bags, she determined that decay rates were slow, but were not significantly affected by flow reduction. Under low flow, biotic factors become more important and potentially drive decomposition rates. As extreme disturbances, such as droughts and increasing temperatures, become more frequent and severe, learning the effects of low-flow conditions will assist in understanding the effects on stream ecosystems.</li> <li>Impacts of Shrimp Exclusion and Flow Reduction on Meiofauna Communities in Tropical Montane Streams. REU student Alex Shelton, North Carolina State University, assessed the effects of shrimp foraging on stream meiofauna (small unicellular organisms). She found a diverse community of meiofauna, but no significant differences within treatments of shrimp presence and exclusion.&nbsp;</li> </ol> <p>Broader impacts&nbsp;We enrolled 26 undergraduate students during the project period.&nbsp; Those students were selected after advertising broadly and receiving 1,161 applications. Participating students came from a diversity of backgrounds, including minorities and students at institutions with limited access to research opportunities (e.g. community colleges).&nbsp; Most of our students are finishing their undergraduate degrees. Part of our former students are attending graduate school or working in science-related jobs (e.g., laboratory technicians).&nbsp; Some of our students presented their research at local, national, or international meetings and conferences and published their work in peer-reviewed journals.&nbsp;</p><br> <p>  Last Modified: 11/14/2024<br> Modified by: Luis&nbsp;A&nbsp;Ramirez-Ulate</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731614917984_Summer22a--rgov-214x142.png" original="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731614917984_Summer22a--rgov-800width.png" title="El Verde REU summer group 2022"><img src="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731614917984_Summer22a--rgov-66x44.png" alt="El Verde REU summer group 2022"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Our REU 2022 students after presenting their final results in our student symposium</div> <div class="imageCredit">A. Ramirez</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Luis&nbsp;A&nbsp;Ramirez-Ulate <div class="imageTitle">El Verde REU summer group 2022</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731615079662_Summer23a--rgov-214x142.png" original="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731615079662_Summer23a--rgov-800width.png" title="El Verde REU summer group 2023"><img src="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731615079662_Summer23a--rgov-66x44.png" alt="El Verde REU summer group 2023"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Our summer 2023 REU group in the field</div> <div class="imageCredit">A. Ramirez</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Luis&nbsp;A&nbsp;Ramirez-Ulate <div class="imageTitle">El Verde REU summer group 2023</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731615201547_Summer24b--rgov-214x142.png" original="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731615201547_Summer24b--rgov-800width.png" title="El Verde REU summer group 2024"><img src="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731615201547_Summer24b--rgov-66x44.png" alt="El Verde REU summer group 2024"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Students conducting experimental research in the field during summer 2024</div> <div class="imageCredit">A. Ramirez</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Luis&nbsp;A&nbsp;Ramirez-Ulate <div class="imageTitle">El Verde REU summer group 2024</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731615155485_Summer24a--rgov-214x142.png" original="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731615155485_Summer24a--rgov-800width.png" title="El Verde REU summer group 2024"><img src="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731615155485_Summer24a--rgov-66x44.png" alt="El Verde REU summer group 2024"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Our 2024 students in the rainforest</div> <div class="imageCredit">A. Ramirez</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Luis&nbsp;A&nbsp;Ramirez-Ulate <div class="imageTitle">El Verde REU summer group 2024</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731614986603_Summer22b--rgov-214x142.png" original="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731614986603_Summer22b--rgov-800width.png" title="El Verde REU summer group 2022"><img src="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731614986603_Summer22b--rgov-66x44.png" alt="El Verde REU summer group 2022"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Students learning to identify freshwater shrimp at the El Verde Field Station</div> <div class="imageCredit">A. Ramirez</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Luis&nbsp;A&nbsp;Ramirez-Ulate <div class="imageTitle">El Verde REU summer group 2022</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731615117282_Summer23b--rgov-214x142.png" original="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731615117282_Summer23b--rgov-800width.png" title="El Verde REU summer group 2023"><img src="/por/images/Reports/POR/2024/2050805/2050805_10717410_1731615117282_Summer23b--rgov-66x44.png" alt="El Verde REU summer group 2023"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Field work during summer 2023</div> <div class="imageCredit">A. Ramirez</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Luis&nbsp;A&nbsp;Ramirez-Ulate <div class="imageTitle">El Verde REU summer group 2023</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Our summer REU program provides research experiences in Tropical Ecology and Evolution at El Verde Field Station, Puerto Rico. We follow a strategy of immersing students in an active research environment, where they develop independent research projects under the guidance of established scientists. Research experiences are enriched by providing educational activities designed to equip students with the necessary tools to conduct scientific research, and, in many cases, by providing them the opportunity to study and conduct research in an ecosystem and culture not accessible at their home institution.   Program activities include: (1) Independent research under the advice of faculty mentors. Examples of study areas include population ecology, invasive species ecology, stream and aquatic insect ecology, microbial ecology, and disturbance dynamics and impacts on communities. (2) Seminars and workshops on techniques and tools to improve student skills. (3) A seminar series on faculty mentor research. (4) Seminars on professional development. And (5) Poster presentations of research results.   Examples of student research include:  Drought and riparian web-building spiders  REU student Adriana Villanueva took advantage of an ongoing flow reduction designed by the Luquillo LTER to assess how low flow affects riparian spiders. She found higher densities of spider webs and prey under low water flow conditions, with spiders capturing a higher number of insects under simulated drought conditions. As the climate in the Caribbean becomes drier, Adrianas project highlights how stream ecosystems might be impacted. Indirect impacts of predators on stream periphyton accrual - REU student Sophia Gomez worked on assessing the effects of different shrimp species on aquatic insect activity and their combined impacts on benthic algal accrual. Shrimp species differ in the way they affect insects and periphyton. Omnivorous shrimp had direct effects by deterring mayflies from grazing, but also indirect effects as predation risk in the presence of X. elongata outweighed the consumption ease provided by shrimp behaviors. The effects of reduced flow on leaf litter decomposition in streams - REU student Alexandra Casiano worked on assessing the effects of low flow on leaf litter decomposition in streams. Using leaf bags, she determined that decay rates were slow, but were not significantly affected by flow reduction. Under low flow, biotic factors become more important and potentially drive decomposition rates. As extreme disturbances, such as droughts and increasing temperatures, become more frequent and severe, learning the effects of low-flow conditions will assist in understanding the effects on stream ecosystems. Impacts of Shrimp Exclusion and Flow Reduction on Meiofauna Communities in Tropical Montane Streams. REU student Alex Shelton, North Carolina State University, assessed the effects of shrimp foraging on stream meiofauna (small unicellular organisms). She found a diverse community of meiofauna, but no significant differences within treatments of shrimp presence and exclusion.    Broader impactsWe enrolled 26 undergraduate students during the project period. Those students were selected after advertising broadly and receiving 1,161 applications. Participating students came from a diversity of backgrounds, including minorities and students at institutions with limited access to research opportunities (e.g. community colleges). Most of our students are finishing their undergraduate degrees. Part of our former students are attending graduate school or working in science-related jobs (e.g., laboratory technicians). Some of our students presented their research at local, national, or international meetings and conferences and published their work in peer-reviewed journals.     Last Modified: 11/14/2024       Submitted by: LuisARamirez-Ulate]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

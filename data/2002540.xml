@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[III: Small: Predictive Analysis of Diabetes Dedicated Social Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>448049.00</AwardTotalIntnAmount>
+<AwardAmount>448049</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Nilsen</SignBlockName>
+<PO_EMAI>wnilsen@nsf.gov</PO_EMAI>
+<PO_PHON>7032922568</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will study diabetes dedicated social networks.  It aims to harness diabetes patients' online social behaviors from multiple networks to predict their biomarker measurements such as glycated hemoglobin and fasting blood glucose. This project will provides a paradigm shift from exploration to prediction compared with state-of-the-art research on diabetes dedicated social networks, transforming the massive social behavioral data into clinically meaningful insights and tools. This project will advance computer science by providing a suite of novel predictive models and methods for multi-modality information extraction, densification, and prediction. It will also advance diabetes care by revealing the mutual impact between diabetes patients' online behaviors and their medical conditions. This project will involve students at various levels, including both graduate and undergraduate students. The project teams plans to disseminate the research outcomes from this project at major conferences and journals in both computer science and healthcare.&lt;br/&gt;&lt;br/&gt;This project will consist of four complementary research thrusts. The first thrust will extract features that characterize diabetes patients' online social behaviors, including social content features and social connectivity features. The second thrust will extract and infer diabetes patients' biomarker measurements, with the help of auxiliary data. The third thrust will learn the prediction function that connects patients' online social behaviors with diabetes biomarkers; this thrust will start from a single pair of feature and biomarker, and then jointly build the predictive models for multiple pairs via a tensor-based regularization method. The fourth thrust will thoroughly evaluate the models and methods from the previous three thrusts using data from various sources, such as multiple diabetes dedicated social networks, diabetes patients' clinical data, the online encyclopedia data, and data from online and clinic-based surveys.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002540</AwardID>
+<Investigator>
+<FirstName>Jingrui</FirstName>
+<LastName>He</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jingrui He</PI_FULL_NAME>
+<EmailAddress><![CDATA[jingrui@illinois.edu]]></EmailAddress>
+<NSF_ID>000632037</NSF_ID>
+<StartDate>03/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>V2PHZ2CSCH63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName/>
+<StateCode>IL</StateCode>
+<ZipCode>618207406</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736400</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7602</Code>
+<Text>INFORMATION INTEGRATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~448049</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The overall goal of this project is to harness diabetes patients' online social behaviors from multiple networks to predict their biomarker measurements. State-of-the-practice on analyzing diabetes dedicated social networks is essentially devoted to exploratory tasks, with each social network operating on its own. In addition, the predictive connection between patients' social activities on these networks and their biomarkers largely remains unknown. This project addresses these limitations by providing a paradigm shift for studying diabetes dedicated social networks, from exploration to prediction.</p> <p>During the entire project period, the PIs' team has made significant contributions towards the four proposed thrusts, namely (Thrust 1) Comprehensive Social Behavior Feature Extraction, (Thrust 2) Biomarker Extraction and Densification, (Thrust 3) Connection between Online Behaviors and Biomarkers, and (Thrust 4) Evaluations.</p> <p>For Thrust 1, the PIs' team studied various dedicated online social networks data to extract a comprehensive, multi-facet set of features for all the users. In particular, they proposed novel techniques for both the unsupervised settings and the semi-supervised settings, especially when the different classes of nodes are imbalanced; they explored multiple graph representation learning techniques for various scenarios, such as attributed static / dynamic graphs. The key finding is that the comprehensive, multi-facet features for users obtained from multiple diabetes dedicated social networks can better characterize the users' online social behaviors, leading to improved predictive performance in down-stream tasks.</p> <p>For Thrust 2, the PIs' team focused on extracting and inferring diabetes patients' biomarker measurements. In particular, they studied the problem of labeling (i.e., biomarker measurements) noise reduction for a single social network and multiple social networks simultaneously; they also studied the densification of diabetes biomarker measurements, and explored various techniques such as a novel hypergraph structure to incorporate heterogeneous auxiliary data. The key finding is that the sparsity challenge due to the lack of reported diabetes biomarkers in the online social networks can be addressed by leveraging the relationship among users and user-generated content.</p> <p>For Thrust 3, the PIs' team focused on learning the prediction function connecting patients' online social behaviors with diabetes biomarkers. The proposed techniques include deep learning methods leveraging multiple types of representations and multiple diabetes dedicated social networks, a generic framework for adapting an off-the-shelf tool to work best in a given learning task, a neural attention network for modeling multiple types of data heterogeneity on time series data, etc. The key finding is that diabetes patients' online social behaviors are connected to their biomarkers, and they can be used to track the trend of these biomarkers via the proposed techniques.</p> <p>For Thrust 4, the PIs' team performed thorough evaluations of the proposed models and methods using a variety of data sources such as online and clinic-based surveys, patients' metabolic data. The key findings include: certain self-management behaviors may improve with the use of diabetes dedicated social networks; novel machine learning techniques can be used to predict the trends of HbA1c in a period compared to the last record.</p> <p>The outcomes of this project include one book and multiple publications at top-tier conferences such as ICML, ICLR, NeurIPS, KDD, and software packages that are available to the general public. They have also been integrated into the graduate-level course on data mining taught by the PI, which has been ranked as outstanding/excellent by the students. The project has partially supported 4 PhD students to advance their research agenda. The key findings hold great potential for improving diabetes patient care. Preliminary experimental results also demonstrate significantly improved performance for HbA1c trend prediction using the proposed machine learning techniques as compared to state-of-the-art.</p><br> <p>  Last Modified: 10/20/2024<br> Modified by: Jingrui&nbsp;He</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The overall goal of this project is to harness diabetes patients' online social behaviors from multiple networks to predict their biomarker measurements. State-of-the-practice on analyzing diabetes dedicated social networks is essentially devoted to exploratory tasks, with each social network operating on its own. In addition, the predictive connection between patients' social activities on these networks and their biomarkers largely remains unknown. This project addresses these limitations by providing a paradigm shift for studying diabetes dedicated social networks, from exploration to prediction.   During the entire project period, the PIs' team has made significant contributions towards the four proposed thrusts, namely (Thrust 1) Comprehensive Social Behavior Feature Extraction, (Thrust 2) Biomarker Extraction and Densification, (Thrust 3) Connection between Online Behaviors and Biomarkers, and (Thrust 4) Evaluations.   For Thrust 1, the PIs' team studied various dedicated online social networks data to extract a comprehensive, multi-facet set of features for all the users. In particular, they proposed novel techniques for both the unsupervised settings and the semi-supervised settings, especially when the different classes of nodes are imbalanced; they explored multiple graph representation learning techniques for various scenarios, such as attributed static / dynamic graphs. The key finding is that the comprehensive, multi-facet features for users obtained from multiple diabetes dedicated social networks can better characterize the users' online social behaviors, leading to improved predictive performance in down-stream tasks.   For Thrust 2, the PIs' team focused on extracting and inferring diabetes patients' biomarker measurements. In particular, they studied the problem of labeling (i.e., biomarker measurements) noise reduction for a single social network and multiple social networks simultaneously; they also studied the densification of diabetes biomarker measurements, and explored various techniques such as a novel hypergraph structure to incorporate heterogeneous auxiliary data. The key finding is that the sparsity challenge due to the lack of reported diabetes biomarkers in the online social networks can be addressed by leveraging the relationship among users and user-generated content.   For Thrust 3, the PIs' team focused on learning the prediction function connecting patients' online social behaviors with diabetes biomarkers. The proposed techniques include deep learning methods leveraging multiple types of representations and multiple diabetes dedicated social networks, a generic framework for adapting an off-the-shelf tool to work best in a given learning task, a neural attention network for modeling multiple types of data heterogeneity on time series data, etc. The key finding is that diabetes patients' online social behaviors are connected to their biomarkers, and they can be used to track the trend of these biomarkers via the proposed techniques.   For Thrust 4, the PIs' team performed thorough evaluations of the proposed models and methods using a variety of data sources such as online and clinic-based surveys, patients' metabolic data. The key findings include: certain self-management behaviors may improve with the use of diabetes dedicated social networks; novel machine learning techniques can be used to predict the trends of HbA1c in a period compared to the last record.   The outcomes of this project include one book and multiple publications at top-tier conferences such as ICML, ICLR, NeurIPS, KDD, and software packages that are available to the general public. They have also been integrated into the graduate-level course on data mining taught by the PI, which has been ranked as outstanding/excellent by the students. The project has partially supported 4 PhD students to advance their research agenda. The key findings hold great potential for improving diabetes patient care. Preliminary experimental results also demonstrate significantly improved performance for HbA1c trend prediction using the proposed machine learning techniques as compared to state-of-the-art.     Last Modified: 10/20/2024       Submitted by: JingruiHe]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Development of an Automated and User-Friendly Technique for Measuring Dissolved Methane and Nitrous Oxide Concentrations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>250373.00</AwardTotalIntnAmount>
+<AwardAmount>250373</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kandace Binkley</SignBlockName>
+<PO_EMAI>kbinkley@nsf.gov</PO_EMAI>
+<PO_PHON>7032927577</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research is fully developing an automated, user-friendly, field-portable, and cost-effective technique for the high-precision analysis of dissolved methane and nitrous oxide concentrations in discrete seawater and freshwater samples.  The oceanic and freshwater methane and nitrous oxide systems are large natural reservoirs of these potent greenhouse gases in active exchange with the atmosphere.  Numerous hypotheses have been levied suggesting positive feedbacks between increasing ocean temperatures and increasing emissions of these gases.  Yet, new and often unexpected production and consumption mechanisms are being discovered and the biogeochemical mechanisms behind these processes are being constrained, suggesting that the dynamics of these systems are not as straightforward as may have originally been hypothesized.  While these investigations are diverse spanning local properties to global processes, they are all founded on fundamental measurements of the dissolved concentrations of methane and nitrous oxide.  However, a variety of measurement techniques are in use between laboratories which have recently been shown to produce results with substantial interlaboratory variability.  The work conducted here is establishing a technique that can be relatively easily implemented into different laboratories measuring these gases for increased precision and interlaboratory comparability of results.  Beyond the broad scientific impacts this work will have on the research communities measuring these dissolved gases, this project will also have broad impacts on STEM education.  A series of educational modules is being developed to introduce, excite, and educate undergraduate students for technology and instrumentation development in the geosciences, and the modules will be incorporated into a sequence of research courses at the University of Rochester.  This project is also supporting graduate and undergraduate students from groups underrepresented in the ocean sciences.&lt;br/&gt;&lt;br/&gt;High precision analytical chemistry techniques for the quantitative analysis of these molecules must first transfer these gases from the dissolved to gaseous phase.  Thus, the technique being developed here incorporates components of both vacuum gas extraction, for increased efficiency, and gas-water equilibration, for increased precision, in a fully automated platform, for increase reproducibility.  This project recognizes that most laboratories currently measuring these dissolved gas concentrations likely have one or more of the relatively expensive detectors necessary for these gas-phase analyses.  Thus, this project is fully developing a relatively inexpensive “front-end” and freely distributing the automation software, so that this technique can be interfaced with a variety of already available detectors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2023514</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Kessler</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John D Kessler</PI_FULL_NAME>
+<EmailAddress><![CDATA[john.kessler@rochester.edu]]></EmailAddress>
+<NSF_ID>000621490</NSF_ID>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146113847</ZipCode>
+<PhoneNumber>5852754031</PhoneNumber>
+<StreetAddress><![CDATA[910 GENESEE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F27KDXZMF9Y8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ROCHESTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>Rochester</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146270140</ZipCode>
+<StreetAddress><![CDATA[518 Hylan, RC Box 270140]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>168000</Code>
+<Text>OCEAN TECH &amp; INTERDISC COORDIN</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~250373</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>OVERVIEW</p>  <p>This project fully developed automated, field-portable, and cost-effective techniques for the high-precision analysis of dissolved methane and nitrous oxide concentrations in seawater and freshwater samples.&nbsp; A variety of different measurement techniques are currently used across the scientific community for these fundamental measurements, techniques which have recently been shown to produce results that vary greatly between laboratories.&nbsp; Thus, a universal technique that could be readily integrated with the different spectrometers used for these gaseous analyses would greatly increase the intercomparability of results.&nbsp;</p>  <p>To develop this technique, this project conducted three main activities.&nbsp; First, since most analytical measurements of these gases do so in the gaseous, not dissolved, phase, the physical technology to extract and/or equilibrate the dissolved gases was developed.&nbsp; Technology involving vacuum gas extraction and water/gas equilibration were investigated, with and without the use of gas permeable membranes.&nbsp; Second, the automation technology necessary for high-precision analysis with minimal user interface was developed.&nbsp; This involved more traditional approaches to automation engineering as well as those incorporating more cost-effective microprocessers. &nbsp;Third, different deployment options were developed, enabling the operation of these devices in the laboratory, on oceanographic research vessels, in the terrestrial field, and on a small vessel like a kayak.</p>  <p>&nbsp;</p>  <p>INTELLECTUAL MERIT:</p>  <p>The oceanic methane and nitrous oxide geosystems are globally massive natural reservoirs of these potent greenhouse gases in active exchange with the atmosphere. &nbsp;Numerous hypotheses have been levied suggesting positive feedbacks between increasing ocean temperatures and increasing emissions of these gases. &nbsp;Yet, new and often unexpected production and consumption mechanisms are being discovered and the biogeochemical mechanisms behind these processes are being constrained, suggesting that the dynamics of these oceanic systems are not as straightforward as may have originally been hypothesized. &nbsp;While these investigations are diverse spanning local properties to global processes, they are all founded on fundamental measurements of the dissolved concentrations of methane and nitrous oxide. &nbsp;However, because a variety of measurement techniques are in use between laboratories, the results produced have recently been shown to have substantial interlaboratory variability. &nbsp;The work conducted here established techniques that can be relatively easily implemented into different laboratories measuring these gases for increased precision and interlaboratory comparability of results.</p>  <p>&nbsp;</p>  <p>BROADER IMPACTS:</p>  <p>This work had both scientific and educational broader impacts.&nbsp; Scientifically, this research impacted the scientific communities measuring these dissolved gases by providing a 'front-end' instrument that increases the inter-laboratory comparability of results. &nbsp;Educationally, this project developed educational modules to introduce, excite, and educate undergraduate and graduate students for technology and instrumentation development in the geosciences. &nbsp;Not only were these educational models shared with university students, but they were also shared with middle and high school STEM educators across Western New York.&nbsp; These educators not only learned the fundamentals of these relatively affordable automated analytical technologies, but they also had immersive experiences applying this technology to scientific research.&nbsp; This technology and these experiences where then translated back to their classrooms.&nbsp; This project also supported Ph.D. students who are current members of the PI's laboratory as well as undergraduate research assistants who have since been accepted into top-tier oceanographic research programs.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/16/2024<br> Modified by: John&nbsp;D&nbsp;Kessler</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  OVERVIEW    This project fully developed automated, field-portable, and cost-effective techniques for the high-precision analysis of dissolved methane and nitrous oxide concentrations in seawater and freshwater samples. A variety of different measurement techniques are currently used across the scientific community for these fundamental measurements, techniques which have recently been shown to produce results that vary greatly between laboratories. Thus, a universal technique that could be readily integrated with the different spectrometers used for these gaseous analyses would greatly increase the intercomparability of results.    To develop this technique, this project conducted three main activities. First, since most analytical measurements of these gases do so in the gaseous, not dissolved, phase, the physical technology to extract and/or equilibrate the dissolved gases was developed. Technology involving vacuum gas extraction and water/gas equilibration were investigated, with and without the use of gas permeable membranes. Second, the automation technology necessary for high-precision analysis with minimal user interface was developed. This involved more traditional approaches to automation engineering as well as those incorporating more cost-effective microprocessers. Third, different deployment options were developed, enabling the operation of these devices in the laboratory, on oceanographic research vessels, in the terrestrial field, and on a small vessel like a kayak.        INTELLECTUAL MERIT:    The oceanic methane and nitrous oxide geosystems are globally massive natural reservoirs of these potent greenhouse gases in active exchange with the atmosphere. Numerous hypotheses have been levied suggesting positive feedbacks between increasing ocean temperatures and increasing emissions of these gases. Yet, new and often unexpected production and consumption mechanisms are being discovered and the biogeochemical mechanisms behind these processes are being constrained, suggesting that the dynamics of these oceanic systems are not as straightforward as may have originally been hypothesized. While these investigations are diverse spanning local properties to global processes, they are all founded on fundamental measurements of the dissolved concentrations of methane and nitrous oxide. However, because a variety of measurement techniques are in use between laboratories, the results produced have recently been shown to have substantial interlaboratory variability. The work conducted here established techniques that can be relatively easily implemented into different laboratories measuring these gases for increased precision and interlaboratory comparability of results.        BROADER IMPACTS:    This work had both scientific and educational broader impacts. Scientifically, this research impacted the scientific communities measuring these dissolved gases by providing a 'front-end' instrument that increases the inter-laboratory comparability of results. Educationally, this project developed educational modules to introduce, excite, and educate undergraduate and graduate students for technology and instrumentation development in the geosciences. Not only were these educational models shared with university students, but they were also shared with middle and high school STEM educators across Western New York. These educators not only learned the fundamentals of these relatively affordable automated analytical technologies, but they also had immersive experiences applying this technology to scientific research. This technology and these experiences where then translated back to their classrooms. This project also supported Ph.D. students who are current members of the PI's laboratory as well as undergraduate research assistants who have since been accepted into top-tier oceanographic research programs.         Last Modified: 12/16/2024       Submitted by: JohnDKessler]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

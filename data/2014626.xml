@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Models for Complex Functional and Object Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Big data are increasingly encountered across society and all of the sciences and pose novel challenges for statistical analysis, due to their complexity and size. Challenging data analysis tasks that motivate this research originate in brain imaging, genomics, the social sciences and many other areas of current interest. To make sense of such data and extract relevant information requires principled statistical methodology that is suitable for the analysis of large samples of complex data. Examples include networks or age-at-death distributions for which common algebraic operations such as sums or differences are not defined. In many instances such data objects may also be repeatedly observed over time, and the quantification of their time dynamics is then of great interest. For example, one might be interested to determine whether sudden changes occur and where these are located in time.  Statistical methodology will be developed that addresses these data analytic needs, along with theory and efficient computational implementations. This new methodology is expected to lead to substantial new insights. For example, it will be possible to quantify phenomena such as changes in temperature, mortality or income distributions over calendar years, or changes in brain connectivity networks as a function of age, which will aid in distinguishing normal and pathological brain aging. The new methodology will also make it possible to detect differences between groups of complex data, for example between the mortality distribution of countries, including the identification of clusters. The project also provides research training opportunities for undergraduate and graduate students. &lt;br/&gt;&lt;br/&gt;The focus of this research is the development of statistical methods and theory for random objects, i.e., metric space valued random variables, including object-valued functional and longitudinal data. Due to the lack of Euclidean structure, existing methods from high-dimensional and functional data analysis are generally not applicable for metric-space valued random objects. This motivates the development of novel approaches that address the challenge of a lack of Euclidean structure.  Major lines of inquiry will be regression and change-point models for random objects on one hand and methods for trajectories of random objects including complex functional data on the other. New regression and change-point models to be studied include distributions as predictors; regression models for point processes; inference and single index modeling for Frechet regression; and change-point analysis for sequences of object data under various scenarios. For object-valued functional data, an emphasis will be the development of time warping models for random objects and of models for longitudinal random objects in various spaces, including the case where the data are only sparsely and irregularly observed in time. Tools and theory for principled statistical analysis of random objects to be developed will rely on empirical process theory for M estimators in metric spaces, U statistics and related approaches. These developments will lead to the creation of a toolbox suitable for data analysis of object data and associated freely available software.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014626</AwardID>
+<Investigator>
+<FirstName>Hans-Georg</FirstName>
+<LastName>Mueller</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hans-Georg Mueller</PI_FULL_NAME>
+<EmailAddress><![CDATA[hgmueller@ucdavis.edu]]></EmailAddress>
+<NSF_ID>000448854</NSF_ID>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName>DAVIS</CityName>
+<ZipCode>956186153</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress><![CDATA[1850 RESEARCH PARK DR STE 300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TX2DAGQPENZ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, DAVIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName>Davis</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956186134</ZipCode>
+<StreetAddress><![CDATA[OR/Sponsored Research]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>New statistical methodology was developed in the areas of functional data analysis and object data analysis. &nbsp;These are rapidly expanding areas within the field of nonparametric statistics, which serve the need to analyze new types of data that are increasingly common. In functional data analysis one deals with data that are recordings of one or several functions per subject or experimental unit, while object data are complex data such as distributional data, where each data element in a sample is an entire distribution. Common other types of object data are samples of data located on spheres such as wind directions, and also data consisting of networks or trees, among many other types of complex data.</p> <p>Specifically, in this project the following results were achieved:&nbsp; Based on functional data analysis methodology, &nbsp;new models for the dynamics of Covid-19 and other infectious diseases were developed &nbsp;that allow for more precise estimation of the time delay between exposure and infection; new tests were obtained for the mean function in functional data analysis, e.g., whether two or more than two sets of functional data have the same mean function. Other research outcomes included&nbsp; methods to determine the order of development of the components of human growth, for example whether leg length increases before arm length when either boys or girls enter puberty; new &nbsp;methods to rank baseball players and to determine how volatile their ranks are over one season. Two applications of functional data analysis were in neuroimaging for MRI based quantification of longitudinal brain development for a situation with very sparse measurements and in social sciences where the historical trajectories of political ideology and their changes over their tenure were studied for U.S. Supreme Court justices.</p> <p>For the area of object data, a challenging&nbsp; extension of functional principal component methodology to&nbsp; the analysis of smooth random trajectories on&nbsp; Riemannian manifolds&nbsp; was developed for the &nbsp;case of sparsely observed data and furthermore a simple approach based on distances from the mean function was discovered and analyzed,&nbsp; with emphasis on networks. &nbsp;Several extensions were made to a relatively new&nbsp; method of Fr&eacute;chet regression where one has Euclidean predictors and object responses, an increasingly common regression setting. These extensions included subprojects on a total variation penalized version of Fr&eacute;chet regression,&nbsp; on the selection of covariates and on single index Fr&eacute;chet regression motived by the need for dimension reduction in the predictor space. Basic properties of distributions of random objects were explored with distance profiles, which also were used as&nbsp; the basis for a new two-sample test and for change-point detection in sequences of random objects. &nbsp;Applications include the assessment of&nbsp; brain connectivity, including quantifying changes in brain networks associated with early life brain development and brain aging in late life; New York taxi traffic data;&nbsp; the secular evolution of mortality; quantifying the relative performance of baseball players; assessing human growth across various parts of the body; the relation of air pollution and wind in Sacramento; the evolving distributions of maximal and minimal temperatures over calendar years; and various other outcomes.</p> <p>The new methodology was coded in software. The resulting R packages are publicly available. Several graduate students were trained to participate in both statistical methodology and in collaborative applied research. Several students graduated with PhDs on topics in functional data analysis and object data. &nbsp;The results of the research conducted in this project informed the curriculum of graduate classes. The newly developed methods were successfully applied in a number of interdisciplinary projects,&nbsp; leading to new scientific insights. The results were disseminated in publications and in invited talks at national and international conferences and at universities.</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/12/2024<br> Modified by: Hans-Georg&nbsp;Mueller</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  New statistical methodology was developed in the areas of functional data analysis and object data analysis. These are rapidly expanding areas within the field of nonparametric statistics, which serve the need to analyze new types of data that are increasingly common. In functional data analysis one deals with data that are recordings of one or several functions per subject or experimental unit, while object data are complex data such as distributional data, where each data element in a sample is an entire distribution. Common other types of object data are samples of data located on spheres such as wind directions, and also data consisting of networks or trees, among many other types of complex data.   Specifically, in this project the following results were achieved: Based on functional data analysis methodology, new models for the dynamics of Covid-19 and other infectious diseases were developed that allow for more precise estimation of the time delay between exposure and infection; new tests were obtained for the mean function in functional data analysis, e.g., whether two or more than two sets of functional data have the same mean function. Other research outcomes included methods to determine the order of development of the components of human growth, for example whether leg length increases before arm length when either boys or girls enter puberty; new methods to rank baseball players and to determine how volatile their ranks are over one season. Two applications of functional data analysis were in neuroimaging for MRI based quantification of longitudinal brain development for a situation with very sparse measurements and in social sciences where the historical trajectories of political ideology and their changes over their tenure were studied for U.S. Supreme Court justices.   For the area of object data, a challenging extension of functional principal component methodology to the analysis of smooth random trajectories on Riemannian manifolds was developed for the case of sparsely observed data and furthermore a simple approach based on distances from the mean function was discovered and analyzed, with emphasis on networks. Several extensions were made to a relatively new method of Frchet regression where one has Euclidean predictors and object responses, an increasingly common regression setting. These extensions included subprojects on a total variation penalized version of Frchet regression, on the selection of covariates and on single index Frchet regression motived by the need for dimension reduction in the predictor space. Basic properties of distributions of random objects were explored with distance profiles, which also were used as the basis for a new two-sample test and for change-point detection in sequences of random objects. Applications include the assessment of brain connectivity, including quantifying changes in brain networks associated with early life brain development and brain aging in late life; New York taxi traffic data; the secular evolution of mortality; quantifying the relative performance of baseball players; assessing human growth across various parts of the body; the relation of air pollution and wind in Sacramento; the evolving distributions of maximal and minimal temperatures over calendar years; and various other outcomes.   The new methodology was coded in software. The resulting R packages are publicly available. Several graduate students were trained to participate in both statistical methodology and in collaborative applied research. Several students graduated with PhDs on topics in functional data analysis and object data. The results of the research conducted in this project informed the curriculum of graduate classes. The newly developed methods were successfully applied in a number of interdisciplinary projects, leading to new scientific insights. The results were disseminated in publications and in invited talks at national and international conferences and at universities.        Last Modified: 07/12/2024       Submitted by: Hans-GeorgMueller]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Ideal memristor based on the spin liquid state in magnetic heterostructures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>344984.00</AwardTotalIntnAmount>
+<AwardAmount>352890</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Usha Varshney</SignBlockName>
+<PO_EMAI>uvarshne@nsf.gov</PO_EMAI>
+<PO_PHON>7032925385</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Computers operating with digital representation of information and Boolean logic have revolutionized science and technology. However, they remain far inferior to human brain due to their inability to adapt and to process massive amounts of imprecise information. These capabilities can be accomplished with neuromorphic computing, which can be efficiently implemented at the hardware level by utilizing memristors - electronic devices whose resistance depends on their electrical history. The existing memristors operate mostly like on/off switches, lacking the ability to continuously vary the resistance in response to electric stimuli required for neuromorphic applications. These devices commonly rely on the physical motion of atoms, and as a result lack durability and reproducibility. The proposed project will develop a new class of memristors based on the special magnetic properties of ferromagnet/antiferromagnet bilayers. The operation of the proposed devices will rely on the magnetic frustration at the interfaces between ferromagnets and antiferromagnets, resulting from the incompatible magnetic ordering of the two materials, which will lead to the formation of a viscous spin liquid state in the antiferromagnets. The project will explore the most suitable materials and geometries, electronic mechanisms enabling device operation, and device functionality at nanoscale. The proposed research will be integrated with STEM education through the development of a comprehensive undergraduate Materials and Engineering Physics program, which will include a hands-on freshman seminar and a state-of-art research training course for undergraduate students. The plan is also to organize a Science club at the local elementary school.&lt;br/&gt;&lt;br/&gt;A theoretically envisioned ideal memristor is an electronic device whose resistance is proportional to the total charge that passes through it, with the coefficient of proportionality known as memristance. The proposed project will experimentally realize ideal memristor nanodevices, by utilizing bilayers of low-anisotropy ferromagnets, such as Permalloy, and thin films of antiferromagnets such as NiO, CoO, or Fe50Mn50. A spin liquid state is expected to be formed in the antiferromagnets, due to the magnetic frustration associated with the random exchange interaction at the magnetic interface. The proposed project will utilize a combination of material and heterostructure engineering, nanofabrication, measurements of time-domain magnetic dynamics and transverse ac susceptibility, to address questions related to physical mechanisms of device operation, and device design. The proposed research will explore the possibility to engineer frustrated thin-film magnetic heterostructures that exhibit a spin liquid state with a well-defined and tunable viscosity, resulting in ideal memristive functionality with controlled memristance. Additionally, the project will identify and characterize the magnetoelectronic mechanisms that can facilitate writing, reading, and resetting of the memristive devices based on viscous spin liquids. The relevant length scales for the memristive properties will be established, to determine whether the proposed devices are scalable to the technologically relevant nanoscale dimensions.  By addressing these questions, the proposed project will provide a transformative contribution to the research and development of memristive devices characterized by high-endurance, scalability, and tunable memristive properties, which will facilitate the implementation of efficient neuromorphic networks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005786</AwardID>
+<Investigator>
+<FirstName>Sergei</FirstName>
+<LastName>Urazhdin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sergei Urazhdin</PI_FULL_NAME>
+<EmailAddress><![CDATA[surazhd@emory.edu]]></EmailAddress>
+<NSF_ID>000325783</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303221061</ZipCode>
+<PhoneNumber>4047272503</PhoneNumber>
+<StreetAddress><![CDATA[201 DOWMAN DR NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>S352L5PJLMP8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EMORY UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303224250</ZipCode>
+<StreetAddress><![CDATA[1599 Clifton Rd NE, 4th Floor]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>151700</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>107E</Code>
+<Text>Magnetics and spin electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~344984</FUND_OBLG>
+<FUND_OBLG>2021~7906</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project investigated the possibility to develop electronically controllable multistable magnetic systems by utilizing magnetic frustration in heterostructures combining materials with incompatible magnetic ordering. This possibility can be enabled by the magnetic liquid state &ndash; a state that lacks long-range magnetic ordering and can be continuously reconfigured via viscous-like magnetic dynamics. Such systems can provide a natural efficient implementation of memristors &ndash; devices that can mimic the functionalities of brain.</p> <p><strong><em>The intellectual merit</em></strong> of the project is the advancement of the understanding of how to create magnetic liquids that exhibit viscous magnetic dynamics, insight into their interactions with external stimuli such as magnetic fields, optical signals and electric currents, and development of their practical applications in magnetoelectronics. The project demonstrated the possibility of electronically controllable viscous spin liquid-like state in AFM/FM bilayers close to exchange bias blocking temperature. However, experiments showed that large spatial inhomogeneities inhibit viscous dynamics at nanoscale, which was found to be fundamental to FM/AFM bilayers due to randomness of local interactions. Alternative approaches to stabilizing classical and quantum magnetic liquid states were explored based on correlated states of matter, spin-orbit coupling (SOC), and magnetic frustration associated not with the usual spin, but instead with electron&rsquo;s orbital degree of freedom. Orbital liquid state was theoretically shown to explain the nature of electron correlations in transition-metal ferromagnets, a long-standing open problem in the theory of magnetism. In an effort to experimentally confirm its existence in ultrathin magnetic films, a new phenomenon of electronically controllable spin texture stabilized by SOC at magnetic interfaces (Rashba SOC) was discovered. This effect is expected to facilitate novel efficient spin-orbitronic devices driven by Rashba effect.</p> <p>Studies of rare earth -transition metal multilayers with almost compensated magnetic anisotropy (i.e. neither in-plane nor out-of-plane) and almost compensated magnetization demonstrated the possibility of their efficient dynamical excitation by extreme ultraviolet (XUV) pulses. This facilitated the development of a new magneto-optical four-wave mixing technique based on optically induced dynamical magnetization grating, which provided unprecedented insight into short-wavelength spin wave dynamics important for development of nanomagnonic devices.</p> <p>The project also explored the possibility to identify quantum spin liquid states by utilizing shot noise &ndash; electronic noise produced by nanoscale metallic and tunnel junctions due to the discrete nature of charge carriers. The main result is the discovery that some relatively common materials, such as beta allotrope of Ta, may host correlated spin states that are &ldquo;hidden&rdquo; due to frustration. This finding may have profound implications for engineering of novel magnetic states of matter and devices based on them.</p> <p><strong><em>Broader Impacts</em></strong>. Three undergraduates (UGs), three graduate researchers (GRs), two high school (HS) students and two postdocs were trained in multiple nanoscience techniques. One of the GRs moved on to a research position at Intel Corp, and an undergraduate graduated with Highest Honors and joined information technology industry. The lab resources developed and maintained with project support were utilized by multiple external users. The results were presented at multiple conferences (including three presentations by UG) and invited seminars/colloquia, 12 peer-reviewed papers including one in Nature Communications and one in Science Advances (in press), one manuscript posted on preprint archive, and three manuscripts under review. Four papers include UG or HS student co-authors. Outreach included volunteering at the annual Atlanta Science Festival, a career day and a hands-on STEM class at minority-serving Path Academy and Woodward Elementary, and science curriculum development at Fernbank Elementary.</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/03/2024<br> Modified by: Sergei&nbsp;Urazhdin</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2005786/2005786_10665107_1722701319625_Rashba--rgov-214x142.png" original="/por/images/Reports/POR/2024/2005786/2005786_10665107_1722701319625_Rashba--rgov-800width.png" title="Anomalous Hall curves for ultrathin magnetic films demonstating Rashba magnetism"><img src="/por/images/Reports/POR/2024/2005786/2005786_10665107_1722701319625_Rashba--rgov-66x44.png" alt="Anomalous Hall curves for ultrathin magnetic films demonstating Rashba magnetism"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Representative anomalous Hall effect curves for Ti(1.5)Pd(2)/CoFeB(0.3) (a), CoFeB(0.7)/Ta(3) (b), Pd(1)Pt(1)/CoFeB(0.3) (c), and Pt(1)Pd(1)/CoFeB(0.3) (d) multilayers, where numbers are thicknesses in nanometers. These data demonstrate Rashba magnetism in ultrathin spin-orbit coupled films</div> <div class="imageCredit">Sergei Ivanov</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sergei&nbsp;Urazhdin <div class="imageTitle">Anomalous Hall curves for ultrathin magnetic films demonstating Rashba magnetism</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2005786/2005786_10665107_1722701219539_Heisenberg_vs_Stoner--rgov-214x142.png" original="/por/images/Reports/POR/2024/2005786/2005786_10665107_1722701219539_Heisenberg_vs_Stoner--rgov-800width.png" title="Transition metal ferromagnets are at the crossover between Heisenberg and Stoner magnetism"><img src="/por/images/Reports/POR/2024/2005786/2005786_10665107_1722701219539_Heisenberg_vs_Stoner--rgov-66x44.png" alt="Transition metal ferromagnets are at the crossover between Heisenberg and Stoner magnetism"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The ratio of Mott interaction parameter U to hopping t places transition-metal ferromagnets between uncorrelated (Stoner) and localized (Virtual hopping, or Heisenberg) regimes. The project identified the underlying mechanism as orbital liquid state.</div> <div class="imageCredit">Sergei Ivanov</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Sergei&nbsp;Urazhdin <div class="imageTitle">Transition metal ferromagnets are at the crossover between Heisenberg and Stoner magnetism</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2005786/2005786_10665107_1722701991214_Picture3--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2005786/2005786_10665107_1722701991214_Picture3--rgov-800width.jpg" title="Anomalous shot noise in a tunnel junction based on beta-Ta"><img src="/por/images/Reports/POR/2024/2005786/2005786_10665107_1722701991214_Picture3--rgov-66x44.jpg" alt="Anomalous shot noise in a tunnel junction based on beta-Ta"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Electronic noise vs bias in a beta-Ta/MgO/beta-Ta tunnel junction is characterized by a large Fano factor (F=8 at small bias), which demonstrates "hidden" magnetism associated with many-electron correlations.</div> <div class="imageCredit">Yiou Zhang</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Sergei&nbsp;Urazhdin <div class="imageTitle">Anomalous shot noise in a tunnel junction based on beta-Ta</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The project investigated the possibility to develop electronically controllable multistable magnetic systems by utilizing magnetic frustration in heterostructures combining materials with incompatible magnetic ordering. This possibility can be enabled by the magnetic liquid state  a state that lacks long-range magnetic ordering and can be continuously reconfigured via viscous-like magnetic dynamics. Such systems can provide a natural efficient implementation of memristors  devices that can mimic the functionalities of brain.   The intellectual merit of the project is the advancement of the understanding of how to create magnetic liquids that exhibit viscous magnetic dynamics, insight into their interactions with external stimuli such as magnetic fields, optical signals and electric currents, and development of their practical applications in magnetoelectronics. The project demonstrated the possibility of electronically controllable viscous spin liquid-like state in AFM/FM bilayers close to exchange bias blocking temperature. However, experiments showed that large spatial inhomogeneities inhibit viscous dynamics at nanoscale, which was found to be fundamental to FM/AFM bilayers due to randomness of local interactions. Alternative approaches to stabilizing classical and quantum magnetic liquid states were explored based on correlated states of matter, spin-orbit coupling (SOC), and magnetic frustration associated not with the usual spin, but instead with electrons orbital degree of freedom. Orbital liquid state was theoretically shown to explain the nature of electron correlations in transition-metal ferromagnets, a long-standing open problem in the theory of magnetism. In an effort to experimentally confirm its existence in ultrathin magnetic films, a new phenomenon of electronically controllable spin texture stabilized by SOC at magnetic interfaces (Rashba SOC) was discovered. This effect is expected to facilitate novel efficient spin-orbitronic devices driven by Rashba effect.   Studies of rare earth -transition metal multilayers with almost compensated magnetic anisotropy (i.e. neither in-plane nor out-of-plane) and almost compensated magnetization demonstrated the possibility of their efficient dynamical excitation by extreme ultraviolet (XUV) pulses. This facilitated the development of a new magneto-optical four-wave mixing technique based on optically induced dynamical magnetization grating, which provided unprecedented insight into short-wavelength spin wave dynamics important for development of nanomagnonic devices.   The project also explored the possibility to identify quantum spin liquid states by utilizing shot noise  electronic noise produced by nanoscale metallic and tunnel junctions due to the discrete nature of charge carriers. The main result is the discovery that some relatively common materials, such as beta allotrope of Ta, may host correlated spin states that are hidden due to frustration. This finding may have profound implications for engineering of novel magnetic states of matter and devices based on them.   Broader Impacts. Three undergraduates (UGs), three graduate researchers (GRs), two high school (HS) students and two postdocs were trained in multiple nanoscience techniques. One of the GRs moved on to a research position at Intel Corp, and an undergraduate graduated with Highest Honors and joined information technology industry. The lab resources developed and maintained with project support were utilized by multiple external users. The results were presented at multiple conferences (including three presentations by UG) and invited seminars/colloquia, 12 peer-reviewed papers including one in Nature Communications and one in Science Advances (in press), one manuscript posted on preprint archive, and three manuscripts under review. Four papers include UG or HS student co-authors. Outreach included volunteering at the annual Atlanta Science Festival, a career day and a hands-on STEM class at minority-serving Path Academy and Woodward Elementary, and science curriculum development at Fernbank Elementary.        Last Modified: 08/03/2024       Submitted by: SergeiUrazhdin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

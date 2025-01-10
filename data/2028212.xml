@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Using multi-proxy paleo data to constrain natural and anthropogenic hydrographic variability in the Gulf of Maine System over the last 250 years]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>203631.00</AwardTotalIntnAmount>
+<AwardAmount>203631</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gail Christeson</SignBlockName>
+<PO_EMAI>gchriste@nsf.gov</PO_EMAI>
+<PO_PHON>7032922952</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Gulf of Maine is located in the Northwestern Atlantic Ocean. Its waters serve as home to the economically important Atlantic Cod and shellfish industry.  But recent changes to this environment pose a threat to the ecosystem and the commercial fishing industry.  However, only a few long-term records of the environment exist in this area making it difficult to tell exactly when these changes started and how much is related to human activities.  In this project, a team of researchers from three universities will construct a 250-year history of the regional environment by measuring yearly growth bands in local clams and algae.  Chemical fingerprints in these growth bands will be used to determine the water temperature, salinity, biological productivity and pH conditions. This allow scientists to study how natural changes have affected the environment and compare these to changes caused by greenhouse global warming.  This information will inform policy decisions of the newly-formed Maine Climate Council on how to better manage this area. The proposed work will also support training for early career scientists, broaden participation in science programs, and support undergraduate research opportunities. &lt;br/&gt;&lt;br/&gt;Specifically, the team will use a multi-pronged approach using geochemical proxies in two types of high-resolution marine climate archives (clams and crustose coralline algae) to reconstruct past changes in oceanographic conditions, including near surface seawater temperatures, salinity, and pH in the Gulf of Maine through the last 250 years. Geochemical fingerprints (or proxies) preserved in the annual growth bands of clam shells and skeletons of long-lived marine calcifiers have been used extensively as archives of past ocean conditions. Discrete calcium carbonate layers can be sampled from the growth bands of clams and crustose coralline algae for geochemical analysis, generating proxy archive records. These reconstructions of past environmental conditions fill data gaps prior to instrumental records. Hence, the proposed research will potentially yield several multi-centennial, annually-resolved, absolutely-dated datasets of oceanographic variability in the Northwestern Atlantic, including the Gulf of Maine, prior to the Industrial Revolution, which will be used to evaluate the role of Atlantic meridional overturning circulation, and other climate forcings, on observed changes. By combining new data derived from traditional and novel proxies with existing hydrographic records, the relative contributions of source waters into the Gulf of Maine through time will be characterized to better understand the drivers of variability within the Gulf of Maine. Understanding past oceanographic variability in the Gulf of Maine is therefore critical for predicting the likely extent and magnitude of future change, and for planning to safeguard ecosystems and fisheries. Results will be widely disseminated to science and non-science audiences through publications, conference presentations, mentoring programs, coursework, and outreach activities at area schools, museums, and science centers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028212</AwardID>
+<Investigator>
+<FirstName>Michele</FirstName>
+<LastName>LaVigne</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michele LaVigne</PI_FULL_NAME>
+<EmailAddress><![CDATA[mlavign@bowdoin.edu]]></EmailAddress>
+<NSF_ID>000570783</NSF_ID>
+<StartDate>07/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Bowdoin College]]></Name>
+<CityName>BRUNSWICK</CityName>
+<ZipCode>040113343</ZipCode>
+<PhoneNumber>2077253767</PhoneNumber>
+<StreetAddress><![CDATA[255 MAINE ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ME01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JE5WBLZJUME7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOWDOIN COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bowdoin College]]></Name>
+<CityName>Brunswick</CityName>
+<StateCode>ME</StateCode>
+<ZipCode>040118468</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ME01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>162000</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1304</Code>
+<Text>EARTH SYSTEM HISTORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1324</Code>
+<Text>CLIMATE VARIABILITY AND PREDICTABILITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1382</Code>
+<Text>OCEAN ACIDIFICATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9156</Code>
+<Text>ENVIRONMENTAL CHEMISTRY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~203631</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Intellectual Merit:</p>  <p>The Gulf of Maine (GOM) is an essential habitat for several ecologically and economically important species that face threats from warming and ocean acidification (OA). Yet, the precise mechanisms driving these changes are not fully understood due to sparse instrumental pH and temperature records. Paleoceanographic proxy reconstructions could expand and extend instrumental records, elucidate mechanisms driving environmental change, and inform policy responses. This study aimed to (1) refine proxies for pH and temperature from two GOM paleoceanographic archives: <em>C. Clamorphum</em> crustose coralline algae (CCA) and <em>A. islandica</em> clams with laboratory calibration experiments and (2) develop century-scale historical reconstructions of regional pH and temperature to identify the roles that GOM source waters play in driving the environmental changes within the GOM.</p>  <p>Live <em>C. Clamorphum</em> and <em>A. islandica</em> clams and other bivalve species were grown under varying pH and temperature in a 5.5 month-long proxy calibration experiment at Bowdoin College in 2022. &nbsp;Geochemical analyses of skeleton and shell grown during the experiment produced the first temperature calibration for <em>C. Clathromorphum</em> oxygen isotopes, validation of the oxygen isotope temperature proxy calibration in <em>A. islandica</em>, evidence for species- specific temperature-oxygen isotope relationships for different bivalve taxa, and boron isotope results from four commercially-important bivalve species.</p>  <p>Measurements of shell growth, coloration, and mortality during the experiment showed contrasting responses of commercially important Northwest Atlantic bivalve species to ocean acidification and temperature conditions (McMahon et al., 2024). In addition, light-induced bleaching was found to alter skeletal structure but not geochemistry in <em>C. Compactum</em>, which is encouraging for the use of this species for paleoceanographic reconstructions.</p>  <p>This grant partially funded pH reconstructions from CCA field specimens, which revealed fluctuations in GOM pH over the past ~eighty years rather than a stable historical pH baseline (Stewart et al., in review).&nbsp; In addition, several CCA stable isotope, trace element, and radiocarbon time series from upstream of the Gulf of Maine reflect variability in Labrador slope water conditions. Preliminary interpretation of these records suggests reduced influence of the Labrador slope water in the Gulf of Maine prior to 150 years ago.</p>  <p>Mid-Atlantic <em>Arctica Islandica </em>proxy records also show downstream evidence of hydrographic variability for the past three centuries. Several &gt;60 year-long records from within the Gulf of Maine provide additional evidence for oceanographic changes within the Gulf of Maine that pre-date instrumental records and expand the spatial coverage of existing paleoceanographic proxy records (e.g. Whitney et al., 2022).</p>  <p>Broader Impacts<br /><br />The paleoceanographic pH record produced in this project is, to our knowledge, the first attempt to use paleoceanographic proxy reconstructions to fill critical data gaps in ocean acidification policy and management. U.S. federal and state-level policymakers have long recognized ocean acidification (OA) as a significant threat to marine ecosystems and coastal communities. Scientists and legislators have also recognized, however, that available instrumental ocean pH monitoring data are insufficient to implement OA policy approaches such as the Clean Water Act that require a quantifiable historical pH baseline. The Federal Ocean Acidification Research and Monitoring Act of 2009 recognized this data gap and the U.S. Ocean Acidification Program has been suggesting the use of paleoceanographic ocean pH reconstructions to extend instrumental records and reconstruct historical pH baselines since 2014. The results of this study contributed to an eighty-year long Gulf of Maine paleoceanographic pH reconstruction that reveals a delayed onset of OA in the Gulf of Maine with no evidence of a stable pre-anthropogenic ocean pH baseline. &nbsp;This suggests that current OA management approaches that rely on a quantified historical pH &lsquo;baseline&rsquo; condition would be difficult to apply to the dynamic nearshore of regions like to Gulf of Maine. These results are being shared through publications and conversations with Maine-based state and federal policymakers through presentations at the Maine Ocean Climate Collaborative (Nov. 2022) and the National Park Service Science Symposium (Oct. 2022).<br /><br />Eleven Bowdoin undergraduates were supported by this project. Students&nbsp; maintained the experiment and carried out geochemical analyses. Students researchers developed a relationship between shell temperature proxies and seawater temperature from the tank experiment. They were trained in dating methods and oxygen isotope analysis at Iowa State University with PI Thatcher. One student conducted a year-long senior thesis with PIs LaVigne and Thatcher. Students co-authored a poster presentation at the American Geophysical Union&rsquo;s fall meeting in Dec. 2023. PI LaVigne served as a co-author on articles submitted for publication by two early-career researchers from Claremont Colleges (Borenstein et al, 2024; McMahon et al., 2024).<br /><br />In 2023, the PI&rsquo;s led a science communication workshop at Bowdoin for ten undergraduates. Students participated on Zoom before spending three days in Maine meeting with community members to learn about their ideas about climate impacts on the shellfish industry. Students developed blog posts, posters, an op-ed, and an infographic to communicate their science to stakeholders. This served as the foundation for a new course at Bowdoin.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/29/2024<br> Modified by: Michele&nbsp;Lavigne</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit:    The Gulf of Maine (GOM) is an essential habitat for several ecologically and economically important species that face threats from warming and ocean acidification (OA). Yet, the precise mechanisms driving these changes are not fully understood due to sparse instrumental pH and temperature records. Paleoceanographic proxy reconstructions could expand and extend instrumental records, elucidate mechanisms driving environmental change, and inform policy responses. This study aimed to (1) refine proxies for pH and temperature from two GOM paleoceanographic archives: C. Clamorphum crustose coralline algae (CCA) and A. islandica clams with laboratory calibration experiments and (2) develop century-scale historical reconstructions of regional pH and temperature to identify the roles that GOM source waters play in driving the environmental changes within the GOM.    Live C. Clamorphum and A. islandica clams and other bivalve species were grown under varying pH and temperature in a 5.5 month-long proxy calibration experiment at Bowdoin College in 2022. Geochemical analyses of skeleton and shell grown during the experiment produced the first temperature calibration for C. Clathromorphum oxygen isotopes, validation of the oxygen isotope temperature proxy calibration in A. islandica, evidence for species- specific temperature-oxygen isotope relationships for different bivalve taxa, and boron isotope results from four commercially-important bivalve species.    Measurements of shell growth, coloration, and mortality during the experiment showed contrasting responses of commercially important Northwest Atlantic bivalve species to ocean acidification and temperature conditions (McMahon et al., 2024). In addition, light-induced bleaching was found to alter skeletal structure but not geochemistry in C. Compactum, which is encouraging for the use of this species for paleoceanographic reconstructions.    This grant partially funded pH reconstructions from CCA field specimens, which revealed fluctuations in GOM pH over the past ~eighty years rather than a stable historical pH baseline (Stewart et al., in review). In addition, several CCA stable isotope, trace element, and radiocarbon time series from upstream of the Gulf of Maine reflect variability in Labrador slope water conditions. Preliminary interpretation of these records suggests reduced influence of the Labrador slope water in the Gulf of Maine prior to 150 years ago.    Mid-Atlantic Arctica Islandica proxy records also show downstream evidence of hydrographic variability for the past three centuries. Several 60 year-long records from within the Gulf of Maine provide additional evidence for oceanographic changes within the Gulf of Maine that pre-date instrumental records and expand the spatial coverage of existing paleoceanographic proxy records (e.g. Whitney et al., 2022).    Broader Impacts  The paleoceanographic pH record produced in this project is, to our knowledge, the first attempt to use paleoceanographic proxy reconstructions to fill critical data gaps in ocean acidification policy and management. U.S. federal and state-level policymakers have long recognized ocean acidification (OA) as a significant threat to marine ecosystems and coastal communities. Scientists and legislators have also recognized, however, that available instrumental ocean pH monitoring data are insufficient to implement OA policy approaches such as the Clean Water Act that require a quantifiable historical pH baseline. The Federal Ocean Acidification Research and Monitoring Act of 2009 recognized this data gap and the U.S. Ocean Acidification Program has been suggesting the use of paleoceanographic ocean pH reconstructions to extend instrumental records and reconstruct historical pH baselines since 2014. The results of this study contributed to an eighty-year long Gulf of Maine paleoceanographic pH reconstruction that reveals a delayed onset of OA in the Gulf of Maine with no evidence of a stable pre-anthropogenic ocean pH baseline. This suggests that current OA management approaches that rely on a quantified historical pH baseline condition would be difficult to apply to the dynamic nearshore of regions like to Gulf of Maine. These results are being shared through publications and conversations with Maine-based state and federal policymakers through presentations at the Maine Ocean Climate Collaborative (Nov. 2022) and the National Park Service Science Symposium (Oct. 2022).  Eleven Bowdoin undergraduates were supported by this project. Students maintained the experiment and carried out geochemical analyses. Students researchers developed a relationship between shell temperature proxies and seawater temperature from the tank experiment. They were trained in dating methods and oxygen isotope analysis at Iowa State University with PI Thatcher. One student conducted a year-long senior thesis with PIs LaVigne and Thatcher. Students co-authored a poster presentation at the American Geophysical Unions fall meeting in Dec. 2023. PI LaVigne served as a co-author on articles submitted for publication by two early-career researchers from Claremont Colleges (Borenstein et al, 2024; McMahon et al., 2024).  In 2023, the PIs led a science communication workshop at Bowdoin for ten undergraduates. Students participated on Zoom before spending three days in Maine meeting with community members to learn about their ideas about climate impacts on the shellfish industry. Students developed blog posts, posters, an op-ed, and an infographic to communicate their science to stakeholders. This served as the foundation for a new course at Bowdoin.         Last Modified: 11/29/2024       Submitted by: MicheleLavigne]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

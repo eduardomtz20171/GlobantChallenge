@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CC* CRIA: Building CI Strategies and Capacity at the Tribal Colleges]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>249995.00</AwardTotalIntnAmount>
+<AwardAmount>249995</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+<PO_EMAI>kthompso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924220</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The AIHEC CC* CRIA project: Building CI Strategies and Capacity at the Tribal Colleges, addresses the issue of bringing the nation’s 37 Tribal Colleges and Universities (TCUs) into the national cyberinfrastructure-enabled STEM research and education community. This comprehensive CI strategy focuses on CI training, planning and community-building involving both STEM faculty and TCU IT organizations, advancing the capacity of TCU faculty and students to participate in the national STEM research and education infrastructure. CI research and education stakeholders participating in the project include Internet 2, the Texas Advanced Computing Center (TACC), the Center for Computationally Assisted Science and Technology (CCAST), the University of Colorado Boulder Research Computing Center, and the Oklahoma University Supercomputing Center or Education and Research (OSCER). The project implements a cost-effective model for broadening participation of an important historically underrepresented population in STEM.  &lt;br/&gt;&lt;br/&gt;The project implements a connectivist model of knowledge management in which interactions among members of a network adaptively distribute resources needed to support individual and group activities to achieve common goals of the network membership. In this project, TCU STEM faculty and IT professionals and national CI STEM domain-specific researchers comprise this extended adaptive network. Project-related activities involve interactions within the network (e.g. training events, work with data analytic tools) that generate new knowledge and skills, build the collective capacity of the TCU members of the network to develop, implement and support research and education programming. Capacity-building interactions among members of this extended network include knowledge-sharing, mentoring and collaborative problem-solving.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018979</AwardID>
+<Investigator>
+<FirstName>Algirdas</FirstName>
+<LastName>Kuslikis</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Algirdas S Kuslikis</PI_FULL_NAME>
+<EmailAddress><![CDATA[akusliki@asu.edu]]></EmailAddress>
+<NSF_ID>000329454</NSF_ID>
+<StartDate>06/16/2020</StartDate>
+<EndDate>01/27/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carrie</FirstName>
+<LastName>Billy</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carrie L Billy</PI_FULL_NAME>
+<EmailAddress><![CDATA[cbilly@aihec.org]]></EmailAddress>
+<NSF_ID>000422727</NSF_ID>
+<StartDate>01/27/2022</StartDate>
+<EndDate>10/13/2023</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Bottum</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James R Bottum</PI_FULL_NAME>
+<EmailAddress><![CDATA[jb@clemson.edu]]></EmailAddress>
+<NSF_ID>000151698</NSF_ID>
+<StartDate>01/27/2022</StartDate>
+<EndDate>04/04/2023</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gwendolyn</FirstName>
+<LastName>Huntoon</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gwendolyn L Huntoon</PI_FULL_NAME>
+<EmailAddress><![CDATA[ghuntoon@aihec.org]]></EmailAddress>
+<NSF_ID>000937352</NSF_ID>
+<StartDate>10/13/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[American Indian Higher Education Consortium]]></Name>
+<CityName>ALEXANDRIA</CityName>
+<ZipCode>223142015</ZipCode>
+<PhoneNumber>7038380400</PhoneNumber>
+<StreetAddress><![CDATA[121 ORONOCO ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EGTJJJPLRT11</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AMERICAN INDIAN HIGHER EDUCATION CONSORTIUM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EGTJJJPLRT11</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American Indian Higher Education Consortium]]></Name>
+<CityName>Alexandria</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>223142015</ZipCode>
+<StreetAddress><![CDATA[121 Oronoco Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>723100</Code>
+<Text>CYBERINFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>808000</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~249995</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The American Indian Higher Education Consortium (AIHEC) Cyberinfrastructure (CI) Team focused on enabling fuller participation by the Tribal Colleges and Universities (TCU) in the CI-enabled STEM research and education community by building technical capacity of the IT departments and supporting STEM research and education for the thirty-seven TCU nationwide. The project focused on three activities: developing a community of practice amongst the TCU CIOs and IT directors, understanding connectivity requirements and challenges, and supporting CI research alignment. &nbsp;</p> <p>The TCU IT Directors/CIO Community of Practice (TCU ITD/CIO CoP) began as quarterly virtual meetings with the TCU IT Directors focusing on common TCU CI challenges and opportunities. Initial topics included cybersecurity, vendor relations, better connectivity, professional development opportunities, among other available CI resources. In spring 2020, the meeting frequency increased to every two weeks to provide the TCU IT professionals additional opportunities to discuss individual campus IT and cyberinfrastructure experiences, including how to provide remote education to their students. The TCU ITD/CIO CoP was then formalized, providing a structured agenda in advance of the meetings, seeking the input for current and future discussion topics, and conducting outreach to expand attendance. &nbsp;The regular meetings encouraged community members to lead discussions or present on unique solutions from their campuses.The TCU ITD/CIO CoP is also an ad hoc representational advisory committee for the AIHEC CI team, identifying continuing campus cyberinfrastructure challenges and opportunities, seeking and sharing solutions, and directing the AIHEC CI team to pursue resources or provide support. These activities tied the TCU IT professionals and the AIHEC CI Team closer to national and regional CI communities, including the Minority Serving Cyber Consortium (MS-CC) and Northern Tier Network Consortium (NTNC). Through these activities, the participants achieved a greater impact on their campus cyberinfrastructure than they could have individually. &nbsp;CI initiatives identified through the TCU ITD/CIO CoP include: cybersecurity governance, CI strategic planning, Cisco Network Academy, High-Throughput Computation with HT-Condor at University of Wisconsin, Research and Education Network (REN) engagement, CI facilitation, and CI funding opportunities. The &ldquo;Inaugural Tribal College and University CI Community of Practice Workshop&rdquo; (NSF ## 2325668) the first in-person meeting of the community held May 2024 was a direct result of the TCU ITD/CIO CoP.</p> <p>Wide Area Network (WAN) connectivity was identified as a challenge for many of the TCUs, thus AIHEC CI team surveyed the TCU community, gathering information on internet providers, data rates, network services, and costs. Survey results indicated that the average TCU internet connectivity data rate was below the national average for institutions of higher education. As a result, the project team identified a broad set of mechanisms and opportunities for the TCUs to improve wide area network connectivity. Activities included encouraging discussions and collaborations with regional research and education networks, identifying campus network technology and wide area network funding opportunities and providing IT staff professional development and training. The latter provided the TCU IT staff the opportunity to better understand the options and costs for internet connectivity in their region, with many TCUs able to modify, upgrade, or improve their internet connection by the end of the grant period. &nbsp; &nbsp;</p> <p>The AIHEC CI team identified cyberinfrastructure strategic planning, specifically cyberinfrastructure education and research alignment, as the highest concern for the TCU campuses. &nbsp;For a TCU, campus cyberinfrastructure strategic planning (CISP) is the re-alignment of the campus information technology infrastructure (cyberinfrastructure) to better support the campus research and academic mission. In response, the project developed, customized, and piloted CISP tools and procedures. CI strategic planning tools developed under the project included the TCU CI strategic planning process overview, the campus CI baseline assessment, the maturity analysis document, and template documents for both the CI plan recommendations and the draft CI strategic plan. These tools were developed using both national CI benchmarking standards and deep knowledge of the parameters and use of CI at the TCUs. Under this award, these tools were tested by two volunteer TCUs. The resulting tools formed the CISP strategic planning activities associated with two subsequent NSF funded projects: CC* Team: Piloting a CI-enabled Tribal Research Collaboration (NSF #2018975) and TCU Cyberinfrastructure Facilitation (NSF #2334701).</p> <p>The TCUs that participated in this project primarily serve underrepresented American Indian and Alaska Native (AI-AN) populations, with many first generation students. The project activities acted as a conduit to national CI resources for collaboration, connectivity, and professional development at the TCUs to advance their CI capacity and CI-enabled STEM program capabilities. As foundational institutions within their communities, this project has better positioned TCUs to enable access to cyberinfrastructure resources locally, particularly in collaboration with K-12 schools and Tribal agencies.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/12/2024<br> Modified by: Gwendolyn&nbsp;L&nbsp;Huntoon</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The American Indian Higher Education Consortium (AIHEC) Cyberinfrastructure (CI) Team focused on enabling fuller participation by the Tribal Colleges and Universities (TCU) in the CI-enabled STEM research and education community by building technical capacity of the IT departments and supporting STEM research and education for the thirty-seven TCU nationwide. The project focused on three activities: developing a community of practice amongst the TCU CIOs and IT directors, understanding connectivity requirements and challenges, and supporting CI research alignment.    The TCU IT Directors/CIO Community of Practice (TCU ITD/CIO CoP) began as quarterly virtual meetings with the TCU IT Directors focusing on common TCU CI challenges and opportunities. Initial topics included cybersecurity, vendor relations, better connectivity, professional development opportunities, among other available CI resources. In spring 2020, the meeting frequency increased to every two weeks to provide the TCU IT professionals additional opportunities to discuss individual campus IT and cyberinfrastructure experiences, including how to provide remote education to their students. The TCU ITD/CIO CoP was then formalized, providing a structured agenda in advance of the meetings, seeking the input for current and future discussion topics, and conducting outreach to expand attendance. The regular meetings encouraged community members to lead discussions or present on unique solutions from their campuses.The TCU ITD/CIO CoP is also an ad hoc representational advisory committee for the AIHEC CI team, identifying continuing campus cyberinfrastructure challenges and opportunities, seeking and sharing solutions, and directing the AIHEC CI team to pursue resources or provide support. These activities tied the TCU IT professionals and the AIHEC CI Team closer to national and regional CI communities, including the Minority Serving Cyber Consortium (MS-CC) and Northern Tier Network Consortium (NTNC). Through these activities, the participants achieved a greater impact on their campus cyberinfrastructure than they could have individually. CI initiatives identified through the TCU ITD/CIO CoP include: cybersecurity governance, CI strategic planning, Cisco Network Academy, High-Throughput Computation with HT-Condor at University of Wisconsin, Research and Education Network (REN) engagement, CI facilitation, and CI funding opportunities. The Inaugural Tribal College and University CI Community of Practice Workshop (NSF ## 2325668) the first in-person meeting of the community held May 2024 was a direct result of the TCU ITD/CIO CoP.   Wide Area Network (WAN) connectivity was identified as a challenge for many of the TCUs, thus AIHEC CI team surveyed the TCU community, gathering information on internet providers, data rates, network services, and costs. Survey results indicated that the average TCU internet connectivity data rate was below the national average for institutions of higher education. As a result, the project team identified a broad set of mechanisms and opportunities for the TCUs to improve wide area network connectivity. Activities included encouraging discussions and collaborations with regional research and education networks, identifying campus network technology and wide area network funding opportunities and providing IT staff professional development and training. The latter provided the TCU IT staff the opportunity to better understand the options and costs for internet connectivity in their region, with many TCUs able to modify, upgrade, or improve their internet connection by the end of the grant period.     The AIHEC CI team identified cyberinfrastructure strategic planning, specifically cyberinfrastructure education and research alignment, as the highest concern for the TCU campuses. For a TCU, campus cyberinfrastructure strategic planning (CISP) is the re-alignment of the campus information technology infrastructure (cyberinfrastructure) to better support the campus research and academic mission. In response, the project developed, customized, and piloted CISP tools and procedures. CI strategic planning tools developed under the project included the TCU CI strategic planning process overview, the campus CI baseline assessment, the maturity analysis document, and template documents for both the CI plan recommendations and the draft CI strategic plan. These tools were developed using both national CI benchmarking standards and deep knowledge of the parameters and use of CI at the TCUs. Under this award, these tools were tested by two volunteer TCUs. The resulting tools formed the CISP strategic planning activities associated with two subsequent NSF funded projects: CC* Team: Piloting a CI-enabled Tribal Research Collaboration (NSF #2018975) and TCU Cyberinfrastructure Facilitation (NSF #2334701).   The TCUs that participated in this project primarily serve underrepresented American Indian and Alaska Native (AI-AN) populations, with many first generation students. The project activities acted as a conduit to national CI resources for collaboration, connectivity, and professional development at the TCUs to advance their CI capacity and CI-enabled STEM program capabilities. As foundational institutions within their communities, this project has better positioned TCUs to enable access to cyberinfrastructure resources locally, particularly in collaboration with K-12 schools and Tribal agencies.        Last Modified: 11/12/2024       Submitted by: GwendolynLHuntoon]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

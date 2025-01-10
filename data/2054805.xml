@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Development of a proof-of-concept geoelectric monitoring system for advancing research and education in hydrogeophysics at Boise State University]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>123242.00</AwardTotalIntnAmount>
+<AwardAmount>123242</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Luciana Astiz</SignBlockName>
+<PO_EMAI>lastiz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924705</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Groundwater is a valuable resource for our society and the ecosystem. It is critical to understand how climate change and human activities affect the storage, age, quality, and the flow route of groundwater. Geoelectrical methods, which use either natural electric current or active electric sources, are important geophysical tools for studying these hydrological problems. It enables an effective determination of the water distribution and their movement in the subsurface with minimal disturbances to the field condition. This award will support scientific infrastructure by developing the next-generation geoelectrical instrumentation for groundwater-related studies and education. This award will also help broaden the participation of undergraduate students in hydrological and geophysical research at Boise State University.&lt;br/&gt;&lt;br/&gt;This proof of concept project will develop a new hydrogeophysical instrument by integrating traditional hydrological measurement into geoelectrical field tests. Newly designed hydrogeophysical probes will be fabricated in the laboratory by integrating Ag-AgCl electrodes into traditional tensiometers. These developed probes can simultaneously measure the soil tension (matric suction) and electrical properties (resistivity, induced polarization, and electrokinetic potential) when they are integrated into a traditional geoelectrical acquisition instrument. In this project, laboratory experiments are planned to measure the main characteristics of the probes such as drifting and temperature coefficient, and a field test is planned to monitor the snowmelt infiltration process in a soil pit. The field monitoring will be conducted at a mountain ridge in a small catchment of the Dry Creek Experimental Watershed near Boise, Idaho. The monitored hydraulic and geoelectrical data will be jointly analyzed to evaluate the performance of the integrated hydrogeophysical instrument at field conditions. This award received co-funding from the Established Program to Stimulate Competitive Research (EPSCoR) office.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/23/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2054805</AwardID>
+<Investigator>
+<FirstName>Qifei</FirstName>
+<LastName>Niu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qifei Niu</PI_FULL_NAME>
+<EmailAddress><![CDATA[qifeiniu@boisestate.edu]]></EmailAddress>
+<NSF_ID>000801305</NSF_ID>
+<StartDate>06/23/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>McNamara</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James P McNamara</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmcnamar@boisestate.edu]]></EmailAddress>
+<NSF_ID>000318366</NSF_ID>
+<StartDate>06/23/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Boise State University]]></Name>
+<CityName>BOISE</CityName>
+<ZipCode>837250001</ZipCode>
+<PhoneNumber>2084261574</PhoneNumber>
+<StreetAddress><![CDATA[1910 UNIVERSITY DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<StateCode>ID</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ID02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HYWTVM5HNFM3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOISE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>HYWTVM5HNFM3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Boise State University]]></Name>
+<CityName>Boise</CityName>
+<StateCode>ID</StateCode>
+<ZipCode>837061535</ZipCode>
+<StreetAddress><![CDATA[1295 University Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ID02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158000</Code>
+<Text>Instrumentation &amp; Facilities</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~123242</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Intellectual Merit</p> <p>Geophysical techniques play an increasingly important role in studying various hydrologic systems, such as mountainous critical zones and aquifers. Since most geophysical techniques were originally developed for hydrocarbon or mineral explorations, some adaptations and improvements are required to make them suitable for hydrologic sciences studies. To advance hydrogeophysics research at Boise State University, we improved the current hydrogeophysical instrumentation in vadose zone hydrology by testing the concept of simultaneously measuring electrical potential and soil water potential. Two laboratory soil column experiments were conducted to simulate soil evaporation and plant transpiration, and various sensors, including the new probes, were installed to monitor the water dynamics in the soil columns. The experimental results showed that the proposed hydrogeophysical probes could work for monitoring short-term vadose zone water dynamics. In addition, we studied the source of the self-potential signals in soil columns experiencing unsaturated water flows. Analysis of the experimental data revealed that the self-potential signals in the vadose zone were not only related to soil water flows but also contributed from diffusive currents created by ion concentrations that were developed during evaporation and transpiration. To advance hydrogeophysics education at Boise State, this project supported three graduate students and one undergraduate student in hydrogeophysics research. Relevant research products include geophysics-informed hydrologic modeling, which incorporates seismic data into hydrologic modeling to refine the subsurface structures for an improved water partitioning analysis.&nbsp;</p> <p>Broader Impact</p> <p>This project provided research training and professional development opportunities for three graduate students, one undergraduate student, and the PI in hydrogeophysics at Boise State University. One Master's student received training in hydrogeophysical laboratory testing, which included conducting laboratory soil column experiments, data processing, and writing scientific manuscripts. One PhD student was supported by the project to explore how geophysical data can be integrated into hydrologic modeling. This project supported one of the graduate students and the PI to attend and present research results at professional conferences. The datasets generated from this project helped the PI to develop an online module for the CUAHSI Virtual University. Other products from the project (e.g., hydrologic models) will be important educational materials for students/researchers to learn advanced hydrogeophysical techniques.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/26/2024<br> Modified by: Qifei&nbsp;Niu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit   Geophysical techniques play an increasingly important role in studying various hydrologic systems, such as mountainous critical zones and aquifers. Since most geophysical techniques were originally developed for hydrocarbon or mineral explorations, some adaptations and improvements are required to make them suitable for hydrologic sciences studies. To advance hydrogeophysics research at Boise State University, we improved the current hydrogeophysical instrumentation in vadose zone hydrology by testing the concept of simultaneously measuring electrical potential and soil water potential. Two laboratory soil column experiments were conducted to simulate soil evaporation and plant transpiration, and various sensors, including the new probes, were installed to monitor the water dynamics in the soil columns. The experimental results showed that the proposed hydrogeophysical probes could work for monitoring short-term vadose zone water dynamics. In addition, we studied the source of the self-potential signals in soil columns experiencing unsaturated water flows. Analysis of the experimental data revealed that the self-potential signals in the vadose zone were not only related to soil water flows but also contributed from diffusive currents created by ion concentrations that were developed during evaporation and transpiration. To advance hydrogeophysics education at Boise State, this project supported three graduate students and one undergraduate student in hydrogeophysics research. Relevant research products include geophysics-informed hydrologic modeling, which incorporates seismic data into hydrologic modeling to refine the subsurface structures for an improved water partitioning analysis.   Broader Impact   This project provided research training and professional development opportunities for three graduate students, one undergraduate student, and the PI in hydrogeophysics at Boise State University. One Master's student received training in hydrogeophysical laboratory testing, which included conducting laboratory soil column experiments, data processing, and writing scientific manuscripts. One PhD student was supported by the project to explore how geophysical data can be integrated into hydrologic modeling. This project supported one of the graduate students and the PI to attend and present research results at professional conferences. The datasets generated from this project helped the PI to develop an online module for the CUAHSI Virtual University. Other products from the project (e.g., hydrologic models) will be important educational materials for students/researchers to learn advanced hydrogeophysical techniques.        Last Modified: 10/26/2024       Submitted by: QifeiNiu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

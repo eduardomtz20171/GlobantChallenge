@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Freeze-on of Subglacial Sediments in Experiments and Theory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>92468.00</AwardTotalIntnAmount>
+<AwardAmount>92468</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelly Brunt</SignBlockName>
+<PO_EMAI>kbrunt@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The fastest-changing regions of the Antarctic and Greenland Ice Sheets that contribute most to sea-level rise are underlain by soft sediments that facilitate glacier motion. Glacier ice can infiltrate several meters into these sediments, depending on the temperature and water pressure at the base of the glacier. To understand how ice infiltration into subglacial sediments affects glacier slip, the team will conduct laboratory experiments under relevant temperature and pressure conditions and compare the results to state-of-the-art mathematical models. Through an undergraduate research exchange between University of Wisconsin-Madison, Dartmouth College, and the College of Menominee Nation, Native American students will work on laboratory experiments in one summer and mathematical theory in the following summer.&lt;br/&gt;&lt;br/&gt;Ice-sediment interactions are a central component of ice-sheet and landform-development models. Limited process understanding poses a key uncertainty for ice-sheet models that are used to forecast sea-level rise. This uncertainty underscores the importance of developing experimentally validated, theoretically robust descriptions of processes at the ice-sediment interface. To achieve this, the team aims to build on long-established theoretical, experimental, and field investigations that have elucidated the central role of premelting and surface-energy effects in controlling the dynamics of frost heave in soils.  Project members will theoretically describe and experimentally test the role of premelting at the basal ice-sediment interface. The experiments are designed to provide quantitative insight into the impact of ice infiltration into sediments on glacier sliding, erosion, and subglacial landform evolution.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.078</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012468</AwardID>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>Rempel</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alan W Rempel</PI_FULL_NAME>
+<EmailAddress><![CDATA[rempel@uoregon.edu]]></EmailAddress>
+<NSF_ID>000428679</NSF_ID>
+<StartDate>08/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Oregon Eugene]]></Name>
+<CityName>EUGENE</CityName>
+<ZipCode>974031905</ZipCode>
+<PhoneNumber>5413465131</PhoneNumber>
+<StreetAddress><![CDATA[1776 E 13TH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z3FGN9MF92U2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF OREGON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Z3FGN9MF92U2</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oregon Eugene]]></Name>
+<CityName/>
+<StateCode>OR</StateCode>
+<ZipCode>974051272</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>511600</Code>
+<Text>ANT Glaciology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>528000</Code>
+<Text>ANS-Arctic Natural Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>02XX</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>0100XXXXDB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~92468</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Although it has long been recognized that sliding is responsible for most glacier motion, &nbsp;we still lack predictive models for the controls on this dynamic process. Some of the fastest sliding, which is responsible for most ice discharge to the oceans, takes place over beds of &nbsp;water-saturated sediments. This collaborative project was designed to test new model treatments for conditions that cause glacial ice to gradually sink downwards into the &nbsp;pores between sediment grains, where it forms a layer of partially frozen fringe that affects sliding behavior in ways that &nbsp;can be examined using controlled laboratory experiments. Our new experimentally validated treatments of sliding behavior should eventually lead to more accurate forecasts for how glacier motion is likely to contribute towards sea-level changes, and how rapidly to anticipate changes to mountain glaciers that play a vital role in water resources and ecological systems. Additional broader impacts of our work included introducing Native American &nbsp;students, who are underrepresented in STEM fields, to cutting-edge glacier research, training an undergraduate &nbsp;student in mathematical modeling, mentoring a graduate student in laboratory research, and aiding in the career development of two promising postdoctoral scholars. Major academic findings supported by this research award are summarized in 9 peer-reviewed journal articles that have been uploaded to the NSF-PAR Repository; several additional journal articles that build upon the findings of this work are anticipated over the coming years. Project successes include the experimental growth of frozen fringe beneath sliding ice, with successful comparison to model treatments and control experiments conducted in a different apparatus designed to prohibit ice motion. Our sliding experiments led to the discovery &nbsp; of a previously unknown mobile mushy zone of loosely ice-bound sediments that was able to deform at slower speeds and significantly affect the bed resistance. In addition to the construction of a predictive model that captures the observed dependence of bed resistance on experimental conditions, further model developments included a new &nbsp;formulation that allows us to describe how the fringe develops in a more numerically efficient manner than in previous work, and also an extended treatment that accounts for sediment particle rearrangements as the forces communicated between adjacent particles change. We communicated these and other findings in talks at several universities and &nbsp;conferences, culminating at the close of the grant period on August 4, 2024 in a pair of invited talks by University of Wisconsin Madison PI Lucas Zoet and University of Oregon PI Alan Rempel at the Gordon Conference on Rock Deformation, which brought together an international group of researchers who study the related &nbsp;processes that control the deformation in Earth's Mantle that facilitates Plate Tectonics, the motion on faults that results in earthquakes and other slip processes, and the slip near Earth's surface that produces landslides.</p><br> <p>  Last Modified: 09/30/2024<br> Modified by: Alan&nbsp;W&nbsp;Rempel</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2012468/2012468_10694482_1723658580526_hansen_fig4--rgov-214x142.png" original="/por/images/Reports/POR/2024/2012468/2012468_10694482_1723658580526_hansen_fig4--rgov-800width.png" title="Experimental friction results."><img src="/por/images/Reports/POR/2024/2012468/2012468_10694482_1723658580526_hansen_fig4--rgov-66x44.png" alt="Experimental friction results."></a> <div class="imageCaptionContainer"> <div class="imageCaption">(a) Effective pressure in the fringe and ice saturation in the pore space with height z. (b) Modeled relationship between slip speed uice and &#956; = &#964;b /N. (c) Comparison of slip law approximations.</div> <div class="imageCredit">Hansen et al., 2024 Geophysical Res. Lett.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Alan&nbsp;W&nbsp;Rempel <div class="imageTitle">Experimental friction results.</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2012468/2012468_10694482_1723658911511_rempel_fig1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2012468/2012468_10694482_1723658911511_rempel_fig1--rgov-800width.png" title="Schematic of basal ice development."><img src="/por/images/Reports/POR/2024/2012468/2012468_10694482_1723658911511_rempel_fig1--rgov-66x44.png" alt="Schematic of basal ice development."></a> <div class="imageCaptionContainer"> <div class="imageCaption">As ice slides from left to right, the melting temperature changes leading to basal freeze-on that can result in thin dispersed sediment accumulations.</div> <div class="imageCredit">Rempel et al., 2021, J. Glaciology</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Alan&nbsp;W&nbsp;Rempel <div class="imageTitle">Schematic of basal ice development.</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2012468/2012468_10694482_1723658724647_style_fig1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2012468/2012468_10694482_1723658724647_style_fig1--rgov-800width.png" title="Equilibrium ice-liquid configurations."><img src="/por/images/Reports/POR/2024/2012468/2012468_10694482_1723658724647_style_fig1--rgov-66x44.png" alt="Equilibrium ice-liquid configurations."></a> <div class="imageCaptionContainer"> <div class="imageCaption">(a) Ice generates pressure as it grows in a closed cavity, due to the expansion of water upon freezing. (b) Ice growing in an open pore is fed by nearby water, and this growth wedges open the cavity, generating stresses.</div> <div class="imageCredit">Style et al., 2023, J. Glaciology</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Alan&nbsp;W&nbsp;Rempel <div class="imageTitle">Equilibrium ice-liquid configurations.</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2012468/2012468_10694482_1723659112646_stubblefield_fig1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2012468/2012468_10694482_1723659112646_stubblefield_fig1--rgov-800width.png" title="Compaction modeling in frozen fringe."><img src="/por/images/Reports/POR/2024/2012468/2012468_10694482_1723659112646_stubblefield_fig1--rgov-66x44.png" alt="Compaction modeling in frozen fringe."></a> <div class="imageCaptionContainer"> <div class="imageCaption">(a) Schematic of a frozen fringe of sediment below an ice lens. (b) Laboratory experiment in a cryogenic ring shear device showing growth of frozen fringe during shearing of the ice ring over a layer of water-saturated glass beads. (c) Ring shear experiment showing the development of shear bands.</div> <div class="imageCredit">Stubblefield and others, submitted to Proceedings of the Royal Society A</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Alan&nbsp;W&nbsp;Rempel <div class="imageTitle">Compaction modeling in frozen fringe.</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2012468/2012468_10694482_1723658317628_hansen_fig2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2012468/2012468_10694482_1723658317628_hansen_fig2--rgov-800width.png" title="Cryogenic ring shear device"><img src="/por/images/Reports/POR/2024/2012468/2012468_10694482_1723658317628_hansen_fig2--rgov-66x44.png" alt="Cryogenic ring shear device"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(a) Schematic of the ring shear sample chamber. (b) Base of the extracted ice ring with fringe attached. A piece of fringe broke off exposing clean ice. (c) Clean ice with 1&#8208;cm&#8208;thick frozen fringe. (d) Extracted ice ring shows a comparable thickness of fringe, and a compliant mushy zone</div> <div class="imageCredit">Hansen et al., 2024, Geophys. Res. Lett.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Alan&nbsp;W&nbsp;Rempel <div class="imageTitle">Cryogenic ring shear device</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Although it has long been recognized that sliding is responsible for most glacier motion, we still lack predictive models for the controls on this dynamic process. Some of the fastest sliding, which is responsible for most ice discharge to the oceans, takes place over beds of water-saturated sediments. This collaborative project was designed to test new model treatments for conditions that cause glacial ice to gradually sink downwards into the pores between sediment grains, where it forms a layer of partially frozen fringe that affects sliding behavior in ways that can be examined using controlled laboratory experiments. Our new experimentally validated treatments of sliding behavior should eventually lead to more accurate forecasts for how glacier motion is likely to contribute towards sea-level changes, and how rapidly to anticipate changes to mountain glaciers that play a vital role in water resources and ecological systems. Additional broader impacts of our work included introducing Native American students, who are underrepresented in STEM fields, to cutting-edge glacier research, training an undergraduate student in mathematical modeling, mentoring a graduate student in laboratory research, and aiding in the career development of two promising postdoctoral scholars. Major academic findings supported by this research award are summarized in 9 peer-reviewed journal articles that have been uploaded to the NSF-PAR Repository; several additional journal articles that build upon the findings of this work are anticipated over the coming years. Project successes include the experimental growth of frozen fringe beneath sliding ice, with successful comparison to model treatments and control experiments conducted in a different apparatus designed to prohibit ice motion. Our sliding experiments led to the discovery  of a previously unknown mobile mushy zone of loosely ice-bound sediments that was able to deform at slower speeds and significantly affect the bed resistance. In addition to the construction of a predictive model that captures the observed dependence of bed resistance on experimental conditions, further model developments included a new formulation that allows us to describe how the fringe develops in a more numerically efficient manner than in previous work, and also an extended treatment that accounts for sediment particle rearrangements as the forces communicated between adjacent particles change. We communicated these and other findings in talks at several universities and conferences, culminating at the close of the grant period on August 4, 2024 in a pair of invited talks by University of Wisconsin Madison PI Lucas Zoet and University of Oregon PI Alan Rempel at the Gordon Conference on Rock Deformation, which brought together an international group of researchers who study the related processes that control the deformation in Earth's Mantle that facilitates Plate Tectonics, the motion on faults that results in earthquakes and other slip processes, and the slip near Earth's surface that produces landslides.     Last Modified: 09/30/2024       Submitted by: AlanWRempel]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

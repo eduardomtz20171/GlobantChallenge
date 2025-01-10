@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mechanobiology of Membrane Proteins]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaroslaw Majewski</SignBlockName>
+<PO_EMAI>jmajewsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032927278</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research will probe how our body’s mechano-sensors perceive pressure and send signals that enable us to feel pain, hear, and sense when our muscles are moving, our lungs are filling, and even when our stomachs are full. A failure in sensing can lead to deafness as well as pulmonary and respiratory diseases.  Our body’s perception of force at the atomic level is a complicated process. Our pressure transducing mechano-sensors are proteins that are embedded in the outer layer, or membrane, of a cell. How the sensors and other membrane-imbedded proteins respond to force provides information on how they move and function.  Computer simulations are an integral part of modern biological research as they augment many experimental studies and provide a test bed for our ideas on how biological molecules function. Computer simulations will be developed in this project to model the pressure sensing of different types of sensors and generally, the response of membrane proteins to force and pressure. The goal is to produce computational tools that have the detail, flexibility, and accuracy to conduct realistic simulations of the “mechanobiology of membrane proteins.” This project will enhance the training of a diverse STEM workforce, including graduate students and postdoctoral scholars, and extend our nation’s leadership in biophysics.&lt;br/&gt;&lt;br/&gt;Force, tension, and pressure are the major ingredients in mechanobiology. These quantities are often thought of macroscopically, but they are equally applicable at the molecular scale. The goal is to advance the unique computational capabilities of the researchers so as to accurately simulate the force-induced unfolding of membrane proteins and identify the factors that govern the open-to-close transition of mechano-sensing ion channels. The capabilities are centered around the researchers' new molecular dynamics program “Upside”, an algorithm that can cooperatively fold small proteins with an accuracy comparable to all-atom methods but in CPU-hours using only physical principles. Upside employs 6 atoms per residue with the side chains being represented by directional-dependent beads whose packing probabilities have the lowest free energy. The use of this innovative, instantly equilibrated global side chain packing calculation at every step smooths the energy surface as side-chain friction is nearly eliminated. This largely explains the 103-104 fold speed up compared to standard MD and our ability to tackle the study of larger proteins. Critical to the success is the proper balancing of energy terms, achieved by training all force field parameters simultaneously. To conduct realistic simulations of mechano-sensing channels, the lateral pressure imposed by the membrane or “force-from-lipids”, will be incorporated into the Upside algorithm as this factor is key to controlling the opening of the mechano-sensing ion channels.&lt;br/&gt;&lt;br/&gt;This project is supported by the Molecular Biophysics Cluster of the Division of Molecular and Cellular Biosciences in Biological Sciences Directorate.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2023077</AwardID>
+<Investigator>
+<FirstName>Tobin</FirstName>
+<LastName>Sosnick</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tobin R Sosnick</PI_FULL_NAME>
+<EmailAddress><![CDATA[trsosnic@uchicago.edu]]></EmailAddress>
+<NSF_ID>000461622</NSF_ID>
+<StartDate>07/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Chicago]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606371454</ZipCode>
+<StreetAddress><![CDATA[929 East 57th Street, GCIS W107]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>114400</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~600000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Project Outcomes Report Award Title: Mechanobiology of Membrane Proteins</p> <p>Ultra-fast computer simulations were developed to probe how the body&rsquo;s mechano-sensors perceive pressure and send signals that enable us to feel pain and hear, among other biological processes. Force, tension, and pressure are major ingredients in mechanobiology. Pressure transducing mechano-sensors are often proteins, a class of biomolecules, embedded in cellular membranes. How these sensors respond to force provides information on how they move and function. Computer simulations were developed to model the pressure sensing of different types of sensors and generally, the response of membrane proteins to force and pressure exerted through the membrane.</p> <p>Computer simulations are essential to many biological research projects. As such, they must be validated. Protocols were developed to compare simulations to experimental data to examine performance, identify deficiencies, and improve the simulations&rsquo; accuracy. This was accomplished by comparing the stability of interactions involving the bonding of two specific chemical moieties.</p> <p>Computer simulations were run on two proteins to identify factors that determine the rupture levels (i.e., mechanical stability) in the force-induced unfolding of proteins that lie in the membrane. These simulations provided a detailed picture of the rupture events and emphasized that how the pulling force is applied greatly affects the factors that determine the rupture force.&nbsp; Pulling vertically (perpendicular to the membrane) puts stress on the protein and pulled it completely out of the membrane whereas pulling horizontally tested the strength of the protein-protein interactions but left the protein inside the membrane.</p> <p>Another project determined how mammalian hearing depends on length changes in our outer hair cells. These changes are triggered by the concerted action of millions of fast-responding &ldquo;prestin&rdquo; proteins. The conformational stability at the chloride-binding site was found to account for prestin&rsquo;s sensitivity to voltage. The conformational stability of the region associated with the anion-binding site was demonstrated to account for prestin&rsquo;s differentiation from structurally similar but functionally distinct Chloride transporters. These results indicated that the folding and creation of the anion-binding site plays a novel and central role in prestin&rsquo;s voltage-sensing mechanism and electromotility involved in mammalian hearing.</p> <p>Predicting the interactions between biomolecules including those involved in signaling, is a core problem of computational biophysics. It is remarkable that this objective can be partly achieved with some success using docking algorithms based on rigid protein models. Simulations were used to explore how flexibility may impact predictions of protein&minus;protein interactions. These efforts also shed light on the relative challenges posed in predicting protein folding (shape) and docking of multiple proteins with each other.&nbsp;</p> <p>In addition, this project enhanced the training of a diverse group of workers in Science, Technology, Education, and Mathematics (STEM), including graduate students and postdoctoral scholars, thereby extending the our leadership in biophysics.</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/08/2024<br> Modified by: Tobin&nbsp;R&nbsp;Sosnick</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Outcomes Report Award Title: Mechanobiology of Membrane Proteins   Ultra-fast computer simulations were developed to probe how the bodys mechano-sensors perceive pressure and send signals that enable us to feel pain and hear, among other biological processes. Force, tension, and pressure are major ingredients in mechanobiology. Pressure transducing mechano-sensors are often proteins, a class of biomolecules, embedded in cellular membranes. How these sensors respond to force provides information on how they move and function. Computer simulations were developed to model the pressure sensing of different types of sensors and generally, the response of membrane proteins to force and pressure exerted through the membrane.   Computer simulations are essential to many biological research projects. As such, they must be validated. Protocols were developed to compare simulations to experimental data to examine performance, identify deficiencies, and improve the simulations accuracy. This was accomplished by comparing the stability of interactions involving the bonding of two specific chemical moieties.   Computer simulations were run on two proteins to identify factors that determine the rupture levels (i.e., mechanical stability) in the force-induced unfolding of proteins that lie in the membrane. These simulations provided a detailed picture of the rupture events and emphasized that how the pulling force is applied greatly affects the factors that determine the rupture force. Pulling vertically (perpendicular to the membrane) puts stress on the protein and pulled it completely out of the membrane whereas pulling horizontally tested the strength of the protein-protein interactions but left the protein inside the membrane.   Another project determined how mammalian hearing depends on length changes in our outer hair cells. These changes are triggered by the concerted action of millions of fast-responding prestin proteins. The conformational stability at the chloride-binding site was found to account for prestins sensitivity to voltage. The conformational stability of the region associated with the anion-binding site was demonstrated to account for prestins differentiation from structurally similar but functionally distinct Chloride transporters. These results indicated that the folding and creation of the anion-binding site plays a novel and central role in prestins voltage-sensing mechanism and electromotility involved in mammalian hearing.   Predicting the interactions between biomolecules including those involved in signaling, is a core problem of computational biophysics. It is remarkable that this objective can be partly achieved with some success using docking algorithms based on rigid protein models. Simulations were used to explore how flexibility may impact predictions of proteinprotein interactions. These efforts also shed light on the relative challenges posed in predicting protein folding (shape) and docking of multiple proteins with each other.   In addition, this project enhanced the training of a diverse group of workers in Science, Technology, Education, and Mathematics (STEM), including graduate students and postdoctoral scholars, thereby extending the our leadership in biophysics.        Last Modified: 10/08/2024       Submitted by: TobinRSosnick]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

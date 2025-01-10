@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Variable-Order Fractional Partial Differential Equations: Computation, Analysis, and Application]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Mathematical modeling and simulation techniques have been widely used in science, engineering, and industry. In this project, we consider a class of models of complex phenomena which exhibit memory effects and long range interactions, with applications in design and manufacturing of visco-elastic materials, anomalous diffusive transport, hydrofracking in gas and oil recovery, bioclogging of porous materials, and the deformation of some materials such as in orthopedic implants and shape memory polymers. The focus is on fractional calculus and specifically on variable order fractional partial differential equations, in which the fractional order may be a function of space, time and even unknown solutions. The research activities will contribute to the analysis, simulation, modeling and application of fractional calculus, and provide advanced interdisciplinary training to students. The project includes training opportunities for graduate students. &lt;br/&gt;&lt;br/&gt;Fractional partial differential equations (FPDEs), which are characterized by power-law decaying tails, have shown to accurately model complex phenomena of nonlocal nature. However, rigorous mathematical and numerical analysis of variable-order FPDEs is currently less known than that for integer-order PDEs. For instance, it is well known that linear elliptic and parabolic FPDEs imposed on smooth domains with smooth data exhibit weak initial or boundary singularity, which is in sharp contrast to their integer-order analogues. This makes it unrealistic to carry out error estimates of numerical approximations to FPDEs based on the (often untrue) smoothness assumptions of their true solutions. In this project the investigators develop accurate and stable numerical approximations to variable-order FPDEs and their fast solution algorithms, as well as prove their well-posedness and smoothing properties. The investigators will also prove optimal-order error estimates of numerical approximations to variable-order FPDEs without any artificial regularity assumption of their true solutions, but only under the regularity assumptions of their coefficients, variable orders and other related data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012291</AwardID>
+<Investigator>
+<FirstName>Hong</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hong Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[hwang@math.sc.edu]]></EmailAddress>
+<NSF_ID>000413986</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of South Carolina at Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>292083403</ZipCode>
+<PhoneNumber>8037777093</PhoneNumber>
+<StreetAddress><![CDATA[1600 HAMPTON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J22LNTMEDP73</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTH CAROLINA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q93ZDA59ZAR5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Carolina]]></Name>
+<CityName>Columbia</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>292080001</ZipCode>
+<StreetAddress><![CDATA[Department of Mathematics]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Fractional partial differential equations (FPDEs) have become a competitive framework for modeling complex, nonlocal phenomena, including anomalous transport and long-range memory or spatial interactions. The order of FPDEs is intrinsically linked to the fractal dimension of material structures. In many real-world scenarios, material structures evolve in space and time, necessitating a dynamic adjustment in the order of these operators. This variation leads to variable-order FPDEs, which are increasingly recognized as powerful tools for accurately representing complex systems across diverse disciplines.</p>  <p><strong>Interdisciplinary Applications:&nbsp;</strong>The outcomes of this project have broad applicability across a range of fields:&nbsp;</p>  <p><strong>1. Structural Integrity and Material Science:&nbsp;</strong>Variable-order FPDEs play a significant role in modeling long-term vibrations in viscoelastic structures, capturing the progression of damage from the microscale (microcracks and bond breakage) to the macroscale. These models provide valuable insights into fatigue, damage propagation, and potential failure, offering feasible tools for preventing catastrophic structural outcomes.</p>  <p><strong>2. Biomechanics and Tissue Engineering:&nbsp;</strong>In biomechanics, variable-order FPDEs enable the measurement and quantification of changes in the mechanical properties of biological cells and tissues under external forces. These changes are often indicative of disease onset or progression. Additionally, in tissue engineering, these models ensure that engineered biomaterials mimic natural tissue responses, promoting cell growth and reducing the risk of implant failure. This work has potential implications for diagnostics, treatment strategies, and the design of innovative biomaterials.</p>  <p><strong>3. Advanced Materials:&nbsp;</strong>Smart memory polymers, which respond to external stimuli by temporarily altering their state and then returning to their original configuration, are another area where variable-order FPDEs apply. These equations accurately model the structural changes induced by stimuli, providing predictive insights for the design and optimization of these materials.</p>  <p><strong>4. Environmental and Energy Engineering:&nbsp;</strong>In groundwater hydrology, biofilm growth within porous media reduces pore spaces, altering solute transport dynamics. Similarly, in shale gas and oil recovery, processes like hydraulic fracturing and the injection of swelling materials modify the fractal properties of reservoirs. Variable-order FPDEs accurately capture these evolving transport properties, improving strategies for contaminant remediation or enhancing predictions and strategies for resource recovery.</p>  <p><strong>Project Outcomes: </strong>The achievements of this project can be categorized into two major areas:</p>  <p><strong>Theoretical and Numerical Advancements:&nbsp;</strong></p>  <p><strong>1. Rigorous Mathematical Analysis:</strong>&nbsp;Establishment of well-posedness, regularity, and stability of variable-order FPDEs under varying conditions.</p>  <p><strong>2. Efficient Numerical Methods:</strong> Development of fast and accurate algorithms for FPDEs, particularly for solutions with limited regularity&mdash;a critical limitation in traditional methods.</p>  <p><strong>3. Data-Driven Approaches: </strong>Creation of frameworks to identify variable-order parameters from experimental and observational data, expanding FPDEs&rsquo; applicability in real-world scenarios.</p>  <p><strong>4. Broader Applications:</strong> Extensions of FPDEs to inverse problems, optimization, and optimal control, broadening their utility in science and engineering.These advancements bridged traditional PDEs with fractional calculus, fostering a comprehensive understanding of modern mathematical tools. By integrating data-driven approaches, the project enhanced the utility of FPDEs in modeling complex systems, including anomalous transport and viscoelastic materials.</p>  <p><strong>Integration into Education and Training:</strong> The project seamlessly integrated its findings into teaching and research training, enriching academic experiences and fostering the development of future researchers.</p>  <p><strong>1. Classroom and Seminar Integration:</strong> Research outcomes were incorporated into undergraduate and graduate courses on numerical analysis, partial differential equations, and optimization. Seminars and workshops highlighted the significance of FPDEs, inspiring students to explore open problems and interdisciplinary applications.</p>  <p><strong>2. Research Training and Opportunities: </strong>The project provided extensive research opportunities for students at multiple academic levels:</p>  <p><em>Three PhD graduates,</em> including one from an underrepresented group, made significant contributions to FPDE theory and numerical methods. <em>Four additional PhD candidates and three junior PhD students</em> (including three from underrepresented groups) are actively engaged in related research, acquiring valuable skills in numerical analysis, modeling, and applied mathematics.</p>  <p><em>Two Master&rsquo;s graduates,</em> including one from an underrepresented group, contributed to the project&rsquo;s objectives. <em>Two current Master&rsquo;s students,</em> including one from an underrepresented group, continue advancing numerical and analytical methods for fractional models.</p>  <p>These research experiences equipped students with critical thinking, computational expertise, and interdisciplinary collaboration skills, preparing them for impactful careers in academia, industry, and beyond.</p>  <p><strong>Broader Impacts: </strong>This project significantly advanced the field of variable-order FPDEs, contributing to mathematical theory, computational methods, and interdisciplinary applications. It provided a foundation for future innovations in fields ranging from material science to environmental engineering.</p>  <p>Additionally, the project had a transformative impact on education and training by integrating cutting-edge research into classroom instruction and fostering a new generation of researchers. By engaging students in rigorous and innovative research, the project promoted diversity, equity, and inclusion, encouraging participation from underrepresented groups in mathematics and science.</p>  <p>In summary, this project not only addressed critical gaps in the theory and numerical methods of variable-order FPDEs but also demonstrated their wide-ranging applications and provided invaluable educational opportunities. These contributions will continue to influence the mathematical sciences and their applications for years to come.</p><br> <p>  Last Modified: 12/21/2024<br> Modified by: Hong&nbsp;Wang</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Fractional partial differential equations (FPDEs) have become a competitive framework for modeling complex, nonlocal phenomena, including anomalous transport and long-range memory or spatial interactions. The order of FPDEs is intrinsically linked to the fractal dimension of material structures. In many real-world scenarios, material structures evolve in space and time, necessitating a dynamic adjustment in the order of these operators. This variation leads to variable-order FPDEs, which are increasingly recognized as powerful tools for accurately representing complex systems across diverse disciplines.    Interdisciplinary Applications:The outcomes of this project have broad applicability across a range of fields:    1. Structural Integrity and Material Science:Variable-order FPDEs play a significant role in modeling long-term vibrations in viscoelastic structures, capturing the progression of damage from the microscale (microcracks and bond breakage) to the macroscale. These models provide valuable insights into fatigue, damage propagation, and potential failure, offering feasible tools for preventing catastrophic structural outcomes.    2. Biomechanics and Tissue Engineering:In biomechanics, variable-order FPDEs enable the measurement and quantification of changes in the mechanical properties of biological cells and tissues under external forces. These changes are often indicative of disease onset or progression. Additionally, in tissue engineering, these models ensure that engineered biomaterials mimic natural tissue responses, promoting cell growth and reducing the risk of implant failure. This work has potential implications for diagnostics, treatment strategies, and the design of innovative biomaterials.    3. Advanced Materials:Smart memory polymers, which respond to external stimuli by temporarily altering their state and then returning to their original configuration, are another area where variable-order FPDEs apply. These equations accurately model the structural changes induced by stimuli, providing predictive insights for the design and optimization of these materials.    4. Environmental and Energy Engineering:In groundwater hydrology, biofilm growth within porous media reduces pore spaces, altering solute transport dynamics. Similarly, in shale gas and oil recovery, processes like hydraulic fracturing and the injection of swelling materials modify the fractal properties of reservoirs. Variable-order FPDEs accurately capture these evolving transport properties, improving strategies for contaminant remediation or enhancing predictions and strategies for resource recovery.    Project Outcomes: The achievements of this project can be categorized into two major areas:    Theoretical and Numerical Advancements:    1. Rigorous Mathematical Analysis:Establishment of well-posedness, regularity, and stability of variable-order FPDEs under varying conditions.    2. Efficient Numerical Methods: Development of fast and accurate algorithms for FPDEs, particularly for solutions with limited regularitya critical limitation in traditional methods.    3. Data-Driven Approaches: Creation of frameworks to identify variable-order parameters from experimental and observational data, expanding FPDEs applicability in real-world scenarios.    4. Broader Applications: Extensions of FPDEs to inverse problems, optimization, and optimal control, broadening their utility in science and engineering.These advancements bridged traditional PDEs with fractional calculus, fostering a comprehensive understanding of modern mathematical tools. By integrating data-driven approaches, the project enhanced the utility of FPDEs in modeling complex systems, including anomalous transport and viscoelastic materials.    Integration into Education and Training: The project seamlessly integrated its findings into teaching and research training, enriching academic experiences and fostering the development of future researchers.    1. Classroom and Seminar Integration: Research outcomes were incorporated into undergraduate and graduate courses on numerical analysis, partial differential equations, and optimization. Seminars and workshops highlighted the significance of FPDEs, inspiring students to explore open problems and interdisciplinary applications.    2. Research Training and Opportunities: The project provided extensive research opportunities for students at multiple academic levels:    Three PhD graduates, including one from an underrepresented group, made significant contributions to FPDE theory and numerical methods. Four additional PhD candidates and three junior PhD students (including three from underrepresented groups) are actively engaged in related research, acquiring valuable skills in numerical analysis, modeling, and applied mathematics.    Two Masters graduates, including one from an underrepresented group, contributed to the projects objectives. Two current Masters students, including one from an underrepresented group, continue advancing numerical and analytical methods for fractional models.    These research experiences equipped students with critical thinking, computational expertise, and interdisciplinary collaboration skills, preparing them for impactful careers in academia, industry, and beyond.    Broader Impacts: This project significantly advanced the field of variable-order FPDEs, contributing to mathematical theory, computational methods, and interdisciplinary applications. It provided a foundation for future innovations in fields ranging from material science to environmental engineering.    Additionally, the project had a transformative impact on education and training by integrating cutting-edge research into classroom instruction and fostering a new generation of researchers. By engaging students in rigorous and innovative research, the project promoted diversity, equity, and inclusion, encouraging participation from underrepresented groups in mathematics and science.    In summary, this project not only addressed critical gaps in the theory and numerical methods of variable-order FPDEs but also demonstrated their wide-ranging applications and provided invaluable educational opportunities. These contributions will continue to influence the mathematical sciences and their applications for years to come.     Last Modified: 12/21/2024       Submitted by: HongWang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

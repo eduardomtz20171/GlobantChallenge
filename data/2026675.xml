@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SaTC: CORE: Small: Securing information systems with flexible hardware techniques]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>499999.00</AwardTotalIntnAmount>
+<AwardAmount>499999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Karavanic</SignBlockName>
+<PO_EMAI>kkaravan@nsf.gov</PO_EMAI>
+<PO_PHON>7032922594</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Traditional software-based antivirus cannot keep up with the rapidly increasing number of cyber-attacks. This project explores approaches to improve the security of computer systems using flexible hardware techniques. It focuses on defending cyber-attacks by building a flexible hardware-based malware detection system and developing a level of immunity for computer systems against viruses through novel hardware design.&lt;br/&gt;&lt;br/&gt;This project aims to explore a viable path forward for developing future intrusion detection systems and designing secure computer systems. The detection system leverages malware features from both software and hardware and by applying advanced machine learning techniques to enhance the detection accuracy. The system is implemented with programmable hardware to achieve robust and adaptable hardware security enabling mechanism with low performance overhead for the ever-changing malware landscape. In addition, the project seeks ways to make the hardware itself more secure by providing software and architecture support for stronger isolation between applications from different security domains.&lt;br/&gt;&lt;br/&gt;This project brings together research in the domains of security, computer architecture and machine learning to create a secure and trustworthy cyberspace. Additional broader impact includes the development of partnerships between our team and industry, and others (e.g., national laboratories). Potential research result transfer should help improve national security and result in increased economic competitiveness for the United States. It will also play a major role in education by integrating exploration with teaching and training, as well as making the necessary efforts to attract and train minority students.&lt;br/&gt;&lt;br/&gt;The project repository will be indefinitely maintained at https://github.com/uci-pascal-satc/hardware-security/. All data will also be stored in the laboratory where the simulation and experiments are conducted.  This will be done with standard backups using computers, external disks, and various storage media.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026675</AwardID>
+<Investigator>
+<FirstName>Jean-Luc</FirstName>
+<LastName>Gaudiot</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jean-Luc Gaudiot</PI_FULL_NAME>
+<EmailAddress><![CDATA[gaudiot@uci.edu]]></EmailAddress>
+<NSF_ID>000465406</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress><![CDATA[160 ALDRICH HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MJC5FCYQTPE6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>Irvine</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>926173213</ZipCode>
+<StreetAddress><![CDATA[4424 Engineering Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA47</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~499999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="Default">The goal of this research was to explore a viable path forward for developing future intrusion detection systems and designing secure computer systems as cyber-attacks are</p> <p class="Default">growing at an alarming rate, especially those targeting hardware vulnerabilities and internet-of-things.&nbsp; Our main objectives were to improve flexibility, to reduce the performance overhead of hardware-based malware detection systems and secure hardware architectures, and to give these systems the ability to evolve with the ever-changing malware landscape. We also aimed at enhancing the detection accuracy by</p> <p class="Default">using malware. &nbsp;This project is of major importance to the creation of a secure and trustworthy cyberspace through a cooperative approach between hardware and software designs. This effort brought together research in the domain of security, computer architecture and machine learning, all from hardware and software angles. The following represents the different categories under which the outcomes of our project fall:</p> <p class="Default">&nbsp;</p> <ol> <li><strong>Development of a &nbsp;hardware performance counter-based      malware detector</strong> capable of      detecting new attacks on different IoT devices such as smart thermostats,      smart cameras, smart speakers, smart locks etc. which have limited      resources and are vulnerable to microarchitectural attacks. &nbsp;Implementation of hardware performance      counter-based malware detector on an FPGA was capable of reducing the      performance overhead. </li> <li><strong>Study of Spectre vulnerability for different      architectures</strong>. Due to the      complexity of different versions of ARM processors, the same attack can      behave differently on different processors. Previous experiments were      implemented on Intel and ARM A9 processors. We studied the Spectre      vulnerabilities on different versions of ARM processors.&nbsp; </li> <li><strong>Implementation of a control flow integrity      (CFI)-based malware detector</strong> on an FPGA to      reduce the performance overhead.</li> <li><strong>Detection of evasive malware</strong> using a hardware performance counter-based      malware detector. Following the development of our proposed malware      detector, the attack was further enhanced to attempt to bypass the      detector. As the detector relies on the microarchitectural features of the      system, the attacker can evade detection by reshaping the      microarchitectural profile of the attack to mimic benign programs. We      studied and compared different evasion strategies including inserting      carefully chosen instructions in the middle of attack or periodically      putting the attack to sleep. We further enhanced our original malware      detector to make it more resilient to evasion.</li> </ol><br> <p>  Last Modified: 10/31/2024<br> Modified by: Jean-Luc&nbsp;Gaudiot</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The goal of this research was to explore a viable path forward for developing future intrusion detection systems and designing secure computer systems as cyber-attacks are   growing at an alarming rate, especially those targeting hardware vulnerabilities and internet-of-things. Our main objectives were to improve flexibility, to reduce the performance overhead of hardware-based malware detection systems and secure hardware architectures, and to give these systems the ability to evolve with the ever-changing malware landscape. We also aimed at enhancing the detection accuracy by   using malware. This project is of major importance to the creation of a secure and trustworthy cyberspace through a cooperative approach between hardware and software designs. This effort brought together research in the domain of security, computer architecture and machine learning, all from hardware and software angles. The following represents the different categories under which the outcomes of our project fall:     Development of a hardware performance counter-based      malware detector capable of      detecting new attacks on different IoT devices such as smart thermostats,      smart cameras, smart speakers, smart locks etc. which have limited      resources and are vulnerable to microarchitectural attacks. Implementation of hardware performance      counter-based malware detector on an FPGA was capable of reducing the      performance overhead.  Study of Spectre vulnerability for different      architectures. Due to the      complexity of different versions of ARM processors, the same attack can      behave differently on different processors. Previous experiments were      implemented on Intel and ARM A9 processors. We studied the Spectre      vulnerabilities on different versions of ARM processors.  Implementation of a control flow integrity      (CFI)-based malware detector on an FPGA to      reduce the performance overhead. Detection of evasive malware using a hardware performance counter-based      malware detector. Following the development of our proposed malware      detector, the attack was further enhanced to attempt to bypass the      detector. As the detector relies on the microarchitectural features of the      system, the attacker can evade detection by reshaping the      microarchitectural profile of the attack to mimic benign programs. We      studied and compared different evasion strategies including inserting      carefully chosen instructions in the middle of attack or periodically      putting the attack to sleep. We further enhanced our original malware      detector to make it more resilient to evasion.      Last Modified: 10/31/2024       Submitted by: Jean-LucGaudiot]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

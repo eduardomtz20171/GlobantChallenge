@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Increasing Massachusetts Partnerships for Advancing Computational Thinking in Pre-K-5 Classrooms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>297410.00</AwardTotalIntnAmount>
+<AwardAmount>297410</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jessaca Spybrook</SignBlockName>
+<PO_EMAI>jspybroo@nsf.gov</PO_EMAI>
+<PO_PHON>7032922241</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to broaden pre-K-5 students' participation in standards-aligned and culturally responsive computational thinking (CT). The research team will establish a research-practice partnership (RPP) that will co-plan and co-design multidistrict efforts to develop standards-aligned and culturally responsive professional development (PD) that integrates CT into the PK-5 curriculum and instruction. The populations served are pre-K-5 students and teachers in Central Massachusetts. The project will connect a diverse team of researchers, policymakers, professional development coaches, and educators with diverse expertise on pre-K-5 CT teaching and learning. Following guidelines for effective partnerships and guided by Design-Based Implementation Research (DBIR) and Participatory Research, the project has four phases: 1) Build relationships within the RPP. 2) Identify problems of practice, and conduct in-school research.  3) Co-create PD in an iterative process of creating-testing-revising solutions to the identified problems. 4) Disseminate results and sustain the RPP.&lt;br/&gt;&lt;br/&gt;The central research question asks what factors enable and hinder successful collaborations between institutions of higher education, school districts, and the Massachusetts Department of Elementary and Secondary Education to address problems of practice around culturally and linguistically responsive CT teaching and learning in pre-K-5 classrooms. The RPP will develop shared understanding about the specific challenges that pre-K and elementary teachers and administrators from rural, urban, and town districts face concerning teaching CT to diverse populations. Such a knowledge base is essential to the development of CT-focused PD to empower teachers to integrate CT into curricula in accessible and meaningful ways. Using the RPP frameworks of mutualism and DBIR approaches of systematic and repeated inquiry, project members will identify and research problems of practice and possible solutions and strategies in their context. Analyses of the principles and processes will add to the body of knowledge about implementation research on building capacity of RPPs to identify and address problems of practice on culturally and linguistically responsive PD on CT integration for pre-K-5. This project is funded by the CS for All: Research and RPPs program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031477</AwardID>
+<Investigator>
+<FirstName>Mia</FirstName>
+<LastName>Dubosarsky</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mia D Dubosarsky</PI_FULL_NAME>
+<EmailAddress><![CDATA[mdubosarsky@wpi.edu]]></EmailAddress>
+<NSF_ID>000628103</NSF_ID>
+<StartDate>07/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gillian</FirstName>
+<LastName>Smith</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gillian Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[gmsmith@wpi.edu]]></EmailAddress>
+<NSF_ID>000634855</NSF_ID>
+<StartDate>07/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shakhnoza</FirstName>
+<LastName>Kayumova</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shakhnoza Kayumova</PI_FULL_NAME>
+<EmailAddress><![CDATA[skayumova@umassd.edu]]></EmailAddress>
+<NSF_ID>000682218</NSF_ID>
+<StartDate>07/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Worcester Polytechnic Institute]]></Name>
+<CityName>WORCESTER</CityName>
+<ZipCode>016092280</ZipCode>
+<PhoneNumber>5088315000</PhoneNumber>
+<StreetAddress><![CDATA[100 INSTITUTE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJNQME41NBU4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WORCESTER POLYTECHNIC INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Worcester Polytechnic Institute]]></Name>
+<CityName>Worcester</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>016092247</ZipCode>
+<StreetAddress><![CDATA[100 Institute Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>134Y00</Code>
+<Text>CSforAll-Computer Sci for All</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8817</Code>
+<Text>STEM Learning &amp; Learning Environments</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~297410</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project established a research-practice partnership (RPP) with the goal of co-planning and co-facilitating standards-aligned and culturally responsive professional development (PD) that integrates CT into the PK-5 curriculum and instruction.</p> <p>The RPP included four teachers from PreK, second, and third grades, three educational coaches/specialists, and three district administrators. These educators represented four different school districts, encompassing urban, small town, and rural settings, as well as an urban Head Start program targeting children aged 3-5 years from families facing income insecurity. Leadership within the RPP was provided by three researchers specialized in computer science, culturally responsive STEM pedagogy, and teacher education. Additionally, a member from the Massachusetts Department of Elementary &amp; Secondary Education (DESE) contributed her knowledge and leadership regarding the state&rsquo;s implementation of its Digital Literacy and Computer Science (DLCS) standards. The diverse expertise contributed to the project&rsquo;s success.</p> <p><strong>Project activities: </strong></p> <p>The team worked together to define computational thinking, culturally responsive pedagogy, and the interactions between the two with regard to the Massachusetts DLCS standards for grades PK-5. To better understand the needs of PK-5 educators and school systems, the team surveyed and analyzed data from dozens of colleagues, and used the data to design a 3-day professional development (PD) for PK-5 educators that addressed the identified needs. The PD was piloted with 10 educators during summer 2022. Data from the PD was analyzed by the team and used to propose revisions for the agenda. Team members presented the results in several conferences as well as collaboratively wrote an article about the RPP experience and findings (currently under review).</p> <p><strong>Findings: </strong></p> <p>Data analysis shows that the project was successful for educators who attended the developed PD as well as for RPP members. PD participants increased their knowledge, confidence, and preparedness for teaching computational thinking (CT) and applying culturally responsive pedagogy (CRP) in their classrooms. RPP members reported growing their own knowledge and practice with regard to implementation and integration of CT and CRP. RPP members reported transferring the learning from the RPP into their own setting and attributed the project&rsquo;s success to several elements: gaining knowledge of CT and culturally responsive pedagogy, developing ownership &amp; Trust among RPP members, and changing their own teaching practice as a result of collaboration with other educators.</p> <p><strong>Products and Dissemination: &nbsp;</strong></p> <p>The project team developed several products, all available to the public on the project&rsquo;s website (<a href="https://wp.wpi.edu/impact/">https://wp.wpi.edu/impact/</a>). First, a list of 10 reflection questions was developed to help PK-5 educator evaluate their own learning experiences for high-quality CT and CRP. &nbsp;Second, the 3-day PD agenda and all session materials are provided so others could implement the PD within their schools or districts. Third, an integrated lesson (ELA, math, and CT) developed by members of the RPP with the use of Root Robots called Rosie&rsquo;s Walk, was presented to educators at local and national conferences. The lesson and all supportive materials are available to the public.</p> <p>Lastly, a subgroup of RPP members collaborated on writing an article which is now under review. The article highlights the opportunities provided by the RPP model for teacher learning, in which teachers, administrators, and researchers can co-develop knowledge and confidence through collaborative study, thus contributing to the broader research and practice on models for authentic integration of CT into PK-5 classrooms in culturally responsive ways.</p> <p>&nbsp;</p><br> <p>  Last Modified: 06/11/2024<br> Modified by: Mia&nbsp;D&nbsp;Dubosarsky</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project established a research-practice partnership (RPP) with the goal of co-planning and co-facilitating standards-aligned and culturally responsive professional development (PD) that integrates CT into the PK-5 curriculum and instruction.   The RPP included four teachers from PreK, second, and third grades, three educational coaches/specialists, and three district administrators. These educators represented four different school districts, encompassing urban, small town, and rural settings, as well as an urban Head Start program targeting children aged 3-5 years from families facing income insecurity. Leadership within the RPP was provided by three researchers specialized in computer science, culturally responsive STEM pedagogy, and teacher education. Additionally, a member from the Massachusetts Department of Elementary & Secondary Education (DESE) contributed her knowledge and leadership regarding the states implementation of its Digital Literacy and Computer Science (DLCS) standards. The diverse expertise contributed to the projects success.   Project activities:    The team worked together to define computational thinking, culturally responsive pedagogy, and the interactions between the two with regard to the Massachusetts DLCS standards for grades PK-5. To better understand the needs of PK-5 educators and school systems, the team surveyed and analyzed data from dozens of colleagues, and used the data to design a 3-day professional development (PD) for PK-5 educators that addressed the identified needs. The PD was piloted with 10 educators during summer 2022. Data from the PD was analyzed by the team and used to propose revisions for the agenda. Team members presented the results in several conferences as well as collaboratively wrote an article about the RPP experience and findings (currently under review).   Findings:    Data analysis shows that the project was successful for educators who attended the developed PD as well as for RPP members. PD participants increased their knowledge, confidence, and preparedness for teaching computational thinking (CT) and applying culturally responsive pedagogy (CRP) in their classrooms. RPP members reported growing their own knowledge and practice with regard to implementation and integration of CT and CRP. RPP members reported transferring the learning from the RPP into their own setting and attributed the projects success to several elements: gaining knowledge of CT and culturally responsive pedagogy, developing ownership & Trust among RPP members, and changing their own teaching practice as a result of collaboration with other educators.   Products and Dissemination:    The project team developed several products, all available to the public on the projects website (https://wp.wpi.edu/impact/). First, a list of 10 reflection questions was developed to help PK-5 educator evaluate their own learning experiences for high-quality CT and CRP. Second, the 3-day PD agenda and all session materials are provided so others could implement the PD within their schools or districts. Third, an integrated lesson (ELA, math, and CT) developed by members of the RPP with the use of Root Robots called Rosies Walk, was presented to educators at local and national conferences. The lesson and all supportive materials are available to the public.   Lastly, a subgroup of RPP members collaborated on writing an article which is now under review. The article highlights the opportunities provided by the RPP model for teacher learning, in which teachers, administrators, and researchers can co-develop knowledge and confidence through collaborative study, thus contributing to the broader research and practice on models for authentic integration of CT into PK-5 classrooms in culturally responsive ways.        Last Modified: 06/11/2024       Submitted by: MiaDDubosarsky]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

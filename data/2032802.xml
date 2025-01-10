@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Investigating the rapid transition from face-to-face to exclusively online engineering laboratory classes in an Electrical and Computer Engineering program]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alice Pawley</SignBlockName>
+<PO_EMAI>apawley@nsf.gov</PO_EMAI>
+<PO_PHON>7032927286</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The COVID-19 global health crisis has forced educators to rapidly shift to online instruction methods. While this effort is already difficult for faculty, it is particularly challenging for instructors who have designed a portion of their curricula with hands-on laboratory instruction, as in the case for many STEM courses. To offer the effective education in-person instruction affords, it is important to maintain the same educational and curricular value of laboratories while taking advantage of benefits that online education and online experimentation tools offer. This project will transcend the demands of the COVID-19 crisis as it investigates the impact of using a full set of online laboratory modules in an engineering laboratory course. Impacts on faculty resistance to adoption, student motivation and self-regulation, and user experience and success are evaluated in this study. Online labs (remote and virtual) have long been considered promising options to enhance the student educational experience, but broad adoption has been limited. The current circumstances allow us to establish a successful use case by re-casting a semester-long, hands-on, experiential learning component into a fully online set of instructional labs. Nevertheless, rapidly deploying fully online experimentation and instruction in engineering challenges our dominant instructional model, especially in a traditional face-to-face institution in which both faculty and students may show resistance but also surprising adoption of online education technology. While associated with considerable challenges, establishing and empirically investigating such a successful use case offers high reward opportunities for knowledge generation, as well as benefits for faculty and students in engineering programs across the nation.&lt;br/&gt;&lt;br/&gt;This project will leverage the development and deployment of online labs and integrated online instruction modules to investigate the impact of using an exclusively online instructional mode for a fundamental electrical and computer engineering laboratory course. To reach this goal, the project will answer the following three research questions: A) How do faculty experience a top-down mandated, time-constrained, and rapid transition to exclusively online-based laboratory modules in engineering courses along the continuum of resistance towards the wholesale embrace of educational technologies? B) How does exclusively online laboratory instruction and online experimentation impact students’ learning experiences in terms of engagement, investigated through self-regulation and motivation? C) What user experience factors influence the success of introducing exclusively online experimentation activities into engineering courses and curricula? The research design will comprise three thrusts: faculty, student, and user experience perspective. All thrusts will employ a convergent, parallel, mixed-methods research approach using quantitative and qualitative measures. Informed by theoretical frameworks including the diffusion of innovation, the propagation paradigm, student cognitive and emotional engagement, and user-centered design, this project will develop in-depth knowledge on how online experimentation can be successfully deployed in engineering education settings. As a result, this project will a) lead to a framework for educational technology propagation, specific to online engineering labs and reflecting factors for both efficacies and fit, b) inform a model for student-centered online experimentation with explicit guidelines for student support, and c) inform a comprehensive model of success factors for designing user-centered online experimentation activities. The results of this research will also expand the reach and impact of engineering disciplines that have historically required face-to-face facilities to provide integral laboratory instruction. This project will enable online experimentation experiences that support core education learning objectives while also meeting the challenges of a diverse, mobile, and geographically distributed engineering workforce.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032802</AwardID>
+<Investigator>
+<FirstName>Fred</FirstName>
+<LastName>Beyette</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME>Jr</PI_SUFX_NAME>
+<PI_FULL_NAME>Fred R Beyette</PI_FULL_NAME>
+<EmailAddress><![CDATA[Fred.Beyette@uga.edu]]></EmailAddress>
+<NSF_ID>000418941</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Beshoy</FirstName>
+<LastName>Morkos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Beshoy Morkos</PI_FULL_NAME>
+<EmailAddress><![CDATA[bmorkos@uga.edu]]></EmailAddress>
+<NSF_ID>000641109</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nathaniel</FirstName>
+<LastName>Hunsu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nathaniel Hunsu</PI_FULL_NAME>
+<EmailAddress><![CDATA[NATHANIEL.HUNSU@uga.edu]]></EmailAddress>
+<NSF_ID>000770803</NSF_ID>
+<StartDate>08/24/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nathaniel</FirstName>
+<LastName>Hunsu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nathaniel Hunsu</PI_FULL_NAME>
+<EmailAddress><![CDATA[NATHANIEL.HUNSU@uga.edu]]></EmailAddress>
+<NSF_ID>000770803</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate>08/24/2023</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dominik</FirstName>
+<LastName>May</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dominik May</PI_FULL_NAME>
+<EmailAddress><![CDATA[Dominik.May@uga.edu]]></EmailAddress>
+<NSF_ID>000770840</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate>08/24/2023</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Jackson</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew M Jackson</PI_FULL_NAME>
+<EmailAddress><![CDATA[andrewjackson@uga.edu]]></EmailAddress>
+<NSF_ID>000814590</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Georgia Research Foundation Inc]]></Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress><![CDATA[310 E CAMPUS RD RM 409]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>Athens</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306021589</ZipCode>
+<StreetAddress><![CDATA[310 East Campus Rd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802000</Code>
+<Text>Cyberlearn &amp; Future Learn Tech</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>110E</Code>
+<Text>EDUCATION RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1340</Code>
+<Text>ENGINEERING EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8045</Code>
+<Text>Cyberlearn &amp; Future Learn Tech</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Project Outcomes Report: Advancing Online Engineering Labs in Education</strong></p>  <p>The project aimed to examine the challenges posed by the rapid shift to online education during the COVID-19 pandemic and to leverage this transition to develop innovative, fully online engineering laboratory modules. These efforts focused on advancing engineering education through online experimentation while investigating faculty adoption, student experiences, and user design challenges to inform the future of online labs.</p>  <p><strong>Major Activities</strong></p>  <p>The project&rsquo;s key achievement was the development, refinement, and deployment of fully online laboratory modules for courses such as <em>Fundamentals of Circuit Analysis</em> and <em>Applied Circuit Analysis</em>. This initiative leveraged prior pilot efforts and was implemented across four electrical engineering courses at the University of Georgia. Faculty collaboration played a central role in tailoring lab modules to course-specific needs, ensuring alignment with learning objectives.</p>  <p>Faculty interviews and reflections provided insights into their adaptation to online labs, enabling the team to understand factors influencing acceptance and resistance. Meanwhile, student-focused research included surveys and interviews to explore motivation, self-regulation, and engagement in online lab environments. Additionally, the user experience (UX) research identified pain points in usability and informed targeted redesigns, such as improving lab interfaces and providing robust troubleshooting resources.</p>  <p><strong>Significant Findings and Results</strong></p>  <p><strong>Faculty Experience:</strong></p>  <p>Faculty feedback revealed a mix of opportunities and challenges. Online labs provided flexibility for scheduling and individualized student support, yet faculty expressed concerns about the cognitive engagement of students working remotely. Long-term adoption of online labs was more likely when tools demonstrated clear efficacy and fit with existing curricula. Faculty also highlighted the need for hybrid models combining online and in-person instruction benefits.</p>  <p><strong>Student Experience:</strong></p>  <p>Students reported increased accountability, flexibility, and self-guidance in online labs but faced challenges adapting to the new modality. The project uncovered key factors influencing motivation and self-regulation, such as the need for clear instructions, intuitive interfaces, and adequate preparation resources. Many students expressed concerns about inquiry processes and learning compatibility compared to traditional labs.</p>  <p><strong>User Experience:</strong></p>  <p>The UX research highlighted usability issues, including navigation difficulties and insufficient troubleshooting options. Recommendations included improving interface design, providing integrated tutorials, and adding FAQs and video demonstrations. Subsequent iterations incorporated these suggestions, resulting in better-aligned online lab environments.</p>  <p><strong>Intellectual Merit</strong></p>  <p>The project advanced the fundamental understanding of how online labs support learning in engineering education. It revealed critical faculty and student characteristics that influence the adoption and effectiveness of online experimentation. The research also addressed the practical challenges of rapid modality changes, offering scalable and transferable solutions for integrating online labs into engineering curricula.</p>  <p>By generating empirical data and actionable recommendations, the project established a framework for adopting online labs, fostering self-regulation and motivation among students, and designing user-centered online environments. These findings contribute to the growing body of knowledge on digital learning and provide a roadmap for future innovation in engineering education.</p>  <p><strong>Broader Impacts</strong></p>  <p>The project demonstrated online labs' transformative potential to expand engineering education access. Online experimentation supports students with personal impairments, family commitments, or professional obligations that limit their ability to attend in-person classes. Additionally, these resources enable students to pursue co-ops, internships, and study abroad opportunities while maintaining academic progress. This flexibility is especially impactful for diversifying the engineering workforce and enhancing inclusion.</p>  <p>Beyond engineering, the insights gained are applicable to other scientific disciplines, such as physics and chemistry, that incorporate lab-based instruction. The findings also contribute to professional and workforce training programs by promoting innovation and the digitization of educational processes.</p>  <p><strong>Conclusion</strong></p>  <p>The project successfully addressed immediate educational challenges and laid the groundwork for the long-term integration of online labs in engineering education. By aligning pedagogy, technology, and user experience, the initiative demonstrated how online experimentation can enhance accessibility, flexibility, and student engagement. These outcomes have broad implications for the future of engineering instruction and beyond, establishing online labs as a critical component of modern education.</p>  <p><strong>Project Products</strong></p>  <p>May, D., Morkos, B., Jackson, A., Hunsu, N. J., Ingalls, A., &amp; Beyette, F. (2023). Rapid transition of traditionally hands-on labs to online instruction in engineering courses. <em>European Journal of Engineering Education</em>, 48(5), 842-860.</p>  <p>May, D., Morkos, B., Beyette, F. R., Hunsu, N., Jackson, A., &amp; Ragland, A. (2022, October). Faculty perspectives on transitioning to exclusively online lab classes in electrical and computer engineering. <em>Paper presented at the 2022 The Frontiers in Education (FIE) Conference, Uppsala, Sweden</em>.</p>  <p>Jackson, A., Morkos, B., Beyette, F. R., Ragland, A., &amp; May, D. (2022, June 26-29). Establishing qualitative inquiry to understand student experiences in online experimentation (Work in progress). <em>Paper presented at the 2022 ASEE Annual Conference &amp; Exposition &ldquo;Excellence Through Diversity&rdquo;, Minneapolis, MI.</em></p>  <p>Ragland, A., May, D., Morkos, B., Jackson, A., Hunsu, N., &amp; Beyette, F. R. (2022, June 26-29). UX design research for improving student experience in online laboratories. <em>Paper presented at the 2022 ASEE Annual Conference &amp; Exposition &ldquo;Excellence Through Diversity&rdquo;, Minneapolis, MI.</em></p>  <p>&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/26/2024<br> Modified by: Nathaniel&nbsp;Hunsu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Outcomes Report: Advancing Online Engineering Labs in Education    The project aimed to examine the challenges posed by the rapid shift to online education during the COVID-19 pandemic and to leverage this transition to develop innovative, fully online engineering laboratory modules. These efforts focused on advancing engineering education through online experimentation while investigating faculty adoption, student experiences, and user design challenges to inform the future of online labs.    Major Activities    The projects key achievement was the development, refinement, and deployment of fully online laboratory modules for courses such as Fundamentals of Circuit Analysis and Applied Circuit Analysis. This initiative leveraged prior pilot efforts and was implemented across four electrical engineering courses at the University of Georgia. Faculty collaboration played a central role in tailoring lab modules to course-specific needs, ensuring alignment with learning objectives.    Faculty interviews and reflections provided insights into their adaptation to online labs, enabling the team to understand factors influencing acceptance and resistance. Meanwhile, student-focused research included surveys and interviews to explore motivation, self-regulation, and engagement in online lab environments. Additionally, the user experience (UX) research identified pain points in usability and informed targeted redesigns, such as improving lab interfaces and providing robust troubleshooting resources.    Significant Findings and Results    Faculty Experience:    Faculty feedback revealed a mix of opportunities and challenges. Online labs provided flexibility for scheduling and individualized student support, yet faculty expressed concerns about the cognitive engagement of students working remotely. Long-term adoption of online labs was more likely when tools demonstrated clear efficacy and fit with existing curricula. Faculty also highlighted the need for hybrid models combining online and in-person instruction benefits.    Student Experience:    Students reported increased accountability, flexibility, and self-guidance in online labs but faced challenges adapting to the new modality. The project uncovered key factors influencing motivation and self-regulation, such as the need for clear instructions, intuitive interfaces, and adequate preparation resources. Many students expressed concerns about inquiry processes and learning compatibility compared to traditional labs.    User Experience:    The UX research highlighted usability issues, including navigation difficulties and insufficient troubleshooting options. Recommendations included improving interface design, providing integrated tutorials, and adding FAQs and video demonstrations. Subsequent iterations incorporated these suggestions, resulting in better-aligned online lab environments.    Intellectual Merit    The project advanced the fundamental understanding of how online labs support learning in engineering education. It revealed critical faculty and student characteristics that influence the adoption and effectiveness of online experimentation. The research also addressed the practical challenges of rapid modality changes, offering scalable and transferable solutions for integrating online labs into engineering curricula.    By generating empirical data and actionable recommendations, the project established a framework for adopting online labs, fostering self-regulation and motivation among students, and designing user-centered online environments. These findings contribute to the growing body of knowledge on digital learning and provide a roadmap for future innovation in engineering education.    Broader Impacts    The project demonstrated online labs' transformative potential to expand engineering education access. Online experimentation supports students with personal impairments, family commitments, or professional obligations that limit their ability to attend in-person classes. Additionally, these resources enable students to pursue co-ops, internships, and study abroad opportunities while maintaining academic progress. This flexibility is especially impactful for diversifying the engineering workforce and enhancing inclusion.    Beyond engineering, the insights gained are applicable to other scientific disciplines, such as physics and chemistry, that incorporate lab-based instruction. The findings also contribute to professional and workforce training programs by promoting innovation and the digitization of educational processes.    Conclusion    The project successfully addressed immediate educational challenges and laid the groundwork for the long-term integration of online labs in engineering education. By aligning pedagogy, technology, and user experience, the initiative demonstrated how online experimentation can enhance accessibility, flexibility, and student engagement. These outcomes have broad implications for the future of engineering instruction and beyond, establishing online labs as a critical component of modern education.    Project Products    May, D., Morkos, B., Jackson, A., Hunsu, N. J., Ingalls, A., & Beyette, F. (2023). Rapid transition of traditionally hands-on labs to online instruction in engineering courses. European Journal of Engineering Education, 48(5), 842-860.    May, D., Morkos, B., Beyette, F. R., Hunsu, N., Jackson, A., & Ragland, A. (2022, October). Faculty perspectives on transitioning to exclusively online lab classes in electrical and computer engineering. Paper presented at the 2022 The Frontiers in Education (FIE) Conference, Uppsala, Sweden.    Jackson, A., Morkos, B., Beyette, F. R., Ragland, A., & May, D. (2022, June 26-29). Establishing qualitative inquiry to understand student experiences in online experimentation (Work in progress). Paper presented at the 2022 ASEE Annual Conference & Exposition Excellence Through Diversity, Minneapolis, MI.    Ragland, A., May, D., Morkos, B., Jackson, A., Hunsu, N., & Beyette, F. R. (2022, June 26-29). UX design research for improving student experience in online laboratories. Paper presented at the 2022 ASEE Annual Conference & Exposition Excellence Through Diversity, Minneapolis, MI.             Last Modified: 11/26/2024       Submitted by: NathanielHunsu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

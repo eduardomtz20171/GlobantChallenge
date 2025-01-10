@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Lift regulation via kinematic maneuvering in uncertain gusts]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>275873.00</AwardTotalIntnAmount>
+<AwardAmount>275873</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>When a wing passes through a strong gust of wind, large amounts of lift are generated very quickly. The resulting lift transient, and the speed at which it builds, presents a challenge to maintaining vehicle control and can result in structural deformation or failure. It is therefore of interest to equip wings with ways to mitigate strong gust responses, i.e., to regulate lift. The long-term goal of this project is to assess the sensitivity of lift production to uncertainties in the gust flow, and to create new control strategies for mitigation of lift transients during detrimental unforeseen gust encounters. Results of this work will apply to a broad range of applications including wind and water turbines operating in tides, waves, and wakes; and air and water vehicles of all scales, from small aerial vehicles operating in urban environments to manned vehicles operating in complex terrain, air wakes, and extreme weather. The project will also encompass educational and outreach activities, including elementary and middle school visits and a research and mentoring program for undergraduate transfer students.&lt;br/&gt;&lt;br/&gt;The goal of this project is to apply tools from fluid dynamics, reduced-order modeling, and optimal and robust control theory to elucidate and model the underlying flow physics of an unsteady and uncertain large-amplitude transverse gust encounter, and to apply this knowledge to design control laws for regulation of lift production through kinematic actuation during and after this event. The technical approach is to (1) synthesize a physics-based low-order model that includes leading- and trailing-edge vortex dynamics based on high-resolution unsteady force, flow field, and surface pressure measurements on a rigid wing in a large-amplitude transverse gust encounter; (2) construct an optimal robust control framework for lift regulation in the gust that properly accounts for uncertainties in the gust flow (e.g., width and amplitude) and the wing's response thereto; and (3) implement the proposed closed-loop control framework in real-time gust encounter experiments in the laboratory. Research activities will explore methods of combining analytical and physics-based aerodynamic models with data-driven techniques for more robust and extensible models of wings passing through unsteady and uncertain large disturbances. Contributions to the scientific community include (1) a flow model designed for large-amplitude gust encounters with a high degree of uncertainty in the gust flow, and (2) integration of this model into a robust real-time feedback control loop for kinematic maneuvering in a wing-gust encounter without a priori knowledge of the gust parameters.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003951</AwardID>
+<Investigator>
+<FirstName>Anya</FirstName>
+<LastName>Jones</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anya Jones</PI_FULL_NAME>
+<EmailAddress><![CDATA[arj@ucla.edu]]></EmailAddress>
+<NSF_ID>000602468</NSF_ID>
+<StartDate>03/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425100</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress><![CDATA[3112 LEE BUILDING]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NPU8ULVAAS23</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland College Park]]></Name>
+<CityName/>
+<StateCode>MD</StateCode>
+<ZipCode>207425141</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~275873</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>When a wing passes through a strong gust, large amounts of lift are generated very quickly due to the high effective angle of attack of the wing, large-scale flow separation and vortex formation, and the presence of vorticity in the gust flow. The resulting lift transient, and the speed at which it builds, presents a challenge to maintaining vehicle control and can result in structural deformation or failure. It is therefore of interest to equip wings with ways to mitigate a strong gust response, i.e., regulate lift.&nbsp;<span>Results of this work apply to a broad range of applications including wind and water turbines operating in tides, waves, and wakes; and air and water vehicles of all scales, from small aerial vehicles operating in urban environments to manned vehicles operating in complex terrain, air wakes, and extreme weather.&nbsp;</span></p> <p>This project applied tools from fluid dynamics, reduced-order modeling, and optimal and robust control theory to (1) elucidate and model the underlying flow physics of an unsteady and uncertain large-amplitude transverse gust encounter, and (2) apply this knowledge to design control laws for regulation of lift production through kinematic actuation during and after the disturbance event.</p> <p>The technical approach was to (1) synthesize a physics-based low-order model that includes sufficient consideration of leading- and trailing-edge vortex dynamics in a wing-gust encounter; (2) construct a robust control framework for lift regulation in the gust that properly accounts for uncertainties in the gust flow and the wing's response thereto; and (3) implement a closed-loop control framework in real-time gust encounter experiments in the laboratory.</p> <p>Analytical models are useful for real-time control as they are computationally inexpensive and do not require large training data sets. K&uuml;ssner&rsquo;s model, for example, has been shown to perform well in predicting force histories of wing-gust encounters in low to moderate gust ratios, with its performance deteriorating in high gust ratios and when nearing the gust exit. This is likely due to its omission of non-linear physics that become important in those scenarios. In the current work, time-resolved PIV data was used to evaluate model assumptions and propose improved models based on knowledge of the flowfield. Ultimately, classic unsteady aerodynamic theory was used to construct open-loop pitch maneuvers and tune a closed-loop controller for closed-loop control. A dynamical systems treatment of the problem during control design revealed several important physical features important to vehicle control.</p> <p>Open-loop pitch maneuvers were constructed based on the aforementioned models and implemented in a gust-enabled water-filled towing tank. This study revealed several findings regarding the change in the flow topology due to pitch actuation, the necessity of modeling added mass for open-loop pitch maneuver construction, and the increase in the pitching moment transients due to pitch control. It also demonstrated how lift-mitigating pitching maneuvers minimized the disturbance to the gust&rsquo;s flow field, thereby reducing the momentum exchange between the gust and the wing.</p> <p>Further experiments implemented a proportional control strategy based on classic unsteady aerodynamic theory using a pitch acceleration input and real-time force measurements. These closed-loop control experiments included both upwards and downwards gusts of various strengths and lift tracking at pre- and post-stall angles of attack. The controller yielded an average rejection performance of 80% for various aerodynamic conditions without&nbsp;<em>a priori&nbsp;</em>knowledge of gust strength or onset time. Reasons for the controller&rsquo;s success include using lift measurements directly in control feedback, aerodynamic models that capture the salient physics in the control design process, and the choice of controller input. Simultaneous time-resolved velocity field and force measurements were used to observe and understand the flow physics underlying the lift transients in the disturbance and the physics of how applying closed-loop control mitigated those transients. One result from this work was the realization that non-circulatory forces can play a large role in gust mitigation for a pitching wing in a large flow disturbance.</p> <p>Over the course of this project, several canonical pitch maneuvers with varying levels of fidelity were designed and studied using concurrent&nbsp;force and flow field&nbsp;measurements. While low order, potential flow models were found to be successful&nbsp;at predicting&nbsp;(and therefore mitigating) forces during the early parts of the gust encounter,&nbsp;they&nbsp;are not sufficient during gust exit. Large lift transients were observed during gust exit due to unmodelled effects of the gust-pitch maneuver coupling. Future work will likely need to consider gust exit explicitly.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/25/2024<br> Modified by: Anya&nbsp;Jones</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  When a wing passes through a strong gust, large amounts of lift are generated very quickly due to the high effective angle of attack of the wing, large-scale flow separation and vortex formation, and the presence of vorticity in the gust flow. The resulting lift transient, and the speed at which it builds, presents a challenge to maintaining vehicle control and can result in structural deformation or failure. It is therefore of interest to equip wings with ways to mitigate a strong gust response, i.e., regulate lift.Results of this work apply to a broad range of applications including wind and water turbines operating in tides, waves, and wakes; and air and water vehicles of all scales, from small aerial vehicles operating in urban environments to manned vehicles operating in complex terrain, air wakes, and extreme weather.   This project applied tools from fluid dynamics, reduced-order modeling, and optimal and robust control theory to (1) elucidate and model the underlying flow physics of an unsteady and uncertain large-amplitude transverse gust encounter, and (2) apply this knowledge to design control laws for regulation of lift production through kinematic actuation during and after the disturbance event.   The technical approach was to (1) synthesize a physics-based low-order model that includes sufficient consideration of leading- and trailing-edge vortex dynamics in a wing-gust encounter; (2) construct a robust control framework for lift regulation in the gust that properly accounts for uncertainties in the gust flow and the wing's response thereto; and (3) implement a closed-loop control framework in real-time gust encounter experiments in the laboratory.   Analytical models are useful for real-time control as they are computationally inexpensive and do not require large training data sets. Kssners model, for example, has been shown to perform well in predicting force histories of wing-gust encounters in low to moderate gust ratios, with its performance deteriorating in high gust ratios and when nearing the gust exit. This is likely due to its omission of non-linear physics that become important in those scenarios. In the current work, time-resolved PIV data was used to evaluate model assumptions and propose improved models based on knowledge of the flowfield. Ultimately, classic unsteady aerodynamic theory was used to construct open-loop pitch maneuvers and tune a closed-loop controller for closed-loop control. A dynamical systems treatment of the problem during control design revealed several important physical features important to vehicle control.   Open-loop pitch maneuvers were constructed based on the aforementioned models and implemented in a gust-enabled water-filled towing tank. This study revealed several findings regarding the change in the flow topology due to pitch actuation, the necessity of modeling added mass for open-loop pitch maneuver construction, and the increase in the pitching moment transients due to pitch control. It also demonstrated how lift-mitigating pitching maneuvers minimized the disturbance to the gusts flow field, thereby reducing the momentum exchange between the gust and the wing.   Further experiments implemented a proportional control strategy based on classic unsteady aerodynamic theory using a pitch acceleration input and real-time force measurements. These closed-loop control experiments included both upwards and downwards gusts of various strengths and lift tracking at pre- and post-stall angles of attack. The controller yielded an average rejection performance of 80% for various aerodynamic conditions withouta prioriknowledge of gust strength or onset time. Reasons for the controllers success include using lift measurements directly in control feedback, aerodynamic models that capture the salient physics in the control design process, and the choice of controller input. Simultaneous time-resolved velocity field and force measurements were used to observe and understand the flow physics underlying the lift transients in the disturbance and the physics of how applying closed-loop control mitigated those transients. One result from this work was the realization that non-circulatory forces can play a large role in gust mitigation for a pitching wing in a large flow disturbance.   Over the course of this project, several canonical pitch maneuvers with varying levels of fidelity were designed and studied using concurrentforce and flow fieldmeasurements. While low order, potential flow models were found to be successfulat predicting(and therefore mitigating) forces during the early parts of the gust encounter,theyare not sufficient during gust exit. Large lift transients were observed during gust exit due to unmodelled effects of the gust-pitch maneuver coupling. Future work will likely need to consider gust exit explicitly.           Last Modified: 10/25/2024       Submitted by: AnyaJones]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

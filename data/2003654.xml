@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Hypervalent Iodine Based Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomislav Pintauer</SignBlockName>
+<PO_EMAI>tompinta@nsf.gov</PO_EMAI>
+<PO_PHON>7032927168</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With funding from the Macromolecular, Supramolecular, and Nanochemistry Program of the Chemistry Division, Professor Kyle N. Plunkett of Southern Illinois University at Carbondale is creating new supramolecular assemblies based on organic cyclic molecules that contain the chemical element iodine.  Inspired by nature, supramolecular chemistry utilizes hydrogen bonding to dictate assemblies such as proteins, enzymes, and DNA.  In this research, general strategies are developed to prepare building blocks for assemblies based on amino acids containing iodine fragments.  These building blocks provide a framework for 3D structures that have applications in gas/molecular absorption and sensing. The bonding and properties are investigated using several experimental techniques.  This project contributes to the training of a diverse group of students.  The research team is designing 180-degree 3D videos of laboratory experiments and demonstrations. The video content is used with virtual reality headsets to immerse internet-connected learners in a virtual chemistry world.  Outreach activities focus on recruitment of local high school students to participate in research stays over the summer, winter or spring breaks.&lt;br/&gt;&lt;br/&gt;This research is focused on developing new supramolecular assemblies based on hypervalent iodine macrocycles that are synthesized from amino acid functionalized benziodazoles.  These molecules self-assemble through secondary bonding into macrocyclic structures, which are the building block for the higher order supramolecular structures including molecular cages and covalent organic frameworks.  These macrostructures provide a framework to build molecular cages by linkages made through non-natural amino acid side chains.  Specific goals of this work are to explore the dynamic covalent bonding of hypervalent iodine macrocycles and identify expedient synthetic routes towards molecular cages.  The investigators also seek to quantify guest ion/molecule binding affinity, reaction-promoted disassembly and solid-state properties and characterize covalent organic frameworks based on hypervalent iodine macrocyclization reactions.  This research provides new methods to guide supramolecular assemblies, which is of fundamental interest because of the new bonding and reactivity possibilities that could provide access to properties such as chiral recognition and reactivity.  Additionally, potential impacts of this research include the design and synthesis of high surface area materials that have emerging properties for applications in gas/molecule absorption and sensing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003654</AwardID>
+<Investigator>
+<FirstName>Kyle</FirstName>
+<LastName>Plunkett</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kyle N Plunkett</PI_FULL_NAME>
+<EmailAddress><![CDATA[kplunkett@chem.siu.edu]]></EmailAddress>
+<NSF_ID>000624693</NSF_ID>
+<StartDate>05/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Southern Illinois University at Carbondale]]></Name>
+<CityName>CARBONDALE</CityName>
+<ZipCode>629014302</ZipCode>
+<PhoneNumber>6184534540</PhoneNumber>
+<StreetAddress><![CDATA[900 S NORMAL AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y28BEBJ4MNU7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF TRUSTEES OF SOUTHERN ILLINOIS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southern Illinois University at Carbondale]]></Name>
+<CityName>Carbondale</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>629014304</ZipCode>
+<StreetAddress><![CDATA[1245 Lincoln Dr.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688500</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7234</Code>
+<Text>SENSORS NON-SOLICITATION RESEA</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~450000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Supramolecular chemical systems provide access to dynamic assemblies via the aggregative effects of many weak bonding interactions.&nbsp; Compared to traditional non-covalent interactions, such as hydrogen-bonding, metal coordination, pi-pi stacking, hydrophobic forces, and electrostatic forces, that have been employed to direct molecular self-assembly, much less is known about supramolecular chemistry involving secondary bonding in hypervalent iodine systems.&nbsp; Hypervalent iodine provides a unique bonding motif and ample opportunities to influence supramolecular order to gain access to new functional materials.&nbsp; We have a fundamental interest in understanding the reaction scope, kinetics, and reversibility of supramolecular complexes composed of hypervalent iodines.&nbsp; Realization of these properties and the resulting utilization of these design principles will not only be a significant accomplishment in the rational design of unique supramolecular materials but will also create new classes of matter with non-traditional properties that could have utility for new functional materials.</p> <p>We delved into the supramolecular chemistry of hypervalent iodine-based macrocycles (HIMs, Figure 1).&nbsp; These materials are assembled through dynamic secondary-bonding, which is similar to dynamic covalent chemistry. We found that there is not only free interchange of monomers among different macrocycles in solution, but the macrocycles can be reversibly disassembled and reassembled by the addition or removal of anions, respectively (Figure 1A). &nbsp;HIMs were also capable of forming long range coordination complexes with Li<sup>+</sup> and Na<sup>+</sup> at the periphery of the macrocycles and not at the center of the oxygen rich core as previously hypothesized (Figure 1B). Pi-extended HIMs that incorporated naphthalene or anthraquinone residues in the macrocycles were also prepared. The enlarged aromatics enabled the co-crystallization of Buckminsterfullerene to form higher order supramolecular complexes (Figure 1C).&nbsp; More challenging work involved the preparation of cage-like compounds (Figure 1D) and covalent organic frameworks (COF). It was believed that the dynamic secondary bonding lends itself well to the preparation of such materials. We prepared a series of precursor compounds to make these materials but have met obstacles including solubility (cages) and lack of porosity or long range order (COFs).&nbsp; These synthetic endevours will continue into the future.&nbsp; Future applications of the materials could include molecular sensors, chiral recognition materials, or dynamic polymer system.</p> <p>Over the course of this grant, 8 graduate students and 7 undergraduates have been supported in some manner.&nbsp; Four Ph.D dissertations and one M.S. thesis were completed during this time.&nbsp; These students have given 3 talks/posters at the national ACS meetings and 4 talks at other research functions specific to this work.&nbsp; Their careers have had successful trajectories with several taking postdoctoral positions (NYU, UT-Austin, U. Chicago, Clarkson, and Oak Ridge National Lab), industry positions (IBC Materials and Coating Technologies, Inc.), or graduate school positions (U. Illinois, Princeton, Purdue, and SIU).&nbsp; One undergraduate co-authored four publications and was awarded an NSF GRFP in their senior year at SIU. &nbsp;The PI created new reaction notecards for Organic Chemistry II that are an extension of his augmented reality work in organic chemistry. The PI took one year of sabbatical leave and worked at the National Renewable Energy Laboratory and initiated collaborations on this hypervalent iodine work as well as other projects in carbon capture and hydrogen storage.</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/31/2024<br> Modified by: Kyle&nbsp;N&nbsp;Plunkett</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2003654/2003654_10670699_1730403571441_Final_Report_Figure--rgov-214x142.PNG" original="/por/images/Reports/POR/2024/2003654/2003654_10670699_1730403571441_Final_Report_Figure--rgov-800width.PNG" title="Supramolecular Chemistry of Hypervalent Iodine Macrocycles"><img src="/por/images/Reports/POR/2024/2003654/2003654_10670699_1730403571441_Final_Report_Figure--rgov-66x44.PNG" alt="Supramolecular Chemistry of Hypervalent Iodine Macrocycles"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Assembly and disassembly of HIM 3 through anion coordination. (B) Assembly of HIMs with first group alkali metal cations. (C) Pi-extended HIMs and their supramolecular assembly with Buckminsterfullerene. (D) Towards HIM based molecular cage.  Secondary bonds are highlighted in red.</div> <div class="imageCredit">Kyle Plunkett</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kyle&nbsp;N&nbsp;Plunkett <div class="imageTitle">Supramolecular Chemistry of Hypervalent Iodine Macrocycles</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Supramolecular chemical systems provide access to dynamic assemblies via the aggregative effects of many weak bonding interactions. Compared to traditional non-covalent interactions, such as hydrogen-bonding, metal coordination, pi-pi stacking, hydrophobic forces, and electrostatic forces, that have been employed to direct molecular self-assembly, much less is known about supramolecular chemistry involving secondary bonding in hypervalent iodine systems. Hypervalent iodine provides a unique bonding motif and ample opportunities to influence supramolecular order to gain access to new functional materials. We have a fundamental interest in understanding the reaction scope, kinetics, and reversibility of supramolecular complexes composed of hypervalent iodines. Realization of these properties and the resulting utilization of these design principles will not only be a significant accomplishment in the rational design of unique supramolecular materials but will also create new classes of matter with non-traditional properties that could have utility for new functional materials.   We delved into the supramolecular chemistry of hypervalent iodine-based macrocycles (HIMs, Figure 1). These materials are assembled through dynamic secondary-bonding, which is similar to dynamic covalent chemistry. We found that there is not only free interchange of monomers among different macrocycles in solution, but the macrocycles can be reversibly disassembled and reassembled by the addition or removal of anions, respectively (Figure 1A). HIMs were also capable of forming long range coordination complexes with Li+ and Na+ at the periphery of the macrocycles and not at the center of the oxygen rich core as previously hypothesized (Figure 1B). Pi-extended HIMs that incorporated naphthalene or anthraquinone residues in the macrocycles were also prepared. The enlarged aromatics enabled the co-crystallization of Buckminsterfullerene to form higher order supramolecular complexes (Figure 1C). More challenging work involved the preparation of cage-like compounds (Figure 1D) and covalent organic frameworks (COF). It was believed that the dynamic secondary bonding lends itself well to the preparation of such materials. We prepared a series of precursor compounds to make these materials but have met obstacles including solubility (cages) and lack of porosity or long range order (COFs). These synthetic endevours will continue into the future. Future applications of the materials could include molecular sensors, chiral recognition materials, or dynamic polymer system.   Over the course of this grant, 8 graduate students and 7 undergraduates have been supported in some manner. Four Ph.D dissertations and one M.S. thesis were completed during this time. These students have given 3 talks/posters at the national ACS meetings and 4 talks at other research functions specific to this work. Their careers have had successful trajectories with several taking postdoctoral positions (NYU, UT-Austin, U. Chicago, Clarkson, and Oak Ridge National Lab), industry positions (IBC Materials and Coating Technologies, Inc.), or graduate school positions (U. Illinois, Princeton, Purdue, and SIU). One undergraduate co-authored four publications and was awarded an NSF GRFP in their senior year at SIU. The PI created new reaction notecards for Organic Chemistry II that are an extension of his augmented reality work in organic chemistry. The PI took one year of sabbatical leave and worked at the National Renewable Energy Laboratory and initiated collaborations on this hypervalent iodine work as well as other projects in carbon capture and hydrogen storage.        Last Modified: 10/31/2024       Submitted by: KyleNPlunkett]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

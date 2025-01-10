@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Studies of neurospheres and diseased neurospheres on chip under magnetic field stimulation and drug treatment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>390903.00</AwardTotalIntnAmount>
+<AwardAmount>406903</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yogesh Gianchandani</SignBlockName>
+<PO_EMAI>ygiancha@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In the United States, about one in five Americans above the age of 18 suffer from diagnosable neurological disorders with no cure insight. As such, new, safe, non-invasive methods for the treatment of brain disorders are critically needed. Non-invasive techniques including repetitive transcranial magnetic stimulation (TMS) and transcranial direct current stimulation have had some success. However, progress has been limited due to poor understanding of the interactions of magnetic fields with nervous tissue. The molecular/cellular mechanisms of nervous tissue under TMS are still lacking. Hence, investigation of effects of transient magnetic fields on adult neurogenesis, cell differentiation and plasticity of nervous tissue (neurospheres) is essential in developing new treatment procedures and achieving the use of TMS as a neuromodulation tool for treating neurological disorders. The educational goal of this project is to effectively integrate research with educational activities and to train both undergraduate and graduate students in interdisciplinary studies to produce next-generation bioengineers. The PIs will develop a new Vertically Integrated Program (VIP) based on this research proposal entitled: Targeting Neurodegenerative Diseases Using Bioengineering Approaches. The VIP will unite undergraduate education and faculty research in a team-based context.  The overall educational goal is to help next-generation workforce development by training students to carry out research with sound technical background and allowing them to gain hands-on laboratory skills for their advanced careers. The long-term goal is to design an automatic technical platform to synthesize a variety of in vitro central nervous system disease models to mimic in vivo conditions as closely as possible. This will facilitate the studies of TMS effects and drug screening assays for neurodegenerative disorders.&lt;br/&gt;&lt;br/&gt;The goal of this proposal is to develop a chip-based microfluidics platform that facilitates the rapid formation of three-dimensional in vitro cell culture models of the central nervous system, which will permit the investigation of mechanisms of organ development, cellular interactions, disease model progression under magnetic field stimulation and drug treatments within deﬁned microenvironments.  Specifically, the proposed efforts include (1) the development of a chip consisting of microchamber arrays so that neurospheres including diseased neurospheres such as Alzheimer’s disease (AD) neurospheres can be fabricated in an efficient manner; and (2) the studies of the behavior of healthy neurospheres and AD neurospheres under transient magnetic stimulation (MS) and drug treatment using this chip. Major innovations of this proposed project can be summarized as the following: (1) Using this type of microfluidic chip, large-scale neurospheres with tunable and quantitative compositions can be synthesized rapidly and inexpensively, facilitating studies of different types of neurospheres; (2) Using a concentration gradient generator at the upper stream of this chip, a series of AD models (AD neurospheres) with known concentrations of amyloid-β and/or phosphorylated-tau can be readily fabricated; and (3) developing this chip will thus facilitate studies of the effects of both MS and drug treatment on AD models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/14/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2024797</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Jiles</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David C Jiles</PI_FULL_NAME>
+<EmailAddress><![CDATA[dcjiles@iastate.edu]]></EmailAddress>
+<NSF_ID>000388043</NSF_ID>
+<StartDate>04/10/2020</StartDate>
+<EndDate>07/06/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Donald</FirstName>
+<LastName>Sakaguchi</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Donald S Sakaguchi</PI_FULL_NAME>
+<EmailAddress><![CDATA[dssakagu@iastate.edu]]></EmailAddress>
+<NSF_ID>000156951</NSF_ID>
+<StartDate>04/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Long</FirstName>
+<LastName>Que</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Long Que</PI_FULL_NAME>
+<EmailAddress><![CDATA[lque@iastate.edu]]></EmailAddress>
+<NSF_ID>000339111</NSF_ID>
+<StartDate>04/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<ZipCode>500112103</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress><![CDATA[1350 BEARDSHEAR HALL]]></StreetAddress>
+<StreetAddress2><![CDATA[515 MORRILL ROAD]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>Ames</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112105</ZipCode>
+<StreetAddress><![CDATA[2113 Coover Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>756400</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>104E</Code>
+<Text>MEMS/NEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~390903</FUND_OBLG>
+<FUND_OBLG>2023~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this project, we developed technical platforms to grow in vitro brain models on chips and studied behaviors of the brain models under treatments of neurotransmitters and external stimulations including magnetic, mechanical and shockwave impacts, respectively.&nbsp;</p>  <p>First, a chip has been developed to culture tens of brain models on chip at the same time. Cell proliferation and neuronal differentiation in the models have been observed, indicating the feasibility of neurospheres as the in vitro brain models on chips.</p>  <p>Second, the effects of magnetic stimulation (MS) on brain models have been studied. Experimental results suggested: (1) increased cell proliferation and continued multipotent differentiation capacity of the neurospheres into specific cell types observed for magnetically stimulated neurospheres compared to that of the control, non-stimulated neurospheres; (2) a trending increase in oligodendrocyte differentiation observed for magnetically stimulated neurospheres vs. the control neurospheres. These results indicate that MS may promote cell proliferation and may provide a mechanism to enhance regeneration of neural cells.</p>  <p>Third, a chip for studying the effects of neurotransmitters on brain models has been developed. Experiments found that the neurospheres remain highly viable following dopamine or serotonin treatment. Cell proliferation and neuronal differentiation have also been observed following treatment, revealing that the brain models are a valuable&nbsp;<em>in vitro</em>&nbsp;brain model for neurogenesis research. In addition, we showed that by tuning the permeability of diffusion barrier, we prevented the transfer of&nbsp;<em>Escherichia coli</em>&nbsp;cells from crossing the diffusion barrier, while allowing neurotransmitters to pass through, indicating the feasibility of using the chip to understand the interactions between microbiota and brain&nbsp;<em>via</em>&nbsp;the gut&ndash;brain axis.</p>  <p>Fourth, a chip has been developed to study the brain models under shockwave (SW) impacts. Experiments showed the negative impact of the SW on the viability, proliferation, and differentiation of the cells within the brain models. A qPCR gene expression analysis was performed and appeared to confirm some of the immunocytochemistry results. Monitoring of lactate dehydrogenase (LDH) released from the models subjected to SW impacts has been also demonstrated. Taken together, these results suggest the feasibility of using the chip for potentially establishing in vitro TBI models on a chip.</p>  <p>Finally, totally 6 PhD students (1 female student among them), 6 undergraduate students (including 4 female students and 2 NSF-REU funded female students) have worked on this project or the related topics of this project. The PhD thesis topics of 6 PhD students were completely or partly based on this project. 6 papers have been published in journals and conference proceedings. 6 technical talks were given at major international conferences and domestic conferences.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/27/2024<br> Modified by: Long&nbsp;Que</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In this project, we developed technical platforms to grow in vitro brain models on chips and studied behaviors of the brain models under treatments of neurotransmitters and external stimulations including magnetic, mechanical and shockwave impacts, respectively.    First, a chip has been developed to culture tens of brain models on chip at the same time. Cell proliferation and neuronal differentiation in the models have been observed, indicating the feasibility of neurospheres as the in vitro brain models on chips.    Second, the effects of magnetic stimulation (MS) on brain models have been studied. Experimental results suggested: (1) increased cell proliferation and continued multipotent differentiation capacity of the neurospheres into specific cell types observed for magnetically stimulated neurospheres compared to that of the control, non-stimulated neurospheres; (2) a trending increase in oligodendrocyte differentiation observed for magnetically stimulated neurospheres vs. the control neurospheres. These results indicate that MS may promote cell proliferation and may provide a mechanism to enhance regeneration of neural cells.    Third, a chip for studying the effects of neurotransmitters on brain models has been developed. Experiments found that the neurospheres remain highly viable following dopamine or serotonin treatment. Cell proliferation and neuronal differentiation have also been observed following treatment, revealing that the brain models are a valuablein vitrobrain model for neurogenesis research. In addition, we showed that by tuning the permeability of diffusion barrier, we prevented the transfer ofEscherichia colicells from crossing the diffusion barrier, while allowing neurotransmitters to pass through, indicating the feasibility of using the chip to understand the interactions between microbiota and brainviathe gutbrain axis.    Fourth, a chip has been developed to study the brain models under shockwave (SW) impacts. Experiments showed the negative impact of the SW on the viability, proliferation, and differentiation of the cells within the brain models. A qPCR gene expression analysis was performed and appeared to confirm some of the immunocytochemistry results. Monitoring of lactate dehydrogenase (LDH) released from the models subjected to SW impacts has been also demonstrated. Taken together, these results suggest the feasibility of using the chip for potentially establishing in vitro TBI models on a chip.    Finally, totally 6 PhD students (1 female student among them), 6 undergraduate students (including 4 female students and 2 NSF-REU funded female students) have worked on this project or the related topics of this project. The PhD thesis topics of 6 PhD students were completely or partly based on this project. 6 papers have been published in journals and conference proceedings. 6 technical talks were given at major international conferences and domestic conferences.         Last Modified: 11/27/2024       Submitted by: LongQue]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

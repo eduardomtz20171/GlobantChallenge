@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: Development of Differentiable Memory Augmented Neural CPU Architecture for Cognitive Computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>508000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The past half-decade has seen unprecedented growth in machine learning with deep neural networks (DNNs), which now represent the state-of-the-art in many AI applications. However, existing DNN models require substantial memory and computing power, which greatly limit their use in resource-constrained systems such as mobile and IoT devices. This project will develop new algorithms and hardware to significantly improve the efficiency of DNNs, and represents an important step towards enabling fast and adaptive DNN executions even in resource-limited environments. In that sense, this project has the potential to enable a wider deployment of machine learning, which will play a critical role in many aspects of the future smart society. The research project will provide research training opportunities to the students as well as new curriculum development by leveraging existing resources at Cornell, e.g., summer camps as well as an outreach programs for high-school students including women.&lt;br/&gt;&lt;br/&gt;This project aims to significantly improve the efficiency of DNNs while maintaining high accuracy, by co-developing algorithm optimizations and efficient hardware accelerator architecture. While there exist many lines of work on reducing DNN execution costs, the majority of these techniques are designed primarily to improve inference, and perform static optimizations that reduce computation uniformly for all inputs or only exploit a limited form of dynamic sparsity, namely zeros. This project aims to enable new performance-accuracy trade-off points for DNNs that are not possible today by exploiting general forms of dynamic sparsity that are specific to each input at run-time. More specifically, the project plans to investigate input-specific gating techniques that can remove redundant computations for both training and inference, develop dynamic quantization techniques that do not require training data, and design an efficient and unified hardware accelerator architecture that provides both real-world performance and energy improvements.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008906</AwardID>
+<Investigator>
+<FirstName>Jie</FirstName>
+<LastName>Gu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jie Gu</PI_FULL_NAME>
+<EmailAddress><![CDATA[jgu@northwestern.edu]]></EmailAddress>
+<NSF_ID>000691073</NSF_ID>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress><![CDATA[633 CLARK ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>Evanston</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602083118</ZipCode>
+<StreetAddress><![CDATA[2145 Sheridan Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>287800</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~500000</FUND_OBLG>
+<FUND_OBLG>2021~8000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The development of deep learning techniques has created a new era of computer intelligence.&nbsp; Unfortunately, the current hardware solutions still suffer from expensive data transferring between computing cores and low utilization of accelerator units, due to the conflicting demands for both general-purpose programmability and computing efficiency for specialization. As a result, there is an unmet demand to reconcile the vast performance difference between the conventional CPU and the newly arrived neural processors for a better tradeoff between programmability and computing efficiency.&nbsp; A new computing architecture is therefore needed that can provide benefits of both Von-Neumann architecture and neural processing architecture.&nbsp; Furthermore, the current deep learning accelerator still misses the capability of supports to cognitive reasoning.&nbsp; To resolve the above challenges, this project aims at developing a new computing architecture, referred as neural CPU (NCPU) architecture, which possess the efficiency of neural processors while also supporting programmability and cognitive computing.&nbsp; Real fabricated silicon test chips are used in this project to demonstrate the benefits of the developed architecture. &nbsp;&nbsp;</p>  <p>Towards the above goals, this project has successfully delivered the following technical advancements.&nbsp; First, this project has created a new neural CPU architecture which reconciles the difference between a conventional CPUs and the neural processing accelerators. The developed neural CPU incorporates strong programmability support inside the efficient systolic array operation of neural processing accelerators so that the new architecture can support both general-purpose programming and specialized high-efficiency deep learning operation;&nbsp; Second, the project further incorporates highly efficient compute-in-memory concept into the neural CPU architecture so that a general-purpose compute-in-memory architecture is delivered supporting both CPU and CNN operations;&nbsp; Third, the inspired by the working memory concept of human brain, a differential neural computer architecture is developed so that cognitive reasoning operations can be performed in a dedicated neural processor.&nbsp; The proposed architectures have been designed and fabricated using standard CMOS test chips supporting a variety of popular applications such as deep learning, virtual reality and robotics.&nbsp; The measurements on test chips show 2~8X improvement of computing efficiency and latency compared with existing computing architectures.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>  <p>Four PhD students have been fully or partially supported from this project with extensive training on computer architecture, circuit and algorithm co-design.&nbsp;&nbsp; Several master and undergraduate students have also been trained on the project.&nbsp; The PI has published the results from this project on nine top-rated conferences and journals in the fields of EDA, VLSI design and computer architectures. Four patents from this work have been filed. The project results have been invited into a talk to Samsung forum and won poster award in IEEE/IBM AI workshop.&nbsp; Supported by this award, a summer school specially designed for underrepresented students has been hosted in PI&rsquo;s institute delivering mentorship for college students to build up a career in advanced computing hardware. &nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/30/2024<br> Modified by: Jie&nbsp;Gu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The development of deep learning techniques has created a new era of computer intelligence. Unfortunately, the current hardware solutions still suffer from expensive data transferring between computing cores and low utilization of accelerator units, due to the conflicting demands for both general-purpose programmability and computing efficiency for specialization. As a result, there is an unmet demand to reconcile the vast performance difference between the conventional CPU and the newly arrived neural processors for a better tradeoff between programmability and computing efficiency. A new computing architecture is therefore needed that can provide benefits of both Von-Neumann architecture and neural processing architecture. Furthermore, the current deep learning accelerator still misses the capability of supports to cognitive reasoning. To resolve the above challenges, this project aims at developing a new computing architecture, referred as neural CPU (NCPU) architecture, which possess the efficiency of neural processors while also supporting programmability and cognitive computing. Real fabricated silicon test chips are used in this project to demonstrate the benefits of the developed architecture.     Towards the above goals, this project has successfully delivered the following technical advancements. First, this project has created a new neural CPU architecture which reconciles the difference between a conventional CPUs and the neural processing accelerators. The developed neural CPU incorporates strong programmability support inside the efficient systolic array operation of neural processing accelerators so that the new architecture can support both general-purpose programming and specialized high-efficiency deep learning operation; Second, the project further incorporates highly efficient compute-in-memory concept into the neural CPU architecture so that a general-purpose compute-in-memory architecture is delivered supporting both CPU and CNN operations; Third, the inspired by the working memory concept of human brain, a differential neural computer architecture is developed so that cognitive reasoning operations can be performed in a dedicated neural processor. The proposed architectures have been designed and fabricated using standard CMOS test chips supporting a variety of popular applications such as deep learning, virtual reality and robotics. The measurements on test chips show 2~8X improvement of computing efficiency and latency compared with existing computing architectures.    Four PhD students have been fully or partially supported from this project with extensive training on computer architecture, circuit and algorithm co-design. Several master and undergraduate students have also been trained on the project. The PI has published the results from this project on nine top-rated conferences and journals in the fields of EDA, VLSI design and computer architectures. Four patents from this work have been filed. The project results have been invited into a talk to Samsung forum and won poster award in IEEE/IBM AI workshop. Supported by this award, a summer school specially designed for underrepresented students has been hosted in PIs institute delivering mentorship for college students to build up a career in advanced computing hardware.          Last Modified: 12/30/2024       Submitted by: JieGu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CC* CIRA: Building Research Innovation at Community Colleges]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+<PO_EMAI>kthompso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924220</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Two-year colleges and smaller institutions of higher education play an important role in shaping the country's economic and computing workforce.  Burgeoning interest in fields such as cloud computing and smart manufacturing have paved the path for adoption of advanced cyberinfrastructure practices in research and academic pursuits at these institutions.  Expanding on the collective experience of groups engaged in various aspects of campus computing, the Building Research Innovation at Community Colleges (BRICCs) approach examines the research and educational needs from advanced cyberinfrastructure in such institutional settings. Led by CyberTeams, BRICCs offers an inclusive platform to develop and extend efforts in this space to the national level.  &lt;br/&gt;&lt;br/&gt;BRICCs is a unique opportunity to study campus computing characteristics at smaller institutions and community colleges. BRICCs adopts a multi-pronged approach that focuses on learning about the problems at hand, partnering with institutions to enable solutions, and finally communicating its findings to the broader research community. Fostering partnerships between knowledgeable cyberinfrastructure professionals and these institutions is a critical aspect of BRICCs. Toward achieving this, BRICCs will host virtual and in-person community workshops to explore avenues to broaden the impact of advanced cyberinfrastructure on campus computing at all levels. BRICCs will produce learning resources, workshop reports, support future funding efforts, and propose campus networking models that align with the  research and academic pursuits of smaller institutions. As a collective of computing expertise, BRICCs serve as a collaborative space to address similar challenges in advancing cyberinfrastructure adoption in research and educational settings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019136</AwardID>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Janes</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarah K Janes</PI_FULL_NAME>
+<EmailAddress><![CDATA[sarah.janes@sjcd.edu]]></EmailAddress>
+<NSF_ID>000111043</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Cockerill</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy M Cockerill</PI_FULL_NAME>
+<EmailAddress><![CDATA[cockerill@tacc.utexas.edu]]></EmailAddress>
+<NSF_ID>000299304</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Honggao</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Honggao Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[honggao@tamu.edu]]></EmailAddress>
+<NSF_ID>000519961</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dhruva</FirstName>
+<LastName>Chakravorty</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dhruva Chakravorty</PI_FULL_NAME>
+<EmailAddress><![CDATA[chakravorty@tamu.edu]]></EmailAddress>
+<NSF_ID>000718169</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[400 HARVEY MITCHELL PKY S STE 30]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF6XLNB4CDJ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A &amp; M UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778454375</ZipCode>
+<StreetAddress><![CDATA[400 Harvey Mitchell Pkwy South]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>723100</Code>
+<Text>CYBERINFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>808000</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~250000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong><span style="text-decoration: underline;">B</span></strong><strong>uilding <span style="text-decoration: underline;">R</span>esearch <span style="text-decoration: underline;">I</span>nnovations for <span style="text-decoration: underline;">C</span>ommunities and <span style="text-decoration: underline;">C</span>ollege<span style="text-decoration: underline;">s</span> (BRICCs) </strong>is a collaborative research alignment platform that unites groups supporting campus cyberinfrastructure (CI) activities in their goal to develop a cohesive CI framework that improve research and education (R&amp;E) CI capacity at two-year institutions of higher education (IHE, community colleges) nationwide. The goals of this effort were to identify avenues to improve CI adoption at community colleges. BRICCs, in addition to identifying avenues to improve computing at college campuses by, aims to address current computational resource deficiencies, allowing us to refine course offerings and providing researchers and students with cutting-edge skills. The program leverages several existing efforts to address several interdisciplinary topics, and offered a unique platform to explore novel networking strategies, implement collaborative technologies, workforce-training for current and future CI professionals, broadening access to computing, and development of community standards toward engaging under-resourced institutions and community colleges. The project built on the work done by the CyberTeams and the Regional and Educational Networks, in expanding educational network connectivity to IHEs. The project&rsquo;s goals were accomplished via collaborative case studies, focus groups, online surveys of existing materials, community workshops, online virtual meetings, published reports and recommendations for campus computing plans for two-year institutions. In October 2021, BRICCs organized its first community landscape workshop at South Plains College, a two-year institution located in Levelland, Texas. The workshop was organizing in collaboration with the Texas Association of Community Colleges Chief Information Officers group. Following workshops were organized in Corpus Christi, Texas in 2022, and in Santa Fe, New Mexico in 2023. The impact of this program is tremendous as it offered pathways to address campus computing topics that have national significance. The computing plans developed via BRICCs are likely to accelerate the envisioned research and education missions of two-year colleges, leading to several future computing programs, and a highly skilled research workforce.</p><br> <p>  Last Modified: 11/06/2024<br> Modified by: Dhruva&nbsp;Chakravorty</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Building Research Innovations for Communities and Colleges (BRICCs) is a collaborative research alignment platform that unites groups supporting campus cyberinfrastructure (CI) activities in their goal to develop a cohesive CI framework that improve research and education (R&E) CI capacity at two-year institutions of higher education (IHE, community colleges) nationwide. The goals of this effort were to identify avenues to improve CI adoption at community colleges. BRICCs, in addition to identifying avenues to improve computing at college campuses by, aims to address current computational resource deficiencies, allowing us to refine course offerings and providing researchers and students with cutting-edge skills. The program leverages several existing efforts to address several interdisciplinary topics, and offered a unique platform to explore novel networking strategies, implement collaborative technologies, workforce-training for current and future CI professionals, broadening access to computing, and development of community standards toward engaging under-resourced institutions and community colleges. The project built on the work done by the CyberTeams and the Regional and Educational Networks, in expanding educational network connectivity to IHEs. The projects goals were accomplished via collaborative case studies, focus groups, online surveys of existing materials, community workshops, online virtual meetings, published reports and recommendations for campus computing plans for two-year institutions. In October 2021, BRICCs organized its first community landscape workshop at South Plains College, a two-year institution located in Levelland, Texas. The workshop was organizing in collaboration with the Texas Association of Community Colleges Chief Information Officers group. Following workshops were organized in Corpus Christi, Texas in 2022, and in Santa Fe, New Mexico in 2023. The impact of this program is tremendous as it offered pathways to address campus computing topics that have national significance. The computing plans developed via BRICCs are likely to accelerate the envisioned research and education missions of two-year colleges, leading to several future computing programs, and a highly skilled research workforce.     Last Modified: 11/06/2024       Submitted by: DhruvaChakravorty]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

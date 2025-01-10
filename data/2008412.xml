@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FET: Small: Ferroelectric Transistor based Spiking Neural Networks with Adaptive Learning for Edge AI: from Devices to Algorithms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>499998.00</AwardTotalIntnAmount>
+<AwardAmount>499998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Incorporating artificial intelligence (AI) in electronic systems has been widely recognized as one of the key enablers for several emerging applications. However, the energy efficiency and the learning capabilities of state-of-the-art AI systems is far from that achievable by human brains. This research undertakes a cross-layer exploration spanning novel devices, low-power neural networks, and new learning schemes. The exploration will exploit Ferroelectric Field Effect Transistor (FeFET) technology with intrinsic neuro-mimetic features to achieve energy-efficient neural hardware and adaptable learning. The low-power hardware solutions and adaptive-learning algorithms have the potential to impact critical applications such as computer-aided diagnosis, robotics, speech/face recognition, and data classification, thereby directly benefiting areas such as healthcare, defense, security etc. Moreover, power savings should translate to longer battery life for edge devices and energy-efficient data processing for applications like wearable health-monitoring platforms. The project will leverage outreach programs at Purdue University and develop a summer Research Experiences for Undergraduates (REU) program to involve undergraduates and minority students in the project. The broad nature of this project will provide opportunity for undergraduate students to get introduced to the field of AI based on emerging technologies.&lt;br/&gt;&lt;br/&gt;Spiking Neural Networks (SNNs), due to their self-learning capabilities, show promise in introducing adaptability in learning for AI systems, but suffer from low accuracy. Improving SNN accuracy and performance not only necessitates novel learning mechanisms that support adaptable lifelong learning, but also an intrinsically suitable technology for low-power scalable hardware. To address this critical need, this project will carry out a comprehensive devices-to-algorithms exploration of multi-domain FeFET based SNNs. The main objectives include (a) design of low-power neurons and synapses using FeFETs, and (b) development of adaptive and sequential learning algorithms utilizing the unique attributes of the neuro-mimetic devices. To enable bio-plausible features in FeFETs, physics-based device optimization will be carried out to utilize the multi-domain effects and domain dynamics of ferroelectrics. To facilitate cross-layer exploration, a devices-to-systems simulation framework will be developed capturing the rich dynamics of the neurons and synapses, their interactions in an SNN, and the impact of new learning algorithms on system performance/accuracy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008412</AwardID>
+<Investigator>
+<FirstName>Sumeet</FirstName>
+<LastName>Gupta</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sumeet K Gupta</PI_FULL_NAME>
+<EmailAddress><![CDATA[guptask@purdue.edu]]></EmailAddress>
+<NSF_ID>000675326</NSF_ID>
+<StartDate>06/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kaushik</FirstName>
+<LastName>Roy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kaushik Roy</PI_FULL_NAME>
+<EmailAddress><![CDATA[kaushik@ecn.purdue.edu]]></EmailAddress>
+<NSF_ID>000482731</NSF_ID>
+<StartDate>06/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479072035</ZipCode>
+<StreetAddress><![CDATA[465 Northwestern Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>089Y00</Code>
+<Text>FET-Fndtns of Emerging Tech</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>287800</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~499998</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The advancements in neural computing have led to unprecedented performance of artificial intelligence (AI) platforms leading to super-human accuracies for several tasks. However, this success bears a concomitant cost of enormous energy requirements to process AI workloads. To counter the issues associated with AI hardware design, especially for resource-constrained edge devices, innovations at the hardware and algorithm levels are needed that can achieve quantum improvements in the energy efficiency, while sustaining acceptable levels of accuracy. At the hardware level, novel technologies, circuits and architectures are needed that can push the boundaries of the state-of-the-art solutions by enhancing the computing robustness, energy efficiency, and scalability. To that end, emerging non-volatile memory technologies have shown a large potential to circumvent the limitations of standard transistors, albeit with their own design issues. Furthermore, merging data storage and processing (as opposed to having separate memory and processing modules, as in standard computing architectures) has attracted a lot of attention for AI accelerator design. However, memory-compute fusion leads to other design challenges, which need to be tackled to harness of the full potential of this technique. &nbsp;Such hardware-level advancements need to be complemented by training schemes that can achieve systemic improvements in energy efficiency. &nbsp;&nbsp;&nbsp;&nbsp;</p> <p>&nbsp;This project addressed this need by conducting a comprehensive exploration of hafnium zirconium oxide (HZO)-based ferroelectric technology for the design of energy efficient artificial intelligence (AI) accelerators. The approach included developing cross-layer design solutions and conducting a comprehensive design space exploration spanning experimental characterization, simulation-based design and analysis of ferroelectric transistors and capacitors, circuit/architecture designs enabling energy efficient computations and hardware-aware training to counter the effects of device-circuit non-idealities. The team fabricated HZO-based devices and performed extensive characterizations to understand their characteristics, including device-to-device variability. Techniques based on interface optimization were established to lower the programming voltage (thereby, enhancing the energy efficiency). &nbsp;The experimental studies were coupled with simulation-based analyses. In particular, the static and dynamic characteristics of HZO-based ferroelectric transistors and capacitors were analyzed to understand the underlying physical mechanisms and establish the device optimization strategies to cater to the need of target neural accelerators. To achieve this, this project developed 3D phase-field models for HZO-based devices accounting for polycrystallinity of HZO, multi-domain effects, anisotropic elastic interactions, and dynamic behavior. Based on these models, the team unraveled several key features and design strategies for HZO-based transistors and capacitors, including the effect of HZO thickness on the device behavior, the dependence of HZO characteristics on the attributes of applied voltage pulses, device-to-device variations and techniques to reduce them, and others. The team also analyzed the unique dynamic characteristics which show deviation from the first-order circuits used in standard spiking neural networks. Based on the device analysis, several hardware-algorithm co-design techniques were established to enhance the accuracy and energy efficiency of the neural accelerators. These techniques included (i) designing computing-in-memory arrays and macros based on the co-optimization of HZO thickness, number of bits stored per device, memory array size and peripheral circuits (ii) incorporating adaptability in HZO-based spiking neurons, (iii) designing compact and low power oscillatory neurons and their coupled networks and (iv) developing technology-aware training methodologies to exploit their unique features (such as non-first-order behavior of HZO neurons to reduce the energy consumption of spiking neural networks) or to counter their limitations (such as low distinguishability of HZO-based capacitors). The proposed designs for the computing-in-memory macros and oscillatory/spiking neurons established several key cross-layer design insights for ferroelectric-based neural accelerators and led to a significant enhancement in computation robustness and energy efficiency. This, coupled with the hardware-aware training, showed an improvement in system accuracy and/or reduction in power consumption.&nbsp; &nbsp;</p> <p>&nbsp;The enhancement in energy efficiency of neural accelerators achieved via the proposed design solutions can be immensely beneficial for a broad range of edge applications that rely on efficient data processing. These include computer aided diagnosis, speech/face recognition, data classification etc. Such systems will directly impact critical areas such as healthcare, security and defense. In addition, this project has led to the participation and training of multiple graduate students (including a female student), who, through this research, got an in-depth knowledge on ferroelectric transistors and capacitors, and their applications in neural computing. This will prepare them for their future career and leadership positions in engineering and technology. Furthermore, the research outcomes of this project were utilized to enhance the graduate curriculum by integrating them in a course on Advanced VLSI Design offered by the Elmore Family School of Electrical and Computer Engineering at Purdue University. Outreach activities such as organization of workshops were conducted to provide exposure to emerging technologies and their role in future computing to a broader class of engineers and researchers. The circuit-compatible models for HZO-devices developed in this project were shared with other researchers to enable their exploration of this promising technology.&nbsp;&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/22/2024<br> Modified by: Sumeet&nbsp;K&nbsp;Gupta</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The advancements in neural computing have led to unprecedented performance of artificial intelligence (AI) platforms leading to super-human accuracies for several tasks. However, this success bears a concomitant cost of enormous energy requirements to process AI workloads. To counter the issues associated with AI hardware design, especially for resource-constrained edge devices, innovations at the hardware and algorithm levels are needed that can achieve quantum improvements in the energy efficiency, while sustaining acceptable levels of accuracy. At the hardware level, novel technologies, circuits and architectures are needed that can push the boundaries of the state-of-the-art solutions by enhancing the computing robustness, energy efficiency, and scalability. To that end, emerging non-volatile memory technologies have shown a large potential to circumvent the limitations of standard transistors, albeit with their own design issues. Furthermore, merging data storage and processing (as opposed to having separate memory and processing modules, as in standard computing architectures) has attracted a lot of attention for AI accelerator design. However, memory-compute fusion leads to other design challenges, which need to be tackled to harness of the full potential of this technique. Such hardware-level advancements need to be complemented by training schemes that can achieve systemic improvements in energy efficiency.    This project addressed this need by conducting a comprehensive exploration of hafnium zirconium oxide (HZO)-based ferroelectric technology for the design of energy efficient artificial intelligence (AI) accelerators. The approach included developing cross-layer design solutions and conducting a comprehensive design space exploration spanning experimental characterization, simulation-based design and analysis of ferroelectric transistors and capacitors, circuit/architecture designs enabling energy efficient computations and hardware-aware training to counter the effects of device-circuit non-idealities. The team fabricated HZO-based devices and performed extensive characterizations to understand their characteristics, including device-to-device variability. Techniques based on interface optimization were established to lower the programming voltage (thereby, enhancing the energy efficiency). The experimental studies were coupled with simulation-based analyses. In particular, the static and dynamic characteristics of HZO-based ferroelectric transistors and capacitors were analyzed to understand the underlying physical mechanisms and establish the device optimization strategies to cater to the need of target neural accelerators. To achieve this, this project developed 3D phase-field models for HZO-based devices accounting for polycrystallinity of HZO, multi-domain effects, anisotropic elastic interactions, and dynamic behavior. Based on these models, the team unraveled several key features and design strategies for HZO-based transistors and capacitors, including the effect of HZO thickness on the device behavior, the dependence of HZO characteristics on the attributes of applied voltage pulses, device-to-device variations and techniques to reduce them, and others. The team also analyzed the unique dynamic characteristics which show deviation from the first-order circuits used in standard spiking neural networks. Based on the device analysis, several hardware-algorithm co-design techniques were established to enhance the accuracy and energy efficiency of the neural accelerators. These techniques included (i) designing computing-in-memory arrays and macros based on the co-optimization of HZO thickness, number of bits stored per device, memory array size and peripheral circuits (ii) incorporating adaptability in HZO-based spiking neurons, (iii) designing compact and low power oscillatory neurons and their coupled networks and (iv) developing technology-aware training methodologies to exploit their unique features (such as non-first-order behavior of HZO neurons to reduce the energy consumption of spiking neural networks) or to counter their limitations (such as low distinguishability of HZO-based capacitors). The proposed designs for the computing-in-memory macros and oscillatory/spiking neurons established several key cross-layer design insights for ferroelectric-based neural accelerators and led to a significant enhancement in computation robustness and energy efficiency. This, coupled with the hardware-aware training, showed an improvement in system accuracy and/or reduction in power consumption.    The enhancement in energy efficiency of neural accelerators achieved via the proposed design solutions can be immensely beneficial for a broad range of edge applications that rely on efficient data processing. These include computer aided diagnosis, speech/face recognition, data classification etc. Such systems will directly impact critical areas such as healthcare, security and defense. In addition, this project has led to the participation and training of multiple graduate students (including a female student), who, through this research, got an in-depth knowledge on ferroelectric transistors and capacitors, and their applications in neural computing. This will prepare them for their future career and leadership positions in engineering and technology. Furthermore, the research outcomes of this project were utilized to enhance the graduate curriculum by integrating them in a course on Advanced VLSI Design offered by the Elmore Family School of Electrical and Computer Engineering at Purdue University. Outreach activities such as organization of workshops were conducted to provide exposure to emerging technologies and their role in future computing to a broader class of engineers and researchers. The circuit-compatible models for HZO-devices developed in this project were shared with other researchers to enable their exploration of this promising technology.        Last Modified: 07/22/2024       Submitted by: SumeetKGupta]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

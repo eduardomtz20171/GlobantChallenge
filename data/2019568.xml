@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Fourth Wall Optics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to explore translation of Organic Light Emitting Diodes (OLEDs) and other LEDs.  The use of Virtual Reality and Augmented Reality (VR/AR) goggles is growing in education, industrial usage, and entertainment. More efficient and brighter displays would greatly increase the functionality of these devices. High-efficiency displays would enable mobile goggles without a need to be connected to an external power source. Brighter OLED displays with higher resolution would be especially important for AR to enable outdoor usage. LEDs for general purpose lighting are already the most energy efficient and longest lasting sources. The proposed technology would further increase the energy efficiency of these bulbs even further. Brighter light sources could also be used in specialty applications, such as projector lamps, automobiles, or holographic displays.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on technology to improve a light emitting diode. Light extraction from Organic Light Emitting Diodes (OLEDs) and other LEDs is limited because the light-emitting material and other constituent layers of the device have higher indices of refraction than air. This leads to total internal reflection and loss of generated light, reducing the efficiency and potentially reducing the operating lifetime. Optics developed from metamaterials (meta-optics) can control generated light in a manner unachievable with conventional optics. By steering light away from the modes leading to total internal reflection, new levels of light emission efficiency can be achieved. The proposed technique offers relatively simple integration with existing technology, along with compatibility with many existing fabrication schemes for OLEDs and LEDs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019568</AwardID>
+<Investigator>
+<FirstName>Ananth</FirstName>
+<LastName>Dodabalapur</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ananth Dodabalapur</PI_FULL_NAME>
+<EmailAddress><![CDATA[ananth@mer.utexas.edu]]></EmailAddress>
+<NSF_ID>000376924</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121684</ZipCode>
+<StreetAddress><![CDATA[2501 Speedway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>New and advanced displays are sought for a number of application areas such as augmented reality systems, smart watches, and cars.&nbsp; One type of display that is not sufficiently developed yet is a highly efficient display in which the light is directed normal to the surface (or vertically up), with very little going sideways.&nbsp; This will benefit applications in which the viewer position is fixed with respect to the display.&nbsp; Examples of such displays are in head-mounted displays for augmented reality systems, in smart watches that need to be clearly visible in bright sunshine, automotive displays where the driver position is almost fixed.&nbsp;</p> <p>The goal of our work is focused on using optics developed from metamaterials (meta-optics) to control light in a manner unachievable by conventional optics. We have demonstrated that by steering light away from the directions that would lead to total internal reflection it is possible to greatly increase light emission efficiency compared to the case without any meta-optics. For very high emission efficiency for a relatively narrow band of wavelengths, we have achieved a 4.8x increase in light emission. Our main technical innovation is the combination of metasurfaces with planar microcavities to create extremely sharp color control with high precision. Microcavities by themselves create narrowband emission patterns but combining them with metasurfaces allows us to both enhance the emission efficiency and control the cavity resonance. Thus, for a single microcavity, we can tune the color emission using a metasurface layer allowing for very small pixels. Planar microcavities impart a directionality to the emitted light that will facilitate subsequent optical processing.</p> <p>The origin of this innovation is from research conducted at the University of Texas at Austin, specifically as part of the NASCENT Engineering Research Center, an NSF funded ERC. The initial work was to control light for both light absorbing devices such as photodetectors and light emitters such as LEDs. Extending the NASCENT work, and with some subsequent industrial support from Samsung Display Co., we further directed the work towards OLEDs.&nbsp; The NSF Icorps grant helped to evaluate the commercial prospects of this technology.&nbsp;&nbsp; While it is still early stage for large scale commercialization, the basic ideas will likely be used in future.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/08/2024<br> Modified by: Ananth&nbsp;Dodabalapur</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2019568/2019568_10678546_1723119967828_NSF_Image_1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2019568/2019568_10678546_1723119967828_NSF_Image_1--rgov-800width.jpg" title="Advantages of a Meta OLED over a conventional OLED"><img src="/por/images/Reports/POR/2024/2019568/2019568_10678546_1723119967828_NSF_Image_1--rgov-66x44.jpg" alt="Advantages of a Meta OLED over a conventional OLED"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This figure illustrates the main advantages of a metasurface OLED (Meta OLED) compared to a conventional OLED.  In a meta OLED, the light emission is more directional with a much larger part being emitted vertically.  This leads to brighter images, for the same power consumption.</div> <div class="imageCredit">Dr. Xin Xu</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Ananth&nbsp;Dodabalapur <div class="imageTitle">Advantages of a Meta OLED over a conventional OLED</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  New and advanced displays are sought for a number of application areas such as augmented reality systems, smart watches, and cars. One type of display that is not sufficiently developed yet is a highly efficient display in which the light is directed normal to the surface (or vertically up), with very little going sideways. This will benefit applications in which the viewer position is fixed with respect to the display. Examples of such displays are in head-mounted displays for augmented reality systems, in smart watches that need to be clearly visible in bright sunshine, automotive displays where the driver position is almost fixed.   The goal of our work is focused on using optics developed from metamaterials (meta-optics) to control light in a manner unachievable by conventional optics. We have demonstrated that by steering light away from the directions that would lead to total internal reflection it is possible to greatly increase light emission efficiency compared to the case without any meta-optics. For very high emission efficiency for a relatively narrow band of wavelengths, we have achieved a 4.8x increase in light emission. Our main technical innovation is the combination of metasurfaces with planar microcavities to create extremely sharp color control with high precision. Microcavities by themselves create narrowband emission patterns but combining them with metasurfaces allows us to both enhance the emission efficiency and control the cavity resonance. Thus, for a single microcavity, we can tune the color emission using a metasurface layer allowing for very small pixels. Planar microcavities impart a directionality to the emitted light that will facilitate subsequent optical processing.   The origin of this innovation is from research conducted at the University of Texas at Austin, specifically as part of the NASCENT Engineering Research Center, an NSF funded ERC. The initial work was to control light for both light absorbing devices such as photodetectors and light emitters such as LEDs. Extending the NASCENT work, and with some subsequent industrial support from Samsung Display Co., we further directed the work towards OLEDs. The NSF Icorps grant helped to evaluate the commercial prospects of this technology. While it is still early stage for large scale commercialization, the basic ideas will likely be used in future.        Last Modified: 08/08/2024       Submitted by: AnanthDodabalapur]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

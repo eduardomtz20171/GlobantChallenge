@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist.  The title of the project for this fellowship to Alexander J Dunlap is "Problems related to KPZ universality and Liouville quantum gravity."  The host institution for the fellowship is New York University, Courant Institute, and the sponsoring scientist is Jean-Christophe Mourrat.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002118</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Dunlap</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander J Dunlap</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000808781</NSF_ID>
+<StartDate>03/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Dunlap, Alexander Joseph]]></Name>
+<CityName>Stanford</CityName>
+<ZipCode>94305</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University Courant Institute of Mathematical Sciences]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121185</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project investigated the study of stochastic PDEs, in particular   those related to the stochastic heat, KPZ, and Burgers equations. These   equations describe a variety of disordered systems and, in one   dimension, are related to the study of the KPZ universality class.</p>  <p>One  major direction that was developed (in joint works with Yu Gu  and with  Cole Graham) was the study of nonlinear stochastic heat  equations in two  space dimensions. This work elucidated the role of  scale invariance and  noise attenuation in the marginal disorder regime  of disordered  systems.</p>  <p>A second major result of the project (in a joint work  with Yu Gu and  Tomasz Komorowski) was the establishment of the t^{2/3}  growth of the  variance of the KPZ equation on a torus of size ct^{2/3},  where c is a  sufficiently small constant. The proof was based on  stochastic analysis  techniques, which developed the use of stochastic  analysis in the  study of growth exponents of the KPZ equation.</p>  <p>A  third direction was the study (in a joint work with Yu Gu) of a  quenched  local limit theorem for stochastic flows with white-in-time  forcing.  Along the way, this work developed an analogy between the  quenched  density of a particle in a white-in-time environment and the  stochastic  heat equation in a higher dimension.</p>  <p>The PI also pursued a second  strand of research on the analysis of  sum-of-norms clustering, with  results applicable to unsupervised  learning.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/30/2024<br> Modified by: Alexander&nbsp;J&nbsp;Dunlap</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The project investigated the study of stochastic PDEs, in particular   those related to the stochastic heat, KPZ, and Burgers equations. These   equations describe a variety of disordered systems and, in one   dimension, are related to the study of the KPZ universality class.    One  major direction that was developed (in joint works with Yu Gu  and with  Cole Graham) was the study of nonlinear stochastic heat  equations in two  space dimensions. This work elucidated the role of  scale invariance and  noise attenuation in the marginal disorder regime  of disordered  systems.    A second major result of the project (in a joint work  with Yu Gu and  Tomasz Komorowski) was the establishment of the t^{2/3}  growth of the  variance of the KPZ equation on a torus of size ct^{2/3},  where c is a  sufficiently small constant. The proof was based on  stochastic analysis  techniques, which developed the use of stochastic  analysis in the  study of growth exponents of the KPZ equation.    A  third direction was the study (in a joint work with Yu Gu) of a  quenched  local limit theorem for stochastic flows with white-in-time  forcing.  Along the way, this work developed an analogy between the  quenched  density of a particle in a white-in-time environment and the  stochastic  heat equation in a higher dimension.    The PI also pursued a second  strand of research on the analysis of  sum-of-norms clustering, with  results applicable to unsupervised  learning.         Last Modified: 12/30/2024       Submitted by: AlexanderJDunlap]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

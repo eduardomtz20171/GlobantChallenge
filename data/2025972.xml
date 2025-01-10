@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  An Economic Optical Fiber Solution to the Last Mile Problem]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>992848.00</AwardTotalIntnAmount>
+<AwardAmount>1492848</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Benaiah Schrag</SignBlockName>
+<PO_EMAI>bschrag@nsf.gov</PO_EMAI>
+<PO_PHON>7032928323</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase II project develops a new method to distribute “last mile” fiber optic communication lines. Existing fiber installation methods like trenching require extensive approvals and are labor-intensive, disruptive, and cost-prohibitive, especially in underserved or remote areas. “Last mile” fiber is the most expensive part of any installation with a market valued at over $50 billion. This solution enables a quick, low-cost deployment of optical fiber directly onto pavement without cutting into the surface, effectively turning a barrier into a pathway. This new method will enable ubiquitous fiber optic connectivity and will expand the reach of fiber optic networks through the “last mile”. By lowering fiber deployment costs and improving efficiency, this technology will accelerate the rollout of 5G, enable smart city growth, and deliver broadband access to rural areas. This solution extends the benefits of fast communications to previously inaccessible locations, connecting businesses, homes, hospitals, and schools,  providing access to information, knowledge, and opportunity for everyone.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this project is to validate a new fiber installation method leveraging existing road networks. Using pavement as the base, low-profile fiber cables are bonded to the surface and protected against traffic and weather by layers of durable coatings. Fiber links can be installed quickly on-demand with an installation machine that requires no digging and minimal disruption. The research objectives of this project are to build and test three prototype machines in the field and to iterate on design.  The research includes using the machines to install fiber, test pavement transitions, and compare costs and speed against other installation techniques. The anticipated technical results will expand understanding of machine utility, improve the user interface, verify the suitability, and validate economics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025972</AwardID>
+<Investigator>
+<FirstName>Phillip</FirstName>
+<LastName>Turner</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Phillip Turner</PI_FULL_NAME>
+<EmailAddress><![CDATA[phillip@traxyl.com]]></EmailAddress>
+<NSF_ID>000712613</NSF_ID>
+<StartDate>09/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[TRAXyL, Inc.]]></Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>201554037</ZipCode>
+<PhoneNumber>7035850269</PhoneNumber>
+<StreetAddress><![CDATA[7669 LIMESTONE DR]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 115]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QNTNY75295N8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRAXYL INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QNTNY75295N8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[TRAXyL, Inc.]]></Name>
+<CityName>Warrenton</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>201874485</ZipCode>
+<StreetAddress><![CDATA[6148 Mint Springs Dr.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537300</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>165E</Code>
+<Text>SBIR Phase IIB</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7794</Code>
+<Text>NETWORK SCIENCE &amp; ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01AB2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~992848</FUND_OBLG>
+<FUND_OBLG>2023~500000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The rapid growth and demand for data connectivity to endpoints like homes, businesses, cameras, sensors, signage, lights, and vehicles has exploded and strained the ability of the telecom and cabling industries to keep up. Getting connectivity to these endpoints using traditional cabling techniques poses significant challenges. The net effect is generally regarded as the last-mile problem, which is the cost, time, and effort needed to get to the last-mile.</p> <p>The challenges that traditional techniques face include long and drawn-out permitting processes. As there is the potential to damage existing underground utilities and pavement, the permitting teams are overwhelmed with the high number of applications. With existing utilities often poorly, there is a high likelihood of design conflicts that require time-consuming utility locate activities.</p> <p>During any underground installation, progress can be slow due to shallow underground rock, high water tables, obstacle avoidance, surface restoration of any trenched areas, and increased manpower that utilize complicated heavy equipment. With aerial installation, any poles not already at capacity often need repair or replacement. Additionally, any installation work, whether underground or aerial, is done while having to deal with traffic disrupted by the construction efforts.</p> <p>TRAXyL was founded to address these installation challenges with a product called FiberTRAX. The concept was to utilize the existing pavement infrastructure, and piggyback fiber along the paved road network. TRAXyL desired to turn existing obstacles like pavement and roads into viable pathways for connectivity, with installations as simple at &ldquo;painting&rdquo; a line marking along the road.</p> <p>During Phase I research, with the first iteration of the product, the fiber cable was bonded to the pavement surface and then covered with a protective Top Coat that cured and hardened within the hour. Throughout the Phase II period, TRAXyL evolved the technology and built automated installation equipment called TRAXtors. During the Phase II and IIB periods, TRAXyL also improved FiberTRAX so that it was flush to the surface. Now, a small fingernail-sized &ldquo;etch&rdquo; is made within the surface-level pavement. With FiberTRAX, fiber cables can now be embedded into the pavement surface and protected with the Top Coat.</p> <p>During this Phase II effort TRAXyL was able to build equipment that was used to perform FiberTRAX installations for US federal customers and the commercial telecom industry. When using FiberTRAX instead of conventional methods like trenching, boring, and horizontal drilling, there was an appreciable reduction in cost, time, and manpower. As customers began understanding the benefits of FiberTRAX, they became better equipped to estimate projects using the new technique. Installation projects that were once considered unattainable due to complexities or cost were completed quickly and within budget. FiberTRAX makes fiber connectivity on-demand&rdquo; possible in hours and days, instead of weeks and months, and at a low installation price point.</p> <p>During the Phase IIB effort, TRAXyL successfully demonstrated a variant of FiberTRAX, called DuctTRAX, where a microduct was etched into the pavement using a TRAXtor. After the installation of the microduct, a fiber cable was &ldquo;jetted&rdquo; through from end to end. Through continuous discussions with customers, it was determined that this type of installation is often desired, as it provides added durability and repairability. If a fiber cable break occurs, it can be quickly localized, exposed, and the broken cable can be easily removed, the microduct can be butt spliced together and reinstated, and then a new fiber cable can be blown/jetted through the repaired duct and reconnected at the endpoints.</p> <p>During the performance period of this Phase II and IIB award, TRAXyL installed over 65,000 feet of FiberTRAX for federal, commercial, state, and local customers. Some of these installations include airport connectivity, base security, business internet access, campus network expansion and interconnection, fiber to the home, base flightline connectivity, and shipping port connectivity and security enhancement.</p> <p>TRAXyL will continue evolving the technologies developed under this research effort. TRAXyL anticipates making TRAXtors and installation procedures and tools commercially available to contractors and installers to enhance their cabling offerings and help them grow within the industry. Overall, TRAXyL, increased the types of infrastructure that can be installed, adding value to embedded surface-level infrastructure compared to traditional methods, and educated the industry on the new installation technique.</p> <p>TRAXyL offers fiber network design, FiberTRAX installation planning, FiberTRAX installation equipment to include TRAXtors and tools, specialized training, and field installation support for industry contractors and installers. TRAXyL continues to develop FiberTRAX installation equipment, tools, and materials with the goal of making them available from here to anywhere.</p> <p>If you have a project that can benefit from this innovative installation approach to cabling and conduit, please contact TRAXyL at +1(844) 4-TRAXYL (+1-844-487-2995) or emailing: info [at] traxyl.com.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/21/2024<br> Modified by: Phillip&nbsp;Turner</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2025972/2025972_10706511_1732217374061_1_TRAXtor_Installing_DuctTRAX--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2025972/2025972_10706511_1732217374061_1_TRAXtor_Installing_DuctTRAX--rgov-800width.jpg" title="TRAXtor Installing DuctTRAX"><img src="/por/images/Reports/POR/2024/2025972/2025972_10706511_1732217374061_1_TRAXtor_Installing_DuctTRAX--rgov-66x44.jpg" alt="TRAXtor Installing DuctTRAX"></a> <div class="imageCaptionContainer"> <div class="imageCaption">TRAXtor Installing DuctTRAX</div> <div class="imageCredit">TRAXyL INC</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Phillip&nbsp;Turner <div class="imageTitle">TRAXtor Installing DuctTRAX</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2025972/2025972_10706511_1732217905323_5_Fiber_To_The_Home_Project_In_Arkansas--rgov-214x142.png" original="/por/images/Reports/POR/2024/2025972/2025972_10706511_1732217905323_5_Fiber_To_The_Home_Project_In_Arkansas--rgov-800width.png" title="Fiber to the Home Project in Arkansas"><img src="/por/images/Reports/POR/2024/2025972/2025972_10706511_1732217905323_5_Fiber_To_The_Home_Project_In_Arkansas--rgov-66x44.png" alt="Fiber to the Home Project in Arkansas"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Fiber to the Home Project in Arkansas</div> <div class="imageCredit">TRAXyL INC</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Phillip&nbsp;Turner <div class="imageTitle">Fiber to the Home Project in Arkansas</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2025972/2025972_10706511_1732217751226_4_Fiber_Cable_Jetted_through_DuctTRAX--rgov-214x142.JPG" original="/por/images/Reports/POR/2024/2025972/2025972_10706511_1732217751226_4_Fiber_Cable_Jetted_through_DuctTRAX--rgov-800width.JPG" title="Fiber Cable Jetted through DuctTRAX"><img src="/por/images/Reports/POR/2024/2025972/2025972_10706511_1732217751226_4_Fiber_Cable_Jetted_through_DuctTRAX--rgov-66x44.JPG" alt="Fiber Cable Jetted through DuctTRAX"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Fiber Cable Jetted Through DuctTRAX</div> <div class="imageCredit">TRAXyL INC</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Phillip&nbsp;Turner <div class="imageTitle">Fiber Cable Jetted through DuctTRAX</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2025972/2025972_10706511_1732217599517_3_DuctTRAX_Installation_at_Airport--rgov-214x142.JPG" original="/por/images/Reports/POR/2024/2025972/2025972_10706511_1732217599517_3_DuctTRAX_Installation_at_Airport--rgov-800width.JPG" title="DuctTRAX installation at Airport"><img src="/por/images/Reports/POR/2024/2025972/2025972_10706511_1732217599517_3_DuctTRAX_Installation_at_Airport--rgov-66x44.JPG" alt="DuctTRAX installation at Airport"></a> <div class="imageCaptionContainer"> <div class="imageCaption">DuctTRAX installation at Airport</div> <div class="imageCredit">TRAXyL INC</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Phillip&nbsp;Turner <div class="imageTitle">DuctTRAX installation at Airport</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2025972/2025972_10706511_1732217506097_2_TRAXyL_Etching_System--rgov-214x142.JPG" original="/por/images/Reports/POR/2024/2025972/2025972_10706511_1732217506097_2_TRAXyL_Etching_System--rgov-800width.JPG" title="TRAXyL Etching System"><img src="/por/images/Reports/POR/2024/2025972/2025972_10706511_1732217506097_2_TRAXyL_Etching_System--rgov-66x44.JPG" alt="TRAXyL Etching System"></a> <div class="imageCaptionContainer"> <div class="imageCaption">TRAXyL Etching System</div> <div class="imageCredit">TRAXyL INC</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Phillip&nbsp;Turner <div class="imageTitle">TRAXyL Etching System</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The rapid growth and demand for data connectivity to endpoints like homes, businesses, cameras, sensors, signage, lights, and vehicles has exploded and strained the ability of the telecom and cabling industries to keep up. Getting connectivity to these endpoints using traditional cabling techniques poses significant challenges. The net effect is generally regarded as the last-mile problem, which is the cost, time, and effort needed to get to the last-mile.   The challenges that traditional techniques face include long and drawn-out permitting processes. As there is the potential to damage existing underground utilities and pavement, the permitting teams are overwhelmed with the high number of applications. With existing utilities often poorly, there is a high likelihood of design conflicts that require time-consuming utility locate activities.   During any underground installation, progress can be slow due to shallow underground rock, high water tables, obstacle avoidance, surface restoration of any trenched areas, and increased manpower that utilize complicated heavy equipment. With aerial installation, any poles not already at capacity often need repair or replacement. Additionally, any installation work, whether underground or aerial, is done while having to deal with traffic disrupted by the construction efforts.   TRAXyL was founded to address these installation challenges with a product called FiberTRAX. The concept was to utilize the existing pavement infrastructure, and piggyback fiber along the paved road network. TRAXyL desired to turn existing obstacles like pavement and roads into viable pathways for connectivity, with installations as simple at painting a line marking along the road.   During Phase I research, with the first iteration of the product, the fiber cable was bonded to the pavement surface and then covered with a protective Top Coat that cured and hardened within the hour. Throughout the Phase II period, TRAXyL evolved the technology and built automated installation equipment called TRAXtors. During the Phase II and IIB periods, TRAXyL also improved FiberTRAX so that it was flush to the surface. Now, a small fingernail-sized etch is made within the surface-level pavement. With FiberTRAX, fiber cables can now be embedded into the pavement surface and protected with the Top Coat.   During this Phase II effort TRAXyL was able to build equipment that was used to perform FiberTRAX installations for US federal customers and the commercial telecom industry. When using FiberTRAX instead of conventional methods like trenching, boring, and horizontal drilling, there was an appreciable reduction in cost, time, and manpower. As customers began understanding the benefits of FiberTRAX, they became better equipped to estimate projects using the new technique. Installation projects that were once considered unattainable due to complexities or cost were completed quickly and within budget. FiberTRAX makes fiber connectivity on-demand possible in hours and days, instead of weeks and months, and at a low installation price point.   During the Phase IIB effort, TRAXyL successfully demonstrated a variant of FiberTRAX, called DuctTRAX, where a microduct was etched into the pavement using a TRAXtor. After the installation of the microduct, a fiber cable was jetted through from end to end. Through continuous discussions with customers, it was determined that this type of installation is often desired, as it provides added durability and repairability. If a fiber cable break occurs, it can be quickly localized, exposed, and the broken cable can be easily removed, the microduct can be butt spliced together and reinstated, and then a new fiber cable can be blown/jetted through the repaired duct and reconnected at the endpoints.   During the performance period of this Phase II and IIB award, TRAXyL installed over 65,000 feet of FiberTRAX for federal, commercial, state, and local customers. Some of these installations include airport connectivity, base security, business internet access, campus network expansion and interconnection, fiber to the home, base flightline connectivity, and shipping port connectivity and security enhancement.   TRAXyL will continue evolving the technologies developed under this research effort. TRAXyL anticipates making TRAXtors and installation procedures and tools commercially available to contractors and installers to enhance their cabling offerings and help them grow within the industry. Overall, TRAXyL, increased the types of infrastructure that can be installed, adding value to embedded surface-level infrastructure compared to traditional methods, and educated the industry on the new installation technique.   TRAXyL offers fiber network design, FiberTRAX installation planning, FiberTRAX installation equipment to include TRAXtors and tools, specialized training, and field installation support for industry contractors and installers. TRAXyL continues to develop FiberTRAX installation equipment, tools, and materials with the goal of making them available from here to anywhere.   If you have a project that can benefit from this innovative installation approach to cabling and conduit, please contact TRAXyL at +1(844) 4-TRAXYL (+1-844-487-2995) or emailing: info [at] traxyl.com.        Last Modified: 11/21/2024       Submitted by: PhillipTurner]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

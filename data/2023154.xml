@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GP-UP: Applied Geosciences at the Soil, Water and Energy Nexus]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>295878.00</AwardTotalIntnAmount>
+<AwardAmount>295878</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06010000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>RISE</Abbreviation>
+<LongName>Div of Res, Innovation, Synergies, &amp; Edu</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Brandon Jones</SignBlockName>
+<PO_EMAI>mbjones@nsf.gov</PO_EMAI>
+<PO_PHON>7032924713</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Some of the most critical issues facing society are related to the geosciences, yet the future U.S. geoscience workforce is expected to be insufficient to meet demand and not representative of the Nation’s diverse talent pool. Individuals from racially and ethnically diverse groups face barriers to entering and remaining in the geosciences; this, in part, is due to a lack of mentoring and knowledge of geoscience careers. This program addresses these barriers by providing undergraduate students with authentic, career-based experiences that address local, community-oriented geoscience problems. The College of Wooster Department of Earth Sciences is partnering with regional government agencies, non-profit organizations, and employers in the environmental geoscience industry to provide students with hands-on summer internships and professional development opportunities. The primary goal is to build a bridge from the first year of college to a geoscience major. The PIs hope to establish a program that can be readily transferred to other colleges and increase the numbers students from underrepresented groups majoring in the geosciences.&lt;br/&gt;&lt;br/&gt;This project will establish a geoscience learning ecosystem (GLE) that addresses local community-oriented problems and increases the number of underrepresented students earning Earth Science degrees at The College of Wooster. The GLE focuses on local needs at the nexus of soil, water, and energy within our rural, agricultural community. This framework provides a societally-relevant driver for community-oriented student research projects while supplying relevant workforce experience for our students. As students interact with the GLE at critical points in their educational development, they can begin to imagine themselves in successful careers as geoscientists.&lt;br/&gt;Students will participate in a coordinated program of summer internships, geoscience career exploration experiences, and peer mentoring that provides an intentional pathway to the major, develops students’ geo-STEM identities, increases students’ awareness of geoscience careers, and equips students with skills and professional networks that are directly transferrable to the geoscience workforce. By integrating evidence-based strategies for broadening participation with a framework that leverages many structures existing at predominantly white and primarily undergraduate institutions, our transferable program has the potential to transform how these institutions approach broadening participation of racial and ethnic minorities in the geosciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2023154</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Wiles</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory C Wiles</PI_FULL_NAME>
+<EmailAddress><![CDATA[gwiles@wooster.edu]]></EmailAddress>
+<NSF_ID>000147550</NSF_ID>
+<StartDate>08/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Meagen</FirstName>
+<LastName>Pollock</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Meagen Pollock</PI_FULL_NAME>
+<EmailAddress><![CDATA[mpollock@wooster.edu]]></EmailAddress>
+<NSF_ID>000531416</NSF_ID>
+<StartDate>08/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[College of Wooster]]></Name>
+<CityName>WOOSTER</CityName>
+<ZipCode>44691</ZipCode>
+<PhoneNumber>3302632293</PhoneNumber>
+<StreetAddress><![CDATA[1101 N BEVER ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U6CKP43FKKE7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE COLLEGE OF WOOSTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U6CKP43FKKE7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[College of Wooster]]></Name>
+<CityName/>
+<StateCode>OH</StateCode>
+<ZipCode>446912363</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>199800</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~295878</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>We partnered with local conservation nonprofits to address community challenges while enhancing educational pathways for underrepresented students in the Earth Science program at The College of Wooster. Together with our community partners, we offered a coordinated program of summer internships, career-focused experiential learning courses, and peer mentoring, all designed to foster students' identities in geo-STEM fields, increase self-efficacy, and broaden awareness of career opportunities in the geosciences.</p>  <p><strong>&nbsp;</strong></p>  <p>We developed mentoring and experiential learning strategies to support the success of marginalized students in&nbsp;the&nbsp;geosciences&nbsp;using&nbsp;Social Cognitive Career Theory.&nbsp;This approach served&nbsp;as a guiding framework&nbsp;in designing&nbsp;activities and reflections that effectively enhanced&nbsp;the&nbsp;students' career awareness and beliefs in their abilities to become geoscientists. By using these activities and reflections in peer mentoring and&nbsp;in&nbsp;cohort-based internships, we have shown how liberal arts colleges can boost representation in&nbsp;the&nbsp;Earth Sciences and encourage more students to pursue geoscience careers.</p>  <p><strong>&nbsp;</strong></p>  <p>The project has had far-reaching implications, particularly in enhancing diversity within the geoscience workforce. Over the&nbsp;duration&nbsp;of the award, we:</p>  <ol>  <li><strong>Enhanced Representation in Earth Science Majors</strong>: We saw a significant increase in the number of Earth Science graduates from marginalized backgrounds.&nbsp;These gains included&nbsp;increases in graduates&nbsp;of&nbsp;the following demographic groups: persons excluded by ethnicity or race (11% -&gt; 18%), Pell-eligible (20% -&gt; 30%), and first-generation (0% -&gt; 17%).</li>  <li><strong>Developed Community Partnerships</strong>: We formed long-term relationships with local conservation nonprofits, providing students with hands-on experiences&nbsp;where they&nbsp;applied academic skills to community-oriented challenges. We increased awareness of the regional impacts of climate change and generated data to support conservation efforts.</li>  <li><strong>Cultivated an Inclusive Campus Culture</strong>: We fostered an inclusive environment in our summer internship program by revising the application process&nbsp;to be more welcoming&nbsp;and&nbsp;offered&nbsp;workshops on belonging in the workplace.&nbsp;Fourteen geoscience career-related reflective exercises were developed that we are using in our research mentoring and courses.</li>  <li><strong>Facilitated Professional Development</strong>: We provided training for over 50 undergraduate students&nbsp;that included presentations at&nbsp;professional conferences,&nbsp;and workshops&nbsp;designed to enhance&nbsp;their workforce skills (e.g., safety training, stormwater management certification, GIS skills, data management, and communication).</li>  </ol>  <p>Overall, we&rsquo;ve shown how liberal arts colleges can effectively use identity- and career-focused strategies in their highly relational, experiential learning environments to increase representation in the geoscience workforce.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/26/2024<br> Modified by: Meagen&nbsp;Pollock</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  We partnered with local conservation nonprofits to address community challenges while enhancing educational pathways for underrepresented students in the Earth Science program at The College of Wooster. Together with our community partners, we offered a coordinated program of summer internships, career-focused experiential learning courses, and peer mentoring, all designed to foster students' identities in geo-STEM fields, increase self-efficacy, and broaden awareness of career opportunities in the geosciences.        We developed mentoring and experiential learning strategies to support the success of marginalized students inthegeosciencesusingSocial Cognitive Career Theory.This approach servedas a guiding frameworkin designingactivities and reflections that effectively enhancedthestudents' career awareness and beliefs in their abilities to become geoscientists. By using these activities and reflections in peer mentoring andincohort-based internships, we have shown how liberal arts colleges can boost representation intheEarth Sciences and encourage more students to pursue geoscience careers.        The project has had far-reaching implications, particularly in enhancing diversity within the geoscience workforce. Over thedurationof the award, we:    Enhanced Representation in Earth Science Majors: We saw a significant increase in the number of Earth Science graduates from marginalized backgrounds.These gains includedincreases in graduatesofthe following demographic groups: persons excluded by ethnicity or race (11% - 18%), Pell-eligible (20% - 30%), and first-generation (0% - 17%).  Developed Community Partnerships: We formed long-term relationships with local conservation nonprofits, providing students with hands-on experienceswhere theyapplied academic skills to community-oriented challenges. We increased awareness of the regional impacts of climate change and generated data to support conservation efforts.  Cultivated an Inclusive Campus Culture: We fostered an inclusive environment in our summer internship program by revising the application processto be more welcomingandofferedworkshops on belonging in the workplace.Fourteen geoscience career-related reflective exercises were developed that we are using in our research mentoring and courses.  Facilitated Professional Development: We provided training for over 50 undergraduate studentsthat included presentations atprofessional conferences,and workshopsdesigned to enhancetheir workforce skills (e.g., safety training, stormwater management certification, GIS skills, data management, and communication).      Overall, weve shown how liberal arts colleges can effectively use identity- and career-focused strategies in their highly relational, experiential learning environments to increase representation in the geoscience workforce.         Last Modified: 11/26/2024       Submitted by: MeagenPollock]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

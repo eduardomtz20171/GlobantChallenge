@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Biogeochemical Processes in a Subsurface Hypersaline Environment near the Abiotic Fringe]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>158132.00</AwardTotalIntnAmount>
+<AwardAmount>158132</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Margaret Fraiser</SignBlockName>
+<PO_EMAI>mfraiser@nsf.gov</PO_EMAI>
+<PO_PHON>7032924660</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Deep groundwater environments contain a significant portion of Earth's biomass and the organisms therein participate in biogeochemical cycling of carbon and other elements. They are also among the candidate environments for the origin of life, i.e., for the transition from simple, abiotic chemical reactions to cellular, metabolic, replicants. This project is focused on deep (&gt;3km), ancient (1-2 billion-year-old), hypersaline fracture water, accessed via boreholes in a South African gold mine. Water-rock interactions in this system contribute to increased fluid salinity and generate hydrogen gas, methane, other short-chain hydrocarbons, and simple carbon-sulfur compounds that may be important precursors to life. This project will advance understanding of carbon cycling, saline groundwater (directly relevant to petroleum reservoirs), and the origin and early evolution of life on Earth. The project involves international collaboration and will engage both graduate and undergraduate students, with emphasis on recruiting minority/underrepresented groups.&lt;br/&gt;&lt;br/&gt;The goal of this project is to understand the interactions of abiotic and biotic processes occurring over a ~2-billion-year time scale in deep hypersaline fracture fluid environments. An initial suite of samples was collected from each of two brine boreholes. Further sampling will be conducted. Characterization of the samples will include identification and quantification of dissolved and volatile organic carbon compounds, stable isotopic analyses of inorganic and organic compounds and of fracture minerals, and radiometric dating of dissolved noble gases. On the biomass of at least one borehole, metagenomic, metatranscriptomic, metaproteomic, and lipidomic analyses, in addition to virome characterization, will be performed. The following hypotheses will be tested: 1) In the deeper, hotter (55°C) borehole where the biomass abundance is extremely low, an inventory of abiotic organic compounds formed by water-rock reactions over the past billions of years will be characterized for the first time; 2) In the shallower, cooler (48°C) borehole where the biomass abundance appears greater, the community will be supported by abiogenic hydrocarbons, exhibit a greater expression of osmotic regulation and phosphorous uptake genes, and possess lipids whose composition provide lower membrane permeability. This proposal's focus on the abiotic organic geochemistry and microbial cycling in hypersaline, hydrologically isolated, deep fracture fluids has direct applications to globally significant Precambrian hydrologic reservoirs, biodegradation of petroleum deposits, the origins and evolution of life in the subsurface, and the exploration for extant life on Mars and other planetary bodies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/17/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026853</AwardID>
+<Investigator>
+<FirstName>Bess</FirstName>
+<LastName>Ward</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bess B Ward</PI_FULL_NAME>
+<EmailAddress><![CDATA[bbw@princeton.edu]]></EmailAddress>
+<NSF_ID>000350146</NSF_ID>
+<StartDate>11/17/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tullis</FirstName>
+<LastName>Onstott</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tullis C Onstott</PI_FULL_NAME>
+<EmailAddress><![CDATA[tullis@princeton.edu]]></EmailAddress>
+<NSF_ID>000426578</NSF_ID>
+<StartDate>07/17/2020</StartDate>
+<EndDate>11/17/2021</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress><![CDATA[1 NASSAU HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName/>
+<StateCode>NJ</StateCode>
+<ZipCode>085442020</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>729500</Code>
+<Text>Geobiology &amp; Low-Temp Geochem</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7298</Code>
+<Text>COLLABORATIVE RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~47438</FUND_OBLG>
+<FUND_OBLG>2021~110694</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Deep groundwater environments contain a significant portion of Earth&rsquo;s biomass and the organisms therein participate in biogeochemical cycling of carbon and other elements. They are also among the candidate environments for the origin of life, i.e., for the transition from simple, abiotic chemical reactions to cellular, metabolic, replicants. This project focused on deep (&gt;3 km), ancient (1-2 billion-year-old), hypersaline fracture water, accessed via boreholes at the Moab Khotsong gold/uranium mine in the Witwatersrand Basin of South Africa. Water-rock interactions in this system contribute to increased fluid salinity and generate H<sub>2</sub>, CH<sub>4</sub>, other short-chain hydrocarbons, and simple carbon-sulfur compounds that may be important precursors to life. The goal of this project was to understand the interactions of biological and non-biological processes occurring over a ~2-billion-year time scale in these deep hypersaline fracture fluid environments.</p> <p>Samples were collected from two brine boreholes at ~3 km depth as well as a third saline borehole, an overlying fresh water dolomite aquifer at 1.2 km depth and mining water controls for contamination.&nbsp; The samples were characterized by identifying and quantifying dissolved and volatile organic carbon compounds, stable isotopic analyses of inorganic and organic compounds and of fracture minerals, and radiometric dating of dissolved noble gases. Metagenomic, single cell&nbsp;genomic analysis was performed to characterize the microbial community of the brine.</p> <p>We hypothesized that an inventory of abiotic organic compounds formed by water-rock and radiolytic reactions over the past billions of years would be present in the deeper, hotter (55&deg;C) borehole where the biomass is extremely low; and that the higher biomass community of the shallower, cooler (48&deg;C) borehole would be supported by non-biological hydrocarbons.</p> <p>This proposal's focus on the non-biological organic geochemistry and microbial cycling in hypersaline, hydrologically isolated, deep fracture fluids has direct applications to globally significant Precambrian hydrologic reservoirs, biodegradation of petroleum deposits, the origins and evolution of life in the subsurface, and the exploration for extant life on Mars and other planetary bodies.</p> <p>The Moab Khotsong brines contain a large, complex organic matter pool with evidence of both biological and non-biological sources.&nbsp; Both organic material and dissolved oxygen were likely produced by radiolysis and water-rock interactions. Dissolved organic carbon analyses from both brines revealed carbon isotope signatures and elemental ratios consistent with radiolytic reworking in uranium-rich systems. The brine organic matter concentrations at both deeper levels are two orders of magnitude higher than in the less saline, and lower temperature, dolomite aquifer in the same mine. The brine composition was distinct from organic drilling additives and service water used in drilling and cleaning throughout the mine, and thus could not be attributed to contamination during sampling. Amino acid content of the brines indicated formation by local microbial communities (i.e., not ancient), and thermodynamic models showed that heterotrophic metabolisms were favorable under the brine conditions. These results suggest that the large organic matter pool in the brines may support a low biomass microbial community, despite environmental conditions being outside of those typically conducive for optimum habitability (i.e. high temperatures (45 to 55&deg;C), extreme salt content (215 to 246 g/L TDS), and elevated levels of local radionuclide decay). The data indicate that the in situ microbial community may have survived in isolation for up to millions of years utilizing metabolic strategies depending on organic carbon and requiring very little oxygen.</p> <p>&nbsp;DNA sequencing of single cells allowed us to identify the taxonomic and metabolic diversity of 95 single cell amplified genomes (SAGs) from one low biomass (10<sup>3</sup>-10<sup>4</sup> cells/mL) and hypersaline (246 g/L) brine from 3.1 km depth in Moab Khotsong mine. The majority of SAGs were affiliated with three families of salt-loving (halophilic) families of bacteria: (<em>Halomondaceae </em>(58%), <em>Microbacteriaceae </em>(24%), and <em>Idiomarinaceae </em>(8%)). &nbsp;Identification of the functions encoded in their genomes revealed that their metabolic potential included aerobic respiration and several pathways for respiration in the absence of oxygen.&nbsp; These genetic potentials were consistent with the metabolic pathways that were compatible with thermodynamic modeling based on the chemical characteristics of the brines.</p> <p>The microorganisms of the Moab Khotsong brine did not possess the genetic potential for pathways for methane production or H<sub>2</sub> oxidation, suggesting this metabolic strategy is less favorable relative to other forms of oxidative metabolism. This contrasts with other less-saline fracture systems previously characterized in the Witwatersrand Basin, where support has been found for hydrogen-consuming methane production in subsurface microbial communities.&nbsp; It is in agreement, however, with micro-aerobic heterotrophic communities apparent in other global subsurface brine systems including the Canadian and Fennoscandian Shields.&nbsp; This suggests that utilization of radiolytically-derived oxidants in higher energy-yielding metabolic strategies is preferred under the higher salinity and temperature stress of Moab Khotsong. This work highlights the energetic favorability of microbial metabolism fueled by radiolytically generated substrates, including O2, and suggests subsurface brines with high radionuclide concentrations as can be habitable and sustainable environments over long timescales.</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/10/2024<br> Modified by: Bess&nbsp;B&nbsp;Ward</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Deep groundwater environments contain a significant portion of Earths biomass and the organisms therein participate in biogeochemical cycling of carbon and other elements. They are also among the candidate environments for the origin of life, i.e., for the transition from simple, abiotic chemical reactions to cellular, metabolic, replicants. This project focused on deep (3 km), ancient (1-2 billion-year-old), hypersaline fracture water, accessed via boreholes at the Moab Khotsong gold/uranium mine in the Witwatersrand Basin of South Africa. Water-rock interactions in this system contribute to increased fluid salinity and generate H2, CH4, other short-chain hydrocarbons, and simple carbon-sulfur compounds that may be important precursors to life. The goal of this project was to understand the interactions of biological and non-biological processes occurring over a ~2-billion-year time scale in these deep hypersaline fracture fluid environments.   Samples were collected from two brine boreholes at ~3 km depth as well as a third saline borehole, an overlying fresh water dolomite aquifer at 1.2 km depth and mining water controls for contamination. The samples were characterized by identifying and quantifying dissolved and volatile organic carbon compounds, stable isotopic analyses of inorganic and organic compounds and of fracture minerals, and radiometric dating of dissolved noble gases. Metagenomic, single cellgenomic analysis was performed to characterize the microbial community of the brine.   We hypothesized that an inventory of abiotic organic compounds formed by water-rock and radiolytic reactions over the past billions of years would be present in the deeper, hotter (55C) borehole where the biomass is extremely low; and that the higher biomass community of the shallower, cooler (48C) borehole would be supported by non-biological hydrocarbons.   This proposal's focus on the non-biological organic geochemistry and microbial cycling in hypersaline, hydrologically isolated, deep fracture fluids has direct applications to globally significant Precambrian hydrologic reservoirs, biodegradation of petroleum deposits, the origins and evolution of life in the subsurface, and the exploration for extant life on Mars and other planetary bodies.   The Moab Khotsong brines contain a large, complex organic matter pool with evidence of both biological and non-biological sources. Both organic material and dissolved oxygen were likely produced by radiolysis and water-rock interactions. Dissolved organic carbon analyses from both brines revealed carbon isotope signatures and elemental ratios consistent with radiolytic reworking in uranium-rich systems. The brine organic matter concentrations at both deeper levels are two orders of magnitude higher than in the less saline, and lower temperature, dolomite aquifer in the same mine. The brine composition was distinct from organic drilling additives and service water used in drilling and cleaning throughout the mine, and thus could not be attributed to contamination during sampling. Amino acid content of the brines indicated formation by local microbial communities (i.e., not ancient), and thermodynamic models showed that heterotrophic metabolisms were favorable under the brine conditions. These results suggest that the large organic matter pool in the brines may support a low biomass microbial community, despite environmental conditions being outside of those typically conducive for optimum habitability (i.e. high temperatures (45 to 55C), extreme salt content (215 to 246 g/L TDS), and elevated levels of local radionuclide decay). The data indicate that the in situ microbial community may have survived in isolation for up to millions of years utilizing metabolic strategies depending on organic carbon and requiring very little oxygen.   DNA sequencing of single cells allowed us to identify the taxonomic and metabolic diversity of 95 single cell amplified genomes (SAGs) from one low biomass (103-104 cells/mL) and hypersaline (246 g/L) brine from 3.1 km depth in Moab Khotsong mine. The majority of SAGs were affiliated with three families of salt-loving (halophilic) families of bacteria: (Halomondaceae (58%), Microbacteriaceae (24%), and Idiomarinaceae (8%)). Identification of the functions encoded in their genomes revealed that their metabolic potential included aerobic respiration and several pathways for respiration in the absence of oxygen. These genetic potentials were consistent with the metabolic pathways that were compatible with thermodynamic modeling based on the chemical characteristics of the brines.   The microorganisms of the Moab Khotsong brine did not possess the genetic potential for pathways for methane production or H2 oxidation, suggesting this metabolic strategy is less favorable relative to other forms of oxidative metabolism. This contrasts with other less-saline fracture systems previously characterized in the Witwatersrand Basin, where support has been found for hydrogen-consuming methane production in subsurface microbial communities. It is in agreement, however, with micro-aerobic heterotrophic communities apparent in other global subsurface brine systems including the Canadian and Fennoscandian Shields. This suggests that utilization of radiolytically-derived oxidants in higher energy-yielding metabolic strategies is preferred under the higher salinity and temperature stress of Moab Khotsong. This work highlights the energetic favorability of microbial metabolism fueled by radiolytically generated substrates, including O2, and suggests subsurface brines with high radionuclide concentrations as can be habitable and sustainable environments over long timescales.        Last Modified: 08/10/2024       Submitted by: BessBWard]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

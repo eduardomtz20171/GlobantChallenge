@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Targeted Infusion Project: Development of a Nuclear Science Facility for Training of Undergraduate Students in Critical Skills for National Need]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>399331.00</AwardTotalIntnAmount>
+<AwardAmount>399331</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EES</Abbreviation>
+<LongName>Div. of Equity for Excellence in STEM</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leroy Jones II</SignBlockName>
+<PO_EMAI>ljones@nsf.gov</PO_EMAI>
+<PO_PHON>7032924684</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Historically Black Colleges and Universities Undergraduate Program (HBCU-UP), through Targeted Infusion Projects, supports the development, implementation, and study of evidence-based innovative models and approaches for improving the preparation and success of HBCU undergraduate students so that they may pursue STEM graduate programs and/or careers. North Carolina Central University (NCCU) intends to enhance its nuclear science capabilities for the purpose of producing innovative research while training undergraduates in the field.  Results from the project may have application in nuclear medicine and support interdisciplinary STEM research.  Furthermore, the project provides the opportunity to prepare more scholars from underrepresented groups in STEM fields.  Successful implementation of the project will establish a model for other analogous programs at peer institutions.&lt;br/&gt;&lt;br/&gt;The overall goal is to establish a low-energy nuclear accelerator facility to enhance scientific research capabilities and expand science and engineering training at NCCU. The specific goals of the project are to (1) establish the facility to foster interdisciplinary research; (2) provide intensive skills and ancillary skills training in nuclear science to undergraduates, and (3) develop research capabilities in the production and study of medical radioisotopes.  The radioisotopes used in the medical diagnosis and treatment are typically produced in nuclear reactors or with a cyclotron. The most commonly used radioisotope for medical needs is technetium-99m (99mTc, a meta-stable isotope of element technetium). Novel methods to produce 99mTc are being investigated, including reactions initiated by particles incident on long-lived molybdenum isotope, 100Mo. This work will focus on development of technology to use low-energy particle accelerator which can produce particle beams up to 1 million-volt, or 1 MeV to produce 99mTc. The reaction of interest involves transforming a 100Mo nucleus into 99Mo (one less neutron) by bombarding it with a neutron beam and ejecting two neutrons from the target (n + 100Mo  99Mo + 2n). The 99Mo is an unstable isotope and decays into the desired isotope 99mTc with a half-life of 67 hours. However, this reaction requires the incident neutron to be between 12 and 17 million-electron-volts. As our low-energy accelerator can only produce beams up to 1 MeV, the desired neutrons are produced using a secondary reaction in which a tritium target (heaviest isotope of hydrogen) is bombarded with a low-energy (less than 1 MeV) lighter isotope of hydrogen, deuterium. This reaction in turn produces neutrons which can be used to further produce  99Mo/99mTc isotopes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011800</AwardID>
+<Investigator>
+<FirstName>Caesar</FirstName>
+<LastName>Jackson</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Caesar R Jackson</PI_FULL_NAME>
+<EmailAddress><![CDATA[crjackson@nccu.edu]]></EmailAddress>
+<NSF_ID>000603658</NSF_ID>
+<StartDate>06/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mohammad</FirstName>
+<LastName>Ahmed</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mohammad W Ahmed</PI_FULL_NAME>
+<EmailAddress><![CDATA[mahmed2@nccu.edu]]></EmailAddress>
+<NSF_ID>000616623</NSF_ID>
+<StartDate>06/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina Central University]]></Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277073129</ZipCode>
+<PhoneNumber>9195307333</PhoneNumber>
+<StreetAddress><![CDATA[1801 FAYETTEVILLE ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L1DXXP1KGP77</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA CENTRAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina Central University]]></Name>
+<CityName>Durham</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277073129</ZipCode>
+<StreetAddress><![CDATA[1801 Fayetteville St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>159400</Code>
+<Text>Hist Black Colleges and Univ</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~399331</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>North Carolina Central University (NCCU) was awarded a Targeted Infusion Project (TIP) grant in 2020 aimed to establish a low-energy nuclear accelerator facility to enhance scientific research capabilities and expand science and engineering training at NCCU. The specific goals of the project were:&nbsp; (1) to establish an accelerator-based nuclear science facility for interdisciplinary research at NCCU; (2) to establish the mechanical infrastructure to support the facility; (3) to provide intensive skills and ancillary skills training in nuclear science to undergraduates; and (4) to develop research capabilities in the production and study of medical radioisotopes. Regrettably, during FY 2023 the NCCU accelerator operation license was not renewed by the State Agency, and it would take several years past the grant period to get NCCU back on cycle for a new license. Consequently, the TIP project refocused toward the development of a state-of-the-art machine shop in the Physics department to support fabrication of mechanical parts for nuclear detectors and other apparatus for experiments. The project also realigned to collaborate with nuclear accelerator facilities at an R1 university center of excellence and a national laboratory to provide the nuclear science research training experiences as proposed in the TIP.</p> <p><strong>Intellectual Merit:</strong></p> <p>The project collaborated with Triangle Universities Nuclear Laboratory (TUNL) at Duke University and Thomas Jefferson National Laboratory (JLab) in Newport News, VA in utilizing those facilities to provide the nuclear science research training experiences to undergraduates at NCCU. The project PIs prepared and submitted proposals that led to new grant awards, which provided the funding to support the nuclear science traineeships provided to NCCU undergraduate. The other funding sources were the Office of Nuclear Physics (NP) within the U.S. Department of Energy Office of Science, the Historically Black Colleges and Universities - Excellence in Research (HBCU-<strong>EiR</strong>) from National Science Foundation, and Minority Science &amp; Engineering Improvement Program (MSEIP) from the Department of Education. Two NCCU undergraduate students were supported on internships in Summer 2023 at JLAb where they worked on an ongoing project in the assembly, test, and installation of a high energy Electromagnetic Calorimeter (ECAL). Nine underrepresented minority and women undergraduate students participated in the 2023 summer nuclear physics research traineeship program at TUNL. The topics of the research in which these students participated were Neutron radiation dosage, CosmicWatch, Radioisotope Labeling of Plants, COHERENT Preliminary Data Analysis, Xbox Kinect 3D imaging, and Arduinos &amp; Neutrinos. In Summer 2024, five students were supported to participate in the nuclear physics traineeship at TUNL.</p> <p><strong>Broader Impacts:</strong></p> <p>The project added resources to the institution to enhance infrastructure to support nuclear science and other interdisciplinary research at NCCU. The newly configured machine shop includes CNC lathe, CNC milling machine, vertical bandsaw, horizontal bandsaw, ShotBot, variable speed pulley drill press, sanding machine, and other ancillary equipment and parts. A machine shop manager was contracted using project funds to setup and launch operations in the machine shop. There has been one demonstration to university upper administration on some of the Shop&rsquo;s capabilities, and there have been several informal visits from faculty and students seeking help with individual projects. The shop manager has completed many small jobs typically involving simple machining of aluminum components and fabrication of fixtures and supports needed for experiments being setup by faculty. As a result, steps are continuing to take place towards achieving the goal of having a fully working machine shop to support fabrication of fixtures for experimental research and to be used in training faculty and students in machine shop use.</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/22/2024<br> Modified by: Caesar&nbsp;R&nbsp;Jackson</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  North Carolina Central University (NCCU) was awarded a Targeted Infusion Project (TIP) grant in 2020 aimed to establish a low-energy nuclear accelerator facility to enhance scientific research capabilities and expand science and engineering training at NCCU. The specific goals of the project were: (1) to establish an accelerator-based nuclear science facility for interdisciplinary research at NCCU; (2) to establish the mechanical infrastructure to support the facility; (3) to provide intensive skills and ancillary skills training in nuclear science to undergraduates; and (4) to develop research capabilities in the production and study of medical radioisotopes. Regrettably, during FY 2023 the NCCU accelerator operation license was not renewed by the State Agency, and it would take several years past the grant period to get NCCU back on cycle for a new license. Consequently, the TIP project refocused toward the development of a state-of-the-art machine shop in the Physics department to support fabrication of mechanical parts for nuclear detectors and other apparatus for experiments. The project also realigned to collaborate with nuclear accelerator facilities at an R1 university center of excellence and a national laboratory to provide the nuclear science research training experiences as proposed in the TIP.   Intellectual Merit:   The project collaborated with Triangle Universities Nuclear Laboratory (TUNL) at Duke University and Thomas Jefferson National Laboratory (JLab) in Newport News, VA in utilizing those facilities to provide the nuclear science research training experiences to undergraduates at NCCU. The project PIs prepared and submitted proposals that led to new grant awards, which provided the funding to support the nuclear science traineeships provided to NCCU undergraduate. The other funding sources were the Office of Nuclear Physics (NP) within the U.S. Department of Energy Office of Science, the Historically Black Colleges and Universities - Excellence in Research (HBCU-EiR) from National Science Foundation, and Minority Science & Engineering Improvement Program (MSEIP) from the Department of Education. Two NCCU undergraduate students were supported on internships in Summer 2023 at JLAb where they worked on an ongoing project in the assembly, test, and installation of a high energy Electromagnetic Calorimeter (ECAL). Nine underrepresented minority and women undergraduate students participated in the 2023 summer nuclear physics research traineeship program at TUNL. The topics of the research in which these students participated were Neutron radiation dosage, CosmicWatch, Radioisotope Labeling of Plants, COHERENT Preliminary Data Analysis, Xbox Kinect 3D imaging, and Arduinos & Neutrinos. In Summer 2024, five students were supported to participate in the nuclear physics traineeship at TUNL.   Broader Impacts:   The project added resources to the institution to enhance infrastructure to support nuclear science and other interdisciplinary research at NCCU. The newly configured machine shop includes CNC lathe, CNC milling machine, vertical bandsaw, horizontal bandsaw, ShotBot, variable speed pulley drill press, sanding machine, and other ancillary equipment and parts. A machine shop manager was contracted using project funds to setup and launch operations in the machine shop. There has been one demonstration to university upper administration on some of the Shops capabilities, and there have been several informal visits from faculty and students seeking help with individual projects. The shop manager has completed many small jobs typically involving simple machining of aluminum components and fabrication of fixtures and supports needed for experiments being setup by faculty. As a result, steps are continuing to take place towards achieving the goal of having a fully working machine shop to support fabrication of fixtures for experimental research and to be used in training faculty and students in machine shop use.        Last Modified: 10/22/2024       Submitted by: CaesarRJackson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

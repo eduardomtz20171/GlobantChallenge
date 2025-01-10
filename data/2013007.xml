@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Particle Physics at the Energy Frontier with the CMS Experiment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1200000.00</AwardTotalIntnAmount>
+<AwardAmount>1200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Shank</SignBlockName>
+<PO_EMAI>jshank@nsf.gov</PO_EMAI>
+<PO_PHON>7032924516</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This program of research aims to better understand the Universe at the smallest scales by probing nature's basic symmetries and their relation to the origin of mass. The 2012 discovery of a Higgs boson with mass close to 125 GeV represents both the crowning achievement of the standard model of particle physics and a hint beyond it - how can a light Higgs boson possibly survive huge, destabilizing quantum effects without new, undiscovered physics? Further, dark matter is known to exist from astronomical observations; however, the particle properties of dark matter remain shrouded in mystery. The combined activities of the University of Kansas (KU) group address such basic questions puzzling physics - the origin of mass and the particle nature of dark matter - and have the potential for surprising discoveries that may change the way we understand our physical world. This award will provide support for the KU group's work on the CMS experiment at the Large Hadron Collider (LHC) at CERN, a particle physics laboratory in Geneva, Switzerland. Analytically, the group has a broad range of physics interests, including searches for vector-like quarks and the initiation into new searches for evidence of supersymmetry, with emphasis on signatures that emphasize compressed spectra: electroweakino, stop, and slepton decays. A discovery of any of these new particles would transform modern high energy physics.&lt;br/&gt;&lt;br/&gt;Technically, KU will continue to work with the CMS tracker system, both to support the current operations and to develop new components for the future high luminosity HL-LHC era.  Photon conversion reconstruction will be used to precisely measure the active and passive material of the tracker leading to improvements in systematic uncertainties associated with the modeling of interactions in the tracker material. KU will design, test and build cables that will bring the high-speed electronic signals from the HL-LHC inner pixel tracker modules to optical links on the detector and assess how the full chain of electronic readout performs. This pixel tracker system is critical to the reconstruction of many event types of special interest to the CMS program of discovery science. The group has two major continuing outreach efforts: a long-standing QuarkNet center, through which it engages with area high school physics teachers and their students, and the multimedia Quarked! project that presents modern physics concepts to youth through games, videos, and other web content.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2013007</AwardID>
+<Investigator>
+<FirstName>Alice</FirstName>
+<LastName>Bean</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alice L Bean</PI_FULL_NAME>
+<EmailAddress><![CDATA[abean@ku.edu]]></EmailAddress>
+<NSF_ID>000422055</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Graham</FirstName>
+<LastName>Wilson</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Graham W Wilson</PI_FULL_NAME>
+<EmailAddress><![CDATA[gwwilson@ku.edu]]></EmailAddress>
+<NSF_ID>000409438</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>LAWRENCE</CityName>
+<ZipCode>660457563</ZipCode>
+<PhoneNumber>7858643441</PhoneNumber>
+<StreetAddress><![CDATA[2385 IRVING HILL RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SSUJB3GSH8A5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KANSAS CENTER FOR RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SSUJB3GSH8A5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>Lawrence</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>660457568</ZipCode>
+<StreetAddress><![CDATA[2385 Irving Hill Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>122100</Code>
+<Text>HEP-High Energy Physics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~1200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This grant supported research on particle physics, primarily with the Compact Muon Solenoid (CMS) experiment located at CERN, near Geneva, Switzerland.&nbsp;&nbsp; Personnel directly supported included the two principal investigators (Alice Bean and Graham Wilson), three postdoctoral researchers, three graduate students, and four undergraduate students.&nbsp;&nbsp; Data collected from 2016 to 2018 were analyzed for new physics beyond the standard model predicted from supersymmetric theories.&nbsp;&nbsp; No evidence for top squark, electroweakino, or slepton particle decays was found and new world-leading lower limits were produced in a new smaller mass difference range between the lightest supersymmetric particle and the parent supersymmetric particle. This is illustrated in Image 1 for slepton pairs where the region to the left of the solid black, red, and blue lines is excluded by the data at 95% CL for three different cases.</p>  <p>The group also spent significant effort helping to calibrate and run the CMS detector for the data taking that started in 2022, particularly for the innermost tracking detector nearest the particle collisions.&nbsp;&nbsp; Activities included understanding the material distribution, in order to make better simulations of the detector, keeping track of the noisy and bad components for the reconstruction database, and helping to take shifts.&nbsp; Electronic cables needed for high-speed transmission were specified, designed, and prototypes made for the planned new 2 billion pixel tracking detector to be installed after 2028.&nbsp;&nbsp; Particular attention was paid to making sure that the digitized signals from the detector readout were not lost through the entire data acquisition chain using a benchtop testing setup.</p>  <p>The group contributed to several publications and presentations around future detector concepts.&nbsp; There was substantial contribution towards future high-energy electron-positron colliders and their detector design by Wilson and students.&nbsp; The studies centered around the measurement of the center-of-mass energy and electroweak physics including a precision measurement of the W-boson mass at these facilities. Recent studies have explored whether the beam collision rate can be measured using events with two photons whose production probability per collision is well understood. This is a critical input for the measurement of the rate at which the Z boson decays to weakly interacting neutral particles such as neutrinos. An experimental innovation for isolating such events from the dominant background from electron-positron pairs uses the beam's eye view of the difference from back-to-backness (acoplanarity) of forward calorimeter measurements. The striking difference is shown in Image 3 for two photons (the blue O-GF/O-GB trajectories) and electron-positron pairs (the red O-EF/O-PB trajectories) with magnetic bending of the charged particles.</p>  <p>Bean and students studied new methods of simulating and reading out signals in fast timing detectors using brain inspired computing methods involving spiking neural networks.&nbsp; &nbsp;Simulations of low gain avalanche diode detectors were performed to study the charge concentrations as a function of time as shown in Image 4.&nbsp; These simulations are used to understand the minimal information needed to be read out from sensors in order to provide the most accurate position and timing information.&nbsp;&nbsp;</p>  <p>Broader impacts came from several sources including: scientific publications, presentations at professional meetings, training of next generation scientists, and public outreach.&nbsp; The Quarked! Adventures in the Subatomic Universe project provides entertaining and educational science content through programs at the KU Natural History Museum as well as on the quarked.org website. The website gets over 70K visitors a year and hosts 9 animated videos on the Quarked YouTube channel with over 250K views.The 16 computer games are also available on iOS and android apps with over 15K downloads. During the grant, all of the games were reprogrammed to use the Unity game engine and animated video snippets were combined into a video called 'Derek Battles the Elements'.&nbsp; Image 2 shows a still shot from this video.&nbsp;</p>  <p>&nbsp;</p>  <p>&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/11/2024<br> Modified by: Alice&nbsp;L&nbsp;Bean</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2013007/2013007_10689466_1733778830181_CMS_PAS_SUS_23_003_Figure_018--rgov-214x142.png" original="/por/images/Reports/POR/2024/2013007/2013007_10689466_1733778830181_CMS_PAS_SUS_23_003_Figure_018--rgov-800width.png" title="Figure 1: Slepton Limits"><img src="/por/images/Reports/POR/2024/2013007/2013007_10689466_1733778830181_CMS_PAS_SUS_23_003_Figure_018--rgov-66x44.png" alt="Figure 1: Slepton Limits"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Observed 95% confidence level upper limits on the slepton pair production cross-section as a function of the masses. The regions to the left of the solid lines are excluded for slepton pairs that are left-handed (red), right-handed (blue), and left- and right-handed combined of equal mass (black).</div> <div class="imageCredit">CMS Collaboration: https://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-23-003/index.html</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Alice&nbsp;L&nbsp;Bean <div class="imageTitle">Figure 1: Slepton Limits</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2013007/2013007_10689466_1733856063208_Picture1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2013007/2013007_10689466_1733856063208_Picture1--rgov-800width.jpg" title="Figure 4: Derek Battles the Elements"><img src="/por/images/Reports/POR/2024/2013007/2013007_10689466_1733856063208_Picture1--rgov-66x44.jpg" alt="Figure 4: Derek Battles the Elements"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Still image from the Quarked project video Derek Battles the Elements in the scene from the discussion of the element Oxygen.</div> <div class="imageCredit">Quarked Project https://www.youtube.com/watch?v=DJVozrPvl0I</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Alice&nbsp;L&nbsp;Bean <div class="imageTitle">Figure 4: Derek Battles the Elements</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2013007/2013007_10689466_1733853659344_Acop_Lumi--rgov-214x142.png" original="/por/images/Reports/POR/2024/2013007/2013007_10689466_1733853659344_Acop_Lumi--rgov-800width.png" title="Figure 2: Calorimetric signed acoplanarity"><img src="/por/images/Reports/POR/2024/2013007/2013007_10689466_1733853659344_Acop_Lumi--rgov-66x44.png" alt="Figure 2: Calorimetric signed acoplanarity"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Illustration of the utility of the calorimeter-based measurement of transverse back-to-backness to distinguish photon pairs (blue) from electron-positron pairs (red). The charged electrons and positrons bend in the collider detector magnetic field. The right panel is a view along the electron beam.</div> <div class="imageCredit">Graham Wilson</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Alice&nbsp;L&nbsp;Bean <div class="imageTitle">Figure 2: Calorimetric signed acoplanarity</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2013007/2013007_10689466_1733853800825_fig3--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2013007/2013007_10689466_1733853800825_fig3--rgov-800width.jpg" title="Figure 3: Sensor simulation"><img src="/por/images/Reports/POR/2024/2013007/2013007_10689466_1733853800825_fig3--rgov-66x44.jpg" alt="Figure 3: Sensor simulation"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Charge concentration as a function of time in a simulated low gain avalanche detector where you can see the multiplication of the charge from the gain layer which enables precise timing information.</div> <div class="imageCredit">Derek Grove</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Alice&nbsp;L&nbsp;Bean <div class="imageTitle">Figure 3: Sensor simulation</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This grant supported research on particle physics, primarily with the Compact Muon Solenoid (CMS) experiment located at CERN, near Geneva, Switzerland. Personnel directly supported included the two principal investigators (Alice Bean and Graham Wilson), three postdoctoral researchers, three graduate students, and four undergraduate students. Data collected from 2016 to 2018 were analyzed for new physics beyond the standard model predicted from supersymmetric theories. No evidence for top squark, electroweakino, or slepton particle decays was found and new world-leading lower limits were produced in a new smaller mass difference range between the lightest supersymmetric particle and the parent supersymmetric particle. This is illustrated in Image 1 for slepton pairs where the region to the left of the solid black, red, and blue lines is excluded by the data at 95% CL for three different cases.    The group also spent significant effort helping to calibrate and run the CMS detector for the data taking that started in 2022, particularly for the innermost tracking detector nearest the particle collisions. Activities included understanding the material distribution, in order to make better simulations of the detector, keeping track of the noisy and bad components for the reconstruction database, and helping to take shifts. Electronic cables needed for high-speed transmission were specified, designed, and prototypes made for the planned new 2 billion pixel tracking detector to be installed after 2028. Particular attention was paid to making sure that the digitized signals from the detector readout were not lost through the entire data acquisition chain using a benchtop testing setup.    The group contributed to several publications and presentations around future detector concepts. There was substantial contribution towards future high-energy electron-positron colliders and their detector design by Wilson and students. The studies centered around the measurement of the center-of-mass energy and electroweak physics including a precision measurement of the W-boson mass at these facilities. Recent studies have explored whether the beam collision rate can be measured using events with two photons whose production probability per collision is well understood. This is a critical input for the measurement of the rate at which the Z boson decays to weakly interacting neutral particles such as neutrinos. An experimental innovation for isolating such events from the dominant background from electron-positron pairs uses the beam's eye view of the difference from back-to-backness (acoplanarity) of forward calorimeter measurements. The striking difference is shown in Image 3 for two photons (the blue O-GF/O-GB trajectories) and electron-positron pairs (the red O-EF/O-PB trajectories) with magnetic bending of the charged particles.    Bean and students studied new methods of simulating and reading out signals in fast timing detectors using brain inspired computing methods involving spiking neural networks. Simulations of low gain avalanche diode detectors were performed to study the charge concentrations as a function of time as shown in Image 4. These simulations are used to understand the minimal information needed to be read out from sensors in order to provide the most accurate position and timing information.    Broader impacts came from several sources including: scientific publications, presentations at professional meetings, training of next generation scientists, and public outreach. The Quarked! Adventures in the Subatomic Universe project provides entertaining and educational science content through programs at the KU Natural History Museum as well as on the quarked.org website. The website gets over 70K visitors a year and hosts 9 animated videos on the Quarked YouTube channel with over 250K views.The 16 computer games are also available on iOS and android apps with over 15K downloads. During the grant, all of the games were reprogrammed to use the Unity game engine and animated video snippets were combined into a video called 'Derek Battles the Elements'. Image 2 shows a still shot from this video.                 Last Modified: 12/11/2024       Submitted by: AliceLBean]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

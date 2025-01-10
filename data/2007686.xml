@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: A Mechanism for Extending A Programming Language with Interactive Syntax]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>449948.00</AwardTotalIntnAmount>
+<AwardAmount>449948</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+<PO_EMAI>abanerje@nsf.gov</PO_EMAI>
+<PO_PHON>7032927885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Software developers write programs as linear text. At the moment, this way of programming is the dominant way of instructing computers in industry. While the computer does not care in which format instructions are entered, the format greatly matters to the developer who must read a program many months later to understand and improve the code.  The problem is that a good amount of this linear program text describes geometric relationships among different pieces of the program's problem domain, say a piece of a map or a tabular arrangement of information. No effort on the part of a software developer can ever express such relationships in a textual way that makes them easy to decipher. The goal of this project is to demonstrate that form of textual-visual programming will greatly improve the communication between developers across time.&lt;br/&gt;&lt;br/&gt;The project develops a mechanism for supplementing textual programming languages with visual and interactive elements: miniature graphical user interfaces (GUIs).  Using this mechanism, developers can create mini GUIs for specific problem domains such as, for example, two-dimension tables of conditional actions. Other developers add instances of these mini-GUIs to their code and interact with them to enter specific details. When the code is supposed to be run, the translator collaborates with these visual elements to render them as ordinary instructions. When the code is to be read, the visual nature expresses the geometric relationships much more directly than linear text. The project team will evaluate the mechanism across several dozen application areas.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007686</AwardID>
+<Investigator>
+<FirstName>Matthias</FirstName>
+<LastName>Felleisen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthias Felleisen</PI_FULL_NAME>
+<EmailAddress><![CDATA[matthias@ccs.neu.edu]]></EmailAddress>
+<NSF_ID>000286813</NSF_ID>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173735600</PhoneNumber>
+<StreetAddress><![CDATA[360 HUNTINGTON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HLTMVS2JZBS6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHEASTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021155005</ZipCode>
+<StreetAddress><![CDATA[360 Huntington Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7943</Code>
+<Text>PROGRAMMING LANGUAGES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~449948</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Software developers work with textual programming languages. &nbsp;Every piece of code is a linear sequence of letters, numbers, and words,even when this work is about expressing geometric ideas. Since software is mostly a message from one developer in the present to a developer in the future who must reconstruct these ideas and modify the code based on this understanding, linear text is an inadequate tool. Its use imposes a large cost---in terms of time and money---on the receiving developer.</p> <p><br />The PI and his team developed a theoretical foundation and practical tools for mixing linear text with editable images. The mix is dubbed"interactive syntax". When the developer saves interactive syntax to a file, the images are turned into annotated code; conversely, when the developer opens such a file with an appropriate editor, the annotated code turns itself into a picture. The automatic translation to annotated code and back ensures that the numerous existing software tools for plain text remain applicable to interactive syntax.&nbsp;</p> <p><br />To prove the general nature of the idea, the team has prototyped it in two different programming languages: Racket and ClojureScript. Using these prototypes, the PI's team has re-written a number of textual applications using interactive syntax. When confronted with both variants, third-party readers have uniformly preferred to read and digest the interactive-syntax variants. The project resulted in two dissertations and engaged several undergraduates in research projects.</p><br> <p>  Last Modified: 11/11/2024<br> Modified by: Matthias&nbsp;Felleisen</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Software developers work with textual programming languages. Every piece of code is a linear sequence of letters, numbers, and words,even when this work is about expressing geometric ideas. Since software is mostly a message from one developer in the present to a developer in the future who must reconstruct these ideas and modify the code based on this understanding, linear text is an inadequate tool. Its use imposes a large cost---in terms of time and money---on the receiving developer.    The PI and his team developed a theoretical foundation and practical tools for mixing linear text with editable images. The mix is dubbed"interactive syntax". When the developer saves interactive syntax to a file, the images are turned into annotated code; conversely, when the developer opens such a file with an appropriate editor, the annotated code turns itself into a picture. The automatic translation to annotated code and back ensures that the numerous existing software tools for plain text remain applicable to interactive syntax.    To prove the general nature of the idea, the team has prototyped it in two different programming languages: Racket and ClojureScript. Using these prototypes, the PI's team has re-written a number of textual applications using interactive syntax. When confronted with both variants, third-party readers have uniformly preferred to read and digest the interactive-syntax variants. The project resulted in two dissertations and engaged several undergraduates in research projects.     Last Modified: 11/11/2024       Submitted by: MatthiasFelleisen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

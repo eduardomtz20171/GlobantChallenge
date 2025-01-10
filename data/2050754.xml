@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Research Projects in Data-Enabled Industrial Mathematics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>362621.00</AwardTotalIntnAmount>
+<AwardAmount>362621</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stacey Levine</SignBlockName>
+<PO_EMAI>slevine@nsf.gov</PO_EMAI>
+<PO_PHON>7032922948</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This REU site at Embry-Riddle Aeronautical University provides ten undergraduate students each year with opportunities to participate in authentic research projects in data-enabled industrial mathematics during the summers 2021-2023. The objectives of this unique research experience are to prepare students for challenges in data-driven mathematics and to provide them with skills to navigate capably in today’s data-rich world. Students will learn to transform technical, organizational, and data-enabled problems posed by business, industry, or government into solvable mathematical questions. The program will recruit talented students from diverse groups, including females, underrepresented minorities, financially disadvantaged students, and first-generation college students. Participation will equip students interested in industrial mathematics research with a strong understanding of data analytics, mathematical modeling and problem-solving abilities, and effective communication skills. Video documentaries of the progress and results of each research project will be used to promote undergraduate research and data literacy for a broader audience. &lt;br/&gt;&lt;br/&gt;The ultimate idea of this site is to model real-world industrial research experiences, focusing on student growth and encouraging students to interact with the educational material at a level that goes beyond a classroom setting. The students will work collaboratively on problems provided directly by business, government, and industry. The two perspectives of the faculty mentor and of the industrial partners are keys to this unique experience: the faculty mentor maintains a clear focus on the mathematics and data science aspects at the core of the project, while industrial partners provide an incentive of relevant industrial needs and contexts. Students will learn through examples how data science skills can be critical for practical applications, and the experience will foster informed career decisions and promote professional development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/27/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050754</AwardID>
+<Investigator>
+<FirstName>Mihhail</FirstName>
+<LastName>Berezovski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mihhail Berezovski</PI_FULL_NAME>
+<EmailAddress><![CDATA[mihhail.berezovski@erau.edu]]></EmailAddress>
+<NSF_ID>000734310</NSF_ID>
+<StartDate>01/27/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Embry-Riddle Aeronautical University]]></Name>
+<CityName>DAYTONA BEACH</CityName>
+<ZipCode>321143910</ZipCode>
+<PhoneNumber>3862267695</PhoneNumber>
+<StreetAddress><![CDATA[1 AEROSPACE BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U5MMBAC9XAM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EMBRY-RIDDLE AERONAUTICAL UNIVERSITY, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Embry-Riddle Aeronautical University]]></Name>
+<CityName>Daytona Beach</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>321143910</ZipCode>
+<StreetAddress><![CDATA[1 Aerospace Boulevard]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>733500</Code>
+<Text>WORKFORCE IN THE MATHEMAT SCI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~362621</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This REU site at Embry-Riddle Aeronautical University&nbsp; provided&nbsp; undergraduate students each year during summers of 2021-2023 with opportunities to participate in authentic research projects in data-enabled industrial mathematics.&nbsp;</p> <p><br /><strong>Program Goal:</strong><br />Students will have the capability to conduct authentic data-enabled research, based on original real-world problems provided directly by businesses and industry.</p> <p><br /><strong>Program Objectives:</strong><br />1. Students' self-efficacy in research planning will improve.<br />2. Students' self-efficacy in conducting research will improve.<br />3. Students will be satisfied with the overall program.<br />4. Students interest in continuing math education, research, or employment will increase due to the REU experience.<br />5. Recruitment: 5/10 REU participants will be students of color, financially disadvantaged students or first-generation college students.<br />6. Recruitment: 6/10 will be female students.</p> <p><br /><strong>Intellectual Merit:</strong>Students experienced the industry related challenges, rarely observed in traditional educational programs, including: problem formulation, identification of steps toward solution, data visualization and interpretation, as well as data analyses. This experience also emphasizes written and oral skills along with teamwork, skills which are valued highly in industry, but are not part of most traditional mathematics programs. Students worked in a diverse collaborative effort directly with industrial partners while being mentored by the PI and other faculty mentors.&nbsp;</p> <p><br /><strong>Broader Impacts:&nbsp;</strong>This REU Site supports talented students recruited from minorities and underrepresented groups includingfemale students interested in conducting industrial mathematics research and will better prepare themfor careers in academia and industry. Participating students&nbsp; encouraged to prepare presentations fornational conferences of the project findings. REU participants promptly disseminate reports and underlyingfindings in this project to a broad and diverse array of interested stakeholders, public and professionalaudiences.&nbsp;</p> <p><br />During Summers 2021-2023, there have been 11 research projects with six different companies, businesses, andgovernment labs involving 35 students. 63% of students were from 22 universities. 66% of students were female students. 87% of participants were students from underrepresented groups in STEM.&nbsp;</p> <p><br />Participants delivered 30 oral and poster&nbsp; presentations at 22 conferences, including:2021 Florida Undergraduate Research Conference (FURC), 2021 SIAM Annual Meeting, 2021 National Conference on Undergraduate Research (NCUR), AMS-MAA Joint Mathematics Meetings (JMM2022), 2022 SIAM Annual Meeting, AMS-MAA Joint Mathematics Meetings (JMM2023), 2023 Emerging Researchers National (ERN) Conference in STEM, 2023 National Conference on Undergraduate Research (NCUR), Aspire 2023, 2023 Florida Undergraduate Research Conference (FURC), 2023 OSU Undergraduate Research Symposium, MathFest 2023, AMS-MAA Joint Mathematics Meetings (JMM2024), and Aspire 2024.</p> <p><br />Additionally, participants have co-authored four journal publications and three are still in preparation, and two participants won oral/poster presentation awards, Outstanding poster award at MathFest 2023 and 1st Place Oral Presentation, Emerging Researchers National Conference in STEM.</p> <p><br />Overall, this was a successful REU with all 3 cohorts (2021, 2022, and 2023) meeting, and in many cases, exceeding the identified objectives.&nbsp;</p><br> <p>  Last Modified: 07/09/2024<br> Modified by: Mihhail&nbsp;Berezovski</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2050754/2050754_10714389_1720558500203_IMG_4693small--rgov-214x142.JPG" original="/por/images/Reports/POR/2024/2050754/2050754_10714389_1720558500203_IMG_4693small--rgov-800width.JPG" title="2022 ERAU REU students"><img src="/por/images/Reports/POR/2024/2050754/2050754_10714389_1720558500203_IMG_4693small--rgov-66x44.JPG" alt="2022 ERAU REU students"></a> <div class="imageCaptionContainer"> <div class="imageCaption">2022 ERAU REU students</div> <div class="imageCredit">Mihhail Berezovski</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Mihhail&nbsp;Berezovski <div class="imageTitle">2022 ERAU REU students</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050754/2050754_10714389_1720558463973_20230531_NSF_REU_MATH_4381smala--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2050754/2050754_10714389_1720558463973_20230531_NSF_REU_MATH_4381smala--rgov-800width.jpg" title="2023 REU students"><img src="/por/images/Reports/POR/2024/2050754/2050754_10714389_1720558463973_20230531_NSF_REU_MATH_4381smala--rgov-66x44.jpg" alt="2023 REU students"></a> <div class="imageCaptionContainer"> <div class="imageCaption">2023 REU students</div> <div class="imageCredit">ERAU</div> <div class="imagePermisssions">Copyright owner is an institution with an existing agreement allowing use by NSF</div> <div class="imageSubmitted">Mihhail&nbsp;Berezovski <div class="imageTitle">2023 REU students</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This REU site at Embry-Riddle Aeronautical University provided undergraduate students each year during summers of 2021-2023 with opportunities to participate in authentic research projects in data-enabled industrial mathematics.    Program Goal: Students will have the capability to conduct authentic data-enabled research, based on original real-world problems provided directly by businesses and industry.    Program Objectives: 1. Students' self-efficacy in research planning will improve. 2. Students' self-efficacy in conducting research will improve. 3. Students will be satisfied with the overall program. 4. Students interest in continuing math education, research, or employment will increase due to the REU experience. 5. Recruitment: 5/10 REU participants will be students of color, financially disadvantaged students or first-generation college students. 6. Recruitment: 6/10 will be female students.    Intellectual Merit:Students experienced the industry related challenges, rarely observed in traditional educational programs, including: problem formulation, identification of steps toward solution, data visualization and interpretation, as well as data analyses. This experience also emphasizes written and oral skills along with teamwork, skills which are valued highly in industry, but are not part of most traditional mathematics programs. Students worked in a diverse collaborative effort directly with industrial partners while being mentored by the PI and other faculty mentors.    Broader Impacts:This REU Site supports talented students recruited from minorities and underrepresented groups includingfemale students interested in conducting industrial mathematics research and will better prepare themfor careers in academia and industry. Participating students encouraged to prepare presentations fornational conferences of the project findings. REU participants promptly disseminate reports and underlyingfindings in this project to a broad and diverse array of interested stakeholders, public and professionalaudiences.    During Summers 2021-2023, there have been 11 research projects with six different companies, businesses, andgovernment labs involving 35 students. 63% of students were from 22 universities. 66% of students were female students. 87% of participants were students from underrepresented groups in STEM.    Participants delivered 30 oral and poster presentations at 22 conferences, including:2021 Florida Undergraduate Research Conference (FURC), 2021 SIAM Annual Meeting, 2021 National Conference on Undergraduate Research (NCUR), AMS-MAA Joint Mathematics Meetings (JMM2022), 2022 SIAM Annual Meeting, AMS-MAA Joint Mathematics Meetings (JMM2023), 2023 Emerging Researchers National (ERN) Conference in STEM, 2023 National Conference on Undergraduate Research (NCUR), Aspire 2023, 2023 Florida Undergraduate Research Conference (FURC), 2023 OSU Undergraduate Research Symposium, MathFest 2023, AMS-MAA Joint Mathematics Meetings (JMM2024), and Aspire 2024.    Additionally, participants have co-authored four journal publications and three are still in preparation, and two participants won oral/poster presentation awards, Outstanding poster award at MathFest 2023 and 1st Place Oral Presentation, Emerging Researchers National Conference in STEM.    Overall, this was a successful REU with all 3 cohorts (2021, 2022, and 2023) meeting, and in many cases, exceeding the identified objectives.     Last Modified: 07/09/2024       Submitted by: MihhailBerezovski]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

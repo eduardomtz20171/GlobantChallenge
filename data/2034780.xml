@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Impact of the SARS-CoV-2 Virus on the Integrity of the Blood-brain Barrier]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>299758.00</AwardTotalIntnAmount>
+<AwardAmount>331758</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy C. Crone</SignBlockName>
+<PO_EMAI>wcrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The coronavirus disease (COVID-19) pandemic caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus continues to detrimentally impact the prosperity and welfare of our country.  As such, fundamental studies are needed to understand the effects of the virus on the organ systems in the body. In these patients, stroke and delirium are not uncommon.  These conditions are associated with breakdown of the blood-brain barrier, which is unique to blood vessels in the central nervous system. The work done with this award will study how the spike protein of the virus affects the blood-brain barrier. Specifically, the junctions between cells lining the inside of blood vessels will be studied.  The overall goal is to identify the mechanisms underlying the response to the spike protein.  The results of this work may suggest new treatment strategies to mitigate the neurological effects of the SARS-CoV-2 virus. This research will be combined with a program to film instructional on-demand science videos for middle and high school science teachers who are teaching remotely during the COVID-19 pandemic.&lt;br/&gt;&lt;br/&gt;The hypothesis is that binding of the SARS-CoV-2 spike protein to angiotensin converting enzyme 2 (ACE2) disrupts the blood-brain barrier by inhibiting the protective effect of fluid shear stress mediated by RhoA signaling. Recent studies using samples from human patients have demonstrated that vasculature in the brain expresses ACE2, the primary target for the SARS-CoV-2 virus, but the effects of spike protein-mediated inactivation of ACE2 on the integrity of the blood-brain barrier remain unclear. Here, the studies will use a three-dimensional in vitro model of the blood-brain barrier to interrogate the mechanotransduction mechanisms responsible for the endothelial response to the S1 peptide of the spike protein in the presence of fluid shear stress, accounting for both short-term, cytoskeletal-mediated pathways and long-term, transcriptional changes in the endothelial cells. These studies will elucidate the mechanistic basis for breakdown of the blood-brain barrier in response to coronaviruses such as SARS-CoV-2.  The results may explain the increased incidence of stroke and other neuropathologies that occur secondary to the COVID-19 virus.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034780</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Galie</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter Galie</PI_FULL_NAME>
+<EmailAddress><![CDATA[galie@rowan.edu]]></EmailAddress>
+<NSF_ID>000700096</NSF_ID>
+<StartDate>07/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Rowan University]]></Name>
+<CityName>GLASSBORO</CityName>
+<ZipCode>080281702</ZipCode>
+<PhoneNumber>8562564057</PhoneNumber>
+<StreetAddress><![CDATA[201 MULLICA HILL RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DMDEQP66JL85</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ROWAN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rowan University]]></Name>
+<CityName>Glassboro</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>080281700</ZipCode>
+<StreetAddress><![CDATA[201 Mullica Hill Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y00</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>747900</Code>
+<Text>BMMB-Biomech &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>070Z</Code>
+<Text>MB-Mechanobiology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~299758</FUND_OBLG>
+<FUND_OBLG>2022~16000</FUND_OBLG>
+<FUND_OBLG>2023~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span style="font-family: Times New Roman; font-size: small;">The purpose of this project was to determine the mechanisms underlying the effect of the spike protein of the SARS-CoV-2 virus on the blood-brain barrier, a characteristic of blood vessels in the brain that selectively limits transport from the blood into surrounding tissue. The studies tested the hypothesis that compromised barrier function is caused by altered signaling of the small GTPase RhoA due to binding of the SARS-CoV-2 spike protein to angiotensin converting enzyme 2 (ACE2). A microfluidic model of the blood-brain barrier provided a controlled environment to conduct these tests and indicated that exposure to the spike protein caused degradation of tight junctions between the endothelium that contribute to barrier function. Experiments with a RhoA inhibitor, C3 transferase, indicated that mitigating RhoA activation provided a protective effect on barrier function in the presence of the SARS-CoV-2 spike protein (Image 1), supporting the hypothesis that RhoA is an important mediator of barrier function in response to the virus. Efforts to understand the role of ACE2 were affected by the result that reducing ACE2 expression in the cerebral endothelial cells, even in the absence of the SARS-CoV-2 spike protein, resulted in barrier disruption. Nonetheless, additional work suggested that plasma gelsolin may also have a beneficial effect on barrier function in vessels exposed to the spike protein (Image 2). The microfluidic blood-brain barrier model was also used to demonstrate that extracellular vimentin contributes to the binding of the spike protein to endothelial cells and affects extravasation of neutrophils across the barrier. Overall. these results improve our understanding of how the SARS-CoV-2 virus causes neurological pathologies while also providing insight into how blood-brain barrier integrity is regulated by endothelial cells.</span></p> <p><span style="font-family: Times New Roman; font-size: small;">Given that the project began in 2020, the broader impacts were initially intended to provide students with virtual science laboratories while they were prevented from attending their schools in person. Over 15 videos were filmed in the first several years of the project to demonstrate specific concepts for chemistry and physics classes at a local high school in Camden, NJ (Brimm Medical Arts High School). The videos were also posted online to broaden their dissemination to other teachers and school districts in the local South Jersey region. Collaboration with educators at Brimm Medical Arts was important to garner feedback and improve the quality and effectiveness of the videos. Once students began to attend school in person again, the focus of the broader impacts of the project shifted. Rather than continue to film videos for local high school students who did not have access to their laboratories due to the pandemic, we restarted a summer program with Brimm Medical Arts High School in our laboratory. Students participated in research projects in our laboratory during their summer break and learned more about potential career paths in STEM fields like Biomedical Engineering.</span></p><br> <p>  Last Modified: 09/05/2024<br> Modified by: Peter&nbsp;Galie</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2034780/2034780_10687745_1725485143973_Image2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2034780/2034780_10687745_1725485143973_Image2--rgov-800width.png" title="Image 2"><img src="/por/images/Reports/POR/2024/2034780/2034780_10687745_1725485143973_Image2--rgov-66x44.png" alt="Image 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Permeability and transendothelial electrical resistance (TEER) measurements in vessels treated with spike protein (s1) and plasma gelsolin (pGSN).</div> <div class="imageCredit">Peter Galie</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Peter&nbsp;Galie <div class="imageTitle">Image 2</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2034780/2034780_10687745_1725484951849_Image1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2034780/2034780_10687745_1725484951849_Image1--rgov-800width.png" title="Image 1"><img src="/por/images/Reports/POR/2024/2034780/2034780_10687745_1725484951849_Image1--rgov-66x44.png" alt="Image 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Permeability results showing the effect of inhibiting RhoA activity with C3 transferase on the integrity of the blood-brain barrier in response to the spike protein (S1).</div> <div class="imageCredit">Peter Galie</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Peter&nbsp;Galie <div class="imageTitle">Image 1</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The purpose of this project was to determine the mechanisms underlying the effect of the spike protein of the SARS-CoV-2 virus on the blood-brain barrier, a characteristic of blood vessels in the brain that selectively limits transport from the blood into surrounding tissue. The studies tested the hypothesis that compromised barrier function is caused by altered signaling of the small GTPase RhoA due to binding of the SARS-CoV-2 spike protein to angiotensin converting enzyme 2 (ACE2). A microfluidic model of the blood-brain barrier provided a controlled environment to conduct these tests and indicated that exposure to the spike protein caused degradation of tight junctions between the endothelium that contribute to barrier function. Experiments with a RhoA inhibitor, C3 transferase, indicated that mitigating RhoA activation provided a protective effect on barrier function in the presence of the SARS-CoV-2 spike protein (Image 1), supporting the hypothesis that RhoA is an important mediator of barrier function in response to the virus. Efforts to understand the role of ACE2 were affected by the result that reducing ACE2 expression in the cerebral endothelial cells, even in the absence of the SARS-CoV-2 spike protein, resulted in barrier disruption. Nonetheless, additional work suggested that plasma gelsolin may also have a beneficial effect on barrier function in vessels exposed to the spike protein (Image 2). The microfluidic blood-brain barrier model was also used to demonstrate that extracellular vimentin contributes to the binding of the spike protein to endothelial cells and affects extravasation of neutrophils across the barrier. Overall. these results improve our understanding of how the SARS-CoV-2 virus causes neurological pathologies while also providing insight into how blood-brain barrier integrity is regulated by endothelial cells.   Given that the project began in 2020, the broader impacts were initially intended to provide students with virtual science laboratories while they were prevented from attending their schools in person. Over 15 videos were filmed in the first several years of the project to demonstrate specific concepts for chemistry and physics classes at a local high school in Camden, NJ (Brimm Medical Arts High School). The videos were also posted online to broaden their dissemination to other teachers and school districts in the local South Jersey region. Collaboration with educators at Brimm Medical Arts was important to garner feedback and improve the quality and effectiveness of the videos. Once students began to attend school in person again, the focus of the broader impacts of the project shifted. Rather than continue to film videos for local high school students who did not have access to their laboratories due to the pandemic, we restarted a summer program with Brimm Medical Arts High School in our laboratory. Students participated in research projects in our laboratory during their summer break and learned more about potential career paths in STEM fields like Biomedical Engineering.     Last Modified: 09/05/2024       Submitted by: PeterGalie]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

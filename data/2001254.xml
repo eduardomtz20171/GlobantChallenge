@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Arc Spaces, Singularities, and Motivic Integration]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>276582.00</AwardTotalIntnAmount>
+<AwardAmount>276582</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The research in this project explores the local geometry of algebraic varieties at their singular (non-manifold) points. A classical way of studying singularities it to restrict to a small neighborhood and analyze its boundary. In an influential paper written in the sixties, John Nash proposed an alternative approach which relies on the analysis of the space of germs of curves through the singular locus. Twenty years later, Vladimir Berkovich developed a general theory of non-Archimedean geometry which provides, among other things, a yet new approach to study singularities. These three very different points of view are in fact closely related to each other. The goals set in this project address different open problems in each of these areas, seeking new connections and applications. The project also provides research training activities for graduate students.&lt;br/&gt;&lt;br/&gt;The space of arcs of an algebraic variety provides the underlying space in motivic integration and has been used to study invariants of singularities in the minimal model program. The first part of the project sets two distinct objectives regarding arc spaces. The first pertains a theorem of Drinfeld, Grinberg, and Kazhdan of the formal neighborhood of the arc space at non-degenerate arcs and addresses the question whether the stated decomposition globalizes along a suitable stratification of the arc space. The second objective concerns the Nash problem on families of arcs through the singularities of a variety: the Nash problem has recently been settled for surfaces in characteristic zero and there are several results in higher dimensions, but little is known in positive characteristic, even in dimension two, and the proposal addresses this case. A third objective sees the continuation of ongoing work devoted to the development of a theory of motivic integration on the Berkovich analytification of an algebraic variety and aims to understand its connections with other existing theories of integration such as Kontsevich's motivic integration, p-adic integration, and Hrushovski-Kazhdan’s integration. The fourth and last objective is motivated by the Lipman–Zariski conjecture, and aims to use ideas from prior works on links of isolated singularities and the complex Plateau problem to set up a new approach toward the conjecture.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001254</AwardID>
+<Investigator>
+<FirstName>Tommaso</FirstName>
+<LastName>de Fernex</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tommaso de Fernex</PI_FULL_NAME>
+<EmailAddress><![CDATA[defernex@math.utah.edu]]></EmailAddress>
+<NSF_ID>000299015</NSF_ID>
+<StartDate>03/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[UNIV OF UTAH]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841120090</ZipCode>
+<StreetAddress><![CDATA[155 S 1400 E RM 233]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~276582</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>From the point of intellectual merits, the research carried out under this grant has led to new discoveries in the field of algebraic geometry that contribute to our understanding of several aspects regarding the structure of the singularities of algebraic varieties and related spaces.&nbsp;</p>  <p>One area of investigation followed during the period of the grant concerns the structure of arc spaces of algebraic varieties. These spaces have been used to define string theoretic invariants of singular Calabi-Yau varieties and to study singularities in the minimal model program. A long-term collaboration of the PI with coauthors Chiu and Docampo has been focusing on the development of new methods to understand the local structure of arc spaces from a schematic point of view. Building on prior work, this work has produced new results during the period of the grant. The most recent paper resulting from it is devoted to proving several finiteness results about maps induced on arc spaces from morphisms of schemes; these results yield new discoveries about local rings on arc spaces, leading, among other things, to an extension to this setting of a classical result of Lech on the semicontinuity of embedding dimension in Noetherian local rings. More recently, this collaboration has shifted towards the development of a new approach based on tangent categories that is expected to apply in much larger generality and yield new applications in the context of arithmetic jet spaces and Greenberg schemes. Foundational results have already been established, and further investigations will be continued in future research.</p>  <p>Arc spaces and jet schemes have also been the subject of a collaboration with Wang, where a new class of singularities generalizing Du Val singularities to higher dimensions are introduced and studied from the point of view of the Nash problem. In a related work, Wang and the PI have tackled the Nash problem for Du Val singularities in positive characteristics where characteristic zero methods are known to fail. Other outcomes of the research carried out under the grant include the development of a new theory of motivic integration on Berkovich spaces (with Lau), a new approach to motivic integration on arc spaces that can be applied in positive characteristic without assuming existence of resolution of singularities (with Mere), and the continuation of the study of Fano varieties from the point of view of rationality and birational rigidity.</p>  <p>In terms of broader impacts, the PI has advised graduate and undergraduate students, has mentored postdocs, has been involved with the department&rsquo;s pre-service and in-service teacher preparation program, has organized workshops mainly addressed to students and postdocs, and has been involved in other training and educational activities in his role of Department Chair.</p><br> <p>  Last Modified: 12/03/2024<br> Modified by: Tommaso&nbsp;De Fernex</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  From the point of intellectual merits, the research carried out under this grant has led to new discoveries in the field of algebraic geometry that contribute to our understanding of several aspects regarding the structure of the singularities of algebraic varieties and related spaces.    One area of investigation followed during the period of the grant concerns the structure of arc spaces of algebraic varieties. These spaces have been used to define string theoretic invariants of singular Calabi-Yau varieties and to study singularities in the minimal model program. A long-term collaboration of the PI with coauthors Chiu and Docampo has been focusing on the development of new methods to understand the local structure of arc spaces from a schematic point of view. Building on prior work, this work has produced new results during the period of the grant. The most recent paper resulting from it is devoted to proving several finiteness results about maps induced on arc spaces from morphisms of schemes; these results yield new discoveries about local rings on arc spaces, leading, among other things, to an extension to this setting of a classical result of Lech on the semicontinuity of embedding dimension in Noetherian local rings. More recently, this collaboration has shifted towards the development of a new approach based on tangent categories that is expected to apply in much larger generality and yield new applications in the context of arithmetic jet spaces and Greenberg schemes. Foundational results have already been established, and further investigations will be continued in future research.    Arc spaces and jet schemes have also been the subject of a collaboration with Wang, where a new class of singularities generalizing Du Val singularities to higher dimensions are introduced and studied from the point of view of the Nash problem. In a related work, Wang and the PI have tackled the Nash problem for Du Val singularities in positive characteristics where characteristic zero methods are known to fail. Other outcomes of the research carried out under the grant include the development of a new theory of motivic integration on Berkovich spaces (with Lau), a new approach to motivic integration on arc spaces that can be applied in positive characteristic without assuming existence of resolution of singularities (with Mere), and the continuation of the study of Fano varieties from the point of view of rationality and birational rigidity.    In terms of broader impacts, the PI has advised graduate and undergraduate students, has mentored postdocs, has been involved with the departments pre-service and in-service teacher preparation program, has organized workshops mainly addressed to students and postdocs, and has been involved in other training and educational activities in his role of Department Chair.     Last Modified: 12/03/2024       Submitted by: TommasoDe Fernex]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

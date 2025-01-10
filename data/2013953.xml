@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Investigating Fundamental Physics with Cosmological Probes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>240000.00</AwardTotalIntnAmount>
+<AwardAmount>240000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith Dienes</SignBlockName>
+<PO_EMAI>kdienes@nsf.gov</PO_EMAI>
+<PO_PHON>7032925314</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award funds the research activities of Professor Mark Hertzberg at Tufts University.&lt;br/&gt;&lt;br/&gt;Many branches of modern physics are built upon the Standard Model of particle physics and cosmology.  Future developments in fundamental physics will arise from addressing several unexplained features of our universe. Some of the most pressing questions arise in cosmology:  What physics lies beyond the Standard Model that might be relevant to the early universe?  What is the nature of dark matter?  What is the underlying structure of gravitation?  As part of his research, Professor Hertzberg will investigate specific aspects of these important questions by building theoretical models and comparing to cosmological data.  This research therefore advances the national interest by pursuing basic scientific questions of high significance.  This project will also have broader impacts.  It will involve mentees, who will play an important role in developing models and in computational work, and help them develop essential research skills. &lt;br/&gt;&lt;br/&gt;More technically, this project will explore new physics required for consistent dynamics of the Standard Model after inflation, explore novel probes of light axion dark matter and new dark-matter models, and investigate the origin of Poincare symmetry from consistency of the gravitational sector. This work involves forming theoretical models, requiring both internal consistency and agreement with observations, all studied rigorously using the guiding principles of effective field theory. On the front concerning physics beyond the Standard Model, the primary objectives are to constrain features of the Standard Model, including the Higgs boson and models of inflation, from consistency with early-universe dynamics.   On the dark-matter front, the primary objectives are to investigate astrophysical consequences from dark-matter candidates, such as novel properties of axions, and to explore natural models of dark matter.  On the gravitational front, the primary objectives are to determine the necessary and sufficient conditions to build a local theory of gravitons.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2013953</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Hertzberg</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark P Hertzberg</PI_FULL_NAME>
+<EmailAddress><![CDATA[Mark.Hertzberg@tufts.edu]]></EmailAddress>
+<NSF_ID>000736040</NSF_ID>
+<StartDate>08/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Tufts University]]></Name>
+<CityName>SOMERVILLE</CityName>
+<ZipCode>021442401</ZipCode>
+<PhoneNumber>6176273696</PhoneNumber>
+<StreetAddress><![CDATA[169 HOLLAND ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WL9FLBRVPJJ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF TUFTS COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WL9FLBRVPJJ7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Tufts University]]></Name>
+<CityName>Medford</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021555807</ZipCode>
+<StreetAddress><![CDATA[574 Boston Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128800</Code>
+<Text>Particle Astrophysics &amp; Cosmol</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~80000</FUND_OBLG>
+<FUND_OBLG>2021~80000</FUND_OBLG>
+<FUND_OBLG>2022~80000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Our present understanding of nature is encoded in the standard model of particle physics and cosmology and has been dramatically successful over a wide range of scales in the universe. However, there are several extremely important observational and theoretical shortcomings, which the work addresses. This project considered several concrete sub-problems within particle cosmology.</p>  <p>This included (a) constraints on new dark forces, (b) quantum corrections to gravitational waves, (c)&nbsp;axion model building, (d) new Hubble tension models, (e) constraints on ultralight dark matter, (f) constraints on gravity with/without time translation symmetry, (g) boson stars, (h) testing stochastic methods of tunneling, (i) quantum behavior of the gravitational field. This resulted in numerous publications in highly respected journals.</p>  <p>On the topic of constraints on new dark forces, the PI first showed that models that superfluid models that purport to reproduce MONDian dynamics, suffer hyperbolicity and causality breakdown. Then the PI developed a class of novel theoretically consistent models, which make new predictions for the behavior of neutron stars which can be tested in upcoming observations.</p>  <p>On the topic of quantum corrections to gravitational waves, the PI calculated the properties of squeezed states of gravitational waves and for the first time placed observational bounds on the amount of squeezing from LIGO-Virgo observations of black hole mergers.</p>  <p>On the topic of axion model building, the PI develop a new class of models in which the Peccei-Quinn (PQ) scale becomes dynamical in the early universe due to a coupling to new light degrees of freedom. The PI computed the altered relationship between the PQ scale and the final axion abundance, finding that more natural, or GUT scale, values for the PQ scale become viable.</p>  <p>On the topic of Hubble tension models, the PI developed new interesting models that can help to alleviate the tension between the early time (CMB) inferred value for the Hubble constant and the late time (supernovae) measured value. These models included work on new resonant behavior, work on new strongly coupled sectors, and work on stepped models, which all showed some degree of alleviation, though the challenge for a complete model remains.&nbsp;</p>  <p>On the topic of constraints on ultralight dark matter, the PI considered the tunneling of ultralight particles out of dwarf galaxies. This occurs because there are 2 competing potentials, the nearby one from the dwarf and the further from the host galaxy. For interesting values of the ultralight particle (axion) mass, the rate is found to be too large for the long-lived nature of these dwarfs, putting extra pressure on this space of models.</p>  <p>On the topic of constraints on gravity with/without time translation symmetry, the PI relaxed as many space time assumptions as possible on the structure of the 2 degrees of freedom of the graviton; previously Lorentz, now time translations. Nevertheless, the PI could show that locality demands that these symmetries are recovered, up to an overall possible linear change in the effective speed of the graviton. This may be altered by higher order corrections.</p>  <p>On the topic of boson stars, the PI explored the annihilation rates of models that utilize repulsive self-interactions to support such stars. The PI found that the annihilation processes at the core of these stars forbids them from being relevant to LIGO-Virgo observations, as had been claimed in a range of papers by others.</p>  <p>On the topic of testing stochastic methods of tunneling, the PI systematically studied the claim that by drawing from the free theory wavefunction, then evolving classically, reproduces the known instanton tunnelling rates in field theory. The PI identified a crucial error in works by others and computed the rates precisely for the first time.</p>  <p>&nbsp;On the topic of quantum behavior of the gravitational field, the PI considered the interesting issue of what would happen if the gravitational field is in a macroscopic quantum superposition. This could arise from dark matter with a density profile in a superposition. Such behavior can undergo decoherence purely due to gravitation itself; this is a robust quantum gravity calculation, which the PI carried out in detail.</p>  <p>Throughout this project the PI engaged in mentoring. Firstly, the PI guided a post-doc on this research, which has advanced their career. Secondly, the PI guided multiple graduate students and undergraduate students on thesis topics on this work. Moreover, the PI engaged in the dissemination of science outside Tufts University; giving numerous talks at other institutions, workshops, and conferences; leading discussions on scientific panels; travel to various parts of the US, as well as Europe, Asia, and Australia. Furthermore, the PI connected to different groups interested in aspects of cosmology, particle physics, and astronomy, furthering connections between these and general interest groups.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/31/2024<br> Modified by: Mark&nbsp;P&nbsp;Hertzberg</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Our present understanding of nature is encoded in the standard model of particle physics and cosmology and has been dramatically successful over a wide range of scales in the universe. However, there are several extremely important observational and theoretical shortcomings, which the work addresses. This project considered several concrete sub-problems within particle cosmology.    This included (a) constraints on new dark forces, (b) quantum corrections to gravitational waves, (c)axion model building, (d) new Hubble tension models, (e) constraints on ultralight dark matter, (f) constraints on gravity with/without time translation symmetry, (g) boson stars, (h) testing stochastic methods of tunneling, (i) quantum behavior of the gravitational field. This resulted in numerous publications in highly respected journals.    On the topic of constraints on new dark forces, the PI first showed that models that superfluid models that purport to reproduce MONDian dynamics, suffer hyperbolicity and causality breakdown. Then the PI developed a class of novel theoretically consistent models, which make new predictions for the behavior of neutron stars which can be tested in upcoming observations.    On the topic of quantum corrections to gravitational waves, the PI calculated the properties of squeezed states of gravitational waves and for the first time placed observational bounds on the amount of squeezing from LIGO-Virgo observations of black hole mergers.    On the topic of axion model building, the PI develop a new class of models in which the Peccei-Quinn (PQ) scale becomes dynamical in the early universe due to a coupling to new light degrees of freedom. The PI computed the altered relationship between the PQ scale and the final axion abundance, finding that more natural, or GUT scale, values for the PQ scale become viable.    On the topic of Hubble tension models, the PI developed new interesting models that can help to alleviate the tension between the early time (CMB) inferred value for the Hubble constant and the late time (supernovae) measured value. These models included work on new resonant behavior, work on new strongly coupled sectors, and work on stepped models, which all showed some degree of alleviation, though the challenge for a complete model remains.    On the topic of constraints on ultralight dark matter, the PI considered the tunneling of ultralight particles out of dwarf galaxies. This occurs because there are 2 competing potentials, the nearby one from the dwarf and the further from the host galaxy. For interesting values of the ultralight particle (axion) mass, the rate is found to be too large for the long-lived nature of these dwarfs, putting extra pressure on this space of models.    On the topic of constraints on gravity with/without time translation symmetry, the PI relaxed as many space time assumptions as possible on the structure of the 2 degrees of freedom of the graviton; previously Lorentz, now time translations. Nevertheless, the PI could show that locality demands that these symmetries are recovered, up to an overall possible linear change in the effective speed of the graviton. This may be altered by higher order corrections.    On the topic of boson stars, the PI explored the annihilation rates of models that utilize repulsive self-interactions to support such stars. The PI found that the annihilation processes at the core of these stars forbids them from being relevant to LIGO-Virgo observations, as had been claimed in a range of papers by others.    On the topic of testing stochastic methods of tunneling, the PI systematically studied the claim that by drawing from the free theory wavefunction, then evolving classically, reproduces the known instanton tunnelling rates in field theory. The PI identified a crucial error in works by others and computed the rates precisely for the first time.    On the topic of quantum behavior of the gravitational field, the PI considered the interesting issue of what would happen if the gravitational field is in a macroscopic quantum superposition. This could arise from dark matter with a density profile in a superposition. Such behavior can undergo decoherence purely due to gravitation itself; this is a robust quantum gravity calculation, which the PI carried out in detail.    Throughout this project the PI engaged in mentoring. Firstly, the PI guided a post-doc on this research, which has advanced their career. Secondly, the PI guided multiple graduate students and undergraduate students on thesis topics on this work. Moreover, the PI engaged in the dissemination of science outside Tufts University; giving numerous talks at other institutions, workshops, and conferences; leading discussions on scientific panels; travel to various parts of the US, as well as Europe, Asia, and Australia. Furthermore, the PI connected to different groups interested in aspects of cosmology, particle physics, and astronomy, furthering connections between these and general interest groups.         Last Modified: 12/31/2024       Submitted by: MarkPHertzberg]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

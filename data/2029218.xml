@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: IRNC: Testbed: BRIDGES - Binding Research Infrastructures for the Deployment of Global Experimental Science]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>463257.00</AwardTotalIntnAmount>
+<AwardAmount>463257</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+<PO_EMAI>kthompso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924220</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The BRIDGES project is developing an innovative, dynamic, high-performance trans-Atlantic network testbed that interconnects research communities and their resources in the US with collaborating partners and facilities in Europe. It explores advanced virtualized network architectures enabling rapidly reconfigurable global cyber-infrastructure to address changing research requirements of the collaborators to explore new concepts and to create new project workflows securely and with consistent, predictable performance.&lt;br/&gt;&lt;br/&gt;The BRIDGES facility consists of two geographically separate optical links spanning the North Atlantic and terrestrial optical links in US and Europe to form an intercontinental optical network ring topology, capable of carrying up to 200 Gbps of science data between major nodes in Washington, New York, Paris, and Amsterdam. The BRIDGES facility is a binding platform for research projects, providing a flexible research-oriented infrastructure connecting laboratories and universities in the US to their counterparts in Europe. Science applications in high energy physics, deep space communications, and even biomedical programs are collaborating with BRIDGES to leverage them investment in this technology to reach digital resources such as globally distributed or remote sensors and instruments, distributed data storage, analytical processing resources, to create new global applications tailored to the science at hand. BRIDGES is led by George Mason University and East Carolina University and is working with and connecting an initial community of nearly 40 networking and science research projects across the US and Europe. The project is expected to have a far-reaching impact beyond the testbed or interconnect facility and lead to innovative use of cyber-infrastructures.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/09/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029218</AwardID>
+<Investigator>
+<FirstName>Ciprian</FirstName>
+<LastName>Popoviciu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ciprian Popoviciu</PI_FULL_NAME>
+<EmailAddress><![CDATA[popoviciuc18@ecu.edu]]></EmailAddress>
+<NSF_ID>000813238</NSF_ID>
+<StartDate>08/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[East Carolina University]]></Name>
+<CityName>GREENVILLE</CityName>
+<ZipCode>278582502</ZipCode>
+<PhoneNumber>2523289530</PhoneNumber>
+<StreetAddress><![CDATA[1000 E 5TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HWPEKM8VFTJ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EAST CAROLINA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[East Carolina University]]></Name>
+<CityName/>
+<StateCode>NC</StateCode>
+<ZipCode>278341821</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736900</Code>
+<Text>International Res Ret Connect</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~149208</FUND_OBLG>
+<FUND_OBLG>2021~155579</FUND_OBLG>
+<FUND_OBLG>2022~158470</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>BRIDGES project goal was to provide an innovative way of empowering scientists in the US and Europe with data-intensive science research applications to dynamically create and manage the cyber-infrastructure (network, computing and storage resources) needed to collaborate and share their resources. Additionally, BRIDGES aimed to provide a rigorous architectural approach to cyber-infrastructure design through the concept of component abstraction as a way to formalize the integration of various resources in support of research infrastructures.</p> <p>Over the duration of the product the cross-Atlantic, 100Gbps infrastructure was designed and deployed. OpenNSA was implemented to support network provisioning and extensive work was performed to implement the GTS software to support full cyberinfrastructure provisioning and management in the context of a complete resource virtualization architecture. The complexity of the GTS software, which consists of a large code base implemented in multiple programing languages, proved to be a significant obstacle for the number of human resources funded for the project. An attempt was made to develop a unified, trimmed down orchestrator that implements the generalized virtualization concepts proposed in this project and applies the lessons learned from the evaluation and testing of GTS, however, the work could not be completed before the end of the project. The BRIDGES testbed was monitored managed by an implementation of NetBox. <br /> <br /> The BRIDGES cyberinfrastructure involved several interested organizations in US and Europe and has a small number of users who continue to use it and provide some funding to sustain its operation. While the level of adoption is lower than what was envisioned, the testbed clearly meets a need of the research community. Additionally, the concept of generalized virtualization proposed and developed within this project was positively received at the events where the project team presented it. The project led to multiple conference and workshop presentations and proceedings publications. In the final year of the project, we expanded on the generalized virtualization architecture by applying AI to facilitate operations. Since the in the generalized virtualization architecture the provisioned cyberinfrastructure can be captured in a JSON, LLMs can be used to further simplify the testbed provisioning and management so that researchers using the infrastructure can avoid learning a new, albeit simple, provisioning tool. <br /> <br /> Finally, it is important to note to significant impact this project had in providing undergraduate students with the experience of working on advanced cyberinfrastructures, on applying and developing operational tools and on the opportunities of building a career in this domain. The project employed a diverse set of undergraduate students with backgrounds in computer science and networking technologies and it hired one of them as a software developer upon graduation. <br /> <br /> The lessons learned through the project represent an important outcome for the project team. First, the concept of generalized virtualization merits further exploration, particularly as a foundation for the use of AI in provisioning and management of cyberinfrastructures. Second, the effort needed to revive and expand existing software such as GTS required more resources and while code reuse was envisioned as a cost saving strategy, the goals might have been easier to achieve with a fresh start. Third, while focused on execution, we were pleasantly surprised by the positive effect this experience had on the undergraduate students who had a chance to work on advanced networking technologies.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/10/2024<br> Modified by: Ciprian&nbsp;Popoviciu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  BRIDGES project goal was to provide an innovative way of empowering scientists in the US and Europe with data-intensive science research applications to dynamically create and manage the cyber-infrastructure (network, computing and storage resources) needed to collaborate and share their resources. Additionally, BRIDGES aimed to provide a rigorous architectural approach to cyber-infrastructure design through the concept of component abstraction as a way to formalize the integration of various resources in support of research infrastructures.   Over the duration of the product the cross-Atlantic, 100Gbps infrastructure was designed and deployed. OpenNSA was implemented to support network provisioning and extensive work was performed to implement the GTS software to support full cyberinfrastructure provisioning and management in the context of a complete resource virtualization architecture. The complexity of the GTS software, which consists of a large code base implemented in multiple programing languages, proved to be a significant obstacle for the number of human resources funded for the project. An attempt was made to develop a unified, trimmed down orchestrator that implements the generalized virtualization concepts proposed in this project and applies the lessons learned from the evaluation and testing of GTS, however, the work could not be completed before the end of the project. The BRIDGES testbed was monitored managed by an implementation of NetBox.     The BRIDGES cyberinfrastructure involved several interested organizations in US and Europe and has a small number of users who continue to use it and provide some funding to sustain its operation. While the level of adoption is lower than what was envisioned, the testbed clearly meets a need of the research community. Additionally, the concept of generalized virtualization proposed and developed within this project was positively received at the events where the project team presented it. The project led to multiple conference and workshop presentations and proceedings publications. In the final year of the project, we expanded on the generalized virtualization architecture by applying AI to facilitate operations. Since the in the generalized virtualization architecture the provisioned cyberinfrastructure can be captured in a JSON, LLMs can be used to further simplify the testbed provisioning and management so that researchers using the infrastructure can avoid learning a new, albeit simple, provisioning tool.     Finally, it is important to note to significant impact this project had in providing undergraduate students with the experience of working on advanced cyberinfrastructures, on applying and developing operational tools and on the opportunities of building a career in this domain. The project employed a diverse set of undergraduate students with backgrounds in computer science and networking technologies and it hired one of them as a software developer upon graduation.     The lessons learned through the project represent an important outcome for the project team. First, the concept of generalized virtualization merits further exploration, particularly as a foundation for the use of AI in provisioning and management of cyberinfrastructures. Second, the effort needed to revive and expand existing software such as GTS required more resources and while code reuse was envisioned as a cost saving strategy, the goals might have been easier to achieve with a fresh start. Third, while focused on execution, we were pleasantly surprised by the positive effect this experience had on the undergraduate students who had a chance to work on advanced networking technologies.        Last Modified: 11/10/2024       Submitted by: CiprianPopoviciu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

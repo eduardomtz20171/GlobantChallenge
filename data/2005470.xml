@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Geometry and Dynamics of K3 Surfaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>216416.00</AwardTotalIntnAmount>
+<AwardAmount>216416</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Kania-Bartoszynska</SignBlockName>
+<PO_EMAI>jkaniaba@nsf.gov</PO_EMAI>
+<PO_PHON>7032924881</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The goal of research in dynamical systems is to understand the long-term behavior of a structure that changes according to some predetermined law. The structures and the laws come from diverse fields such as physics, economics, biology, to name a few, and as a consequence dynamical systems pervade most areas of science and its applications. Among dynamical systems, area-preserving maps are both ubiquitous and poorly understood. This project investigates area-preserving maps and their geometry on a class of spaces called K3 surfaces. Such dynamical systems serve as basic models for a broad class of situations and intertwine unpredictability (chaos) with tame, predictable behavior. Systems exhibiting only unpredictability, as well as systems exhibiting only tame behavior, are by now well-studied and the goal of this project is to understand the boundary and coexistence of these two extremes.&lt;br/&gt;&lt;br/&gt;In one direction, the PI will study the dynamics in moduli spaces of K3 surfaces. Moduli spaces parametrize all possible objects of a given type and are fundamental tools in mathematics and theoretical physics. Dynamics in moduli spaces describes how the geometry of the surface changes and, consequently, leads to an understanding of the dynamics on the surface itself. Part of the research program is based on earlier developments in homogeneous and Teichmüller dynamics, following analogies between K3 and Riemann surfaces. The geometry of K3 surfaces is controlled by Ricci-flat metrics, which are solutions to Monge-Ampère partial differential equations. The PI will relate these equations to more dynamical invariants, such as Lyapunov exponents and entropy. Additionally, the PI will study non-Archimedean versions of these questions and will develop the necessary tools in non-Archimedean dynamics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005470</AwardID>
+<Investigator>
+<FirstName>Simion</FirstName>
+<LastName>Filip</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Simion Filip</PI_FULL_NAME>
+<EmailAddress><![CDATA[sfilip@uchicago.edu]]></EmailAddress>
+<NSF_ID>000810896</NSF_ID>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress><![CDATA[5801 S ELLIS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606371505</ZipCode>
+<StreetAddress><![CDATA[5734 South University Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~216416</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Dynamical systems are pervasive in all areas of science and engineering, from the basic laws of nature, to the description of markets or biological systems, and in the study of new materials and mechanisms. The theoretical study of dynamical systems is based in the analysis of model examples which exhibit features that can then be observed in broader classes of systems. While the laws describing the evolution of a system can be accessible and elementary, the description of longterm behavior can be unexpectedly complex.</p>  <p><br />This project focused on the analysis of dynamical systems that are closely related to geometric structures. Specifically, one is concerned with the space of all possible geometric structures of a given type, for example geometric shapes subject to some explicit analytic constraints. The collection of all such possible geometric shapes is organized into a "moduli space", itself a space with much richer and interesting geometric structure.Dynamical systems on the moduli space then correspond to modifying shapes according to some prescribed law.<br />The long-term behavior of such systems can be analyzed by techniques introduced in this project and reveals patterns in the structure of all shapes that are not accessible otherwise. This leads to a fruitful interaction between geometry and dynamics: geometry offers an interesting space to be studied, as well as additional structures, which can then be studied by dynamical techniques, which in turn shed light on the original structures.</p>  <p><br />This project has specifically concentrated on low-dimensional shapes, such as surfaces (real and complex), which admit special geometric structures obtained by solving certain partial differential equations. In one direction, the longterm behavior of dynamical systems on the moduli space revealed new structures which arise as the geometry of the shape degenerates and is no longer part of the original moduli space. In a different direction, new examples of dynamical systems with unexpected behavior were developed.</p><br> <p>  Last Modified: 11/29/2024<br> Modified by: Simion&nbsp;Filip</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2005470/2005470_10688213_1732896247503_screenshot_high_res_smallplane_cropped--rgov-214x142.png" original="/por/images/Reports/POR/2024/2005470/2005470_10688213_1732896247503_screenshot_high_res_smallplane_cropped--rgov-800width.png" title="Elliptic fiber on a K3 surface"><img src="/por/images/Reports/POR/2024/2005470/2005470_10688213_1732896247503_screenshot_high_res_smallplane_cropped--rgov-66x44.png" alt="Elliptic fiber on a K3 surface"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A K3 surface (red) and a hyperplane section giving an elliptic curve.</div> <div class="imageCredit">Simion Filip</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Simion&nbsp;Filip <div class="imageTitle">Elliptic fiber on a K3 surface</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2005470/2005470_10688213_1732896428818_Dwork5_bis--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2005470/2005470_10688213_1732896428818_Dwork5_bis--rgov-800width.jpg" title="Limit set of an Anosov representation"><img src="/por/images/Reports/POR/2024/2005470/2005470_10688213_1732896428818_Dwork5_bis--rgov-66x44.jpg" alt="Limit set of an Anosov representation"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The limit set of the monodromy group of the Dwork/Fermat family.</div> <div class="imageCredit">Simion Filip</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Simion&nbsp;Filip <div class="imageTitle">Limit set of an Anosov representation</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2005470/2005470_10688213_1732896330522_starshape_pt_1__1__1__param_1__0__1__0___1__0___1__0__0__0_--rgov-214x142.png" original="/por/images/Reports/POR/2024/2005470/2005470_10688213_1732896330522_starshape_pt_1__1__1__param_1__0__1__0___1__0___1__0__0__0_--rgov-800width.png" title="Canonical height on a K3 surface"><img src="/por/images/Reports/POR/2024/2005470/2005470_10688213_1732896330522_starshape_pt_1__1__1__param_1__0__1__0___1__0___1__0__0__0_--rgov-66x44.png" alt="Canonical height on a K3 surface"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The level set of the height function on the boundary of the ample cone of a K3 surface</div> <div class="imageCredit">Simion Filip</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Simion&nbsp;Filip <div class="imageTitle">Canonical height on a K3 surface</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Dynamical systems are pervasive in all areas of science and engineering, from the basic laws of nature, to the description of markets or biological systems, and in the study of new materials and mechanisms. The theoretical study of dynamical systems is based in the analysis of model examples which exhibit features that can then be observed in broader classes of systems. While the laws describing the evolution of a system can be accessible and elementary, the description of longterm behavior can be unexpectedly complex.     This project focused on the analysis of dynamical systems that are closely related to geometric structures. Specifically, one is concerned with the space of all possible geometric structures of a given type, for example geometric shapes subject to some explicit analytic constraints. The collection of all such possible geometric shapes is organized into a "moduli space", itself a space with much richer and interesting geometric structure.Dynamical systems on the moduli space then correspond to modifying shapes according to some prescribed law. The long-term behavior of such systems can be analyzed by techniques introduced in this project and reveals patterns in the structure of all shapes that are not accessible otherwise. This leads to a fruitful interaction between geometry and dynamics: geometry offers an interesting space to be studied, as well as additional structures, which can then be studied by dynamical techniques, which in turn shed light on the original structures.     This project has specifically concentrated on low-dimensional shapes, such as surfaces (real and complex), which admit special geometric structures obtained by solving certain partial differential equations. In one direction, the longterm behavior of dynamical systems on the moduli space revealed new structures which arise as the geometry of the shape degenerates and is no longer part of the original moduli space. In a different direction, new examples of dynamical systems with unexpected behavior were developed.     Last Modified: 11/29/2024       Submitted by: SimionFilip]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

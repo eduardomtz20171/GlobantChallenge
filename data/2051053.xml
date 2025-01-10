@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Collaborative: Making Augmented and Virtual Reality Accessible]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>172427.00</AwardTotalIntnAmount>
+<AwardAmount>172427</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Brass</SignBlockName>
+<PO_EMAI>pbrass@nsf.gov</PO_EMAI>
+<PO_PHON>7032922182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Augmented and virtual reality (XR) technologies are becoming popular consumer products. However, at present XR devices, development tools, and content pose major accessibility challenges for people with disabilities. How can you describe a 3D virtual environment to a person with a visual impairment? How should you present captions in 3D to a person who is hard-of-hearing? How can a person with a motor control disability navigate a 3D world?    &lt;br/&gt;&lt;br/&gt;This REU Site brings together Profs. Shiri Azenkot and Brian Smith, experts in accessibility, along with Prof. Steven Feiner, an augmented reality and 3D interaction pioneer. The site will train students to be future leaders in XR accessibility. Students will receive training in accessibility and XR, engage in the research process from ideation to presentations, and join a community of scholars and practitioners who will provide career advice and mentorship. In addition, the projects undertaken by REU students will form the basis for new collaborations among the investigators and other collaborators at Columbia and Cornell. The site will recruit students from underrepresented backgrounds, especially students with disabilities. The target is to have a mixed-ability cohort where half the students have a disability and half do not. Students will participate in a range of formal and informal learning, including an XR development "bootcamp," conversations with XR experts across academia and industry, and presentations on their work progress. Students will work on projects at the intersection of accessibility and XR. Examples of possible projects include designing descriptions that provide overviews of virtual environments for people who are blind and designing effective navigation techniques in a virtual environment, also for people who are blind. &lt;br/&gt;&lt;br/&gt;The broader impacts of this proposal are two-fold. First, it supports the NSF’s mission of broadening participation by focusing recruitment efforts on students from underrepresented groups, especially students with disabilities. Second, the focus of the research will benefit people with disabilities around the world. As XR becomes an increasingly popular consumer platform, the REU research will help ensure that it provides an equal user experience to people regardless of their disability status.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/12/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/12/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051053</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Smith</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian A Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[brian@cs.columbia.edu]]></EmailAddress>
+<NSF_ID>000836673</NSF_ID>
+<StartDate>05/12/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Feiner</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven K Feiner</PI_FULL_NAME>
+<EmailAddress><![CDATA[feiner@cs.columbia.edu]]></EmailAddress>
+<NSF_ID>000121899</NSF_ID>
+<StartDate>05/12/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100277922</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress><![CDATA[615 W 131ST ST]]></StreetAddress>
+<StreetAddress2><![CDATA[MC 8741]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276624</ZipCode>
+<StreetAddress><![CDATA[530 W 120th St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>113900</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~172427</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This Research Experiences for Undergraduates (REU) project, brought together by Cornell Tech and Columbia, trained three cohorts of undergraduate students to become future leaders in virtual reality (VR) and augmented reality (AR) accessibility. The project recruited 23 students, predominantly from underrepresented groups, with half of our recruited students having a disability themselves. These students conducted research during nine weeks in projects that advance equal VR and AR user experiences to people regardless of their disability status. Unlike many REUs, we recruited all students from outside our universities. All students stayed in residence in Columbia University residence halls for their participation in the program.</p> <p>The project was led by Dr. Shiri Azenkot at Cornell Tech and Drs. Brian Smith and Steven Feiner at Columbia University. Students conducted research in their labs, coauthoring four publications at premier international venues in human&ndash;computer interaction (HCI) and assistive technology. The publications advanced topics such as giving blind and low-vision users greater spatial awareness of their surroundings in virtual reality, as well as making sports broadcasts more accessible to blind and low-vision users.&nbsp;</p> <p>In addition to conducting research, students participated in an annual XR development &ldquo;bootcamp&rdquo; (held at Cornell Tech), attended the annual XR Access Symposium (<a href="https://xraccess.org/symposium/">https://xraccess.org/symposium/</a>), and attended weekly professional development and research methods learning meetings led by PhD students at Cornell and Columbia. These meetings covered all aspects of research from project initiation, to technical development, to user studies, to giving presentations. Students also attended weekly speaker series events with leaders from Yahoo!, Google, Microsoft, Snap, Helen Keller Services for the Blind, and other organizations advancing assistive technology.</p> <p>Over the course of the program, as measured by pre- and post-program surveys, students reported increases in comfort with research methods and interaction design techniques, as well as increased interest in pursuing future studies and careers in technology accessibility-related fields. Several student participants have already started careers in VR development, including founding a immersive VR startup company. A project showcase for students&rsquo; projects is available at the following website:<br /> <a href="https://xraccess.org/reu/">https://xraccess.org/reu/</a></p> <p>&nbsp;</p><br> <p>  Last Modified: 08/18/2024<br> Modified by: Brian&nbsp;A&nbsp;Smith</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This Research Experiences for Undergraduates (REU) project, brought together by Cornell Tech and Columbia, trained three cohorts of undergraduate students to become future leaders in virtual reality (VR) and augmented reality (AR) accessibility. The project recruited 23 students, predominantly from underrepresented groups, with half of our recruited students having a disability themselves. These students conducted research during nine weeks in projects that advance equal VR and AR user experiences to people regardless of their disability status. Unlike many REUs, we recruited all students from outside our universities. All students stayed in residence in Columbia University residence halls for their participation in the program.   The project was led by Dr. Shiri Azenkot at Cornell Tech and Drs. Brian Smith and Steven Feiner at Columbia University. Students conducted research in their labs, coauthoring four publications at premier international venues in humancomputer interaction (HCI) and assistive technology. The publications advanced topics such as giving blind and low-vision users greater spatial awareness of their surroundings in virtual reality, as well as making sports broadcasts more accessible to blind and low-vision users.   In addition to conducting research, students participated in an annual XR development bootcamp (held at Cornell Tech), attended the annual XR Access Symposium (https://xraccess.org/symposium/), and attended weekly professional development and research methods learning meetings led by PhD students at Cornell and Columbia. These meetings covered all aspects of research from project initiation, to technical development, to user studies, to giving presentations. Students also attended weekly speaker series events with leaders from Yahoo!, Google, Microsoft, Snap, Helen Keller Services for the Blind, and other organizations advancing assistive technology.   Over the course of the program, as measured by pre- and post-program surveys, students reported increases in comfort with research methods and interaction design techniques, as well as increased interest in pursuing future studies and careers in technology accessibility-related fields. Several student participants have already started careers in VR development, including founding a immersive VR startup company. A project showcase for students projects is available at the following website:  https://xraccess.org/reu/        Last Modified: 08/18/2024       Submitted by: BrianASmith]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[W-Algebras and Universal Objects in Vertex Algebra Theory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>165802.00</AwardTotalIntnAmount>
+<AwardAmount>165802</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+<PO_EMAI>mdouglas@nsf.gov</PO_EMAI>
+<PO_PHON>7032922467</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many structures and concepts that were inspired by physics have had a profound influence on mathematics during the last half century. For example, stringy invariants of manifolds such as quantum cohomology have led to spectacular advances in enumerative geometry. On the algebraic side, a fundamental new structure called a vertex operator algebra (VOA) emerged from quantum field theory in the 1980s, and was axiomatized by Borcherds in his work on the Moonshine Conjecture. VOAs are natural generalizations of commutative rings, and in the last thirty years, they have found applications in a diverse range of subjects including finite group theory, representation theory, combinatorics, number theory, and algebraic geometry. In this project, the PI will investigate the structure and representation theory of VOAs, as well as some connections between VOAs and algebraic geometry. These projects will advance the subject and provide educational and collaborative opportunities for the PI's current and former graduate students.&lt;br/&gt;&lt;br/&gt;First, the PI's work on the coset realization of principal W-algebras of A, D, and E types resolved a 30-year-old conjecture which had been a key starting assumption in physics. It has many striking corollaries such as the unitarity of all discrete series representations of principal W-algebras, and the existence of modular tensor categories of modules for affine VOAs at admissible levels. The PI will construct coset realizations of principal W-algebras of other Lie types, as well as non-principal W-algebras and W-superalgebras. Second, the PI recently constructed a universal two-parameter VOA which interpolates between all the type A principal W-algebras, in the sense that they arise as one-parameter quotients of this structure. The PI will construct more general universal objects, which are VOAs defined over the ring of functions on some variety X. Typically, interesting VOAs are obtained by specializing the universal object along certain subvarieties of X, and unexpected isomorphisms of these VOAs correspond to intersection points on these subvarieties. Third, the PI will study two affine schemes that have been attached to a VOA by Arakawa: the associated scheme and the singular support. There is always a closed embedding of the singular support in the arc space of the associated scheme. The PI will investigate good criteria for this embedding to be an isomorphism. This has many applications in VOA theory and is connected to questions about the geometry of arc spaces that are of independent interest.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001484</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Linshaw</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew R Linshaw</PI_FULL_NAME>
+<EmailAddress><![CDATA[andrew.linshaw@du.edu]]></EmailAddress>
+<NSF_ID>000071003</NSF_ID>
+<StartDate>03/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Denver]]></Name>
+<CityName>DENVER</CityName>
+<ZipCode>802104711</ZipCode>
+<PhoneNumber>3038712000</PhoneNumber>
+<StreetAddress><![CDATA[2199 S UNIVERSITY BLVD RM 222]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WCUGNQQ8DZU1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DENVER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WCUGNQQ8DZU1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Denver]]></Name>
+<CityName>Denver</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>802104711</ZipCode>
+<StreetAddress><![CDATA[2199 S. University Blvd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~165802</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Intellectual Merit: Vertex operator algebras (VOAs) are a fundamental class of algebraic structures that arose out of conformal field theory in the 1980s, and were axiomatized by Borcherds in his work on the Moonshine Conjecture. They have connections to many areas of mathematics including finite groups, Lie theory, combinatorics, integer partitions, modular forms, and algebraic geometry. W-algebras are a class of VOAs that are attached to a Lie (super)algebra g and a nilpotent element f in g. They are a common generalization of affine VOAs (the case f = 0) and the Virasoro algebra (the case g = sl_2 and f nonzero). When f is a principal nilpotent, they are known as principal W-algebras. These are the best studied examples, and they appear in many settings such as integrable systems and the geometric Langlands program. Non-principal W-algebras are not as well understood, but they have become increasingly important in physics in recent years. A class of them called hook-type were introduced by Gaiotto and Rapcak in 2017. Their affine cosets are known as Y-algebras, and they are a natural generalization of principal W-algebras of classical Lie types. Gaiotto and Rapcak conjectured that they satisfy a remarkable triality that is a vast generalization of both Feigin-Frenkel duality and the coset realization of principal W-algebras.</p>  <p>A significant outcome of this project was a proof of the triality conjecture in the case of simple Y-algebras in joint work of the PI with Thomas Creutzig. The key idea was to realize the Y-algebras as 1-parameter quotients of certain universal 2-parameter VOAs called W_{\infty}-algebras, which were constructed in the PI's earlier work. Such quotients are in bijection with a family of plane curves called truncation curves. The triality conjecture was proven by explicitly computing the defining ideals for these curves. This result has numerous applications to the structure and representation theory of W-algebras.</p>  <p>In a separate direction, the PI has studied the invariant theory of arc spaces in joint work with Bailin Song. If G is an algebraic group and V is a G-module, there is an action of the arc space of G on the arc space of V. When G is one of the classical Lie groups GL_n, SL_n, or Sp_{2n}, and V is a sum of copies of the standard G-module (and its dual for GL_n or SL_n), we gave generators and relations for the ring of invariant polynomial functions for this action. This can be viewed as the arc space analogue of Weyl's first and second fundamental theorems of invariant theory, and it has many applications to VOAs. First, there is a sheaf of VOAs called the chiral de Rham complex that exists on any manifold in either the smooth, holomorphic, or algebraic setting, which was constructed by Malikov, Schechtman and Vaintrob in a landmark 1998 paper. The description of the global section algebra for Calabi-Yau manifolds was a longstanding open problem, and was previously known only for K3 surfaces. Using the invariant theory of arc spaces, we gave a complete description of this algebra for any Ricci-flat compact Kahler manifold. Second, a VOA is called classically free if it is a quantization of the arc space of its associated variety. There are currently no general tools for determining when a VOA is classically free. Using the invariant theory of arc spaces, we proved this for the simple affine VOA of sp_{2n} for all positive integer levels. Previously, this was only known for n = 1 by work of van Ekeren and Heluani.</p>  <p>Broader Impacts: Due to the interdisciplinary nature of the projects funded by this grant, the results are of interest in several distinct areas of mathematics including representation theory, combinatorics, differential and algebraic geometry, as well as in physics. During the funding period, two of the PI's Ph.D. students graduated: Daniel Graybill (2021, currently Assistant Professor at Fort Lewis College), and Vladimir Kovalchuk (2024, about to begin a postdoctoral position at FAU Erlangen on a Humboldt Fellowship). The PI is currently working with two other Ph.D. students and also supervised three postdocs: Kang Lu (2020-2022, currently at U. Virginia), Florencia Orosz Hunziker (NSF Postdoc 2021-2023, currently Assistant Professor at CU Boulder), and Fei Qi (2022-2025). The PI hosted a number of visitors including Tomoyuki Arakawa, Justine Fasquel, Andoni de Arriba de la Hera, Pedram Hekmati, Shigenori Nakatsuka, Arim Song, and Uhi Rinn Suh. The PI also co-organized the following conferences:</p>  <p>AMS Special Session "Arc Spaces, Vertex Algebras, and Integer Partitions" (with H. Mourtada), Joint Mathematical Meetings, San Francisco, CA, January 2024,</p>  <p>"Representation Theory, Calabi-Yau Manifolds, and Mirror Symmetry" (with A. Huang, S. C. Lau, and T. J. Lee), Harvard University CMSA, November 2022,</p>  <p>AMS Special Session "Some Modern Developments in the Theory of Vertex Algebras" (with S. Kanade and F. Orosz Hunziker), Denver, CO, May 2022.</p><br> <p>  Last Modified: 12/30/2024<br> Modified by: Andrew&nbsp;R&nbsp;Linshaw</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit: Vertex operator algebras (VOAs) are a fundamental class of algebraic structures that arose out of conformal field theory in the 1980s, and were axiomatized by Borcherds in his work on the Moonshine Conjecture. They have connections to many areas of mathematics including finite groups, Lie theory, combinatorics, integer partitions, modular forms, and algebraic geometry. W-algebras are a class of VOAs that are attached to a Lie (super)algebra g and a nilpotent element f in g. They are a common generalization of affine VOAs (the case f = 0) and the Virasoro algebra (the case g = sl_2 and f nonzero). When f is a principal nilpotent, they are known as principal W-algebras. These are the best studied examples, and they appear in many settings such as integrable systems and the geometric Langlands program. Non-principal W-algebras are not as well understood, but they have become increasingly important in physics in recent years. A class of them called hook-type were introduced by Gaiotto and Rapcak in 2017. Their affine cosets are known as Y-algebras, and they are a natural generalization of principal W-algebras of classical Lie types. Gaiotto and Rapcak conjectured that they satisfy a remarkable triality that is a vast generalization of both Feigin-Frenkel duality and the coset realization of principal W-algebras.    A significant outcome of this project was a proof of the triality conjecture in the case of simple Y-algebras in joint work of the PI with Thomas Creutzig. The key idea was to realize the Y-algebras as 1-parameter quotients of certain universal 2-parameter VOAs called W_{\infty}-algebras, which were constructed in the PI's earlier work. Such quotients are in bijection with a family of plane curves called truncation curves. The triality conjecture was proven by explicitly computing the defining ideals for these curves. This result has numerous applications to the structure and representation theory of W-algebras.    In a separate direction, the PI has studied the invariant theory of arc spaces in joint work with Bailin Song. If G is an algebraic group and V is a G-module, there is an action of the arc space of G on the arc space of V. When G is one of the classical Lie groups GL_n, SL_n, or Sp_{2n}, and V is a sum of copies of the standard G-module (and its dual for GL_n or SL_n), we gave generators and relations for the ring of invariant polynomial functions for this action. This can be viewed as the arc space analogue of Weyl's first and second fundamental theorems of invariant theory, and it has many applications to VOAs. First, there is a sheaf of VOAs called the chiral de Rham complex that exists on any manifold in either the smooth, holomorphic, or algebraic setting, which was constructed by Malikov, Schechtman and Vaintrob in a landmark 1998 paper. The description of the global section algebra for Calabi-Yau manifolds was a longstanding open problem, and was previously known only for K3 surfaces. Using the invariant theory of arc spaces, we gave a complete description of this algebra for any Ricci-flat compact Kahler manifold. Second, a VOA is called classically free if it is a quantization of the arc space of its associated variety. There are currently no general tools for determining when a VOA is classically free. Using the invariant theory of arc spaces, we proved this for the simple affine VOA of sp_{2n} for all positive integer levels. Previously, this was only known for n = 1 by work of van Ekeren and Heluani.    Broader Impacts: Due to the interdisciplinary nature of the projects funded by this grant, the results are of interest in several distinct areas of mathematics including representation theory, combinatorics, differential and algebraic geometry, as well as in physics. During the funding period, two of the PI's Ph.D. students graduated: Daniel Graybill (2021, currently Assistant Professor at Fort Lewis College), and Vladimir Kovalchuk (2024, about to begin a postdoctoral position at FAU Erlangen on a Humboldt Fellowship). The PI is currently working with two other Ph.D. students and also supervised three postdocs: Kang Lu (2020-2022, currently at U. Virginia), Florencia Orosz Hunziker (NSF Postdoc 2021-2023, currently Assistant Professor at CU Boulder), and Fei Qi (2022-2025). The PI hosted a number of visitors including Tomoyuki Arakawa, Justine Fasquel, Andoni de Arriba de la Hera, Pedram Hekmati, Shigenori Nakatsuka, Arim Song, and Uhi Rinn Suh. The PI also co-organized the following conferences:    AMS Special Session "Arc Spaces, Vertex Algebras, and Integer Partitions" (with H. Mourtada), Joint Mathematical Meetings, San Francisco, CA, January 2024,    "Representation Theory, Calabi-Yau Manifolds, and Mirror Symmetry" (with A. Huang, S. C. Lau, and T. J. Lee), Harvard University CMSA, November 2022,    AMS Special Session "Some Modern Developments in the Theory of Vertex Algebras" (with S. Kanade and F. Orosz Hunziker), Denver, CO, May 2022.     Last Modified: 12/30/2024       Submitted by: AndrewRLinshaw]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

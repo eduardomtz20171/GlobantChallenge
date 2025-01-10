@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AF: Small:  Complexity of Representations for Inference]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>350000.00</AwardTotalIntnAmount>
+<AwardAmount>350000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Brass</SignBlockName>
+<PO_EMAI>pbrass@nsf.gov</PO_EMAI>
+<PO_PHON>7032922182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The use of computers to store data, and calculate results based on that data, is familiar.   However, people also use computers to reason; that is, to take what is known to be true about the world and infer logical consequences of these properties.  Sometimes, information about the world is measured in terms of probabilities rather than certainties. In this case, the goal is to infer the probability that a particular property of the world follows as a consequence; i.e., computers are used for probabilistic inference as well as logical inference.  Finally, there is the process of using observations about the world to infer properties of the world that are not directly measurable.  All of these kinds of inference have become increasingly widespread and important computational applications, including critically important ones of verifying the correctness of software and hardware.  In these inference problems, one can represent the information for inference in a variety of different ways and, in developing inference methods, one must consider both the complexity of computing these representations and the efficiency of making inferences from them.  This project focuses on analyzing specific representations and associated inference methods that have the potential to improve the overall efficiency of inference and permit efficient inference in a wider variety of situations where it is needed.&lt;br/&gt;&lt;br/&gt;This project will analyze the strengths and limitations of logical inference based on semi-algebraic representations, which are representations in which information is expressed as polynomial inequalities.  In particular, the project will analyze semi-algebraic reasoning as a higher-degree generalization of cutting-planes reasoning and as a dynamic generalization of sum-of squares reasoning, which already captures the best algorithms known for a wide range of NP-hard optimization problems, such as those based on semi-definite programming. This project will also focus on the analysis and methods for sum-product-complement networks, a representation that permits efficient weighted-model counting, a cornerstone of methods for exact probabilistic inference.  This will build on methods for less powerful sum-product networks and branching programs, which sum-product-complement networks generalize. Finally, this project will develop stronger and more general analytical tools for understanding the capabilities of algorithms for inductive inference that are themselves expressed as restricted branching programs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006359</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Beame</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul W Beame</PI_FULL_NAME>
+<EmailAddress><![CDATA[beame@cs.washington.edu]]></EmailAddress>
+<NSF_ID>000169746</NSF_ID>
+<StartDate>07/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981951016</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress><![CDATA[4333 BROOKLYN AVE NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981952350</ZipCode>
+<StreetAddress><![CDATA[185 Stevens Way CSE101]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>287800</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>779600</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~350000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The research supported by this award has advanced the understanding of the complexity of logical inference using several ways of representing logical statements: linear inequalities with integer coefficients over the real numbers, systems of linear equations over the binary field, and multivariate polynomials over the real numbers.<br /><br />The research on inference using linear inequalities and systems of linear equations strengthened connections between the complexity of proofs using these representations and the amount of communication required by computing agents to evaluate functions that depend on all the inputs that the agents receive.<br /><br />The research on logical inference using multivariate polynomials focused on extending Groebner basis algorithms to make effective use of dual variables, which are critical for allowing multivariate polynomials to express many natural logical statements efficiently but which are incompatible with Groebner bases.&nbsp; An important direction of this research was to improve multivariate polynomial techniques so that they can be applied to the problem of verifying nonlinear arithmetic, which has been a major gap in the capabilities of formal verification systems in practice.&nbsp; In particular the research developed a method for polynomial inference using dual variables that yields efficient verification of properties of multiplier circuits at practical integer sizes.&nbsp; The method not only determines the correctness of such circuits but it also produces certificates of correctness that are machine-verifiable in linear time.<br /><br />This research project also developed new methods for understanding the resources required by both quantum and classical computers to compute fundamental functions that are at the heart of a large number of computational tasks including numerical and machine-learning applications.<br /><br />In particular, the research produced a new method for proving lower bounds on the time required by space-bounded quantum computers that yielded the first time lower bounds for solving several of the most important linear algebra problems on quantum computers.&nbsp; Combining these bounds with known classical algorithms, the research shows that for computing these linear algebra problems using any amount of quantum memory, quantum algorithms do not provide any asymptotic advantage over deterministic classical algorithms with the same amount of classical memory.&nbsp; Given that classical processors and memory will remain less expensive and easier to engineer than quantum processors and quantum memory, this implies that one should always prefer classical computation for these problems.<br /><br />The research also derived new optimal lower bounds on the time complexity of space-bounded classical algorithms to multiply Boolean matrices and improve the best lower bounds on the time complexity of space-bounded quantum algorithms for Boolean matrix multiplication.<br /><br />Other products of the research on this project are methods for analyzing the cumulative memory usage required to solve a wide range of computational problems. Cumulative memory is the integral over time of the amount of memory that needs to be used in each step of a computation.&nbsp; This can be seen as the average amount of memory used per time step multiplied by the number of time steps needed, which is at most the product of the time and the maximum amount of memory used.&nbsp; Algorithms with large time-space product but small cumulative memory usage can be interleaved in parallel on multiple inputs at once to yield time-efficient algorithms that can be run with small overall amounts of memory on a per-input basis.&nbsp; Prior to the work on this project, it was known that, in certain idealized situations that represent standard classes of algorithms for breaking crytographic hash functions, a problem where space usage is a critical limitation, the cumulative memory required can be much smaller than the product of time and maximum memory required, which leads to more efficient versions of these algorithms.&nbsp; It was an open question whether such a separation between cumulative memory and time-space product holds in any situation that is not idealized.<br /><br />Our research produced the first lower bounds on cumulative memory for any computational problem by showing that every technique previously known for proving the best time-space tradeoffs for any general model of classical or quantum computation can be modified to prove asymptotically the same lower bound on cumulative memory.&nbsp; This implies strong lower bounds on the cumulative memory required for many dozens of problems, including lower bounds on the cumulative quantum memory required for the linear algebra and matrix problems discussed above.&nbsp;&nbsp; Like the problems above, many of the problems for which time-space tradeoff lower bounds are known can be solved by algorithms with matching time-space products.&nbsp; In particular, these results imply that, unlike the idealized case, there is no possible asymptotic savings in cumulative memory over the time-space product for any of these problems.<br /><br />This award provided research support and training for three graduate students, including one who graduated with their PhD and one who completed their Masters&nbsp; degree.&nbsp; It also provided training for an undergraduate who has gone on to a PhD program.</p><br> <p>  Last Modified: 11/17/2024<br> Modified by: Paul&nbsp;W&nbsp;Beame</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The research supported by this award has advanced the understanding of the complexity of logical inference using several ways of representing logical statements: linear inequalities with integer coefficients over the real numbers, systems of linear equations over the binary field, and multivariate polynomials over the real numbers.  The research on inference using linear inequalities and systems of linear equations strengthened connections between the complexity of proofs using these representations and the amount of communication required by computing agents to evaluate functions that depend on all the inputs that the agents receive.  The research on logical inference using multivariate polynomials focused on extending Groebner basis algorithms to make effective use of dual variables, which are critical for allowing multivariate polynomials to express many natural logical statements efficiently but which are incompatible with Groebner bases. An important direction of this research was to improve multivariate polynomial techniques so that they can be applied to the problem of verifying nonlinear arithmetic, which has been a major gap in the capabilities of formal verification systems in practice. In particular the research developed a method for polynomial inference using dual variables that yields efficient verification of properties of multiplier circuits at practical integer sizes. The method not only determines the correctness of such circuits but it also produces certificates of correctness that are machine-verifiable in linear time.  This research project also developed new methods for understanding the resources required by both quantum and classical computers to compute fundamental functions that are at the heart of a large number of computational tasks including numerical and machine-learning applications.  In particular, the research produced a new method for proving lower bounds on the time required by space-bounded quantum computers that yielded the first time lower bounds for solving several of the most important linear algebra problems on quantum computers. Combining these bounds with known classical algorithms, the research shows that for computing these linear algebra problems using any amount of quantum memory, quantum algorithms do not provide any asymptotic advantage over deterministic classical algorithms with the same amount of classical memory. Given that classical processors and memory will remain less expensive and easier to engineer than quantum processors and quantum memory, this implies that one should always prefer classical computation for these problems.  The research also derived new optimal lower bounds on the time complexity of space-bounded classical algorithms to multiply Boolean matrices and improve the best lower bounds on the time complexity of space-bounded quantum algorithms for Boolean matrix multiplication.  Other products of the research on this project are methods for analyzing the cumulative memory usage required to solve a wide range of computational problems. Cumulative memory is the integral over time of the amount of memory that needs to be used in each step of a computation. This can be seen as the average amount of memory used per time step multiplied by the number of time steps needed, which is at most the product of the time and the maximum amount of memory used. Algorithms with large time-space product but small cumulative memory usage can be interleaved in parallel on multiple inputs at once to yield time-efficient algorithms that can be run with small overall amounts of memory on a per-input basis. Prior to the work on this project, it was known that, in certain idealized situations that represent standard classes of algorithms for breaking crytographic hash functions, a problem where space usage is a critical limitation, the cumulative memory required can be much smaller than the product of time and maximum memory required, which leads to more efficient versions of these algorithms. It was an open question whether such a separation between cumulative memory and time-space product holds in any situation that is not idealized.  Our research produced the first lower bounds on cumulative memory for any computational problem by showing that every technique previously known for proving the best time-space tradeoffs for any general model of classical or quantum computation can be modified to prove asymptotically the same lower bound on cumulative memory. This implies strong lower bounds on the cumulative memory required for many dozens of problems, including lower bounds on the cumulative quantum memory required for the linear algebra and matrix problems discussed above. Like the problems above, many of the problems for which time-space tradeoff lower bounds are known can be solved by algorithms with matching time-space products. In particular, these results imply that, unlike the idealized case, there is no possible asymptotic savings in cumulative memory over the time-space product for any of these problems.  This award provided research support and training for three graduate students, including one who graduated with their PhD and one who completed their Masters degree. It also provided training for an undergraduate who has gone on to a PhD program.     Last Modified: 11/17/2024       Submitted by: PaulWBeame]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

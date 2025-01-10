@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Improving Undergraduate Engineering Education by Integrating Sustainable and Resilient Engineering Design Skills]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>598269.00</AwardTotalIntnAmount>
+<AwardAmount>598269</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christine Delahanty</SignBlockName>
+<PO_EMAI>cdelahan@nsf.gov</PO_EMAI>
+<PO_PHON>7032928492</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to serve the national interest by improving engineering students’ ability to create sustainable and resilient engineering designs. Industry, government, the public, professional associations, and accreditation organizations are increasingly demanding that engineers consider sustainability and resiliency during the design process. Sustainable designs balance economic, ecological, and societal needs by being responsive to community impact, public health, and the environment. Resilient designs are durable: in adverse situations, they continue to function, resist damage, and recover quickly. This project is driven by the need for engineers who can design solutions that maximize societal benefit while minimizing costs and environmental impacts.  In other words, the next generation of engineers needs the skills to produce sustainable and resilient solutions to engineering design problems. To help students develop these skills, the project plans to develop a set of active learning modules that integrate sustainable and resilient design concepts.  These modules will be deployed in existing upper and lower division courses across multiple engineering degree programs.  This project has the potential to help equip the next generation of engineering professionals with the ability to create design solutions that benefit the economy, environment, and society.&lt;br/&gt;&lt;br/&gt;The goal of this project is to transform undergraduate engineering education by instilling sustainable and resilient design concepts in electrical, materials, mechanical, and civil engineering, and in construction management curricula. A new junior-level interdisciplinary engineering design course will be developed that emphasizes the importance of these design concepts through project-based learning and that advances the used of sustainable and resilient design in multiple disciplines. The project team will develop and implement active learning modules for engineering design courses. The project will address the following research questions: (1) How do active learning modules focused on sustainable and resilient design affect students’ knowledge, attitudes, and behaviors towards these topics and their relevance to professional engineering practice? (2) How well do students understand and manage the trade-offs associated with designing for sustainability and resiliency in engineering?  (3) How do approaches to sustainable and resilient design vary by engineering discipline? Guided by the Knowledge, Attitudes and Behaviors conceptual model, the study will use a mixed-methods approach to collect and analyze qualitative and quantitative data to address the research questions. The results of the project will be disseminated through an online repository that will include active learning modules, a strategic plan for implementation, and research results demonstrating the modules’ effectiveness. In addition, a conference on sustainability and resiliency will be hosted to provide a venue for colleagues from multiple institutions to share their curricular activities and research. This project is funded by the NSF Improving Undergraduate STEM Education: Education and Human Resources program, which supports research and development projects to improve the effectiveness of STEM education for all students.  Through the Engaged Student Learning track, the program supports the creation, exploration, and implementation of promising practices and tools.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/02/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2013613</AwardID>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Moll</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amy J Moll</PI_FULL_NAME>
+<EmailAddress><![CDATA[amoll@boisestate.edu]]></EmailAddress>
+<NSF_ID>000405325</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kirsten</FirstName>
+<LastName>Davis</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kirsten A Davis</PI_FULL_NAME>
+<EmailAddress><![CDATA[kirstendavis@boisestate.edu]]></EmailAddress>
+<NSF_ID>000499344</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Don</FirstName>
+<LastName>Plumlee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Don Plumlee</PI_FULL_NAME>
+<EmailAddress><![CDATA[dplumlee@boisestate.edu]]></EmailAddress>
+<NSF_ID>000536076</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dazhi</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dazhi Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[dazhiyang@boisestate.edu]]></EmailAddress>
+<NSF_ID>000585159</NSF_ID>
+<StartDate>05/02/2022</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Noah</FirstName>
+<LastName>Salzman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Noah Salzman</PI_FULL_NAME>
+<EmailAddress><![CDATA[noahsalzman@boisestate.edu]]></EmailAddress>
+<NSF_ID>000654248</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate>05/02/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bhaskar</FirstName>
+<LastName>Chittoori</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bhaskar C Chittoori</PI_FULL_NAME>
+<EmailAddress><![CDATA[bhaskarchittoori@boisestate.edu]]></EmailAddress>
+<NSF_ID>000667038</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate>05/02/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bhaskar</FirstName>
+<LastName>Chittoori</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bhaskar C Chittoori</PI_FULL_NAME>
+<EmailAddress><![CDATA[bhaskarchittoori@boisestate.edu]]></EmailAddress>
+<NSF_ID>000667038</NSF_ID>
+<StartDate>05/02/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Boise State University]]></Name>
+<CityName>BOISE</CityName>
+<ZipCode>837250001</ZipCode>
+<PhoneNumber>2084261574</PhoneNumber>
+<StreetAddress><![CDATA[1910 UNIVERSITY DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<StateCode>ID</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ID02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HYWTVM5HNFM3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOISE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>HYWTVM5HNFM3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Boise State University]]></Name>
+<CityName>Boise</CityName>
+<StateCode>ID</StateCode>
+<ZipCode>837251135</ZipCode>
+<StreetAddress><![CDATA[1910 University Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ID02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>199800</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~598269</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project, funded by the National Science Foundation (NSF), aimed to improve undergraduate engineering education by integrating sustainability and resiliency (S&amp;R) principles across multiple disciplines, including Civil, Electrical, Mechanical, and Materials Science Engineering, as well as Construction Management. By introducing S&amp;R concepts into the curriculum, the project sought to prepare future engineers to address critical global challenges such as climate change, resource management, and infrastructure protection.</p> <h4>Intellectual Merit</h4> <p>The project made significant advancements in the development and implementation of <em>Active Learning Modules (ALMs)</em> designed to teach sustainability and resiliency in engineering education. These modules were integrated into existing courses across multiple disciplines, ensuring that students consistently engaged with these vital concepts throughout their academic journey. Key accomplishments include:</p> <ol> <li> <p style="text-align: left;"><strong>Curriculum Development:</strong> ALMs were successfully developed and implemented in courses in&nbsp;<em>Civil Engineering</em>, <em>Construction Management</em>, <em>Electrical Engineering</em>, and <em>Mechanical Engineering</em>. These modules covered a wide range of topics, including the <em>Four Rs of Resiliency</em> (Robustness, Redundancy, Resourcefulness, Rapidity) and the <em>Triple Bottom Line</em> of sustainability (economic, environmental, and social considerations). The ALMs provided students with opportunities to apply these concepts through project-based learning and real-world case studies&#8203;.<span style="font-family: Arial;"><span style="font-size: 13.3333px; background-color: #f0f0f0;">&nbsp;</span></span></p> </li> <li> <p><strong>Interdisciplinary Approach:</strong> The project fostered collaboration between departments and disciplines, encouraging a holistic approach to engineering education. Students worked in teams on design projects that incorporated sustainability and resilience, learning to consider the environmental and societal impacts of their engineering solutions. This interdisciplinary focus reflects the complex, multifaceted nature of real-world engineering challenges.</p> </li> <li> <p><strong>Student Engagement and Knowledge Gains:</strong> Data collected through pre- and post-surveys demonstrated significant improvements in students' understanding of sustainability and resiliency concepts. For example, students showed a marked increase in their knowledge of sustainability principles, with positive shifts in attitudes toward the importance of sustainable design. However, knowledge gains related to resilience were less pronounced, highlighting the need for further refinement in how these concepts are taught&#8203;.</p> </li> </ol> <h4>Broader Impacts</h4> <p>The broader impacts of the project extend beyond the classroom, influencing both the engineering profession and society at large. Key broader impacts include:</p> <ol> <li> <p style="text-align: left;"><strong>Preparation of Future Engineers:</strong> The project has equipped hundreds of students with the knowledge and skills necessary to design sustainable and resilient engineering solutions. By embedding S&amp;R principles into the curriculum, the project ensures that future engineers are prepared to address pressing global challenges such as climate change, infrastructure resilience, and resource depletion&#8203;.<span style="font-family: Arial;">&nbsp;</span></p> </li> <li> <p><strong>Faculty Development:</strong> Faculty across multiple disciplines participated in the development and implementation of S&amp;R modules, enhancing their teaching practices and increasing their capacity to integrate these concepts into their courses. Interviews with faculty revealed that the project not only enriched their understanding of sustainability and resiliency but also encouraged the use of innovative teaching strategies, such as project-based learning and guest lectures from industry experts&#8203;.</p> </li> <li> <p><strong>Dissemination of Findings:</strong> The results of the project have been shared with the broader academic and professional community through conference presentations, journal articles, and workshops. Notably, the findings were presented at the <em>IEEE Frontiers in Education</em> conference and are under review for publication in Information Discovery and Delivery and one in preparation for Advances in Engineering Education.&nbsp;These dissemination efforts provide valuable resources for other institutions seeking to integrate S&amp;R principles into their engineering curricula.</p> </li> <li> <p><strong>Long-Term Impact on Industry and Public Policy:</strong> As graduates enter the workforce, the project&rsquo;s emphasis on sustainability and resilience is likely to influence industry practices and public policy. Engineers trained in these concepts are better equipped to design infrastructure and technologies that are environmentally sustainable, economically viable, and socially responsible. Their work will contribute to the development of resilient communities and sustainable industries, with far-reaching benefits for society as a whole.</p> </li> </ol> <p>In conclusion, this project has made significant strides in transforming engineering education by embedding sustainability and resiliency into the curriculum. The integration of S&amp;R principles not only prepares future engineers to tackle global challenges but also fosters a culture of sustainability that will benefit industries, communities, and the environment for years to come.</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/29/2024<br> Modified by: Bhaskar&nbsp;C&nbsp;Chittoori</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project, funded by the National Science Foundation (NSF), aimed to improve undergraduate engineering education by integrating sustainability and resiliency (S&R) principles across multiple disciplines, including Civil, Electrical, Mechanical, and Materials Science Engineering, as well as Construction Management. By introducing S&R concepts into the curriculum, the project sought to prepare future engineers to address critical global challenges such as climate change, resource management, and infrastructure protection. Intellectual Merit   The project made significant advancements in the development and implementation of Active Learning Modules (ALMs) designed to teach sustainability and resiliency in engineering education. These modules were integrated into existing courses across multiple disciplines, ensuring that students consistently engaged with these vital concepts throughout their academic journey. Key accomplishments include:     Curriculum Development: ALMs were successfully developed and implemented in courses inCivil Engineering, Construction Management, Electrical Engineering, and Mechanical Engineering. These modules covered a wide range of topics, including the Four Rs of Resiliency (Robustness, Redundancy, Resourcefulness, Rapidity) and the Triple Bottom Line of sustainability (economic, environmental, and social considerations). The ALMs provided students with opportunities to apply these concepts through project-based learning and real-world case studies&#8203;.     Interdisciplinary Approach: The project fostered collaboration between departments and disciplines, encouraging a holistic approach to engineering education. Students worked in teams on design projects that incorporated sustainability and resilience, learning to consider the environmental and societal impacts of their engineering solutions. This interdisciplinary focus reflects the complex, multifaceted nature of real-world engineering challenges.     Student Engagement and Knowledge Gains: Data collected through pre- and post-surveys demonstrated significant improvements in students' understanding of sustainability and resiliency concepts. For example, students showed a marked increase in their knowledge of sustainability principles, with positive shifts in attitudes toward the importance of sustainable design. However, knowledge gains related to resilience were less pronounced, highlighting the need for further refinement in how these concepts are taught&#8203;.   Broader Impacts   The broader impacts of the project extend beyond the classroom, influencing both the engineering profession and society at large. Key broader impacts include:     Preparation of Future Engineers: The project has equipped hundreds of students with the knowledge and skills necessary to design sustainable and resilient engineering solutions. By embedding S&R principles into the curriculum, the project ensures that future engineers are prepared to address pressing global challenges such as climate change, infrastructure resilience, and resource depletion&#8203;.     Faculty Development: Faculty across multiple disciplines participated in the development and implementation of S&R modules, enhancing their teaching practices and increasing their capacity to integrate these concepts into their courses. Interviews with faculty revealed that the project not only enriched their understanding of sustainability and resiliency but also encouraged the use of innovative teaching strategies, such as project-based learning and guest lectures from industry experts&#8203;.     Dissemination of Findings: The results of the project have been shared with the broader academic and professional community through conference presentations, journal articles, and workshops. Notably, the findings were presented at the IEEE Frontiers in Education conference and are under review for publication in Information Discovery and Delivery and one in preparation for Advances in Engineering Education.These dissemination efforts provide valuable resources for other institutions seeking to integrate S&R principles into their engineering curricula.     Long-Term Impact on Industry and Public Policy: As graduates enter the workforce, the projects emphasis on sustainability and resilience is likely to influence industry practices and public policy. Engineers trained in these concepts are better equipped to design infrastructure and technologies that are environmentally sustainable, economically viable, and socially responsible. Their work will contribute to the development of resilient communities and sustainable industries, with far-reaching benefits for society as a whole.     In conclusion, this project has made significant strides in transforming engineering education by embedding sustainability and resiliency into the curriculum. The integration of S&R principles not only prepares future engineers to tackle global challenges but also fosters a culture of sustainability that will benefit industries, communities, and the environment for years to come.        Last Modified: 10/29/2024       Submitted by: BhaskarCChittoori]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

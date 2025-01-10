@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist.  The title of the project for this fellowship to Hannah M Director is "Spatiotemporal Methods for Integrating Stochastic Components in Dynamic Sea Ice."  The host institution for the fellowship is Colorado School of Mines, and the sponsoring scientist is Douglas Nychka.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002025</AwardID>
+<Investigator>
+<FirstName>Hannah</FirstName>
+<LastName>Director</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hannah M Director</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000812584</NSF_ID>
+<StartDate>03/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Director, Hannah Marie]]></Name>
+<CityName>Seattle</CityName>
+<ZipCode>98195</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colorado School of Mines]]></Name>
+<CityName>Golden</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>804011887</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-c651f863-7fff-abe4-8068-957262cbb7e0"> </span></p> <p dir="ltr"><span>Sea ice, or frozen ocean water, is present in the Arctic and Antarctic ocean. The area covered by sea ice increases and decreases over the course of the year in a seasonal cycle. With warmer temperatures sea ice melts and with colder temperatures additional areas freeze creating more sea ice.&nbsp; When the sea ice melts and breaks apart, openings or ridges in the sea ice are formed. Openings in the sea ice are known as leads and are partially a function of the strength of the sea ice.&nbsp; Identifying when and where these features occur allows for better understanding of how sea ice behaves. Understanding sea ice behavior better can, in turn, be used to better understand and model Arctic and Antarctic environments and global climate.&nbsp;</span></p> <p dir="ltr"><span>At present it is challenging to identify when and where sea ice leads occur in computer model simulations and in satellite observations. Large volumes of data are produced in both cases. This volume of data makes it infeasible for these features to be identified individually. Instead automated methods are needed to identify and model the leads. In this project, statistical methods for understanding where these leads occurred and how to find them were developed and explored. These methods were applied to various data sources. The resulting information can be used to inform various sea ice features in climate models going forward including ice strength.&nbsp; The statistical methods developed are also useful statistical developments for spatial and temporal processes.</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 10/05/2024<br> Modified by: Hannah&nbsp;M&nbsp;Director</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      Sea ice, or frozen ocean water, is present in the Arctic and Antarctic ocean. The area covered by sea ice increases and decreases over the course of the year in a seasonal cycle. With warmer temperatures sea ice melts and with colder temperatures additional areas freeze creating more sea ice. When the sea ice melts and breaks apart, openings or ridges in the sea ice are formed. Openings in the sea ice are known as leads and are partially a function of the strength of the sea ice. Identifying when and where these features occur allows for better understanding of how sea ice behaves. Understanding sea ice behavior better can, in turn, be used to better understand and model Arctic and Antarctic environments and global climate.   At present it is challenging to identify when and where sea ice leads occur in computer model simulations and in satellite observations. Large volumes of data are produced in both cases. This volume of data makes it infeasible for these features to be identified individually. Instead automated methods are needed to identify and model the leads. In this project, statistical methods for understanding where these leads occurred and how to find them were developed and explored. These methods were applied to various data sources. The resulting information can be used to inform various sea ice features in climate models going forward including ice strength. The statistical methods developed are also useful statistical developments for spatial and temporal processes.        Last Modified: 10/05/2024       Submitted by: HannahMDirector]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

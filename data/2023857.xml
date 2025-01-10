@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The New Traffic Microscope- Measuring Microscopic Traffic Dynamics to Model and Control Freeway Traffic Congestion]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>383204.00</AwardTotalIntnAmount>
+<AwardAmount>383204</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siqian Shen</SignBlockName>
+<PO_EMAI>siqshen@nsf.gov</PO_EMAI>
+<PO_PHON>7032927048</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This NSF grant will produce a deeper understanding of freeway traffic dynamics that will be used develop the next generation of traffic models and ultimately targeted interventions to reduce the negative impacts of traffic congestion. Traffic congestion was estimated to cost the US $179 Billion in 2017. If this research can reduce those costs by only a few percent it will have a high payoff with a broad impact to society. Traffic is inherently difficult to study because one needs fine measurements over a large scale, somewhat akin to being able to read a newspaper in a satellite photo of an entire city. The current state of the art in traffic dynamics and control is based on low resolution data that only provide information about the "average vehicle." Recent results from NSF sponsored research has shown that it is critical to push to higher resolution and understand the individual vehicle interactions to advance both theory and control. This research will (1) essentially develop a "microscope" to see these individual vehicle interactions across large scale empirical data sets, (2) use the newfound dynamics to improve or replace current traffic flow models, and (3) use these traffic flow models to develop targeted interventions that will improve the effectiveness of traffic control.&lt;br/&gt;&lt;br/&gt;The microscopic details of freeway traffic dynamics are below the resolution of conventional vehicle detectors. This research will use new measurement techniques to empirically study the microscopic nature of how traffic actually flows, with the ultimate goal of building more robust traffic flow models and more effective traffic controls. The new measurement techniques extract microscopic relationships from common loop detectors, thereby using a collection of old sensors in new ways to achieve a level of resolution is unrivaled at this scale. The massive amount of high resolution data allow the research to isolate microscopic traffic dynamics that heretofore were obscured by noise. With the new clarity the microscopic relationships will lead to fundamental discoveries. The research will progress on three levels: (i) Empirically investigate suspected deficiencies of conventional traffic flow models. (ii) For the deficiencies explore the bounds of influence and the structure of the underlying mechanisms to develop a deeper understanding of the dependencies and how they impact traffic dynamics. (iii) Finally, act on the findings by developing traffic flow models to accurately capture the dynamics and explore ways in which these insights can be used to improve traffic control.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2023857</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Coifman</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin A Coifman</PI_FULL_NAME>
+<EmailAddress><![CDATA[coifman.1@osu.edu]]></EmailAddress>
+<NSF_ID>000384095</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>Columbus</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101226</ZipCode>
+<StreetAddress><![CDATA[CEGE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>163100</Code>
+<Text>CIS-Civil Infrastructure Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~383204</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Freeway traffic is difficult to study- cars can travel hundreds of feet in a few seconds. That fact makes it difficult to collect high precision traffic data. As a result, the study of traffic often uses averages, like measuring how many vehicles pass a detector in 30 seconds and their average speed. Traffic models have been developed that rely on these conventional averaged data, with the assumption that all of the vehicles in a sample are "average". Thus, if 10 cars pass in 30 seconds it is assumed that they are all roughly 3 seconds apart. These traffic models are widely used both to control traffic in real time (for example, "ramp meters," those traffic lights on freeway onramps) and to plan roadway improvements many years into the future (for example, adding a lane to an existing freeway).</p>  <p>Our focus is on congested traffic conditions, and in congestion vehicles are constantly interacting. A given driver wants to travel as fast as possible but is restrained by their leader. If the leader slows down a moment later the follower must respond by slowing down. When the leader speeds up, the follower can too, but never going faster than their leader (see the seven vehicles on the right side of the primary image).</p>  <p>This study sought to (1) develop techniques to improve the accuracy of cutting edge vehicle trajectory data (a vehicle trajectory records the location of a vehicle at every instant), (2) develop techniques to pull out higher resolution from conventional average traffic data, and (3) use these techniques to better understand traffic interactions, and ultimately show major shortcomings of conventional traffic models.&nbsp;</p>  <p>To illustrate the research efforts, consider the challenges of cutting edge vehicle trajectory data. In an ideal world traffic researchers would have abundant vehicle trajectory data. But it takes a lot of work to collect accurate vehicle trajectory data- you need to track a vehicle over thousands of feet with an accuracy better than one foot. And it is not just one vehicle, you must track all the passing vehicles (hundreds to thousands of them) with the same accuracy. Achieving that accuracy requires high precision sensing across multiple sensors. This study developed techniques to improve the precision of vehicle tracking (see example image). But that leads to a big question: how do you validate the performance of the highest resolution sensor? To that end, this study also developed innovative techniques to verify the accuracy of the high precision tracking.</p>  <p>Because it has been so difficult to collect high resolution vehicle trajectory data, only a few hours of these data are available to the research community. This study improved the quality of existing trajectory data sets and developed new vehicle trajectory data sets. The trajectory data provided new insights, and the results provided support for the other research findings. But still, the quantity of trajectory data is a limiting factor.</p>  <p>In contrast, conventional traffic data are plentiful, with an effectively unlimited amount of data available for traffic research. But in its common form these data are low resolution. We took a different approach to conventional traffic data. Instead of looking at the average conditions we sought out unusual events within the data and explored their impacts. Consider the earlier example of 10 cars passing in 30 seconds. We looked at each individual vehicle and sometimes found that instead of ten similar vehicles all 3 seconds apart that sometimes the sample contained nine vehicles that were 2 seconds apart and one vehicle that had a gap of 10 seconds. Although the average is the same, the resulting traffic dynamics are completely different. If all 10 vehicles are similar then disturbances in congestion should propagate upstream through the vehicles (for example, the first vehicle slows, a moment later the second vehicle slows, and so on). But when that one unusual vehicle is present, disturbances will stop when they reach the large gap. So instead of congested traffic exhibiting upstream moving disturbances, the dominant signals should travel downstream with the vehicles (see primary image). These dynamics are "microscopic" in the sense that they are below the resolution of conventional traffic data. But simply finding these large gaps is not sufficient proof of their impact. This study developed innovative techniques to follow disturbances from one detector to another detector half a mile away on the same freeway. Indeed, it was shown that the signals traveled downstream with traffic (see example image) instead of upstream as would be predicted by the commonly used traffic models.</p>  <p>These findings will lead to more accurate traffic models, which in turn will lead to better traffic control and transportation planning. All of which will improve traveling conditions for Americans on the road.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/17/2024<br> Modified by: Benjamin&nbsp;A&nbsp;Coifman</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2023857/2023857_10693588_1734475162146_Lizhe1_5--rgov-214x142.png" original="/por/images/Reports/POR/2024/2023857/2023857_10693588_1734475162146_Lizhe1_5--rgov-800width.png" title="Vehicle trajectories before and after cleaning"><img src="/por/images/Reports/POR/2024/2023857/2023857_10693588_1734475162146_Lizhe1_5--rgov-66x44.png" alt="Vehicle trajectories before and after cleaning"></a> <div class="imageCaptionContainer"> <div class="imageCaption">An example of how we improved the precision of vehicle tracking. The NGSIM vehicle trajectory data set is one of the widest used in the study of traffic. The dashed lines how the original NGSIM data while the smooth solid lines show the same vehicles after we re-extracted the data.</div> <div class="imageCredit">Coifman, B.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Benjamin&nbsp;A&nbsp;Coifman <div class="imageTitle">Vehicle trajectories before and after cleaning</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2023857/2023857_10693588_1734475071543_BP3a_signal_example--rgov-214x142.png" original="/por/images/Reports/POR/2024/2023857/2023857_10693588_1734475071543_BP3a_signal_example--rgov-800width.png" title="Example of signals traveling through traffic"><img src="/por/images/Reports/POR/2024/2023857/2023857_10693588_1734475071543_BP3a_signal_example--rgov-66x44.png" alt="Example of signals traveling through traffic"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Traffic moving from left to right over time. The red bar shows a stop wave propagating upstream through the congested traffic. The long headway vehicle (LHV) has a large gap that absorbs the stop wave before it reaches the LHV. In this way LHVs block upstream moving waves.</div> <div class="imageCredit">Coifman, B.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Benjamin&nbsp;A&nbsp;Coifman <div class="imageTitle">Example of signals traveling through traffic</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2023857/2023857_10693588_1734475392446_EVA_fig_14--rgov-214x142.png" original="/por/images/Reports/POR/2024/2023857/2023857_10693588_1734475392446_EVA_fig_14--rgov-800width.png" title="6 examples of congested vehicles acting independent of their leaders"><img src="/por/images/Reports/POR/2024/2023857/2023857_10693588_1734475392446_EVA_fig_14--rgov-66x44.png" alt="6 examples of congested vehicles acting independent of their leaders"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Six examples of congested vehicles acting independent of their leader, shown with a dark trajectory in each plot. A 10 sec long horizontal red line is shown in each subplot to show the size of the gap. In each case the driver changes the traffic state in ways conventional models could not predict.</div> <div class="imageCredit">Coifman, B.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Benjamin&nbsp;A&nbsp;Coifman <div class="imageTitle">6 examples of congested vehicles acting independent of their leaders</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2023857/2023857_10693588_1734475306052_BP3a_Fig_9_was_81__fig_8_wo_v--rgov-214x142.png" original="/por/images/Reports/POR/2024/2023857/2023857_10693588_1734475306052_BP3a_Fig_9_was_81__fig_8_wo_v--rgov-800width.png" title="Correlation curves showing traffic state travels with vehicles"><img src="/por/images/Reports/POR/2024/2023857/2023857_10693588_1734475306052_BP3a_Fig_9_was_81__fig_8_wo_v--rgov-66x44.png" alt="Correlation curves showing traffic state travels with vehicles"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Correlating the traffic state between successive freeway vehicle detectors during congestion. Conventional traffic models predict the state should travel upstream (yielding a peak with a negative value) but the peaks are to the right of zero, so the state propagates downstream with the vehicles</div> <div class="imageCredit">Coifman, B.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Benjamin&nbsp;A&nbsp;Coifman <div class="imageTitle">Correlation curves showing traffic state travels with vehicles</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Freeway traffic is difficult to study- cars can travel hundreds of feet in a few seconds. That fact makes it difficult to collect high precision traffic data. As a result, the study of traffic often uses averages, like measuring how many vehicles pass a detector in 30 seconds and their average speed. Traffic models have been developed that rely on these conventional averaged data, with the assumption that all of the vehicles in a sample are "average". Thus, if 10 cars pass in 30 seconds it is assumed that they are all roughly 3 seconds apart. These traffic models are widely used both to control traffic in real time (for example, "ramp meters," those traffic lights on freeway onramps) and to plan roadway improvements many years into the future (for example, adding a lane to an existing freeway).    Our focus is on congested traffic conditions, and in congestion vehicles are constantly interacting. A given driver wants to travel as fast as possible but is restrained by their leader. If the leader slows down a moment later the follower must respond by slowing down. When the leader speeds up, the follower can too, but never going faster than their leader (see the seven vehicles on the right side of the primary image).    This study sought to (1) develop techniques to improve the accuracy of cutting edge vehicle trajectory data (a vehicle trajectory records the location of a vehicle at every instant), (2) develop techniques to pull out higher resolution from conventional average traffic data, and (3) use these techniques to better understand traffic interactions, and ultimately show major shortcomings of conventional traffic models.    To illustrate the research efforts, consider the challenges of cutting edge vehicle trajectory data. In an ideal world traffic researchers would have abundant vehicle trajectory data. But it takes a lot of work to collect accurate vehicle trajectory data- you need to track a vehicle over thousands of feet with an accuracy better than one foot. And it is not just one vehicle, you must track all the passing vehicles (hundreds to thousands of them) with the same accuracy. Achieving that accuracy requires high precision sensing across multiple sensors. This study developed techniques to improve the precision of vehicle tracking (see example image). But that leads to a big question: how do you validate the performance of the highest resolution sensor? To that end, this study also developed innovative techniques to verify the accuracy of the high precision tracking.    Because it has been so difficult to collect high resolution vehicle trajectory data, only a few hours of these data are available to the research community. This study improved the quality of existing trajectory data sets and developed new vehicle trajectory data sets. The trajectory data provided new insights, and the results provided support for the other research findings. But still, the quantity of trajectory data is a limiting factor.    In contrast, conventional traffic data are plentiful, with an effectively unlimited amount of data available for traffic research. But in its common form these data are low resolution. We took a different approach to conventional traffic data. Instead of looking at the average conditions we sought out unusual events within the data and explored their impacts. Consider the earlier example of 10 cars passing in 30 seconds. We looked at each individual vehicle and sometimes found that instead of ten similar vehicles all 3 seconds apart that sometimes the sample contained nine vehicles that were 2 seconds apart and one vehicle that had a gap of 10 seconds. Although the average is the same, the resulting traffic dynamics are completely different. If all 10 vehicles are similar then disturbances in congestion should propagate upstream through the vehicles (for example, the first vehicle slows, a moment later the second vehicle slows, and so on). But when that one unusual vehicle is present, disturbances will stop when they reach the large gap. So instead of congested traffic exhibiting upstream moving disturbances, the dominant signals should travel downstream with the vehicles (see primary image). These dynamics are "microscopic" in the sense that they are below the resolution of conventional traffic data. But simply finding these large gaps is not sufficient proof of their impact. This study developed innovative techniques to follow disturbances from one detector to another detector half a mile away on the same freeway. Indeed, it was shown that the signals traveled downstream with traffic (see example image) instead of upstream as would be predicted by the commonly used traffic models.    These findings will lead to more accurate traffic models, which in turn will lead to better traffic control and transportation planning. All of which will improve traveling conditions for Americans on the road.         Last Modified: 12/17/2024       Submitted by: BenjaminACoifman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Hodge Filtration on Local Cohomology and Minimal Exponents]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>360000.00</AwardTotalIntnAmount>
+<AwardAmount>360000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Given a polynomial in several variables, with complex coefficients, its solution set is a geometric object that in many interesting situations exhibits singularities. These singularities can be measured by invariants that can be either numerical or more involved (for example, they can form in turn suitable subsets in the polynomial ring). Over the past few years, the PI has been involved in the study of certain such invariants by making use of tools from from Hodge theory and the algebraic theory of differential operators. In the present project, the PI plans to extend this study in several directions. For example, he plans to generalize his previous work with Popa from the case of singularities of geometric objects defined by one equation to more general such singularities. In a different direction, he intends to investigate one interesting numerical invariant of singularities--the minimal exponent--and its connections  with other invariants and points of view on singularities. The PI will train graduate students in the area of research.&lt;br/&gt;&lt;br/&gt;The PI has been studying with Popa certain invariants of singularities, the Hodge ideals, for hypersurfaces and, more generally, for Q-divisors. These ideals  can be defined naturally in the context of Saito's theory of mixed Hodge modules. It turns out that the triviality of the Hodge ideals is governed by a numerical invariant,the minimal exponent, which is closely related to an important invariant in birational geometry, the log canonical threshold. While the minimal exponent has been studied a lot for isolated singularities, methods related to Hodge ideals allow treating the general case. There are two main components of the present project. In one direction, the PI intends to further investigate, with Popa, an extension of the theory of Hodge ideals beyond the case of hypersurfaces, by making use of the canonical filtration on local cohomology. There are several interesting questions in this context, concerning connections with the multi-variable version of the V-filtration and with the Bernstein-Sato polynomial for ideals. In a different direction, the PI plans to study general properties of the minimal exponent and its relations to other points of view on singularities (via divisorial valuations and resolution of singularities, or in connection to the motivic zeta function).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001132</AwardID>
+<Investigator>
+<FirstName>Mircea</FirstName>
+<LastName>Mustata</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mircea Mustata</PI_FULL_NAME>
+<EmailAddress><![CDATA[mmustata@umich.edu]]></EmailAddress>
+<NSF_ID>000095275</NSF_ID>
+<StartDate>03/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress><![CDATA[3003 South State St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~216080</FUND_OBLG>
+<FUND_OBLG>2021~71960</FUND_OBLG>
+<FUND_OBLG>2022~71960</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The study of singularities of algebraic varieties and of the invariants used to classify them has an important role in the field of algebraic geometry. Most of the work on this project was concerned with the study of an important such invariant (the minimal exponent of a hypersurface), its extension to complete intersections, and its role in connection with higher order notions of rational and Du bois singularities. The following are the main outcomes of this project:</p> <p>&nbsp;</p> <p>Intellectual Merit.The following are some of the important results obtained while supported by this grant.</p> <p>1) In a joint paper with Mihnea Popa, we studied the Hodge filtration on local cohomology of the structure sheaf of a smooth variety with respect to a closed subset. We related this filtration to the singularities of the subset and to several other important notions: Du Bois complex, local cohomological dimension, etc.</p> <p>2) In joint work with Sebastian Olano, Mihnea Popa, and Jakub Witaszek, the PI studied the implications of a large minimal exponent for the Du Bois complex of a hypersurface.&nbsp;</p> <p>3) A significant piece of work&nbsp;was done jointly with Qianyu Chen, Bradley Dirks, and Sebastian Olano, introducing a generalization of the minimal exponent to arbitrary complete intersections. In particular, we e studied the connection of this new invariant to the Hodge filtration on the corresponding local cohomology and with the Bernstein polynomial of the ideal.</p> <p>4) In a joint paper with Mihnea Popa, we studied a recently introduced refinement of rational singularities (the k-rational singularities) in the case of hypersurfaces. The main result describes these singularities in terms of the minimal exponent.</p> <p><br />5) In joint work with Qianyu Chen and Bradley Dirks, we extended the above characterization of k-rational singularities to the case of complete intersections.</p> <p>6) In a joint paper with Sebastian Olano, we investigated a conjecture of Bitoun and Schedler relating the D-module length of a localization along a hypersurface with isolated singularities to the reduced genus of the singularity. We showed that the conjecture holds for log canonical singularities, but also gave an example to show that it can fail in general.</p> <p>7) By building on previous work with Wenliang Zhang and with Shunsuke Takagi and Kei-ichi Watanabe, I gave an effective bound relating the log canonical threshold of a hypersurface singularity to the F-pure threshold of a reduction mod p, for p large. The bound involves the roots of the Bernstein-Sato polynomial of the hypersurface.</p> <p>&nbsp;</p> <p>Broader Impacts. The PIs graduate students have been partially supported by this grant while working on related projects. Moreover, the PI collaborated with some of his mentees (the graduate student Bradley Dirks and the postdocs Jakub Witaszek, Sebastian Olano, and Qianyu Chen) on this project. The grant also provided partial support for a Spring school devoted to recent progress in the study of singularities and aimed at young researchers in the field.&nbsp;</p><br> <p>  Last Modified: 08/02/2024<br> Modified by: Mircea&nbsp;Mustata</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The study of singularities of algebraic varieties and of the invariants used to classify them has an important role in the field of algebraic geometry. Most of the work on this project was concerned with the study of an important such invariant (the minimal exponent of a hypersurface), its extension to complete intersections, and its role in connection with higher order notions of rational and Du bois singularities. The following are the main outcomes of this project:      Intellectual Merit.The following are some of the important results obtained while supported by this grant.   1) In a joint paper with Mihnea Popa, we studied the Hodge filtration on local cohomology of the structure sheaf of a smooth variety with respect to a closed subset. We related this filtration to the singularities of the subset and to several other important notions: Du Bois complex, local cohomological dimension, etc.   2) In joint work with Sebastian Olano, Mihnea Popa, and Jakub Witaszek, the PI studied the implications of a large minimal exponent for the Du Bois complex of a hypersurface.   3) A significant piece of workwas done jointly with Qianyu Chen, Bradley Dirks, and Sebastian Olano, introducing a generalization of the minimal exponent to arbitrary complete intersections. In particular, we e studied the connection of this new invariant to the Hodge filtration on the corresponding local cohomology and with the Bernstein polynomial of the ideal.   4) In a joint paper with Mihnea Popa, we studied a recently introduced refinement of rational singularities (the k-rational singularities) in the case of hypersurfaces. The main result describes these singularities in terms of the minimal exponent.    5) In joint work with Qianyu Chen and Bradley Dirks, we extended the above characterization of k-rational singularities to the case of complete intersections.   6) In a joint paper with Sebastian Olano, we investigated a conjecture of Bitoun and Schedler relating the D-module length of a localization along a hypersurface with isolated singularities to the reduced genus of the singularity. We showed that the conjecture holds for log canonical singularities, but also gave an example to show that it can fail in general.   7) By building on previous work with Wenliang Zhang and with Shunsuke Takagi and Kei-ichi Watanabe, I gave an effective bound relating the log canonical threshold of a hypersurface singularity to the F-pure threshold of a reduction mod p, for p large. The bound involves the roots of the Bernstein-Sato polynomial of the hypersurface.      Broader Impacts. The PIs graduate students have been partially supported by this grant while working on related projects. Moreover, the PI collaborated with some of his mentees (the graduate student Bradley Dirks and the postdocs Jakub Witaszek, Sebastian Olano, and Qianyu Chen) on this project. The grant also provided partial support for a Spring school devoted to recent progress in the study of singularities and aimed at young researchers in the field.     Last Modified: 08/02/2024       Submitted by: MirceaMustata]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

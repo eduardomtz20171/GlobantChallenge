@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[BII-Design: Exploring the ecology and evolution of the global virome with big data and machine learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>166189.00</AwardTotalIntnAmount>
+<AwardAmount>166189</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Herron</SignBlockName>
+<PO_EMAI>mherron@nsf.gov</PO_EMAI>
+<PO_PHON>7032925361</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Design activity will result in a proposal to create a Biology Integration Institute that will synthesize recent advances in wildlife virology and pursue new insights about the ecology and evolution of the global virome. The pandemic emergence of SARS-CoV-2 is only the latest development in an accelerating trend of dangerous viruses emerging from wildlife. Global travel, urbanization, and increasing human-wildlife contact have all made it easier for these viruses to emerge. In the future, climate change and land use change will reassemble the global virome even further, forcing mammals to cross continents, meet in new ecosystems, and exchange viruses thousands of times more, potentially unleashing even more threats to global health. At least 10,000 of these mammal viruses might have the potential to infect humans, but most of the global virome is still undescribed: only about 1% of mammal viruses have been discovered, and a much smaller fraction in other vertebrates. With so little data, it is difficult to predict which viruses will pose a future threat, or where, when, and how they could emerge. Predicting the next pandemic threat will require new data spanning biological scales, from single genes up to deep evolutionary time, and new statistical methods from the cutting edge of computer science and mathematics. In addition, the project will host summer residencies for trainees  and develope new coursework that combines biology with hands-on computer science labs.&lt;br/&gt;&lt;br/&gt;The project assembles a group of virologists, computer scientists, statisticians, and ecologists to explore cutting edge scientific questions about methodology, inference, and impact. The project has three aims: (1) synthesizing existing data about host-virus associations for all vertebrate clades; (2) developing novel approaches to predict host-virus interaction networks, using novel data streams like viral strain diversity characterized from genomes, or receptor data from immunological studies; and (3) developing frameworks for actionable science that will put viral ecology to use for global health science and security. These aims will be accomplished through collaborative workshops. In doing so it will establish a foundation for a full Implementation proposal to develop an Emerging Virus Institute.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/20/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2021909</AwardID>
+<Investigator>
+<FirstName>Sadie</FirstName>
+<LastName>Ryan</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sadie J Ryan</PI_FULL_NAME>
+<EmailAddress><![CDATA[sjryan@ufl.edu]]></EmailAddress>
+<NSF_ID>000541266</NSF_ID>
+<StartDate>09/20/2023</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Colin</FirstName>
+<LastName>Carlson</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Colin J Carlson</PI_FULL_NAME>
+<EmailAddress><![CDATA[cjc322@georgetown.edu]]></EmailAddress>
+<NSF_ID>000792234</NSF_ID>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tad</FirstName>
+<LastName>Dallas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tad Dallas</PI_FULL_NAME>
+<EmailAddress><![CDATA[tdallas@mailbox.sc.edu]]></EmailAddress>
+<NSF_ID>000819586</NSF_ID>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgetown University]]></Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200570001</ZipCode>
+<PhoneNumber>2026250100</PhoneNumber>
+<StreetAddress><![CDATA[MAIN CAMPUS]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TF2CMKY1HMX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGETOWN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TF2CMKY1HMX9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgetown University]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200072145</ZipCode>
+<StreetAddress><![CDATA[37th and O Streets NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>727500</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~166189</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-3bbd8e7e-7fff-d663-3e9c-4eb23d791248"> </span></p>  <p dir="ltr"><span>This project established the Viral Emergence Research Initiative (Verena; viralemergence.org), which leverages open data, artificial intelligence, and viral ecology to make better predictive models for pandemic risk assessment and prevention. The Design project supported the development of a successful Implementation track proposal, and Verena was awarded an NSF Biology Integration Institute grant in 2022 (DBI 2213854; PI: Carlson; 2022-2027).</span></p>  <p dir="ltr"><span>We developed an open data ecosystem by synthesizing and standardizing existing data on host-virus interactions in nature and in the laboratory. Our flagship project, The Global Virome in One Network (VIRION), integrates several existing data sources into the most comprehensive record of the vertebrate virome. We also developed minimum reporting standards for vector competence experiments and wildlife disease surveillance, in order to improve data findability, interoperability, and reusability; used systematic reviews to benchmark research effort related to bat coronavirus surveillance, arbovirus vector competence experiments, and species distribution modeling of tick and mosquito disease vectors; developed two software packages that provide long-term access to a unique and otherwise unfindable database of insect pathogens, and support data harmonization using NCBI taxonomic resources; and launched the Pathogen Harmonized Observatory (PHAROS: pharos.viralemergence.org), a public online platform to support real-time sharing of wildlife disease surveillance data.</span></p>  <p dir="ltr"><span>We used these data to develop new statistical and machine learning models of host-pathogen interactions, with a focus on zoonotic and vector-borne viruses. We found that some groups of mammals appear to harbor more viruses that pose a risk to humans, but often, this reflects sampling bias: for example, animals that live in cities are better studied, while endangered species are often harder to sample. These biases have less impact on risk assessment at the level of individual viruses, and we found that our models could reliably identify animal viruses that can infect humans, especially when they incorporated data on both viral genomes and animal hosts. We also simulated how climate and land use change are restructuring the mammal-virus network, and found that new opportunities for cross-species transmission often coincide with human-settled areas. Because they can travel long distances in a single lifetime, we showed that bats have a unique ability to bring viruses into new ecosystems, and &ndash; where they come into contact with &ldquo;stepping stone&rdquo; hosts like primates and livestock, especially in places like southeast Asia &ndash; they may create new pathways for zoonotic emergence.</span></p>  <p dir="ltr"><span>Motivated by the Covid-19 pandemic, we started developing models of the ecology and emergence of bat coronaviruses. We estimated that there are hundreds of species of bats with undiscovered betacoronaviruses (the group that includes SARS-CoV, SARS-CoV-2, and MERS-CoV); these species are found worldwide, but particularly concentrated in sub-Saharan Africa and Indonesia. We also used theoretical models to show that global hotspots of bat coronavirus diversity and emergence in east and southeast Asia and the Middle East can be explained by bat evolutionary history. Both sets of models predict that undiscovered viruses could be circulating in bats across the Indian subcontinent, where limited sampling has been done &ndash; suggesting a potential global blindspot in pandemic risk assessment. In a meta-analysis of studies from the last 20 years, we found that across nearly 90,000 bat samples, the strongest predictors of coronavirus detection have been repeated sampling of the same field site and intestinal tissue sampling &ndash; a clue about the tissue tropism of these viruses that mirrors findings about persistent infections with SARS-CoV-2 in humans.</span></p>  <p dir="ltr"><span>In the first two years of the project, the Covid-19 pandemic prevented in-person project meetings or conference travel. Instead, we held a virtual conference on the use of artificial intelligence for pathogen risk assessment, with attendees representing several major global outbreak surveillance projects and non-governmental organizations in global health. We also repurposed our unused travel budget to support student research assistants and an expanded investigator team. Our project trained six students in ecological synthesis research (3 undergraduate, 2 Ph.D. students, 1 medical student), and supported the development of three new courses (2 graduate-level, 1 undergraduate-level) at Georgetown University and Louisiana State University. Trainees and investigators presented research virtually at several ecology and infectious disease related conferences. </span><span>We also organized a &ldquo;CodeFest&rdquo; outreach event at Louisiana State University with 15 undergraduate attendees that used our data ecosystem to spark excitement about coding in R and collaborative problem solving.</span></p>  <p><span>We communicated our findings to policymakers and the public through social media, press, and Congressional testimony. Our work was covered in over 50 news articles in the first two years, including profiles of the project in </span><em>Nature</em><span>, </span><em>Scientific American</em><span>, and </span><em>The New York Times</em><span>. According to </span><em>CarbonBrief</em><span>, our study on climate change and cross-species viral transmission broke the all-time record for press coverage and social media attention for any study on climate change (based on Altmetric score); the study was also cited in the 2023 Economic Report of the President.</span></p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/17/2024<br> Modified by: Colin&nbsp;J&nbsp;Carlson</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734454050289_Slide4--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734454050289_Slide4--rgov-800width.jpeg" title="Predicting viral zoonotic potential"><img src="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734454050289_Slide4--rgov-66x44.jpeg" alt="Predicting viral zoonotic potential"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Machine learning models that use data on viral genomes and animal hosts can reliably identify viruses that can infect humans.</div> <div class="imageCredit">Poisot et al. (2023) Patterns</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Colin&nbsp;J&nbsp;Carlson <div class="imageTitle">Predicting viral zoonotic potential</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734454325813_Slide6--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734454325813_Slide6--rgov-800width.jpeg" title="Meta-analysis of bat coronavirus surveillance"><img src="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734454325813_Slide6--rgov-66x44.jpeg" alt="Meta-analysis of bat coronavirus surveillance"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Across nearly 90,000 samples, the best predictors of coronavirus detection in bats are repeat sampling and intestinal samples.</div> <div class="imageCredit">Cohen et al. (2023) Nature Microbiology</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Colin&nbsp;J&nbsp;Carlson <div class="imageTitle">Meta-analysis of bat coronavirus surveillance</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734454280435_Slide5--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734454280435_Slide5--rgov-800width.jpeg" title="Predicted bat hosts of betacoronaviruses"><img src="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734454280435_Slide5--rgov-66x44.jpeg" alt="Predicted bat hosts of betacoronaviruses"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Hundreds of species of bats - especially in sub-Saharan Africa and southeast Asia - could be hosts of undiscovered viruses related to SARS-CoV-2.</div> <div class="imageCredit">Becker et al. (2022) The Lancet Microbe</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Colin&nbsp;J&nbsp;Carlson <div class="imageTitle">Predicted bat hosts of betacoronaviruses</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734454553663_Slide1--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734454553663_Slide1--rgov-800width.jpeg" title="Hotspots of cross-species transmission"><img src="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734454553663_Slide1--rgov-66x44.jpeg" alt="Hotspots of cross-species transmission"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Climate change is re-assembling mammal communities, often where people live - creating conditions that could spark future pandemics.</div> <div class="imageCredit">Carlson et al. (2022) Nature</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Colin&nbsp;J&nbsp;Carlson <div class="imageTitle">Hotspots of cross-species transmission</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734453828340_Slide2--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734453828340_Slide2--rgov-800width.jpeg" title="The vertebrate-virus network"><img src="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734453828340_Slide2--rgov-66x44.jpeg" alt="The vertebrate-virus network"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The VIRION database of vertebrate-virus interactions is larger and more complete than previous comparable datasets, such as HP3.</div> <div class="imageCredit">Carlson et al. (2022) mBio</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Colin&nbsp;J&nbsp;Carlson <div class="imageTitle">The vertebrate-virus network</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734453948616_Slide3--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734453948616_Slide3--rgov-800width.jpeg" title="The mosquito-virus experimental network"><img src="/por/images/Reports/POR/2024/2021909/2021909_10693088_1734453948616_Slide3--rgov-66x44.jpeg" alt="The mosquito-virus experimental network"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Experiments that measure vector competence for mosquito-borne viruses have focused on a small subset of combinations.</div> <div class="imageCredit">Chen et al. (2023) AJTMH</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Colin&nbsp;J&nbsp;Carlson <div class="imageTitle">The mosquito-virus experimental network</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[       This project established the Viral Emergence Research Initiative (Verena; viralemergence.org), which leverages open data, artificial intelligence, and viral ecology to make better predictive models for pandemic risk assessment and prevention. The Design project supported the development of a successful Implementation track proposal, and Verena was awarded an NSF Biology Integration Institute grant in 2022 (DBI 2213854; PI: Carlson; 2022-2027).    We developed an open data ecosystem by synthesizing and standardizing existing data on host-virus interactions in nature and in the laboratory. Our flagship project, The Global Virome in One Network (VIRION), integrates several existing data sources into the most comprehensive record of the vertebrate virome. We also developed minimum reporting standards for vector competence experiments and wildlife disease surveillance, in order to improve data findability, interoperability, and reusability; used systematic reviews to benchmark research effort related to bat coronavirus surveillance, arbovirus vector competence experiments, and species distribution modeling of tick and mosquito disease vectors; developed two software packages that provide long-term access to a unique and otherwise unfindable database of insect pathogens, and support data harmonization using NCBI taxonomic resources; and launched the Pathogen Harmonized Observatory (PHAROS: pharos.viralemergence.org), a public online platform to support real-time sharing of wildlife disease surveillance data.    We used these data to develop new statistical and machine learning models of host-pathogen interactions, with a focus on zoonotic and vector-borne viruses. We found that some groups of mammals appear to harbor more viruses that pose a risk to humans, but often, this reflects sampling bias: for example, animals that live in cities are better studied, while endangered species are often harder to sample. These biases have less impact on risk assessment at the level of individual viruses, and we found that our models could reliably identify animal viruses that can infect humans, especially when they incorporated data on both viral genomes and animal hosts. We also simulated how climate and land use change are restructuring the mammal-virus network, and found that new opportunities for cross-species transmission often coincide with human-settled areas. Because they can travel long distances in a single lifetime, we showed that bats have a unique ability to bring viruses into new ecosystems, and  where they come into contact with stepping stone hosts like primates and livestock, especially in places like southeast Asia  they may create new pathways for zoonotic emergence.    Motivated by the Covid-19 pandemic, we started developing models of the ecology and emergence of bat coronaviruses. We estimated that there are hundreds of species of bats with undiscovered betacoronaviruses (the group that includes SARS-CoV, SARS-CoV-2, and MERS-CoV); these species are found worldwide, but particularly concentrated in sub-Saharan Africa and Indonesia. We also used theoretical models to show that global hotspots of bat coronavirus diversity and emergence in east and southeast Asia and the Middle East can be explained by bat evolutionary history. Both sets of models predict that undiscovered viruses could be circulating in bats across the Indian subcontinent, where limited sampling has been done  suggesting a potential global blindspot in pandemic risk assessment. In a meta-analysis of studies from the last 20 years, we found that across nearly 90,000 bat samples, the strongest predictors of coronavirus detection have been repeated sampling of the same field site and intestinal tissue sampling  a clue about the tissue tropism of these viruses that mirrors findings about persistent infections with SARS-CoV-2 in humans.    In the first two years of the project, the Covid-19 pandemic prevented in-person project meetings or conference travel. Instead, we held a virtual conference on the use of artificial intelligence for pathogen risk assessment, with attendees representing several major global outbreak surveillance projects and non-governmental organizations in global health. We also repurposed our unused travel budget to support student research assistants and an expanded investigator team. Our project trained six students in ecological synthesis research (3 undergraduate, 2 Ph.D. students, 1 medical student), and supported the development of three new courses (2 graduate-level, 1 undergraduate-level) at Georgetown University and Louisiana State University. Trainees and investigators presented research virtually at several ecology and infectious disease related conferences. We also organized a CodeFest outreach event at Louisiana State University with 15 undergraduate attendees that used our data ecosystem to spark excitement about coding in R and collaborative problem solving.    We communicated our findings to policymakers and the public through social media, press, and Congressional testimony. Our work was covered in over 50 news articles in the first two years, including profiles of the project in Nature, Scientific American, and The New York Times. According to CarbonBrief, our study on climate change and cross-species viral transmission broke the all-time record for press coverage and social media attention for any study on climate change (based on Altmetric score); the study was also cited in the 2023 Economic Report of the President.         Last Modified: 12/17/2024       Submitted by: ColinJCarlson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Imaging of Electronic Correlations and Symmetry Breaking Effects in Twisted Van der Waals Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Mann</SignBlockName>
+<PO_EMAI>elmann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922655</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non Technical:&lt;br/&gt;This project aims to explore the electronic properties of engineered materials that are assembled one atomic layer at a time, starting from individual sheets of graphene and certain semiconductors, so-called transition metal dichalcogenides. For precise well-defined rotational misalignment angle between the layers, electrons in these materials strongly interact which leads to the emergence of correlated quantum electronic phases. The research team will image these emerging phases using scanning tunneling microscopy and spectroscopy techniques in various geometries. This approach will allow the team to gain insights into how the microscopic properties of correlated phases relate to their overall transport signatures. This information can be used to develop novel electronic quantum devices. The team will disseminate the project results through international conferences, journal articles, invited talks, publicly available blog posts, and educational videos targeting a broad audience. Besides the research component, this project aims to provide ample opportunities for integrating undergraduate education and increasing diversity through summer internships and programs for underrepresented minorities and outreach activities targeting high-school students and teachers from the Pasadena School District. &lt;br/&gt;&lt;br/&gt;Technical:&lt;br/&gt;The discovery of layered quasi-two-dimensional crystals enabled a new way of designing tunable electronic systems in which electron-electron interactions are controlled through the rotational alignment (twist) of the stacked layers. The focus of this project is to explore properties of emerging correlated quantum electronic phases, including superconductivity and orbital ferromagnetism, in twisted multi-layer graphene and transition metal dichalcogenides heterostructures. One of the main goals is to establish a basic understanding of underlying symmetries and symmetry breaking phenomena that occur in these emerging phases using scanning tunneling microscopy and spectroscopy and by studying heterostructures in gate-tunable multi-terminal geometries. This research project is accompanied by an extensive mentoring and outreach plan aimed to prepare graduate and undergraduate students for successful careers in science and industry and help educate the public about quantum science and nanotechnology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005129</AwardID>
+<Investigator>
+<FirstName>Stevan</FirstName>
+<LastName>Nadj-Perge</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stevan Nadj-Perge</PI_FULL_NAME>
+<EmailAddress><![CDATA[s.nadj-perge@caltech.edu]]></EmailAddress>
+<NSF_ID>000734588</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250001</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress><![CDATA[1200 E CALIFORNIA BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>911250001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>171000</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<FUND_OBLG>2021~150000</FUND_OBLG>
+<FUND_OBLG>2022~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project advanced the understanding of strongly correlated phases in van der Waals heterostructures based on rotationally misaligned graphene multilayers. Besides their fundamental importance, understanding symmetry-breaking mechanisms and residual symmetries in this family of materials holds promise for identifying key ingredients for the emergence of various superconducting and topological phases. The primary scientific outcomes of this award are listed in the following:&nbsp;</p>  <p>(i) In twisted graphene bilayers, we have deepened the understanding of how symmetry breaking arises as the twist angle approaches the magic-angle value. We have established that the so-called Hartree correction, a consequence of non-uniform charge distribution in this material, effectively leads to the flattening of the electronic bands, thus enhancing correlation effects. This enhancement is robust in a larger angle range than anticipated from the simple continuum model. Ultimately, it leads to the breaking of internal four-fold spin-valley degeneracy and the formation of topological bands with non-zero Chern numbers.&nbsp;</p>  <p><br />(ii) In a separate line of efforts, we have studied the relation between symmetry breaking and superconductivity in magic-angle twisted trilayer graphene. Besides establishing spectroscopic signatures of unconventional superconductivity in this system, we have determined that both superconductivity and correlated insulating states emerge from the so-called inter-valley coherent parent normal state in which electrons from the opposite valleys are coherently mixed. This mixing is characterized by the distinct local density of state signatures that emerge on the graphene atomic lattice length scale. The parent state is more precisely identified as an incommensurate Kekul&eacute; spiral state by observing additional real space modulation on the Moir&eacute; length scales. Combined, these observations directly suggest that the inter-valley coherence is essential for forming correlated superconductivity in this system.&nbsp;&nbsp;</p>  <p><br />Regarding broader impacts, this award helped support several training opportunities for undergraduates and various outreach activities involving visiting high school students.</p><br> <p>  Last Modified: 12/13/2024<br> Modified by: Stevan&nbsp;Nadj-Perge</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project advanced the understanding of strongly correlated phases in van der Waals heterostructures based on rotationally misaligned graphene multilayers. Besides their fundamental importance, understanding symmetry-breaking mechanisms and residual symmetries in this family of materials holds promise for identifying key ingredients for the emergence of various superconducting and topological phases. The primary scientific outcomes of this award are listed in the following:    (i) In twisted graphene bilayers, we have deepened the understanding of how symmetry breaking arises as the twist angle approaches the magic-angle value. We have established that the so-called Hartree correction, a consequence of non-uniform charge distribution in this material, effectively leads to the flattening of the electronic bands, thus enhancing correlation effects. This enhancement is robust in a larger angle range than anticipated from the simple continuum model. Ultimately, it leads to the breaking of internal four-fold spin-valley degeneracy and the formation of topological bands with non-zero Chern numbers.     (ii) In a separate line of efforts, we have studied the relation between symmetry breaking and superconductivity in magic-angle twisted trilayer graphene. Besides establishing spectroscopic signatures of unconventional superconductivity in this system, we have determined that both superconductivity and correlated insulating states emerge from the so-called inter-valley coherent parent normal state in which electrons from the opposite valleys are coherently mixed. This mixing is characterized by the distinct local density of state signatures that emerge on the graphene atomic lattice length scale. The parent state is more precisely identified as an incommensurate Kekul spiral state by observing additional real space modulation on the Moir length scales. Combined, these observations directly suggest that the inter-valley coherence is essential for forming correlated superconductivity in this system.     Regarding broader impacts, this award helped support several training opportunities for undergraduates and various outreach activities involving visiting high school students.     Last Modified: 12/13/2024       Submitted by: StevanNadj-Perge]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

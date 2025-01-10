@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Rubbing-Induced Site-Selective Patterning for Two-Dimensional Dichalcogenide Devices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>405869.00</AwardTotalIntnAmount>
+<AwardAmount>405869</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pranav Soman</SignBlockName>
+<PO_EMAI>psoman@nsf.gov</PO_EMAI>
+<PO_PHON>7032924322</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This grant supports research that advances critical knowledge for manufacturing electronic devices based on emerging nanomaterials, helping advance U.S. industrial competitiveness and national prosperity. Two-dimensional nanomaterials, such as transition metal dichalcogenides, could be exploited to make a broad range of electronic and photonic devices with superior functionalities. For example, dichalcogenides such as molybdenum disulfide, can be used to make flexible and wearable devices, biosensors for rapid illness diagnosis, and energy-efficient photodetectors. Although prototypes of these dichalcogenide devices have been demonstrated in the laboratory, the device community still lacks suitable technologies for realizing scalable nanomanufacturing of such devices. One of the most critical challenges is the vulnerability of dichalcogenides to the existing lithography and etching processes for manufacturing electronic devices. This award supports fundamental research to explore imperative knowledge supporting a new manufacturing technology involving site-selective patterning that enables reliable production of dichalcogenide device structures without involving processes that are detrimental to dichalcogenides. The high-quality dichalcogenide device structures produced by this technology are highly desirable for device applications in electronic, sensor, energy storage, and optoelectronic industries. This research enhances participation of underrepresented groups in the education activities related to advanced manufacturing.  &lt;br/&gt;&lt;br/&gt;The new manufacturing technology, termed rubbing-induced site-selective (RISS) patterning, involves a controllable rubbing process for generating nano- or microscale triboelectric charge patterns on a substrate and a subsequent two-dimensional nanomaterial chemical vapor deposition process. The triboelectric charge patterns modulate the nucleation of material deposition precursors on the target substrate and enables direct formation of dichalcogenide device patterns at designated site-selective locations without the need for additional resist-based lithography and plasma etching, which can introduce irreversible contamination and damage to the dichalcogenide layered structure. However, scientific questions need to be answered to make RISS technology practical for manufacturing commercially viable dichalcogenide devices. This research is to understand the mechanisms related to the generation and control of triboelectric charge patterns as well as material deposition processes modulated by electric fields. The research team plans to establish a theoretical-experimental integrated methodology for designing rubbing templates, which can generate high-contrast triboelectric charge patterns under designated mechanical conditions. The research approach is to fabricate rationally designed rubbing templates using focused ion beam and atomic force microscope lithography techniques, experimentally identify mechanical conditions that generate high-contrast triboelectric charge patterns, perform modeling of material diffusion guided by triboelectric field and demonstrate production of arrays of dichalcogenide-based memristive devices for neuromorphic computing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001036</AwardID>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Lu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wei Lu</PI_FULL_NAME>
+<EmailAddress><![CDATA[weilu@umich.edu]]></EmailAddress>
+<NSF_ID>000197006</NSF_ID>
+<StartDate>06/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaogan</FirstName>
+<LastName>Liang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaogan Liang</PI_FULL_NAME>
+<EmailAddress><![CDATA[xiaoganl@umich.edu]]></EmailAddress>
+<NSF_ID>000601674</NSF_ID>
+<StartDate>06/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>088Y00</Code>
+<Text>AM-Advanced Manufacturing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>081E</Code>
+<Text>NANO SCALE ASSEMBLY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>084E</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~405869</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this NSF-sponsored project, the PIs have systematically investigated a new manufacturing technology, termed rubbing-induced site-selective (RISS) patterning, and further leveraged its device applications in hardware-based neuromorphic computing and biosensing. RISS involves a controllable rubbing process for generating nano- or microscale triboelectric charge patterns on a substrate and a subsequent chemical vapor deposition (CVD) or physical vapor deposition (PVD) process. The triboelectric charge patterns modulate the nucleation of material deposition precursors on the target substrate and enables direct formation of dichalcogenide device patterns at designated locations with no need of additional resist-based lithography and plasma etching processes that can introduce irreversible contamination and damage to the layered structure of dichalcogenides. In this research, the PIs have addressed some important scientific and technical questions that are critical for make this technology practical for manufacturing commercially viable 2D layered materials and devices. The major research goals achieved in this project include (1) establishment of an experimental-theoretical integrated methodology for designing rubbing templates, which can generate high-contrast triboelectric charge patterns under designated mechanical conditions; (2) construction of an automatic system for performing RISS processes and generating arbitrary device patterns of 2D semiconductor materials; (3) demonstration production of memristive and biosensing device arrays based on dichalcogenide or other layered semiconductor materials for neuromorphic computing, controlling, and biodetection applications.</p> <p>Intellectual Merits: Conventional semiconductor manufacturing techniques are still not suitable for production of electronic devices based on emerging 2D layered semiconducting materials. This research has provided new scientific principles and technical solutions to address this challenge. Especially, the scientific knowledge achieved from this research enables rational designs of mechanical templates that, under designated pressing and rubbing conditions, can generate high-contrast triboelectric charge and field distribution patterns within nanoscopic areas. In combination with nanomaterial growth or deposition, such triboelectric field patterns can induce site-selective growth of high-quality 2D device patterns. In addition, this work has motivated and demonstrated new applications in making functional device patterns on other substrates, such as metal sensors on hydrogel substrates and memristive devices for neuromorphic applications.</p> <p>Broader Impacts: This research broadly impacts relevant fields such as nanomechanics, nanofabrication, nanomanufacturing, 2D materials/devices, and also emerging neuromorphic computing systems. Especially, the method for designing rubbing templates could be used for making nanomechanical and MEMS structures with designated strain/stress characteristics. In addition, the high-contrast nanoscale triboelectric charge patterns could be exploited for assembling a broad range of biological and chemical nanostructures that are vulnerable to conventional patterning processes. This project has sponsored the thesis work of two Ph.D students and incorporated more than ten undergraduate students in the relevant research activities. The newly obtained knowledge about using rubbing processes to product nano/micromaterials and devices as well as new device applications in emerging neuromorphic computing applications has been added to the courses the PI teaches, including "Introduction to Nanofabrication and Nanomanufacturing Technology" and "Engineering 100: Introduction to Engineering".</p> <p>&nbsp;</p> <p>List of major deliverables and products:</p> <p>1. Lab-built automatic system for performing rubbing-induced site-selective (RISS) processes (Fig.1) (Ref: Mingze Chen, Seungjun Ki, Xiaogan Liang*, <em>Multiplexing Implementation of Rubbing-Induced Site-Selective Growth of MoS<sub>2</sub> Feature Arrays</em>, Journal of Vacuum Science &amp; Technology B&nbsp;39, 062203 (2021))</p> <p>2. 2D semiconducting material and device arrays produced by RISS processes (Fig. 2) (Ref: Mingze Chen, Seung Jun Ki, and Xiaogan Liang*, <em>Bi<sub>2</sub>Se<sub>3</sub>-Based Memristive Devices for Neuromorphic Processing of Analogue Video Signals</em>, ACS Applied Electronic Materials, 5, 7, 3830&ndash;3842 (2023))</p> <p>3. Demonstration of manufacturing of functional microstructures and biosensors on flexible hydrogel substrates (e.g., commercial contact lenses), Enabling New Wearable Healthcare Devices (Fig. 3) (Ref: Mingze Chen, Xiaoke Ding, Long Que*, and Xiaogan Liang*, Fabrication of Microstructures on Curved Hydrogel Substrates, Journal of Vacuum Science and Technology B 40, 052804 (2022) (Editor&rsquo;s pick; Reported by AIP Scilight) and Xiaoke Ding, Mingze Chen, Xiaogan Liang*, and Long Que*, &ldquo;Soft contact lens with embedded moir&eacute; patterns-based intraocular pressure sensors&rdquo;, IEEE Journal of Microelectromechanical Systems, 31, 6, 971 - 976 (2022))</p> <p>4. RISS-produced optoelectronic memristive switching devices based on MoS<sub>2</sub>, capable of processing temporal information components carried by analogue signals (e.g., analogue video streaming signals) (Fig. 4) (Ref: Seung Jun Ki, Jisoo Kim, Mingze Chen, and <strong>Xiaogan Liang*</strong>, <em>Memristive devices with short-term and long-term memory behaviors for processing temporal information</em>, Applied Physics Letters, 123, 223501 (2023)).</p> <p>5. Mingze Chen, Seung Jun Ki, and Xiaogan Liang,&nbsp;<em>Fabrication of Bi2Se3 Memristors Using Multiplexing Rubbing Induced Site Selective Deposition,</em>&nbsp;The 66<sup>th</sup> International Conference on Electron, Ion, Photon Beams and Nanolithography (EIPBN 2023), May 30 &ndash; June 2, 2023, San Francisco, CA.</p> <p>6. Seung Jun Ki, Mingze Chen, and Xiaogan Liang,&nbsp;<em>Fabrication of MoS2 Memristors with Short-Term and Long-Term Memory Behaviors,</em>&nbsp;The 66<sup>th</sup> International Conference on Electron, Ion, Photon Beams and Nanolithography (EIPBN 2023), May 30 &ndash; June 2, 2023, San Francisco, CA.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/26/2024<br> Modified by: Xiaogan&nbsp;Liang</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2001036/2001036_10675024_1727398276736_Fig3--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2001036/2001036_10675024_1727398276736_Fig3--rgov-800width.jpg" title="Pattern generation on hydrogel substrates"><img src="/por/images/Reports/POR/2024/2001036/2001036_10675024_1727398276736_Fig3--rgov-66x44.jpg" alt="Pattern generation on hydrogel substrates"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Demonstration of manufacturing of functional microstructures and biosensors on flexible hydrogel substrates (e.g., commercial contact lenses), Enabling New Wearable Healthcare Devices.</div> <div class="imageCredit">Mingze Chen, Xiaogan Liang</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Xiaogan&nbsp;Liang <div class="imageTitle">Pattern generation on hydrogel substrates</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2001036/2001036_10675024_1727398081097_Fig1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2001036/2001036_10675024_1727398081097_Fig1--rgov-800width.jpg" title="Automatic RISS system"><img src="/por/images/Reports/POR/2024/2001036/2001036_10675024_1727398081097_Fig1--rgov-66x44.jpg" alt="Automatic RISS system"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Lab-built automatic system for performing multiplexing rubbing-induced site-selective (RISS) processes</div> <div class="imageCredit">Mingze Chen, Xiaogan Liang</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Xiaogan&nbsp;Liang <div class="imageTitle">Automatic RISS system</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2001036/2001036_10675024_1727398204231_Fig2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2001036/2001036_10675024_1727398204231_Fig2--rgov-800width.jpg" title="RISS-produced 2D materials and devices"><img src="/por/images/Reports/POR/2024/2001036/2001036_10675024_1727398204231_Fig2--rgov-66x44.jpg" alt="RISS-produced 2D materials and devices"></a> <div class="imageCaptionContainer"> <div class="imageCaption">2D semiconducting material and device arrays produced by RISS processes, including MoS2 and Bi2Se3 feature arrays and Bi2Se3-based memristor arrays</div> <div class="imageCredit">Mingze Chen, Xiaogan Liang</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Xiaogan&nbsp;Liang <div class="imageTitle">RISS-produced 2D materials and devices</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2001036/2001036_10675024_1727398357893_Fig4--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2001036/2001036_10675024_1727398357893_Fig4--rgov-800width.jpg" title="RISS-produced optoelectronic controllers"><img src="/por/images/Reports/POR/2024/2001036/2001036_10675024_1727398357893_Fig4--rgov-66x44.jpg" alt="RISS-produced optoelectronic controllers"></a> <div class="imageCaptionContainer"> <div class="imageCaption">RISS-produced optoelectronic memristive switching devices based on MoS2, capable of processing temporal information components carried by analogue signals (e.g., analogue video streaming signals).</div> <div class="imageCredit">Seung Jun Ki, Xiaogan Liang</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Xiaogan&nbsp;Liang <div class="imageTitle">RISS-produced optoelectronic controllers</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In this NSF-sponsored project, the PIs have systematically investigated a new manufacturing technology, termed rubbing-induced site-selective (RISS) patterning, and further leveraged its device applications in hardware-based neuromorphic computing and biosensing. RISS involves a controllable rubbing process for generating nano- or microscale triboelectric charge patterns on a substrate and a subsequent chemical vapor deposition (CVD) or physical vapor deposition (PVD) process. The triboelectric charge patterns modulate the nucleation of material deposition precursors on the target substrate and enables direct formation of dichalcogenide device patterns at designated locations with no need of additional resist-based lithography and plasma etching processes that can introduce irreversible contamination and damage to the layered structure of dichalcogenides. In this research, the PIs have addressed some important scientific and technical questions that are critical for make this technology practical for manufacturing commercially viable 2D layered materials and devices. The major research goals achieved in this project include (1) establishment of an experimental-theoretical integrated methodology for designing rubbing templates, which can generate high-contrast triboelectric charge patterns under designated mechanical conditions; (2) construction of an automatic system for performing RISS processes and generating arbitrary device patterns of 2D semiconductor materials; (3) demonstration production of memristive and biosensing device arrays based on dichalcogenide or other layered semiconductor materials for neuromorphic computing, controlling, and biodetection applications.   Intellectual Merits: Conventional semiconductor manufacturing techniques are still not suitable for production of electronic devices based on emerging 2D layered semiconducting materials. This research has provided new scientific principles and technical solutions to address this challenge. Especially, the scientific knowledge achieved from this research enables rational designs of mechanical templates that, under designated pressing and rubbing conditions, can generate high-contrast triboelectric charge and field distribution patterns within nanoscopic areas. In combination with nanomaterial growth or deposition, such triboelectric field patterns can induce site-selective growth of high-quality 2D device patterns. In addition, this work has motivated and demonstrated new applications in making functional device patterns on other substrates, such as metal sensors on hydrogel substrates and memristive devices for neuromorphic applications.   Broader Impacts: This research broadly impacts relevant fields such as nanomechanics, nanofabrication, nanomanufacturing, 2D materials/devices, and also emerging neuromorphic computing systems. Especially, the method for designing rubbing templates could be used for making nanomechanical and MEMS structures with designated strain/stress characteristics. In addition, the high-contrast nanoscale triboelectric charge patterns could be exploited for assembling a broad range of biological and chemical nanostructures that are vulnerable to conventional patterning processes. This project has sponsored the thesis work of two Ph.D students and incorporated more than ten undergraduate students in the relevant research activities. The newly obtained knowledge about using rubbing processes to product nano/micromaterials and devices as well as new device applications in emerging neuromorphic computing applications has been added to the courses the PI teaches, including "Introduction to Nanofabrication and Nanomanufacturing Technology" and "Engineering 100: Introduction to Engineering".      List of major deliverables and products:   1. Lab-built automatic system for performing rubbing-induced site-selective (RISS) processes (Fig.1) (Ref: Mingze Chen, Seungjun Ki, Xiaogan Liang*, Multiplexing Implementation of Rubbing-Induced Site-Selective Growth of MoS2 Feature Arrays, Journal of Vacuum Science & Technology B39, 062203 (2021))   2. 2D semiconducting material and device arrays produced by RISS processes (Fig. 2) (Ref: Mingze Chen, Seung Jun Ki, and Xiaogan Liang*, Bi2Se3-Based Memristive Devices for Neuromorphic Processing of Analogue Video Signals, ACS Applied Electronic Materials, 5, 7, 38303842 (2023))   3. Demonstration of manufacturing of functional microstructures and biosensors on flexible hydrogel substrates (e.g., commercial contact lenses), Enabling New Wearable Healthcare Devices (Fig. 3) (Ref: Mingze Chen, Xiaoke Ding, Long Que*, and Xiaogan Liang*, Fabrication of Microstructures on Curved Hydrogel Substrates, Journal of Vacuum Science and Technology B 40, 052804 (2022) (Editors pick; Reported by AIP Scilight) and Xiaoke Ding, Mingze Chen, Xiaogan Liang*, and Long Que*, Soft contact lens with embedded moir patterns-based intraocular pressure sensors, IEEE Journal of Microelectromechanical Systems, 31, 6, 971 - 976 (2022))   4. RISS-produced optoelectronic memristive switching devices based on MoS2, capable of processing temporal information components carried by analogue signals (e.g., analogue video streaming signals) (Fig. 4) (Ref: Seung Jun Ki, Jisoo Kim, Mingze Chen, and Xiaogan Liang*, Memristive devices with short-term and long-term memory behaviors for processing temporal information, Applied Physics Letters, 123, 223501 (2023)).   5. Mingze Chen, Seung Jun Ki, and Xiaogan Liang,Fabrication of Bi2Se3 Memristors Using Multiplexing Rubbing Induced Site Selective Deposition,The 66th International Conference on Electron, Ion, Photon Beams and Nanolithography (EIPBN 2023), May 30  June 2, 2023, San Francisco, CA.   6. Seung Jun Ki, Mingze Chen, and Xiaogan Liang,Fabrication of MoS2 Memristors with Short-Term and Long-Term Memory Behaviors,The 66th International Conference on Electron, Ion, Photon Beams and Nanolithography (EIPBN 2023), May 30  June 2, 2023, San Francisco, CA.              Last Modified: 09/26/2024       Submitted by: XiaoganLiang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

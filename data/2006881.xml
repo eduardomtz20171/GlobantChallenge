@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Acoustic Inverse Problems with Single and Multiple Measurements]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>237201.00</AwardTotalIntnAmount>
+<AwardAmount>300624</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stacey Levine</SignBlockName>
+<PO_EMAI>slevine@nsf.gov</PO_EMAI>
+<PO_PHON>7032922948</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The project addresses fundamental scientific challenges in non-destructive testing techniques. These techniques are widely used in medical imaging for tumor detection, in seismic imaging for oil prospecting, and in military applications for weapon defect inspection. This project facilitates resolution of these challenges by developing innovative theory and algorithms for the underlying mathematical problems. The theory will promote the domain knowledge in mathematics and relevant scientific areas. The theoretically consolidated algorithms will open new avenues for scientific computing in non-destructive testing techniques, consequently leading to innovation in medical imaging, seismic imaging, and military application that will advance the societal welfare and national security. Implementation of the project will be integrated with the educational mission to involve undergraduate and graduate students majoring in mathematics and engineering, especially those from underrepresented groups. Students will receive rigorous scientific training in mathematical theory and programming to prepare them as the next generation of the STEM workforce that can continue to promote science and technology in future decades.&lt;br/&gt;&lt;br/&gt;The overall goal of the project is determination and reconstruction of multiple acoustic parameters from single or multiple boundary measurements. In the first major topic, the investigator will devise novel algorithms to reconstruct the wave speed and potential from multiple boundary measurements using the boundary control method. The algorithms give direct reconstruction to the nonlinear inverse problems as opposed to traditional iterative algorithms. In the second major topic, the investigator will study uniqueness and stability for joint determination of a source and a coefficient from single boundary measurements. Novel sufficient and necessary conditions will be derived from the viewpoint of microlocal analysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006881</AwardID>
+<Investigator>
+<FirstName>Yang</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yang Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yangy5@msu.edu]]></EmailAddress>
+<NSF_ID>000680463</NSF_ID>
+<StartDate>05/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>East Lansing</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488244403</ZipCode>
+<StreetAddress><![CDATA[428 S. Shaw Lane, Room 1510]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>745400</Code>
+<Text>MSPA-INTERDISCIPLINARY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1515</Code>
+<Text>MINORITY GRADUATE EDUC ACTIVIT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~157514</FUND_OBLG>
+<FUND_OBLG>2022~143110</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="clear">The research scope of this project aims to develop fundamental mathematical theory and techniques that facilitate emerging wave-based non-destructive imaging technology in medical applications. Investigation of the mathematics places the technology over solid theoretical foundation, provides new perspectives to understand existing limitations, and suggests directions for further improvement. During the project period, new mathematical theory was developed and new algorithms were devised, implemented and validated. The scientific discoveries have been published in the form of peer-reviewed journal articles for knowledge dissemination. A few major outcomes include (but not limited to):&nbsp;</p> <p class="clear">1. Novel Mathematical Theory and Computational Paradigm for Ultra-Sound Computed Tomography (USCT). Ultra-Sound Computed Tomography (USCT) is a medical imaging technique that uses ultrasound to create detailed cross-sectional images for medical diagnosis and monitoring. This technique offers a radiation-free alternative to traditional methods like X-rays, making it safer for patients. A major computational challenge in USCT is the vulnerability to local minima of the gradient-based algorithms. In contrast, this project proposes novel USCT algorithms that are not gradient-based and have the potential to overcome the challenge. The project also develops new mathematical theory which lays the foundation for the analysis of the algorithms. The algorithms and theory provide a novel computational paradigm for the USCT imaging technology.&nbsp;</p> <p>2. Novel Mathematical Theory and Algorithms for Photoacoustic Tomography (PAT). PAT is a pre-clinical medical imaging technology that takes advantage of high-resolution ultrasound and high-contrast optics. A major challenge faced by PAT imaging is that its image formation relies on the knowledge of the sound speed in the target area, which varies in different types of tissues and is often unknown. This project developed several data-splitting methods based on recent mathematical progress to resolve such challenge. In these methods, the sound speed is calculated from hidden information in PAT data, and then used to calibrate the final PAT images. The data-splitting methods are further turned into algorithms, which have demonstrated clear improvement in PAT image quality and accuracy. The new methods and algorithms have the potential to facilitate the use of PAT as a safe and cost-effective new imaging tool for regular clinical screening in the near future.</p> <p>The educational scope of this project aims to provide research training opportunities for the future STEM workforce, with a special focus on students from historically under-represented groups. This goal was successfully achieved in various forms during the project period. Specifically, (1) Four graduate students, including some from gender-minority groups, received research training and graduated with PhD or Master&rsquo;s degrees. (2) Multiple high school and undergraduate students, several from historically under-represented groups, gained research experience in mathematical imaging through summer programs. (3) The general public were provided opportunities to learn about the PI&rsquo;s research area through several outreach programs.</p> <p>In summary, the project was initiated to develop fundamental mathematical theory and techniques that facilitate emerging wave-based non-destructive imaging technology such as USCT and PAT. This objective has been successfully accomplished in the project period, resulting in innovative mathematical theory and numerical algorithms that offer novel perspectives to understand and improve emerging biomedical technology. This research has the broader impacts to advance medical imaging methods for better societal healthcare in the future. The PI is grateful to the National Science Foundation for the support, without which the new scientific discoveries would have been impossible.</p><br> <p>  Last Modified: 11/04/2024<br> Modified by: Yang&nbsp;Yang</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The research scope of this project aims to develop fundamental mathematical theory and techniques that facilitate emerging wave-based non-destructive imaging technology in medical applications. Investigation of the mathematics places the technology over solid theoretical foundation, provides new perspectives to understand existing limitations, and suggests directions for further improvement. During the project period, new mathematical theory was developed and new algorithms were devised, implemented and validated. The scientific discoveries have been published in the form of peer-reviewed journal articles for knowledge dissemination. A few major outcomes include (but not limited to):   1. Novel Mathematical Theory and Computational Paradigm for Ultra-Sound Computed Tomography (USCT). Ultra-Sound Computed Tomography (USCT) is a medical imaging technique that uses ultrasound to create detailed cross-sectional images for medical diagnosis and monitoring. This technique offers a radiation-free alternative to traditional methods like X-rays, making it safer for patients. A major computational challenge in USCT is the vulnerability to local minima of the gradient-based algorithms. In contrast, this project proposes novel USCT algorithms that are not gradient-based and have the potential to overcome the challenge. The project also develops new mathematical theory which lays the foundation for the analysis of the algorithms. The algorithms and theory provide a novel computational paradigm for the USCT imaging technology.   2. Novel Mathematical Theory and Algorithms for Photoacoustic Tomography (PAT). PAT is a pre-clinical medical imaging technology that takes advantage of high-resolution ultrasound and high-contrast optics. A major challenge faced by PAT imaging is that its image formation relies on the knowledge of the sound speed in the target area, which varies in different types of tissues and is often unknown. This project developed several data-splitting methods based on recent mathematical progress to resolve such challenge. In these methods, the sound speed is calculated from hidden information in PAT data, and then used to calibrate the final PAT images. The data-splitting methods are further turned into algorithms, which have demonstrated clear improvement in PAT image quality and accuracy. The new methods and algorithms have the potential to facilitate the use of PAT as a safe and cost-effective new imaging tool for regular clinical screening in the near future.   The educational scope of this project aims to provide research training opportunities for the future STEM workforce, with a special focus on students from historically under-represented groups. This goal was successfully achieved in various forms during the project period. Specifically, (1) Four graduate students, including some from gender-minority groups, received research training and graduated with PhD or Masters degrees. (2) Multiple high school and undergraduate students, several from historically under-represented groups, gained research experience in mathematical imaging through summer programs. (3) The general public were provided opportunities to learn about the PIs research area through several outreach programs.   In summary, the project was initiated to develop fundamental mathematical theory and techniques that facilitate emerging wave-based non-destructive imaging technology such as USCT and PAT. This objective has been successfully accomplished in the project period, resulting in innovative mathematical theory and numerical algorithms that offer novel perspectives to understand and improve emerging biomedical technology. This research has the broader impacts to advance medical imaging methods for better societal healthcare in the future. The PI is grateful to the National Science Foundation for the support, without which the new scientific discoveries would have been impossible.     Last Modified: 11/04/2024       Submitted by: YangYang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

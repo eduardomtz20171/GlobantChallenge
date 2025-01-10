@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Robust and Reliable Resource for Accessing, Sharing, and Analyzing Confidential Geospatial Research Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>308588.00</AwardTotalIntnAmount>
+<AwardAmount>308588</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tom Evans</SignBlockName>
+<PO_EMAI>tevans@nsf.gov</PO_EMAI>
+<PO_PHON>7032924891</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will undertake a set of interrelated research activities to enhance a robust and reliable geospatial virtual data enclave (GVDE) that will facilitate the sharing of geospatial research data while also maintaining the confidentiality of individuals whose identities may be at risk because of the distinctive characteristics of geospatial data.  This collaborative project between the American Association of Geographers (AAG), the University of Illinois at Urbana-Champaign, and the University of Michigan's Inter-university Consortium for Political and Social Research (ICPSR) will enhance an infrastructural resource that will advance scientific research by building capacity for data sharing in geospatial data-intensive research communities in the social, environmental, and related sciences that use geospatial data.  The GVDE resource will make a wide range of geospatial, spatial statistical, and geographic information system software available to allow researchers to share, access, build on, and conduct new research involving confidential data within the enclave.  It will be a secure research environment for sharing confidential geospatial research data, thereby enabling the replication of prior research involving confidential geospatial data.  The GVDE will create new research infrastructure for scientists to share data so that research results are replicable and national investments in data creation are preserved for subsequent analysis.  The project will train researchers in techniques to protect confidentiality in geospatial data.  Graduate students will be involved in the enhancement of this infrastructure.&lt;br/&gt;&lt;br/&gt;The ability to replicate and reproduce research is a corner-stone of scientific methodology.  The generation and analysis of geospatial and locational data is at the frontier of many scientific domains, yet the unique characteristics of these data present special challenges to data-sharing practices due to the need to protect the locational privacy and confidentiality of research subjects.  The privacy challenges of confidential geospatial data are not yet fully understood by many members of the scientific research community.  As a result, research is often impeded by uncertainty regarding geospatial data confidentiality or by a lack of effective methods for safely sharing and accessing confidential geospatial research data for analysis or replication.  To address these problems, the investigators will enhance the GVDE and its core capabilities to share, access, analyze, and replicate geospatial data.  They will evaluate and implement confidentiality protection techniques to enable researchers to anonymize and export maps, analyses, and visualizations derived from analyses conducted in the GVDE.  They will develop and implement a researcher credentialing system to provide trained and trusted researchers with a durable digital identifier to safely access and use the GVDE.  They will also ensure the long-term sustainability of the GVDE system and expand its availability to the broader geospatial research community through outreach, dissemination, and the development of training materials on system use, data confidentiality ethics, credentialing requirements, research replication, and best practices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/04/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025783</AwardID>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Richardson</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Douglas B Richardson</PI_FULL_NAME>
+<EmailAddress><![CDATA[DBRichardson@fas.harvard.edu]]></EmailAddress>
+<NSF_ID>000330516</NSF_ID>
+<StartDate>03/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385366</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress><![CDATA[1033 MASSACHUSETTS AVE STE 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LN53LCFJFL45</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021385369</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>132000</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>133100</Code>
+<Text>Sociology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>133300</Code>
+<Text>Methodology, Measuremt &amp; Stats</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>135200</Code>
+<Text>Geography and Spatial Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>040Z</Code>
+<Text>Robust and Reliable Science</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1331</Code>
+<Text>SOCIOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1333</Code>
+<Text>METHOD, MEASURE &amp; STATS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~308586</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>NSF Project Outcomes Report</strong></p> <p>US National Science Foundation Grant #2025783</p> <p>&nbsp;</p> <p><strong>Innovative and Interactive Geospatial Virtual Data Enclave (GVDE) Technologies:</strong></p> <p><em>&nbsp;</em><strong><em>Robust and Reliable</em></strong><em> <strong>Privacy-enhancing Infrastructure</strong> </em></p> <p>&nbsp;</p> <p>Submitted by</p> <p><strong>Douglas Richardson, Project PI</strong></p> <p><strong>Center for Geographic Analysis</strong></p> <p><strong>Harvard University</strong></p> <p>October 18, 2024</p> <p><strong><span style="text-decoration: underline;">INTRODUCTION</span></strong></p> <p>The generation, analysis, protection and sharing of geospatial data is now at the frontier of many governmental, scientific, and private sector domains. Contemporary trends are now driving new privacy concerns. Massive quantities of data streaming, data warehouses from global positioning systems (GPS)-enabled devices and location-aware sensors, technologies, and advances in web services and cyberinfrastructure, and new geoprocessing tools for analyzing, exploring, and visualizing large and multi-scale spatiotemporal data sets.</p> <p>These trends increase opportunities for exciting new use and the integration of AI data sets to create multi-disciplinary and data-intensive collaborations. However, the unique confidentiality characteristics of geospatial and locational data present special challenges to such collaborations by governmental agencies and the public. Individuals are often identifiable when geospatial and locational data is presented in maps and other visualizations, or when combined with sensor data or other related geospatial data sets.</p> <p><strong>Our interactive GVDE technologies and infrastructure</strong> builds on <strong>four interrelated research components </strong>required to implement a robust and reliable GVDE for widespread use by governments, the public, private companies and scientists conducting projects involving confidential geospatial data:</p> <p><strong>I. Develop the Interactive Geospatial Virtual Data Enclave and its Core Functions. </strong>Our GVDE technologies, funded in part by the National Science Foundation (NSF), address challenges working with geospatial data, and to improve the user experience with regards to geospatial data. This component of the technologies evaluates and integrates software tools and procedures (e.g., data management, GIS, analytics, modeling, spatial statistics, etc.) to enable governmental agencies using confidential geospatial data to a) <strong><em>share, </em></strong>b) <strong><em>access, </em></strong>c) <strong><em>analyze, </em></strong>d) <strong><em>replicate</em></strong>, and (e) <strong><em>build on </em></strong>projects <strong>within </strong>the GVDE.</p> <p><strong>II. Evaluate and Implement Masking and Encryption Capabilities for the GVDE. </strong>We have evaluated and implemented multiple geomasking methods, encryption, and other processes to enable government agencies to anonymize and then <strong><em>export </em></strong><em>maps, analyses, and visualizations </em>derived from their analyses of confidential geospatial data from the GVDE (after review) for use in public dissemination via public reports, presentations, or publications. This component of the technologies has researched and tested numerous anonymization methods and related disclosure risks for specific types of geospatial data (point, line, polygon, raster, vector, etc.) including rapidly growing new sources of confidential geospatial data such as GPS trajectories, crowdsourced, and social media data used by government agencies. We are also in ongoing research on <strong>Differential Privacy</strong> methods. Our research team is collaborating closely with the Harvard <strong><em>OpenDP</em></strong><em> <strong>Project</strong></em>, which includes the Harvard Institute for Quantitative Social Science (IQSS), the Harvard Center for Geographic Analysis, and Microsoft.</p> <p><strong>&nbsp;</strong></p> <p><strong>III. </strong>&nbsp;One of the many important Outcomes of this NSF project, we are now uniquely positioned to apply expertise in data management and disclosure risk assessment and in the further development of the <strong>GVDE Technology and Infrastructure</strong> for use by a broad range of potential users, including governmental agencies, private companies, and universities. Our core GVDE research team involved leading scientists with deep experience with privacy-enhancing technologies and confidential data protection. Distinguished Co-PI&rsquo;s on our team included Professor Mei-Po Kwan of the University of Illinois and Professor Margaret Levenstein of the University of Michigan. The creation and use of geospatial data is becoming pervasive in many federal (and state) governmental agencies, but the unique privacy challenges of confidential geospatial data access, sharing, analysis, and safe dissemination are not yet fully understood by the public. To address these challenges, our scalable, robust, and reliable Geospatial Virtual Data Enclave (GVDE) privacy-enhancing technologies can easily be adapted for use by the needs of various governmental agencies and private companies, as needed.</p> <p><span style="text-decoration: underline;">Contact or Correspondence:</span></p> <p>Douglas Richardson, PhD &ndash; PI</p> <p>Distinguished Researcher</p> <p>Center for Geographic Analysis</p> <p>Institute for Quantitative Social Science</p> <p>Harvard University</p> <p>&nbsp;</p> <p><a href="mailto:DBRichardson@fas.harvard.edu">DBRichardson@fas.harvard.edu</a></p> <p>&nbsp;</p><br> <p>  Last Modified: 11/07/2024<br> Modified by: Douglas&nbsp;B&nbsp;Richardson</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  NSF Project Outcomes Report   US National Science Foundation Grant #2025783      Innovative and Interactive Geospatial Virtual Data Enclave (GVDE) Technologies:   Robust and Reliable Privacy-enhancing Infrastructure       Submitted by   Douglas Richardson, Project PI   Center for Geographic Analysis   Harvard University   October 18, 2024   INTRODUCTION   The generation, analysis, protection and sharing of geospatial data is now at the frontier of many governmental, scientific, and private sector domains. Contemporary trends are now driving new privacy concerns. Massive quantities of data streaming, data warehouses from global positioning systems (GPS)-enabled devices and location-aware sensors, technologies, and advances in web services and cyberinfrastructure, and new geoprocessing tools for analyzing, exploring, and visualizing large and multi-scale spatiotemporal data sets.   These trends increase opportunities for exciting new use and the integration of AI data sets to create multi-disciplinary and data-intensive collaborations. However, the unique confidentiality characteristics of geospatial and locational data present special challenges to such collaborations by governmental agencies and the public. Individuals are often identifiable when geospatial and locational data is presented in maps and other visualizations, or when combined with sensor data or other related geospatial data sets.   Our interactive GVDE technologies and infrastructure builds on four interrelated research components required to implement a robust and reliable GVDE for widespread use by governments, the public, private companies and scientists conducting projects involving confidential geospatial data:   I. Develop the Interactive Geospatial Virtual Data Enclave and its Core Functions. Our GVDE technologies, funded in part by the National Science Foundation (NSF), address challenges working with geospatial data, and to improve the user experience with regards to geospatial data. This component of the technologies evaluates and integrates software tools and procedures (e.g., data management, GIS, analytics, modeling, spatial statistics, etc.) to enable governmental agencies using confidential geospatial data to a) share, b) access, c) analyze, d) replicate, and (e) build on projects within the GVDE.   II. Evaluate and Implement Masking and Encryption Capabilities for the GVDE. We have evaluated and implemented multiple geomasking methods, encryption, and other processes to enable government agencies to anonymize and then export maps, analyses, and visualizations derived from their analyses of confidential geospatial data from the GVDE (after review) for use in public dissemination via public reports, presentations, or publications. This component of the technologies has researched and tested numerous anonymization methods and related disclosure risks for specific types of geospatial data (point, line, polygon, raster, vector, etc.) including rapidly growing new sources of confidential geospatial data such as GPS trajectories, crowdsourced, and social media data used by government agencies. We are also in ongoing research on Differential Privacy methods. Our research team is collaborating closely with the Harvard OpenDP Project, which includes the Harvard Institute for Quantitative Social Science (IQSS), the Harvard Center for Geographic Analysis, and Microsoft.      III. One of the many important Outcomes of this NSF project, we are now uniquely positioned to apply expertise in data management and disclosure risk assessment and in the further development of the GVDE Technology and Infrastructure for use by a broad range of potential users, including governmental agencies, private companies, and universities. Our core GVDE research team involved leading scientists with deep experience with privacy-enhancing technologies and confidential data protection. Distinguished Co-PIs on our team included Professor Mei-Po Kwan of the University of Illinois and Professor Margaret Levenstein of the University of Michigan. The creation and use of geospatial data is becoming pervasive in many federal (and state) governmental agencies, but the unique privacy challenges of confidential geospatial data access, sharing, analysis, and safe dissemination are not yet fully understood by the public. To address these challenges, our scalable, robust, and reliable Geospatial Virtual Data Enclave (GVDE) privacy-enhancing technologies can easily be adapted for use by the needs of various governmental agencies and private companies, as needed.   Contact or Correspondence:   Douglas Richardson, PhD  PI   Distinguished Researcher   Center for Geographic Analysis   Institute for Quantitative Social Science   Harvard University      DBRichardson@fas.harvard.edu        Last Modified: 11/07/2024       Submitted by: DouglasBRichardson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: FoMR: Enabling High Instructions-per-Cycle (IPC) Counts in Future Multi-NUMA (Non Uniform Memory Access) Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>140000.00</AwardTotalIntnAmount>
+<AwardAmount>140000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Emerging memory technologies, such as three-dimensional die-stacked dynamic random access memory (3D-DRAM) and non-volatile random-access memory (NVRAM), introduce promising opportunities in achieving high performance for computer processors. Computer servers with mixed memory technologies introduce a new multi-dimensional non-uniform memory access (“multi-NUMA”) method, where the computer memory hierarchy has widely varying performance and efficiency characteristics depending on the type of memory and where it resides in the system. Despite the promising benefits, multi-NUMA systems impose significant architecture design challenges due to the level of heterogeneity they introduce. The multi-dimensional heterogeneity, which ranges from access latency, bandwidth, and access granularity to reliability and functionality, makes memory hierarchy performance and access behavior difficult to predict and manipulate. Addressing these issues can influence the architecture design for building efficient multi-NUMA systems and also spawn new applications that can deal with larger volumes of heterogeneous data than what is possible at present.&lt;br/&gt;&lt;br/&gt;This project aims to improve the performance of future server systems that incorporate mixed memory technologies. To achieve the objective, this project consists of three phases. The first phase seeks to reinvestigate the basic performance models, assumptions, and metrics of memory hierarchy architecture design, across memory system performance, reliability, and scalability, by encompassing the multi-NUMA scenario. Guided by the multi-NUMA-aware architecture design strategies, the second phase will focus on reconsidering the design of memory hierarchy architecture components that are critical to the application’s instructions-per-cycle (IPC) performance. Finally, the third phase seeks to ensure scalable IPC performance in both multi-socket and memory-fabric-based multi-NUMA systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011212</AwardID>
+<Investigator>
+<FirstName>Jishen</FirstName>
+<LastName>Zhao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jishen Zhao</PI_FULL_NAME>
+<EmailAddress><![CDATA[jzhao@eng.ucsd.edu]]></EmailAddress>
+<NSF_ID>000691728</NSF_ID>
+<StartDate>07/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Swanson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven Swanson</PI_FULL_NAME>
+<EmailAddress><![CDATA[swanson@cs.ucsd.edu]]></EmailAddress>
+<NSF_ID>000069307</NSF_ID>
+<StartDate>07/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>San Diego</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930934</ZipCode>
+<StreetAddress><![CDATA[9500 Gilman Dr, La Jolla, CA]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>021Z</Code>
+<Text>Industry Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8585</Code>
+<Text>NSF/Intel Partnership Projects</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~140000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project developed a set of techniques that enhanced the performance of future server systems that incorporate mixed memory technologies. The project showed that heterogeneous and multi-NUMA memory systems are highly beneficial for efficiently manipulating the data storage and movement in server systems, if used appropriately. Meanwhile, the project also showed that rethinking of system design requirements and strategies, hardware architecture design, the memory and storage systems stack, programming abstractions and interface are needed in order to fully exploit such benefits.<br /><br />The project studied how server memory system design requirements and foundamental design strategies change, when using a mix of different memory technologies with different performance, energy, reliability, and functionality properties. Profiling and simulation tools (https://github.com/TheNetAdmin/LENS-VANS) were developed to facilitate further such exploration from the community. The project also showed hardware architecture and software system library design can be modified to better utilize such multi-NUMMA memory systems to improve the IPC.<br /><br />The project developed multi-NUMA memory system designs in the distributed system scenarios. With various novel hardware-based and software-hardware codesign mechanisms, the project also showed how such support can be leveraged to enable efficient data movement without much system software modification required. The project also developed a set of compiler techniques and programming interface to enable efficient use of multi-NUMA systems in various data center applications. The project developed a set of programming interface that facilitate the orchestration of various memory technologies and the rest of system components. The project also developed automatic programming tools that assist the programming, testing, and debugging of multi-NUMA memory systems, substantially mitigating the burden of system programmers. Security vulnerability is also explored with open source tools (https://github.com/thenetadmin/nvleak) to enhance the security of data center applications using heterogeneous memory technologies.<br /><br />This project includes the development of hardware- and software-based techniques. Students involved in the project have good hands-on experiences to understand how the system stacks (including applications, runtime, and architecture) work. Those experiences are very useful to develop their skills in computer science and engineering.<br /><br />The project also provides students with internship opportunities in the technical companies in the US and includes minority students and undergraduate students.</p><br> <p>  Last Modified: 10/29/2024<br> Modified by: Jishen&nbsp;Zhao</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project developed a set of techniques that enhanced the performance of future server systems that incorporate mixed memory technologies. The project showed that heterogeneous and multi-NUMA memory systems are highly beneficial for efficiently manipulating the data storage and movement in server systems, if used appropriately. Meanwhile, the project also showed that rethinking of system design requirements and strategies, hardware architecture design, the memory and storage systems stack, programming abstractions and interface are needed in order to fully exploit such benefits.  The project studied how server memory system design requirements and foundamental design strategies change, when using a mix of different memory technologies with different performance, energy, reliability, and functionality properties. Profiling and simulation tools (https://github.com/TheNetAdmin/LENS-VANS) were developed to facilitate further such exploration from the community. The project also showed hardware architecture and software system library design can be modified to better utilize such multi-NUMMA memory systems to improve the IPC.  The project developed multi-NUMA memory system designs in the distributed system scenarios. With various novel hardware-based and software-hardware codesign mechanisms, the project also showed how such support can be leveraged to enable efficient data movement without much system software modification required. The project also developed a set of compiler techniques and programming interface to enable efficient use of multi-NUMA systems in various data center applications. The project developed a set of programming interface that facilitate the orchestration of various memory technologies and the rest of system components. The project also developed automatic programming tools that assist the programming, testing, and debugging of multi-NUMA memory systems, substantially mitigating the burden of system programmers. Security vulnerability is also explored with open source tools (https://github.com/thenetadmin/nvleak) to enhance the security of data center applications using heterogeneous memory technologies.  This project includes the development of hardware- and software-based techniques. Students involved in the project have good hands-on experiences to understand how the system stacks (including applications, runtime, and architecture) work. Those experiences are very useful to develop their skills in computer science and engineering.  The project also provides students with internship opportunities in the technical companies in the US and includes minority students and undergraduate students.     Last Modified: 10/29/2024       Submitted by: JishenZhao]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

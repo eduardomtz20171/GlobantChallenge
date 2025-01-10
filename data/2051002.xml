@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Interdisciplinary, Multiscale Materials Modeling (I3M)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>380083.00</AwardTotalIntnAmount>
+<AwardAmount>380083</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Patricia Simmons</SignBlockName>
+<PO_EMAI>psimmons@nsf.gov</PO_EMAI>
+<PO_PHON>7032925143</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Research Experience for Undergraduates (REU) site supports the training of 9 undergraduate students (fellows) each summer from 2021 to 2023 at the University of Louisville in Louisville, KY. Students will participate in a 10-week program that focuses on developing their skills as researchers though training in research ethics, data collection and analysis, and reproducibility of scientific results. The theme of the REU site is Interdisciplinary Multiscale Materials Modeling (I3M) which combines concepts in chemistry, physics, biology, materials science, engineering, mathematics, and computational sciences with the goal of better understanding the origins of specific material properties on size scales from single molecules to macroscopic devices. Fellows will work as researchers with faculty mentors who all currently supervise active research teams in I3M thematic areas. During the program, fellows will participate in several professional development activities to advance competence through team-building experiences, a professional seminar series, a public poster symposium, and a field trip to a national laboratory. The I3M program will improve students’ communication skills, grow networks of research colleagues, and develop the students’ awareness of contemporary issues in research. The scientific/engineering knowledge and professional skills gained by fellows during the 10-week program will promote the growth of a more well-informed, well-trained, and diverse workforce.&lt;br/&gt;&lt;br/&gt;A team of 18 faculty mentors have developed 16 projects for REU fellows that cover a wide range of scientific topics, applications, and methods. Several projects include both computational and experimental aspects. Projects topics include but are not limited to predicting biomimetic polymer properties, developing empirical models for colloidal self-assembly, probing interactions between viral particles and medical devices, improving models of cancer growth and drug transport, discovering new electrocatalysts, and non-invasively diagnosing coronary artery disease. Models and methods span several orders of magnitude in time and space and utilize density functional theory, molecular dynamics, Monte Carlo, computational fluid dynamics, and continuum models. Non-research activities will give fellows a wider perspective on what it means to be a professional scientist or engineer through training in ethics, accurate data recording, and reliable and reproducible methods. The I3M REU site emphasizes the recruitment and training of diverse cohorts of student fellows who represent the country at large while promoting the advancement of historically underrepresented groups and marginalized students. Fellows will graduate the program with the skills and drive to become future leaders in the field of materials science and engineering.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Division of Engineering Education and Centers (Directorate for Engineering), and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/25/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051002</AwardID>
+<Investigator>
+<FirstName>Joel</FirstName>
+<LastName>Fried</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joel Fried</PI_FULL_NAME>
+<EmailAddress><![CDATA[joel.fried@louisville.edu]]></EmailAddress>
+<NSF_ID>000707582</NSF_ID>
+<StartDate>03/25/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vance</FirstName>
+<LastName>Jaeger</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vance Jaeger</PI_FULL_NAME>
+<EmailAddress><![CDATA[vance.jaeger@louisville.edu]]></EmailAddress>
+<NSF_ID>000759351</NSF_ID>
+<StartDate>03/25/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Louisville Research Foundation Inc]]></Name>
+<CityName>LOUISVILLE</CityName>
+<ZipCode>402081838</ZipCode>
+<PhoneNumber>5028523788</PhoneNumber>
+<StreetAddress><![CDATA[2301 S 3RD ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KY03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E1KJM4T54MK6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF LOUISVILLE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Louisville Research Foundation Inc]]></Name>
+<CityName>Louisville</CityName>
+<StateCode>KY</StateCode>
+<ZipCode>402920001</ZipCode>
+<StreetAddress><![CDATA[216 Eastern Pkwy]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KY03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>136000</Code>
+<Text>EWFD-Eng Workforce Development</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~380083</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The Interdisciplinary, Multiscale Materials Modeling (I3M) program at the University of Louisville aimed to prepare undergraduate students for advanced careers in STEM fields. Three cohorts of students were recruited and trained in the summers of 2021, 2022, and 2023. The 10-week summer training program provided students with hands-on experience in computational chemistry and materials science. Research applications included medicine, energy, advanced materials, and computational methods development. The program offered students a unique opportunity to engage in interdisciplinary research that spanned engineering, medicine, and the physical sciences.</p> <p>&nbsp;</p> <p><strong>Intellectual Merit:</strong></p> <p>The primary goal of the I3M program was to enhance students' understanding of computational methods and their applications in studying material properties. Materials of interest included human tissue, semiconductors, electrodes, colloids, small molecules, and polymers. Students participated in diverse research projects, such as:</p> <ul> <li>Applied computational fluid dynamics for assessing coronary artery disease.</li> <li>Computational modeling of electronically excited states of vitamin B12 derivatives.</li> <li>Simulation of cancer growth and development.</li> <li>Molecular simulation of polymer membranes for large-scale hydrogen production.</li> </ul> <p>These projects provided students with practical experience in both experimental and computational techniques. Under the guidance of faculty mentors, students developed critical thinking and problem-solving skills. These projects gave students a deeper understanding of how computational chemistry and other computational methods can address real-world challenges.</p> <p>&nbsp;</p> <p><strong>Broader Impacts:</strong></p> <p>The I3M program promoted diversity and inclusion in STEM by recruiting students from underrepresented groups and institutions with fewer research opportunities. Approximately half of the participants came from non-R1 institutions, ensuring that students from diverse academic backgrounds had access to high-quality research experiences. The program also included social events and research retreats, giving students opportunities to network and build relationships with peers, faculty, and professionals in their fields.</p> <p>A highlight of the I3M program was the field trip to Oak Ridge National Laboratory. Students toured the world's fastest supercomputer, Frontier, and visited the Graphite Reactor, a historical site involved in the Manhattan Project. This experience exposed students to large-scale research facilities and inspired them to consider careers in national laboratories and advanced research settings.</p> <p>At the conclusion of the program, students presented their research at a culminating poster session attended by members of the University of Louisville's science and engineering community. This event allowed students to share their findings, receive feedback, and celebrate their research achievements. Many students reported that the experiences with the I3M program solidified their interest in pursuing advanced degrees in STEM fields.</p> <p>&nbsp;</p> <p><strong>Program Outcomes:</strong></p> <p>Over the three-year duration of the program, I3M received over 100 high-quality applications from potential students. The I3M program recruited 26 students, with 25 completing the program. Key outcomes included:<strong>&nbsp;</strong></p> <ul> <li>Research Skills Development: Students gained valuable research experience. Some contributed to peer-reviewed publications and generated preliminary results that guided the future work of research labs. Their work was instrumental in advancing research projects at the University of Louisville.</li> <li>Career Advancement: Several students secured positions at top companies in fields of energy, environmental sciences, and semiconductors. Several other students were accepted into prestigious graduate and doctoral programs at top US institutions. Other students have been accepted into medical school or are currently applying for acceptance into medical schools.</li> <li>Professional Growth: The program's seminar series and research retreats provided students with insights into various STEM careers, ethical considerations, and the importance of diversity in research. These experiences helped students make informed decisions about their future career paths.</li> <li>Increased Diversity in STEM: By providing research opportunities to students from underrepresented groups and smaller institutions, the I3M program contributed to increasing diversity in STEM fields. This aligned with the NSF's goal of broadening participation and developing an inclusive research community.</li> </ul> <p>The I3M program prepared the next generation of STEM leaders with advanced research training and preparation for careers and further educational opportunities. Through hands-on research, mentorship, and professional development opportunities, the program equipped students with the skills and confidence needed to pursue their academic and professional goals.</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/31/2024<br> Modified by: Vance&nbsp;Jaeger</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The Interdisciplinary, Multiscale Materials Modeling (I3M) program at the University of Louisville aimed to prepare undergraduate students for advanced careers in STEM fields. Three cohorts of students were recruited and trained in the summers of 2021, 2022, and 2023. The 10-week summer training program provided students with hands-on experience in computational chemistry and materials science. Research applications included medicine, energy, advanced materials, and computational methods development. The program offered students a unique opportunity to engage in interdisciplinary research that spanned engineering, medicine, and the physical sciences.      Intellectual Merit:   The primary goal of the I3M program was to enhance students' understanding of computational methods and their applications in studying material properties. Materials of interest included human tissue, semiconductors, electrodes, colloids, small molecules, and polymers. Students participated in diverse research projects, such as:  Applied computational fluid dynamics for assessing coronary artery disease. Computational modeling of electronically excited states of vitamin B12 derivatives. Simulation of cancer growth and development. Molecular simulation of polymer membranes for large-scale hydrogen production.    These projects provided students with practical experience in both experimental and computational techniques. Under the guidance of faculty mentors, students developed critical thinking and problem-solving skills. These projects gave students a deeper understanding of how computational chemistry and other computational methods can address real-world challenges.      Broader Impacts:   The I3M program promoted diversity and inclusion in STEM by recruiting students from underrepresented groups and institutions with fewer research opportunities. Approximately half of the participants came from non-R1 institutions, ensuring that students from diverse academic backgrounds had access to high-quality research experiences. The program also included social events and research retreats, giving students opportunities to network and build relationships with peers, faculty, and professionals in their fields.   A highlight of the I3M program was the field trip to Oak Ridge National Laboratory. Students toured the world's fastest supercomputer, Frontier, and visited the Graphite Reactor, a historical site involved in the Manhattan Project. This experience exposed students to large-scale research facilities and inspired them to consider careers in national laboratories and advanced research settings.   At the conclusion of the program, students presented their research at a culminating poster session attended by members of the University of Louisville's science and engineering community. This event allowed students to share their findings, receive feedback, and celebrate their research achievements. Many students reported that the experiences with the I3M program solidified their interest in pursuing advanced degrees in STEM fields.      Program Outcomes:   Over the three-year duration of the program, I3M received over 100 high-quality applications from potential students. The I3M program recruited 26 students, with 25 completing the program. Key outcomes included:  Research Skills Development: Students gained valuable research experience. Some contributed to peer-reviewed publications and generated preliminary results that guided the future work of research labs. Their work was instrumental in advancing research projects at the University of Louisville. Career Advancement: Several students secured positions at top companies in fields of energy, environmental sciences, and semiconductors. Several other students were accepted into prestigious graduate and doctoral programs at top US institutions. Other students have been accepted into medical school or are currently applying for acceptance into medical schools. Professional Growth: The program's seminar series and research retreats provided students with insights into various STEM careers, ethical considerations, and the importance of diversity in research. These experiences helped students make informed decisions about their future career paths. Increased Diversity in STEM: By providing research opportunities to students from underrepresented groups and smaller institutions, the I3M program contributed to increasing diversity in STEM fields. This aligned with the NSF's goal of broadening participation and developing an inclusive research community.    The I3M program prepared the next generation of STEM leaders with advanced research training and preparation for careers and further educational opportunities. Through hands-on research, mentorship, and professional development opportunities, the program equipped students with the skills and confidence needed to pursue their academic and professional goals.        Last Modified: 07/31/2024       Submitted by: VanceJaeger]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

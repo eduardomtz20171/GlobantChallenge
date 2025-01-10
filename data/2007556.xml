@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF-BSF: AF: Small: Efficient Algorithms for Multi-Robot Multi-Criteria Optimal Motion Planning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>449750.00</AwardTotalIntnAmount>
+<AwardAmount>464750</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Brass</SignBlockName>
+<PO_EMAI>pbrass@nsf.gov</PO_EMAI>
+<PO_PHON>7032922182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Robotics is widely perceived today as a key component to flexibility and competitiveness in large-scale manufacturing, to enhanced industrial efficiency and safety, and to more precise and effective agriculture, to name just a few reasons why governments, industry, and academia promote robotics. Fleets of robots are being rapidly adopted in logistics, and are expected to become commonplace in other domains such as agriculture, inspection and guarding, and last-mile delivery.  Notwithstanding the proliferation of multi-robot systems,  the state-of-the-art in efficient motion-planning for teams of robots is rather limited, and is even more limited when one aims to optimize the motion plans.  Even modest contributions to optimal multi-robot motion planning can have a tremendous impact in terms of saving energy, reducing costs, improving response in critical situations, increasing productivity and competitiveness. The goal of this project, jointly funded by NSF and US-Israel Binational Science Foundation, is to develop algorithmic foundations for optimal multi-robot motion-planning  in a planar continuous domain. The interdisciplinary nature of this project is likely to appeal to a broad set of  both graduate and undergraduate students with diverse backgrounds. The material generated from this project will be disseminated through multiple courses, organizing workshops, and developing course materials, surveys, tutorials, and publicly available open-source software.&lt;br/&gt;&lt;br/&gt;This project advances our understanding of the computational complexity of various multi-robot motion-planning problems by investigating three different classes of problems. First, it investigates optimal motion planning under a simple objective function such as the total length of paths traveled by all robots. Next, it studies optimal motion planning under a more complex objective function that aims to optimize multiple criteria such as the total length of paths and the clearance of the robots. In addition to these so-called "one-shot problems", the project also considers scenarios where a perpetual sequence of motion-planning requests need to be fulfilled, namely new requests appear while the robots in the fleet are already in motion, fulfilling other motion-planning requests. A major thrust of the project is on developing fast, simple, robust approximation algorithms for optimal motion planning. The project combines techniques from discrete and computational geometry, robotics, approximation algorithms, probabilistic techniques, and calculus of variation to investigate optimal motion planning for multi-robot systems. The project goes beyond the traditional worst-case-analysis to understand under what circumstances optimal motion-planning problems are computationally tractable. It will also explore dimension-reduction techniques to circumvent the curse of dimensionality, which arises in the standard analysis of multi-robot systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007556</AwardID>
+<Investigator>
+<FirstName>Pankaj</FirstName>
+<LastName>Agarwal</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pankaj K Agarwal</PI_FULL_NAME>
+<EmailAddress><![CDATA[pankaj@cs.duke.edu]]></EmailAddress>
+<NSF_ID>000462514</NSF_ID>
+<StartDate>07/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>Durham</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277080129</ZipCode>
+<StreetAddress><![CDATA[Department of Computer Science,]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>287800</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>779600</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>014Z</Code>
+<Text>NSF and US-Israel Binational Science Fou</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7929</Code>
+<Text>COMPUTATIONAL GEOMETRY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~449750</FUND_OBLG>
+<FUND_OBLG>2022~15000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="Body">Robotics is widely perceived today as a key component to flexibility and competitiveness in large-scale manufacturing, to enhanced industrial efficiency and safety, and to more precise and effective agriculture.&nbsp; Fleets of robots are being rapidly adopted in logistics and becoming commonplace in other domains such as agriculture (drones for so-called precision agriculture), inspection and guarding, and ``last mile delivery''.&nbsp; Notwithstanding the proliferation of multi-robot systems, the state-of-the-art in efficient motion-planning for multi-robot teams is rather limited, when it comes to continuous domains (so-called ``unstructured fields''), and is even more limited when one aims to optimize the motion plans.&nbsp;</p> <p class="Body">This project focused on developing theoretical foundations of optimal multi-robot optimal (collision-free) motion-planning in a planar continuous domain. It advanced our understanding of the computational complexity of various multi-robot motion-planning problems by characterizing the optimal motion plan, proving computational intractability for many problems, and designing efficient approximation algorithms. It showed that computing a time-optimal motion plan is computationally intractable even for two robots while a motion plan for two robots that minimizes the total work done by them can be computed in polynomial time in some cases. The project also developed further insights into the computational complexity of computing an optimal or near-optimal motion plan for more than two robots. For instance, it showed that problem remains intractable even if one makes various simplifying assumptions on the input or the motion plan, and fast approximation algorithms were obtained in many such cases. The project also studied variants of multiple robot motion planning such as assembly planning where the goal is to build a complex object by assembling its pieces together, geometric reconfiguration problem, and decomposition of free space into simple regions.</p> <p>Optimal motion planning becomes progressively more important as fleets of robots are becoming more widely used, and can lead to significant economical saving, and faster response time in critical missions. By developing the theoretical underpinnings of optimal multi-robot motion planning, the project has added mathematical rigor to the field of multiple robot motion planning and provided efficient algorithms with provable guarantees on their performance. Some of the general techniques developed in this project will lead to better heuristics in practice, and the computational intractability results will help practitioners to determine which version of the problem are hard. &nbsp;The pervasiveness of robotics in so many aspects of modern life allowed the project to focus on real-world problems, facilitate industry collaboration, and attract and train young and diverse talents. Besides publications in high-impact venues in computer science research, this project provided training for one postdoctoral fellow, seven PhD students, and two undergraduate students in Computer Science.</p> <p>We include two illustrated examples of results obtained during the project and supported by this NSF-BSF grant:</p> <p>The first one illustrates&nbsp;of how the algorithm of our paper <em>Coordination of Multiple Robots along Given Paths with Bounded Junction Complexity , </em>AAMAS 2023, &nbsp;resolves a complex coordination scenario of eight robots&nbsp;progressing from configuration (a) to (h) along a road network. Such multi-robot coordination along given paths models guidepath-based transport systems, serving as a pertinent abstraction for traffic in a variety of contemporary applications, ranging from train networks or Automated Guided Vehicles (AGVs) in factories, through computer game animations, to qubit transport in quantum computing.&nbsp;</p> <p>The second one depicts part of the analysis in our paper Shortest Coordinated Motion for Square Robots. WADS 2023. The paper deals with the seemingly simple problem of how to find the shortest coordinated motion for two squares, when there are no obstacles in the environment. This turns out to require rather intricate analysis. The square robot B (in blue) has to move from position &nbsp;to position , while avoiding the red robot A at its start position . The image exemplifies some of the intricacies that arise in the analysis based on where the target of robot A is.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/21/2024<br> Modified by: Pankaj&nbsp;K&nbsp;Agarwal</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2007556/2007556_10684951_1729560570833_Image1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2007556/2007556_10684951_1729560570833_Image1--rgov-800width.png" title="Resolving a complex coordination scenario of robots  along a road network"><img src="/por/images/Reports/POR/2024/2007556/2007556_10684951_1729560570833_Image1--rgov-66x44.png" alt="Resolving a complex coordination scenario of robots  along a road network"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Demo of how one of our algorithms resolves a complex coordination scenario of eight robots, modeling a guide-path based transport system, from configurations (a)-(h)  along a road network.</div> <div class="imageCredit">Dan Halperin</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Pankaj&nbsp;K&nbsp;Agarwal <div class="imageTitle">Resolving a complex coordination scenario of robots  along a road network</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2007556/2007556_10684951_1729560814577_Iamge4--rgov-214x142.png" original="/por/images/Reports/POR/2024/2007556/2007556_10684951_1729560814577_Iamge4--rgov-800width.png" title="Shortest Coordinated Motion for Two Square Robots"><img src="/por/images/Reports/POR/2024/2007556/2007556_10684951_1729560814577_Iamge4--rgov-66x44.png" alt="Shortest Coordinated Motion for Two Square Robots"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Illustration of some of the intricate cases of the  shortest coordinated translation  of 2 squares between two given initial and final configurations when no obstacles are present</div> <div class="imageCredit">Dan Halperin</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Pankaj&nbsp;K&nbsp;Agarwal <div class="imageTitle">Shortest Coordinated Motion for Two Square Robots</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Robotics is widely perceived today as a key component to flexibility and competitiveness in large-scale manufacturing, to enhanced industrial efficiency and safety, and to more precise and effective agriculture. Fleets of robots are being rapidly adopted in logistics and becoming commonplace in other domains such as agriculture (drones for so-called precision agriculture), inspection and guarding, and ``last mile delivery''. Notwithstanding the proliferation of multi-robot systems, the state-of-the-art in efficient motion-planning for multi-robot teams is rather limited, when it comes to continuous domains (so-called ``unstructured fields''), and is even more limited when one aims to optimize the motion plans.   This project focused on developing theoretical foundations of optimal multi-robot optimal (collision-free) motion-planning in a planar continuous domain. It advanced our understanding of the computational complexity of various multi-robot motion-planning problems by characterizing the optimal motion plan, proving computational intractability for many problems, and designing efficient approximation algorithms. It showed that computing a time-optimal motion plan is computationally intractable even for two robots while a motion plan for two robots that minimizes the total work done by them can be computed in polynomial time in some cases. The project also developed further insights into the computational complexity of computing an optimal or near-optimal motion plan for more than two robots. For instance, it showed that problem remains intractable even if one makes various simplifying assumptions on the input or the motion plan, and fast approximation algorithms were obtained in many such cases. The project also studied variants of multiple robot motion planning such as assembly planning where the goal is to build a complex object by assembling its pieces together, geometric reconfiguration problem, and decomposition of free space into simple regions.   Optimal motion planning becomes progressively more important as fleets of robots are becoming more widely used, and can lead to significant economical saving, and faster response time in critical missions. By developing the theoretical underpinnings of optimal multi-robot motion planning, the project has added mathematical rigor to the field of multiple robot motion planning and provided efficient algorithms with provable guarantees on their performance. Some of the general techniques developed in this project will lead to better heuristics in practice, and the computational intractability results will help practitioners to determine which version of the problem are hard. The pervasiveness of robotics in so many aspects of modern life allowed the project to focus on real-world problems, facilitate industry collaboration, and attract and train young and diverse talents. Besides publications in high-impact venues in computer science research, this project provided training for one postdoctoral fellow, seven PhD students, and two undergraduate students in Computer Science.   We include two illustrated examples of results obtained during the project and supported by this NSF-BSF grant:   The first one illustratesof how the algorithm of our paper Coordination of Multiple Robots along Given Paths with Bounded Junction Complexity , AAMAS 2023, resolves a complex coordination scenario of eight robotsprogressing from configuration (a) to (h) along a road network. Such multi-robot coordination along given paths models guidepath-based transport systems, serving as a pertinent abstraction for traffic in a variety of contemporary applications, ranging from train networks or Automated Guided Vehicles (AGVs) in factories, through computer game animations, to qubit transport in quantum computing.   The second one depicts part of the analysis in our paper Shortest Coordinated Motion for Square Robots. WADS 2023. The paper deals with the seemingly simple problem of how to find the shortest coordinated motion for two squares, when there are no obstacles in the environment. This turns out to require rather intricate analysis. The square robot B (in blue) has to move from position to position , while avoiding the red robot A at its start position . The image exemplifies some of the intricacies that arise in the analysis based on where the target of robot A is.           Last Modified: 10/21/2024       Submitted by: PankajKAgarwal]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

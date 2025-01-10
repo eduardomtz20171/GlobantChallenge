@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MLWiNS: Resource Constrained Mobile Data Analytics Assisted by the Wireless Edge]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Increasing amounts of data are being collected on mobile telephones and internet-of-things (IoT) devices. Users are interested in analyzing this data to extract actionable information, for example, identifying objects of interest from high-resolution mobile phone pictures. The state-of-the-art technique for such data analysis is via deep learning which makes use of sophisticated software algorithms modeled on the functioning of the human brain. Deep learning algorithms are, however, too complex to run on small, battery constrained mobile devices. The alternative, i.e., transmitting data to the mobile base station where the deep learning algorithm can be executed on a powerful server, consumes too much bandwidth. This project seeks to devise new methods to compress data before transmission, thus reducing bandwidth costs while still allowing for the data to be analyzed at the base station. Departing from existing data compression methods optimized for reproducing the original images, the project will use deep learning itself to compress the data in a fashion that only keeps the critical parts of data necessary for subsequent analysis. The resulting deep learning based compression algorithms will be simple enough to run on mobile devices while drastically reducing the amount of data that needs to be transmitted to mobile base stations for analysis, without significantly compromising the analysis performance. The proposed research will provide greater capability and functionality to mobile device users, enable extended battery lifetimes, and more efficient sharing of the wireless spectrum for analytics tasks. The project also envisions a multi-pronged effort aimed at outreach to communities of interest, educating and training the next generation of machine learning and wireless professionals at the K-12, undergraduate and graduate levels, and broadening participation of under-represented minority groups.&lt;br/&gt;&lt;br/&gt;The project seeks to learn “analytics-aware” compression schemes from data by training low-complexity compressor deep neural networks (DNNs) that execute on mobile devices and achieve a range of transmission rate and analytics accuracy targets. As a first step, efficient DNN pruning techniques will be developed to minimize the DNN complexity, while maintaining the rate-accuracy efficiency for one or a collection of analytics tasks. Next, to efficiently adapt to varying wireless channel conditions, the project will seek to design adaptive DNN architectures that can operate at variable transmission rates and computational complexities. For instance, when the wireless channel quality drops, the proposed compression scheme will be able to quickly reduce transmission rate in response while ensuring the same analytics accuracy, but at the cost of greater computational power on the mobile device. Further, wireless channel allocation and scheduling policies that leverage the proposed adaptive DNN architectures will be developed to optimize the overall analytics accuracy at the server. The benefits of the proposed approach in terms of total battery life savings for the mobile device will be demonstrated using detailed simulation studies of various wireless protocols including those used for LTE (Long Term Evolution) and mmWave channels.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003182</AwardID>
+<Investigator>
+<FirstName>Yao</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yao Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yw523@nyu.edu]]></EmailAddress>
+<NSF_ID>000467592</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elza</FirstName>
+<LastName>Erkip</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elza Erkip</PI_FULL_NAME>
+<EmailAddress><![CDATA[elza@nyu.edu]]></EmailAddress>
+<NSF_ID>000488052</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Siddharth</FirstName>
+<LastName>Garg</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Siddharth Garg</PI_FULL_NAME>
+<EmailAddress><![CDATA[sg175@nyu.edu]]></EmailAddress>
+<NSF_ID>000680915</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>Brooklyn</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>112013838</ZipCode>
+<StreetAddress><![CDATA[2 Metrotech Ctr, Floor 10, room]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>748400</Code>
+<Text>IIS Special Projects</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>021Z</Code>
+<Text>Industry Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8585</Code>
+<Text>NSF/Intel Partnership Projects</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Modern machine learning solutions allow users to automatically perform complex tasks, for example, identify objects in an image, understand natural langauge text and others. These solutions rely on deep neural networks (DNN), which although very powerful, involve heavy computation and would therefore be unsuitable for a device like a mobile phone. An alternative is for a user to upload their images to the cloud where powerful computers can be used to run the deep network quickly and provide a response to the user. But this solution requires uploading large volumes of data to over a wireless network, potentially creating massive congestion on the network.&nbsp;</p>  <p>In this project, we explored a different solution: compressing data before uploading to the cloud. This would reduce congestion on the wireless network, but existing image compression techniques like JPEG that we use daily are designed to compress images so as to preserve their visual appearance when decompressed. However, in the applications we described, for example, automatically detecting&nbsp; objects in an image, the cloud does not need to "see" an image in the traditional sense; we only care about how accurately objects in the image have been identified, or more generally, the image analysis task the user wants to perform. The key idea in this project was to design "task-aware" image (and other data) compression methods that are optimized not for visual quality but for the task at hand.&nbsp;</p>  <p>In this project, we proposed to design new ``task aware" image compression methods by leveraging recent progress in the field ``learned image compression" where a deep neural network is trained to compress images. In our proposed solution, the small compressor DNN runs on the mobile device, compresses images to only retain features of the image relevant to the task at hand, transmitted to the cloud, where it is decompressed and finally passed through the complex task-specific DNN. Thus, the mobile device needs to perform only small amounts of computation, the available wireless bandwidth is used efficiently, and the heavy-duty computation happens on the cloud which has access to high-end processors. We have demonstrated the benefits of this approach for object detection and image classification tasks. We also studied "scalable" compression approaches which adapt to fluctuating wireless bandwidth by sending more or less data to the cloud; exploiting extra bandwidth to improve performance on the task, and scaling back when bandwidth is scarce.&nbsp;&nbsp;</p>  <p>We have also investigated the use of task-aware compression methods to improve the efficiency of wireless networks themselves. Modern wireless communication is enabled by feedback from users to the basestation about the quality of the wireless channel, called the channel state information (CSI). This allows the basestation to best deliver data and bandwidth to each user. However, sending CSI itself consumes bandwidth. We have used learned task-aware compression to compress CSI to compress this data so as to maximize its utility to the basestation. We are able to demonstrate signifucant improvement in the overall bandwidth that a basestation is able to deliver to its users via this method. Finally, we have also performed more theoretical investigations of learned task-aware compression in abstract models of wireless networks, namely, for the "relay" channel, where a relay can assist in communications between a sender and receiver. We show that our proposed methods can recover the best known relay strategies, suggesting the broad applicability of the proposed methods.&nbsp; &nbsp;</p>  <p>We have disseminated our results to communities of interest include academia and industry via publications, talks at conferences and other venues, and individual meetings. Undergraduate and graduate classes at the PIs' institutions have been enirched with new material on privacy risks in the digital age.&nbsp;</p>  <p>&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/25/2024<br> Modified by: Siddharth&nbsp;Garg</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Modern machine learning solutions allow users to automatically perform complex tasks, for example, identify objects in an image, understand natural langauge text and others. These solutions rely on deep neural networks (DNN), which although very powerful, involve heavy computation and would therefore be unsuitable for a device like a mobile phone. An alternative is for a user to upload their images to the cloud where powerful computers can be used to run the deep network quickly and provide a response to the user. But this solution requires uploading large volumes of data to over a wireless network, potentially creating massive congestion on the network.    In this project, we explored a different solution: compressing data before uploading to the cloud. This would reduce congestion on the wireless network, but existing image compression techniques like JPEG that we use daily are designed to compress images so as to preserve their visual appearance when decompressed. However, in the applications we described, for example, automatically detecting objects in an image, the cloud does not need to "see" an image in the traditional sense; we only care about how accurately objects in the image have been identified, or more generally, the image analysis task the user wants to perform. The key idea in this project was to design "task-aware" image (and other data) compression methods that are optimized not for visual quality but for the task at hand.    In this project, we proposed to design new ``task aware" image compression methods by leveraging recent progress in the field ``learned image compression" where a deep neural network is trained to compress images. In our proposed solution, the small compressor DNN runs on the mobile device, compresses images to only retain features of the image relevant to the task at hand, transmitted to the cloud, where it is decompressed and finally passed through the complex task-specific DNN. Thus, the mobile device needs to perform only small amounts of computation, the available wireless bandwidth is used efficiently, and the heavy-duty computation happens on the cloud which has access to high-end processors. We have demonstrated the benefits of this approach for object detection and image classification tasks. We also studied "scalable" compression approaches which adapt to fluctuating wireless bandwidth by sending more or less data to the cloud; exploiting extra bandwidth to improve performance on the task, and scaling back when bandwidth is scarce.    We have also investigated the use of task-aware compression methods to improve the efficiency of wireless networks themselves. Modern wireless communication is enabled by feedback from users to the basestation about the quality of the wireless channel, called the channel state information (CSI). This allows the basestation to best deliver data and bandwidth to each user. However, sending CSI itself consumes bandwidth. We have used learned task-aware compression to compress CSI to compress this data so as to maximize its utility to the basestation. We are able to demonstrate signifucant improvement in the overall bandwidth that a basestation is able to deliver to its users via this method. Finally, we have also performed more theoretical investigations of learned task-aware compression in abstract models of wireless networks, namely, for the "relay" channel, where a relay can assist in communications between a sender and receiver. We show that our proposed methods can recover the best known relay strategies, suggesting the broad applicability of the proposed methods.     We have disseminated our results to communities of interest include academia and industry via publications, talks at conferences and other venues, and individual meetings. Undergraduate and graduate classes at the PIs' institutions have been enirched with new material on privacy risks in the digital age.             Last Modified: 11/25/2024       Submitted by: SiddharthGarg]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: COVID-19 Behavior, Perception, and Control Across Geographic and Economic Gradients]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>199999.00</AwardTotalIntnAmount>
+<AwardAmount>199999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zhilan Feng</SignBlockName>
+<PO_EMAI>zfeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927523</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>COVID-19 is a respiratory disease caused by a recently discovered, novel coronavirus. Since its discovery in Wuhan, China, in 2019, COVID-19 has already led to over 2 million cases globally. It has spread globally, including to many vulnerable countries without adequate healthcare infrastructures. Many different responses have been tried, including social distancing, school and event closings, and travel bans. This project will develop mathematical models to address three fundamental questions: 1) how much participation and coordinated control is needed for effective protection? 2) what independent control efforts can compensate for lack of coordination to achieve effective protection? and 3) how do community population demographics, socioeconomic conditions, and health care infrastructure impact outcomes? This project aims to inform coordination of disease control policies at all scales (local, regional, national, international) to aid in curtailing the ongoing and future outbreaks. This project will advance fundamental understanding of the impacts of control efforts via a new risk perception-driven infectious disease model, and predict which drivers of public demand for community-level control efforts might lead to potentially harmful long-term decisions. The project will involve training two doctoral students in techniques related to mathematical modeling of disease dynamics and spread. &lt;br/&gt;&lt;br/&gt;Many mitigation options are being weighed and implemented for COVID-19, with different decisions made at different administrative levels, including alternative quarantine strategies and different degrees of “lockdown”. All of these decisions come with different perceptions of risk. The PIs will develop and analyze disease transmission models that incorporate various factors  including public perception of risk, age-structure with a hospitalized population, and spatial structure with different scales spanning local communities to an entire country. These models will be used to explore impacts of community population demographics, socioeconomic conditions, and health care infrastructures, and how these factors impact control efforts under different social and economic settings. With the results of these models, policy- and decision-makers can consider the impacts of specific features of the communities under their administration as contributors to a broader network of public health efforts and choose the optimal mitigation steps. This work will inform coordination of disease control policies to curtail the ongoing outbreak directly. The results of this project, while tailored specifically to inform COVID-19 virus control strategies, will be applicable to any novel infectious disease outbreak in the future.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This award is being funded by the CARES Act supplemental funds allocated to MPS.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/26/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028297</AwardID>
+<Investigator>
+<FirstName>Townsend</FirstName>
+<LastName>Peterson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Townsend Peterson</PI_FULL_NAME>
+<EmailAddress><![CDATA[town@ku.edu]]></EmailAddress>
+<NSF_ID>000271986</NSF_ID>
+<StartDate>04/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Folashade</FirstName>
+<LastName>Agusto</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Folashade B Agusto</PI_FULL_NAME>
+<EmailAddress><![CDATA[fbagusto@ku.edu]]></EmailAddress>
+<NSF_ID>000608092</NSF_ID>
+<StartDate>04/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jarron</FirstName>
+<LastName>Saint Onge</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jarron M Saint Onge</PI_FULL_NAME>
+<EmailAddress><![CDATA[jsaintonge@ku.edu]]></EmailAddress>
+<NSF_ID>000810831</NSF_ID>
+<StartDate>04/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>LAWRENCE</CityName>
+<ZipCode>660457563</ZipCode>
+<PhoneNumber>7858643441</PhoneNumber>
+<StreetAddress><![CDATA[2385 IRVING HILL RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SSUJB3GSH8A5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KANSAS CENTER FOR RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SSUJB3GSH8A5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>Lawrence</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>660457568</ZipCode>
+<StreetAddress><![CDATA[2385 Irving Hill Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y00</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-c5d14fd5-7fff-7bee-4a82-9b5594c03076"><span>In early days of the COVID-19 pandemic, neither vaccines nor therapeutic drugs were available for this novel coronavirus. All measures to prevent the spread of COVID-19 were&nbsp;<span id="docs-internal-guid-87e9ab88-7fff-b556-3466-dfe5c9f52286"><span>based on reducing contact between infected and susceptible individuals. Most of these measures such as quarantine and self-isolation required voluntary compliance by the population. However, humans may act in their (perceived) self-interest only. We developed a mathematical model of COVID-19 transmission </span><span>incorporating</span><span> both&nbsp;</span></span></span></span>quarantine and hospitalization behaviors coupled with a dynamic game model of adaptive human behavior. We addressed how Ssusceptible and infected individuals may adopt various behavioral strategies based on perceived prevalence and burden of the disease and sensitivity to isolation measures, and how they evolve their strategies using a social learning algorithm (imitation dynamics).</p> <p>This results in complex interplay between the epidemiological model, the success&nbsp;<span id="docs-internal-guid-ae99e11c-7fff-9f11-fa16-3130f1eab900"><span>of different strategies, and the game-theoretic behavioral model, which in turn has implications for&nbsp;</span></span>the spread of the disease. We found that multiple waves of the pandemic can be attributed to behavior of the infected individuals, see Figure 1.</p> <p><span id="docs-internal-guid-5b395b6b-7fff-edde-70ea-4d9ad3ca208e"> </span></p> <div><span><span id="docs-internal-guid-002637dd-7fff-4703-6d49-f971977f2a18"><span>We observed that during the pandemic, the risk of COVID-19 infection&nbsp;<span id="docs-internal-guid-991923ce-7fff-8970-434a-40a5e158ba57"><span>driven by individual and public perception of risk and sentiments. Several factors influenced public perception, including an individual&rsquo;s belief system, prior knowledge about a disease and information about a disease. We utilized an earlier developed COVID-19 model&nbsp;<span id="docs-internal-guid-58a5aa7d-7fff-ccee-9484-d0fd68264aa1"><span>driven by people&rsquo;s public sentiments (positive and negative) which accounted&nbsp;<span id="docs-internal-guid-e8a27d34-7fff-18ad-76a2-a115b67275bd"><span>for the influence of potential disinformation. The model incorporated&nbsp;<span id="docs-internal-guid-9e5371b4-7fff-46f1-cbcc-704292d8a8a9"><span>stationary social behaviors such as quarantine and quarantine violations. People&rsquo;s sentiments were obtained by parsing through and analyzing COVID-19 related tweets from Twitter, a social media platform across six countries representing geographical gradients. Our results in Figure 2 show that our model incorporating public sentiments&nbsp;<span id="docs-internal-guid-9349dc36-7fff-83b6-ceb3-5eb199c4f757"><span>captured the trend in the trajectory of the epidemic curve of the reported cases, </span><span>highlighting</span><span> the importance of people&rsquo;s interpretations of disease in the actual spread of disease as a potential public health intervention.&nbsp;</span></span></span></span></span></span></span></span></span></span></span></span></span></div> <div><span><span><span><span><span><span><span><span><span><span><span><span><span><br /></span></span></span></span></span></span></span></span></span></span></span></span></span></div> <div><span><span id="docs-internal-guid-002637dd-7fff-4703-6d49-f971977f2a18"><span><span id="docs-internal-guid-991923ce-7fff-8970-434a-40a5e158ba57"><span><span id="docs-internal-guid-58a5aa7d-7fff-ccee-9484-d0fd68264aa1"><span><span id="docs-internal-guid-e8a27d34-7fff-18ad-76a2-a115b67275bd"><span><span id="docs-internal-guid-9e5371b4-7fff-46f1-cbcc-704292d8a8a9"><span><span id="docs-internal-guid-9349dc36-7fff-83b6-ceb3-5eb199c4f757"><span>&nbsp;</span></span></span></span></span></span></span></span></span></span></span></span></span><span id="docs-internal-guid-befcc30a-7fff-c5a5-f5b4-d285fdbb2ea3">Furthermore, our results show that when the overall community sentiment is positive there is a general reduction in disease burden in that community, see Figure 3. We found&nbsp;<span id="docs-internal-guid-2c9ec10e-7fff-11e5-102c-0e8dc8867101">hat quarantine violation and early discharge of the infected population also amplified&nbsp;</span></span>the disease burden in the community. Hence, this study shows the importance of accounting for public sentiment and individual social behavior in epidemic models developed to study diseases like COVID-19.</div> <p><span id="docs-internal-guid-df0ede7a-7fff-3d72-b6e9-5994eadfc8b2"> </span></p> <div><span><span id="docs-internal-guid-55755166-7fff-e276-fe06-09450b8e2989"><span>In addition to new epidemiological literature, this project led to the training of two graduate and four undergraduate students. This research resulted in twelve published papers in peer reviewed journals, where two of the publications were led by two undergraduate female students. Furthermore, the results were disseminated at several regional, national, and international conferences such as the Annual meeting of the Society of Mathematical Biology and at the Society for Industrial and Applied Mathematics. The project also served as a </span><span>catalyst</span><span> for future collaborations across the natural and social sciences. </span></span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/25/2024<br> Modified by: Folashade&nbsp;B&nbsp;Agusto</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2028297/2028297_10665594_1724595946566_Fig_2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2028297/2028297_10665594_1724595946566_Fig_2--rgov-800width.png" title="Figure 2"><img src="/por/images/Reports/POR/2024/2028297/2028297_10665594_1724595946566_Fig_2--rgov-66x44.png" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Epidemic curves showing trajectories from the simulation and reported cases across geographical gradients</div> <div class="imageCredit">Agusto</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Folashade&nbsp;B&nbsp;Agusto <div class="imageTitle">Figure 2</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2028297/2028297_10665594_1724595520940_Fig_1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2028297/2028297_10665594_1724595520940_Fig_1--rgov-800width.png" title="Figure 1"><img src="/por/images/Reports/POR/2024/2028297/2028297_10665594_1724595520940_Fig_1--rgov-66x44.png" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Multiple waves of infection due to increase in quarantine violation and hospitalization discharge rates.</div> <div class="imageCredit">Agusto</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Folashade&nbsp;B&nbsp;Agusto <div class="imageTitle">Figure 1</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2028297/2028297_10665594_1724596075091_Fig_3--rgov-214x142.png" original="/por/images/Reports/POR/2024/2028297/2028297_10665594_1724596075091_Fig_3--rgov-800width.png" title="Figure 3"><img src="/por/images/Reports/POR/2024/2028297/2028297_10665594_1724596075091_Fig_3--rgov-66x44.png" alt="Figure 3"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Impact of public sentiment on disease transmission.</div> <div class="imageCredit">Agusto</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Folashade&nbsp;B&nbsp;Agusto <div class="imageTitle">Figure 3</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In early days of the COVID-19 pandemic, neither vaccines nor therapeutic drugs were available for this novel coronavirus. All measures to prevent the spread of COVID-19 werebased on reducing contact between infected and susceptible individuals. Most of these measures such as quarantine and self-isolation required voluntary compliance by the population. However, humans may act in their (perceived) self-interest only. We developed a mathematical model of COVID-19 transmission incorporating bothquarantine and hospitalization behaviors coupled with a dynamic game model of adaptive human behavior. We addressed how Ssusceptible and infected individuals may adopt various behavioral strategies based on perceived prevalence and burden of the disease and sensitivity to isolation measures, and how they evolve their strategies using a social learning algorithm (imitation dynamics).   This results in complex interplay between the epidemiological model, the successof different strategies, and the game-theoretic behavioral model, which in turn has implications forthe spread of the disease. We found that multiple waves of the pandemic can be attributed to behavior of the infected individuals, see Figure 1.     We observed that during the pandemic, the risk of COVID-19 infectiondriven by individual and public perception of risk and sentiments. Several factors influenced public perception, including an individuals belief system, prior knowledge about a disease and information about a disease. We utilized an earlier developed COVID-19 modeldriven by peoples public sentiments (positive and negative) which accountedfor the influence of potential disinformation. The model incorporatedstationary social behaviors such as quarantine and quarantine violations. Peoples sentiments were obtained by parsing through and analyzing COVID-19 related tweets from Twitter, a social media platform across six countries representing geographical gradients. Our results in Figure 2 show that our model incorporating public sentimentscaptured the trend in the trajectory of the epidemic curve of the reported cases, highlighting the importance of peoples interpretations of disease in the actual spread of disease as a potential public health intervention.   Furthermore, our results show that when the overall community sentiment is positive there is a general reduction in disease burden in that community, see Figure 3. We foundhat quarantine violation and early discharge of the infected population also amplifiedthe disease burden in the community. Hence, this study shows the importance of accounting for public sentiment and individual social behavior in epidemic models developed to study diseases like COVID-19.     In addition to new epidemiological literature, this project led to the training of two graduate and four undergraduate students. This research resulted in twelve published papers in peer reviewed journals, where two of the publications were led by two undergraduate female students. Furthermore, the results were disseminated at several regional, national, and international conferences such as the Annual meeting of the Society of Mathematical Biology and at the Society for Industrial and Applied Mathematics. The project also served as a catalyst for future collaborations across the natural and social sciences.             Last Modified: 08/25/2024       Submitted by: FolashadeBAgusto]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

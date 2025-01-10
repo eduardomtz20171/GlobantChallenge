@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Probe and Control Opto-Electronic Transport in Single Molecular Junction Devices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>465000.00</AwardTotalIntnAmount>
+<AwardAmount>465000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Prem Chahal</SignBlockName>
+<PO_EMAI>pchahal@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical:&lt;br/&gt;&lt;br/&gt;Moore’s Law is famously known for projecting an increase in computing performance, with the number of transistors in an integrated circuit doubling every two years. As the size of transistors approaches the ultimate limits, new concepts are needed for performance breakthroughs. Molecular electronics aims at developing devices that will complement and eventually supersede current semiconductor technologies. Molecular transport junctions have unique advantages, due to their hybrid solid state-molecular nature and novel interface properties. The variety of possible combinations of molecules and electrodes also permits tailoring the transport properties. Electrically gating charge transport was key to the electronics revolution, but no mechanism currently exists to effectively gate molecular transport junctions. This project will address that gap through a systematic probe of the factors related to electric transport. This will improve the fundamental understanding of these novel devices and enable a new gating mechanism to control electric transport with an unprecedented level of control. This will allow for integration of specific functions into molecular junctions that will enable practical applications. These include bio-photonics and optoelectronic device such as solar cells and LEDs at the single molecule level. This project will train for undergraduate and graduate students in interdisciplinary nanotechnologies that span physics, chemistry and engineering. An introductory course in nanoelectronics will be updated to include the new materials from the project. The PIs will recruit students of different scientific, ethnic, and nationality backgrounds to study science and engineering to foster our next generation scientists and engineers through this project. Students can also participate in related university programs, such as Summer Undergraduate Research Program (SURP), UGA-Louis Stokes Alliances for Minority participation (LSAMP) Program, and the Nanotechnology and Biomedicine REU Site.&lt;br/&gt;&lt;br/&gt;Technical:&lt;br/&gt;&lt;br/&gt;This project aims to develop enabling technologies that allow for integration of our recently developed and patented MTBJ systems with optics to probe and control opto-electronic transport in biased single molecule MTBJs through three tasks. The PIs will develop a measuring platform by integrating optical designs into our patented SPM MTBJs that allow the molecule to connect covalently to two electrodes with linker groups, which enables the controlling of the molecule-electrode coupling and aligning the orbitals of conjugated molecules away from the electrodes. Then, they will conduct a systematic study to measure photoconductance where charge carriers in the MTBJs are excited by radiation energy HOMO to LUMO and by the surface plasmons and determine the effect of molecule-electrode contact and molecular conformation on the carrier injection barrier and photon-induced electronic conduction properties. Finally, they will demonstrate a viable single molecule field-effect Raman scattering (FERS) device, a double gated single molecule MTBJ device, with a second electrochemical gating added to the plasma gating. This project will establish a revolutionary new approach using double gating to effectively gate the electrical transport in MTBJs device by exploring the origins of the most important interactions, such as photon-electron, molecule-electrode interactions, being studied in molecular electronics today. The proposed studies are imperative to advancing research in single molecule devices by providing not only the basic knowledge but also necessary skills to develop novel applications. It will also lead to new insights into the interplay between electron transfer and optical properties in single molecule devices, which is critical to many areas, such as photosynthesis and bio-photonics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010875</AwardID>
+<Investigator>
+<FirstName>Bingqian</FirstName>
+<LastName>Xu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bingqian Xu</PI_FULL_NAME>
+<EmailAddress><![CDATA[bxu@engr.uga.edu]]></EmailAddress>
+<NSF_ID>000483745</NSF_ID>
+<StartDate>04/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Georgia Research Foundation Inc]]></Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress><![CDATA[310 E CAMPUS RD RM 409]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>Athens</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306021589</ZipCode>
+<StreetAddress><![CDATA[310 East Campus Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>151700</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054E</Code>
+<Text>Molecular engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>094E</Code>
+<Text>Optoelectronic devices</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>100E</Code>
+<Text>Novel devices &amp; vacuum electronics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~465000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The potential of molecular devices to eventually supersede current semiconductor technologies has been recognized since their proposal over 40 years ago. These devices are anticipated to perform specific electronic functions, either mimicking existing technologies or offering new features unavailable with traditional semiconductor devices. Recent research has expanded beyond conduction measurements of single-molecule devices to explore the interaction between electronic transport and light in single-molecule junctions. This has led to the emergence of a crossover field known as &ldquo;single-molecule optoelectronics,&rdquo; which integrates molecular electronics and molecular plasmonics. Molecular electronics focuses on charge transport through molecular junctions and the construction of functional electronic devices, while molecular plasmonics, stimulated by photo-illumination or electric fields, is applied in plasmonic devices and molecular spectroscopy. Central to single-molecule optoelectronics is the ability to control the electronic properties of molecular junctions through optical means, enhancing our understanding of the optical properties and their influence on electronic transport in individual molecular-scale devices. This approach not only provides a promising new tool for characterizing and controlling molecular-scale devices but also serves as a unique platform for probing fundamental physics that governs optoelectric behaviors. Despite significant advancements and the conceptual simplicity of molecular electronic devices, challenges remain in measuring and understanding the correlation between photoelectron transport and the structural details of molecular junctions, particularly the bonding structures involved. This project addresses these challenges by developing experimental technologies to probe and control opto-electronic transport in single-molecule junction devices, aiming to deepen our understanding of light-electron interactions in molecular transport break junctions (MTBJs) influenced by molecular bonding structures.</p> <p>Over the four years of the project (including a one-year no-cost extension in the fourth year), our findings highlight the importance of probing and controlling opto-electronic transport in biased MTBJs to enhance the functionalities of advanced single-molecule devices. Although the pandemic delayed technology development for nearly two years due to equipment shipping issues, our work on integrating light emission with single-molecule MTBJs to investigate photoconductance has revealed that detailed electron transport properties can be extracted from experimental data. Additionally, we expanded our research to address other single-molecule issues during this time.</p> <p>In summary, our outcomes include:</p> <ol> <li>An invited comprehensive review published in Nanophotonics, detailing recent progress in probing photo-induced electron transport in molecular junctions, with an emphasis on the fundamental mechanisms and guiding principles of photo-switchable devices, along with an outlook on future challenges in this evolving field.</li> <li>Research revealing molecule-contact effects on electronic transport properties with and without photo-illumination in MTBJs, with two manuscripts currently in preparation.</li> <li>Collaborative publications on topics such as extreme long-lifetime self-assembled monolayers for air-stable molecular junctions (Science Advances), in situ adjustable nanogaps and in-plane break junctions (Small Methods) and decoding mechanical conductance switching behaviors in dipyridyl molecular junctions (Nanoscale).</li> <li>AFM-based single-molecule interaction studies resulting in three publications: &ldquo;Atomic Force Microscopy as a Tool to Study Transport Phenomena in Biological Systems&rdquo; (Processes), &ldquo;Single-Molecular Insights into the Breakpoint of Cellulose Nanofibers Assembly During Saccharification&rdquo; (Nature Communications), and &ldquo;Following the Aggregation of Human Prion Protein on Heparin Functionalized Gold Surface in Real Time&rdquo; (ACS Applied Bio Materials).</li> <li>Ongoing multi-institute collaborations focused on the self-assembly of supramolecular fractals, leading to three journal articles, including &ldquo;Metallo-Helicoid with Double Rims: Polymerization Followed by Folding by Intramolecular Coordination&rdquo; (Angewandte Chemie International Edition), &ldquo;Hierarchical Self-Assembly of Nanowires on the Surface by Metallo-Supramolecular Truncated Cuboctahedran&rdquo; (Journal of the American Chemical Society), and &ldquo;Double-Layered Supramolecular Prisms Self-Assembled by Geometrically Non-Equivalent Tetratopic Subunits&rdquo; (Angewandte Chemie International Edition).</li> </ol> <p>The fundamental insights gained over the past four years regarding the correlation between electron transport and molecular optics have illuminated the interplay between electron transfer and optical properties in single-molecule devices. This knowledge is crucial for various fields, including photosynthesis and biophotonics, and has led to advancements in the experimental control and modulation of single-molecule junction devices. Moreover, it has fostered the development of novel applications.</p> <p>The education, collaboration, and outreach efforts of the principal investigator have provided undergraduate and graduate participants with opportunities to engage with cutting-edge science, develop key technologies, and establish collaborative networks essential for interdisciplinary work. Funding from this proposal has supported the work of one postdoctoral fellow, three graduate students (including two women), and four undergraduate students (including two women). We are also grateful for our research collaborators from the US, UK, China, and Israel for their contributions to our collaborative work.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/28/2024<br> Modified by: Bingqian&nbsp;Xu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The potential of molecular devices to eventually supersede current semiconductor technologies has been recognized since their proposal over 40 years ago. These devices are anticipated to perform specific electronic functions, either mimicking existing technologies or offering new features unavailable with traditional semiconductor devices. Recent research has expanded beyond conduction measurements of single-molecule devices to explore the interaction between electronic transport and light in single-molecule junctions. This has led to the emergence of a crossover field known as single-molecule optoelectronics, which integrates molecular electronics and molecular plasmonics. Molecular electronics focuses on charge transport through molecular junctions and the construction of functional electronic devices, while molecular plasmonics, stimulated by photo-illumination or electric fields, is applied in plasmonic devices and molecular spectroscopy. Central to single-molecule optoelectronics is the ability to control the electronic properties of molecular junctions through optical means, enhancing our understanding of the optical properties and their influence on electronic transport in individual molecular-scale devices. This approach not only provides a promising new tool for characterizing and controlling molecular-scale devices but also serves as a unique platform for probing fundamental physics that governs optoelectric behaviors. Despite significant advancements and the conceptual simplicity of molecular electronic devices, challenges remain in measuring and understanding the correlation between photoelectron transport and the structural details of molecular junctions, particularly the bonding structures involved. This project addresses these challenges by developing experimental technologies to probe and control opto-electronic transport in single-molecule junction devices, aiming to deepen our understanding of light-electron interactions in molecular transport break junctions (MTBJs) influenced by molecular bonding structures.   Over the four years of the project (including a one-year no-cost extension in the fourth year), our findings highlight the importance of probing and controlling opto-electronic transport in biased MTBJs to enhance the functionalities of advanced single-molecule devices. Although the pandemic delayed technology development for nearly two years due to equipment shipping issues, our work on integrating light emission with single-molecule MTBJs to investigate photoconductance has revealed that detailed electron transport properties can be extracted from experimental data. Additionally, we expanded our research to address other single-molecule issues during this time.   In summary, our outcomes include:  An invited comprehensive review published in Nanophotonics, detailing recent progress in probing photo-induced electron transport in molecular junctions, with an emphasis on the fundamental mechanisms and guiding principles of photo-switchable devices, along with an outlook on future challenges in this evolving field. Research revealing molecule-contact effects on electronic transport properties with and without photo-illumination in MTBJs, with two manuscripts currently in preparation. Collaborative publications on topics such as extreme long-lifetime self-assembled monolayers for air-stable molecular junctions (Science Advances), in situ adjustable nanogaps and in-plane break junctions (Small Methods) and decoding mechanical conductance switching behaviors in dipyridyl molecular junctions (Nanoscale). AFM-based single-molecule interaction studies resulting in three publications: Atomic Force Microscopy as a Tool to Study Transport Phenomena in Biological Systems (Processes), Single-Molecular Insights into the Breakpoint of Cellulose Nanofibers Assembly During Saccharification (Nature Communications), and Following the Aggregation of Human Prion Protein on Heparin Functionalized Gold Surface in Real Time (ACS Applied Bio Materials). Ongoing multi-institute collaborations focused on the self-assembly of supramolecular fractals, leading to three journal articles, including Metallo-Helicoid with Double Rims: Polymerization Followed by Folding by Intramolecular Coordination (Angewandte Chemie International Edition), Hierarchical Self-Assembly of Nanowires on the Surface by Metallo-Supramolecular Truncated Cuboctahedran (Journal of the American Chemical Society), and Double-Layered Supramolecular Prisms Self-Assembled by Geometrically Non-Equivalent Tetratopic Subunits (Angewandte Chemie International Edition).    The fundamental insights gained over the past four years regarding the correlation between electron transport and molecular optics have illuminated the interplay between electron transfer and optical properties in single-molecule devices. This knowledge is crucial for various fields, including photosynthesis and biophotonics, and has led to advancements in the experimental control and modulation of single-molecule junction devices. Moreover, it has fostered the development of novel applications.   The education, collaboration, and outreach efforts of the principal investigator have provided undergraduate and graduate participants with opportunities to engage with cutting-edge science, develop key technologies, and establish collaborative networks essential for interdisciplinary work. Funding from this proposal has supported the work of one postdoctoral fellow, three graduate students (including two women), and four undergraduate students (including two women). We are also grateful for our research collaborators from the US, UK, China, and Israel for their contributions to our collaborative work.           Last Modified: 10/28/2024       Submitted by: BingqianXu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

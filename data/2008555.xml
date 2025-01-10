@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CIF: Small: Data Analysis in Higher-Order Complex Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>488089.00</AwardTotalIntnAmount>
+<AwardAmount>488089</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Fowler</SignBlockName>
+<PO_EMAI>jafowler@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Communication, biological, and social networks are a key part of our everyday lives. Examples of systems that can be modeled as networks include the wireless infrastructure providing us with cellular communications and the online social platforms allowing us to stay in contact with each other. In these networks, agents, such as wireless stations or people, are modeled as nodes, and interactions between these agents (such as data transmissions or friendships) take place over the edges of the network. An inherent limitation of this method is the assumption that global network dynamics emerge exclusively from pairwise interactions between agents. Nevertheless, there exists a wealth of data associated with systems where pairwise interactions are insufficient modeling elements. This project will depart from the analysis of pairwise networks and develop the theory needed to learn from multi-relational connections. Specifically, this project will result in methods and algorithms to infer these complex connections from data and to leverage the inferred relational structures to better understand the systems that are being represented. Moreover, the project will achieve a real and lasting impact on students at Rice University via inclusive mentoring, novel teaching, and exciting research opportunities for the undergraduate and graduate populations. Research dissemination will be promoted through the organization of tutorials and special sessions. Finally, with the objective of broadening the participation of Hispanics in computing, a series of bilingual network-related workshops will be delivered at local high-schools.&lt;br/&gt;&lt;br/&gt;The primary research goal of this project is to develop a principled theory to process and learn from data defined on higher-order networks. More precisely, the data is modeled as signals defined on structural topological elements of simplicial complexes, which are a specific subclass of hypergraphs. This enables the implementation of concepts from algebraic topology to define in these structures notions from signal processing, such as frequency and filtering, and from deep learning, such as convolutional neural networks and deep generative models. In order to achieve the primary research goal, three thrusts are proposed, where the common denominator is the integration of signal processing and deep learning techniques with topological data domains. First, a (non higher-order) graph will be considered as the data domain but the thrust will focus on the case where the data of interest is located on the edges (such as flows of mass, energy, or information) as opposed to the nodes of the graph. The second thrust will derive relations between the spectral features of the Hodge Laplacian and topological characteristics of simplicial complexes to lay out the fundamentals of signal processing and deep learning for higher-order networks. The aforementioned directions leverage the structure of graphs and higher-order networks to better process data defined on them. However, a prerequisite for this is to have access to the network in the first place. Oftentimes, one only gets to observe data in some portions of the higher-order structure and wants to infer the rest of the structure to ultimately use it for processing. Accordingly, novel tools for higher-order network topology inference will be developed in the third research thrust. In the longer run, the investigator seeks to establish a fertile data science framework grounded on the combination of signal processing and machine learning with topological notions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008555</AwardID>
+<Investigator>
+<FirstName>Santiago</FirstName>
+<LastName>Segarra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Santiago Segarra</PI_FULL_NAME>
+<EmailAddress><![CDATA[segarra@rice.edu]]></EmailAddress>
+<NSF_ID>000784416</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[William Marsh Rice University]]></Name>
+<CityName>Houston</CityName>
+<ZipCode>770051827</ZipCode>
+<PhoneNumber>7133484820</PhoneNumber>
+<StreetAddress><![CDATA[6100 MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>K51LECU1G8N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WILLIAM MARSH RICE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[William Marsh Rice University]]></Name>
+<CityName>Houston</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>770051827</ZipCode>
+<StreetAddress><![CDATA[6100 Main St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>287800</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>779700</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~488089</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1"><span class="s1">As relational data availability continues to expand, graph-based modeling and processing techniques have become integral to contemporary research, spanning various fields. In graph-based models, system agents are represented as nodes, with interactions between agents occurring over network edges. However, these network-centric approaches are often constrained by their assumption that global dynamics emerge solely from pairwise interactions. Increasingly, data from systems where pairwise interactions are insufficient has led to the rise of higher-order networks, which capture relationships among groups of nodes beyond mere pairs, making them a natural choice for complex modeling needs.</span></p> <p class="p1"><span class="s1">Our primary research objective was to establish a robust theoretical framework for processing and learning from data on higher-order networks. We approached this by utilizing the algebraic structure of simplicial complexes (a higher-order network representation), specifically through the Hodge Laplacian. Additionally, we contributed to creating a data science framework rooted in combining signal processing, machine learning, and topological insights.</span></p> <p class="p1"><span class="s1">Key outcomes of this work include:</span></p> <p class="p1"><span class="s1">&nbsp;</span><span class="s1"><strong>O1</strong>: We introduced the concept of a <em>complexon</em>, a theoretically grounded extension of the graphon to higher-order networks. We demonstrated its desirable properties and developed a method for sampling simplicial complexes from complexons. [1]</span></p> <p class="p1"><strong>O2</strong>: We proposed a method for data augmentation on higher-order networks via mixup, implemented in the continuous space defined by complexons. We illustrated the practical benefits of this data augmentation method. [2]</p> <p class="p1"><strong>O3</strong>: We extended the notion of wavelets to simplicial complexes, coining them <em>Hodgelets</em>. These generalize graph wavelets to higher-order networks, enabling frequency-like analysis across both graph and frequency domains. [3]</p> <p class="p1"><strong>O4</strong>: We derived a principled approach for defining convolutional neural networks on simplicial complexes and applied these neural architectures to trajectory prediction. [4]</p> <p class="p1"><strong>O5</strong>: We published a tutorial-style paper on signal processing for higher-order networks, which has received over 140 citations, reflecting substantial community interest in the tools developed through this project. [5]</p> <p class="p1"><strong>O6</strong>: We developed a methodology for joint clustering of nodes and hyperedges in hypergraphs, showcasing the practical advantages of this joint approach. [6]</p> <p class="p1"><strong>O7</strong>: We demonstrated that no single method for node embedding can simultaneously satisfy three essential properties, explaining the challenges in establishing a universally preferred node embedding technique. [7]</p> <p class="p1"><strong>O8</strong>: We established a framework for processing and learning from data on higher-order networks that emerge from the product of two graphs. [8]</p> <p class="p1"><strong>O9</strong>: Results were broadly disseminated over more than 30 published journal and conference papers and more than a dozen presentations.</p> <p class="p1"><strong>O10</strong>: Graduate and undergraduate students were closely mentored. Two graduate students presented their PhD thesis based on the results under this project.</p> <p class="p2">&nbsp;</p> <p class="p3"><span class="s1">[1] T. M. Roddenberry and S. Segarra, "Limits of dense simplicial complexes,&rdquo; Journal of Machine Learning Research, 24(225), 1-42, 2023.</span></p> <p class="p3"><span class="s1">[2] M. Navarro and S. Segarra, "SC-MAD: Mixtures of Higher-Order Networks for Data Augmentation,&rdquo; IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024, pp. 13446-13450.</span></p> <p class="p4"><span class="s2">[3] T. M. </span><span class="s3">Roddenberry, F. Frantzen, M. T. Schaub, and S. Segarra, &ldquo;Hodgelets: Localized spectral representations of flows on simplicial complexes,&rdquo; <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2022, pp. 5922-5926.</span></p> <p class="p4"><span class="s2">[4] T. M. </span><span class="s4">Roddenberry, N. Glaze, and S. Segarra, &ldquo;</span><span class="s3">Principled simplicial neural networks for trajectory prediction,&rdquo; <em>International Conference on Machine Learning, 2021, </em>pp. 9020-9029.</span></p> <p class="p4"><span class="s2">[5] M. T. </span><span class="s3">Schaub, Y. Zhu, J. B. Seby, T. M. Roddenberry, and S. Segarra, &ldquo;Signal processing on higher-order networks: Livin&rsquo; on the edge... and beyond,&rdquo; <em>Signal Processing</em>,&nbsp;<em>187</em>, 108149, 2021.</span></p> <p class="p4"><span class="s2">[6] Y. </span><span class="s3">Zhu, B. Li, and S. Segarra, &ldquo;Co-clustering vertices and hyperedges via spectral hypergraph partitioning&rdquo;, <em>European Signal Processing Conference (EUSIPCO)</em>, 2021, pp. 1416-1420.</span></p> <p class="p4"><span class="s2">[7] T. M. </span><span class="s3">Roddenberry, Y. Zhu, and S. Segarra, &ldquo;An Impossibility Theorem for Node Embedding,&rdquo; <em>International Conference on Artificial Intelligence and Statistics</em>, 2024, pp. 2422-2430.</span></p> <p class="p4"><span class="s2">[8] T. M. </span><span class="s3">Roddenberry, V. P. Grande, F. Frantzen, M. T. Schaub, and S. Segarra, &ldquo;Signal processing on product spaces,&rdquo; <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023,</em>&nbsp;pp. 1-5.</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 10/26/2024<br> Modified by: Santiago&nbsp;Segarra</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  As relational data availability continues to expand, graph-based modeling and processing techniques have become integral to contemporary research, spanning various fields. In graph-based models, system agents are represented as nodes, with interactions between agents occurring over network edges. However, these network-centric approaches are often constrained by their assumption that global dynamics emerge solely from pairwise interactions. Increasingly, data from systems where pairwise interactions are insufficient has led to the rise of higher-order networks, which capture relationships among groups of nodes beyond mere pairs, making them a natural choice for complex modeling needs.   Our primary research objective was to establish a robust theoretical framework for processing and learning from data on higher-order networks. We approached this by utilizing the algebraic structure of simplicial complexes (a higher-order network representation), specifically through the Hodge Laplacian. Additionally, we contributed to creating a data science framework rooted in combining signal processing, machine learning, and topological insights.   Key outcomes of this work include:   O1: We introduced the concept of a complexon, a theoretically grounded extension of the graphon to higher-order networks. We demonstrated its desirable properties and developed a method for sampling simplicial complexes from complexons. [1]   O2: We proposed a method for data augmentation on higher-order networks via mixup, implemented in the continuous space defined by complexons. We illustrated the practical benefits of this data augmentation method. [2]   O3: We extended the notion of wavelets to simplicial complexes, coining them Hodgelets. These generalize graph wavelets to higher-order networks, enabling frequency-like analysis across both graph and frequency domains. [3]   O4: We derived a principled approach for defining convolutional neural networks on simplicial complexes and applied these neural architectures to trajectory prediction. [4]   O5: We published a tutorial-style paper on signal processing for higher-order networks, which has received over 140 citations, reflecting substantial community interest in the tools developed through this project. [5]   O6: We developed a methodology for joint clustering of nodes and hyperedges in hypergraphs, showcasing the practical advantages of this joint approach. [6]   O7: We demonstrated that no single method for node embedding can simultaneously satisfy three essential properties, explaining the challenges in establishing a universally preferred node embedding technique. [7]   O8: We established a framework for processing and learning from data on higher-order networks that emerge from the product of two graphs. [8]   O9: Results were broadly disseminated over more than 30 published journal and conference papers and more than a dozen presentations.   O10: Graduate and undergraduate students were closely mentored. Two graduate students presented their PhD thesis based on the results under this project.      [1] T. M. Roddenberry and S. Segarra, "Limits of dense simplicial complexes, Journal of Machine Learning Research, 24(225), 1-42, 2023.   [2] M. Navarro and S. Segarra, "SC-MAD: Mixtures of Higher-Order Networks for Data Augmentation, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024, pp. 13446-13450.   [3] T. M. Roddenberry, F. Frantzen, M. T. Schaub, and S. Segarra, Hodgelets: Localized spectral representations of flows on simplicial complexes, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022, pp. 5922-5926.   [4] T. M. Roddenberry, N. Glaze, and S. Segarra, Principled simplicial neural networks for trajectory prediction, International Conference on Machine Learning, 2021, pp. 9020-9029.   [5] M. T. Schaub, Y. Zhu, J. B. Seby, T. M. Roddenberry, and S. Segarra, Signal processing on higher-order networks: Livin on the edge... and beyond, Signal Processing,187, 108149, 2021.   [6] Y. Zhu, B. Li, and S. Segarra, Co-clustering vertices and hyperedges via spectral hypergraph partitioning, European Signal Processing Conference (EUSIPCO), 2021, pp. 1416-1420.   [7] T. M. Roddenberry, Y. Zhu, and S. Segarra, An Impossibility Theorem for Node Embedding, International Conference on Artificial Intelligence and Statistics, 2024, pp. 2422-2430.   [8] T. M. Roddenberry, V. P. Grande, F. Frantzen, M. T. Schaub, and S. Segarra, Signal processing on product spaces, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023,pp. 1-5.        Last Modified: 10/26/2024       Submitted by: SantiagoSegarra]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

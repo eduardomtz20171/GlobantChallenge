@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Rapid Climate Change During the Miocene as a benchmark to understand future climate change]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>301654.00</AwardTotalIntnAmount>
+<AwardAmount>301654</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Margaret Fraiser</SignBlockName>
+<PO_EMAI>mfraiser@nsf.gov</PO_EMAI>
+<PO_PHON>7032924660</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Miocene Climatic Optimum, between 18 and 13 million years ago, is one of Earth's most recent prolonged warming events with peak global surface temperature about 7 degrees Celsius (13 degrees Fahrenheit) above present and characterized by intervals of abrupt variability. Despite this warmer surface temperature, carbon dioxide concentrations were similar to forecasts of the coming decades while the configuration of continents on the global was quite similar to present-day. Therefore, this period of warmer climate may provide a useful benchmark to understand future climate change. The scientific results of this research will help clarify the impacts of warming on the South American Monsoon System may have on millions of people that presently depend on it for water resources. Through a series of large public lectures, this project will also increase awareness about the power of climate models for informing on future climate and environmental change. Furthermore, the project will provide content for undergraduate- and graduate-level courses and help grow the nascent Department of Geosciences at the University of Connecticut (UConn). With the potential impacts of this new data and the associated educational components, this project stands to significantly benefit society.&lt;br/&gt;&lt;br/&gt;Although understanding of the climate of this Miocene Climatic Optimum (MCO) is well documented through a variety of proxy records, the continental record remains poorly resolved. This data gap hinders our ability to distinguish the temperature responses between land and sea, and thus, limits our ability to use the MCO as an analog for future climate change. This project will therefore analyze the record of paleoclimate from the Central Andes preserved in the geochemistry, palynology, physical sedimentology and paleontology of ancient sand seas and paleo river and lake deposits at key localities in NW Argentina. The research team will combine this effort with a series of Miocene sensitivity experiments with the Community Earth System Model to test if CO2 driven warming is able to produce the geochemical and paleoenvironmental data or if other mechanisms, such as Antarctic ice volume and orbital changes, are required. This multidisciplinary research will provide insights into the causes and responses of rapid climate changes under climate warming.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002493</AwardID>
+<Investigator>
+<FirstName>Barbara</FirstName>
+<LastName>Carrapa</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Barbara Carrapa</PI_FULL_NAME>
+<EmailAddress><![CDATA[bcarrapa@email.arizona.edu]]></EmailAddress>
+<NSF_ID>000563144</NSF_ID>
+<StartDate>07/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName>TUCSON</CityName>
+<ZipCode>85721</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress><![CDATA[845 N PARK AVE RM 538]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ED44Y3W6P7B9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ARIZONA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Department of Geosciences, University of Arizona]]></Name>
+<CityName>Tucson</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>857210001</ZipCode>
+<StreetAddress><![CDATA[1040 E 4th]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157700</Code>
+<Text>GLOBAL CHANGE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1304</Code>
+<Text>EARTH SYSTEM HISTORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8070</Code>
+<Text>P2C2 Proposals</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~301654</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The Middle Miocene Climatic Optimum (MCO) is one of Earth's most recent prolonged warming event with peak global surface temperature ~7<sup>o</sup>C above present and intervals of abrupt variability. Despite warmer surface temperature, CO<sub>2</sub> concentrations were similar to forecasts of the coming decades and the continental configuration was quite similar to present-day. Therefore, the MCO can serve as a benchmark to understand future climate change. Although the marine record of the MCO is well documented through a variety of proxy records, the continental record remains poorly resolved.&nbsp;</p> <p>The hinterland and foreland basins of Argentina preserve a coherent stratigraphic record across the MCO. Many of the sections record the onset of dune fields at &gt;30 Ma to 19 Ma, with widespread wind related deposits ~22&ndash;17 Ma. We document a rapid and regional switch from dune fields to fluvial and lake deposition at the onset of the MCO (18&ndash;15 Ma) over ~1000 km along-strike, in localities that would have occupied both high and low elevation positions and from different tectonic settings. The observed stratigraphic changes are corroborated by new climate models which together suggest increased seasonality and precipitation along the eastern flank of the southern Central Andes during the MCO. Our results support a shift from arid to more humid and seasonal conditions during the MMCO, likely driven by intensification of the South American Monsoon.</p> <p>This research provides data able to bridge the bap between the paleodepositional and paleoecological responses between land and sea, and thus, further our ability to use the MCO as an analog for future climate change. Our new record of paleoclimate from the Central Andes combined this climate modeling show significant peleodepositional shifts across the MCO from drier to wetter.</p> <p>This multidisciplinary research provides insights into the causes and responses of rapid climate changes under climate warming.</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/03/2024<br> Modified by: Barbara&nbsp;Carrapa</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The Middle Miocene Climatic Optimum (MCO) is one of Earth's most recent prolonged warming event with peak global surface temperature ~7oC above present and intervals of abrupt variability. Despite warmer surface temperature, CO2 concentrations were similar to forecasts of the coming decades and the continental configuration was quite similar to present-day. Therefore, the MCO can serve as a benchmark to understand future climate change. Although the marine record of the MCO is well documented through a variety of proxy records, the continental record remains poorly resolved.   The hinterland and foreland basins of Argentina preserve a coherent stratigraphic record across the MCO. Many of the sections record the onset of dune fields at 30 Ma to 19 Ma, with widespread wind related deposits ~2217 Ma. We document a rapid and regional switch from dune fields to fluvial and lake deposition at the onset of the MCO (1815 Ma) over ~1000 km along-strike, in localities that would have occupied both high and low elevation positions and from different tectonic settings. The observed stratigraphic changes are corroborated by new climate models which together suggest increased seasonality and precipitation along the eastern flank of the southern Central Andes during the MCO. Our results support a shift from arid to more humid and seasonal conditions during the MMCO, likely driven by intensification of the South American Monsoon.   This research provides data able to bridge the bap between the paleodepositional and paleoecological responses between land and sea, and thus, further our ability to use the MCO as an analog for future climate change. Our new record of paleoclimate from the Central Andes combined this climate modeling show significant peleodepositional shifts across the MCO from drier to wetter.   This multidisciplinary research provides insights into the causes and responses of rapid climate changes under climate warming.        Last Modified: 09/03/2024       Submitted by: BarbaraCarrapa]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Probing Molecular Dynamics Near Plasmonic Surfaces by Optical two-dimensional Coherent Spectroscopy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>511833</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+<PO_EMAI>kcook@nsf.gov</PO_EMAI>
+<PO_PHON>7032927490</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With this award, the Chemical Measurement and Imaging Program in the Chemistry Division, with co-funding from the Atomic, Molecular and Optical Physics - Experiment Program in the Physics Division, is funding Drs. Hebin Li and Jin He at Florida International University (FIU) to develop a novel integrated ultrafast spectroscopy and imaging technique for studying molecular dynamics. The ability to probe ultrafast chemical behavior of molecules and electrons at the nanometer scale is essential for studying and understanding materials, such as deoxyribonucleic acid (DNA) molecules, proteins linked to photosynthesis, novel solar cell layers, and exotic quantum materials. Advanced laser spectroscopy, such as optical two-dimensional coherent spectroscopy (2DCS), excels in studying chemical behavior in complex systems, while the spatial resolution is usually limited to the millionth of meter scale. On the other hand, the scanning tunneling microscope (STM) provides nanometer resolution for single-molecule studies, while the measurements in STM are limited to the millisecond timescale. Drs. Hebin Li and Jin He and their research team integrate optical 2DCS and STM-based single-molecule techniques to acquire chemical information about surfaces with nanometer resolution spatial mapping and femtosecond time resolution. The novel imaging technique enables understanding and improving numerous chemical and materials systems.  By engaging students in active research and connecting to local science teachers, the project also makes an important contribution to the goal of FIU, a minority-serving institution, to strengthen the education of underrepresented groups in science, technology, engineering, and mathematics (STEM) fields, and to promote public interest in science in South Florida.&lt;br/&gt;&lt;br/&gt;The primary goal of this project is to develop surface-enhanced optical two-dimensional coherent spectroscopy (2DCS) to probe molecular dynamics on plasmonic surfaces by implementing optical 2DCS on a metal nanoelectrode (NE) to achieve a high spatial resolution. The developed technique has integrated advantages of both STM and optical 2DCS, including high spatial resolution, high detection sensitivity, femtosecond temporal resolution, and multidimensional capability. Using this technique to study molecules on the metal NE surface and molecular junctions in the nanogap between two metal nanostructures, the research enables new capabilities to probe charge transfer dynamics at molecule-metal and molecule-molecule interfaces, intermolecular interactions in small molecule pairs, and the dynamics of hydrogen-bonding patterns and networks in proteins at metal-molecule-metal junctions. The unique capabilities of this approach can potentially lead to novel applications in studying other systems such as two-dimensional and perovskite materials, photosynthetic proteins, and biological molecules.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003785</AwardID>
+<Investigator>
+<FirstName>Jin</FirstName>
+<LastName>He</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jin He</PI_FULL_NAME>
+<EmailAddress><![CDATA[jinhe@fiu.edu]]></EmailAddress>
+<NSF_ID>000525178</NSF_ID>
+<StartDate>08/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hebin</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hebin Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[hebinli@miami.edu]]></EmailAddress>
+<NSF_ID>000675197</NSF_ID>
+<StartDate>08/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q3KCVK5S9CP1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName/>
+<StateCode>FL</StateCode>
+<ZipCode>331990001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124100</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>762100</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7621</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~450000</FUND_OBLG>
+<FUND_OBLG>2021~46833</FUND_OBLG>
+<FUND_OBLG>2022~15000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this project titled "Probing molecular dynamics near plasmonic surfaces by optical two-dimensional coherent spectroscopy," the investigators aimed to advance the understanding of plasmonic molecular junctions and develop innovative spectroscopic techniques with broad potential applications in chemistry, material science, and molecular electronics. Over the course of the award, the research made strides in plasmonic molecular junction fabrication, dynamics and chemical reactions at molecular junctions, and the development of new spectroscopy methods. These efforts also provided valuable training opportunities for graduate and undergraduate students, including those from underrepresented groups.&nbsp;</p>  <p>Intellectual Merits:&nbsp;</p>  <p>In this project, we have studied molecular dynamics of molecules on nanoelectrodes and molecular junctions in the nanogap between two metal nanostructures, by using advanced laser spectroscopy such as optical two-dimensional (2D) coherent spectroscopy and advanced imaging techniques such as scanning tunneling microscope (STM). The developed techniques enabled new capabilities to probe charge transfer dynamics and chemical reactions at molecule-metal and molecule-molecule interfaces. In particular, the research has achieved the following primary goals.&nbsp;</p>  <p>Fabrication of plasmonic molecular junctions: The team successfully developed a variety of plasmonic molecular junctions using metals including gold, silver, and copper, known for their unique ability to enhance electromagnetic fields at their surfaces due to the plasmonic effect. These junctions were used as platforms to study the behavior of molecules under different conditions. For example, copper dendrites were electrochemically deposited onto flexible glass nanopipette tips, creating a reliable device for electrochemical-SERS (EC-SERS) experiments. This work led to the development of more robust and versatile molecular junctions for future experiments.</p>  <p>Probing dynamics in molecular junctions: We have built plasmonic nanoelectrode-based platforms with various types of nanostructures for electrochemical-surface enhanced Raman Spectroscopy (EC-SERS). Using time-resolved EC-SERS, we have studied charge transfer, intermolecular interactions dynamics of hydrogen bonds, and plasmon mediated chemical reactions in the metal-molecule-metal junctions on the plasmonic nanoelectrode surface.&nbsp;Key findings included the observation of plasmon-mediated chemical reactions, such as the reversible redox reactions between 4-aminethiophenol (4-ATP) and 4-nitrothiophenol (4-NTP) in copper junctions, and the plasmon-mediated dehydrogenation in gold junctions. These reactions were detected in real time and provided new insights into molecular dynamics that could inform the design of new materials and catalytic processes.</p>  <p>Advancement of two-dimensional coherent spectroscopy: The project has made important advances in two-dimensional coherent spectroscopy (2DCS) toward studying ultrafast dynamics at the single-molecule level. Optical 2DCS excels in studying coupling and dynamics in complex systems, while applying the technique to single molecules has many challenges such as spatial resolution, bandwidth, sensitivity, and thermal damage. In this project, we have constructed a microscope setup that integrates optical 2DCS with an STM setup to perform 2DCS on an STM tip. We demonstrated optical 2DCS with 35-fs pulses that have a spectral bandwidth of 70 nm in full-width half maximum (FWHM). The experiment also achieved an extremely high sensitivity and was able to obtain a nonlinear signal from about 16 molecules in the volume of the laser focus. To reduce the laser damage of the sample, we implemented an optical 2DCS experiment with a 5-kHz laser which provides high pulse energy but significantly low average power to avoid laser-induced heating effects.&nbsp;</p>  <p>Broader Impacts:&nbsp;</p>  <p>&nbsp;The project has engaged numerous graduate and undergraduate students in active research and provided them with rigorous hands-on research training. Overall, the project has provided research and training opportunities to 7 graduate students and 6 undergraduate students with at least one semester of participation. Three PhD students and one MS student have graduated during this award. Many of the undergraduate students have joined graduate programs and continue their career in the STEM fields.&nbsp;</p>  <p>The results of this research have been disseminated widely through peer-review publications with 6 published papers and at 2 more in the pipeline. The results have also been presented in numerous conference presentations and invited seminars.&nbsp;</p>  <p>In summary, this project has advanced techniques in studying molecular dynamics and interactions in the platform of plasmonic molecular junctions, with far-reaching implications for both single molecule study as well as potential applications in other systems such as 2D materials, quantum dots, and biological molecules.&nbsp;&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/23/2024<br> Modified by: Hebin&nbsp;Li</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In this project titled "Probing molecular dynamics near plasmonic surfaces by optical two-dimensional coherent spectroscopy," the investigators aimed to advance the understanding of plasmonic molecular junctions and develop innovative spectroscopic techniques with broad potential applications in chemistry, material science, and molecular electronics. Over the course of the award, the research made strides in plasmonic molecular junction fabrication, dynamics and chemical reactions at molecular junctions, and the development of new spectroscopy methods. These efforts also provided valuable training opportunities for graduate and undergraduate students, including those from underrepresented groups.    Intellectual Merits:    In this project, we have studied molecular dynamics of molecules on nanoelectrodes and molecular junctions in the nanogap between two metal nanostructures, by using advanced laser spectroscopy such as optical two-dimensional (2D) coherent spectroscopy and advanced imaging techniques such as scanning tunneling microscope (STM). The developed techniques enabled new capabilities to probe charge transfer dynamics and chemical reactions at molecule-metal and molecule-molecule interfaces. In particular, the research has achieved the following primary goals.    Fabrication of plasmonic molecular junctions: The team successfully developed a variety of plasmonic molecular junctions using metals including gold, silver, and copper, known for their unique ability to enhance electromagnetic fields at their surfaces due to the plasmonic effect. These junctions were used as platforms to study the behavior of molecules under different conditions. For example, copper dendrites were electrochemically deposited onto flexible glass nanopipette tips, creating a reliable device for electrochemical-SERS (EC-SERS) experiments. This work led to the development of more robust and versatile molecular junctions for future experiments.    Probing dynamics in molecular junctions: We have built plasmonic nanoelectrode-based platforms with various types of nanostructures for electrochemical-surface enhanced Raman Spectroscopy (EC-SERS). Using time-resolved EC-SERS, we have studied charge transfer, intermolecular interactions dynamics of hydrogen bonds, and plasmon mediated chemical reactions in the metal-molecule-metal junctions on the plasmonic nanoelectrode surface.Key findings included the observation of plasmon-mediated chemical reactions, such as the reversible redox reactions between 4-aminethiophenol (4-ATP) and 4-nitrothiophenol (4-NTP) in copper junctions, and the plasmon-mediated dehydrogenation in gold junctions. These reactions were detected in real time and provided new insights into molecular dynamics that could inform the design of new materials and catalytic processes.    Advancement of two-dimensional coherent spectroscopy: The project has made important advances in two-dimensional coherent spectroscopy (2DCS) toward studying ultrafast dynamics at the single-molecule level. Optical 2DCS excels in studying coupling and dynamics in complex systems, while applying the technique to single molecules has many challenges such as spatial resolution, bandwidth, sensitivity, and thermal damage. In this project, we have constructed a microscope setup that integrates optical 2DCS with an STM setup to perform 2DCS on an STM tip. We demonstrated optical 2DCS with 35-fs pulses that have a spectral bandwidth of 70 nm in full-width half maximum (FWHM). The experiment also achieved an extremely high sensitivity and was able to obtain a nonlinear signal from about 16 molecules in the volume of the laser focus. To reduce the laser damage of the sample, we implemented an optical 2DCS experiment with a 5-kHz laser which provides high pulse energy but significantly low average power to avoid laser-induced heating effects.    Broader Impacts:    The project has engaged numerous graduate and undergraduate students in active research and provided them with rigorous hands-on research training. Overall, the project has provided research and training opportunities to 7 graduate students and 6 undergraduate students with at least one semester of participation. Three PhD students and one MS student have graduated during this award. Many of the undergraduate students have joined graduate programs and continue their career in the STEM fields.    The results of this research have been disseminated widely through peer-review publications with 6 published papers and at 2 more in the pipeline. The results have also been presented in numerous conference presentations and invited seminars.    In summary, this project has advanced techniques in studying molecular dynamics and interactions in the platform of plasmonic molecular junctions, with far-reaching implications for both single molecule study as well as potential applications in other systems such as 2D materials, quantum dots, and biological molecules.         Last Modified: 11/23/2024       Submitted by: HebinLi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

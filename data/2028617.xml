@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Bridging the gap in multiphase flow simulations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>338844</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Understanding and predicting the dynamics of multiphase flows is important as these flows are found in everyday life and in many engineering applications. In nature, flows that involve two phases or more include clouds, dust storms and sediment transport in rivers. Fuel sprays, pharmaceutical sprays to treat pulmonary infections and diseases, pneumatic transport, powder processing and bubble column reactors are among the many applications relying on multiphase flows. Unlike single-phase flows which have established methods, simulations of two-phase flows are far more challenging due to the added complexity and cost required to deal with discontinuities, mass and momentum exchange at the interface separating the two phases. Despite decades of growing computational power, deployment of state-of-the art multiphase flow solvers remains exclusive to well curated and simplified academic flows, while many applications remain out of reach. The goal of this project is to develop numerical strategies that retains high-fidelity yet reduces the computational cost using computationally efficient methods. This research will benefit a wide range of industries where multiphase flow simulations are routinely conducted to inform the design of engineering systems. The reduced computational cost will enable simulations of real-life flows in regimes previously inaccessible. The project also aims at inspiring young kids to pursue careers related to fluid mechanics through an experiential learning module delivered during an outreach event in a digitally-enhanced performance arts stage at Arizona State University. Graduate and undergraduate students will receive stronger professional preparation and training through involvement in research.&lt;br/&gt;&lt;br/&gt;A novel computational approach will be investigated, which enables a consistent and continuous transition from fully resolved to fully modeled interfacial dynamics within the same simulation. The method builds on the volume-filtering theory as its mathematical support. The approach is similar in spirit to the Large Eddy Simulation method where interface scales larger than the filter width are fully resolved, and scales smaller than the filter width are fully modeled. Three variants of the method will be implemented and characterized, Volume-Filtered Immersed Boundary, Volume-Filtered Volume of Fluid and Volume-Filtered Eulerian-Lagrangian. The investigation will reveal the precise conditions allowing consistent and conservative transition from resolved to modeled interface using the Eulerian-Lagrangian approach where the characteristic interface length scale drops below the filter size. The approach will be demonstrated in simulations of atomizing jets and particle-laden channel flow.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/18/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028617</AwardID>
+<Investigator>
+<FirstName>Marcus</FirstName>
+<LastName>Herrmann</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marcus Herrmann</PI_FULL_NAME>
+<EmailAddress><![CDATA[marcus.herrmann@asu.edu]]></EmailAddress>
+<NSF_ID>000488662</NSF_ID>
+<StartDate>07/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mohamed</FirstName>
+<LastName>Kasbaoui</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mohamed H Kasbaoui</PI_FULL_NAME>
+<EmailAddress><![CDATA[mkasbaou@asu.edu]]></EmailAddress>
+<NSF_ID>000799184</NSF_ID>
+<StartDate>07/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress><![CDATA[660 S MILL AVENUE STE 204]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>Tempe</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852816011</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>150400</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<FUND_OBLG>2022~38844</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Many engineering and geophysical flows involve two phases or more. Among the many applications, one can cite: fuel sprays, pharmaceutical sprays to treat pulmonary infections and diseases, fluidized beds, pneumatic transport, powder processing and bubble column reactors.&nbsp;&nbsp;Unlike single-phase flows which have established methods, simulations of two-phase flows are significantly more challenging. The interaction between the phases introduces new time and length scales that significantly increase the computational cost and render modeling tasks harder. Complex and sophisticated methods required to deal with discontinuities, mass and momentum exchange at the interface separating the two phases lead to a steep computational cost, even with the largest supercomputers.&nbsp;</p>  <p>To mitigate the computational burden, we have developed a new mathematical and computational framework that bridges the gap between fully resolved and modeled interfacial dynamics. Based on solving volume-filtered governing equations, this approach relaxes the strict resolution requirements that penalize two-phase flow simulations. The formulation supports filter sizes that are small enough to resolve fully the interfacial dynamics, and the inclusion of models in the case of coarse filter sizes.</p>  <p>Using this framework, we have developed a method to simulate laminar and turbulent flows around arbitrarily-shaped, fixed, and moving immersed solids (see Figure 1). This method is called Volume-Filtering Immersed Boundary (VFIB) method. We have fully characterized this approach and the effect of filter size and type in several benchmark tests. We have shown that our approach has accuracy and efficiency that is comparable or exceeds other best-in class immersed boundary methods. In addition, our method is unique in that it supports extensions to Large Eddy Simulations and partially-resolved immersed solids with appropriate closures.</p>  <p>&nbsp;We have also used this framework to formulate a new method for Particle-Resolved Direct Numerical Simulations (see Figure 2). We use the VFIB method to represent suspended particles, when the filter size is very small compared to the particle diameter. We have performed several test cases which show that the method is accurate and robust in a variety of particle-laden flows. Notably, the method is stable and robust for low density ratio and neutrally buoyant particles. We have shown that when the filter size is made larger than the particle diameter, this approach reverts to a standard Eulerian-Lagrangian method where the coupling between fluid and particles is captured with drag laws (Figure 3).</p>  <p>Another key outcome is the open-source software LEAP developed during the course of this project. This massively parallel computational fluid dynamics solver incorporates the methods from this project. It provides efficient and scalable simulations of laminar and turbulent flows around immersed solids with complex geometries, and particle-laden flows. LEAP is free and available to engineers and other practitioners to develop their own applications.</p><br> <p>  Last Modified: 12/11/2024<br> Modified by: Mohamed&nbsp;H&nbsp;Kasbaoui</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2028617/2028617_10691040_1733938736837_featured_hu7348430ea86f8d40c7c4e0ceea857660_1459890_720x0_resize_lanczos_2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2028617/2028617_10691040_1733938736837_featured_hu7348430ea86f8d40c7c4e0ceea857660_1459890_720x0_resize_lanczos_2--rgov-800width.png" title="Figure 1: sample simulations with methods developed in this project"><img src="/por/images/Reports/POR/2024/2028617/2028617_10691040_1733938736837_featured_hu7348430ea86f8d40c7c4e0ceea857660_1459890_720x0_resize_lanczos_2--rgov-66x44.png" alt="Figure 1: sample simulations with methods developed in this project"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Example of simulations enabled by the Volume-FIltering Immersed Boundary Method and the new CFD solver LEAP. This approach makes it possible simulate laminar and turbulent flows around arbitrarily-shaped, fixed, or moving geometries.</div> <div class="imageCredit">M. Houssem Kasbaoui</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Mohamed&nbsp;H&nbsp;Kasbaoui <div class="imageTitle">Figure 1: sample simulations with methods developed in this project</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2028617/2028617_10691040_1733938902537_Screenshot_2024_12_10_at_1.07.47__8239_PM--rgov-214x142.png" original="/por/images/Reports/POR/2024/2028617/2028617_10691040_1733938902537_Screenshot_2024_12_10_at_1.07.47__8239_PM--rgov-800width.png" title="Figure 2: Particle-Resolved Direct Numerical Simulation"><img src="/por/images/Reports/POR/2024/2028617/2028617_10691040_1733938902537_Screenshot_2024_12_10_at_1.07.47__8239_PM--rgov-66x44.png" alt="Figure 2: Particle-Resolved Direct Numerical Simulation"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The framework developed in this project makes it possible to simulate particle-laden flows with moving fully-resolved particles at reasonable computational cost.</div> <div class="imageCredit">M. Houssem Kasbaoui</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Mohamed&nbsp;H&nbsp;Kasbaoui <div class="imageTitle">Figure 2: Particle-Resolved Direct Numerical Simulation</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2028617/2028617_10691040_1733939631056_channelEL--rgov-214x142.png" original="/por/images/Reports/POR/2024/2028617/2028617_10691040_1733939631056_channelEL--rgov-800width.png" title="Figure 3: Euler-Lagrange simulations with the volume-filtering method of a particle-laden turbulent channel flow."><img src="/por/images/Reports/POR/2024/2028617/2028617_10691040_1733939631056_channelEL--rgov-66x44.png" alt="Figure 3: Euler-Lagrange simulations with the volume-filtering method of a particle-laden turbulent channel flow."></a> <div class="imageCaptionContainer"> <div class="imageCaption">The framework developed in this project bridges the gap between fully resolved and modeled interfacial dynamics via the choice of filter size. When the latter is larger than the particle diameter, our approach recovers a standard Eulerian-Lagrangian method.</div> <div class="imageCredit">M. Houssem Kasbaoui</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Mohamed&nbsp;H&nbsp;Kasbaoui <div class="imageTitle">Figure 3: Euler-Lagrange simulations with the volume-filtering method of a particle-laden turbulent channel flow.</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Many engineering and geophysical flows involve two phases or more. Among the many applications, one can cite: fuel sprays, pharmaceutical sprays to treat pulmonary infections and diseases, fluidized beds, pneumatic transport, powder processing and bubble column reactors.Unlike single-phase flows which have established methods, simulations of two-phase flows are significantly more challenging. The interaction between the phases introduces new time and length scales that significantly increase the computational cost and render modeling tasks harder. Complex and sophisticated methods required to deal with discontinuities, mass and momentum exchange at the interface separating the two phases lead to a steep computational cost, even with the largest supercomputers.    To mitigate the computational burden, we have developed a new mathematical and computational framework that bridges the gap between fully resolved and modeled interfacial dynamics. Based on solving volume-filtered governing equations, this approach relaxes the strict resolution requirements that penalize two-phase flow simulations. The formulation supports filter sizes that are small enough to resolve fully the interfacial dynamics, and the inclusion of models in the case of coarse filter sizes.    Using this framework, we have developed a method to simulate laminar and turbulent flows around arbitrarily-shaped, fixed, and moving immersed solids (see Figure 1). This method is called Volume-Filtering Immersed Boundary (VFIB) method. We have fully characterized this approach and the effect of filter size and type in several benchmark tests. We have shown that our approach has accuracy and efficiency that is comparable or exceeds other best-in class immersed boundary methods. In addition, our method is unique in that it supports extensions to Large Eddy Simulations and partially-resolved immersed solids with appropriate closures.    We have also used this framework to formulate a new method for Particle-Resolved Direct Numerical Simulations (see Figure 2). We use the VFIB method to represent suspended particles, when the filter size is very small compared to the particle diameter. We have performed several test cases which show that the method is accurate and robust in a variety of particle-laden flows. Notably, the method is stable and robust for low density ratio and neutrally buoyant particles. We have shown that when the filter size is made larger than the particle diameter, this approach reverts to a standard Eulerian-Lagrangian method where the coupling between fluid and particles is captured with drag laws (Figure 3).    Another key outcome is the open-source software LEAP developed during the course of this project. This massively parallel computational fluid dynamics solver incorporates the methods from this project. It provides efficient and scalable simulations of laminar and turbulent flows around immersed solids with complex geometries, and particle-laden flows. LEAP is free and available to engineers and other practitioners to develop their own applications.     Last Modified: 12/11/2024       Submitted by: MohamedHKasbaoui]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

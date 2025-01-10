@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Postdoctoral Fellowship in Biology FY 2020]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>207000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joel Abraham</SignBlockName>
+<PO_EMAI>jkabraha@nsf.gov</PO_EMAI>
+<PO_PHON>7032924694</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2020, Integrative Research Investigating the Rules of Life Governing Interactions Between Genomes, Environment and Phenotypes. The fellowship supports research and training of the Fellow that will contribute to the area of Rules of Life in innovative ways. Social behavior can vary greatly between individuals, with genetic and environmental factors impacting the development of sociability. The Fellow will apply a novel approach in the field of behavioral neuroscience—the examination of many genetically diverse mouse strains from the large Collaborative Cross (CC) mouse genetic reference panel (GRP)—to examine genetic and environmental regulators of social outcomes. This approach is important because basic research into the impact of genes and environment on brain and behavior has historically been conducted in only a very small number of inbred laboratory rodent strains, limiting genetic variation that is essential for understanding how genes impact complex behaviors. Thus, research incorporating increased genetic diversity to investigate genetic and environmental regulators of behavioral outcomes may lead to new discoveries that are more applicable to genetically diverse populations, such as humans. This fellowship will broaden participation in neuroscience by facilitating the intellectual and professional development of underrepresented students recruited from the LA-HIP and USC McNair Scholars Program.&lt;br/&gt;&lt;br/&gt;The CC mouse panel was created by a global team of researchers to study the biological regulation of polygenic traits and consists of ~60 strains of highly genetically diverse mice. By examining early social interactions across the CC GRP, the Fellow will identify strains with the lowest and highest mother-pup interactions. Behavioral testing of adult offspring will allow long-term effects of strain genetic background and maternal care to be examined. The relationship between genetic background and actual gene expression patterns in the brain from the most behaviorally extreme strains will be examined to identify underlying mechanisms. Computational modeling will establish gene transcription patterns across neural networks that can be compared between behaviorally extreme strains with different levels of maternal experience to identify mechanisms of social behavioral variation. The Fellow will receive training in the best approaches for integrative analyses of comprehensive datasets across biological levels of analyses to address complex questions across a population. In addition, the Fellow will train in scientific communication and mentorship by presenting to the public at local events and training students from underrepresented groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011039</AwardID>
+<Investigator>
+<FirstName>Manal</FirstName>
+<LastName>Tabbaa</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Manal Tabbaa</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000814833</NSF_ID>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Tabbaa, Manal]]></Name>
+<CityName>Los Angeles</CityName>
+<ZipCode>90027</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>30</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA30</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Children's Hospital of LA]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900271111</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>30</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA30</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>727500</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+<FUND_OBLG>2021~69000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The mechanisms by which genetic diversity regulates individual differences in behavioral phenotypes are unknown. Understanding genetic variation is paramount to understanding the biological regulation of complex social, emotional, and cognitive behaviors especially in populations that display broad phenotypic variation. Even though complex behaviors are polygenic, research into the neurobiology of complex behaviors is largely conducted in a few inbred laboratory rodent strains thereby limiting genetic variation and the generalizability of genotype-phenotype relationships. This proposal leveraged a model of genetic diversity, mouse genetic reference panels (GRPs), to identify the impact of variable genetic backgrounds on complex behaviors and early life experiences. Mouse GRPs consist of many recombinant inbred mouse strains that were derived from advanced intercrossing of genetically diverse founder strains followed by serial inbreeding. Thus, GRP strain genomes are fixed and reproducible and capture &gt;90% of genetic diversity present in mouse subspecies globally. By integrating genetically diverse mouse GRP strains with observational and behavioral testing, we described the impact of genetic background on individual differences in developmental milestones, maternal-offspring interactions, and adult social, emotional, and cognitive behaviors.</p> <p>We first conducted extensive early life maternal-offspring interactions across GRP strains to determine the impact of genetic background on early life experiences which are known to impact adult complex behaviors. By keeping the genetic background of the mother constant and varying the genetic background of the father, we tested how genetic diversity in the offspring impacted maternal behavior. We found that offspring genetic background diversity was sufficient to impact individual differences in maternal care during early development. In addition, we found that genetic background also impacted the age at which pups reached developmental milestones such as eating solid food. Moreover, we saw evidence that genetic background impacts sibling interactions. These individual differences in the early life environment across strains with diverse genetic backgrounds may contribute to differences in adult phenotypes.</p> <p>We next tested the social, emotional, and cognitive behaviors of males and females across many GRP strains. We also tested body weight trajectories and terminal brain weights. We found that genetic background and sex are critical regulators of individual differences in traits. Genetic diversity as a function of mouse strain resulted in a continuum of social, emotional, and cognitive behaviors as well as body weight trajectories and brain weights. We described the heritability of each trait based on the within- and between- strain phenotypic variance. We found intermediate-low heritability across most traits indicating that there are important environmental influences that interact with genetic background to regulate adult traits. Sex was a major determinant for trait outcomes.&nbsp;This work revealed that sexually dimorphic effects found in one mouse strain are not generalizable to all mouse strains; sex differences depend on genetic background. Further, by including the most widely studied strain in neuroscience, the C57BL6 (B6) strain, we found that B6 mice are low in sociability, compared to other strains, and represents one phenotypic subtype. Additionally, in a subset of strains, we found significant associations between early life maternal care and adult behaviors suggesting genetic background interactions with developmental environments. Therefore, this work demonstrates the importance of incorporating genetic background into basic research studies into complex traits and sex differences, and that the B6 strain is not always the optimal strain to use, depending on the experimental question. This work, which describes over 12 traits for males and females from many genetically diverse mouse strains for the first time, is a publicly available resource that other scientists can use to conduct follow up studies in strains that have specific phenotypes of interest.&nbsp;&nbsp;</p> <p>Next, we focused on determining gene transcription differences in the medial prefrontal cortex, a brain region known to regulate social, emotional, and cognitive behaviors. We found that genetic background impacts gene transcription in the adolescent medial prefrontal cortex, and ongoing efforts are finalizing analysis methods and interpreting results before manuscript preparation for publication. Ongoing analyses are geared towards integrative analyses of behavioral and transcriptomic datasets to understand how genetic background interacts with early life experience to regulate the brain and behavior.</p> <p>This project has produced comprehensive behavioral datasets that characterize many traits for over 30 diverse mouse GRP strains. In addition, datasets were generated that describe maternal-offspring interactions and developmental milestones across 16 diverse mouse GRP strains and span from the day after birth until weaning. Moreover, this project has produced spatial transcriptomics datasets for 2 GRP strains that display extreme social behavioral differences. Several undergraduate students were trained in behavioral observations and bioinformatics and presented their work at national conferences. Behavioral results were published in scientific journals and highlighted by popular news outlets that aim to increase public awareness of impactful research.</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/06/2024<br> Modified by: Manal&nbsp;Tabbaa</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The mechanisms by which genetic diversity regulates individual differences in behavioral phenotypes are unknown. Understanding genetic variation is paramount to understanding the biological regulation of complex social, emotional, and cognitive behaviors especially in populations that display broad phenotypic variation. Even though complex behaviors are polygenic, research into the neurobiology of complex behaviors is largely conducted in a few inbred laboratory rodent strains thereby limiting genetic variation and the generalizability of genotype-phenotype relationships. This proposal leveraged a model of genetic diversity, mouse genetic reference panels (GRPs), to identify the impact of variable genetic backgrounds on complex behaviors and early life experiences. Mouse GRPs consist of many recombinant inbred mouse strains that were derived from advanced intercrossing of genetically diverse founder strains followed by serial inbreeding. Thus, GRP strain genomes are fixed and reproducible and capture 90% of genetic diversity present in mouse subspecies globally. By integrating genetically diverse mouse GRP strains with observational and behavioral testing, we described the impact of genetic background on individual differences in developmental milestones, maternal-offspring interactions, and adult social, emotional, and cognitive behaviors.   We first conducted extensive early life maternal-offspring interactions across GRP strains to determine the impact of genetic background on early life experiences which are known to impact adult complex behaviors. By keeping the genetic background of the mother constant and varying the genetic background of the father, we tested how genetic diversity in the offspring impacted maternal behavior. We found that offspring genetic background diversity was sufficient to impact individual differences in maternal care during early development. In addition, we found that genetic background also impacted the age at which pups reached developmental milestones such as eating solid food. Moreover, we saw evidence that genetic background impacts sibling interactions. These individual differences in the early life environment across strains with diverse genetic backgrounds may contribute to differences in adult phenotypes.   We next tested the social, emotional, and cognitive behaviors of males and females across many GRP strains. We also tested body weight trajectories and terminal brain weights. We found that genetic background and sex are critical regulators of individual differences in traits. Genetic diversity as a function of mouse strain resulted in a continuum of social, emotional, and cognitive behaviors as well as body weight trajectories and brain weights. We described the heritability of each trait based on the within- and between- strain phenotypic variance. We found intermediate-low heritability across most traits indicating that there are important environmental influences that interact with genetic background to regulate adult traits. Sex was a major determinant for trait outcomes.This work revealed that sexually dimorphic effects found in one mouse strain are not generalizable to all mouse strains; sex differences depend on genetic background. Further, by including the most widely studied strain in neuroscience, the C57BL6 (B6) strain, we found that B6 mice are low in sociability, compared to other strains, and represents one phenotypic subtype. Additionally, in a subset of strains, we found significant associations between early life maternal care and adult behaviors suggesting genetic background interactions with developmental environments. Therefore, this work demonstrates the importance of incorporating genetic background into basic research studies into complex traits and sex differences, and that the B6 strain is not always the optimal strain to use, depending on the experimental question. This work, which describes over 12 traits for males and females from many genetically diverse mouse strains for the first time, is a publicly available resource that other scientists can use to conduct follow up studies in strains that have specific phenotypes of interest.   Next, we focused on determining gene transcription differences in the medial prefrontal cortex, a brain region known to regulate social, emotional, and cognitive behaviors. We found that genetic background impacts gene transcription in the adolescent medial prefrontal cortex, and ongoing efforts are finalizing analysis methods and interpreting results before manuscript preparation for publication. Ongoing analyses are geared towards integrative analyses of behavioral and transcriptomic datasets to understand how genetic background interacts with early life experience to regulate the brain and behavior.   This project has produced comprehensive behavioral datasets that characterize many traits for over 30 diverse mouse GRP strains. In addition, datasets were generated that describe maternal-offspring interactions and developmental milestones across 16 diverse mouse GRP strains and span from the day after birth until weaning. Moreover, this project has produced spatial transcriptomics datasets for 2 GRP strains that display extreme social behavioral differences. Several undergraduate students were trained in behavioral observations and bioinformatics and presented their work at national conferences. Behavioral results were published in scientific journals and highlighted by popular news outlets that aim to increase public awareness of impactful research.        Last Modified: 07/06/2024       Submitted by: ManalTabbaa]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

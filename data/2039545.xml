@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Biomass burning smoke as a driver of multi-scale microbial teleconnections]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>71811.00</AwardTotalIntnAmount>
+<AwardAmount>71811</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrea Porras-Alfaro</SignBlockName>
+<PO_EMAI>aporrasa@nsf.gov</PO_EMAI>
+<PO_PHON>7032922944</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Microbes are found in all environments and play essential roles in nutrient cycling, gas exchange, and through associations with plants and animals. However, the ways that microbes are transported from one environment to another are not well understood. Each year, wildland fires emit millions of tons of smoke particles into the atmosphere and these particles likely carry microbes with them. Traditionally, wildfires have been studied in terms of direct impacts to terrestrial biota and the chemistry and physics of the atmosphere, but the role of smoke as an agent of biological dispersal has yet to be explored. Grasslands are one of the most widespread and frequently burned ecosystems, so this research will examine the impacts of smoke-driven microbial dispersal in tallgrass prairies of the central United States using unmanned aerial vehicles flying into smoke plumes, combustion experiments and soil incubations that mimic conditions in nature. This project uses an integrated approach to better understand the consequences of smoke to human, plant, and animal health across all environments where wildland fire occurs. The increasing size and severity of global wildfires, leading to increased interaction between biomass burning smoke and human populations, make this research relevant to a wide range of stakeholders including those interested in the potential transport of pathogenic microbes. In addition to mentoring three post-doctoral scholars, a graduate student, and undergraduate summer interns, the results will be disseminated to local communities through existing K-12 and informal learning programs at the Konza Prairie LTER and NEON sites. &lt;br/&gt;&lt;br/&gt;Microbial emissions in smoke from biomass burning are both quantitatively and qualitatively different from the bioaerosols observed from wind-driven emissions, implying that wildland fire may be a globally relevant and yet-unquantified mechanism for microbial teleconnections among ecosystems. To test how smoke drives microbial metacommunity ecology, this project will use an integrated approach that compares the composition and viability of smoke source and sink microbial assemblages in field- and laboratory-based experiments. Smoke and particulate deposition during repeated prescribed fires in grasslands will be sampled over two years to characterize the relationships among fire behavior, meteorological conditions, and survival of microbes transported in smoke. Sterilized and untreated soils from similar, unburned sites will be exposed to contrasting dosages of smoke with known microbial content to compare the relative influence of selection, dispersal, and drift on soil microbial community assembly. These data will be used to build new capacity for simulating smoke microbial dispersal across scales by parameterizing microbial emission fluxes and microbial dispersion in atmospheric, chemical transport, and coupled fire-atmosphere models. Results will lend insight into the relative importance of stochastic vs. deterministic processes in driving microbial community ecology in systems where fire disturbances are frequent, while modeling will enable predictions of the scale and impact of smoke-related microbial dispersal. This research will inform questions about microbial gene flow, microbial pathogen epidemiology, phytopathogens, and meteorological processes, and will expand fundamental understanding of fire’s ecological significance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/12/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039545</AwardID>
+<Investigator>
+<FirstName>Brent</FirstName>
+<LastName>Christner</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brent C Christner</PI_FULL_NAME>
+<EmailAddress><![CDATA[xner@ufl.edu]]></EmailAddress>
+<NSF_ID>000218757</NSF_ID>
+<StartDate>03/12/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress><![CDATA[1523 UNION RD RM 207]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName/>
+<StateCode>FL</StateCode>
+<ZipCode>326112002</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>112800</Code>
+<Text>Population &amp; Community Ecology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>152400</Code>
+<Text>Atmospheric Chemistry</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>738100</Code>
+<Text>Ecosystem Science</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~71811</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The long range and recurrent transport of microorganisms in the atmosphere has a multitude of consequences for environmental health and biological dispersion in the land&ndash;atmosphere system. However, the ecological sources and emission mechanisms for bioaerosols remain poorly characterized. Each year, wildland fires emit millions of tons of smoke particles into the atmosphere, which have been shown to be associated with and transport living microbes. Collectively, this research problem motivated our project and efforts to examine the microbial contents of wildland fire smoke at the Konza Prairie Biological Station (KPBS). The overarching hypothesis of our study was that plant and soil microorganisms mobilized by fire to the atmosphere survive conditions associated with atmospheric transport, immigrate to new environments, and influence the composition and function of the ecosystems where they are deposited. The prescribed burn program, number of managed land covers, and wealth of environmental data available at the KPBS provided an ideal platform to conduct the proposed research. We compared the composition and viability of potential sources and sinks for microbial aerosols using a combination of field- and laboratory-based experiments. Sterilized and natural soils from similar, unburned sites were exposed to contrasting dosages of smoke with known microbial content to compare the relative influence of selection, dispersal, and drift on soil microbial community assembly. These experiments demonstrated that microbial dispersal via smoke is not only possible, but that it can also potentially influence the assembly processes of microbial communities in soils. Field-based experiments showed that most microbes in the smoke originated from ground-based plant and soil communities. The data provided by these studies allowed us to simulate microbial dispersal in smoke across scales by parameterizing microbial emission fluxes and microbial dispersion in atmospheric, chemical transport, and coupled fire-atmosphere models. The ability to predict the scale and impact of smoke-related microbial dispersal has enabled new research questions that are highly relevant to the role of wildfire smoke as an agent of microbial dispersal.&nbsp;</p><br> <p>  Last Modified: 07/29/2024<br> Modified by: Brent&nbsp;C&nbsp;Christner</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2039545/2039545_10722184_1722284518510_0Z4A3195--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2039545/2039545_10722184_1722284518510_0Z4A3195--rgov-800width.jpg" title="Aerosols sampling drone"><img src="/por/images/Reports/POR/2024/2039545/2039545_10722184_1722284518510_0Z4A3195--rgov-66x44.jpg" alt="Aerosols sampling drone"></a> <div class="imageCaptionContainer"> <div class="imageCaption">During a prescribed burn at Konza Prairie Biological Station in November 2021, a drone is positioned within the moving smoke plume for aerosol sampling.</div> <div class="imageCredit">Brent Christner</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Brent&nbsp;C&nbsp;Christner <div class="imageTitle">Aerosols sampling drone</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The long range and recurrent transport of microorganisms in the atmosphere has a multitude of consequences for environmental health and biological dispersion in the landatmosphere system. However, the ecological sources and emission mechanisms for bioaerosols remain poorly characterized. Each year, wildland fires emit millions of tons of smoke particles into the atmosphere, which have been shown to be associated with and transport living microbes. Collectively, this research problem motivated our project and efforts to examine the microbial contents of wildland fire smoke at the Konza Prairie Biological Station (KPBS). The overarching hypothesis of our study was that plant and soil microorganisms mobilized by fire to the atmosphere survive conditions associated with atmospheric transport, immigrate to new environments, and influence the composition and function of the ecosystems where they are deposited. The prescribed burn program, number of managed land covers, and wealth of environmental data available at the KPBS provided an ideal platform to conduct the proposed research. We compared the composition and viability of potential sources and sinks for microbial aerosols using a combination of field- and laboratory-based experiments. Sterilized and natural soils from similar, unburned sites were exposed to contrasting dosages of smoke with known microbial content to compare the relative influence of selection, dispersal, and drift on soil microbial community assembly. These experiments demonstrated that microbial dispersal via smoke is not only possible, but that it can also potentially influence the assembly processes of microbial communities in soils. Field-based experiments showed that most microbes in the smoke originated from ground-based plant and soil communities. The data provided by these studies allowed us to simulate microbial dispersal in smoke across scales by parameterizing microbial emission fluxes and microbial dispersion in atmospheric, chemical transport, and coupled fire-atmosphere models. The ability to predict the scale and impact of smoke-related microbial dispersal has enabled new research questions that are highly relevant to the role of wildfire smoke as an agent of microbial dispersal.     Last Modified: 07/29/2024       Submitted by: BrentCChristner]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

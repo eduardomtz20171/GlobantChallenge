@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Functional Inorganic Materials - New Ultraviolet and Deep-Ultraviolet Nonlinear Optical Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>409999.00</AwardTotalIntnAmount>
+<AwardAmount>459622</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Birgit Schwenzer</SignBlockName>
+<PO_EMAI>bschwenz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924771</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non-Technical Abstract&lt;br/&gt;&lt;br/&gt;New materials - chemical compounds - are at the core of advanced technologies, such as fuel cells, blue-ray DVD players, smart phones, and lasers. The challenge lies in not only discovering a new material, but also understanding its technologically relevant properties. If advancements in technology are to occur - and such advancements are critical if the United States is to remain the leader in science - the discovery and understanding of new materials are critical. This fundamental research project, supported by the Solid State and Materials Chemistry Program in the Division of Materials Research, involves the design, discovery, and crystal growth of new materials for advanced technologies. Specifically, the research team is focused on new materials for laser applications. The aim is to discover materials that enable lasing technologies, i.e. coherent radiation, in the ultraviolet and deep-ultraviolet wavelengths - below 300 nanometers. Coherent radiation in these wavelength ranges is critically needed for advanced technologies and devices, and the proposed materials will positively impact these technologies. Finally, there will be a specific emphasis on recruiting underrepresented groups in STEM to the research group as the University of Houston is designated as a Hispanic-Serving Institution (HSI).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Technical Abstract&lt;br/&gt;&lt;br/&gt;This research project, supported by the Solid State and Materials Chemistry Program in the Division of Materials Research, involves the design, synthesis, structure, functional property characterization, and structure-property relationships of new functional inorganic materials -  mixed alkali and alkaline earth borate oxyfluorides and mixed alkali and alkaline-earth metal nitrates - for ultraviolet (UV) and deep-ultraviolet (DUV) nonlinear optical (NLO) applications. An ongoing challenge in inorganic solid-state chemistry is the ‘rational design’ of new materials - to design and synthesize precise stoichiometries that will exhibit specific, and ideally, technologically important properties. Meeting this challenge not only requires synthetic expertise, but also a deep understanding of the various bonding and crystal chemistry requirements for the desired physical property. To further this understanding, the research team at the University of Houston not only synthesizes new materials, but also develops structure-property relationships. In addition to bulk phase synthesis, the growth of large, centimeter size, crystals is planned. Large single crystals are crucial in order to thoroughly investigate and understand the functional properties. Top-seeded solution growth methods can be employed for the crystal growth. The materials are characterized structurally by X-ray diffraction - powder and single crystal - and physical property measurements will include, thermogravimetric analysis, differential scanning calorimetry, and second-harmonic generation measurements. Through this holistic approach - synthesis, crystal growth, characterization, and structure-property relationships - the research team aims to profoundly advance the field.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002319</AwardID>
+<Investigator>
+<FirstName>P Shiv</FirstName>
+<LastName>Halasyamani</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>P Shiv Halasyamani</PI_FULL_NAME>
+<EmailAddress><![CDATA[psh@uh.edu]]></EmailAddress>
+<NSF_ID>000296946</NSF_ID>
+<StartDate>07/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Houston]]></Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>772043067</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress><![CDATA[4300 MARTIN LUTHER KING BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QKWEF8XLMTT3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HOUSTON SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Houston]]></Name>
+<CityName>Houston</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>772045003</ZipCode>
+<StreetAddress><![CDATA[4800 Calhoun]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>171200</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>176200</Code>
+<Text>SOLID STATE &amp; MATERIALS CHEMIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1515</Code>
+<Text>MINORITY GRADUATE EDUC ACTIVIT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~409999</FUND_OBLG>
+<FUND_OBLG>2021~49623</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The outcome of DMR-2002319 included the discovery of a host of new nonlinear optical (NLO) materials and their characterization. These include oxides, mixed anion materials (oxyfluorides), as well as chalcogenides. One of the several challenges in discovering new NLO materials is addressing the symmetry requirement, i.e. for a material to possess NLO behavior inversion symmetry must be avoided &ndash; the compound must be noncentrosymmetric. There are a variety of ways to address this symmetry requirement. One strategy is to use inherently noncentrosymmetric building blocks in the structure. That is instead of, for example, GeO4 use GeOSe3. In doing so, we successfully synthesized the new NLO material Sr6Ge3OSe11. Another manner in which to create noncentrosymmetry is to use nonparallel pi-pi stacking in racemic mixtures. This was done successfully in [Cu(4dmbpy)2(H2O)][MF6] (M = Zr or Hf) and [Cu(5dmbpy)2(H2O)][MF6] (M = Zr or Hf). With these materials the inversion symmetry is broken through non-parallel packing. Yet another manner in which to break inversion symmetry is to use borate-phoshpate units. This was successfully done in Rb3B11P2O23. With this material, the basic building block (BBU) is a [B4P2O16] group. This group forms noncentrosymmetric layers, and in doing so a new NLO material is created.&nbsp;</p>  <p>&nbsp;</p>  <p>In addition to the synthesis, the characterization of these materials is also critically important. The most fundamental manner in which to characterize new NLO materials is through powder second-harmonic generating (SHG) measurements. This method, known as the Kurtz-Perry technique, has been used in our lab for over 20 years. We freely do measurements for academic labs throughout the United States and internationally. At last count, we have done measurements for over 50 research groups throughout the US and internationally. The technique requires around 100mg of pure powder. A 1064nm laser is used, and the sample is irradiated. A small spot of green (532nm, i.e. 1064 / 2 = 532nm) light appears on the sample if it is NLO active. If more detailed NLO information is required, around 1.0 &ndash; 1.5g of material is needed that must be sieved. By sieving the powder into various&nbsp;&nbsp;We routinely perform powder SHG measurements for materials synthesized in our lab, as well as collaborators throughout the US and internationally.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/27/2024<br> Modified by: P Shiv&nbsp;Halasyamani</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2002319/2002319_10682013_1723745514836_pi_pi_stacking--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2002319/2002319_10682013_1723745514836_pi_pi_stacking--rgov-800width.jpg" title="Non-parallel pi-pi stacking"><img src="/por/images/Reports/POR/2024/2002319/2002319_10682013_1723745514836_pi_pi_stacking--rgov-66x44.jpg" alt="Non-parallel pi-pi stacking"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Non-parallel pi-pi stacking results in the absence of an inversion center.</div> <div class="imageCredit">J. Am. Chem. Soc., 2023, 145, 16879</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">P Shiv&nbsp;Halasyamani <div class="imageTitle">Non-parallel pi-pi stacking</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2002319/2002319_10682013_1723745594288_RbBPO--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2002319/2002319_10682013_1723745594288_RbBPO--rgov-800width.jpg" title="Crystal structure of Rb3B11P2O23 (RBPO)."><img src="/por/images/Reports/POR/2024/2002319/2002319_10682013_1723745594288_RbBPO--rgov-66x44.jpg" alt="Crystal structure of Rb3B11P2O23 (RBPO)."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Crystal structure of Rb3B11P2O23 (RBPO) showing the layered nature of the crystal structure.</div> <div class="imageCredit">ACS Materials Lett. 2023, 5, 155-161</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">P Shiv&nbsp;Halasyamani <div class="imageTitle">Crystal structure of Rb3B11P2O23 (RBPO).</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2002319/2002319_10682013_1723745437692_GeOSe3--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2002319/2002319_10682013_1723745437692_GeOSe3--rgov-800width.jpg" title="Polyhedral representation of Sr6Ge3OSe11"><img src="/por/images/Reports/POR/2024/2002319/2002319_10682013_1723745437692_GeOSe3--rgov-66x44.jpg" alt="Polyhedral representation of Sr6Ge3OSe11"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Polyhedral representation of Sr6Ge3OSe11. Note the GeOSe3 building blocks.</div> <div class="imageCredit">Chem. Mater., 2023, 35, 3033-3040</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">P Shiv&nbsp;Halasyamani <div class="imageTitle">Polyhedral representation of Sr6Ge3OSe11</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The outcome of DMR-2002319 included the discovery of a host of new nonlinear optical (NLO) materials and their characterization. These include oxides, mixed anion materials (oxyfluorides), as well as chalcogenides. One of the several challenges in discovering new NLO materials is addressing the symmetry requirement, i.e. for a material to possess NLO behavior inversion symmetry must be avoided  the compound must be noncentrosymmetric. There are a variety of ways to address this symmetry requirement. One strategy is to use inherently noncentrosymmetric building blocks in the structure. That is instead of, for example, GeO4 use GeOSe3. In doing so, we successfully synthesized the new NLO material Sr6Ge3OSe11. Another manner in which to create noncentrosymmetry is to use nonparallel pi-pi stacking in racemic mixtures. This was done successfully in [Cu(4dmbpy)2(H2O)][MF6] (M = Zr or Hf) and [Cu(5dmbpy)2(H2O)][MF6] (M = Zr or Hf). With these materials the inversion symmetry is broken through non-parallel packing. Yet another manner in which to break inversion symmetry is to use borate-phoshpate units. This was successfully done in Rb3B11P2O23. With this material, the basic building block (BBU) is a [B4P2O16] group. This group forms noncentrosymmetric layers, and in doing so a new NLO material is created.        In addition to the synthesis, the characterization of these materials is also critically important. The most fundamental manner in which to characterize new NLO materials is through powder second-harmonic generating (SHG) measurements. This method, known as the Kurtz-Perry technique, has been used in our lab for over 20 years. We freely do measurements for academic labs throughout the United States and internationally. At last count, we have done measurements for over 50 research groups throughout the US and internationally. The technique requires around 100mg of pure powder. A 1064nm laser is used, and the sample is irradiated. A small spot of green (532nm, i.e. 1064 / 2 = 532nm) light appears on the sample if it is NLO active. If more detailed NLO information is required, around 1.0  1.5g of material is needed that must be sieved. By sieving the powder into variousWe routinely perform powder SHG measurements for materials synthesized in our lab, as well as collaborators throughout the US and internationally.         Last Modified: 12/27/2024       Submitted by: P ShivHalasyamani]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[OAC Core: Small: Next-Generation Communication and I/O Middleware for HPC and Deep Learning with Smart NICs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel F. Massey</SignBlockName>
+<PO_EMAI>dmassey@nsf.gov</PO_EMAI>
+<PO_PHON>7032925147</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In-network computing technologies, or the ability to offload significant portions of compute, communication, and I/O tasks to the network, have emerged as fundamental requirements to achieve extreme scale performance for end applications in the areas of High-Performance Computing (HPC) and Deep Learning (DL). Unfortunately, current generation communication middleware and applications cannot fully take advantage of these advances due to the lack of appropriate designs in the middleware-level. This leads to the following broad challenges: 1) Can middleware that are “aware” of the computing capabilities of these emerging in-network computing technologies be designed in the most optimized manner possible for HPC and DL applications?, and 2) Can such a middleware be used to beneﬁt end applications in HPC and DL to achieve better performance and portability? A synergistic and comprehensive research plan is proposed to address the above broad challenges with innovative solutions. The proposed framework will be made available to collaborators and the broader scientific community to understand the impact of the proposed innovations on next-generation HPC and DL middleware and applications.  Several graduate and undergraduate students will be trained under this project as future scientists and engineers in HPC. The proposed work will enable curriculum advancements via research in pedagogy for key courses at The Ohio State University. Tutorials and workshops will be organized at various conferences to share the research results and experience with the community. The project is aligned with the National Strategic Computing Initiative (NSCI) to advance US leadership in HPC and the recent initiative of the US Government to maintain leadership in Artificial Intelligence (AI.)&lt;br/&gt;&lt;br/&gt;The proposed innovations include: 1) Designing scalable communication primitives (point-to-point and collectives) for using emerging switch and NIC based in-network computing features, 2) Exploiting in-network computing features to oﬄoad complex and user deﬁned functions, 3) Designing high-performance I/O and storage subsystems using NVMe over Fabrics, 4) Designing enhanced in-network datatype processing schemes for MPI library,  5) Designing and optimizing in-network computing-based solutions for emerging cloud environment, and 6) Carrying out integrated development and evaluation of the proposed designs with a set of representative HPC and DL applications. The proposed designs will be integrated into the widely-used MVAPICH2 library and made available to the public. The project team members will work closely with collaborators to facilitate wide deployment and adoption of released software. The transformative impact of the proposed research is to achieve scalability, performance, and portability for HPC and DL frameworks/applications by leveraging emerging in-network computing technologies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007991</AwardID>
+<Investigator>
+<FirstName>Dhabaleswar</FirstName>
+<LastName>Panda</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dhabaleswar K Panda</PI_FULL_NAME>
+<EmailAddress><![CDATA[panda.2@osu.edu]]></EmailAddress>
+<NSF_ID>000487085</NSF_ID>
+<StartDate>05/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hari</FirstName>
+<LastName>Subramoni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hari Subramoni</PI_FULL_NAME>
+<EmailAddress><![CDATA[subramoni.1@osu.edu]]></EmailAddress>
+<NSF_ID>000704577</NSF_ID>
+<StartDate>05/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName/>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>090Y00</Code>
+<Text>OAC-Advanced Cyberinfrast Core</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~500000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In the last few years, we have witnessed a dramatic growth in the size and scale of High-Performance Computing (HPC) systems as can be observed from the TOP500 list. This unprecedented growth in the size and scale of modern HPC systems can be attributed to the advances taking place in the fields of technologies for computing, communication, accelerators, and storage. This explosive growth has led to unprecedented volumes of data being transferred between various components. Based on these trends, it has now become clear that to reach post-exascale performance for end applications, one must bring compute capabilities to the data instead of the traditional approach of moving the data to the compute elements. This fundamental shift in how large-scale HPC systems and middleware are designed has become popularly known as "in-network computing".</p> <p>While high-performance networks like InfiniBand, Omni-Path, and Slingshot have attempted to offload small subsets of computing tasks to the network, the recent rapid scale-out of HPC systems have made the ability to offload more compute to the network a fundamental need to achieve exaflops performance for end applications. With this target in mind, vendors of high-performance networks have begun to incorporate various mechanisms to offload increasingly larger portions of computational tasks traditionally done on the host to the network. In addition, the modern existing and upcoming HPC systems are equipped with Graphics Processing Units (GPUs) from multiple vendors including NVIDIA, AMD, and Intel. GPUs offer an efficient compute alternative for not only emerging Machine/Deep Learning (ML/DL) workloads, but also for traditional scientific and engineering applications. This performance advantage comes at a fraction of the power costs incurred by traditional processing elements like CPU. Network vendors are also trying to offload communication, including user-defined compute, operations to the network by adding processing capability to network devices like smart network interface cards (Smart NICs). An example is the BlueField Data Processing Unit (DPU) from NVIDIA that provides to ability to "offload" communication operations.</p> <p>In the proposed research, we seek to identify and propose novel solutions at the middleware and application level to leverage these computing capabilities of modern high-performance networks by designing a novel Middleware for In-network Computing (MINC) framework. The MINC framework enables HPC and Deep Learning (DL) applications to take advantage of emerging in-network computing capabilities and features of modern HPC cluster technologies to address grand challenge problems in their respective domains.</p> <p>To tackle the outlined challenges for this project, we have adopted a multi-year/multi-tiered approach that utilizes the underlying Smart-NIC and GPU architectures to design the next-generation middleware and improve scalability of traditional HPC and DL frameworks and applications on systems with state-of-the-art interconnects. Challenges have been addressed along the following directions:</p> <ol> <li>Design efficient point-to-point (one-sided and two-sided) communication operations on CPU/GPU-based clusters with Smart-NICs</li> <li>Design efficient collective communication algorithms (all-to-all, alltoallv, reduce, and allgather) on GPU (NVIDIA, AMD, and Intel) clusters with modern interconnects (InfiniBand, Slingshot, and Omni-Path)</li> <li>Offloading MPI-level communication (one-sided and two-sided) and computation on systems with NVIDIA DPUs</li> <li>Design on-the-fly compression algorithms for GPU-GPU data movement (point-to-point and collectives)</li> <li>Incorporate the above designs into the popular MVAPICH MPI library.</li> <li>Conducting in-depth study of the new designs with a range of computing, GPU, and networking (including Smart-NIC) technologies.</li> <li>Co-designing a set of applications (HPC and ML/DL) with the enhanced MPI library and studying performance and scalability on a set of contemporary multi-petaflop and exascale systems.</li> <li>Deploying the new MPI library on various HPC systems and conducting continuous engagement with their users to improve and optimize the designs and deliver better performance and scalability for a large number of applications.</li> </ol> <p>The results of this research (innovative designs, performance results, benchmarks, etc.) have been made available to the community through the MVAPICH MPI libraries. Multiple releases of these libraries have been made during the project period. More than 54,000 copies of the enhanced MVAPICH MPI libraries have been downloaded from the project's web site during this project period. In each of these releases, features, performance numbers and scalability information have been shared with the MVAPICH user community through mailing lists and the project's web site. In addition to the software distribution, the results have been presented at various conferences and journals and events through Keynote talks, invited talks, tutorials, and hands-on sessions.&nbsp; The research has also led to the thesis for several M.S. and Ph.D. students.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/07/2024<br> Modified by: Dhabaleswar&nbsp;K&nbsp;Panda</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In the last few years, we have witnessed a dramatic growth in the size and scale of High-Performance Computing (HPC) systems as can be observed from the TOP500 list. This unprecedented growth in the size and scale of modern HPC systems can be attributed to the advances taking place in the fields of technologies for computing, communication, accelerators, and storage. This explosive growth has led to unprecedented volumes of data being transferred between various components. Based on these trends, it has now become clear that to reach post-exascale performance for end applications, one must bring compute capabilities to the data instead of the traditional approach of moving the data to the compute elements. This fundamental shift in how large-scale HPC systems and middleware are designed has become popularly known as "in-network computing".   While high-performance networks like InfiniBand, Omni-Path, and Slingshot have attempted to offload small subsets of computing tasks to the network, the recent rapid scale-out of HPC systems have made the ability to offload more compute to the network a fundamental need to achieve exaflops performance for end applications. With this target in mind, vendors of high-performance networks have begun to incorporate various mechanisms to offload increasingly larger portions of computational tasks traditionally done on the host to the network. In addition, the modern existing and upcoming HPC systems are equipped with Graphics Processing Units (GPUs) from multiple vendors including NVIDIA, AMD, and Intel. GPUs offer an efficient compute alternative for not only emerging Machine/Deep Learning (ML/DL) workloads, but also for traditional scientific and engineering applications. This performance advantage comes at a fraction of the power costs incurred by traditional processing elements like CPU. Network vendors are also trying to offload communication, including user-defined compute, operations to the network by adding processing capability to network devices like smart network interface cards (Smart NICs). An example is the BlueField Data Processing Unit (DPU) from NVIDIA that provides to ability to "offload" communication operations.   In the proposed research, we seek to identify and propose novel solutions at the middleware and application level to leverage these computing capabilities of modern high-performance networks by designing a novel Middleware for In-network Computing (MINC) framework. The MINC framework enables HPC and Deep Learning (DL) applications to take advantage of emerging in-network computing capabilities and features of modern HPC cluster technologies to address grand challenge problems in their respective domains.   To tackle the outlined challenges for this project, we have adopted a multi-year/multi-tiered approach that utilizes the underlying Smart-NIC and GPU architectures to design the next-generation middleware and improve scalability of traditional HPC and DL frameworks and applications on systems with state-of-the-art interconnects. Challenges have been addressed along the following directions:  Design efficient point-to-point (one-sided and two-sided) communication operations on CPU/GPU-based clusters with Smart-NICs Design efficient collective communication algorithms (all-to-all, alltoallv, reduce, and allgather) on GPU (NVIDIA, AMD, and Intel) clusters with modern interconnects (InfiniBand, Slingshot, and Omni-Path) Offloading MPI-level communication (one-sided and two-sided) and computation on systems with NVIDIA DPUs Design on-the-fly compression algorithms for GPU-GPU data movement (point-to-point and collectives) Incorporate the above designs into the popular MVAPICH MPI library. Conducting in-depth study of the new designs with a range of computing, GPU, and networking (including Smart-NIC) technologies. Co-designing a set of applications (HPC and ML/DL) with the enhanced MPI library and studying performance and scalability on a set of contemporary multi-petaflop and exascale systems. Deploying the new MPI library on various HPC systems and conducting continuous engagement with their users to improve and optimize the designs and deliver better performance and scalability for a large number of applications.    The results of this research (innovative designs, performance results, benchmarks, etc.) have been made available to the community through the MVAPICH MPI libraries. Multiple releases of these libraries have been made during the project period. More than 54,000 copies of the enhanced MVAPICH MPI libraries have been downloaded from the project's web site during this project period. In each of these releases, features, performance numbers and scalability information have been shared with the MVAPICH user community through mailing lists and the project's web site. In addition to the software distribution, the results have been presented at various conferences and journals and events through Keynote talks, invited talks, tutorials, and hands-on sessions. The research has also led to the thesis for several M.S. and Ph.D. students.        Last Modified: 11/07/2024       Submitted by: DhabaleswarKPanda]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

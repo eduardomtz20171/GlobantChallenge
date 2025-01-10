@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Interrogating dense anisotropic colloidal suspensions with SMR-TIRM]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/02/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>332065.00</AwardTotalIntnAmount>
+<AwardAmount>378500</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shahab Shojaei-Zadeh</SignBlockName>
+<PO_EMAI>sshojaei@nsf.gov</PO_EMAI>
+<PO_PHON>7032928045</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nanometer to micrometer scale "colloidal" particles are found in consumer products, coatings, and nature. For example, paints, inks, and lubricants contain particles of this size that are designed to be well-dispersed in a liquid.  However, particles may deposit or aggregate in ways that diminish performance. It is difficult to predict these unfavorable processes for particles that are non-spherical or have non-uniform surface chemistry. The principal investigator will develop and apply an experimental technique to reveal the physical and chemical forces controlling the deposition or aggregation of these complex particles. The results should transform our understanding of advanced coatings, multiphase materials, and biofilm adhesion. In addition, the PI will form teams of high school, undergraduate, and graduate students to explore the world of consumer products, textiles, cosmetics, and food through an experiential summer program. The program consists of laboratory and in-class experiences that will culminate in the development of a college-level course, teaching tools, and case studies to be disseminated throughout Ohio.  &lt;br/&gt;&lt;br/&gt;This CAREER award integrates research and educational objectives to transform our understanding of how anisotropic colloidal particles interact with interfaces for the processing of coatings, production of multiphase materials, and understanding of synthetic and biological active colloids.  The research objective of this work is to measure conservative and non-conservative surface interactions for dense suspensions of colloids with anisotropy in both shape and surface chemistry. The current bottleneck to completing this work is that existing surface interaction measurement techniques are either not suitable for such systems or are not sufficiently sensitive. The PI will develop a tool called Scattering Morphology Resolved Total Internal Reflection Microscopy (SMR-TIRM). SMR-TIRM works by utilizing fluctuations in the morphology of evanescent wave scattering from a colloidal particle, rather than the integrated intensity fluctuations. The PI will use SMR-TIRM to quantify the nature of symmetry breaking in driven colloids and the dependence of surface interactions on crowding of anisotropic particles near rigid and non-rigid interfaces. This research will provide crucial information for how anisotropic colloidal particles interact with surfaces. The education objective is to build an experiential program that integrates university activities with those at an on-campus STEM high school, which is part of the Cleveland Metropolitan School District. The theme of the program will be applications of Colloid and Interface Science in the design of chemical products. The program will consist of a college-level course in Chemical Product Design, a project based experiential learning program for high school students, and a research experience fostering multi-level project teams of high school students, undergraduates, and graduate students housed in the new shared Soft Materials Lab at Cleveland State University.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2023525</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Wirth</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher L Wirth</PI_FULL_NAME>
+<EmailAddress><![CDATA[wirth@case.edu]]></EmailAddress>
+<NSF_ID>000681234</NSF_ID>
+<StartDate>03/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Case Western Reserve University]]></Name>
+<CityName>CLEVELAND</CityName>
+<ZipCode>441064901</ZipCode>
+<PhoneNumber>2163684510</PhoneNumber>
+<StreetAddress><![CDATA[10900 EUCLID AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJMKEF7EJW69</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CASE WESTERN RESERVE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Case Western Reserve University]]></Name>
+<CityName/>
+<StateCode>OH</StateCode>
+<ZipCode>441064901</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>141500</Code>
+<Text>PMP-Particul&amp;MultiphaseProcess</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>150400</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~244609</FUND_OBLG>
+<FUND_OBLG>2019~31185</FUND_OBLG>
+<FUND_OBLG>2020~56271</FUND_OBLG>
+<FUND_OBLG>2021~46435</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Over the course of several years and with the support of this NSF CAREER award, this investigation advanced knowledge into how micrometer scale &lsquo;colloidal&rsquo; particles interact with a nearby boundary, with a specific emphasis on particles that are anisotropic. &nbsp;&lsquo;Anisotropic&rsquo; colloids, or those having some directional dependent surface property, are regularly found in consumer products, coatings, industrial and biomedical applications (see Figure 1). With this award, theory, simulations, and experiments were used to probe these systems, train students at multiple educational levels, and disseminate this work to both technical and non-technical communities. Specifically, the team discovered (i) that particle size and cap thicknesses of Janus particles can lead to strong orientational quenching occurs for a Janus particle (see Figure 2), (ii) the necessary parameters for running Total Internal Reflection Microscopy experiments, (iii) a procedure for calculating the potential energy landscape from position and orientation observations, (iv) a semi-analytical tool to predict the potential energy landscape of a Janus particle, (v) how Janus particle cap thickness depended on contour position, (vi) via a combined experimental and computational effort that both the azimuthal and polar angles of a shape anisotropic colloidal particle could be resolved from scattering morphology parameters (see Figure 3), (vii) &nbsp;a process that in principle can interpret the morphology to uniquely determine the separation distance, the azimuthal angle, and the polar angle of a geometrically anisotropic particle, and (viii) how surface interactions and engineered peptides can be used to modulate the propulsion speed of active particles. In addition, several educational and outreach activities were developed, implemented, and continue in the area of colloid and interface science. The work has been disseminated widely in more than 50 presentations and currently 15 journal articles.&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/18/2024<br> Modified by: Christopher&nbsp;L&nbsp;Wirth</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2023525/2023525_10537267_1734547167316_Figure_2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2023525/2023525_10537267_1734547167316_Figure_2--rgov-800width.jpg" title="Predicted potential energy landscapes for Janus particles"><img src="/por/images/Reports/POR/2024/2023525/2023525_10537267_1734547167316_Figure_2--rgov-66x44.jpg" alt="Predicted potential energy landscapes for Janus particles"></a> <div class="imageCaptionContainer"> <div class="imageCaption">These data show the influence of cap weight on the orientational quenching of a Janus particle.</div> <div class="imageCredit">Christopher Wirth</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Christopher&nbsp;L&nbsp;Wirth <div class="imageTitle">Predicted potential energy landscapes for Janus particles</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2023525/2023525_10537267_1734546933882_Figure_1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2023525/2023525_10537267_1734546933882_Figure_1--rgov-800width.jpg" title="Anisotropic colloids"><img src="/por/images/Reports/POR/2024/2023525/2023525_10537267_1734546933882_Figure_1--rgov-66x44.jpg" alt="Anisotropic colloids"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Anisotropic colloidal particles found in applications across health, agriculture, coatings, food, batteries, and bioprocessing</div> <div class="imageCredit">Christopher Wirth</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Christopher&nbsp;L&nbsp;Wirth <div class="imageTitle">Anisotropic colloids</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2023525/2023525_10537267_1734547654365_Figure_3--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2023525/2023525_10537267_1734547654365_Figure_3--rgov-800width.jpeg" title="Scattering morphology resolved total internal reflection microscopy (SMR-TIRM)."><img src="/por/images/Reports/POR/2024/2023525/2023525_10537267_1734547654365_Figure_3--rgov-66x44.jpeg" alt="Scattering morphology resolved total internal reflection microscopy (SMR-TIRM)."></a> <div class="imageCaptionContainer"> <div class="imageCaption">(A) TIRM setup. (B) Scattering morphology is extracted by fitting a 2D Gaussian function to the scattering. (C) Spherical particle produces a symmetrical scattering morphology.(D) Ellipsoidal particle produces an elliptical scattering morphology. (E) Diagrams showing ellipsoidal particle.</div> <div class="imageCredit">Christopher Wirth</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Christopher&nbsp;L&nbsp;Wirth <div class="imageTitle">Scattering morphology resolved total internal reflection microscopy (SMR-TIRM).</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Over the course of several years and with the support of this NSF CAREER award, this investigation advanced knowledge into how micrometer scale colloidal particles interact with a nearby boundary, with a specific emphasis on particles that are anisotropic. Anisotropic colloids, or those having some directional dependent surface property, are regularly found in consumer products, coatings, industrial and biomedical applications (see Figure 1). With this award, theory, simulations, and experiments were used to probe these systems, train students at multiple educational levels, and disseminate this work to both technical and non-technical communities. Specifically, the team discovered (i) that particle size and cap thicknesses of Janus particles can lead to strong orientational quenching occurs for a Janus particle (see Figure 2), (ii) the necessary parameters for running Total Internal Reflection Microscopy experiments, (iii) a procedure for calculating the potential energy landscape from position and orientation observations, (iv) a semi-analytical tool to predict the potential energy landscape of a Janus particle, (v) how Janus particle cap thickness depended on contour position, (vi) via a combined experimental and computational effort that both the azimuthal and polar angles of a shape anisotropic colloidal particle could be resolved from scattering morphology parameters (see Figure 3), (vii) a process that in principle can interpret the morphology to uniquely determine the separation distance, the azimuthal angle, and the polar angle of a geometrically anisotropic particle, and (viii) how surface interactions and engineered peptides can be used to modulate the propulsion speed of active particles. In addition, several educational and outreach activities were developed, implemented, and continue in the area of colloid and interface science. The work has been disseminated widely in more than 50 presentations and currently 15 journal articles.         Last Modified: 12/18/2024       Submitted by: ChristopherLWirth]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

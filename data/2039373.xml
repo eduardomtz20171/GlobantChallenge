@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SaTC: CORE: Medium: Toward Age-Aware Continuous Authentication on Personal Computing Devices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>261966.00</AwardTotalIntnAmount>
+<AwardAmount>287406</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Current software for user authentication relies on the user to directly initiate some interaction (i.e., active authentication). However, active authentication systems are not accessible to individuals across all age groups. Continuous authentication schemes transparently observe a user's natural multimodal behaviors to leverage all possible signals as input for authentication, and hence do not require explicit authentication interactions to be initiated by the user, and are thus a promising framework for authentication by individuals of different age groups. This project's novelties are 1) to advance understanding of how individuals of different age groups use and perceive existing authentication methods, especially concerning users' mental models and acceptance of monitoring for the purposes of continuous authentication, and 2) to collect and analyze a variety of user signals in multiple behavioral and physiological modalities for age-aware continuous authentication on personal computing devices. This research also informs the design of continuous authentication interactions in other contexts such as public spaces and other smart environments, in which continuous authentication might be useful. &lt;br/&gt;&lt;br/&gt;The research includes three phases. (1) Elicit the mental models multi-generational users have of what it means to authenticate to a system, if and when they expect the system to re-authenticate them to confirm their identity as they continue to interact, and if and how they expect to receive feedback of authentication attempts. (2) Produce a novel dataset of behavioral and physiological data, such as touch gestures, keystroke dynamics, heart-rate variability, and skin temperature, through a series of data collection sessions wherein individuals of different age groups will be recruited to complete a diverse set of tasks. (3) Develop fundamental knowledge of age-aware continuous authentication through the analysis of these data using state-of-the-art machine and deep learning techniques. This project broadens participation in computing by involving students underrepresented in STEM and through K-12 outreach.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/16/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>03/08/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039373</AwardID>
+<Investigator>
+<FirstName>Shaun</FirstName>
+<LastName>Canavan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shaun Canavan</PI_FULL_NAME>
+<EmailAddress><![CDATA[scanavan@usf.edu]]></EmailAddress>
+<NSF_ID>000749774</NSF_ID>
+<StartDate>03/16/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tempestt</FirstName>
+<LastName>Neal</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tempestt Neal</PI_FULL_NAME>
+<EmailAddress><![CDATA[tjneal@usf.edu]]></EmailAddress>
+<NSF_ID>000782026</NSF_ID>
+<StartDate>03/16/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of South Florida]]></Name>
+<CityName>TAMPA</CityName>
+<ZipCode>336205800</ZipCode>
+<PhoneNumber>8139742897</PhoneNumber>
+<StreetAddress><![CDATA[4202 E FOWLER AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NKAZLXLL7Z91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTH FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Florida]]></Name>
+<CityName>Tampa</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>336172008</ZipCode>
+<StreetAddress><![CDATA[4019 E. Fowler Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>115E</Code>
+<Text>RESEARCH EXP FOR TEACHERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7218</Code>
+<Text>RET SUPP-Res Exp for Tchr Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~277806</FUND_OBLG>
+<FUND_OBLG>2023~9600</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1">The motivation behind this project was to address the growing need for secure and accessible user authentication systems. Traditional authentication methods, such as passwords and facial recognition, often fail to support users across different age groups. The project aimed to design and evaluate age-aware continuous authentication (CA) models that use behavioral and physiological biometric data, ensuring inclusivity and effectiveness for all age groups. By focusing on user-centric design and understanding users' perceptions and interactions with CA, the research sought to enhance data protection and privacy, especially in home environments where devices are frequently shared.&nbsp;</p> <p class="p1">The study aimed to address research questions related to the use and perception of authentication methods, concerns about CA in at-home contexts, and the effectiveness of various behavioral and physiological modalities for CA. The plan included focus groups and surveys to gather insights, followed by data collection sessions involving typical at-home activities to obtain behavioral and physiological data. An exhaustive literature review was also conducted to explore the state of the field regarding users' needs, expectations, and abilities related to security and authentication, particularly across different age groups, including children and older adults. This review identified a significant gap in understanding age-related differences in supporting users within the security and privacy domain.&nbsp;</p> <p class="p1">The study&rsquo;s data collection resulted in the creation of the Multi-ID and Context-Based CA Datasets, which encompass comprehensive collections of input dynamics and physiological data from 32 participants with diverse ages and ethnic backgrounds. The participants included 3 individuals aged 17 and under, 18 aged 18 to 29, 4 aged 30 to 49, and 7 aged 50 or older. They engaged in various tasks across three lab sessions using a Lenovo workstation and a OnePlus smartphone, with data passively collected throughout. Tasks included essay writing, password entry, recipe search, mock credential generation, and text messaging, capturing both fixed and free-form keystroke, mouse, and touch dynamics (Multi-ID Dataset). The Context-Based CA Dataset includes data from wearable sensors and cameras, recording physiological signals such as accelerometer data, skin temperature, heart rate, electrodermal activity, and facial expressions. Participants viewed videos designed to elicit specific emotions (Sad, Content, Disgust, Happy) and self-reported their emotional responses using a custom Android app. Each session, lasting approximately 20 minutes, was spaced an average of 13 days apart, and participants received $35 e-gift cards per session.&nbsp;</p> <p class="p1">We also developed a continuous authentication scheme utilizing the Context-Based CA Dataset. We created a one-vs-all classifier for each user, using electrical signals and images independently. For electrical signals, we trained Explainable Boosting Machines (EBM), which strike a balance between the expressiveness of black-box models and the interpretability of linear models. For image-based authentication, we employed a Convolutional Neural Network (CNN) pretrained on the VGG Face dataset to extract features from cropped images. These features were then processed by a Multi-Layer Perceptron (MLP) and optimized using a Supervised Contrastive Loss, which maximized the distance between features of different classes and minimized the distance between features of the same class. During testing, the CNN backbone was frozen, and the latent features were fed into an MLP classifier to make authentication decisions. For electrical signals, the data was split session-wise, with sessions 1 and 2 used for training and session 3 for validation, ensuring robustness against long-term persistence of signals. The results showed that the context-based split outperformed the session-wise split, especially in precision, indicating a low false positive rate. Key features contributing to model performance were identified, with aggregate linear trend and frequency features being the most significant. The image-based system showed improved performance over electrical signals, benefiting from the semantic information in images. However, there was a trade-off between performance and latency, with image processing being more computationally intensive. Visualizations of the deep learning model's latent output using UMAP embeddings demonstrated clear segregation between genuine and imposter users, further validating the system's effectiveness. Overall, the proposed system achieved high accuracy and reliability in user authentication, with images providing superior performance compared to electrical signals.</p> <p class="p1">This project also supported a summer research experience to develop threat modeling scenarios relatable to high school students to enhance their understanding of Identity and Access Management (IAM) technologies. Through group brainstorming, the project identified over 10 gaming scenarios&nbsp;to improve student engagement and learning.&nbsp;</p> <p class="p1">The broader impacts of this project at the University of South Florida included the training and mentorship of 11 students (2 graduate students and 9 undergraduate student) and one K-12 teacher, including five students who identify as female and two students who identifies as Black. These students learned relevant research methods and procedures, including obtaining human subjects approval and ethically designed data collection, machine and deep learning, and group brainstorming techniques, as well as literature reviews, cybersecurity research, academic writing, and design methods. The project also contributed two datasets to the research community to further drive innovation.</p><br> <p>  Last Modified: 08/03/2024<br> Modified by: Tempestt&nbsp;Neal</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The motivation behind this project was to address the growing need for secure and accessible user authentication systems. Traditional authentication methods, such as passwords and facial recognition, often fail to support users across different age groups. The project aimed to design and evaluate age-aware continuous authentication (CA) models that use behavioral and physiological biometric data, ensuring inclusivity and effectiveness for all age groups. By focusing on user-centric design and understanding users' perceptions and interactions with CA, the research sought to enhance data protection and privacy, especially in home environments where devices are frequently shared.   The study aimed to address research questions related to the use and perception of authentication methods, concerns about CA in at-home contexts, and the effectiveness of various behavioral and physiological modalities for CA. The plan included focus groups and surveys to gather insights, followed by data collection sessions involving typical at-home activities to obtain behavioral and physiological data. An exhaustive literature review was also conducted to explore the state of the field regarding users' needs, expectations, and abilities related to security and authentication, particularly across different age groups, including children and older adults. This review identified a significant gap in understanding age-related differences in supporting users within the security and privacy domain.   The studys data collection resulted in the creation of the Multi-ID and Context-Based CA Datasets, which encompass comprehensive collections of input dynamics and physiological data from 32 participants with diverse ages and ethnic backgrounds. The participants included 3 individuals aged 17 and under, 18 aged 18 to 29, 4 aged 30 to 49, and 7 aged 50 or older. They engaged in various tasks across three lab sessions using a Lenovo workstation and a OnePlus smartphone, with data passively collected throughout. Tasks included essay writing, password entry, recipe search, mock credential generation, and text messaging, capturing both fixed and free-form keystroke, mouse, and touch dynamics (Multi-ID Dataset). The Context-Based CA Dataset includes data from wearable sensors and cameras, recording physiological signals such as accelerometer data, skin temperature, heart rate, electrodermal activity, and facial expressions. Participants viewed videos designed to elicit specific emotions (Sad, Content, Disgust, Happy) and self-reported their emotional responses using a custom Android app. Each session, lasting approximately 20 minutes, was spaced an average of 13 days apart, and participants received $35 e-gift cards per session.   We also developed a continuous authentication scheme utilizing the Context-Based CA Dataset. We created a one-vs-all classifier for each user, using electrical signals and images independently. For electrical signals, we trained Explainable Boosting Machines (EBM), which strike a balance between the expressiveness of black-box models and the interpretability of linear models. For image-based authentication, we employed a Convolutional Neural Network (CNN) pretrained on the VGG Face dataset to extract features from cropped images. These features were then processed by a Multi-Layer Perceptron (MLP) and optimized using a Supervised Contrastive Loss, which maximized the distance between features of different classes and minimized the distance between features of the same class. During testing, the CNN backbone was frozen, and the latent features were fed into an MLP classifier to make authentication decisions. For electrical signals, the data was split session-wise, with sessions 1 and 2 used for training and session 3 for validation, ensuring robustness against long-term persistence of signals. The results showed that the context-based split outperformed the session-wise split, especially in precision, indicating a low false positive rate. Key features contributing to model performance were identified, with aggregate linear trend and frequency features being the most significant. The image-based system showed improved performance over electrical signals, benefiting from the semantic information in images. However, there was a trade-off between performance and latency, with image processing being more computationally intensive. Visualizations of the deep learning model's latent output using UMAP embeddings demonstrated clear segregation between genuine and imposter users, further validating the system's effectiveness. Overall, the proposed system achieved high accuracy and reliability in user authentication, with images providing superior performance compared to electrical signals.   This project also supported a summer research experience to develop threat modeling scenarios relatable to high school students to enhance their understanding of Identity and Access Management (IAM) technologies. Through group brainstorming, the project identified over 10 gaming scenariosto improve student engagement and learning.   The broader impacts of this project at the University of South Florida included the training and mentorship of 11 students (2 graduate students and 9 undergraduate student) and one K-12 teacher, including five students who identify as female and two students who identifies as Black. These students learned relevant research methods and procedures, including obtaining human subjects approval and ethically designed data collection, machine and deep learning, and group brainstorming techniques, as well as literature reviews, cybersecurity research, academic writing, and design methods. The project also contributed two datasets to the research community to further drive innovation.     Last Modified: 08/03/2024       Submitted by: TempesttNeal]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

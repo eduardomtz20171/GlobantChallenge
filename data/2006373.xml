@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:CNS Core: Small: Towards Efficient Cloud Services]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>249885.00</AwardTotalIntnAmount>
+<AwardAmount>265885</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Cloud computing frameworks enable a wide range of services while sharing computation resources and infrastructure costs. To achieve these benefits, cloud computing frameworks rely on layers of abstractions to reduce the complexity of distributed and heterogeneous computational infrastructure. Abstractions hide resource management complexities and improve programmability. However, abstractions make cloud frameworks less observable, resulting in various forms of inefficiencies. This project will address the challenges of practical cloud monitoring techniques to guide cloud application development and system design.&lt;br/&gt;&lt;br/&gt;This project will explore the inefficiency patterns in cloud computing infrastructures and applications. More specifically, it will provide novel measurement techniques to enable monitoring these inefficiencies across the cloud layers of abstraction. Additionally, the project will develop tools that will provide actionable insights for high-performance cloud frameworks and application development. This project has three thrusts. First, it will measure language-level abstractions for intra-application inefficiencies. Second, it will explore the inefficient communication patterns among microservices for inter-service optimization. Third, it will develop tools to analyze inefficiencies in the entire stack of cloud software layers of abstraction.&lt;br/&gt;&lt;br/&gt;This project will bridge the knowledge gap between application developers and system designers to provide more efficient cloud environments. It will advance the state-of-the-art cloud monitoring techniques and address the current and future challenges in the cloud computing community. The tools developed from this project will have broad interest from industry, research institutes, and laboratories for efficient code execution and high system throughput. Furthermore, the project will disseminate the obtained knowledge through hands-on training sessions and tutorials. Finally, the project will facilitate curriculum development with a particular focus on involving minority and under-represented students.&lt;br/&gt;&lt;br/&gt;The project will maintain a website at https://www.probir.info/cloudprof. The website will host all the project outcomes, including the publications, open-source code, toolkits, datasets, documentation, and tutorials. The website will be accessible to the public throughout the project lifetime and beyond.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006373</AwardID>
+<Investigator>
+<FirstName>Probir</FirstName>
+<LastName>Roy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Probir Roy</PI_FULL_NAME>
+<EmailAddress><![CDATA[probirr@umich.edu]]></EmailAddress>
+<NSF_ID>000810250</NSF_ID>
+<StartDate>07/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan- Dearborn]]></Name>
+<CityName>Dearborn</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481282406</ZipCode>
+<StreetAddress><![CDATA[4901 Evergreen]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>735400</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~249885</FUND_OBLG>
+<FUND_OBLG>2023~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-a6bae9f8-7fff-9f4d-cddc-5bf92046315e"> <p dir="ltr"><span>The project "Towards Efficient Cloud Services" achieved significant outcomes, aligning with its intellectual merit and broader impacts.</span></p> <p dir="ltr">&nbsp;</p> <p dir="ltr"><span>Intellectual Merit:</span></p> <p dir="ltr"><span>The project introduced three key innovations:</span></p> <p dir="ltr">&nbsp;</p> <p dir="ltr"><span>1. Novel Measurement Techniques: Advanced profiling tools, including ColdSpy and MicroProf, were developed to identify inefficiencies across different layers of the cloud environment. ColdSpy focuses on detecting unnecessary library initializations in serverless applications, achieving up to a 2.26&times; reduction in cold-start times and a 1.51&times; decrease in memory usage. MicroProf identifies and optimizes unnecessary data transfers in microservice communications, leading to a 3.25&times; performance speedup. Our research on secure performance metrics for the Last Level Cache (LLC) introduced a novel approach to balancing security and performance, mitigating side-channel vulnerabilities while optimizing cache usage. These tools provided new insights into performance bottlenecks, enhancing the efficiency of cloud services.</span></p> <p dir="ltr">&nbsp;</p> <p dir="ltr"><span>2. Actionable Insights: Using the developed tools, we identified and addressed common inefficiencies in cloud software stacks. We further conducted an empirical study of high-performance computing (HPC) performance bugs, which analyzed real-world software repositories to uncover patterns and common challenges in performance issues. This study offers valuable insights into current inefficiency patterns and optimization opportunities. The study will further guide the development of future optimization tools.</span></p> <p dir="ltr">&nbsp;</p> <p dir="ltr"><span>3. Practical Applicability: The tools developed during this project, including ColdSpy, MicroProf, and PcMiner, were released as open-source software, ensuring ongoing use and improvement by the community. PcMiner mines performance-related commits from repositories, facilitating the identification of performance bugs at scale and enhancing understanding of software performance issues. These tools are practical solutions that can be applied across various cloud environments, benefiting developers and researchers.</span></p> <p dir="ltr">&nbsp;</p> <p dir="ltr"><span>Broader Impacts:</span></p> <p dir="ltr"><span>The broader impacts of the project are substantial and wide-ranging:</span></p> <p dir="ltr">&nbsp;</p> <p dir="ltr"><span>1. Educational Contributions: The project was integrated into academic curricula, providing hands-on training for students in cloud computing and system performance. Students were actively involved in the research, co-authoring papers, and gaining practical skills in performance optimization. This hands-on experience has equipped future engineers and researchers with the expertise needed to tackle real-world performance challenges.</span></p> <p dir="ltr">&nbsp;</p> <p dir="ltr"><span>2. Widespread Adoption and Collaboration: The open-source nature of the developed tools has ensured accessibility for a wide range of users, including industry, research institutes, and Department of Energy (DoE) laboratories. The practical benefits of tools like ColdSpy and MicroProf have sparked interest from these sectors, fostering collaboration and further research into efficient cloud services.</span></p> <p dir="ltr">&nbsp;</p> <p dir="ltr"><span>3. Enhanced System Performance: The tools and findings from this project will lead to improved cloud service performance, reducing latency and resource consumption. By enhancing the efficiency of cloud applications, this project supports more sustainable and eco-friendly computing practices, addressing concerns about the environmental impact of large-scale data centers.</span></p> <p dir="ltr">&nbsp;</p> <p dir="ltr"><span>In summary, this project has delivered innovative tools and techniques that improve cloud service performance, offer practical insights, and promote broader educational and industry collaboration. The outcomes have set the stage for future advancements in cloud computing efficiency.</span></p> <div><span><br /></span></div> </span></p> <p>&nbsp;</p><br> <p>  Last Modified: 10/18/2024<br> Modified by: Probir&nbsp;Roy</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     The project "Towards Efficient Cloud Services" achieved significant outcomes, aligning with its intellectual merit and broader impacts.      Intellectual Merit:   The project introduced three key innovations:      1. Novel Measurement Techniques: Advanced profiling tools, including ColdSpy and MicroProf, were developed to identify inefficiencies across different layers of the cloud environment. ColdSpy focuses on detecting unnecessary library initializations in serverless applications, achieving up to a 2.26 reduction in cold-start times and a 1.51 decrease in memory usage. MicroProf identifies and optimizes unnecessary data transfers in microservice communications, leading to a 3.25 performance speedup. Our research on secure performance metrics for the Last Level Cache (LLC) introduced a novel approach to balancing security and performance, mitigating side-channel vulnerabilities while optimizing cache usage. These tools provided new insights into performance bottlenecks, enhancing the efficiency of cloud services.      2. Actionable Insights: Using the developed tools, we identified and addressed common inefficiencies in cloud software stacks. We further conducted an empirical study of high-performance computing (HPC) performance bugs, which analyzed real-world software repositories to uncover patterns and common challenges in performance issues. This study offers valuable insights into current inefficiency patterns and optimization opportunities. The study will further guide the development of future optimization tools.      3. Practical Applicability: The tools developed during this project, including ColdSpy, MicroProf, and PcMiner, were released as open-source software, ensuring ongoing use and improvement by the community. PcMiner mines performance-related commits from repositories, facilitating the identification of performance bugs at scale and enhancing understanding of software performance issues. These tools are practical solutions that can be applied across various cloud environments, benefiting developers and researchers.      Broader Impacts:   The broader impacts of the project are substantial and wide-ranging:      1. Educational Contributions: The project was integrated into academic curricula, providing hands-on training for students in cloud computing and system performance. Students were actively involved in the research, co-authoring papers, and gaining practical skills in performance optimization. This hands-on experience has equipped future engineers and researchers with the expertise needed to tackle real-world performance challenges.      2. Widespread Adoption and Collaboration: The open-source nature of the developed tools has ensured accessibility for a wide range of users, including industry, research institutes, and Department of Energy (DoE) laboratories. The practical benefits of tools like ColdSpy and MicroProf have sparked interest from these sectors, fostering collaboration and further research into efficient cloud services.      3. Enhanced System Performance: The tools and findings from this project will lead to improved cloud service performance, reducing latency and resource consumption. By enhancing the efficiency of cloud applications, this project supports more sustainable and eco-friendly computing practices, addressing concerns about the environmental impact of large-scale data centers.      In summary, this project has delivered innovative tools and techniques that improve cloud service performance, offer practical insights, and promote broader educational and industry collaboration. The outcomes have set the stage for future advancements in cloud computing efficiency.           Last Modified: 10/18/2024       Submitted by: ProbirRoy]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

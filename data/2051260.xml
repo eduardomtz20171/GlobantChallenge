@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ERASE-PFAS: Electrocatalytic Hydrodefluorination of PFAS Using Molecular, Metal-Free Catalysts]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>402387.00</AwardTotalIntnAmount>
+<AwardAmount>402387</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+<PO_EMAI>krockne@nsf.gov</PO_EMAI>
+<PO_PHON>7032927293</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Per- and poly-fluoroalkyl substances (PFAS) are a family of thousands of compounds that have been widely used due to their extreme stability and ease of production. The atmospheric lifetime of PFAS can exceed 2000 years, and they have been widely detected in food, consumer products, drinking water, and living organisms. The toxicity, persistence, and widespread distribution of PFAS has created an urgent need for low cost and effective treatment technologies. The objective of this research project is to address this need through the development of metal-free catalysts that degrade PFAS to non-toxic compounds. The catalysts will be modified to “fine tune” the physical and electrochemical properties to achieve optimal PFAS destruction. An advantage of this approach is that electricity drives the degradation reaction, removing the need for adding reducing chemicals. Successful completion of this project will benefit society through the development of PFAS treatment technology. This project will engage students and the general public in research to promote understanding of chemistry for sustainability. The outcomes of these highly integrated research and education activities address long-standing environmental challenges. They also will provide a rich platform for educating the next-generation STEM workforce, while increasing the scientific literacy of the general public.&lt;br/&gt;&lt;br/&gt;Widespread contamination of water supplies with PFAS has created an urgent national need for effective and low cost PFAS treatment technology. The goal of this proposal is to address this need through a multi-stage research project to design, synthesize, and evaluate the catalytic mechanisms and performance of molecular, metal-free catalysts for electrocatalytic hydrodefluorination of PFAS. This process uses outer functional spheres of molecular C-, H-, O-, and N-based catalysts to enable and enhance catalytic activity, selectivity, and stability. The knowledge generated from this research will be used to develop design principles for optimizing PFAS hydrodefluorination. Successful completion of this research holds great promise for the development of energy‐efficient and environmentally benign PFAS treatment technology. Outreach activities will focus on educating K-12 students from underserved communities about how chemistry can promote sustainability and encourage them to pursue careers in STEM. An annual sustainability-themed day at the Cincinnati Museum Center will inform the public about how fundamental research leads to science and technology that enhances their daily lives.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/20/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051260</AwardID>
+<Investigator>
+<FirstName>Jianbing</FirstName>
+<LastName>Jiang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jianbing Jiang</PI_FULL_NAME>
+<EmailAddress><![CDATA[jianbing.jiang@uc.edu]]></EmailAddress>
+<NSF_ID>000813212</NSF_ID>
+<StartDate>07/20/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Cincinnati Main Campus]]></Name>
+<CityName>CINCINNATI</CityName>
+<ZipCode>452202872</ZipCode>
+<PhoneNumber>5135564358</PhoneNumber>
+<StreetAddress><![CDATA[2600 CLIFTON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DZ4YCZ3QSPR5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CINCINNATI UNIV OF</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DZ4YCZ3QSPR5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Cincinnati Main Campus]]></Name>
+<CityName>Cincinnait</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>452210172</ZipCode>
+<StreetAddress><![CDATA[312 College Dr.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144000</Code>
+<Text>EnvE-Environmental Engineering</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>40XX</Code>
+<Name>NSF TRUST FUND</Name>
+<APP_SYMB_ID>048960</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>4081XXXXDB</Code>
+<Name><![CDATA[NSF TRUST FUND]]></Name>
+<FUND_SYMB_ID>048960</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~402387</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Poly- and per-fluoroalkyl substances (PFAS) are a family of over 3000 man-made compounds that have been widely used due to their unique properties, such as thermal stability and ease of production. PFAS have been detected in food, commercial household products, workplace, drinking water, and even living organisms. The atmospheric lifetime of PFAS can exceed 2000 years. The toxicity, persistence, and ubiquity of PFAS necessitate the exploration of simple yet efficient ways for the complete remediation of this family of compounds. In this research project, the Jiang group at the University of Cincinnati developed electrocatalysts to facilitate the conversion of PFAS to small, environmentally friendly, non-fluorinated compounds. Instead of using reducing chemicals, electricity was used as the driving force for the chemical transformations. Initially, perfluorooctanoic acid (PFOA) was electrochemically decomposed into fluoride under ambient conditions. A molecular copper electrocatalyst was used to assist in the degradation of PFOA up to 93% with a 99% defluorination rate within 4 h of cathodic controlled-current electrolysis. The substrate was then expanded to include six PFAS compounds with structural diversity.</p> <p>Electrochemical oxidation has been demonstrated to uniquely degrade PFOA. The Jiang group presented a molecular copper (I) complex in a heterogeneous aqueous system capable of degrading PFOA by up to 84% with a defluorination rate of 91% through anodic oxidation using controlled current electrolysis. Furthermore, they utilized mass spectroscopy to identify the degradation products from the electrochemical oxidation of PFOA. The shortening of the PFOA chain results in reduced toxicity due to decreased persistence. Thus, the findings of this study show that the copper complex is an efficient catalyst for the degradation and defluorination of PFOA.</p> <p>This project also engaged a variety of students and the general public in the activities that promote their understanding of chemistry for sustainability using the findings from the catalysis research. The outcomes of these highly integrated research and education activities address long-standing environmental challenges and also provide a rich platform for educating the next-generation STEM workforce and the general public about how chemistry promotes sustainability.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/06/2024<br> Modified by: Jianbing&nbsp;Jiang</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Poly- and per-fluoroalkyl substances (PFAS) are a family of over 3000 man-made compounds that have been widely used due to their unique properties, such as thermal stability and ease of production. PFAS have been detected in food, commercial household products, workplace, drinking water, and even living organisms. The atmospheric lifetime of PFAS can exceed 2000 years. The toxicity, persistence, and ubiquity of PFAS necessitate the exploration of simple yet efficient ways for the complete remediation of this family of compounds. In this research project, the Jiang group at the University of Cincinnati developed electrocatalysts to facilitate the conversion of PFAS to small, environmentally friendly, non-fluorinated compounds. Instead of using reducing chemicals, electricity was used as the driving force for the chemical transformations. Initially, perfluorooctanoic acid (PFOA) was electrochemically decomposed into fluoride under ambient conditions. A molecular copper electrocatalyst was used to assist in the degradation of PFOA up to 93% with a 99% defluorination rate within 4 h of cathodic controlled-current electrolysis. The substrate was then expanded to include six PFAS compounds with structural diversity.   Electrochemical oxidation has been demonstrated to uniquely degrade PFOA. The Jiang group presented a molecular copper (I) complex in a heterogeneous aqueous system capable of degrading PFOA by up to 84% with a defluorination rate of 91% through anodic oxidation using controlled current electrolysis. Furthermore, they utilized mass spectroscopy to identify the degradation products from the electrochemical oxidation of PFOA. The shortening of the PFOA chain results in reduced toxicity due to decreased persistence. Thus, the findings of this study show that the copper complex is an efficient catalyst for the degradation and defluorination of PFOA.   This project also engaged a variety of students and the general public in the activities that promote their understanding of chemistry for sustainability using the findings from the catalysis research. The outcomes of these highly integrated research and education activities address long-standing environmental challenges and also provide a rich platform for educating the next-generation STEM workforce and the general public about how chemistry promotes sustainability.                 Last Modified: 08/06/2024       Submitted by: JianbingJiang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

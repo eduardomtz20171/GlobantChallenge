@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Building a Learning Model of Youths’ Community-Based Critical Data Practices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>465425.00</AwardTotalIntnAmount>
+<AwardAmount>465425</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael Ford</SignBlockName>
+<PO_EMAI>miford@nsf.gov</PO_EMAI>
+<PO_PHON>7032925153</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The primary objective of this study is to develop, test and refine a model to describe how youth develop knowledge within their communities using critical data practices. Critical data practices include what youth do with, in relation to, and oriented around data to learn about their world and solve new problems. For example, throughout the COVID-19 pandemic, youth have engaged with data such as local COVID-19 dashboards for their schools and cities, visualizations of viral spread, and social media describing mental health strategies for coping with long-term isolation. This study is intended to produce insights on how learning with and about data is shaped by equity concerns, cultural, and contextual factors. This model will be grounded in the analysis of existing data sets from Michigan, Washington, North Carolina, Tennessee, and Maryland focused on youths’ engagement with data.  Youth, families, and educators from non-dominant communities in Michigan and Washington will co-analyze data to create a model of data practices together with women learning scientists from diverse racial backgrounds and geographic locations.  In addition, project participants will collaboratively contribute to the development of a set of principles to guide the design of learning environments focused on critical data engagement. The project team aims to understand how people make sense of, navigate, critique and transform data towards empowered meaning-making that can inform personal decisions and actions. This approach will advance how the field understands both data literacies and people’s reasons for engaging and disengaging with data. Project findings will contribute to supporting the design of new and equitable learning experiences in the data sciences in support of broadening participation. &lt;br/&gt;&lt;br/&gt;This project will build inferences to support explanations across existing datasets in three design-based research cycles using participatory approaches to theory building. The first design cycle will draw upon empirical understandings of the community-based critical data practices  of youth and families from two non-dominant communities in the Midwest and West Coast during the COVID-19 pandemic. Later cycles will focus on existing data from three additional youth-based projects from the East Coast and two cities in the Southern US.  Collaborative examination of data with researchers, youth and community partners will produce a learning model of youths’ community-based critical practices, grounded in social, cultural, racial, ethical, and political perspectives on knowledge building. There is an urgent need for the field to understand how people learn science with a large and often confusing volume of data in order to make decisions that have direct impact on everyday living and community well-being. This project also includes the voices of youth, families, and educators from non-dominant communities in the model-building process. This project will yield recommendations for how the field may better identify, acknowledge, and support youths’ efforts to engage critically with data and data-rich technologies as a part of ongoing, out-of-school STEM learning and development. The project will be led by researchers at the University of Michigan and will include a diverse and interdisciplinary team of learning scientists from the Universities of Michigan, Washington (Seattle), North Carolina (Greensboro) and Maryland (College Park). &lt;br/&gt;&lt;br/&gt;This project is funded by the EHR Core Research (ECR) program, which supports work that advances fundamental research on STEM learning and learning environments, broadening participation in STEM, and STEM workforce development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/18/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2055166</AwardID>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Davis</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elizabeth A Davis</PI_FULL_NAME>
+<EmailAddress><![CDATA[betsyd@umich.edu]]></EmailAddress>
+<NSF_ID>000365880</NSF_ID>
+<StartDate>05/18/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Leslie</FirstName>
+<LastName>Herrenkohl</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leslie R Herrenkohl</PI_FULL_NAME>
+<EmailAddress><![CDATA[leslierh@umich.edu]]></EmailAddress>
+<NSF_ID>000180654</NSF_ID>
+<StartDate>05/18/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Angela</FirstName>
+<LastName>Calabrese Barton</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Angela Calabrese Barton</PI_FULL_NAME>
+<EmailAddress><![CDATA[angieCB@umich.edu]]></EmailAddress>
+<NSF_ID>000100970</NSF_ID>
+<StartDate>05/18/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan-Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress><![CDATA[3003 S. State St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>798000</Code>
+<Text>ECR-EDU Core Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8212</Code>
+<Text>Broaden Particip STEM Resrch</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8817</Code>
+<Text>STEM Learning &amp; Learning Environments</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0421</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002122DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~465425</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-284766c5-7fff-45db-a90b-e442554690e3"> </span></p> <p><span id="docs-internal-guid-6eb2a6cd-7fff-cd66-e8b3-28633c1a67df"> </span></p> <p dir="ltr"><span>There is an urgent need for the field to understand how people learn science with a large and often confusing volume of data in order to make decisions that have direct impact on everyday living and community well-being. There is also an urgent need to include the voices of youth, families, and educators from non-dominant communities in the research process. Otherwise, we risk limiting the power of human ingenuity to contribute critically to important perspectives on science in contemporary society.&nbsp;</span></p> <p dir="ltr"><span>&nbsp;</span></p> <p dir="ltr"><span>The primary objective of this study was to collaboratively </span><span>develop, test and refine a model to describe how youth develop knowledge within their communities using critical data practices. </span><span>Critical data practices include what youth do with, in relation to, and oriented around data to learn about their world and solve new problems. For example, throughout the COVID-19 pandemic, youth engaged with data such as local COVID-19 dashboards for their schools and cities, visualizations of viral spread, and TikTok videos describing mental health strategies for coping with long-term isolation.&nbsp;</span></p> <p dir="ltr"><span>&nbsp;</span></p> <p dir="ltr"><span>Youth, families, and educators from non-dominant communities in Michigan and Washington joined with women learning scientists from diverse racial backgrounds and geographic locations to co-analyze data and to collaboratively create a model of data practices across three design cycles. </span><span>The project built new empirical understandings of how and why youth critically engage with data towards future-oriented goals.&nbsp;</span></p> <p dir="ltr"><span>&nbsp;</span></p> <p dir="ltr"><span>Intellectual Merit: The project produced a learning model of youths' community-based critical data practices, with characterizing dimensions and related design principles. These tools supported the design of new and equitable data science learning experiences in support of broadening participation. These tools can also be used towards the development of new measures for studying learning.&nbsp;</span></p> <p dir="ltr"><span>&nbsp;</span></p> <p dir="ltr"><span>The model is built on the premise that youth approach&nbsp; data through a set of emergent community-engaged critical practices. These practices are grounded in cognitive as well as cultural, ethical and sociopolitical ways of coming-to-know and coming-to-act with and through data. The model seeks to explain how people make sense of and orient to the limits, contradictions, and possibilities of&nbsp; data, individually and collectively.</span></p> <p dir="ltr"><span>The learning model is made up of four key domains of community-engaged critical practices,&nbsp;</span></p> <p dir="ltr"><span>1. Data-in-the-Making</span></p> <p dir="ltr"><span>2. Enlivening Data</span></p> <p dir="ltr"><span>3. Data Agency</span></p> <p dir="ltr"><span>4. Data Trust</span></p> <p dir="ltr"><span><br /></span><span>These practices attend to a) how people come to </span><span>know</span><span> and </span><span>do/act</span><span> with data; b) how people make sense of and orient to the limits, contradictions, possibilities with/through data; and c) how and why people want to manipulate the world with/through/for data towards building their desired futures.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>The practices work in constellation with each other.&nbsp; The model situates youths' &nbsp;approach to </span><span>data-in-the-making</span><span> or&nbsp; </span><span>actively constructing data&nbsp; especially when official sources of data do not represent their experiences in the world, or when</span><span> data are scant or non-existent, or in cases where existing data seem to write people out of existence with their perspectives and experiences not clearly represented in datasets</span><span>. </span><span>It involves engaging with </span><span>trusted data </span><span>to construct and transform the data itself, and the sense, stories, and selves that these data create in ethically attuned ways. These actions and orientations towards data are mediated through how youth seek to </span><span>enliven data </span><span>through their sensory experiences and datafied lives, and how youth seek to act with and on data as they enact a wide range of</span><span> agentic positions</span><span> in relation to data.&nbsp;&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Project participants also contributed to the development of </span><span>a set of principles and a series of lessons for youth to guide the design of learning environments focused on critical data engagement.&nbsp;</span></p> <p dir="ltr"><span>&nbsp;</span></p> <p dir="ltr"><span>This learning model and associated principles advance how the field understands data literacies and people&rsquo;s reasons for engaging and disengaging with data. Project findings contribute to </span><span>supporting the design of new and equitable learning experiences in the data sciences in support of broadening participation.</span></p> <p dir="ltr"><span>&nbsp;</span></p> <p dir="ltr"><span>Broader Impact: The project's </span><span>broader impact</span><span> include its contributions to the fields of data literacy/science, cognition, and critical approaches to science learning, and in building capacity for and direct impact on researchers, teachers, youth and community partners. The project had </span><span>immediate impacts on partnering youth and community members</span><span>, and on teachers. This project advances the field's understanding of and ability to support rich, immersive experiences with data that youth need as they seek to thrive and survive in our data-rich world.&nbsp;</span></p> <p dir="ltr"><span>&nbsp;</span></p> <p><span>This work was grounded in the analysis of existing data sets from Michigan, Washington, North Carolina, Tennessee, and Maryland focused on youths' engagement with data. </span><span>&nbsp;The project was led by researchers at the University of Michigan and included a diverse and interdisciplinary team of learning scientists from the Universities of Michigan, Washington (Seattle), North Carolina (Greensboro) and Maryland (College Park) and community members in Lansing, Michigan and Seattle, Washington.</span></p> <p>&nbsp;</p> <p dir="ltr">&nbsp;</p><br> <p>  Last Modified: 08/08/2024<br> Modified by: Angela&nbsp;Calabrese Barton</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[          There is an urgent need for the field to understand how people learn science with a large and often confusing volume of data in order to make decisions that have direct impact on everyday living and community well-being. There is also an urgent need to include the voices of youth, families, and educators from non-dominant communities in the research process. Otherwise, we risk limiting the power of human ingenuity to contribute critically to important perspectives on science in contemporary society.      The primary objective of this study was to collaboratively develop, test and refine a model to describe how youth develop knowledge within their communities using critical data practices. Critical data practices include what youth do with, in relation to, and oriented around data to learn about their world and solve new problems. For example, throughout the COVID-19 pandemic, youth engaged with data such as local COVID-19 dashboards for their schools and cities, visualizations of viral spread, and TikTok videos describing mental health strategies for coping with long-term isolation.      Youth, families, and educators from non-dominant communities in Michigan and Washington joined with women learning scientists from diverse racial backgrounds and geographic locations to co-analyze data and to collaboratively create a model of data practices across three design cycles. The project built new empirical understandings of how and why youth critically engage with data towards future-oriented goals.      Intellectual Merit: The project produced a learning model of youths' community-based critical data practices, with characterizing dimensions and related design principles. These tools supported the design of new and equitable data science learning experiences in support of broadening participation. These tools can also be used towards the development of new measures for studying learning.      The model is built on the premise that youth approach data through a set of emergent community-engaged critical practices. These practices are grounded in cognitive as well as cultural, ethical and sociopolitical ways of coming-to-know and coming-to-act with and through data. The model seeks to explain how people make sense of and orient to the limits, contradictions, and possibilities of data, individually and collectively.   The learning model is made up of four key domains of community-engaged critical practices,   1. Data-in-the-Making   2. Enlivening Data   3. Data Agency   4. Data Trust    These practices attend to a) how people come to know and do/act with data; b) how people make sense of and orient to the limits, contradictions, possibilities with/through data; and c) how and why people want to manipulate the world with/through/for data towards building their desired futures.      The practices work in constellation with each other. The model situates youths' approach to data-in-the-making or actively constructing data especially when official sources of data do not represent their experiences in the world, or when data are scant or non-existent, or in cases where existing data seem to write people out of existence with their perspectives and experiences not clearly represented in datasets. It involves engaging with trusted data to construct and transform the data itself, and the sense, stories, and selves that these data create in ethically attuned ways. These actions and orientations towards data are mediated through how youth seek to enliven data through their sensory experiences and datafied lives, and how youth seek to act with and on data as they enact a wide range of agentic positions in relation to data.      Project participants also contributed to the development of a set of principles and a series of lessons for youth to guide the design of learning environments focused on critical data engagement.      This learning model and associated principles advance how the field understands data literacies and peoples reasons for engaging and disengaging with data. Project findings contribute to supporting the design of new and equitable learning experiences in the data sciences in support of broadening participation.      Broader Impact: The project's broader impact include its contributions to the fields of data literacy/science, cognition, and critical approaches to science learning, and in building capacity for and direct impact on researchers, teachers, youth and community partners. The project had immediate impacts on partnering youth and community members, and on teachers. This project advances the field's understanding of and ability to support rich, immersive experiences with data that youth need as they seek to thrive and survive in our data-rich world.      This work was grounded in the analysis of existing data sets from Michigan, Washington, North Carolina, Tennessee, and Maryland focused on youths' engagement with data. The project was led by researchers at the University of Michigan and included a diverse and interdisciplinary team of learning scientists from the Universities of Michigan, Washington (Seattle), North Carolina (Greensboro) and Maryland (College Park) and community members in Lansing, Michigan and Seattle, Washington.           Last Modified: 08/08/2024       Submitted by: AngelaCalabrese Barton]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

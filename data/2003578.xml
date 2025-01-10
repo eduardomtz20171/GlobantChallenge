@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Parabens as a Tool for Interrogating Halogenation in Environmental Systems: Products and Pathways]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>173675.00</AwardTotalIntnAmount>
+<AwardAmount>173675</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne-Marie Schmoltner</SignBlockName>
+<PO_EMAI>aschmolt@nsf.gov</PO_EMAI>
+<PO_PHON>7032924716</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project, funded by the Environmental Chemical Sciences Program within the Division of Chemistry, supports Professors Daniel McCurry of the University of Southern California (USC) and John Sivey and Keith Reber of Towson University (TU) to study chemical reactions related to water disinfection. When water is disinfected with chlorine, halogenation reactions occur. Such reactions can decrease levels of harmful chemical pollutants in water. Halogenation reactions can also generate toxic chlorinated byproduct from natural or man-made precursors in water. This project seeks to understand the rates and mechanisms of these reactions. The focus is  on parabens, which are used as preservatives in shampoos, lotions, and other consumer products. Parabens can be washed down the drains of showers and sinks as components of greywater. When greywater is recycled, parabens can enter drinking water. Parabens resemble molecules that are naturally present in lakes and rivers due to the breakdown of plant matter. Therefore, studying how parabens respond to the chlorination process associated with drinking water treatment can lead to insights into chlorination reactions with other molecules. The research is conducted as a collaboration between a large research university (USC) and a primarily undergraduate institution (TU). The project also includes a teaching internship for a USC graduate student at TU, and a summer research internship for a TU undergraduate at USC.&lt;br/&gt;&lt;br/&gt;The team studies fundamental aspects of aqueous halogenation important for understanding the fate of parabens and other aromatic nucleophiles. Specific questions addressed by this project include: (1) What is the role of trace, highly reactive, often-overlooked halogenating species (such as Cl2O and BrCl) in the halogenation of parabens? (2) During chloramination, when ammonia-containing water is chlorinated, what is the role of individual chloramine species? Is monochloramine, which dominates chloramine speciation, essentially inert? (3) What fraction of active halogen consumption results in halogenation versus oxidation and formation of inert inorganic halide species? (4) What is the mechanism of haloform formation from substituted phenols (including parabens)? The research tasks address both fundamental environmental chemistry questions and applied concerns about the fate of parabens, particularly during potable water reuse.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003578</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Sivey</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John D Sivey</PI_FULL_NAME>
+<EmailAddress><![CDATA[jsivey@towson.edu]]></EmailAddress>
+<NSF_ID>000682637</NSF_ID>
+<StartDate>08/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Keith</FirstName>
+<LastName>Reber</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Keith P Reber</PI_FULL_NAME>
+<EmailAddress><![CDATA[kreber@towson.edu]]></EmailAddress>
+<NSF_ID>000812716</NSF_ID>
+<StartDate>08/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Towson University]]></Name>
+<CityName>TOWSON</CityName>
+<ZipCode>212520002</ZipCode>
+<PhoneNumber>4107042236</PhoneNumber>
+<StreetAddress><![CDATA[8000 YORK RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LC3SFMP2L798</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TOWSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Towson University]]></Name>
+<CityName>Towson</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212520001</ZipCode>
+<StreetAddress><![CDATA[8000 York Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>688200</Code>
+<Text>Environmental Chemical Science</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~173675</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Parabens are a class of antimicrobial preservatives commonly found in personal care products such as lotions and shampoos. Parabens are released into the environment in wastewater and have attracted environmental concern due to their potential to cause cancer and other diseases. Due to their use in personal care products, paraben concentrations are elevated in greywater relative to the other fractions composing wastewater. Parabens can react with chlorine, which is commonly used to disinfect drinking water and wastewater. Upon reaction with chlorine, parabens can be converted into chlorinated and brominated byproducts, which may be more persistent and more toxic than the original parabens. Further reactions with chlorine can cause parabens to break apart into smaller molecules, include known cancer-causing agents such as chloroform. In this project, explored the pathways and rates with which parabens react with chlorine. We also examined how the presence of sugars and of organic solvents can, even in low concentrations, affect the rates with which parabens are transformed by chlorine.</p>  <p><strong><span style="text-decoration: underline;">Intellectual Merits:</span></strong> As parabens remain in widespread use as antimicrobial agents and are routinely detected in wastewater, their transformation during water treatment is of significant interest. This project provided new insight regarding how parabens react with chlorine, including detailed new characterizations of reaction rates and products. Through the synthesis of parabens with selectively labeled (<sup>13</sup>C) carbon atoms, new details were uncovered regarding how the ring systems of parabens can be broken in water treated with chlorine. This study also demonstrated, for the first time, how so-called &ldquo;carrier solvents&rdquo; used to prepare stock solutions can cause experimental artifacts when parabens and related compounds undergo chlorination under laboratory conditions. This project additional discovered how sugars can alter the rates with which chlorine reacts with parabens. &nbsp;</p>  <p><strong><span style="text-decoration: underline;">Broader Impacts:</span></strong> This project provides new information into how disinfection byproducts can form in chlorinated drinking water and wastewater. These findings may also have implications for the pulp and paper industry, in which sugars may affect bleaching processes. In addition to scientific advances, this project also fostered a collaboration between a primarily undergraduate Department of Chemistry at Towson University and a PhD-granting Department of Civil and Environmental Engineering at the University of Southern California (USC). A signature effort of this partnership was the participation of a Towson undergraduate in a summer research experience at USC, to gain exposure to an intensive research environment under the mentorship of a PhD student. Likewise, a USC PhD student working on this project collaborated with researchers at TU to explore best practices for using inter-institutional, online research group meetings to foster professional development in students. Through this collaboration projects, several undergraduate and graduate students received training at the interface of analytical chemistry, synthetic chemistry, and environmental engineering, which will help to better prepare tomorrow's research leaders and technical workforce to confront the multi-faceted challenges at the food-energy-water nexus.</p><br> <p>  Last Modified: 12/19/2024<br> Modified by: John&nbsp;D&nbsp;Sivey</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Parabens are a class of antimicrobial preservatives commonly found in personal care products such as lotions and shampoos. Parabens are released into the environment in wastewater and have attracted environmental concern due to their potential to cause cancer and other diseases. Due to their use in personal care products, paraben concentrations are elevated in greywater relative to the other fractions composing wastewater. Parabens can react with chlorine, which is commonly used to disinfect drinking water and wastewater. Upon reaction with chlorine, parabens can be converted into chlorinated and brominated byproducts, which may be more persistent and more toxic than the original parabens. Further reactions with chlorine can cause parabens to break apart into smaller molecules, include known cancer-causing agents such as chloroform. In this project, explored the pathways and rates with which parabens react with chlorine. We also examined how the presence of sugars and of organic solvents can, even in low concentrations, affect the rates with which parabens are transformed by chlorine.    Intellectual Merits: As parabens remain in widespread use as antimicrobial agents and are routinely detected in wastewater, their transformation during water treatment is of significant interest. This project provided new insight regarding how parabens react with chlorine, including detailed new characterizations of reaction rates and products. Through the synthesis of parabens with selectively labeled (13C) carbon atoms, new details were uncovered regarding how the ring systems of parabens can be broken in water treated with chlorine. This study also demonstrated, for the first time, how so-called carrier solvents used to prepare stock solutions can cause experimental artifacts when parabens and related compounds undergo chlorination under laboratory conditions. This project additional discovered how sugars can alter the rates with which chlorine reacts with parabens.     Broader Impacts: This project provides new information into how disinfection byproducts can form in chlorinated drinking water and wastewater. These findings may also have implications for the pulp and paper industry, in which sugars may affect bleaching processes. In addition to scientific advances, this project also fostered a collaboration between a primarily undergraduate Department of Chemistry at Towson University and a PhD-granting Department of Civil and Environmental Engineering at the University of Southern California (USC). A signature effort of this partnership was the participation of a Towson undergraduate in a summer research experience at USC, to gain exposure to an intensive research environment under the mentorship of a PhD student. Likewise, a USC PhD student working on this project collaborated with researchers at TU to explore best practices for using inter-institutional, online research group meetings to foster professional development in students. Through this collaboration projects, several undergraduate and graduate students received training at the interface of analytical chemistry, synthetic chemistry, and environmental engineering, which will help to better prepare tomorrow's research leaders and technical workforce to confront the multi-faceted challenges at the food-energy-water nexus.     Last Modified: 12/19/2024       Submitted by: JohnDSivey]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

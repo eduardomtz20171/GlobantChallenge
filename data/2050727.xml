@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Human Forests versus Random Forest Models in Prediction]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>291221.00</AwardTotalIntnAmount>
+<AwardAmount>291221</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Claudia Gonzalez-Vallejo</SignBlockName>
+<PO_EMAI>clagonza@nsf.gov</PO_EMAI>
+<PO_PHON>7032924710</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Accurate predictions are key to effective decision making under uncertainty. Psychology research has shown that predictive judgments can be improved by considering the outside view: placing a problem in the context of similar historical cases, rather than focusing on its unique features. But choosing the right comparison is difficult: statisticians have studied the so-called reference class problem since at least the 19th century. The main objective of this project is to assess the performance of a new method for crowdsourcing reference-class judgments and producing probability forecasts, relative to new and established machine learning models. The method, called human forests, promotes outside-view thinking by enabling forecasters to construct reference classes from a database of historical cases. The human forests method shares a conceptual connection with random forest machine models. In both, predictions are based on frequencies assessed in classification trees. While random forest models use training data to build the trees, human forests rely on forecaster' collective knowledge. The project will examine the relative strengths of both methods and explore combinations of the two. We will also assess methods for improving the accuracy of individual forecasters. &lt;br/&gt;&lt;br/&gt;The intellectual merit of the proposal resides in its promise to address the reference class problem through collective intelligence. The project will compare the accuracy of human forests, complemented with metacognitive training and statistical aggregation techniques, with that of random forest models, and a human-machine hybrid approach. The latter will use bi-level optimization, providing an advancement in the use of optimization in machine learning, with the aim of pushing the frontier of both machine learning and human capabilities. The core randomized experiments will focus on clinical trial forecasting, namely, predicting the probability of advancement for cancer treatments. The study methods will utilize naturalistic, longitudinal, large-scale online experiments, and will compare the performance of subject-matter experts and generalists. The project will also provide training for researchers and students in machine learning and collective intelligence and develop materials for interactive exercises in high-school STEM classes, undergraduate and graduate courses in statistics and decision making. Assessing the relative importance of general forecasting skill versus subject matter expertise may help address skill scarcity problems in areas dependent exclusively on specialists. The research aims to improve the predictability of clinical trial outcomes and similarly complex activities. Accurate forecasts regarding the success of clinical trial programs may in turn improve risk management, resource allocation, and ultimately result in wider availability of life-saving treatments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050727</AwardID>
+<Investigator>
+<FirstName>Sauleh</FirstName>
+<LastName>Siddiqui</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sauleh Siddiqui</PI_FULL_NAME>
+<EmailAddress><![CDATA[sauleh@american.edu]]></EmailAddress>
+<NSF_ID>000625966</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate>08/25/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sauleh</FirstName>
+<LastName>Siddiqui</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sauleh Siddiqui</PI_FULL_NAME>
+<EmailAddress><![CDATA[sauleh@american.edu]]></EmailAddress>
+<NSF_ID>000625966</NSF_ID>
+<StartDate>08/25/2022</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bei</FirstName>
+<LastName>Xiao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bei Xiao</PI_FULL_NAME>
+<EmailAddress><![CDATA[bxiao@american.edu]]></EmailAddress>
+<NSF_ID>000688852</NSF_ID>
+<StartDate>08/25/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[American University]]></Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200168003</ZipCode>
+<PhoneNumber>2028853440</PhoneNumber>
+<StreetAddress><![CDATA[4400 MASSACHUSETTS AVE NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H4VNDUN2VWU5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AMERICAN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American University]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200168105</ZipCode>
+<StreetAddress><![CDATA[4400 Massachusetts Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>081Y00</Code>
+<Text>NSF 2026 Fund</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>132100</Code>
+<Text>Decision, Risk &amp; Mgmt Sci</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>139700</Code>
+<Text>Cross-Directorate  Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>FW-HTF Futr Wrk Hum-Tech Frntr</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~291220</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-f7e157ac-7fff-41fe-f65a-63d1fd90bf2c"> <p dir="ltr"><span>Clinical trials determine if therapies and vaccines can reach patients. </span><span>Better predictions about the outcomes of clinical trials can help in public health planning. This project aimed to study two different pathways to improving predictions and investigating strengths and weaknesses of each.&nbsp;</span></p> <p dir="ltr"><span>One pathway was the development of machine learning algorithms to estimate the probability of transition through clinical trial phases toward eventual approval. Previous research in other high-impact areas has shown that machine learning models have some drawbacks, especially in complex systems such as clinical trials. The second pathway, using groups of forecasters with interest in the topic, have shown relatively high accuracy in predicting outcomes in broad domains like geopolitics and economics.</span></p> <p dir="ltr"><span>Our study was designed to answer two related questions. First, are machine models or human crowds better at predicting the timely progression of clinical trials? Second, does Human Forest, a new method for reference class prediction, help human forecasters achieve better accuracy than those using basic methods?</span></p> <p dir="ltr"><span>To address these questions, we have tested and implemented a new framework for elicitation and aggregation of crowd predictions. This has been applied to a working prototype of the software system, an elicitation platform, which ingests historical data on clinical trials, and allows forecasters to select reference classes, review base rates, submit forecasts, and receive accuracy scores. The testing involved conducting two six-month forecasting tournaments with the Human Forest platform software.</span></p> <p dir="ltr"><span>The machine model team developed a time-specific random survival forest model (RSF) to predict the phase transition of clinical trials. This machine model prediction was compared to the Human Forest prediction described above. The RSF model is an extension of a random forest model that predicts overall phase transition (yes/no). With the time-specific model, the project developed a machine model to predict phase transition (yes/no) by a certain date. The model was trained using data from clinicaltrials.gov and BioMedtracker.&nbsp;</span></p> <p dir="ltr"><span>We additionally advanced the machine model by fine-tuning a pre-trained large-language model, a machine learning model that has been trained on massive datasets of texts, to predict phase transition outcomes of clinical trials from trial design protocols. We developed a new phase transition dataset using existing resources, where each trial is labeled based on the success or failure of its phase transition, rather than relying solely on its completion status. This model can take multiple documents of trial design protocols as input and automatically predict if the clinical trial will successfully transition from a certain phase to the next (</span><span>e.g.</span><span>, Phase 1 to 2, Phase 2 to 3, Phase 3 to approval) before the trial starts. The model operates automatically, relying solely on information from the documents of trial designs. This removes the need for human feature selection and provides an early prediction of clinical trial success, helping trial designers make better-informed decisions and allocate resources more efficiently.</span></p> <p dir="ltr"><span>We recruited over 800 volunteers for participation. Approximately 40% of them had educational or professional background in the life sciences, or previous forecasting tournament experience. A core project objective was developing and assessing the Human Forest method. Built to enable users to define custom reference classes, the platform was conceived as an information scaffold designed to ingest data corpora (in this case, the same dataset used by the machine model team) and automatically calculate the time-specific base rate of phase transition of the user-generated reference classes.</span></p> <p dir="ltr"><span>Forecasters across all conditions and therapeutic areach submitted over 60 forecasters registering over 1,000 forecasts across all questions in each tournament. Results show that all human forecasting methods generated lower Brier scores than the RSF model, denoting higher accuracy. Relative to RSF models, human crowdsourcing methods produced Brier score improvements between 36% and 52%, i.e., between one third and one half smaller accuracy errors. Human Forest and Control Polls conditions exhibited similar aggregate accuracy. However, individual forecasters using the Human Forest method exhibited significantly better accuracy than their Control Polls peers. This Human Forest advantage was larger than any individual differences among forecasters, e.g., due to life-science or forecasting experience.&nbsp;</span></p> <p dir="ltr"><span>We developed a graduate-level course for distribution. The learning objectives of this course are to introduce students to concepts of both machine learning and collective intelligence, make students understand the clinical trials process, and develop their own methods for predicting clinical trial success by integrating these methods. The course uses clinical trials as a topic area for students as it is an important problem to be able to predict solutions, with large, freely available datasets from clinicaltrials.gov.&nbsp;</span></p> <p dir="ltr"><span>The project funded research for five graduate students and one undergraduate student. The results were presented at selective international conferences and seminars. Two manuscripts are under preparation for submission to peer-reviewed publications.</span></p> </span></p><br> <p>  Last Modified: 11/18/2024<br> Modified by: Sauleh&nbsp;Siddiqui</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     Clinical trials determine if therapies and vaccines can reach patients. Better predictions about the outcomes of clinical trials can help in public health planning. This project aimed to study two different pathways to improving predictions and investigating strengths and weaknesses of each.   One pathway was the development of machine learning algorithms to estimate the probability of transition through clinical trial phases toward eventual approval. Previous research in other high-impact areas has shown that machine learning models have some drawbacks, especially in complex systems such as clinical trials. The second pathway, using groups of forecasters with interest in the topic, have shown relatively high accuracy in predicting outcomes in broad domains like geopolitics and economics.   Our study was designed to answer two related questions. First, are machine models or human crowds better at predicting the timely progression of clinical trials? Second, does Human Forest, a new method for reference class prediction, help human forecasters achieve better accuracy than those using basic methods?   To address these questions, we have tested and implemented a new framework for elicitation and aggregation of crowd predictions. This has been applied to a working prototype of the software system, an elicitation platform, which ingests historical data on clinical trials, and allows forecasters to select reference classes, review base rates, submit forecasts, and receive accuracy scores. The testing involved conducting two six-month forecasting tournaments with the Human Forest platform software.   The machine model team developed a time-specific random survival forest model (RSF) to predict the phase transition of clinical trials. This machine model prediction was compared to the Human Forest prediction described above. The RSF model is an extension of a random forest model that predicts overall phase transition (yes/no). With the time-specific model, the project developed a machine model to predict phase transition (yes/no) by a certain date. The model was trained using data from clinicaltrials.gov and BioMedtracker.   We additionally advanced the machine model by fine-tuning a pre-trained large-language model, a machine learning model that has been trained on massive datasets of texts, to predict phase transition outcomes of clinical trials from trial design protocols. We developed a new phase transition dataset using existing resources, where each trial is labeled based on the success or failure of its phase transition, rather than relying solely on its completion status. This model can take multiple documents of trial design protocols as input and automatically predict if the clinical trial will successfully transition from a certain phase to the next (e.g., Phase 1 to 2, Phase 2 to 3, Phase 3 to approval) before the trial starts. The model operates automatically, relying solely on information from the documents of trial designs. This removes the need for human feature selection and provides an early prediction of clinical trial success, helping trial designers make better-informed decisions and allocate resources more efficiently.   We recruited over 800 volunteers for participation. Approximately 40% of them had educational or professional background in the life sciences, or previous forecasting tournament experience. A core project objective was developing and assessing the Human Forest method. Built to enable users to define custom reference classes, the platform was conceived as an information scaffold designed to ingest data corpora (in this case, the same dataset used by the machine model team) and automatically calculate the time-specific base rate of phase transition of the user-generated reference classes.   Forecasters across all conditions and therapeutic areach submitted over 60 forecasters registering over 1,000 forecasts across all questions in each tournament. Results show that all human forecasting methods generated lower Brier scores than the RSF model, denoting higher accuracy. Relative to RSF models, human crowdsourcing methods produced Brier score improvements between 36% and 52%, i.e., between one third and one half smaller accuracy errors. Human Forest and Control Polls conditions exhibited similar aggregate accuracy. However, individual forecasters using the Human Forest method exhibited significantly better accuracy than their Control Polls peers. This Human Forest advantage was larger than any individual differences among forecasters, e.g., due to life-science or forecasting experience.   We developed a graduate-level course for distribution. The learning objectives of this course are to introduce students to concepts of both machine learning and collective intelligence, make students understand the clinical trials process, and develop their own methods for predicting clinical trial success by integrating these methods. The course uses clinical trials as a topic area for students as it is an important problem to be able to predict solutions, with large, freely available datasets from clinicaltrials.gov.   The project funded research for five graduate students and one undergraduate student. The results were presented at selective international conferences and seminars. Two manuscripts are under preparation for submission to peer-reviewed publications.      Last Modified: 11/18/2024       Submitted by: SaulehSiddiqui]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

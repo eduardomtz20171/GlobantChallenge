@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist.  The title of the project for this fellowship to Laurel A Ohm is "Modeling and analysis of active filaments in a Stokesian fluid."  The host institution for the fellowship is New York University, Courant Institute, and the sponsoring scientist is Michael Shelley.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001959</AwardID>
+<Investigator>
+<FirstName>Laurel</FirstName>
+<LastName>Ohm</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laurel A Ohm</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000751555</NSF_ID>
+<StartDate>03/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohm, Laurel A]]></Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>55455</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Courant Institute of Mathematical Sciences]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121185</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1">This project concerns the modeling and analysis of thin filament hydrodynamics at multiple scales. Thin immersed filaments are an important feature of many biophysical processes, including mitotic spindle positioning during cell division, sperm motility, ciliary transport, and `active turbulence&rsquo; observed in suspensions of interacting filamentous bacteria. Understanding the accuracy and limitations of mathematical models of filament dynamics is vital to building useful models of these biophysical processes.&nbsp;</p> <p class="p1"><span>&nbsp;</span>The results of this project have impacted our analytical understanding of thin filament hydrodynamics at multiple scales. At the scale of an individual filament, the PI&rsquo;s work develops a mathematical framework for understanding the evolution of an elastic filament immersed in a 3D fluid from a PDE perspective. This is the first work to truly justify so-called slender body theories, which assume that the filament may be described as an essentially 1D curve in a 3D fluid, from a mathematical perspective. The PI not only provides an analytical way to make sense of this 3D-1D coupling, but proposes and implements novel numerical methods which better capture close interactions between nearby filaments than other popular methods. These can be incorporated into important large-scale simulations of, e.g., cytoskeletal networks, ciliary transport, and mitotic spindle positioning. The framework developed by the PI to make sense of this 3D-1D coupling may also be adapted to study related scenarios involving thin filaments in different media; for example, blood vessels in dense capillary networks, or thin conducting wires in an electrical potential.&nbsp;</p> <p class="p1">At the scale of multiple filaments, the PI&rsquo;s work from this project develops the PDE theory of a fundamental kinetic model describing the collective motion of swimming bacteria in a viscous fluid. The PI&rsquo;s work quantifies the stabilizing effect that motility has on the uniform, isotropic (i.e. well-mixed) steady state that the model admits. This draws analogies between the physics of filament suspensions and that of gases and plasmas. This is a rich connection that has many possibilities for further exploration.</p> <p class="p1">Furthermore, as part of the project, the PI developed and taught a Junior Seminar in Spring 2022 and 2023 at Princeton University on <em>The Mathematics of Microswimmers</em>. The seminar was designed around introducing junior mathematics majors to the basic mathematical principles underlying many of the models studied in this project. The PI intends to continue teaching and developing this course while refining an accompanying set of lecture notes on the PDE theory of swimming at the microscopic level.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/18/2024<br> Modified by: Laurel&nbsp;A&nbsp;Ohm</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project concerns the modeling and analysis of thin filament hydrodynamics at multiple scales. Thin immersed filaments are an important feature of many biophysical processes, including mitotic spindle positioning during cell division, sperm motility, ciliary transport, and `active turbulence observed in suspensions of interacting filamentous bacteria. Understanding the accuracy and limitations of mathematical models of filament dynamics is vital to building useful models of these biophysical processes.   The results of this project have impacted our analytical understanding of thin filament hydrodynamics at multiple scales. At the scale of an individual filament, the PIs work develops a mathematical framework for understanding the evolution of an elastic filament immersed in a 3D fluid from a PDE perspective. This is the first work to truly justify so-called slender body theories, which assume that the filament may be described as an essentially 1D curve in a 3D fluid, from a mathematical perspective. The PI not only provides an analytical way to make sense of this 3D-1D coupling, but proposes and implements novel numerical methods which better capture close interactions between nearby filaments than other popular methods. These can be incorporated into important large-scale simulations of, e.g., cytoskeletal networks, ciliary transport, and mitotic spindle positioning. The framework developed by the PI to make sense of this 3D-1D coupling may also be adapted to study related scenarios involving thin filaments in different media; for example, blood vessels in dense capillary networks, or thin conducting wires in an electrical potential.   At the scale of multiple filaments, the PIs work from this project develops the PDE theory of a fundamental kinetic model describing the collective motion of swimming bacteria in a viscous fluid. The PIs work quantifies the stabilizing effect that motility has on the uniform, isotropic (i.e. well-mixed) steady state that the model admits. This draws analogies between the physics of filament suspensions and that of gases and plasmas. This is a rich connection that has many possibilities for further exploration.   Furthermore, as part of the project, the PI developed and taught a Junior Seminar in Spring 2022 and 2023 at Princeton University on The Mathematics of Microswimmers. The seminar was designed around introducing junior mathematics majors to the basic mathematical principles underlying many of the models studied in this project. The PI intends to continue teaching and developing this course while refining an accompanying set of lecture notes on the PDE theory of swimming at the microscopic level.        Last Modified: 09/18/2024       Submitted by: LaurelAOhm]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

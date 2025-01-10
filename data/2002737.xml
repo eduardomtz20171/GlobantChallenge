@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: Automatic Generation of Cache Coherent Memory Systems for Multicore Processors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Today’s computer processors are called multicore processors, because they have multiple processor cores in them, all of which can be working simultaneously on computational tasks.  These cores share data with each other using a communication protocol called cache coherence, which ensures that the data used by these cores is up-to-date and correct. Cache coherence protocols are notoriously complicated and difficult to design, and they are at least as difficult to then verify as being correct in all situations. Because of their complexity, coherence protocols take a large and disproportionate share of the design and verification resources when the computer industry creates a new processor.  Furthermore, the difficulty of designing coherence protocols is increasing as processor cores scale up in variety and number on a single chip.  This project is developing a novel tool that enables computer architects to quickly and easily design high-performance coherence protocols that are provably correct.  The tool has the potential to radically change the way that protocols are designed, in both industry and academia, and thus make processor design faster, cheaper, and more reliable.   Through an outreach program and a research fellowship program for undergraduates, the project will benefit from the contributions of women, under-represented populations, and undergraduate researchers.&lt;br/&gt;&lt;br/&gt;As processor designs change--with the addition of more cores or different types of cores, or with different expected communication patterns--there are incentives to create new coherence protocols to suit these changes. Even if a new protocol is not a radical departure from previous protocols, designing it and validating it are arduous, bug-prone processes.&lt;br/&gt;This project is developing a novel tool, called ProtoGen+, for automating the design of verifiable cache coherence protocols. The architects need only provide simplified protocol designs that omit complexity like hierarchy and concurrent communications.  The tool takes those simplified protocol designs and automatically generates the high-performance versions of those protocols, thus hiding the complexity from the architects.  ProtoGen+ then outputs the complicated, concurrent protocol. ProtoGen+ greatly reduces design and verification effort and minimizes the number of design bugs. ProtoGen+ accommodates a wide range of protocols, including those with hierarchy and heterogeneity. ProtoGen+ also generates the virtual network assignments necessary to avoid protocol deadlock.  Two secondary objectives of the work are to explore the space of protocols that are compatible with ProtoGen+ and to produce protocols that are compatible with the previously developed Neo framework for verifiable protocol design.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002737</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Sorin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Sorin</PI_FULL_NAME>
+<EmailAddress><![CDATA[sorin@ee.duke.edu]]></EmailAddress>
+<NSF_ID>000280417</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName/>
+<StateCode>NC</StateCode>
+<ZipCode>277054010</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~400000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Today's computer processors consist of multiple cores that can work independently or in unison to run software.&nbsp; When the cores work together, they share data by sending messages to each other over an on-chip network.&nbsp; To ensure that cores always see up-to-date data, they follow a coherence protocol that guarantees coherent sharing.&nbsp; &nbsp;Coherence protocols are complicated, take a long time to design, and are prone to bugs.&nbsp;&nbsp;</p> <p>In this project, we have focused on creating tools for automatically generating coherence protocols from simple input specifications. Some notable results include:</p> <p>* HieraGen: This tool creates protocols for processors in which the cores are arranged hierarchically.&nbsp; Hierarchy is useful for scaling a system, but it introduces new complexity in protocol design.&nbsp;</p> <p>* HeteroGen: This tool creates protocols for processors in which cores are grouped into clusters, and each cluster can have a different protocol.&nbsp; The tool automatically stitches the intra-cluster protocols together.</p> <p>* Memory consistency models (MCMs) for heterogeneous systems: The MCM precisely defines the correctness of a multicore processor's sharing of memory.&nbsp; We extended MCMs for homogeneous systems to accommodate heterogeneity.</p> <p>* Network optimization: To avoid deadlock, the network must provide separate resources for different protocol message types.&nbsp; We created a new tool for analyzing protocols to determine the minimum amount of network buffering resources required to avoid having that protocol deadlock.</p> <p>* PipeGen: It is difficult to design cores that enforce a desired MCM, so we made a tool that takes an MCM-oblivious core and transforms it to support a desired MCM.</p> <p>Our research infrastructure has been made publicly available to computer architects in academia and industry.&nbsp; We have published all of the listed results at major conferences.</p> <p>This project has also contributed to the training of several PhD students and two outstanding undergraduate research assistants.</p> <p>This project has had an extensive international element, as the PI has worked closely on it with colleagues in the United Kingdom and the Netherlands.&nbsp;</p> <p>The results and tools of this project have been propagated to industry, not least through seeding project group alumni at Nvidia and SiFive.</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/05/2024<br> Modified by: Daniel&nbsp;Sorin</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Today's computer processors consist of multiple cores that can work independently or in unison to run software. When the cores work together, they share data by sending messages to each other over an on-chip network. To ensure that cores always see up-to-date data, they follow a coherence protocol that guarantees coherent sharing. Coherence protocols are complicated, take a long time to design, and are prone to bugs.   In this project, we have focused on creating tools for automatically generating coherence protocols from simple input specifications. Some notable results include:   * HieraGen: This tool creates protocols for processors in which the cores are arranged hierarchically. Hierarchy is useful for scaling a system, but it introduces new complexity in protocol design.   * HeteroGen: This tool creates protocols for processors in which cores are grouped into clusters, and each cluster can have a different protocol. The tool automatically stitches the intra-cluster protocols together.   * Memory consistency models (MCMs) for heterogeneous systems: The MCM precisely defines the correctness of a multicore processor's sharing of memory. We extended MCMs for homogeneous systems to accommodate heterogeneity.   * Network optimization: To avoid deadlock, the network must provide separate resources for different protocol message types. We created a new tool for analyzing protocols to determine the minimum amount of network buffering resources required to avoid having that protocol deadlock.   * PipeGen: It is difficult to design cores that enforce a desired MCM, so we made a tool that takes an MCM-oblivious core and transforms it to support a desired MCM.   Our research infrastructure has been made publicly available to computer architects in academia and industry. We have published all of the listed results at major conferences.   This project has also contributed to the training of several PhD students and two outstanding undergraduate research assistants.   This project has had an extensive international element, as the PI has worked closely on it with colleagues in the United Kingdom and the Netherlands.   The results and tools of this project have been propagated to industry, not least through seeding project group alumni at Nvidia and SiFive.        Last Modified: 07/05/2024       Submitted by: DanielSorin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Logarithmic Geometry and the Gauged Linear Sigma Model]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>179999.00</AwardTotalIntnAmount>
+<AwardAmount>179999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+<PO_EMAI>mdouglas@nsf.gov</PO_EMAI>
+<PO_PHON>7032922467</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Algebraic varieties are a class of geometric objects obtained by gluing together sets of solutions of polynomial equations. In string theory, a branch of theoretical physics, algebraic varieties are used to describe fine pieces of our universe. In this theory, everything is made of tiny strings which travel through spacetime, and trace out algebraic curves in some algebraic varieties. Gromov-Witten invariants, originating from physics, are virtual counts of algebraic curves in algebraic varieties satisfying prescribed incidence constraints. They are used in physic to describe the structures of our universe. They also provide new approaches and insights to classical problems from algebraic geometry. Despite their importance, these invariants are very difficult to compute. The primary goal of this project is to develop a new method to calculate Gromov-Witten invariants by investigating the boundary of the gauged linear sigma model from physics using tools of logarithmic structures from algebraic geometry. This project provides research training opportunities for graduate students.&lt;br/&gt;&lt;br/&gt;In more detail, this project focuses on studying the geometry of the gauged linear sigma model (GLSM) using stable log maps of Abramovich-Chen-Gross-Siebert. The GLSM proposed by Witten in the 1990s can be viewed as a deep generalization of the hyper-plane property of Gromov-Witten invariants in all genus. However, the moduli stacks in GLSM which carry the perfect obstruction theory for defining GLSM invariants are in general non-proper. This presents a major difficulty in calculating GLSM invariants. Recently, log compactifications of hybrid-type GLSM were constructed by Chen, Janda, and Ruan using stable log maps. These compactifications provide proper moduli stacks carrying a reduced perfect obstruction theory whose associated virtual cycles recover the GLSM virtual cycles. This project is an integrated study aiming at a new computational method for calculating Gromov-Witten invariants by investigating the structures of the virtual cycles of these log compactifications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001089</AwardID>
+<Investigator>
+<FirstName>Qile</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qile Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[qile.chen@bc.edu]]></EmailAddress>
+<NSF_ID>000628136</NSF_ID>
+<StartDate>04/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Boston College]]></Name>
+<CityName>CHESTNUT HILL</CityName>
+<ZipCode>024673800</ZipCode>
+<PhoneNumber>6175528000</PhoneNumber>
+<StreetAddress><![CDATA[140 COMMONWEALTH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJ3JH8CRJBZ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Boston College]]></Name>
+<CityName>Chestnut Hill</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>024673800</ZipCode>
+<StreetAddress><![CDATA[140 Commonwealth Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126400</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~179999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Algebraic geometry is a branch of mathematics studying shapes of solutions of polynomial equations called algebraic varieties. This project is within the enumerative area of algebraic geometry, focusing on counting Riemann surfaces in given algebraic varieties.&nbsp;<br /><br />The shapes of Riemann surfaces include for example a two dimensional sphere or the surface of a donut.&nbsp; Counting the number of Riemann surfaces with certain given shapes inside an algebraic variety is a centuries-old interesting problem, and is part of Hilbert's 16th problem published in 1900.&nbsp;</p> <p>In mirror symmetry --- a branch of modern geometry,&nbsp; counts of Riemann surfaces have been rigorously defined as Gromov-Witten invariants. These are invariants originated from string theory in physics to describe the structure of the universe. Gromov-Witten invariants are shown to have deep connections to many areas of mathematics such as algebraic geometry, symplectic geometry, and number theory. However effectively computing Gromov-Witten invariants is a long standing hard problem, especially when the shapes of Riemann surfaces are complicated --- the higher genus cases.</p> <p>In this project, the PI and his collaborators propose to tackle the higher genus invariants problem by studying compactifications of Gauged Linear Sigma Models, a sequence of theories proposed by physicists in the 90's interpolating Gromov-Witten and Landau-Ginzburg theories. During this project, they established the theory of logarithmic Gauged Linear Sigma Models that allows one to compute contributions to Gromov-Witten invariants from boundaries of Gauged Linear Sigma Models. A further investigation on explicitly computing the boundary contributions is an on-going research of the PI.&nbsp;</p> <p>The approach of logarithmic Gauged Linear Sigma Models is expected to lead to a set of equations called the quantum Lefschetz formula, which relates Gromov-Witten invariants of a given variety and Gromov-Witten invariants of its complete intersections -- a subset of the given variety cut out again by a collection of polynomials. Further potential applications include new calculations of Gromov-Witten invariants for a large class of interesting examples, including quintic three-folds.&nbsp;&nbsp;</p> <p>The PI is currently supervising two graduate students at Boston College. He plans to use questions raised from this project to train graduate students towards their Ph.D thesis.&nbsp;The PI has co-organized a conference "Algebraic Geometry Northeastern Series" in March 2024 at Boston College, with a goal to introduce graduate students to a broad spectrum of current research in algebraic geometry. He also co-organized the algebraic geometry seminar at Boston College to foster communications between experts and the local research community. During this project, he has given several research talks to disseminate his results of this project to a broader research community.</p><br> <p>  Last Modified: 09/05/2024<br> Modified by: Qile&nbsp;Chen</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Algebraic geometry is a branch of mathematics studying shapes of solutions of polynomial equations called algebraic varieties. This project is within the enumerative area of algebraic geometry, focusing on counting Riemann surfaces in given algebraic varieties.  The shapes of Riemann surfaces include for example a two dimensional sphere or the surface of a donut. Counting the number of Riemann surfaces with certain given shapes inside an algebraic variety is a centuries-old interesting problem, and is part of Hilbert's 16th problem published in 1900.   In mirror symmetry --- a branch of modern geometry, counts of Riemann surfaces have been rigorously defined as Gromov-Witten invariants. These are invariants originated from string theory in physics to describe the structure of the universe. Gromov-Witten invariants are shown to have deep connections to many areas of mathematics such as algebraic geometry, symplectic geometry, and number theory. However effectively computing Gromov-Witten invariants is a long standing hard problem, especially when the shapes of Riemann surfaces are complicated --- the higher genus cases.   In this project, the PI and his collaborators propose to tackle the higher genus invariants problem by studying compactifications of Gauged Linear Sigma Models, a sequence of theories proposed by physicists in the 90's interpolating Gromov-Witten and Landau-Ginzburg theories. During this project, they established the theory of logarithmic Gauged Linear Sigma Models that allows one to compute contributions to Gromov-Witten invariants from boundaries of Gauged Linear Sigma Models. A further investigation on explicitly computing the boundary contributions is an on-going research of the PI.   The approach of logarithmic Gauged Linear Sigma Models is expected to lead to a set of equations called the quantum Lefschetz formula, which relates Gromov-Witten invariants of a given variety and Gromov-Witten invariants of its complete intersections -- a subset of the given variety cut out again by a collection of polynomials. Further potential applications include new calculations of Gromov-Witten invariants for a large class of interesting examples, including quintic three-folds.   The PI is currently supervising two graduate students at Boston College. He plans to use questions raised from this project to train graduate students towards their Ph.D thesis.The PI has co-organized a conference "Algebraic Geometry Northeastern Series" in March 2024 at Boston College, with a goal to introduce graduate students to a broad spectrum of current research in algebraic geometry. He also co-organized the algebraic geometry seminar at Boston College to foster communications between experts and the local research community. During this project, he has given several research talks to disseminate his results of this project to a broader research community.     Last Modified: 09/05/2024       Submitted by: QileChen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

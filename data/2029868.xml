@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Harnessing evolution to reveal the molecular logic of kinetochore wiring]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1200000.00</AwardTotalIntnAmount>
+<AwardAmount>1200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Cyr</SignBlockName>
+<PO_EMAI>rcyr@nsf.gov</PO_EMAI>
+<PO_PHON>7032928440</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project focuses on the fundamental processes by which the genetic material is distributed to each new cell that is formed. As the DNA in a single human cell is approximately 6 feet long, it must be packaged into physical units termed chromosomes. Every time a cell divides, these chromosomes must be duplicated and faithfully distributed to each new cell. Over the course of a lifetime in humans, this must occur trillions of times. To facilitate this, mammalian cells form a molecular machine – called the “kinetochore” - that recognizes each chromosome and physically segregates these chromosomes to the newly formed cells. When this distribution machinery is defective, critical genetic material can be lost or disrupted, with serious consequences to the function and viability of those cells. Thus, it is critical to understand how kinetochores assemble and function. However, there are substantial open questions regarding the nature, function, and evolution of kinetochores. This project will explore the changes to the kinetochore machine across mammals and use evolutionary differences to create a new understanding of the way in which this machine functions and adapts to differing requirements.  The Broader Impacts of the project will include the training of undergraduates, graduate students and post-doctoral researchers, along with a high-school teacher in research methodologies.&lt;br/&gt;&lt;br/&gt;Eukaryotic chromosome segregation requires the kinetochore, the macromolecular structure that connects chromosomes to the microtubule polymers, which power their movement. Despite a conserved requirement in directing chromosome segregation, the kinetochore is remarkably flexible in its structure, composition, and organization across eukaryotes. This project will harness kinetochore evolutionary plasticity to probe the molecular logic by which kinetochores assemble and function. In particular, this project will test whether changes to kinetochore protein sequences, composition, and requirements across mammalian species represent evolutionary-driven mechanisms that optimize fundamentally similar kinetochore activities to meet diverse physiological constraints. By exploring this idea, this research seeks to generate a coherent molecular model for how kinetochore components act individually and in an integrated manner to achieve faithful chromosome segregation in a way that is robust and conserved, and yet tailored to the specific requirements of each species. Together, this project will define the logic of kinetochore wiring, reveal the composition of the critical kinetochore scaffold, the properties of the kinetochore-microtubule interface, and how these are modulated across evolution to achieve an optimal outcome.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029868</AwardID>
+<Investigator>
+<FirstName>Iain</FirstName>
+<LastName>Cheeseman</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Iain M Cheeseman</PI_FULL_NAME>
+<EmailAddress><![CDATA[icheese@wi.mit.edu]]></EmailAddress>
+<NSF_ID>000792699</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ekaterina</FirstName>
+<LastName>Grishchuk</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ekaterina L Grishchuk</PI_FULL_NAME>
+<EmailAddress><![CDATA[gekate@pennmedicine.upenn.edu]]></EmailAddress>
+<NSF_ID>000809482</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Whitehead Institute for Biomedical Research]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021421025</ZipCode>
+<PhoneNumber>6172585000</PhoneNumber>
+<StreetAddress><![CDATA[455 MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C186U32QSBR9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WHITEHEAD INSTITUTE FOR BIOMEDICAL RESEARCH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>C186U32QSBR9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Whitehead Institute for Biomedical Research]]></Name>
+<CityName/>
+<StateCode>MA</StateCode>
+<ZipCode>021421479</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111400</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~1200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Cell division is a fundamental process by which cells duplicate and segregate their genomes to generate new daughter cells. Despite its critical importance, many of the genes that regulate chromosome segregation are undergoing rapid evolution, with significant sequence differences observed even across closely related species. How variation in the mitotic programs impacts chromosome segregation remains poorly defined. This research project sought to understand this variation, to identify new proteins and pathways that regulate cell division, and determine the mechanisms by which cell division is differentially controlled in distinct cell types, cell states, and across organisms. To accomplish this, we developed collaborations with research groups that span broad disciplines including evolutionary biology, biophysics, cellular and molecular biology, and genetics to uncover what is driving the rapid evolution of cell division genes. In particular, we 1) Investigated the evolutionary dynamics of cell division genes across mammalian species, 2) Performed functional studies to define how evolutionary innovations in key cell division genes can promote speciation, 3) conducted cellular and biophysical studies to analyze the core principles of kinetochore assembly as guided by our evolutionary analysis, and 4) developed a CRISPR/CAS9 based screening approach to identify the genes and pathways that are differently required across organisms. This work has revealed substantial new insights into the mechanisms of kinetochore assembly, and has identified an important new player in cohesin biology, genome organization, and cell division.</p>  <p>This work resulted in multiple publications describing this work from the Cheeseman, Grishchuk, and Plachetzki labs, with discoveries that have important implications for the fundamental mechanisms of cell division and the nature of evolutionary differences. This grant also enabled substantial opportunities for career development, including resulting in Cheeseman lab post-doc Alexandra (Ally) Nguyen obtaining a tenure track position at the University of Colorado. Additional broader impacts from this grant include substantial educational outreach efforts, including providing research opportunities for high school interns from under-represented backgrounds and organizing #ProjectNavigate, an 8 week online program that engaged students in hands on activities and workshops through storytelling and equip them with 21st-century skills, including problem-solving, critical thinking and scientific inquiry, that are critical for navigating the transition to high school and beyond.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/13/2024<br> Modified by: Iain&nbsp;M&nbsp;Cheeseman</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Cell division is a fundamental process by which cells duplicate and segregate their genomes to generate new daughter cells. Despite its critical importance, many of the genes that regulate chromosome segregation are undergoing rapid evolution, with significant sequence differences observed even across closely related species. How variation in the mitotic programs impacts chromosome segregation remains poorly defined. This research project sought to understand this variation, to identify new proteins and pathways that regulate cell division, and determine the mechanisms by which cell division is differentially controlled in distinct cell types, cell states, and across organisms. To accomplish this, we developed collaborations with research groups that span broad disciplines including evolutionary biology, biophysics, cellular and molecular biology, and genetics to uncover what is driving the rapid evolution of cell division genes. In particular, we 1) Investigated the evolutionary dynamics of cell division genes across mammalian species, 2) Performed functional studies to define how evolutionary innovations in key cell division genes can promote speciation, 3) conducted cellular and biophysical studies to analyze the core principles of kinetochore assembly as guided by our evolutionary analysis, and 4) developed a CRISPR/CAS9 based screening approach to identify the genes and pathways that are differently required across organisms. This work has revealed substantial new insights into the mechanisms of kinetochore assembly, and has identified an important new player in cohesin biology, genome organization, and cell division.    This work resulted in multiple publications describing this work from the Cheeseman, Grishchuk, and Plachetzki labs, with discoveries that have important implications for the fundamental mechanisms of cell division and the nature of evolutionary differences. This grant also enabled substantial opportunities for career development, including resulting in Cheeseman lab post-doc Alexandra (Ally) Nguyen obtaining a tenure track position at the University of Colorado. Additional broader impacts from this grant include substantial educational outreach efforts, including providing research opportunities for high school interns from under-represented backgrounds and organizing #ProjectNavigate, an 8 week online program that engaged students in hands on activities and workshops through storytelling and equip them with 21st-century skills, including problem-solving, critical thinking and scientific inquiry, that are critical for navigating the transition to high school and beyond.         Last Modified: 12/13/2024       Submitted by: IainMCheeseman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FW-HTF-RM Collaborative Research: Augmenting Remote Medical Procedure Training and Assistance with Spatial Computing and Volumetric Capture]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>897306.00</AwardTotalIntnAmount>
+<AwardAmount>897306</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chia Shen</SignBlockName>
+<PO_EMAI>cshen@nsf.gov</PO_EMAI>
+<PO_PHON>7032928447</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Healthcare expenditure accounts for 17% of the US Gross Domestic Product and 12% of the workforce, but access to highly skilled health professionals is not evenly distributed across geographic and socioeconomic strata.  Videoconferencing-based telehealth systems partly address this inequality by enabling experts to assist and train remote or rural medical personnel. However, videoconferencing alone cannot adequately convey three-dimensional information that is essential in performing many medical procedures. For example, it is very difficult for an expert to precisely guide an operator's hand remotely in performing a medical procedure using only videoconferencing. This project will transform the way medical personnel communicates and collaborates across the distance by allowing for real-time exchange of three-dimensional information that is missing in current videoconferencing telehealth. The project will lead to more equitable access to healthcare; improved success for medical procedures that require the assistance of a remote expert; more cost-effective distribution of healthcare skills and training; and higher quality expert medical advice from a distance. It will also engage students in interdisciplinary research using emerging technology.&lt;br/&gt;&lt;br/&gt;The goals of this research include: i)  developing an understanding of the communication needs  for medical staff in distant  training, mentoring and procedural assistance, ii) insights into the application of mixed-reality volumetric representation and transmission in remote healthcare settings; iii) design guidelines for a mixed-reality volumetric communication system that simulates the physical presence of the patient at the location of the remote expert; iv) clinical evaluation of the utility of 3D spatial information in remote medical procedures assistance; and v) user studies examining the efficacy of spatially-enhanced communication in remote medical training and guidance.  The project aims to enroll 144 trainees consisting of medical and allied health students, physicians, physician assistants, and nurse practitioners to participate in randomized training experiments in three conditions: current standard training, 2D and voice guidance, and 3D mixed-reality. To achieve the above goals, researchers will also advance spatial computation and volumetric capture technologies. The project deliverables include a prototype of a spatial communication telehealth system that will create a real-time three-dimensional representation of the patient. This shared representation will be annotated with information exchanged between the medical procedure operator and the remotely guiding expert. The project is a collaboration between the Department of Emergency Medicine and the Clinical Learning and Simulation Skills Center at George Washington University, and American University. The multidisciplinary research team includes researchers from computer science, human-computer interaction, communication, telehealth, emergency medicine, medical simulation, and medical education.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026568</AwardID>
+<Investigator>
+<FirstName>Neal</FirstName>
+<LastName>Sikka</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Neal Sikka</PI_FULL_NAME>
+<EmailAddress><![CDATA[nsikka@mfa.gwu.edu]]></EmailAddress>
+<NSF_ID>000645951</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Colton</FirstName>
+<LastName>Hood</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Colton D Hood</PI_FULL_NAME>
+<EmailAddress><![CDATA[chood@mfa.gwu.edu]]></EmailAddress>
+<NSF_ID>000823265</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Rutenberg</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adam Rutenberg</PI_FULL_NAME>
+<EmailAddress><![CDATA[arutenberg@mfa.gwu.edu]]></EmailAddress>
+<NSF_ID>000823306</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Claudia</FirstName>
+<LastName>Ranniger</LastName>
+<PI_MID_INIT>U</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Claudia U Ranniger</PI_FULL_NAME>
+<EmailAddress><![CDATA[ranniger@gwu.edu]]></EmailAddress>
+<NSF_ID>000823334</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Washington University]]></Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200520042</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress><![CDATA[1918 F ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECR5E2LU5BL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE WASHINGTON UNIVERSITY (THE)</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Washington University]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200520010</ZipCode>
+<StreetAddress><![CDATA[2300 I St NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>103Y00</Code>
+<Text>FW-HTF Futr Wrk Hum-Tech Frntr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>FW-HTF Futr Wrk Hum-Tech Frntr</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~897306</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="OutlineElement Ltr SCXW132369808 BCX8">  <p class="Paragraph SCXW132369808 BCX8"><span class="TextRun SCXW132369808 BCX8" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW132369808 BCX8">This project </span><span class="NormalTextRun SCXW132369808 BCX8">aimed to develop </span><span class="NormalTextRun SCXW132369808 BCX8">an </span><span class="NormalTextRun SCXW132369808 BCX8">innovative augmented</span><span class="NormalTextRun SCXW132369808 BCX8"> reality (AR)</span><span class="NormalTextRun SCXW132369808 BCX8"> system </span><span class="NormalTextRun SCXW132369808 BCX8">with volumetric capture</span><span class="NormalTextRun SCXW132369808 BCX8"> </span><span class="NormalTextRun SCXW132369808 BCX8">designed to enhance </span><span class="NormalTextRun SCXW132369808 BCX8">remote expert instruction by </span><span class="NormalTextRun SCXW132369808 BCX8">evaluating technology</span><span class="NormalTextRun SCXW132369808 BCX8"> use in </span><span class="NormalTextRun SCXW132369808 BCX8">medical education and </span><span class="NormalTextRun SCXW132369808 BCX8">complex </span><span class="NormalTextRun SCXW132369808 BCX8">bedside procedures. </span><span class="NormalTextRun SCXW132369808 BCX8">This effort combined </span><span class="NormalTextRun SCXW132369808 BCX8">the use of </span><span class="NormalTextRun SCXW132369808 BCX8">augmented reality </span><span class="NormalTextRun SCXW132369808 BCX8">headsets, volumetric cameras, and</span><span class="NormalTextRun CommentStart SCXW132369808 BCX8"> </span><span class="NormalTextRun SCXW132369808 BCX8">computer </span><span class="NormalTextRun SCXW132369808 BCX8">graphics/</span><span class="NormalTextRun SCXW132369808 BCX8">vision</span><span class="NormalTextRun SCXW132369808 BCX8"> algorithms</span><span class="NormalTextRun SCXW132369808 BCX8"> to create </span><span class="NormalTextRun SCXW132369808 BCX8">novel</span><span class="NormalTextRun SCXW132369808 BCX8"> tools for healthcare practitioners, focusing on improving </span><span class="NormalTextRun SCXW132369808 BCX8">remote </span><span class="NormalTextRun SCXW132369808 BCX8">training</span><span class="NormalTextRun SCXW132369808 BCX8">, especially in under-resourced settings</span><span class="NormalTextRun SCXW132369808 BCX8">.</span><span class="NormalTextRun SCXW132369808 BCX8">&nbsp; </span><span class="NormalTextRun SCXW132369808 BCX8">T</span></span><span class="TextRun SCXW132369808 BCX8" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW132369808 BCX8">hrough</span><span class="NormalTextRun SCXW132369808 BCX8"> four phases of research, we compared the effectiveness of AR-based training to traditional in-person and video conferencing methods. Insights from these studies informed iterative improvements in the system, resulting in a portable, cost-effective system with high accuracy and usability.</span></span><span class="EOP SCXW132369808 BCX8">&nbsp;</span></p>  </div>  <div class="OutlineElement Ltr SCXW132369808 BCX8">  <p class="Paragraph SCXW132369808 BCX8"><span class="TextRun SCXW132369808 BCX8" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW132369808 BCX8">One of the project's primary accomplishments was the creation of a novel AR </span><span class="NormalTextRun SCXW132369808 BCX8">collaboration system </span><span class="NormalTextRun SCXW132369808 BCX8">that integrates real-time </span><span class="NormalTextRun SCXW132369808 BCX8">volumetric reconstruction</span><span class="NormalTextRun SCXW132369808 BCX8">. This system </span><span class="NormalTextRun SCXW132369808 BCX8">assists</span><span class="NormalTextRun SCXW132369808 BCX8"> healthcare professionals</span><span class="NormalTextRun SCXW132369808 BCX8"> to</span><span class="NormalTextRun SCXW132369808 BCX8"> </span><span class="NormalTextRun SCXW132369808 BCX8">visualiz</span><span class="NormalTextRun SCXW132369808 BCX8">e</span><span class="NormalTextRun SCXW132369808 BCX8"> anatomical structures and </span><span class="NormalTextRun SCXW132369808 BCX8">teach</span><span class="NormalTextRun SCXW132369808 BCX8"> or supervise</span><span class="NormalTextRun SCXW132369808 BCX8"> </span><span class="NormalTextRun SCXW132369808 BCX8">procedures </span><span class="NormalTextRun SCXW132369808 BCX8">remotely </span><span class="NormalTextRun SCXW132369808 BCX8">with enhanced </span><span class="NormalTextRun SCXW132369808 BCX8">visualization and interaction </span><span class="NormalTextRun SCXW132369808 BCX8">capabilities</span><span class="NormalTextRun SCXW132369808 BCX8">. </span><span class="NormalTextRun SCXW132369808 BCX8">A key focus was to ensure the </span><span class="NormalTextRun SCXW132369808 BCX8">system's </span><span class="NormalTextRun SCXW132369808 BCX8">accessibility by making it lightweight, affordable, and adaptable to various clinical environments.</span></span><span class="EOP SCXW132369808 BCX8">&nbsp;</span></p>  </div>  <div class="OutlineElement Ltr SCXW132369808 BCX8">  <p class="Paragraph SCXW132369808 BCX8"><span class="TextRun SCXW132369808 BCX8" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW132369808 BCX8">The </span><span class="NormalTextRun SCXW132369808 BCX8">system's </span><span class="NormalTextRun SCXW132369808 BCX8">unique capabilities were </span><span class="NormalTextRun SCXW132369808 BCX8">demonstrated</span><span class="NormalTextRun SCXW132369808 BCX8"> through applications in emergency care and medical training. </span><span class="NormalTextRun SCXW132369808 BCX8">The system </span><span class="NormalTextRun SCXW132369808 BCX8">enable</span><span class="NormalTextRun SCXW132369808 BCX8">s</span><span class="NormalTextRun SCXW132369808 BCX8"> </span><span class="NormalTextRun SCXW132369808 BCX8">remotely </span><span class="NormalTextRun SCXW132369808 BCX8">located</span><span class="NormalTextRun SCXW132369808 BCX8"> experts </span><span class="NormalTextRun SCXW132369808 BCX8">to </span><span class="NormalTextRun SCXW132369808 BCX8">view and interpret real-time transmission of </span><span class="NormalTextRun SCXW132369808 BCX8">ultrasound</span><span class="NormalTextRun SCXW132369808 BCX8"> images that enable successful </span><span class="NormalTextRun SCXW132369808 BCX8">performance</span><span class="NormalTextRun SCXW132369808 BCX8"> of complex medical procedures</span><span class="NormalTextRun SCXW132369808 BCX8">. </span><span class="NormalTextRun SCXW132369808 BCX8">C</span><span class="NormalTextRun SCXW132369808 BCX8">ombining real-time imaging with AR overlays</span><span class="NormalTextRun SCXW132369808 BCX8"> of the </span><span class="NormalTextRun SCXW132369808 BCX8">instructor'</span><span class="NormalTextRun SCXW132369808 BCX8">s</span><span class="NormalTextRun SCXW132369808 BCX8"> hands and other virtual artifacts compelled</span><span class="NormalTextRun SCXW132369808 BCX8"> remote </span><span class="NormalTextRun SCXW132369808 BCX8">instructors </span><span class="NormalTextRun SCXW132369808 BCX8">to consider</span><span class="NormalTextRun SCXW132369808 BCX8"> novel</span><span class="NormalTextRun SCXW132369808 BCX8"> approaches to guide learners</span><span class="NormalTextRun SCXW132369808 BCX8">.&nbsp;</span></span><span class="EOP SCXW132369808 BCX8">&nbsp;</span></p>  </div>  <div class="OutlineElement Ltr SCXW132369808 BCX8">  <p class="Paragraph SCXW132369808 BCX8"><span class="TextRun SCXW132369808 BCX8" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW132369808 BCX8">The research</span><span class="NormalTextRun SCXW132369808 BCX8"> focused on </span><span class="NormalTextRun SCXW132369808 BCX8">identifying</span><span class="NormalTextRun SCXW132369808 BCX8"> user needs and measuring cognitive workload</span><span class="NormalTextRun SCXW132369808 BCX8">, </span><span class="NormalTextRun SCXW132369808 BCX8">utilizing</span><span class="NormalTextRun SCXW132369808 BCX8"> v</span><span class="NormalTextRun SCXW132369808 BCX8">alidated tools like NASA TLX and SIM </span><span class="NormalTextRun SCXW132369808 BCX8">TLX</span><span class="NormalTextRun SCXW132369808 BCX8">, </span><span class="NormalTextRun SCXW132369808 BCX8">as</span><span class="NormalTextRun SCXW132369808 BCX8"> well as physiological measures such as heart rate and eye tracking, to assess the cognitive demands of AR-based training. Results showed that AR training imposed no</span><span class="NormalTextRun SCXW132369808 BCX8"> </span><span class="NormalTextRun SCXW132369808 BCX8">additional</span><span class="NormalTextRun SCXW132369808 BCX8"> cognitive load compared to video conferencing, </span><span class="NormalTextRun SCXW132369808 BCX8">demonstrating</span><span class="NormalTextRun SCXW132369808 BCX8"> its feasibility for complex procedural guidance</span><span class="NormalTextRun SCXW132369808 BCX8">.&nbsp;</span><span class="NormalTextRun SCXW132369808 BCX8">&nbsp;</span><span class="NormalTextRun SCXW132369808 BCX8"> Additionally, we analyzed teaching behaviors and user interaction within AR environments. Data on eye gaze, hand tracking, and workspace setup revealed valuable insights for improving the system's user interface and deeper understanding of how learners and instructors interact in mixed-reality settings. These findings were complemented by user feedback, which highlighted the system's potential to enhance teaching strategies through shared spatial views, virtual object overlays, and gesture-based interactions.</span></span><span class="EOP SCXW132369808 BCX8">&nbsp;</span></p>  </div>  <div class="OutlineElement Ltr SCXW132369808 BCX8">  <p class="Paragraph SCXW132369808 BCX8"><span class="TextRun SCXW132369808 BCX8" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW132369808 BCX8">In addition to technological innovation, the project emphasized educational outreach. The AR training system was successfully tested with medical </span><span class="NormalTextRun SCXW132369808 BCX8">students</span><span class="NormalTextRun SCXW132369808 BCX8">, </span><span class="NormalTextRun SCXW132369808 BCX8">and</span><span class="NormalTextRun SCXW132369808 BCX8"> early-career clinicians, receiving positive feedback for its ability to provide interactive and immersive learning experiences</span><span class="NormalTextRun SCXW132369808 BCX8">.&nbsp; </span><span class="NormalTextRun SCXW132369808 BCX8">Further, </span><span class="NormalTextRun SCXW132369808 BCX8">it </span><span class="NormalTextRun SCXW132369808 BCX8">foster</span><span class="NormalTextRun SCXW132369808 BCX8">ed</span><span class="NormalTextRun SCXW132369808 BCX8"> </span><span class="NormalTextRun SCXW132369808 BCX8">exposure to </span><span class="NormalTextRun SCXW132369808 BCX8">educational advancement</span><span class="NormalTextRun SCXW132369808 BCX8">s </span><span class="NormalTextRun SCXW132369808 BCX8">in STEM </span><span class="NormalTextRun SCXW132369808 BCX8">education</span><span class="NormalTextRun SCXW132369808 BCX8">, particularly </span><span class="NormalTextRun SCXW132369808 BCX8">for</span><span class="NormalTextRun SCXW132369808 BCX8"> healthcare applications.</span></span><span class="EOP SCXW132369808 BCX8">&nbsp;</span></p>  </div>  <div class="OutlineElement Ltr SCXW132369808 BCX8">  <p class="Paragraph SCXW132369808 BCX8"><span class="TextRun SCXW132369808 BCX8" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW132369808 BCX8">This work resulted in</span><span class="NormalTextRun SCXW132369808 BCX8"> a volumetric AR system that is portable and highly </span><span class="NormalTextRun SCXW132369808 BCX8">accurate</span><span class="NormalTextRun SCXW132369808 BCX8"> without requiring expensive tracking hardware</span><span class="NormalTextRun SCXW132369808 BCX8">.&nbsp;</span><span class="NormalTextRun SCXW132369808 BCX8"> </span><span class="NormalTextRun SCXW132369808 BCX8">The project </span><span class="NormalTextRun SCXW132369808 BCX8">has </span><span class="NormalTextRun SCXW132369808 BCX8">demonstrated</span><span class="NormalTextRun SCXW132369808 BCX8"> the transformative potential of AR in medical education and set the stage for future advancements in remote procedural training.</span></span><span class="TextRun SCXW132369808 BCX8" lang="EN-US" xml:lang="EN-US">&nbsp;</span><span class="EOP SCXW132369808 BCX8">&nbsp;</span></p>  </div>  <p>&nbsp;</p><br> <p>  Last Modified: 12/23/2024<br> Modified by: Neal&nbsp;Sikka</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[    This project aimed to develop an innovative augmented reality (AR) system with volumetric capture designed to enhance remote expert instruction by evaluating technology use in medical education and complex bedside procedures. This effort combined the use of augmented reality headsets, volumetric cameras, and computer graphics/vision algorithms to create novel tools for healthcare practitioners, focusing on improving remote training, especially in under-resourced settings. Through four phases of research, we compared the effectiveness of AR-based training to traditional in-person and video conferencing methods. Insights from these studies informed iterative improvements in the system, resulting in a portable, cost-effective system with high accuracy and usability.        One of the project's primary accomplishments was the creation of a novel AR collaboration system that integrates real-time volumetric reconstruction. This system assists healthcare professionals to visualize anatomical structures and teach or supervise procedures remotely with enhanced visualization and interaction capabilities. A key focus was to ensure the system's accessibility by making it lightweight, affordable, and adaptable to various clinical environments.        The system's unique capabilities were demonstrated through applications in emergency care and medical training. The system enables remotely located experts to view and interpret real-time transmission of ultrasound images that enable successful performance of complex medical procedures. Combining real-time imaging with AR overlays of the instructor's hands and other virtual artifacts compelled remote instructors to consider novel approaches to guide learners.        The research focused on identifying user needs and measuring cognitive workload, utilizing validated tools like NASA TLX and SIM TLX, as well as physiological measures such as heart rate and eye tracking, to assess the cognitive demands of AR-based training. Results showed that AR training imposed no additional cognitive load compared to video conferencing, demonstrating its feasibility for complex procedural guidance. Additionally, we analyzed teaching behaviors and user interaction within AR environments. Data on eye gaze, hand tracking, and workspace setup revealed valuable insights for improving the system's user interface and deeper understanding of how learners and instructors interact in mixed-reality settings. These findings were complemented by user feedback, which highlighted the system's potential to enhance teaching strategies through shared spatial views, virtual object overlays, and gesture-based interactions.        In addition to technological innovation, the project emphasized educational outreach. The AR training system was successfully tested with medical students, and early-career clinicians, receiving positive feedback for its ability to provide interactive and immersive learning experiences. Further, it fostered exposure to educational advancements in STEM education, particularly for healthcare applications.        This work resulted in a volumetric AR system that is portable and highly accurate without requiring expensive tracking hardware. The project has demonstrated the transformative potential of AR in medical education and set the stage for future advancements in remote procedural training.           Last Modified: 12/23/2024       Submitted by: NealSikka]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

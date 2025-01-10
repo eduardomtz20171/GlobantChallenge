@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Nonlinear label-free microscopy for evaluation of MSC osteogenic potency in 3D culture systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>299625.00</AwardTotalIntnAmount>
+<AwardAmount>299625</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+<PO_EMAI>speretti@nsf.gov</PO_EMAI>
+<PO_PHON>7032924201</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Cell therapeutics could become a $200+ billion global market in the next ten years. Much of the current research focuses on mesenchymal stromal cells (MSCs).  Current best practice in evaluating MSC culture activity requires staining the cells to detect the presence of certain cell components. However, this approach has shortcomings and may not represent the true state of the cells. The ideal monitoring technique would allow evaluation of the entire cell culture without stains or labels. This project will develop imaging techniques to monitor the culture without stains. This technology could be used in cell manufacturing processes. The project will also provide students at K-12 through graduate school training in cell manufacturing.&lt;br/&gt; &lt;br/&gt;The project will use a multiphoton imaging approach. It will investigate and synthesize parameters to create simultaneous imaging of multiple cell features associated with osteogenic differentiation. These include cell metabolism using redox ratio and NAD/FAD lifetime, cell shape and organelle content, and collagen production. Validation of imaging of 2-D cultures will use multivariate techniques. These techniques will extract the shape of cells and subcellular organelle organization, metabolic activity, and extracellular matrix production. These techniques will also create a 3-D reconstruction of small-scale cultures on 3-D osteogenic microbeads and hydrogel microcarriers. Experiments will explore MSC differentiation response and outcomes to osteogenic media formulations as a function of cell age and expansion media. Finally, this project will evaluate these label-free multiphoton imaging strategies to detect differences in MSC differentiation. The proposed approach has the potential to significantly transform the current practice of imaging and sorting stained or re-plated MSC samples.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040118</AwardID>
+<Investigator>
+<FirstName>Luke</FirstName>
+<LastName>Mortensen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luke Mortensen</PI_FULL_NAME>
+<EmailAddress><![CDATA[luke.mortensen@uga.edu]]></EmailAddress>
+<NSF_ID>000705746</NSF_ID>
+<StartDate>07/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Georgia Research Foundation Inc]]></Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress><![CDATA[310 E CAMPUS RD RM 409]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia Research Foundation Inc]]></Name>
+<CityName/>
+<StateCode>GA</StateCode>
+<ZipCode>306021589</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>149100</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1757</Code>
+<Text>Quantitative sys bio and biotech</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~168982</FUND_OBLG>
+<FUND_OBLG>2021~130643</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Intellectual merit:</p> <p>Cell manufacturing and the related supply chain industry could become a $200+ billion global market in the next ten years.&nbsp;<em>The goals of this proposal were to address specific needs identified by the NIST funded National Cell Manufacturing Consortium to develop in-line measurement methods and predictive models for therapeutic cell potency and health.</em>&nbsp;Specifically,&nbsp;in this high risk 2 year EAGER proposal, we worked to develop cutting edge technologies to analyze mesenchymal stromal cell (MSC) differentiation using nondestructive multiphoton label-free imaging. Results could enable label-free analysis and modification of cell potency in a manufacturing workflow to generate optimized and reproducible cell products to benefit society. The work primarily focused on the imaging of cell morphology and dynamics of MSC cultures under both expansion and osteogenic differentiation conditions. Initially we validated osteogenic differentiation of planar cultures, and used label-free phase imaging to track differentiation progress and predict degree of differentiation without terminating a culture. We explored MSC dynamics, morphology, and secretory profiles when cultured in 3D hydrogels. Finally, we used label-free nonlinear imaging to evaluate collagen organization with label-free second harmonic generation (SHG), imaging of mature bone cells with label-free third harmonic generation (THG), and redox ratio imaging of cultured MSCs. The project had significant hurdles to overcome with research slowdowns due to the COVID-19 pandemic. However, significant progress was made toward project goals.</p> <p>First, the project worked to identify label-free imaging markers of osteogenic differentiation. In this line of research, we optimized key osteogenic assays needed to guide nonlinear label-free imaging outcomes in 2D cultures. We looked at multiple bone marrow MSC donors and explored cell density and media formulation, and performed multiple runs of optimization to reproducibly measure the osteogenic markers alkaline phosphatase, picrosirius red for collagen, and alizarin red for mineral (<strong>Figure 1</strong>). We evaluated the potential of label-free imaging technologies to monitor the osteogenic differentiation progress, and used a differential phase contrast method to identify a clear accumulation in the total phase signal over 3 weeks of osteogenic differentiation. This label-free quantitative phase imaging method provided a rapid evaluation of differentiation status of the cultures, and during the final project year we implemented a range of image processing and machine learning techniques to relate phase features to differentiation progress. To date, we are able to predict the day of differentiation in three MSC lines using only quantitative phase imaging (<strong>Figure 2</strong>).&nbsp;</p> <p>We next established 3D culture systems and performed preliminary investigations into imaging and extracting 3D image features, showing by multivariate analysis that we can detect differences in MSC morphological signatures in a 3D culture system when cells are stimulated by a differentiation-model cytokine. We performed longitudinal imaging of these MSC cultures to study movement dynamics in 2D and 3D gels, and observed distinct differences in response between MSC donors. We further explored the relationship between cell dynamics and phenotypic outcome, finding a correlation between migration rates in 2D and 3D cultures and release of inflammatory-related cytokines. These migration and morphological features of the cells in 3D were found to be predictive of MSC immune function (<strong>Figure 3</strong>).</p> <p>As the primary proposed goal of the project was to establish our nonlinear imaging techniques for label-free quantification of cultured MSCs, our primary line of research pursued collagen organization using label-free second harmonic generation (SHG), imaging of mature bone cells using label-free third harmonic generation (THG), and redox ratio imaging of cultured MSCs. We have established 2-photon autofluorescence imaging of MSCs under growth conditions, and have manipulated mitochondrial pathways that modulate metabolic cycling in MSCs important in osteogenic differentiation (<strong>Figure 4</strong>).&nbsp;</p> <p>Broader Impacts:</p> <p>Our results set the stage for further development of label-free analysis and modification of cell potency in a manufacturing workflow to generate optimized and reproducible cell products to benefit society. The project integrated cell manufacturing training of a highly inclusive group of engineering students at the pre-college, undergraduate, and graduate levels including multiple NSF REU students. More broadly, in future work our multichannel SHG, THG, and NAD/FAD metabolic autofluorescence imaging approach could be refined for different cell therapy applications (e.g. MSC immune suppression or T-cell production) and even be applied to the direct evaluation of microcarriers inside a bioreactor by adapting emerging endoscopic 2 photon imaging approaches for in-line evaluation during cell manufacturing workflows which could have a societal impact through enhanced biomanufacturing outcomes.</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/26/2024<br> Modified by: Luke&nbsp;Mortensen</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2040118/2040118_10687182_1721935380718_240701_NSF_EAGER_FINAL_OUTCOMES_FIG_2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2040118/2040118_10687182_1721935380718_240701_NSF_EAGER_FINAL_OUTCOMES_FIG_2--rgov-800width.jpg" title="Figure 2. Phase microscopy to evaluate MSC osteogenic differentiation progress."><img src="/por/images/Reports/POR/2024/2040118/2040118_10687182_1721935380718_240701_NSF_EAGER_FINAL_OUTCOMES_FIG_2--rgov-66x44.jpg" alt="Figure 2. Phase microscopy to evaluate MSC osteogenic differentiation progress."></a> <div class="imageCaptionContainer"> <div class="imageCaption">(A) Quantitative phase imaging of expanding and differentiated MSCs (false colored). (B) Differentiation progress, quarter-well images with relative phase in inset. (C) Dimension reduction of phase features showing differentiation. (D) Machine learning models to predict differentiation with phase.</div> <div class="imageCredit">Joseph Ametepe, Adrian Liversage, Tianyi Zheng, Luke Mortensen</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Luke&nbsp;Mortensen <div class="imageTitle">Figure 2. Phase microscopy to evaluate MSC osteogenic differentiation progress.</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2040118/2040118_10687182_1721972338486_240701_NSF_EAGER_FINAL_OUTCOMES_fig_3--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2040118/2040118_10687182_1721972338486_240701_NSF_EAGER_FINAL_OUTCOMES_fig_3--rgov-800width.jpg" title="Figure 3. MSC immune potency and secretory profiles with migration and morphology in 3D hydrogel culture."><img src="/por/images/Reports/POR/2024/2040118/2040118_10687182_1721972338486_240701_NSF_EAGER_FINAL_OUTCOMES_fig_3--rgov-66x44.jpg" alt="Figure 3. MSC immune potency and secretory profiles with migration and morphology in 3D hydrogel culture."></a> <div class="imageCaptionContainer"> <div class="imageCaption">(A) 3D view of MSCs in hydrogel. (B) & (C) Migration of 5 MSC donors. (D) Analyte secretion of 5 MSCs donors, and linear regression vs. migration. (E) Logistic regression prediction of MSC immune activity using 3D morphology and migration.</div> <div class="imageCredit">Priyanka Priyadarshani, Rebecca Schneider, Andres Garcia, Luke Mortensen</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Luke&nbsp;Mortensen <div class="imageTitle">Figure 3. MSC immune potency and secretory profiles with migration and morphology in 3D hydrogel culture.</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2040118/2040118_10687182_1721972502333_240701_NSF_EAGER_FINAL_OUTCOMES_fig_4--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2040118/2040118_10687182_1721972502333_240701_NSF_EAGER_FINAL_OUTCOMES_fig_4--rgov-800width.jpg" title="Figure 4. MSC collagen fiber second harmonic generation (SHG), 2 photon autofluorescence redox ratio, and third harmonic generation (THG) imaging during osteogenic differentiation."><img src="/por/images/Reports/POR/2024/2040118/2040118_10687182_1721972502333_240701_NSF_EAGER_FINAL_OUTCOMES_fig_4--rgov-66x44.jpg" alt="Figure 4. MSC collagen fiber second harmonic generation (SHG), 2 photon autofluorescence redox ratio, and third harmonic generation (THG) imaging during osteogenic differentiation."></a> <div class="imageCaptionContainer"> <div class="imageCaption">(A) SHG and osteogenic cells. (B) Osteogenesis in 2 cell lines. (C) Multiphoton imaging of osteogenic MSCs. (D) 2-photon autofluorescence optical redox ratio in MSCs and after mitochondria stimulation (NaCN/FCCP). (D) Redox ratio in MSCs after full osteogenic differentiation.</div> <div class="imageCredit">Emily Pendleton, Tianyi Zheng, Rezwana Nazrin, Luke Mortensen</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Luke&nbsp;Mortensen <div class="imageTitle">Figure 4. MSC collagen fiber second harmonic generation (SHG), 2 photon autofluorescence redox ratio, and third harmonic generation (THG) imaging during osteogenic differentiation.</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2040118/2040118_10687182_1721932363382_240701_NSF_EAGER_FINAL_OUTCOMES_fig_1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2040118/2040118_10687182_1721932363382_240701_NSF_EAGER_FINAL_OUTCOMES_fig_1--rgov-800width.jpg" title="Figure 1. Variation between donors in MSC mineralization during osteogenic differentiation."><img src="/por/images/Reports/POR/2024/2040118/2040118_10687182_1721932363382_240701_NSF_EAGER_FINAL_OUTCOMES_fig_1--rgov-66x44.jpg" alt="Figure 1. Variation between donors in MSC mineralization during osteogenic differentiation."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Osteogenic differentiation of three different primary human bone marrow MSC donors using alizarin red staining to evaluate mineral deposition. Differences between the donors in mineral deposition rate is observed in representative images and in quantification of % of the well mineralized.</div> <div class="imageCredit">Joseph Ametepe and Luke Mortensen</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Luke&nbsp;Mortensen <div class="imageTitle">Figure 1. Variation between donors in MSC mineralization during osteogenic differentiation.</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual merit:   Cell manufacturing and the related supply chain industry could become a $200+ billion global market in the next ten years.The goals of this proposal were to address specific needs identified by the NIST funded National Cell Manufacturing Consortium to develop in-line measurement methods and predictive models for therapeutic cell potency and health.Specifically,in this high risk 2 year EAGER proposal, we worked to develop cutting edge technologies to analyze mesenchymal stromal cell (MSC) differentiation using nondestructive multiphoton label-free imaging. Results could enable label-free analysis and modification of cell potency in a manufacturing workflow to generate optimized and reproducible cell products to benefit society. The work primarily focused on the imaging of cell morphology and dynamics of MSC cultures under both expansion and osteogenic differentiation conditions. Initially we validated osteogenic differentiation of planar cultures, and used label-free phase imaging to track differentiation progress and predict degree of differentiation without terminating a culture. We explored MSC dynamics, morphology, and secretory profiles when cultured in 3D hydrogels. Finally, we used label-free nonlinear imaging to evaluate collagen organization with label-free second harmonic generation (SHG), imaging of mature bone cells with label-free third harmonic generation (THG), and redox ratio imaging of cultured MSCs. The project had significant hurdles to overcome with research slowdowns due to the COVID-19 pandemic. However, significant progress was made toward project goals.   First, the project worked to identify label-free imaging markers of osteogenic differentiation. In this line of research, we optimized key osteogenic assays needed to guide nonlinear label-free imaging outcomes in 2D cultures. We looked at multiple bone marrow MSC donors and explored cell density and media formulation, and performed multiple runs of optimization to reproducibly measure the osteogenic markers alkaline phosphatase, picrosirius red for collagen, and alizarin red for mineral (Figure 1). We evaluated the potential of label-free imaging technologies to monitor the osteogenic differentiation progress, and used a differential phase contrast method to identify a clear accumulation in the total phase signal over 3 weeks of osteogenic differentiation. This label-free quantitative phase imaging method provided a rapid evaluation of differentiation status of the cultures, and during the final project year we implemented a range of image processing and machine learning techniques to relate phase features to differentiation progress. To date, we are able to predict the day of differentiation in three MSC lines using only quantitative phase imaging (Figure 2).   We next established 3D culture systems and performed preliminary investigations into imaging and extracting 3D image features, showing by multivariate analysis that we can detect differences in MSC morphological signatures in a 3D culture system when cells are stimulated by a differentiation-model cytokine. We performed longitudinal imaging of these MSC cultures to study movement dynamics in 2D and 3D gels, and observed distinct differences in response between MSC donors. We further explored the relationship between cell dynamics and phenotypic outcome, finding a correlation between migration rates in 2D and 3D cultures and release of inflammatory-related cytokines. These migration and morphological features of the cells in 3D were found to be predictive of MSC immune function (Figure 3).   As the primary proposed goal of the project was to establish our nonlinear imaging techniques for label-free quantification of cultured MSCs, our primary line of research pursued collagen organization using label-free second harmonic generation (SHG), imaging of mature bone cells using label-free third harmonic generation (THG), and redox ratio imaging of cultured MSCs. We have established 2-photon autofluorescence imaging of MSCs under growth conditions, and have manipulated mitochondrial pathways that modulate metabolic cycling in MSCs important in osteogenic differentiation (Figure 4).   Broader Impacts:   Our results set the stage for further development of label-free analysis and modification of cell potency in a manufacturing workflow to generate optimized and reproducible cell products to benefit society. The project integrated cell manufacturing training of a highly inclusive group of engineering students at the pre-college, undergraduate, and graduate levels including multiple NSF REU students. More broadly, in future work our multichannel SHG, THG, and NAD/FAD metabolic autofluorescence imaging approach could be refined for different cell therapy applications (e.g. MSC immune suppression or T-cell production) and even be applied to the direct evaluation of microcarriers inside a bioreactor by adapting emerging endoscopic 2 photon imaging approaches for in-line evaluation during cell manufacturing workflows which could have a societal impact through enhanced biomanufacturing outcomes.        Last Modified: 07/26/2024       Submitted by: LukeMortensen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Investigating Wind Farm Wake Interactions by Leveraging a Viscous Vortex Particle Method]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>One major impediment in the wind energy field is managing the power losses (10-30%) that occur in a wind farm because of wake interference.  Mitigating these losses by even a few percent would have a major impact on our ability to abundantly produce clean energy and reduce greenhouse gas emissions. Reducing these losses requires untangling the complexities of wind farm flow behavior.  Wind farms typically consist of 10s or 100s of turbines, with rotating blades creating wakes that mix and interact, affected by terrain and atmospheric behavior across many scales.  Vortex particle methods have been demonstrated to be an effective approach for simulating wake-dominant flows in adjacent fields (e.g., rotorcraft) and can potentially offer insight into wind farm flow fields at much faster computational speeds compared to traditional methods.  However, efficiently propagating vortex particles around viscous walls (e.g., terrain, other turbines) remains a challenge that is a focal point of this proposal.  The fundamental methodology could potentially be useful in other wake-dominant flow fields like simulating aircraft, underwater vehicles, the motion of water or smoke around other objects, etc. The project will also facilitate the development of a learn-by-doing platform to introduce students to computational aerodynamics—like a Codecademy® for aerodynamics.&lt;br/&gt;&lt;br/&gt;The viscous vortex particle method is based on solving the vorticity form of the Navier-Stokes equations, and, using a meshless Lagrangian scheme, which can accurately preserve vortical structures and improve computational efficiency by placing particles only where needed. The first objective is to extend the methodology to allow for efficient propagation of particles around viscous walls.  The second objective is to leverage the speed of the proposed methodology to create a new analytical wake model appropriate for mixed height wind farms. Recent work has demonstrated that mixed height wind farms have the potential for a significant increase in power production.  Existing analytical wake models are often not appropriate for these scenarios as they do not include important coupling effects such as mixing and entrainment.  So, the third objective is to conduct broad sensitivity studies to identify the most relevant parameters and strategies to mitigate the negative effects of partial waking. Wind turbines often encounter incoming wakes over just a portion of the rotor disk causing asymmetric loading and potentially increased fatigue damage and noise. The proposed methodology provides a good balance between capturing the fidelity in flow physics with prediction speed to enable a robust exploration of wake interactions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006219</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Ning</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew Ning</PI_FULL_NAME>
+<EmailAddress><![CDATA[aning@byu.edu]]></EmailAddress>
+<NSF_ID>000690627</NSF_ID>
+<StartDate>04/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Brigham Young University]]></Name>
+<CityName>PROVO</CityName>
+<ZipCode>846021128</ZipCode>
+<PhoneNumber>8014223360</PhoneNumber>
+<StreetAddress><![CDATA[A-153 ASB]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JWSYC7RUMJD1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BRIGHAM YOUNG UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brigham Young University]]></Name>
+<CityName>Provo</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>846021231</ZipCode>
+<StreetAddress><![CDATA[A-285 ASB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Early in this project we found that vortex particle methods (VPM) suffer from numerical stability and pivoted our efforts.&nbsp; We were able to derive a new set of governing equations from the LES-filtered Navier-Stokes equations.&nbsp; These new equations satisfy conservation of angular momentum (whereas existing VPM theory does not).&nbsp; We refer to these new equations as the reformulated vortex particle method. With the increased stability, simulations could run longer, and so we then needed to address the turbulent energy cascade with a subgrid scale model (we refer to the subgrid scale model as a subfilter model since the methodology is meshless).&nbsp; We developed a new anisotropic dynamic model of subfilter-scale vortex stretching.&nbsp; Validations were performed of a turbulent round jet and an aircraft rotor in hover (and supplementary validations of leapfrogging vortex rings).&nbsp; This work was published in an open-access paper:&nbsp;https://arc.aiaa.org/doi/epdf/10.2514/1.J063045&nbsp; The code was open-sourced at:&nbsp;https://github.com/byuflowlab/FLOWVPM.jl</p> <p>Next, we extended the methodology with actuator line methods, and a novel vorticity-based actuator surface method to enable broader interactional aerodynamic studies. There were some excellent published experimental datasets for wing-mounted propellers so we focused on these for additional validation studiers.&nbsp; We performed several validations of the loads and flow field for propeller-wing interactions of a tailplane with tip-mounted propellers and a blown wing with mid-span-mounted propellers.&nbsp; The postprint of this paper (10.2514/1.C037279) is available in an institutional repository:&nbsp;https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=7695&amp;context=facpub&nbsp;</p> <p>An open-source code framework for all of these methodologies, called FLOWUnsteady, is available at:&nbsp;https://github.com/byuflowlab/FLOWUnsteady with extensive documentation at:&nbsp;https://flow.byu.edu/FLOWUnsteady/ The documentation includes 8 detailed tutorials, theory, api descriptions, visualization guides, and many demonstration videos.&nbsp; The code is written in Julia.</p> <p>Ongoing work is extending the methodology to efficiently incorporate (inviscid) solid boundaries through a generalized fast multipole method.&nbsp;</p> <p>Educational efforts focused on creating a freely available textbook that focused on numerical implementation of various aerodynamic methods in a learn-by-doing manner.&nbsp; While covering fundamental aerodynamic theory the text describes a 2d panel method, integral boundary layer method, vortex lattice method, blade element momentum method, and corrections to potential flow theory for compressible flow.&nbsp; The text and problems are often used as onboarding problems for new students in our research lab. This is an ongoing work but is available at:&nbsp;http://flowlab.groups.et.byu.net/me515/aero.pdf&nbsp; A set of youtube videos for some of these topics was also created at:&nbsp;https://youtube.com/playlist?list=PLj6pNSgoumydi4tiofayriGGjK-XiEsUY</p> <p>&nbsp;</p><br> <p>  Last Modified: 06/14/2024<br> Modified by: Andrew&nbsp;Ning</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718409679176_fig03_ch_rvpm_tubevortexstretching04--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718409679176_fig03_ch_rvpm_tubevortexstretching04--rgov-800width.jpg" title="vortex stretching"><img src="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718409679176_fig03_ch_rvpm_tubevortexstretching04--rgov-66x44.jpg" alt="vortex stretching"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Stretching of a spherical fluid element and the associated increase in vorticity (or angular velocity).</div> <div class="imageCredit">Eduardo Alvarez and Andrew Ning</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;Ning <div class="imageTitle">vortex stretching</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718409818530_fig15_rotor_viz000--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718409818530_fig15_rotor_viz000--rgov-800width.jpg" title="Vorticity of rotor in hover for 15 revolutions"><img src="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718409818530_fig15_rotor_viz000--rgov-66x44.jpg" alt="Vorticity of rotor in hover for 15 revolutions"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Volume rendering of vorticity field for a rotor in hover after 15 revolutions</div> <div class="imageCredit">Eduardo Alvarez and Andrew Ning</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;Ning <div class="imageTitle">Vorticity of rotor in hover for 15 revolutions</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718409938557_figsup09_leapfrog_img0114--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718409938557_figsup09_leapfrog_img0114--rgov-800width.jpeg" title="Vortex leapfrog"><img src="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718409938557_figsup09_leapfrog_img0114--rgov-66x44.jpeg" alt="Vortex leapfrog"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Volume rendering of vorticity field as the leapfrogging rings merge.</div> <div class="imageCredit">Eduardo Alvarez and Andrew Ning</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;Ning <div class="imageTitle">Vortex leapfrog</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718409349800_prowimhtp_wvol00smallerflipped--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718409349800_prowimhtp_wvol00smallerflipped--rgov-800width.jpg" title="Propeller-wing vorticity field"><img src="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718409349800_prowimhtp_wvol00smallerflipped--rgov-66x44.jpg" alt="Propeller-wing vorticity field"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Volume rendering of vorticity in simulation of tailplane with tip-mounted propeller.</div> <div class="imageCredit">Eduardo Alvarez and Andrew Ning</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;Ning <div class="imageTitle">Propeller-wing vorticity field</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718409548337_rotorwing_tipmounted_axvort--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718409548337_rotorwing_tipmounted_axvort--rgov-800width.jpg" title="Vorticity validation"><img src="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718409548337_rotorwing_tipmounted_axvort--rgov-66x44.jpg" alt="Vorticity validation"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Time-average vorticity across elevator and tip vortices compared to experimental data.</div> <div class="imageCredit">Eduardo Alva</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;Ning <div class="imageTitle">Vorticity validation</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718406520996_fig01_vahana2_transition_005_fdom03_1_fdom01--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718406520996_fig01_vahana2_transition_005_fdom03_1_fdom01--rgov-800width.jpg" title="Multirotor aircraft VPM"><img src="/por/images/Reports/POR/2024/2006219/2006219_10662766_1718406520996_fig01_vahana2_transition_005_fdom03_1_fdom01--rgov-66x44.jpg" alt="Multirotor aircraft VPM"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Vorticity field from our meshless LES (reformulated VPM) of a multirotor aircraft.</div> <div class="imageCredit">Eduardo Alvarez and Andrew Ning</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;Ning <div class="imageTitle">Multirotor aircraft VPM</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Early in this project we found that vortex particle methods (VPM) suffer from numerical stability and pivoted our efforts. We were able to derive a new set of governing equations from the LES-filtered Navier-Stokes equations. These new equations satisfy conservation of angular momentum (whereas existing VPM theory does not). We refer to these new equations as the reformulated vortex particle method. With the increased stability, simulations could run longer, and so we then needed to address the turbulent energy cascade with a subgrid scale model (we refer to the subgrid scale model as a subfilter model since the methodology is meshless). We developed a new anisotropic dynamic model of subfilter-scale vortex stretching. Validations were performed of a turbulent round jet and an aircraft rotor in hover (and supplementary validations of leapfrogging vortex rings). This work was published in an open-access paper:https://arc.aiaa.org/doi/epdf/10.2514/1.J063045 The code was open-sourced at:https://github.com/byuflowlab/FLOWVPM.jl   Next, we extended the methodology with actuator line methods, and a novel vorticity-based actuator surface method to enable broader interactional aerodynamic studies. There were some excellent published experimental datasets for wing-mounted propellers so we focused on these for additional validation studiers. We performed several validations of the loads and flow field for propeller-wing interactions of a tailplane with tip-mounted propellers and a blown wing with mid-span-mounted propellers. The postprint of this paper (10.2514/1.C037279) is available in an institutional repository:https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=7695&context=facpub   An open-source code framework for all of these methodologies, called FLOWUnsteady, is available at:https://github.com/byuflowlab/FLOWUnsteady with extensive documentation at:https://flow.byu.edu/FLOWUnsteady/ The documentation includes 8 detailed tutorials, theory, api descriptions, visualization guides, and many demonstration videos. The code is written in Julia.   Ongoing work is extending the methodology to efficiently incorporate (inviscid) solid boundaries through a generalized fast multipole method.   Educational efforts focused on creating a freely available textbook that focused on numerical implementation of various aerodynamic methods in a learn-by-doing manner. While covering fundamental aerodynamic theory the text describes a 2d panel method, integral boundary layer method, vortex lattice method, blade element momentum method, and corrections to potential flow theory for compressible flow. The text and problems are often used as onboarding problems for new students in our research lab. This is an ongoing work but is available at:http://flowlab.groups.et.byu.net/me515/aero.pdf A set of youtube videos for some of these topics was also created at:https://youtube.com/playlist?list=PLj6pNSgoumydi4tiofayriGGjK-XiEsUY        Last Modified: 06/14/2024       Submitted by: AndrewNing]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

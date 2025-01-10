@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Fusing Massive Disparate Data and Fast Surrogate Models for Probabilistic Quantification of Uncertain Hazards]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>140000.00</AwardTotalIntnAmount>
+<AwardAmount>140000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Mitigating the impact of natural hazards, such as volcanic eruptions, earthquakes, or infectious diseases, rests on our ability to accurately quantify hazard risks in advance of their occurrence. This project will tackle this challenge and develop a new computationally feasible framework to integrate disparate field observations and computer simulations.  The new framework will deliver substantial upgrades in computational efficiency for natural hazard quantification. One testbed will be the 2018 eruption of the Kilauea Volcano in Hawaii, which injured 23 people and destroyed more than 700 dwellings. For this event, extensive field observations from disparate sources, such as radar satellites, global navigation satellite system receivers, borehole tiltmeters, and seismometers, as well as large-scale computer simulations, will be used to analyze methods for volcanic hazard quantification. The methods developed in the project will be implemented in open-source software available to a wide community of scientists and engineers. The project is complemented by training for both graduate and undergraduate students.&lt;br/&gt;                                                                            &lt;br/&gt;The first major roadblock for precisely quantifying uncertain natural hazards is the computational scalability of computer simulations, as they often require the numerical solution of partial differential equations on massive spatio-temporal domains with multi-dimensional input. This challenge will be overcome by developing Gaussian process (GP) emulators as a computationally feasible surrogate model to approximate outcomes of computer experiments. This approach is appealing because it not only includes parallel predictions with linear computational order with respect to the number of coordinates, but it also leverages the correlation between coordinates to enable fast predictive sampling. The second computational challenge is in fusing disparate data from multiple sources to calibrate physical models. The project will address this challenge by quantifying uncertainty in data processing and estimating the discrepancy between the physical model and reality to allow for data integration. While this project focuses on applications in natural hazard quantification, the new GP emulator, computational tools for model calibration, and data integration methods will more generally extend the applicability of data science and machine learning algorithms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/11/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2053423</AwardID>
+<Investigator>
+<FirstName>Mengyang</FirstName>
+<LastName>Gu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mengyang Gu</PI_FULL_NAME>
+<EmailAddress><![CDATA[mengyang@pstat.ucsb.edu]]></EmailAddress>
+<NSF_ID>000744583</NSF_ID>
+<StartDate>03/11/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress><![CDATA[3227 CHEADLE HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>Santa Barbara</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>931062050</ZipCode>
+<StreetAddress><![CDATA[3227 Cheadle Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806900</Code>
+<Text>CDS&amp;E-MSS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~47846</FUND_OBLG>
+<FUND_OBLG>2022~49281</FUND_OBLG>
+<FUND_OBLG>2023~42873</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project has two main aims to advance statistical estimation and uncertainty quantification. The first aim is to develop accurate surrogate models or emulators for approximating expensive computer simulations with massive data, widely used for reproducing complex systems in scientific discovery processes. Second, as modern measurements can have different types or sources of data, the second aim is to integrate disparate data for data inversion and model calibration. For both aims, increasing the computational scalability of the algorithm without sacrificing accuracy in prediction and uncertainty quantification is a focal point. These two aims are motivated by various real-world applications in physics, materials science, and epidemiology.</p> <p>&nbsp;</p> <p>This project generated three main findings toward the first aim. First, estimated uncertainty from probabilistic models can be used to determine whether additional samples are required in specific input regions to control the predictive error in predictions. The adaptive design criterion developed in this project can not only reduce the number of samples to be collected, but also ensure the predictive error is reliably controlled (see the publication with doi:10.1063/5.0121805). Both are particularly useful for predicting nonlinear maps with a large input space. Second, input augmentation and decomposition can enhance the predictive accuracy or reduce the computational cost of surrogate models. For instance, using a derived input based on the free input variables enhances the predictive accuracy of the surrogate model, which is used to emulate elastic continuum mechanical models of ground deformation due to pressure changes of magma reservoirs (doi:10.1029/2024JH000161). Third, large matrix inversion and multiplication represent a key computation bottleneck in statistics and domain science. This project integrates fast and exact algorithms, such as the Kalman filter, fast Fourier transform, and general Schur algorithm in statistical models and tools. These algorithms motivate the development of new fast algorithms, such as fast matrix multiplication algorithms with applications in estimating particle interaction kernel functions (doi:10.51387/22-NEJSDS13).</p> <p>&nbsp;</p> <p>This project led to two major outcomes for the second aim. First, this project develops new approaches for integrating disparate data from multiple sources for model calibration (doi:10.1080/00401706.2023.2182365), and these methods are implemented in an R package for data inversion and model calibration (doi: 10.32614/RJ-2023-085). This package integrates both scalar and vector surrogate models, such as the parallel partial Gaussian process surrogate, and enables the users to emulate expensive computer models with massive outcomes and calibrate their models by field data in one line of code. Second, this project develops new approaches for constructing probabilistic models and fast algorithms to automate data inversion. For instance, differential dynamic microscopy (DDM) is a popular physical approach that uses the Fourier basis method to extract information from optical microscopy videos. However, a Fourier basis range must be chosen in a case-by-case manner. This project develops uncertainty quantification methods (doi:10.1103/PhysRevE.104.034610) and more efficient estimators that naturally weigh the information on&nbsp; Fourier basis functions to improve DDM. Furthermore, the general Schur algorithm is used for accelerating the computation without approximation.</p> <p>&nbsp;</p> <p>This project led to the development of several new packages, such as DDM-UQ and SKFCPD, available on GitHub and CRAN, respectively, and substantial improvement of the RobustGaSP package available in CRAN (for R version) and GitHub (for MATLAB and Python versions), and RobustCalibration available in CRAN. These new tools of computational model emulation, calibration, and change detection have broad impacts in a wide range of areas, including geophysics, soft condensed matter physics, epidemiology, materials sciences, and power system management. Furthermore, the project supports the fundamental development of fast and exact algorithms for matrix inversion and multiplication, and the preliminary results may help overcome the computational bottleneck of surrogate models without sacrificing accuracy.</p><br> <p>  Last Modified: 08/26/2024<br> Modified by: Mengyang&nbsp;Gu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project has two main aims to advance statistical estimation and uncertainty quantification. The first aim is to develop accurate surrogate models or emulators for approximating expensive computer simulations with massive data, widely used for reproducing complex systems in scientific discovery processes. Second, as modern measurements can have different types or sources of data, the second aim is to integrate disparate data for data inversion and model calibration. For both aims, increasing the computational scalability of the algorithm without sacrificing accuracy in prediction and uncertainty quantification is a focal point. These two aims are motivated by various real-world applications in physics, materials science, and epidemiology.      This project generated three main findings toward the first aim. First, estimated uncertainty from probabilistic models can be used to determine whether additional samples are required in specific input regions to control the predictive error in predictions. The adaptive design criterion developed in this project can not only reduce the number of samples to be collected, but also ensure the predictive error is reliably controlled (see the publication with doi:10.1063/5.0121805). Both are particularly useful for predicting nonlinear maps with a large input space. Second, input augmentation and decomposition can enhance the predictive accuracy or reduce the computational cost of surrogate models. For instance, using a derived input based on the free input variables enhances the predictive accuracy of the surrogate model, which is used to emulate elastic continuum mechanical models of ground deformation due to pressure changes of magma reservoirs (doi:10.1029/2024JH000161). Third, large matrix inversion and multiplication represent a key computation bottleneck in statistics and domain science. This project integrates fast and exact algorithms, such as the Kalman filter, fast Fourier transform, and general Schur algorithm in statistical models and tools. These algorithms motivate the development of new fast algorithms, such as fast matrix multiplication algorithms with applications in estimating particle interaction kernel functions (doi:10.51387/22-NEJSDS13).      This project led to two major outcomes for the second aim. First, this project develops new approaches for integrating disparate data from multiple sources for model calibration (doi:10.1080/00401706.2023.2182365), and these methods are implemented in an R package for data inversion and model calibration (doi: 10.32614/RJ-2023-085). This package integrates both scalar and vector surrogate models, such as the parallel partial Gaussian process surrogate, and enables the users to emulate expensive computer models with massive outcomes and calibrate their models by field data in one line of code. Second, this project develops new approaches for constructing probabilistic models and fast algorithms to automate data inversion. For instance, differential dynamic microscopy (DDM) is a popular physical approach that uses the Fourier basis method to extract information from optical microscopy videos. However, a Fourier basis range must be chosen in a case-by-case manner. This project develops uncertainty quantification methods (doi:10.1103/PhysRevE.104.034610) and more efficient estimators that naturally weigh the information on Fourier basis functions to improve DDM. Furthermore, the general Schur algorithm is used for accelerating the computation without approximation.      This project led to the development of several new packages, such as DDM-UQ and SKFCPD, available on GitHub and CRAN, respectively, and substantial improvement of the RobustGaSP package available in CRAN (for R version) and GitHub (for MATLAB and Python versions), and RobustCalibration available in CRAN. These new tools of computational model emulation, calibration, and change detection have broad impacts in a wide range of areas, including geophysics, soft condensed matter physics, epidemiology, materials sciences, and power system management. Furthermore, the project supports the fundamental development of fast and exact algorithms for matrix inversion and multiplication, and the preliminary results may help overcome the computational bottleneck of surrogate models without sacrificing accuracy.     Last Modified: 08/26/2024       Submitted by: MengyangGu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

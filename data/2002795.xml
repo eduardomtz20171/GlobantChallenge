@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF/DMR-BSF: Electronic Correlations and Disorder in Berry materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>328184.00</AwardTotalIntnAmount>
+<AwardAmount>328184</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexios Klironomos</SignBlockName>
+<PO_EMAI>aklirono@nsf.gov</PO_EMAI>
+<PO_PHON>7032924920</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NONTECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This award supports theoretical research aimed at investigating the origin of unusual thermodynamic and transport properties that have been observed in a variety of novel materials in which the electron-electron interaction is strong. Recent experimental results on these systems have highlighted the emerging conceptual challenges that arise due to the interplay between electron-electron interaction and disorder, and the need to develop new theoretical tools to address these challenges. The goal of this project is to confront some of these challenges by formulating new physical concepts, which are expected to lead to a deeper understanding of the unusual experimental findings. The PI and his students will study three classes of electronic systems: (i) Materials which have unconventional superconducting properties, (ii) Materials which undergo a metal-insulator transition in their bulk, while their surface states remain metallic, and (iii) Iron-based superconductors which allow for the coexistence of superconductivity and magnetism upon chemical doping. &lt;br/&gt;&lt;br/&gt;This award also supports the PI’s educational and outreach activities, which include (i) the training of graduate students in modern condensed matter physics, (ii) the creation of a comprehensive collection of problems on the topic of superconductivity suitable for advanced graduate students, (ii) translation of a book dedicated to the memory of physicist Lev Landau, and (iv) preparation of a set of presentations on the “Physics of Cycling” for members of the local road cycling club at Kent Free Public Library.&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This award supports theoretical research aimed at developing a theory of correlated electronic systems with Berry curvature to account for the interplay between electron-electron interaction and disorder.  The PI will use contemporary methods such as field theory of non-equilibrium systems, diagrammatic approach, and exact integrability to (i) investigate anomalous transport properties in unconventional superconductors, (ii) study the quantum interference effects due to an interplay between Coulomb interactions and disorder on the value of spin-Hall conductivity, and (iii) describe the effects of Coulomb interactions on short-time dynamics of the chiral d+id superconductors and the formation of spatial inhomogeneities. In addition, the PI will investigate the many-body instabilities in higher angular momentum topological materials and develop a quasiclassical approach for disordered multiband superconductors with competing ground states focusing on how quantum fluctuations affect their thermodynamic and transport properties.&lt;br/&gt;&lt;br/&gt;This award also supports the PI’s educational and outreach activities, which include (i) the training of graduate students in modern condensed matter physics, (ii) the creation of a comprehensive collection of problems on the topic of superconductivity suitable for advanced graduate students, (ii) translation of a book dedicated to the memory of physicist Lev Landau, and (iv) preparation of a set of presentations on the “Physics of Cycling” for members of the local road cycling club at Kent Free Public Library.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002795</AwardID>
+<Investigator>
+<FirstName>Maxim</FirstName>
+<LastName>Dzero</LastName>
+<PI_MID_INIT>O</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maxim O Dzero</PI_FULL_NAME>
+<EmailAddress><![CDATA[mdzero@kent.edu]]></EmailAddress>
+<NSF_ID>000596164</NSF_ID>
+<StartDate>07/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Kent State University]]></Name>
+<CityName>KENT</CityName>
+<ZipCode>442420001</ZipCode>
+<PhoneNumber>3306722070</PhoneNumber>
+<StreetAddress><![CDATA[1500 HORNING RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>14</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH14</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KXNVA7JCC5K6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>KENT STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Kent State University]]></Name>
+<CityName>Kent</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>442420001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>14</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH14</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>176500</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~215465</FUND_OBLG>
+<FUND_OBLG>2022~112719</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Quantum science and technology started playing more and more important role in contemporaty life. In fact, to emphasize the&nbsp;<span>importance of quantum science and its applications,&nbsp;</span><span>the United Nations (U.N.) has recently&nbsp;</span><span>proclaimed year 2025 as the &ldquo;International Year of Quantum Science and Technology.&rdquo; In order to keep up with the fast pace of the technological developments one is usually confronted with the novel conceptual and technical challenges in theoretical understanding of novel quantum materials.&nbsp;</span></p> <p>One of the most important accomplishments by the PI in the course of this project was not only the successful formulation of several new concepts, but also development of new theoretical ideas which hopefully may find applications in various other fields. For example, the PI was able to explain the misterious observation of the peak in London penetration depth (it is the length on which magnetic field penetrates into a conventional type-I superconductor) in iron-based superconductors. The explanation of the peak came from the realization that there are quantum fluctuations induced by strong electron-electron interactions which tend to make material magnetic and which affect the magnitude of the London penetration depth at finite temperatures in the profound way leading to the appearence of the peak as a function of the change in material's chemical composition. This result has profound implications for how one should characterize the microscopic nature of superconductivity in novel quantum materials.&nbsp;</p> <p>Another example is the PI's work which paves the way to manipulate magnetism induced by an external radiation in conventional superconductors. The PI's major accomplishment is the prediction that magnetization has to have a well-defined minimum when the frequency of the external light equals approximately twice the value of the energy required to break the Cooper pairs [Cooper pairs are the bound pairs of electrons which are the building blocks of any superconductor]. Therefore, the PI's theoretical work offers an avenue of how one can &nbsp;precisely control of the magnitude of the induced magnetization.</p> <p>In the course of the project, the PI has also explored more fundamental problems which on one hand have a long (~50 years) history, while on the other hand have not been fully explored due to the lack of experimental support at that time. An example of such a problem is far from equilibrium dynamics of superconductors which can be brought about by subjecting a superconductor to an intense light pulses in the terahertz (THz) range. This experimental technique, known as THz spectroscopy, has been developing very fast in the course of the last 10-15 years. This development makes it possible to explore the physics of superconductors - quintessential quantum materials - unaccessible to experimentalists before. &nbsp;</p> <p>The shortage of the experimental data did not preclude theorists from exploring various aspects of far-from-equilbrium superconductivity. One remarkable discovery has been made: if, say, a perturbation is large enough a superconductor enters a very unusual state in which all Cooper pairs perform collective oscillations with the same frequency. In its essence, this phenomenon is similar to the synchronization of fireflies which emit light simultaneously. As I mentioned above, the issue is that to reach such a state, a strong perturbations are required. My main accomplishment here was to realize that if one adds a small amount of magnetic impurities [think atoms of iron or cerium, for example] than the synchronization can happen for an arbitrarily weak perturbation! The PI has made very specific experimental predictions which await their experimental verification.&nbsp;</p> <p>Initially, the PI's results have been met with scepticism. In order to refute at least some of it, the PI considered a different and much harder problem of a response of a superconductor to an external electromagnetic field in the non-linear regime, i.e. when one needs to include the effects beyond the first order (i.e. linear) in electric field. The PI has discovered that the resonance frequency at which Cooper pairs are excited shifts to lower values with the increase in the number of magnetic atoms. This is actually the reason why the phenomenon of synchronization described above takes place.&nbsp;</p> <p>In the course of this project the PI had also a privilege to productively collaborate with his Israeli colleague Prof. Maxim Khodas as well as his experimental colleagues at his home institution, Prof. Carmen Almasan and Prof. Almut Schroeder. All these collaborations have resulted in exciting results. For example, the PI's work with Prof. Almasan on the thermodynamic response of the alloys of URu2Si2 - the famous host of the 'hidden order' state &nbsp;- has addressed the question of whether the microscopic origin of the hidden order is due to local or itinerant degrees of freedom. By performing a systematic analysis of the experimental data we concluded that the hidden order originates form the localized degrees of freedom.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/20/2024<br> Modified by: Maxim&nbsp;O&nbsp;Dzero</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Quantum science and technology started playing more and more important role in contemporaty life. In fact, to emphasize theimportance of quantum science and its applications,the United Nations (U.N.) has recentlyproclaimed year 2025 as the International Year of Quantum Science and Technology. In order to keep up with the fast pace of the technological developments one is usually confronted with the novel conceptual and technical challenges in theoretical understanding of novel quantum materials.   One of the most important accomplishments by the PI in the course of this project was not only the successful formulation of several new concepts, but also development of new theoretical ideas which hopefully may find applications in various other fields. For example, the PI was able to explain the misterious observation of the peak in London penetration depth (it is the length on which magnetic field penetrates into a conventional type-I superconductor) in iron-based superconductors. The explanation of the peak came from the realization that there are quantum fluctuations induced by strong electron-electron interactions which tend to make material magnetic and which affect the magnitude of the London penetration depth at finite temperatures in the profound way leading to the appearence of the peak as a function of the change in material's chemical composition. This result has profound implications for how one should characterize the microscopic nature of superconductivity in novel quantum materials.   Another example is the PI's work which paves the way to manipulate magnetism induced by an external radiation in conventional superconductors. The PI's major accomplishment is the prediction that magnetization has to have a well-defined minimum when the frequency of the external light equals approximately twice the value of the energy required to break the Cooper pairs [Cooper pairs are the bound pairs of electrons which are the building blocks of any superconductor]. Therefore, the PI's theoretical work offers an avenue of how one can precisely control of the magnitude of the induced magnetization.   In the course of the project, the PI has also explored more fundamental problems which on one hand have a long (~50 years) history, while on the other hand have not been fully explored due to the lack of experimental support at that time. An example of such a problem is far from equilibrium dynamics of superconductors which can be brought about by subjecting a superconductor to an intense light pulses in the terahertz (THz) range. This experimental technique, known as THz spectroscopy, has been developing very fast in the course of the last 10-15 years. This development makes it possible to explore the physics of superconductors - quintessential quantum materials - unaccessible to experimentalists before.    The shortage of the experimental data did not preclude theorists from exploring various aspects of far-from-equilbrium superconductivity. One remarkable discovery has been made: if, say, a perturbation is large enough a superconductor enters a very unusual state in which all Cooper pairs perform collective oscillations with the same frequency. In its essence, this phenomenon is similar to the synchronization of fireflies which emit light simultaneously. As I mentioned above, the issue is that to reach such a state, a strong perturbations are required. My main accomplishment here was to realize that if one adds a small amount of magnetic impurities [think atoms of iron or cerium, for example] than the synchronization can happen for an arbitrarily weak perturbation! The PI has made very specific experimental predictions which await their experimental verification.   Initially, the PI's results have been met with scepticism. In order to refute at least some of it, the PI considered a different and much harder problem of a response of a superconductor to an external electromagnetic field in the non-linear regime, i.e. when one needs to include the effects beyond the first order (i.e. linear) in electric field. The PI has discovered that the resonance frequency at which Cooper pairs are excited shifts to lower values with the increase in the number of magnetic atoms. This is actually the reason why the phenomenon of synchronization described above takes place.   In the course of this project the PI had also a privilege to productively collaborate with his Israeli colleague Prof. Maxim Khodas as well as his experimental colleagues at his home institution, Prof. Carmen Almasan and Prof. Almut Schroeder. All these collaborations have resulted in exciting results. For example, the PI's work with Prof. Almasan on the thermodynamic response of the alloys of URu2Si2 - the famous host of the 'hidden order' state - has addressed the question of whether the microscopic origin of the hidden order is due to local or itinerant degrees of freedom. By performing a systematic analysis of the experimental data we concluded that the hidden order originates form the localized degrees of freedom.           Last Modified: 09/20/2024       Submitted by: MaximODzero]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

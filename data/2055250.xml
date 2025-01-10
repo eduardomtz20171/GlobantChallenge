@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Fortifying Cybersecurity and Computing Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>599839.00</AwardTotalIntnAmount>
+<AwardAmount>599839</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Virginia Carter</SignBlockName>
+<PO_EMAI>vccarter@nsf.gov</PO_EMAI>
+<PO_PHON>7032924651</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The need for a highly skilled cybersecurity and IT workforce is well documented and unequivocal. “Demand for security skills, once limited primarily to government and the defense industry, has spread throughout the economy” (Burning Glass, 2019). “Job growth is predicted to continue to outpace the number of available qualified workforce” (CyberSeek.org, 2020). Community and Technical Colleges respond to this need through their education of the skilled technical workforce. This project aims to strengthen and grow a specific component of that workforce, namely the nation’s cybersecurity/computing professionals. The project’s approach is to work to increase the quality of the requests for external support that these institutions seek to improve cybersecurity education at their campuses. Towards this end the project investigators plan to attract a diversity of community and technical college teams, composed of faculty, grant writers, and selected administrators and staff and provide team-based professional development designed to increase the competitiveness and innovativeness of each teams’ proposed efforts in support of the education of the cybersecurity/computing skilled technical workforce.&lt;br/&gt; &lt;br/&gt;In each year, up to twelve community and technical college teams of two faculty members and a grant writer will be accepted through an application process to participate in this team-based professional development and mentoring program. Each team will be carefully matched with and supported by a seasoned mentor who has been trained through a series of coaching sessions by the leadership team.  Essential elements of the program, including mentor training, pre-workshop mentee preparation, a multi-day workshop, and post-workshop webinars coupled with team mentoring throughout the entire process, are designed to help participants crystalize their innovative ideas and develop competitive proposals for external support. This project is funded by the Advanced Technological Education program that focuses on the education of technicians for the advanced-technology fields that drive the nation's economy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2055250</AwardID>
+<Investigator>
+<FirstName>Barbara</FirstName>
+<LastName>Huffman de Belon</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Barbara Huffman de Belon</PI_FULL_NAME>
+<EmailAddress><![CDATA[bjbelon@gmail.com]]></EmailAddress>
+<NSF_ID>000204401</NSF_ID>
+<StartDate>07/28/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Hawthorne</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elizabeth K Hawthorne</PI_FULL_NAME>
+<EmailAddress><![CDATA[ekhawthorne@gmail.com]]></EmailAddress>
+<NSF_ID>000565758</NSF_ID>
+<StartDate>07/28/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vera</FirstName>
+<LastName>Zdravkovich</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vera Zdravkovich</PI_FULL_NAME>
+<EmailAddress><![CDATA[zdravkovich@gmail.com]]></EmailAddress>
+<NSF_ID>000698270</NSF_ID>
+<StartDate>07/28/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Prince George's Community College]]></Name>
+<CityName>UPPER MARLBORO</CityName>
+<ZipCode>207742109</ZipCode>
+<PhoneNumber>3015460722</PhoneNumber>
+<StreetAddress><![CDATA[301 LARGO RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LRWAWWNQKR66</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRINCE GEORGE'S COMMUNITY COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LRWAWWNQKR66</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Prince George's Community College]]></Name>
+<CityName>Largo</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207742199</ZipCode>
+<StreetAddress><![CDATA[301 Largo Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>741200</Code>
+<Text>Advanced Tech Education Prog</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0421</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002122DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~599839</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>OVERVIEW</strong></p>  <p>The Fortifying Cybersecurity and Computing Education through ATE Grants (<strong>FORCCE-ATE</strong>) project was designed not only to increase the quantity, but also improve the quality of ATE grant proposals by working with mentee teams from community colleges poised to submit proposals to the National Science Foundation for technician education and workforce development. Each mentee team consisted of two faculty, an academic dean, and a grant writer. FORCCE-ATE was a three-year Advanced Technological Education (ATE) project running from October 2021 to September 2024 that mentored three cohorts of&nbsp; community college teams. Each cohort consisted of 10 to 15 mentee teams.</p>  <p><strong>OUTCOMES and IMPACT</strong></p>  <p>The three FORCCE-ATE cohorts served a total of 38 community and technical colleges across the United States and from 18 different&nbsp;states: CA, CT, GA, IN, KY, LA, MD, MI, MO, NE, NC, NJ, NM, NY, OH, PA, TX, and VA.&nbsp; As of October 2024, 30 of these mentee colleges <strong>(79%) have submitted a proposal</strong> to the ATE competition. Fifty-three percent (53%) of the mentee teams from cohorts one and two were awarded on their first or second attempt (award announcements for two of cohort two's colleges and 11 of cohort three's colleges are pending as of this report).&nbsp;The long-lasting societal impact on the cybersecurity workforce cannot be fully known, but projected as making a positive difference for students and employers for many years to come.</p>  <p>Co-PIs Drs. Barbara Belon and Elizabeth K. Hawthorne published a peer-reviewed journal article,&nbsp;<em><strong>The Impact of Combining Coaching and Mentoring Skills for Successful ATE Grant Proposal Development</strong></em>&nbsp;in the NSF Journal of Advanced Technological Education (JATE), Volume 3, Issue 1, March 25, 2024.</p>  <p><strong>INNOVATIONS</strong></p>  <ol>  <li><strong>Unique Mentor-Coach Program</strong><br />Coaching instruction for mentors was initiated in the first project year and refined in the subsequent years. Dr. Barbara Belon, a project Co-PI and certified International Coaching Federation (ICF) coach, developed and conducted the coaching training program for the FORCCE-ATE mentors. The eight coaching modules were customized for new and returning mentors, proving to be very effective.<em> The Fundamentals of Coaching</em> guide, written by Dr. Barbara Belon was shared with the mentor-coaches and the Mentor-Connect leadership who gladly participated in the coaching training sessions.&nbsp; Also, three FORCCE-ATE mentor-coaches attended the 2024 Mentor-Connect Winter Workshop in anticipation of continuing to mentor for the Mentor-Connect project after the FORCCE project concludes, an ATE sustainability initiative.</li>  <li><strong>Unique Partnership with the Community College Presidents' Initative in STEM Education (ccpi-stem.org)<br /></strong>The most effective recruitment of mentee teams for the FORCCE project was through an unique partership with the CCPI-STEM project. Collaborative activities included:<br /><span><span>* Publication</span>&nbsp;in the CCPI-STEM Presidents' Press Quarterly about mentoring opportuities with FORCCE-ATE.<br /></span><span>* A CCPI-STEM webcast each Spring was dedicated to ATE mentoring initiatives that included FORCCE-ATE, Mentor-Connect, and Mentor Up.<br />* The&nbsp;<span>ATE mentoring projects were shared with college presidents who serve as CCPI-STEM Regional Chairs, who in turn shared it with all their regional affiliates.</span><br /></span></li>  <li><strong>Unique Collaboration with EvaluATE Center (evalu-ate.org)</strong><br />In the third project year, FORCCE-ATE collaborated with the EvaluATE Center and invited eight project evaluators to be a part of the June Faculty Development Workshop as observers.&nbsp; An unexpected and positive outcome of this collaboration was a win-win situation for both observing evaluators and the mentee teams. Some of the mentee teams were able to select a project evaluator by the end of the three-day workshop.</li>  <li><strong>Generative Artificial Intelligence Training for mentor-coaches and mentee teams</strong><br />In accordance with the December 14, 2023 NSF Notice to research community: <em>Use of generative artificial intelligence technology in the NSF merit review process</em> (https://new.nsf.gov/news/notice-to-the-research-community-on-ai), the FORCCE leadership team developed a statement on how Generative Artificial Intelligence (GAI) was used in the development of an ATE grant proposal. This statement was shared with all the FORCCE-ATE mentee teams in cohort 3 (2024). In turn, the mentee teams added this statement at the very beginning of of their ATE proposals along with the standard language about participating in the FORCCE-ATE mentoring initiative. This statement is quoted as follows:<br />"<em>The PIs have not received prior NSF funding and were participants in the 2024 FORCCE-ATE mentoring initiative (DUE #2055250). This proposal is for Track 1: Small Projects for Institutions New to the ATE program. The PIs used the AI-powered Perplexity search engine to research existing ideas and the AI-powered Grammarly companion to check final proposal spelling and grammar. To maintain proposal integrity and authenticity, unique ideas were not generated by AI technology. In all cases, the PIs take responsibility for the intellectual merit and content of this proposal.</em>"<br />In addition to the AI use statement, the FORCCE leadership team developed and delivered training to its mentor-coaches and mentee teams on how to use Generative AI responsibly to assist in the proposal development process. The GAI training slides and accompanying handouts are archived with ATE Central&nbsp;(https://atecentral.net/) with a Creative Commons license for wide adoption and adaption.&nbsp;</li>  </ol><br> <p>  Last Modified: 12/06/2024<br> Modified by: Elizabeth&nbsp;K&nbsp;Hawthorne</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2055250/2055250_10754383_1733454873261_FORCCE_ATE_GAI_Training_Materials--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2055250/2055250_10754383_1733454873261_FORCCE_ATE_GAI_Training_Materials--rgov-800width.jpg" title="FORCCE-ATE AI Training Materials"><img src="/por/images/Reports/POR/2024/2055250/2055250_10754383_1733454873261_FORCCE_ATE_GAI_Training_Materials--rgov-66x44.jpg" alt="FORCCE-ATE AI Training Materials"></a> <div class="imageCaptionContainer"> <div class="imageCaption">FORCCE-ATE Generative Artificial Intelligence and NSF ATE Grant Proposals</div> <div class="imageCredit">FORCCE-ATE</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Elizabeth&nbsp;K&nbsp;Hawthorne <div class="imageTitle">FORCCE-ATE AI Training Materials</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2055250/2055250_10754383_1733454989476_FORCCE_Logo_White--rgov-214x142.png" original="/por/images/Reports/POR/2024/2055250/2055250_10754383_1733454989476_FORCCE_Logo_White--rgov-800width.png" title="FORCCE-ATE logo"><img src="/por/images/Reports/POR/2024/2055250/2055250_10754383_1733454989476_FORCCE_Logo_White--rgov-66x44.png" alt="FORCCE-ATE logo"></a> <div class="imageCaptionContainer"> <div class="imageCaption">NSF FORCCE-ATE Project logo</div> <div class="imageCredit">Michael Gonzalez</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Elizabeth&nbsp;K&nbsp;Hawthorne <div class="imageTitle">FORCCE-ATE logo</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  OVERVIEW    The Fortifying Cybersecurity and Computing Education through ATE Grants (FORCCE-ATE) project was designed not only to increase the quantity, but also improve the quality of ATE grant proposals by working with mentee teams from community colleges poised to submit proposals to the National Science Foundation for technician education and workforce development. Each mentee team consisted of two faculty, an academic dean, and a grant writer. FORCCE-ATE was a three-year Advanced Technological Education (ATE) project running from October 2021 to September 2024 that mentored three cohorts of community college teams. Each cohort consisted of 10 to 15 mentee teams.    OUTCOMES and IMPACT    The three FORCCE-ATE cohorts served a total of 38 community and technical colleges across the United States and from 18 differentstates: CA, CT, GA, IN, KY, LA, MD, MI, MO, NE, NC, NJ, NM, NY, OH, PA, TX, and VA. As of October 2024, 30 of these mentee colleges (79%) have submitted a proposal to the ATE competition. Fifty-three percent (53%) of the mentee teams from cohorts one and two were awarded on their first or second attempt (award announcements for two of cohort two's colleges and 11 of cohort three's colleges are pending as of this report).The long-lasting societal impact on the cybersecurity workforce cannot be fully known, but projected as making a positive difference for students and employers for many years to come.    Co-PIs Drs. Barbara Belon and Elizabeth K. Hawthorne published a peer-reviewed journal article,The Impact of Combining Coaching and Mentoring Skills for Successful ATE Grant Proposal Developmentin the NSF Journal of Advanced Technological Education (JATE), Volume 3, Issue 1, March 25, 2024.    INNOVATIONS    Unique Mentor-Coach Program Coaching instruction for mentors was initiated in the first project year and refined in the subsequent years. Dr. Barbara Belon, a project Co-PI and certified International Coaching Federation (ICF) coach, developed and conducted the coaching training program for the FORCCE-ATE mentors. The eight coaching modules were customized for new and returning mentors, proving to be very effective. The Fundamentals of Coaching guide, written by Dr. Barbara Belon was shared with the mentor-coaches and the Mentor-Connect leadership who gladly participated in the coaching training sessions. Also, three FORCCE-ATE mentor-coaches attended the 2024 Mentor-Connect Winter Workshop in anticipation of continuing to mentor for the Mentor-Connect project after the FORCCE project concludes, an ATE sustainability initiative.  Unique Partnership with the Community College Presidents' Initative in STEM Education (ccpi-stem.org) The most effective recruitment of mentee teams for the FORCCE project was through an unique partership with the CCPI-STEM project. Collaborative activities included: * Publicationin the CCPI-STEM Presidents' Press Quarterly about mentoring opportuities with FORCCE-ATE. * A CCPI-STEM webcast each Spring was dedicated to ATE mentoring initiatives that included FORCCE-ATE, Mentor-Connect, and Mentor Up. * TheATE mentoring projects were shared with college presidents who serve as CCPI-STEM Regional Chairs, who in turn shared it with all their regional affiliates.   Unique Collaboration with EvaluATE Center (evalu-ate.org) In the third project year, FORCCE-ATE collaborated with the EvaluATE Center and invited eight project evaluators to be a part of the June Faculty Development Workshop as observers. An unexpected and positive outcome of this collaboration was a win-win situation for both observing evaluators and the mentee teams. Some of the mentee teams were able to select a project evaluator by the end of the three-day workshop.  Generative Artificial Intelligence Training for mentor-coaches and mentee teams In accordance with the December 14, 2023 NSF Notice to research community: Use of generative artificial intelligence technology in the NSF merit review process (https://new.nsf.gov/news/notice-to-the-research-community-on-ai), the FORCCE leadership team developed a statement on how Generative Artificial Intelligence (GAI) was used in the development of an ATE grant proposal. This statement was shared with all the FORCCE-ATE mentee teams in cohort 3 (2024). In turn, the mentee teams added this statement at the very beginning of of their ATE proposals along with the standard language about participating in the FORCCE-ATE mentoring initiative. This statement is quoted as follows: "The PIs have not received prior NSF funding and were participants in the 2024 FORCCE-ATE mentoring initiative (DUE #2055250). This proposal is for Track 1: Small Projects for Institutions New to the ATE program. The PIs used the AI-powered Perplexity search engine to research existing ideas and the AI-powered Grammarly companion to check final proposal spelling and grammar. To maintain proposal integrity and authenticity, unique ideas were not generated by AI technology. In all cases, the PIs take responsibility for the intellectual merit and content of this proposal." In addition to the AI use statement, the FORCCE leadership team developed and delivered training to its mentor-coaches and mentee teams on how to use Generative AI responsibly to assist in the proposal development process. The GAI training slides and accompanying handouts are archived with ATE Central(https://atecentral.net/) with a Creative Commons license for wide adoption and adaption.       Last Modified: 12/06/2024       Submitted by: ElizabethKHawthorne]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

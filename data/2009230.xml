@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Direct Comparisons of Black Hole Mass Measurements]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>451061.00</AwardTotalIntnAmount>
+<AwardAmount>451061</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph E. Pesce</SignBlockName>
+<PO_EMAI>jpesce@nsf.gov</PO_EMAI>
+<PO_PHON>7032927373</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Black holes often appear in science fiction, but they are now also science fact. These invisible objects are some of the most extreme in the universe. The black holes that live in the centers of galaxies contain as much material as millions or billions of Suns, but they are collapsed down into incredibly small sizes. This means that they have enormous amounts of gravity. While black holes are invisible because they do not give off any light, they can be detected by their effects on objects around them. Just as the wind is invisible but it clearly shakes leaves, black holes are invisible but their gravity whips around stars and glowing gas. Astronomers have developed a few different ways to use telescopes to measure the motions of stars and gas around invisible black holes. Faster motions indicate more gravity from a black hole. Black holes with more gravity contain more material that has collapsed down, and so the visible motions of stars and gas allow astronomers to “weigh” invisible black holes. The researchers have collected a small sample where they can weigh all of the black holes with both of the most widely-used methods. In Broader Impacts, the PI will work with the Girl Scouts of Greater Atlanta to develop and offer astronomy workshops that target girls in grades 4-5 and high school.  The PI will engage the broader community through her ongoing commitments to facilitate and participate in a wide variety of public outreach events, with the goal of bringing science literacy and appreciation to a broad audience.&lt;br/&gt;&lt;br/&gt;Black holes are some of the most extreme objects in the universe. The black holes that are found in the centers of galaxies contain the mass of millions or billions of Suns, but they are collapsed down into infinitesimal sizes. While black holes are invisible because they do not emit any light, they can be detected by their gravitational effects on nearby stars or gas. Astronomers have thus developed a few different techniques to measure the motions of stars and gas to constrain black hole masses. But it is difficult to compare how well the different techniques agree with each other because each one requires a specific set of conditions. Nevertheless, this is an important point to check, because nearby black holes are mostly studied with one method but a completely different method is used for distant black holes. Distant celestial objects are seen as they were in the past, so large samples of nearby and distant black holes are used to understand how they were born and grow over time. Thus it is important to be sure that both techniques are calibrated to the same mass scale. The researchers have collected a small number of black holes where they can determine their masses using both of the most widely-used methods. In this program, they will apply both methods and carefully compare their results. This will allow them to determine for the first time if both techniques are giving similar answers, or if there may be previously unknown biases affecting our understanding of black holes and their galaxies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009230</AwardID>
+<Investigator>
+<FirstName>Misty</FirstName>
+<LastName>Bentz</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Misty C Bentz</PI_FULL_NAME>
+<EmailAddress><![CDATA[bentz@astro.gsu.edu]]></EmailAddress>
+<NSF_ID>000578058</NSF_ID>
+<StartDate>07/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia State University Research Foundation, Inc.]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303032921</ZipCode>
+<PhoneNumber>4044133570</PhoneNumber>
+<StreetAddress><![CDATA[58 EDGEWOOD AVE NE]]></StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MNS7B9CVKDN7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia State University]]></Name>
+<CityName/>
+<StateCode>GA</StateCode>
+<ZipCode>303033044</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121700</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~451061</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Black holes are known to lurk in the centers of galaxies and to mark  the funereal remains of massive stars. Yet, while they are often  depicted as mysterious objects, black holes are very simple because they  can be fully described with only three quantities: mass, angular  momentum (or spin), and electric charge. Furthermore,  over the last 30 years of astronomy research, it has become very clear  that there is an intimate connection between the growth and evolution of  supermassive black holes and the galaxies in which they live. The  symbiotic relationship between the two is evidenced by observed  relationships between properties of the black hole (usually mass) and  of the galaxy (mass, brightness, etc). Computer simulations of galaxy  growth also support the importance of understanding black holes, because  they are unable to create realistic galaxies without including the  effects of black holes. This interdependence between galaxies and black  holes means that much of our knowledge and understanding of the growth  and evolution of structure throughout the history of the universe  depends on our ability to accurately constrain black hole masses.</p> <p>Black  holes, however, are invisible because they do not emit any light and so  our telescopes cannot directly see them. But the effects of black  holes, especially their gravitational effects on nearby stars or gas,  can be detected with our telescopes. The measured gravitational  influence of a black hole is the key to determining the mass of the  black hole, with low mass black holes having smaller influence andhigh mass black holes having a larger influence.</p> <p>A few different  ways to measure the gravitational influence of a black hole have been  developed, and black hole masses have been constrained for only about  200 black holes in the centers of relatively nearby galaxies. About half  of these are black holes that are currently active or "eating", while  the other half are quiet non-feeding black holes. But in very few cases  have we been able to use more than one black hole mass technique to  study the same black hole -- each technique prefers a unique set of  galaxy and black hole properties and has its own technical requirements  and limitations. These ~200 black hole masses provide the current  foundation for understanding black hole and galaxy growth both in the  early times of the universe and today, but we do not yet know if the  masses measured from different techniques are directly comparable in an  apples-to-apples way.</p> <p>In this project, we have focused on two specific techniques for measuring black hole mass, and we have identified a small  set of black holes where we can constrain their masses using both techniques.&nbsp; We have acquired new observations and have also explored improvements to the techniques when analyzing new or archival data.&nbsp; In some  cases we have found the black hole masses determined from the two techniques are NOT directly comparable -- they do not give the same answer for the same black hole -- so we have sought  improvements to our measurements as well as potential problems that might arise with the  assumptions for each technique. The continuation of this work beyond this grant period will further our understanding of disagreements in mass measurements, providing important context for the community that may end up directly impacting our understanding  of how galaxies and black holes form and evolve.</p> <p>This project has provided training and research opportunities for several  graduate and undergraduate students, using some of the latest instrumentation and analysis  codes. Many of these students are members of communities that have been historically excluded from participating in STEM research, communities that remain underrepresented in physics and astronomy today. Furthermore, the PI has engaged in numerous events and activities that bring the beauty of science to everyone, but especially women and girls. This project has helped support the building of science appreciation and science literacy in the greater Atlanta community through outreach events, public lectures, panel discussions, and visits to schools and clubs.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/12/2024<br> Modified by: Misty&nbsp;C&nbsp;Bentz</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Black holes are known to lurk in the centers of galaxies and to mark  the funereal remains of massive stars. Yet, while they are often  depicted as mysterious objects, black holes are very simple because they  can be fully described with only three quantities: mass, angular  momentum (or spin), and electric charge. Furthermore,  over the last 30 years of astronomy research, it has become very clear  that there is an intimate connection between the growth and evolution of  supermassive black holes and the galaxies in which they live. The  symbiotic relationship between the two is evidenced by observed  relationships between properties of the black hole (usually mass) and  of the galaxy (mass, brightness, etc). Computer simulations of galaxy  growth also support the importance of understanding black holes, because  they are unable to create realistic galaxies without including the  effects of black holes. This interdependence between galaxies and black  holes means that much of our knowledge and understanding of the growth  and evolution of structure throughout the history of the universe  depends on our ability to accurately constrain black hole masses.   Black  holes, however, are invisible because they do not emit any light and so  our telescopes cannot directly see them. But the effects of black  holes, especially their gravitational effects on nearby stars or gas,  can be detected with our telescopes. The measured gravitational  influence of a black hole is the key to determining the mass of the  black hole, with low mass black holes having smaller influence andhigh mass black holes having a larger influence.   A few different  ways to measure the gravitational influence of a black hole have been  developed, and black hole masses have been constrained for only about  200 black holes in the centers of relatively nearby galaxies. About half  of these are black holes that are currently active or "eating", while  the other half are quiet non-feeding black holes. But in very few cases  have we been able to use more than one black hole mass technique to  study the same black hole -- each technique prefers a unique set of  galaxy and black hole properties and has its own technical requirements  and limitations. These ~200 black hole masses provide the current  foundation for understanding black hole and galaxy growth both in the  early times of the universe and today, but we do not yet know if the  masses measured from different techniques are directly comparable in an  apples-to-apples way.   In this project, we have focused on two specific techniques for measuring black hole mass, and we have identified a small  set of black holes where we can constrain their masses using both techniques. We have acquired new observations and have also explored improvements to the techniques when analyzing new or archival data. In some  cases we have found the black hole masses determined from the two techniques are NOT directly comparable -- they do not give the same answer for the same black hole -- so we have sought  improvements to our measurements as well as potential problems that might arise with the  assumptions for each technique. The continuation of this work beyond this grant period will further our understanding of disagreements in mass measurements, providing important context for the community that may end up directly impacting our understanding  of how galaxies and black holes form and evolve.   This project has provided training and research opportunities for several  graduate and undergraduate students, using some of the latest instrumentation and analysis  codes. Many of these students are members of communities that have been historically excluded from participating in STEM research, communities that remain underrepresented in physics and astronomy today. Furthermore, the PI has engaged in numerous events and activities that bring the beauty of science to everyone, but especially women and girls. This project has helped support the building of science appreciation and science literacy in the greater Atlanta community through outreach events, public lectures, panel discussions, and visits to schools and clubs.        Last Modified: 11/12/2024       Submitted by: MistyCBentz]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

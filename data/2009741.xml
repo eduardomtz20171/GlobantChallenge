@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Advection and Deposition of Microscale Droplets in Respiratory Airways]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>196092.00</AwardTotalIntnAmount>
+<AwardAmount>196092</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Infectious diseases transmitted by tiny droplets of respiratory fluids affect tens of millions of people worldwide. Better understanding of the mechanism of transmission of infections can lead improvements in both treatment and protection strategies. While the main focus of the project is on transmission of tuberculosis, its broader societal impacts include potential applications to other infectious diseases such as influenza and COVID-19. Educational impacts of the project include training both graduate and undergraduate students in an interdisciplinary environment with close interaction between applied mathematicians and biomedical researchers. &lt;br/&gt;&lt;br/&gt;The main focus of the project is on the development of mathematical models describing transport and deposition of droplets of respiratory fluids containing the disease agent produced by cough or sneezing of an infected individual. Using a multiscale framework, dynamics of an individual droplet and its interaction with the airway wall is investigated and then incorporated into a global model based on Vlasov-type equation for droplet transport in a geometry representing respiratory airways. The effects of phase change such as evaporation and condensation on the size distribution of the droplets and the nature of their interaction with the wall are considered. A model of respiratory liquid accounts for the presence of components such as proteins, surfactants, and salts. The key questions addressed are the deposition location and size distributions of the droplets as functions of the initial distribution, as well as environmental parameters such as temperature and humidity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009741</AwardID>
+<Investigator>
+<FirstName>Vladimir</FirstName>
+<LastName>Ajaev</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vladimir S Ajaev</PI_FULL_NAME>
+<EmailAddress><![CDATA[ajaev@mail.smu.edu]]></EmailAddress>
+<NSF_ID>000295928</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Southern Methodist University]]></Name>
+<CityName>DALLAS</CityName>
+<ZipCode>752051902</ZipCode>
+<PhoneNumber>2147684708</PhoneNumber>
+<StreetAddress><![CDATA[6425 BOAZ ST RM 130]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D33QGS3Q3DJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTHERN METHODIST UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>S88YPE3BLV66</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southern Methodist University]]></Name>
+<CityName>Dallas</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>752750302</ZipCode>
+<StreetAddress><![CDATA[6425 Boaz Lane]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX32</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~196092</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Mathematical models of motion of evaporating microscale liquid droplets in moist air in human respiratory airways have been developed. Deposition locations of droplets at the walls of respiratory airways are predicted for different conditions, such as air temperature and humidity, and different droplet sizes/compositions. These results contribute to undestanding of infectious disease transmission by respiratory droplets and are also relevant for situations when medications are administered via inhalation.&nbsp;&nbsp;</p>  <p>&nbsp; &nbsp; &nbsp;Motivated by biomedical applications, fundamental studies of liquid droplet interaction with a boundary at which evaporation is taking place, such as the surface of a liquid layer or aqueous mucus covering airway walls, have been conducted. Somewhat counterintuitively, condensation occurs at the part of the droplet facing the heated liquid layer, while evaporation is seen in colder areas of the interface. The effect is mostly due to geometric confinement that leads to vapor accumulation in the gap between the droplet and the flat interface. Droplet can have both cooling or heating effect on the liquid layer near it, depending on a single parameter which is the nondimensional latent heat. The critical value of this parameter such that the droplet has no effect on the layer temperature is expressed by a simple formula which is validated by comparison with the numerical results.<br /><br />&nbsp; &nbsp; &nbsp; The work carried out advances the&nbsp; field of applied mathematics by finding new analytical solutions of a system of equations describing coupled vapor diffusion, air flow, and heat transfer around a liquid droplet placed near a flat air-liquid interface. A hybrid analytical/numerical approach is also developed to deal with geometric configurations for which analytical solution cannot be applied.<br /><br />&nbsp; &nbsp; &nbsp; The project provided training to two graduate students and an undergraduate research assistant whose interest in research resulted in admission into a graduate program. The results of research were incorporated into graduate fluid mechanics courses at Southern Methodist University.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/30/2024<br> Modified by: Vladimir&nbsp;S&nbsp;Ajaev</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Mathematical models of motion of evaporating microscale liquid droplets in moist air in human respiratory airways have been developed. Deposition locations of droplets at the walls of respiratory airways are predicted for different conditions, such as air temperature and humidity, and different droplet sizes/compositions. These results contribute to undestanding of infectious disease transmission by respiratory droplets and are also relevant for situations when medications are administered via inhalation.      Motivated by biomedical applications, fundamental studies of liquid droplet interaction with a boundary at which evaporation is taking place, such as the surface of a liquid layer or aqueous mucus covering airway walls, have been conducted. Somewhat counterintuitively, condensation occurs at the part of the droplet facing the heated liquid layer, while evaporation is seen in colder areas of the interface. The effect is mostly due to geometric confinement that leads to vapor accumulation in the gap between the droplet and the flat interface. Droplet can have both cooling or heating effect on the liquid layer near it, depending on a single parameter which is the nondimensional latent heat. The critical value of this parameter such that the droplet has no effect on the layer temperature is expressed by a simple formula which is validated by comparison with the numerical results.     The work carried out advances the field of applied mathematics by finding new analytical solutions of a system of equations describing coupled vapor diffusion, air flow, and heat transfer around a liquid droplet placed near a flat air-liquid interface. A hybrid analytical/numerical approach is also developed to deal with geometric configurations for which analytical solution cannot be applied.     The project provided training to two graduate students and an undergraduate research assistant whose interest in research resulted in admission into a graduate program. The results of research were incorporated into graduate fluid mechanics courses at Southern Methodist University.         Last Modified: 11/30/2024       Submitted by: VladimirSAjaev]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

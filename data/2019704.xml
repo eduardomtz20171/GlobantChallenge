@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Curriculum Design in Robotic Exoskeleton-mediated Motor Training]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>448000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alex Leonessa</SignBlockName>
+<PO_EMAI>aleoness@nsf.gov</PO_EMAI>
+<PO_PHON>7032922633</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Mind, Machine, and Motor Nexus (M3X) project plans to use a wearable upper extremity robotic exoskeleton to address the open question of how best to train people to perform new motor tasks. Two objectives will be pursued. First, the project team will use the robotic exoskeleton in a series of human subject experiments to identify "source tasks" that can be combined to learn a dynamically challenging motor skill.  Second, the team will use the identified source tasks to explore the efficacy of "curriculum-based" task training that seeks to build skills efficiently and effectively through a progression of sub-tasks of increasing challenge. The experimental task to be learned requires a high degree of manual coordination in the manipulation of a hand-held tool with challenging internal continuum dynamics.  This research involves several disciplines including mechanical engineering, computer science, neuroscience, medical sciences, and education. The project will promote the progress of science and advance the national health by developing fundamental knowledge in support of a robot-mediated coaching system for motor skills training. Education and outreach activities engage the participation of undergraduate students from underrepresented groups in the research.&lt;br/&gt;&lt;br/&gt;This project will pursue two objectives to advance the state-of-the-art in robot-mediated coaching for motor skills training.  For the first objective, the project team will use a wearable upper extremity robotic exoskeleton and an immersive Virtual Reality system to analyze movement kinematics, kinetics, and surface electromyographic activity during tool manipulation as people perform a challenging dynamic task.  The result of this effort will be an identified set of "source tasks" that will form the building blocks of a motor skill training "curriculum" to be developed and tested in the project's second objective. For that objective, additional human subject studies will evaluate the efficacy of a variety of curricula (i.e., combinations of source tasks, source task orders, and training task transition times) to be developed using a Reinforcement Learning agent that will sequence the source tasks during training. The research explores the mechanisms by which human motor function can be shaped and directed by interactions with robotic exoskeletons. The major outcome of this work will be a robot-mediated coaching system for motor skills training, which holds potential to improve human motor performance in a variety of scenarios ranging from robot-assisted surgery, sports, and physical rehabilitation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019704</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Stone</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter H Stone</PI_FULL_NAME>
+<EmailAddress><![CDATA[pstone@cs.utexas.edu]]></EmailAddress>
+<NSF_ID>000156504</NSF_ID>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ashish</FirstName>
+<LastName>Deshpande</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ashish D Deshpande</PI_FULL_NAME>
+<EmailAddress><![CDATA[ashish@austin.utexas.edu]]></EmailAddress>
+<NSF_ID>000598687</NSF_ID>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName/>
+<StateCode>TX</StateCode>
+<ZipCode>787121532</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>058Y00</Code>
+<Text>M3X - Mind, Machine, and Motor</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>070E</Code>
+<Text>INTEG OF HUMAN &amp; COGNITIVE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7632</Code>
+<Text>HUMAN-ROBOT INTERACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~400000</FUND_OBLG>
+<FUND_OBLG>2021~16000</FUND_OBLG>
+<FUND_OBLG>2022~16000</FUND_OBLG>
+<FUND_OBLG>2023~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>How best to train humans to perform new motor tasks is a challenging and open problem across diverse fields such as neuroscience, rehabilitation, medicine, and athletics. The design of effective and efficient training protocols for humans to acquire new motor skills is an area of active research, and two key challenges are (i) the characterization of human skill and learning, and (ii) the creation and selection of training environments that affect learning in a targeted manner. This work leverages the sensing and actuation capabilities of the Harmony exoskeleton to address these challenges in the context of motor skill acquisition. We show that robotics exoskeletons could serve as intelligent coaches that can adaptively design individualized training interventions for a given learner on a given task. Specific contributions from this project are:</p> <p><strong>Characterizing an individual learners skill:</strong> Since an individual&rsquo;s skill at a given task is an inherent property that cannot be explicitly known, coaches and teachers estimate skill by observing performance. This observation is limited by the ability to measure the underlying human behavior that achieves the observed performance. We show an exoskeleton robot&rsquo;s capability to address this challenge. Through human-subject experiments where participants learn a dynamic 2-D video game we present&nbsp;the use of extrinsic and intrinsic performance features&nbsp;to quantify human motor skill.</p> <p><strong>Identifying goal-specific motor behaviors that emerge through learning:</strong> We further examine the use of the intrinsic metric in a different dynamic task, the 3D Kendama task, through more experiments with users. We present evidence that individuals&nbsp;learn joint-angle coordination behaviors&nbsp;as their performance improves over time and that some experts converge to the same coordination behaviors for a given task goal.&nbsp;</p> <p><strong>Designing interaction environments:</strong> We present a high-level robot control law that imposes a predefined kinematic coordination behavior on the human-exoskeleton system&rsquo;s movements. This&nbsp;coordination- based interaction is found to assist in task performance for a straight-line reaching task&nbsp;under various conditions. The same coordination-based interaction is further evaluated as an intervention for novel dynamic task skill acquisition. The results of this exploration study demonstrate the effects of exoskeleton intervention during learning and&nbsp;highlight the advantages and challenges of coordination-based training interventions. &nbsp;</p> <p><strong>Developing an intelligent exoskeleton-based curriculum training framework:</strong>&nbsp;We present a framework for adaptive curriculum-based training protocol design for exoskeleton control based on core ideas from artificial curriculum learning.&nbsp;</p> <p><strong>Broader Impact: </strong>The major outcome of this work is a framework for robot-mediated coaching system for motor skills training, which holds incredible potential to improve human performance (e.g. of surgeons, athletes, and everyday people) and to improve the quality of life for those surviving disabilities from neurological impairments (e.g. stroke and spinal cord injury). The research resulted novel controllers for robots with multiple degrees of freedom interacting intimately with human subjects and novel insights into the users learning new motor skills.</p> <p>We have trained multiple undergrad researchers, graduate students and a post-doc in the research field at the intersection of robotics, human motor learning, machine learning and AI. Five of the researchers have been women. The research had positive impact on undergraduate and graduate teaching and the advancement in the robotic platform opened the possibility for teaching advanced hands-on concepts in the classroom.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/03/2024<br> Modified by: Ashish&nbsp;D&nbsp;Deshpande</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2019704/2019704_10700065_1730691810339_04_Harmony_Coordinated_Task--rgov-214x142.png" original="/por/images/Reports/POR/2024/2019704/2019704_10700065_1730691810339_04_Harmony_Coordinated_Task--rgov-800width.png" title="Harmony_Coordinated_Task"><img src="/por/images/Reports/POR/2024/2019704/2019704_10700065_1730691810339_04_Harmony_Coordinated_Task--rgov-66x44.png" alt="Harmony_Coordinated_Task"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A user in the Harmony exoskeleton during the testing of performance during coordination training tasks. The balls indicate targets in 3D.</div> <div class="imageCredit">Keya Ghonasgi</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Ashish&nbsp;D&nbsp;Deshpande <div class="imageTitle">Harmony_Coordinated_Task</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2019704/2019704_10700065_1730691384478_01_Harmony_Exoskeleton_Design--rgov-214x142.png" original="/por/images/Reports/POR/2024/2019704/2019704_10700065_1730691384478_01_Harmony_Exoskeleton_Design--rgov-800width.png" title="Harmony Exoskeleton Design"><img src="/por/images/Reports/POR/2024/2019704/2019704_10700065_1730691384478_01_Harmony_Exoskeleton_Design--rgov-66x44.png" alt="Harmony Exoskeleton Design"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Harmony: An Upper-body Exoskeleton</div> <div class="imageCredit">Keya Ghonasgi</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Ashish&nbsp;D&nbsp;Deshpande <div class="imageTitle">Harmony Exoskeleton Design</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2019704/2019704_10700065_1730691641731_03_Harmony_Virtual_Kendama--rgov-214x142.png" original="/por/images/Reports/POR/2024/2019704/2019704_10700065_1730691641731_03_Harmony_Virtual_Kendama--rgov-800width.png" title="Harmony_Virtual_Kendama"><img src="/por/images/Reports/POR/2024/2019704/2019704_10700065_1730691641731_03_Harmony_Virtual_Kendama--rgov-66x44.png" alt="Harmony_Virtual_Kendama"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The virtual kendama task: the left half of the image shows the virtual reality environment as observed by the participant; the right half shows a participant wearing the Harmony exoskeleton and playing the Kendama task in virtual reality. The inset shows the task strategy instructions to the user.</div> <div class="imageCredit">Keya Ghonasgi</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Ashish&nbsp;D&nbsp;Deshpande <div class="imageTitle">Harmony_Virtual_Kendama</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2019704/2019704_10700065_1730691485273_02_Harmony_2D_Video_Game--rgov-214x142.png" original="/por/images/Reports/POR/2024/2019704/2019704_10700065_1730691485273_02_Harmony_2D_Video_Game--rgov-800width.png" title="Harmony: 2D Video Game"><img src="/por/images/Reports/POR/2024/2019704/2019704_10700065_1730691485273_02_Harmony_2D_Video_Game--rgov-66x44.png" alt="Harmony: 2D Video Game"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Image of a participant at the start of a Reach Ninja game episode. The green ball attached to the exoskeleton handle is tracked by the webcam and represented as the a cursor on the screen. The participant is wearing the left arm of the Harmony Exoskeleton.</div> <div class="imageCredit">Keya Ghonasgi</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Ashish&nbsp;D&nbsp;Deshpande <div class="imageTitle">Harmony: 2D Video Game</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  How best to train humans to perform new motor tasks is a challenging and open problem across diverse fields such as neuroscience, rehabilitation, medicine, and athletics. The design of effective and efficient training protocols for humans to acquire new motor skills is an area of active research, and two key challenges are (i) the characterization of human skill and learning, and (ii) the creation and selection of training environments that affect learning in a targeted manner. This work leverages the sensing and actuation capabilities of the Harmony exoskeleton to address these challenges in the context of motor skill acquisition. We show that robotics exoskeletons could serve as intelligent coaches that can adaptively design individualized training interventions for a given learner on a given task. Specific contributions from this project are:   Characterizing an individual learners skill: Since an individuals skill at a given task is an inherent property that cannot be explicitly known, coaches and teachers estimate skill by observing performance. This observation is limited by the ability to measure the underlying human behavior that achieves the observed performance. We show an exoskeleton robots capability to address this challenge. Through human-subject experiments where participants learn a dynamic 2-D video game we presentthe use of extrinsic and intrinsic performance featuresto quantify human motor skill.   Identifying goal-specific motor behaviors that emerge through learning: We further examine the use of the intrinsic metric in a different dynamic task, the 3D Kendama task, through more experiments with users. We present evidence that individualslearn joint-angle coordination behaviorsas their performance improves over time and that some experts converge to the same coordination behaviors for a given task goal.   Designing interaction environments: We present a high-level robot control law that imposes a predefined kinematic coordination behavior on the human-exoskeleton systems movements. Thiscoordination- based interaction is found to assist in task performance for a straight-line reaching taskunder various conditions. The same coordination-based interaction is further evaluated as an intervention for novel dynamic task skill acquisition. The results of this exploration study demonstrate the effects of exoskeleton intervention during learning andhighlight the advantages and challenges of coordination-based training interventions.    Developing an intelligent exoskeleton-based curriculum training framework:We present a framework for adaptive curriculum-based training protocol design for exoskeleton control based on core ideas from artificial curriculum learning.   Broader Impact: The major outcome of this work is a framework for robot-mediated coaching system for motor skills training, which holds incredible potential to improve human performance (e.g. of surgeons, athletes, and everyday people) and to improve the quality of life for those surviving disabilities from neurological impairments (e.g. stroke and spinal cord injury). The research resulted novel controllers for robots with multiple degrees of freedom interacting intimately with human subjects and novel insights into the users learning new motor skills.   We have trained multiple undergrad researchers, graduate students and a post-doc in the research field at the intersection of robotics, human motor learning, machine learning and AI. Five of the researchers have been women. The research had positive impact on undergraduate and graduate teaching and the advancement in the robotic platform opened the possibility for teaching advanced hands-on concepts in the classroom.        Last Modified: 11/03/2024       Submitted by: AshishDDeshpande]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

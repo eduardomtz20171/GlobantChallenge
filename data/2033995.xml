@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF2026: EAGER: An Ecologically Inspired Human-Machine Intelligence Approach to Recognizing Similitude in Multi-Scale Watershed Research]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>299971.00</AwardTotalIntnAmount>
+<AwardAmount>299971</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Justin Lawrence</SignBlockName>
+<PO_EMAI>jlawrenc@nsf.gov</PO_EMAI>
+<PO_PHON>7032922425</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Division of Earth Sciences (GEO/EAR) and the NSF 2026 Fund Program in the Office of Integrated Activities, Professors Hamshaw, Lee, Pespeni, Rizzo and Underwood at the University of Vermont &amp; State Agricultural College are awarded this EAGER grant. This project addresses the NSF 2026 Idea Machine topic of Universal Similitude Across Scales, focusing on the broad area of Earth Sciences. Freshwater resources face growing pressures from extreme events and land use changes, which result in varying trends in water quantity and quality at multiple scales (from small creeks to large rivers and from storm events to decadal cycles). To build a greater understanding of the impacts to water quality, this interdisciplinary research project will investigate trends in short-term and long-term water quality and streamflow data and possible similarities and associations to watershed attributes (e.g. land use, topography). The project relies on water quality data archived at research stations across the continental U.S. available through databases of streamflow and water quality. To analyze these large quantities of water quality data, a combination of artificial intelligence and traditional scientific methods will be used. The societal importance of this project includes applying advances in machine learning and artificial intelligence to help researchers and environmental managers analyze and leverage limited monitoring resources collected at different sites and to develop best practices for monitoring environmental change. The project will fund a workshop that brings together graduate students from engineering and hydrological sciences with those from biology and microbiology to share data, analytical methods, and pursue interdisciplinary approaches that translate across disciplinary fields.&lt;br/&gt;&lt;br/&gt;Identifying similarities in watershed characteristics and water quality conditions across the continental U.S. can help identify the causes of environmental change and enables the translation of research from individual studies to larger regions. Because the sheer size and diversity of these long-term monitoring data present challenges for traditional scientific and statistical methods, we will employ artificial intelligence methods along with domain experts in hydrology and ecology in an integrated human-machine learning framework. In so doing, we aim to identify the common environmental variables and parameters that are linked to similarity across scales and investigate trends in short-term and long-term water quality and streamflow data. Organizational frameworks from ecological and biological disciplines will be applied to create a new approach to organizing and summarizing similarities in watershed signals, where watersheds are grouped into guilds based on their similar functional traits.  By identifying patterns of similitude in these large data sets and extracting watershed attributes with linkages to these patterns, findings of research on ecosystem processes conducted in individual watershed studies can be more readily translated to larger regions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050, 47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033995</AwardID>
+<Investigator>
+<FirstName>Donna</FirstName>
+<LastName>Rizzo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Donna Rizzo</PI_FULL_NAME>
+<EmailAddress><![CDATA[drizzo@cems.uvm.edu]]></EmailAddress>
+<NSF_ID>000114893</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Byung</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Byung S Lee</PI_FULL_NAME>
+<EmailAddress><![CDATA[bslee@uvm.edu]]></EmailAddress>
+<NSF_ID>000463888</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Melissa</FirstName>
+<LastName>Pespeni</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Melissa H Pespeni</PI_FULL_NAME>
+<EmailAddress><![CDATA[mpespeni@uvm.edu]]></EmailAddress>
+<NSF_ID>000576874</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kristen</FirstName>
+<LastName>Underwood</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kristen L Underwood</PI_FULL_NAME>
+<EmailAddress><![CDATA[Kristen.Underwood@uvm.edu]]></EmailAddress>
+<NSF_ID>000799567</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate>08/24/2021</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kristen</FirstName>
+<LastName>Underwood</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kristen L Underwood</PI_FULL_NAME>
+<EmailAddress><![CDATA[Kristen.Underwood@uvm.edu]]></EmailAddress>
+<NSF_ID>000799567</NSF_ID>
+<StartDate>08/24/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Hamshaw</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott D Hamshaw</PI_FULL_NAME>
+<EmailAddress><![CDATA[shamshaw@uvm.edu]]></EmailAddress>
+<NSF_ID>000802654</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate>08/24/2021</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Vermont & State Agricultural College]]></Name>
+<CityName>BURLINGTON</CityName>
+<ZipCode>054051704</ZipCode>
+<PhoneNumber>8026563660</PhoneNumber>
+<StreetAddress><![CDATA[85 S PROSPECT STREET]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Vermont</StateName>
+<StateCode>VT</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VT00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z94KLERAG5V9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF VERMONT &amp; STATE AGRICULTURAL COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Vermont & State Agricultural College]]></Name>
+<CityName>Burlington</CityName>
+<StateCode>VT</StateCode>
+<ZipCode>054050160</ZipCode>
+<StreetAddress><![CDATA[185 South Prospect St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Vermont</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VT00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>081Y00</Code>
+<Text>NSF 2026 Fund</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~299971</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Freshwater resources face growing pressures from extreme events and land use changes, which result in varying trends in water quantity and quality at multiple scales (from small creeks to large rivers and from storm events to decadal cycles). To build a greater understanding of the impacts to water quality, this interdisciplinary research project investigated trends in short-term and long-term concentration (c) and streamflow (Q) data, aiming to find a common attribute(s) of cQ dynamics that persisted across scales.&nbsp; Specifically, we sought to use an ecologically-inspired approach to extend concepts of similitude in watershed science, to examine whether catchments grouped into &ldquo;guilds&rdquo; based on their functional traits (static catchment attributes including climate, hydrology, topography, geology and landcover) exhibit distinctive sets of &ldquo;phenotypes&rdquo; (cQ patterns) across scales.&nbsp;</p>  <p>At the scale of the continental US, we analyzed cQ data for 11 solutes archived from gages in 276 minimally-disturbed catchments.&nbsp; A Bayesian approach to segmented linear regression was used to identify the presence/absence and estimated value of thresholds in the cQ relationship that could indicate a spatial or temporal shift in solute sourcing, transformation or mobilization. This workflow employed human-machine intelligence through the incorporation of a rule set from domain experts for interpretation of regression model parameters.&nbsp; We showed that solutes sourced from bedrock (e.g., magnesium, calcium, sodium, silica) were dominated by dilution responses, while solutes sourced from shallow soils (e.g., nitrate, aluminum, and dissolved organic carbon and nitrogen) were dominated by enrichment responses. Transitional solutes (e.g., chloride, potassium, and sulfate) showed a mix of responses. Across this continuum of solute types, threshold responses were relatively rare (12% of the cQ relationships), compared with other studies in more intensively disturbed catchments, potentially indicating that urbanization and agricultural practices alter both solute pools and transport pathways and ultimately cQ relationships.</p>  <p>At the catchment scale relying on high-frequency discharge and turbidity monitoring data, we have advanced methods for event delineation and hysteresis classification, collaborating with the New York City Department of Environmental Protection and US Geological Survey in the Upper Esopus Creek watershed.&nbsp; This source area for a portion of the New York City water supply is densely monitored by a distributed sensor network for streamflow and turbidity, serving as an ideal test bed of nested subwatersheds to study spatial and temporal cQ dynamics. We extracted hysteresis and flushing indices for 451 storm events over a 6-year period of record from 2016 to 2021, refining a method that delineates an event based on both the hydrograph and sedigraph, and made the method more accessible through translation from proprietary software to open-source platforms. While provisional results show only modest differences across tributary subwatersheds, ongoing research is evaluating temporal shifts in cQ patterns in response to extreme floods and channel restoration activities.</p>  <p>A further ambitious goal of this high-risk, high-reward EAGER project was to link high-frequency and long-term monitoring data across large spatial domains (e.g., continental US) to generate a predictive understanding of watershed function from these combined spatio-temporal data.&nbsp; While deep learning algorithms and high-performance computing are poised to enable such analysis, issues of data accessibility, harmonization, and missingness along with nonstandardized archival platforms continue to present challenges for harnessing large volumes of high-frequency water quality data at continental scales, and this latter goal eluded us within the project timeline.</p>  <p>Five peer-reviewed publications have been produced during this award, and two are in progress.&nbsp; We offered three workshops in timeseries analysis across more than 8 institutions nationwide, reaching an additional 4 PDs, 55 graduate students and 8 faculty from biology, biogeochemistry, hydrology, engineering and computer science domains.&nbsp; At the University of Vermont, this project has trained one post-doctoral associate, four graduate and two undergraduate students in data-driven workflows to visualize, cluster and classify both long-term and event-scale cQ patterns from timeseries data, persevering through challenges for student recruitment and retention presented by the COVID pandemic.&nbsp; Professional development of the post-doc led to their successful placement as a data scientist and Biologist at the USGS Upper Midwest Water Science Center, Madison, WI.&nbsp; Four students have graduated and secured early career positions in engineering/ consulting or continued on to a PhD program in water resources.&nbsp; This project also supported development of a graduate class in <em>Data Analytics for Water Resources</em> that reached 14 additional graduate students from engineering, geology, natural resources, complex systems and computer science backgrounds.&nbsp; This course is a core offering for a new graduate certificate of the same name in the UVM Civil &amp; Environmental Engineering Department helping to train a new generation of data-literate water resources professionals. These activities were synergistic with UVM&rsquo;s launching of a new Water Resources Institute in 2024, comprising a network of programs, researchers, partners, facilities, and services to build a nationally recognized center at the forefront of interdisciplinary water-related research, innovation, education, and community outreach.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/30/2024<br> Modified by: Kristen&nbsp;L&nbsp;Underwood</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Freshwater resources face growing pressures from extreme events and land use changes, which result in varying trends in water quantity and quality at multiple scales (from small creeks to large rivers and from storm events to decadal cycles). To build a greater understanding of the impacts to water quality, this interdisciplinary research project investigated trends in short-term and long-term concentration (c) and streamflow (Q) data, aiming to find a common attribute(s) of cQ dynamics that persisted across scales. Specifically, we sought to use an ecologically-inspired approach to extend concepts of similitude in watershed science, to examine whether catchments grouped into guilds based on their functional traits (static catchment attributes including climate, hydrology, topography, geology and landcover) exhibit distinctive sets of phenotypes (cQ patterns) across scales.    At the scale of the continental US, we analyzed cQ data for 11 solutes archived from gages in 276 minimally-disturbed catchments. A Bayesian approach to segmented linear regression was used to identify the presence/absence and estimated value of thresholds in the cQ relationship that could indicate a spatial or temporal shift in solute sourcing, transformation or mobilization. This workflow employed human-machine intelligence through the incorporation of a rule set from domain experts for interpretation of regression model parameters. We showed that solutes sourced from bedrock (e.g., magnesium, calcium, sodium, silica) were dominated by dilution responses, while solutes sourced from shallow soils (e.g., nitrate, aluminum, and dissolved organic carbon and nitrogen) were dominated by enrichment responses. Transitional solutes (e.g., chloride, potassium, and sulfate) showed a mix of responses. Across this continuum of solute types, threshold responses were relatively rare (12% of the cQ relationships), compared with other studies in more intensively disturbed catchments, potentially indicating that urbanization and agricultural practices alter both solute pools and transport pathways and ultimately cQ relationships.    At the catchment scale relying on high-frequency discharge and turbidity monitoring data, we have advanced methods for event delineation and hysteresis classification, collaborating with the New York City Department of Environmental Protection and US Geological Survey in the Upper Esopus Creek watershed. This source area for a portion of the New York City water supply is densely monitored by a distributed sensor network for streamflow and turbidity, serving as an ideal test bed of nested subwatersheds to study spatial and temporal cQ dynamics. We extracted hysteresis and flushing indices for 451 storm events over a 6-year period of record from 2016 to 2021, refining a method that delineates an event based on both the hydrograph and sedigraph, and made the method more accessible through translation from proprietary software to open-source platforms. While provisional results show only modest differences across tributary subwatersheds, ongoing research is evaluating temporal shifts in cQ patterns in response to extreme floods and channel restoration activities.    A further ambitious goal of this high-risk, high-reward EAGER project was to link high-frequency and long-term monitoring data across large spatial domains (e.g., continental US) to generate a predictive understanding of watershed function from these combined spatio-temporal data. While deep learning algorithms and high-performance computing are poised to enable such analysis, issues of data accessibility, harmonization, and missingness along with nonstandardized archival platforms continue to present challenges for harnessing large volumes of high-frequency water quality data at continental scales, and this latter goal eluded us within the project timeline.    Five peer-reviewed publications have been produced during this award, and two are in progress. We offered three workshops in timeseries analysis across more than 8 institutions nationwide, reaching an additional 4 PDs, 55 graduate students and 8 faculty from biology, biogeochemistry, hydrology, engineering and computer science domains. At the University of Vermont, this project has trained one post-doctoral associate, four graduate and two undergraduate students in data-driven workflows to visualize, cluster and classify both long-term and event-scale cQ patterns from timeseries data, persevering through challenges for student recruitment and retention presented by the COVID pandemic. Professional development of the post-doc led to their successful placement as a data scientist and Biologist at the USGS Upper Midwest Water Science Center, Madison, WI. Four students have graduated and secured early career positions in engineering/ consulting or continued on to a PhD program in water resources. This project also supported development of a graduate class in Data Analytics for Water Resources that reached 14 additional graduate students from engineering, geology, natural resources, complex systems and computer science backgrounds. This course is a core offering for a new graduate certificate of the same name in the UVM Civil & Environmental Engineering Department helping to train a new generation of data-literate water resources professionals. These activities were synergistic with UVMs launching of a new Water Resources Institute in 2024, comprising a network of programs, researchers, partners, facilities, and services to build a nationally recognized center at the forefront of interdisciplinary water-related research, innovation, education, and community outreach.         Last Modified: 12/30/2024       Submitted by: KristenLUnderwood]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

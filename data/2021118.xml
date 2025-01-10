@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[An Integrated Faculty Professional Development Model Using Classroom Sensing and Machine Learning to Promote Active Learning in Engineering Classrooms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>299879.00</AwardTotalIntnAmount>
+<AwardAmount>299879</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Abby Ilumoka</SignBlockName>
+<PO_EMAI>ailumoka@nsf.gov</PO_EMAI>
+<PO_PHON>7032922703</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project aims to serve the national interest by enhancing the teaching effectiveness of engineering faculty.  Faculty training is known to be a key factor for successful integration of evidence-based teaching practices such as active learning in STEM classrooms.  However, faculty also need opportunities for frequent feedback and reflection on the effectiveness of their use of active learning strategies.  The project will combine both training and feedback in a faculty development model it calls TeachActive.  The TeachActive model will be implemented with 30 engineering faculty across multiple semesters.  TeachActive will use the EduSense open source platform to automatically gather real time descriptions of student and teacher behaviors in the classroom.  These classroom analytics will be displayed in a dashboard to provide faculty with feedback about the level of active learning in their classrooms.  It is expected that this feedback, together with faculty reflection, will promote systematic improvements in evidence-based teaching by the faculty participants.  As a result, the project has the potential to accelerate engineering educators’ adoption and effective implementation of active learning strategies in engineering classrooms, which, in turn, can positively influence student engagement and learning.&lt;br/&gt;&lt;br/&gt;The TeachActive professional development model will embed automated classroom observation and analysis within a theoretically grounded and evidence-based professional development framework. Integration will include three consecutive components: (1) active learning training; (2) four-week sessions of automated classroom observations with a one-year follow-up; and (3) feedback and reflection.  The research team will collect quantitative and qualitative data to monitor changes in instructors’ use of active learning, teaching beliefs, facilitation strategies, and reflective practices. The data for the project will be collected in four stages: (1) pre-post teaching beliefs survey; (2) classroom analytics; (3) reflection prompts; and (4) semi-structured interviews of faculty. The Approaches to Teaching Inventory instrument will be used to assess faculty beliefs about pedagogical strategies before and after their participation in TeachActive. Classroom analytics tracked by EduSense (an NSF-funded camera-based classroom sensing system developed at Carnegie Mellon University) will reveal behavioral indicators of active learning facilitation strategies in classrooms as well as students’ behavioral engagement data. The machine learning techniques within the EduSense system will be validated for the specific context at Iowa State and behavioral features of interest (e.g., sit vs stand; hand raises; kinesthetic patterns) thus providing automated context-sensitive feedback via the TeachActive dashboard.  This project is supported by the NSF IUSE: EHR Program, which supports research and development projects to improve the effectiveness of STEM education for all students. Through the Engaged Student Learning track, the program supports the creation, exploration, and implementation of promising practices and tools.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2021118</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Gilbert</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen B Gilbert</PI_FULL_NAME>
+<EmailAddress><![CDATA[gilbert@iastate.edu]]></EmailAddress>
+<NSF_ID>000504477</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aliye</FirstName>
+<LastName>Karabulut-Ilgu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aliye Karabulut-Ilgu</PI_FULL_NAME>
+<EmailAddress><![CDATA[aliye@iastate.edu]]></EmailAddress>
+<NSF_ID>000709409</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shan</FirstName>
+<LastName>Jiang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shan Jiang</PI_FULL_NAME>
+<EmailAddress><![CDATA[sjiang1@iastate.edu]]></EmailAddress>
+<NSF_ID>000733472</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Evrim</FirstName>
+<LastName>Baran Jovanovic</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Evrim Baran Jovanovic</PI_FULL_NAME>
+<EmailAddress><![CDATA[ebaran@iastate.edu]]></EmailAddress>
+<NSF_ID>000770551</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<ZipCode>500112103</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress><![CDATA[1350 BEARDSHEAR HALL]]></StreetAddress>
+<StreetAddress2><![CDATA[515 MORRILL ROAD]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>Ames</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112103</ZipCode>
+<StreetAddress><![CDATA[1138 Pearson, 505 Morrill Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>199800</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~299879</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The TEACHActive model contributed to advancing the field of engineering education and beyond through its evidence-based framework. Faculty participants reported changes in their teaching beliefs, facilitation behaviors, and reflective practices, driven by the project&rsquo;s innovative tools and processes. A central component of this project was the TEACHActive dashboard, which utilized classroom analytics to provide detailed, automated feedback. The results demonstrated that the use of this dashboard positively influenced faculty engagement with active learning practices, enhanced their classroom strategies, and encouraged reflective teaching.</p>  <p>Key findings include:</p>  <ol>  <li><strong>Enhanced Teaching Beliefs:</strong>&nbsp;Faculty reported a shift toward more student-centered teaching philosophies, with greater emphasis on active learning techniques such as group problem-solving and interactive discussions.</li>  <li><strong>Improved Facilitation Practices:</strong>&nbsp;Instructors incorporated diverse active learning strategies, increasing student engagement and participation in STEM classrooms.</li>  <li><strong>Promoted Reflective Practice:</strong>&nbsp;The TEACHActive dashboard offered real-time classroom analytics, empowering faculty to analyze and refine their teaching practices. Faculty highlighted the role of actionable metrics in fostering meaningful reflection and improving pedagogy.</li>  </ol>  <p>These contributions have implications for the development of faculty professional development programs across STEM disciplines, offering a scalable model for integrating technology and evidence-based teaching practices.</p>  <p><strong>Broader Impacts:</strong><br />The TEACHActive project demonstrated significant potential to transform faculty professional development, benefiting instructors, students, and the broader STEM education community. Key broader impacts include:</p>  <ul>  <li><strong>STEM Student Engagement:</strong>&nbsp;By encouraging active learning strategies, the project contributed to creating motivating and inclusive classroom environments that promote student success and persistence in STEM fields.</li>  <li><strong>Interdisciplinary Innovation:</strong>&nbsp;TEACHActive bridged disciplines such as engineering, education, and human-computer interaction, fostering interdisciplinary research on classroom analytics and faculty development.</li>  <li><strong>Human Resource Development:</strong>&nbsp;The project supported graduate students in completing advanced degrees and advancing their careers in educational technology and human-computer interaction.</li>  <li><strong>Dissemination and Outreach:</strong>&nbsp;Findings were shared through publications, presentations, and conferences, providing valuable resources to educators and researchers worldwide. The results have informed the design of similar professional development models and inspired new research directions in classroom analytics.</li>  </ul>  <p><strong>Future Directions:</strong><br />TEACHActive has laid a strong foundation for the continued integration of classroom analytics in professional development. Future work will focus on refining the TEACHActive dashboard, exploring its application across diverse disciplines, and addressing challenges such as scalability and implementation in resource-limited contexts. The team&rsquo;s research has provided a pathway for using automated systems to foster reflective teaching and improve active learning practices, offering a model that can be adapted and expanded for broader impact.</p><br> <p>  Last Modified: 11/25/2024<br> Modified by: Evrim&nbsp;Baran Jovanovic</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The TEACHActive model contributed to advancing the field of engineering education and beyond through its evidence-based framework. Faculty participants reported changes in their teaching beliefs, facilitation behaviors, and reflective practices, driven by the projects innovative tools and processes. A central component of this project was the TEACHActive dashboard, which utilized classroom analytics to provide detailed, automated feedback. The results demonstrated that the use of this dashboard positively influenced faculty engagement with active learning practices, enhanced their classroom strategies, and encouraged reflective teaching.    Key findings include:    Enhanced Teaching Beliefs:Faculty reported a shift toward more student-centered teaching philosophies, with greater emphasis on active learning techniques such as group problem-solving and interactive discussions.  Improved Facilitation Practices:Instructors incorporated diverse active learning strategies, increasing student engagement and participation in STEM classrooms.  Promoted Reflective Practice:The TEACHActive dashboard offered real-time classroom analytics, empowering faculty to analyze and refine their teaching practices. Faculty highlighted the role of actionable metrics in fostering meaningful reflection and improving pedagogy.      These contributions have implications for the development of faculty professional development programs across STEM disciplines, offering a scalable model for integrating technology and evidence-based teaching practices.    Broader Impacts: The TEACHActive project demonstrated significant potential to transform faculty professional development, benefiting instructors, students, and the broader STEM education community. Key broader impacts include:    STEM Student Engagement:By encouraging active learning strategies, the project contributed to creating motivating and inclusive classroom environments that promote student success and persistence in STEM fields.  Interdisciplinary Innovation:TEACHActive bridged disciplines such as engineering, education, and human-computer interaction, fostering interdisciplinary research on classroom analytics and faculty development.  Human Resource Development:The project supported graduate students in completing advanced degrees and advancing their careers in educational technology and human-computer interaction.  Dissemination and Outreach:Findings were shared through publications, presentations, and conferences, providing valuable resources to educators and researchers worldwide. The results have informed the design of similar professional development models and inspired new research directions in classroom analytics.      Future Directions: TEACHActive has laid a strong foundation for the continued integration of classroom analytics in professional development. Future work will focus on refining the TEACHActive dashboard, exploring its application across diverse disciplines, and addressing challenges such as scalability and implementation in resource-limited contexts. The teams research has provided a pathway for using automated systems to foster reflective teaching and improve active learning practices, offering a model that can be adapted and expanded for broader impact.     Last Modified: 11/25/2024       Submitted by: EvrimBaran Jovanovic]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

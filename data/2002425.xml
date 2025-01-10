@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Tracking Southern Ocean sea ice extent and frontal positions: Novel techniques based on oxygen isotope and Mg/Ca analyses of foraminifera]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>397311.00</AwardTotalIntnAmount>
+<AwardAmount>397311</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gail Christeson</SignBlockName>
+<PO_EMAI>gchriste@nsf.gov</PO_EMAI>
+<PO_PHON>7032922952</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Understanding the drivers of glacial-interglacial carbon dioxide (CO2) cycles is one of the most important questions in the field of paleoclimatology.   It has long been known that Earth’s ice sheets expand when atmospheric CO2 is low and melt as CO2 rises, but the underlying climate mechanisms remain unclear.  Expanded sea ice coverage in the Southern Ocean around Antarctica may have limited the release of carbon from the deep ocean during natural cold periods such as the Last Glacial Maximum (LGM; ~20,000 years ago).  Greater sea ice extent and northward movement of oceanic fronts may have also led to carbon storage in the deep ocean.  Reliable paleoclimate records from the Southern Ocean are thus essential to understanding the controls on atmospheric CO2 over long timescales. The proposed study will develop new methods to produce such records, using chemical analyses of microscopic fossils from marine sediment cores. The educational impact of the proposed work includes support for a graduate student and an undergraduate at the University of Connecticut.  &lt;br/&gt;&lt;br/&gt;The proposed work will focus on developing a new proxy for sea ice extent based on the oxygen isotope ratios (d18O) of benthic and planktonic foraminifera. Sea ice formation in the Southern Ocean is characterized by near-freezing surface conditions and negative buoyancy forcing, which creates a unique vertical profile in d18O.  Preliminary data from the published literature shows that the d18O difference between recent planktonic and benthic foraminifera yields an estimate of sea ice extent consistent with modern observations.  We also plan to develop a novel proxy for subtropical front position based on foraminiferal magnesium/calcium (Mg/Ca) and d18O analyses. Contemporary measurements of sea-surface temperature and the d18O of seawater capture the position of the subtropical front, implying that reconstructions based on Mg/Ca and d18O can be used to track frontal position in the geologic past.   Motivated by these initial results, we propose to use a transect of cores from ~55ºS to 35ºS in the Atlantic sector of the Southern Ocean to: 1) estimate sea ice extent and surface buoyancy forcing during the LGM, and 2) reconstruct the position of the subtropical front during the LGM to constrain inter-basin exchange between the Atlantic and Indian Oceans. The proposed work could transform our understanding of the Southern Ocean by adding two new methods to the paleoclimate toolkit.  The d18O sea ice proxy will complement existing diatom-based methods and it can be used in regions where diatoms are sparse.  Similarly, development of the subtropical front technique will lay the groundwork for studies of the deglaciation when changes in frontal position have been invoked to explain rising atmospheric CO2.  Given the relevance of the techniques to research questions across a range of timescales, we anticipate our results will be of broad interest to the paleoclimate community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002425</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Lund</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David C Lund</PI_FULL_NAME>
+<EmailAddress><![CDATA[david.lund@uconn.edu]]></EmailAddress>
+<NSF_ID>000514656</NSF_ID>
+<StartDate>04/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<ZipCode>062699018</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 11]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut, Avery Point]]></Name>
+<CityName>Groton</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>063406048</ZipCode>
+<StreetAddress><![CDATA[1080 Shennecossett Rd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>162000</Code>
+<Text>Marine Geology and Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1304</Code>
+<Text>EARTH SYSTEM HISTORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1620</Code>
+<Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8070</Code>
+<Text>P2C2 Proposals</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~397311</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The last million years of Earth's history was dominated by the Ice Ages, the repeated advance and retreat of ice sheets that covered large portions of North America, Europe, and Asia. &nbsp;While it has long been known that the Ice Ages were paced by changes in the distribution of sunlight over the Earth's surface, the mechanisms responsible for amplifying small variations in sunlight into continent-scale ice sheets remains unclear. &nbsp;One of the most likely amplifiers is atmospheric carbon dioxide (CO<sub>2</sub>), the levels of which vary depending on Earth's climate state.&nbsp;&nbsp;During glacial intervals when the Earth is cold and ice sheets are large,&nbsp;CO<sub>2</sub>&nbsp;levels are low.&nbsp;&nbsp;During interglacial intervals when the Earth is warm and ice sheets are small,&nbsp;CO<sub>2</sub>&nbsp;levels are high.&nbsp;&nbsp;The correspondence between temperature, ice sheet size, and&nbsp;CO<sub>2</sub>&nbsp;during the Ice Ages is one of the primary lines of evidence showing Earth's climate depends strongly on atmospheric&nbsp;CO<sub>2</sub>levels.&nbsp;&nbsp;</p> <p>Given that the deep ocean holds ~50 times more carbon than the atmosphere, ocean-atmosphere carbon exchange likely controls&nbsp;CO<sub>2</sub>&nbsp;levels during the Ice Ages.&nbsp;&nbsp;Changes in marine biological productivity, sea ice coverage, and the position of ocean fronts are all thought to play important roles in regulating atmospheric&nbsp;CO<sub>2</sub>.&nbsp; The goal of this NSF-funded project was to develop new proxies for sea ice and frontal positions in the Southern Ocean, where deep waters upwell to the surface and release CO<sub>2&nbsp;</sub>to the atmosphere.&nbsp; Sea ice can physically block the release of carbon while frontal positions reflect prevailing winds and upwelling of carbon-rich deep water to the surface. &nbsp;It is therefore&nbsp;essential to have reliable reconstructions of sea ice and frontal positions to determine the ocean's role in regulating atmospheric&nbsp;CO<sub>2</sub>.</p> <p>For the sea ice component of the project, we used a latitudinal transect of cores from the Southern Ocean that straddles the modern sea ice edge to determine whether the oxygen isotopic composition of plankton shells (<em>N. pachyderma</em>) that recently accumulated on the sea floor reflect sea ice cover in the overlying water. &nbsp;Using published data, we demonstrated that the oxygen isotope method works well for recent sediments, largely tracking the sea ice edge in the Atlantic sector of the Southern Ocean. &nbsp;We also generated new data based on analyses of individual&nbsp;<em>N. pachyderma&nbsp;</em>shells to better assess natural variability in polar surface ocean conditions. &nbsp;While some of the records are compromised by mixing of shells in the sediment (a process known as bioturbation), the new results support the idea that the oxygen isotope composition of <em>N. pachyderma</em> can be used to infer sea ice extent. &nbsp;For the frontal component of the project, we used a different species of plankton&nbsp;(<em>G. bulloides</em>) whose habitat spans a broader latitude range. &nbsp;The oxygen isotopic composition and the magnesium to calcium ratio (Mg/Ca) of&nbsp;<em>G. bulloides&nbsp;</em>were used to infer the temperature at which the plankton grew. &nbsp;Our findings show that this species grows near the ocean surface (0-200 m water depth) at the Sub-Antarctic Front but deeper in the water column (200-500 m) near the Subtropical&nbsp;Front. &nbsp;Given that fronts are defined using spatial gradients in near surface properties, our findings imply that&nbsp;<em>G. bulloides </em>will likely yield unreliable estimates of frontal position in the geologic past. Our results also indicate that paleoceanographic records based on&nbsp;<em>G. bulloides</em>&nbsp;should be interpreted with caution given that its depth habitat changes depending on ambient ocean conditions. &nbsp;Our findings will help ensure reliable reconstructions of sea ice extent and frontal position in the Southern Ocean, both of which are key to understanding the ocean's role in the carbon cycle.</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/17/2024<br> Modified by: David&nbsp;C&nbsp;Lund</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The last million years of Earth's history was dominated by the Ice Ages, the repeated advance and retreat of ice sheets that covered large portions of North America, Europe, and Asia. While it has long been known that the Ice Ages were paced by changes in the distribution of sunlight over the Earth's surface, the mechanisms responsible for amplifying small variations in sunlight into continent-scale ice sheets remains unclear. One of the most likely amplifiers is atmospheric carbon dioxide (CO2), the levels of which vary depending on Earth's climate state.During glacial intervals when the Earth is cold and ice sheets are large,CO2levels are low.During interglacial intervals when the Earth is warm and ice sheets are small,CO2levels are high.The correspondence between temperature, ice sheet size, andCO2during the Ice Ages is one of the primary lines of evidence showing Earth's climate depends strongly on atmosphericCO2levels.   Given that the deep ocean holds ~50 times more carbon than the atmosphere, ocean-atmosphere carbon exchange likely controlsCO2levels during the Ice Ages.Changes in marine biological productivity, sea ice coverage, and the position of ocean fronts are all thought to play important roles in regulating atmosphericCO2. The goal of this NSF-funded project was to develop new proxies for sea ice and frontal positions in the Southern Ocean, where deep waters upwell to the surface and release CO2to the atmosphere. Sea ice can physically block the release of carbon while frontal positions reflect prevailing winds and upwelling of carbon-rich deep water to the surface. It is thereforeessential to have reliable reconstructions of sea ice and frontal positions to determine the ocean's role in regulating atmosphericCO2.   For the sea ice component of the project, we used a latitudinal transect of cores from the Southern Ocean that straddles the modern sea ice edge to determine whether the oxygen isotopic composition of plankton shells (N. pachyderma) that recently accumulated on the sea floor reflect sea ice cover in the overlying water. Using published data, we demonstrated that the oxygen isotope method works well for recent sediments, largely tracking the sea ice edge in the Atlantic sector of the Southern Ocean. We also generated new data based on analyses of individualN. pachydermashells to better assess natural variability in polar surface ocean conditions. While some of the records are compromised by mixing of shells in the sediment (a process known as bioturbation), the new results support the idea that the oxygen isotope composition of N. pachyderma can be used to infer sea ice extent. For the frontal component of the project, we used a different species of plankton(G. bulloides) whose habitat spans a broader latitude range. The oxygen isotopic composition and the magnesium to calcium ratio (Mg/Ca) ofG. bulloideswere used to infer the temperature at which the plankton grew. Our findings show that this species grows near the ocean surface (0-200 m water depth) at the Sub-Antarctic Front but deeper in the water column (200-500 m) near the SubtropicalFront. Given that fronts are defined using spatial gradients in near surface properties, our findings imply thatG. bulloides will likely yield unreliable estimates of frontal position in the geologic past. Our results also indicate that paleoceanographic records based onG. bulloidesshould be interpreted with caution given that its depth habitat changes depending on ambient ocean conditions. Our findings will help ensure reliable reconstructions of sea ice extent and frontal position in the Southern Ocean, both of which are key to understanding the ocean's role in the carbon cycle.        Last Modified: 09/17/2024       Submitted by: DavidCLund]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Prairie Analysis Seminar 2020-2021]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>22741.00</AwardTotalIntnAmount>
+<AwardAmount>22741</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+<PO_EMAI>mbocea@nsf.gov</PO_EMAI>
+<PO_PHON>7032922595</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award will provide funds to organize the Prairie Analysis Seminar and support its participants at the 2020 and 2021 editions of this annual meeting. The Fall 2020 event will be held on November 13-14, 2020, at the Kansas State University campus in Manhattan, Kansas; the Fall 2021 event will be hosted at the University of Kansas campus in Lawrence, Kansas, on a date to be determined. The Prairie Analysis Seminar is an ongoing joint project by the Mathematics Departments at Kansas State University and The University of Kansas that has been successful and nationally recognized since its inception in 2001. The conference showcases a diverse group of outstanding mathematicians known for their state-of-the-art research in analysis and partial differential equations; it  provides participants in early stages of their careers  with the opportunity to present their work through contributed talks, get advice from experts, expand their professional networks and increase their chances of success in the job market; it promotes the participation from historically underrepresented and underserved groups in mathematics.&lt;br/&gt;&lt;br/&gt;The Prairie Analysis Seminar features as invited speakers leading scholars well known for their contributions to active areas of research in analysis and partial differential equations and for their mastery to communicate with a broad mathematical audience. As in previous meetings, an invited principal speaker will give two one-hour lectures and will be accompanied by two invited speakers who will each give a one-hour lecture. A main component of the seminar is the time reserved for short talks by participants in early stages of their careers, in particular, advanced Ph.D. students and postdocs. The conference will include a session to discuss open problems suggested by the conference participants and their connections to other areas of related work. The seminar can result in cross-disciplinary activities and establish new directions in this regard since analysis and partial differential equations have a long tradition of applications in other academic fields and industry. The meeting will run for one and a half days from Friday noon to Saturday afternoon.&lt;br/&gt;For more information about the Prairie Analysis Seminar, visit https://www.math.ksu.edu/research/group/analysis/prairie_seminar.html and https://mathematics.ku.edu/prairie-analysis-seminar&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034592</AwardID>
+<Investigator>
+<FirstName>Shuanglin</FirstName>
+<LastName>Shao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shuanglin Shao</PI_FULL_NAME>
+<EmailAddress><![CDATA[slshao@ku.edu]]></EmailAddress>
+<NSF_ID>000575233</NSF_ID>
+<StartDate>07/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dionyssios</FirstName>
+<LastName>Mantzavinos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dionyssios Mantzavinos</PI_FULL_NAME>
+<EmailAddress><![CDATA[mantzavinos@ku.edu]]></EmailAddress>
+<NSF_ID>000763142</NSF_ID>
+<StartDate>07/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Kansas Center for Research Inc]]></Name>
+<CityName>LAWRENCE</CityName>
+<ZipCode>660457563</ZipCode>
+<PhoneNumber>7858643441</PhoneNumber>
+<StreetAddress><![CDATA[2385 IRVING HILL RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SSUJB3GSH8A5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KANSAS CENTER FOR RESEARCH INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SSUJB3GSH8A5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kansas]]></Name>
+<CityName>Lawrence</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>660457594</ZipCode>
+<StreetAddress><![CDATA[1460 Jayhawk Blvd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~22741</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This is to report the project outcomes of the 18th Prairie Analysis Seminar.&nbsp;</p> <p>Interlectual merits.&nbsp;</p> <p>The 18th edition of the Prairie Analysis Seminar was organized by KU and took place in person at the KU campus in Lawrence, Kansas on October 28-29, 2022. The principal lectures were delivered by Monica Visan, Professor in the Department of Mathematics of the University of California Los Angeles (UCLA). The title of her talks was Methods for Sharp Well-posedness of Completely Integrable Systems. Benjamin Harrop-Griffiths, Assistant Professor in the Department of Mathematics and Statistics of Georgetown University, and Jason Murphy, then Assistant Professor in the Department of Mathematics and Statistics of the Missouri University of Science and Technology and currently Assistant Professor in the Department of Mathematics of the University of Oregon, delivered the two accompanying main talks of the seminar on The Derivative NLS on the Line and Invariance of White Noise for KdV on the Line, respectively.</p> <p>In addition to the main lectures, there were 11 thirty-minute talks by participants on topics related to those in the presentations by the main speakers and other areas of harmonic analysis, partial differential equations, operator theory, and weighted norm inequalities. Furthermore, there were 11 poster presentations that took place during a special session scheduled after the end of the Friday talks and prior to the conference dinner. This format encouraged the attendance of the poster session, which was indeed attended by nearly every conference participant.&nbsp;</p> <p>Broader Impact. The Prairie Analysis Seminar began in 2001. The venue alternates between the campuses of the organizing institutions. The financial support received from National Science Foundation has helped establish this conference at the national level. The conference has evolved into a very important annual event &mdash; notably, the only one of its kind in analysis in the broader geographical area. The organization of the Prairie Analysis Seminar has been very efficient. Even though the levels of funding have been modest, the conference has featured some outstanding leaders in harmonic analysis, partial differential equations, several complex variables, and applied mathematics. Equally important is the fact that the event has attracted the participation of numerous graduate students, postdoctoral scholars and earlycareer mathematicians. As planned, all of the funding was used towards participant support and, in particular, for students, junior colleagues and individuals with no other support. This has been possible in part by scheduling the event over one-and-a-half days, thereby minimizing accommodation expenses. The conference is affordable to mathematicians at small colleges and other educational institutions in the geographical area who can drive to the site and is very valuable to these individuals as they do not have the opportunity and resources to attend major mathematical conferences far away from their institutions. The Prairie Analysis Seminar features a Principal Lecturer who gives two one-hour talks and two accompanying Invited Speakers, each of whom gives a one-hour talk on related topics. There is also ample time allocated for short contributed talks. The format of the meeting has allowed junior mathematicians to give short talks on their work in the presence of leading experts in their field. The timing of the conference in the fall has been very convenient too, as many of the junior participants enter the job market at that time of the year and hence welcome the opportunity to showcase their research achievements. The Prairie Analysis Seminar has fostered the interaction between the two organizing institutions, as well as with small colleges in the area. It has helped the mathematics departments at KU and K-State in recruiting graduate students, postdoctoral associates, and new faculty. It has also helped many early-career mathematicians expose their work, get advice from experts, and become more competitive in the job market. The friendly atmosphere reported by participants has stimulated interactions between colleagues across the country, leading to new research endeavors. The conference organizers are committed to supporting early-career mathematicians as well as to promoting the participation of members of historically underrepresented groups in mathematics.&nbsp;</p><br> <p>  Last Modified: 10/07/2024<br> Modified by: Shuanglin&nbsp;Shao</p></div> <div class="porSideCol" ></div> </div> <div class="porColContainerHR"> <div class="porContentCol"> <h2>Addendum # 1</h2><p><p><span style="text-decoration: underline;">The report submitted previously was done so by mistake: the correct report is the following:</span></p>  <p>The Prairie Analysis Seminar (PAS) is a joint collaboration between the mathematics departments at Kansas State University (K-State) and the University of Kansas (KU). The project's main activity is an annual conference that alternates between the campuses of the two universities. During the period of this award, the 17th edition of the conference was organized and hosted virtually by K-State on November 5-6, 2021; the 18th edition was organized by KU and took place in person on October 28-29, 2022 at KU's campus in Lawrence, Kansas; the 19th Prairie Analysis Seminar was organized by K-State and took place in person on November 3-4, 2023, at K-State's campus in Manhattan, Kansas.</p>  <p><br />The conferences showcased a diverse group of outstanding mathematicians known for their state-of-the-art research in harmonic analysis and partial differential equations; gave participants in early stages of their careers the opportunity to present their work through contributed talks and poster sessions, get advice from experts, expand their professional networks and increase their chances of success in the job market; fostered the interaction between K-State, KU and small colleges in the area; triggered interactions between colleagues across the country, resulting in the development of new research projects; and promoted the participation from historically underrepresented and under-served groups in mathematics.</p>  <p><br />The conferences engaged the participants in a variety of important topics from the broader area of Analysis, Partial Differential Equations, and related applications. The main topics in the 17th edition of the conference included a survey of the research area of configurations in sets, which is related to many problems in geometric measure theory and draws tools from harmonic analysis, number theory and additive combinatorics; as well as recent results on Dirichlet and Neumann problems in Lipschitz Domains and maximal operators. The primary subjects in the 18th edition of the conference included recent progress on well-posedness of dispersive partial differential equations that are completely integrable, which combines classical harmonic analysis techniques and conservation laws. The 19th edition of the conference focused on topics about free boundary problems with interacting boundaries, regularity results on obstacle-type problems associated with the fractional Laplacian and Radon-Carleman problems.&nbsp;</p></p><br> <p>Added: 12/07/2024<br>Submitted by: Dionyssios&nbsp;Mantzavinos</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This is to report the project outcomes of the 18th Prairie Analysis Seminar.   Interlectual merits.   The 18th edition of the Prairie Analysis Seminar was organized by KU and took place in person at the KU campus in Lawrence, Kansas on October 28-29, 2022. The principal lectures were delivered by Monica Visan, Professor in the Department of Mathematics of the University of California Los Angeles (UCLA). The title of her talks was Methods for Sharp Well-posedness of Completely Integrable Systems. Benjamin Harrop-Griffiths, Assistant Professor in the Department of Mathematics and Statistics of Georgetown University, and Jason Murphy, then Assistant Professor in the Department of Mathematics and Statistics of the Missouri University of Science and Technology and currently Assistant Professor in the Department of Mathematics of the University of Oregon, delivered the two accompanying main talks of the seminar on The Derivative NLS on the Line and Invariance of White Noise for KdV on the Line, respectively.   In addition to the main lectures, there were 11 thirty-minute talks by participants on topics related to those in the presentations by the main speakers and other areas of harmonic analysis, partial differential equations, operator theory, and weighted norm inequalities. Furthermore, there were 11 poster presentations that took place during a special session scheduled after the end of the Friday talks and prior to the conference dinner. This format encouraged the attendance of the poster session, which was indeed attended by nearly every conference participant.   Broader Impact. The Prairie Analysis Seminar began in 2001. The venue alternates between the campuses of the organizing institutions. The financial support received from National Science Foundation has helped establish this conference at the national level. The conference has evolved into a very important annual event  notably, the only one of its kind in analysis in the broader geographical area. The organization of the Prairie Analysis Seminar has been very efficient. Even though the levels of funding have been modest, the conference has featured some outstanding leaders in harmonic analysis, partial differential equations, several complex variables, and applied mathematics. Equally important is the fact that the event has attracted the participation of numerous graduate students, postdoctoral scholars and earlycareer mathematicians. As planned, all of the funding was used towards participant support and, in particular, for students, junior colleagues and individuals with no other support. This has been possible in part by scheduling the event over one-and-a-half days, thereby minimizing accommodation expenses. The conference is affordable to mathematicians at small colleges and other educational institutions in the geographical area who can drive to the site and is very valuable to these individuals as they do not have the opportunity and resources to attend major mathematical conferences far away from their institutions. The Prairie Analysis Seminar features a Principal Lecturer who gives two one-hour talks and two accompanying Invited Speakers, each of whom gives a one-hour talk on related topics. There is also ample time allocated for short contributed talks. The format of the meeting has allowed junior mathematicians to give short talks on their work in the presence of leading experts in their field. The timing of the conference in the fall has been very convenient too, as many of the junior participants enter the job market at that time of the year and hence welcome the opportunity to showcase their research achievements. The Prairie Analysis Seminar has fostered the interaction between the two organizing institutions, as well as with small colleges in the area. It has helped the mathematics departments at KU and K-State in recruiting graduate students, postdoctoral associates, and new faculty. It has also helped many early-career mathematicians expose their work, get advice from experts, and become more competitive in the job market. The friendly atmosphere reported by participants has stimulated interactions between colleagues across the country, leading to new research endeavors. The conference organizers are committed to supporting early-career mathematicians as well as to promoting the participation of members of historically underrepresented groups in mathematics.     Last Modified: 10/07/2024       Submitted by: ShuanglinShao   The report submitted previously was done so by mistake: the correct report is the following:    The Prairie Analysis Seminar (PAS) is a joint collaboration between the mathematics departments at Kansas State University (K-State) and the University of Kansas (KU). The project's main activity is an annual conference that alternates between the campuses of the two universities. During the period of this award, the 17th edition of the conference was organized and hosted virtually by K-State on November 5-6, 2021; the 18th edition was organized by KU and took place in person on October 28-29, 2022 at KU's campus in Lawrence, Kansas; the 19th Prairie Analysis Seminar was organized by K-State and took place in person on November 3-4, 2023, at K-State's campus in Manhattan, Kansas.     The conferences showcased a diverse group of outstanding mathematicians known for their state-of-the-art research in harmonic analysis and partial differential equations; gave participants in early stages of their careers the opportunity to present their work through contributed talks and poster sessions, get advice from experts, expand their professional networks and increase their chances of success in the job market; fostered the interaction between K-State, KU and small colleges in the area; triggered interactions between colleagues across the country, resulting in the development of new research projects; and promoted the participation from historically underrepresented and under-served groups in mathematics.     The conferences engaged the participants in a variety of important topics from the broader area of Analysis, Partial Differential Equations, and related applications. The main topics in the 17th edition of the conference included a survey of the research area of configurations in sets, which is related to many problems in geometric measure theory and draws tools from harmonic analysis, number theory and additive combinatorics; as well as recent results on Dirichlet and Neumann problems in Lipschitz Domains and maximal operators. The primary subjects in the 18th edition of the conference included recent progress on well-posedness of dispersive partial differential equations that are completely integrable, which combines classical harmonic analysis techniques and conservation laws. The 19th edition of the conference focused on topics about free boundary problems with interacting boundaries, regularity results on obstacle-type problems associated with the fractional Laplacian and Radon-Carleman problems.Last Modified: 12/07/2024 Submitted by: DionyssiosMantzavinos]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

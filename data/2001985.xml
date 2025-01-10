@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+<PO_EMAI>sgdewint@nsf.gov</PO_EMAI>
+<PO_PHON>7032922599</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist. The title of the project for this fellowship to McFeely J. Goodman is "Moduli Spaces of Positively Curved Riemannian Metrics."  The host institution for the fellowship is University of California, Berkeley, and the sponsoring scientist is John Lott.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001985</AwardID>
+<Investigator>
+<FirstName>McFeely</FirstName>
+<LastName>Goodman</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>McFeely J Goodman</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000812596</NSF_ID>
+<StartDate>03/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Goodman, McFeely Jackson]]></Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>19104</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California, Berkeley Department of Mathematics]]></Name>
+<CityName>Berkeley</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947203840</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="page" title="Page 2">  <div class="layoutArea">  <div class="column">  <p><span>For surfaces in our three dimensional world, the curvature at any point measures the extent to which the surface bends away from a flat plane. The curvature is said to be positive if the surface bends towards a single side of the plane (picture a ball bending upwards from the floor on which is rests) and negative if it bends towards both sides of the surface (picture the slopes of mountain range bending both uphill and downhill from a mountain pass). </span></p>  </div>  </div>  </div>  <div class="page" title="Page 3">  <div class="layoutArea">  <div class="column">  <p>In the dimension of a space is more than two, there are many two dimensional cross sections through each point. Each is assigned a curvature. We define a hierarchy of so called positive curvature conditions, for instance: all the curvatures of all the crosse sections are positive, or: the average of the curvatures of the cross sections through a point is positive at each point. There are conditions in between and others altogether.</p>  <p>�</p>  <p>Intellectual Merit</p>  <p><span>This project set out to understand the relative effect that different curvature conditions have on the global shape, or topology, of a space. The PI addressed two types of questions. Can I arrange a given space into one which satisfies a given positive curvature condition? If so, in how many distinct ways can I perform such an arrangement? In the context of this project, two arrangements are considered the same if I can deform one into the other, preserving the positive curvature condition during the deformation. </span></p>  <p><span>This project revealed new spaces with the property that there are infinitely many distinct ways to arrange each space to satisfy one of the more stringent positive curvature conditions. Highlights include the first infinite family of five dimensional manifolds in the context of positive �Ricci� curvature, and in the context of the more stringent nonnegative �sectional� curvature, a set of seven dimensional manifolds which are �exotic� versions of the seven dimensional analogue of sphere. </span></p>  <p><span>Global topological properties of a space can can prevent it from being arranged it to satisfy certain of the most stringent, and least stringent positive curvature conditions. But few such properties, which are called �topological obstructions� are known which can distinguish between curvature conditions in between. We described a hierarchy of novel curvature conditions, each with a corresponding topological obstruction. </span></p>  <p><span>Using related tools we were also able to illuminate new relationships between curvature and size. On certain spaces, certain curvature quantities cannot be in- creased without shrinking the areas of two dimensional cross sections. We identified new four dimensional examples of such spaces, with distinct topological types from previous examples. </span></p>  <p>Broader Impact</p>  <p>�</p>  <p><span>The PI prepared talks about the project for undergraduate audiences including first year students. The PI delivered the talks at the University of California, Berke- ley, Colby College, and California Polytechnic State University, San Luis Obispo. Such talks introduce undergraduates to the ideas of differential geometry and topol- ogy, as well as the processes of mathematics research. They lower the barrier to learning about mathematics research, giving the opportunity to a broader audience. </span></p>  <p><span>The PI designed and led an undergraduate independent study in the graduate topic of Morse theory, and hands on introduction to advanced mathematics with opportunities for writing and original ideas. </span></p>  <p><span>The PI designed courses in Real and Complex Analysis at UC Berkeley, with the intention of broadening the audience for crucial and advanced mathematical disciplines. The courses served math majors getting a rigorous preparation for upper level and graduate study, as well as majors from other disciplines who sought an introduction to abstract mathematics and mathematical thinking. Similarly, they were useful for engineers and physicists interested in applications as well as math majors interested in the theory. </span></p>  </div>  </div>  </div>  <p>�</p><br> <p>  Last Modified: 12/30/2024<br> Modified by: Mcfeely&nbsp;J&nbsp;Goodman</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[        For surfaces in our three dimensional world, the curvature at any point measures the extent to which the surface bends away from a flat plane. The curvature is said to be positive if the surface bends towards a single side of the plane (picture a ball bending upwards from the floor on which is rests) and negative if it bends towards both sides of the surface (picture the slopes of mountain range bending both uphill and downhill from a mountain pass).                 In the dimension of a space is more than two, there are many two dimensional cross sections through each point. Each is assigned a curvature. We define a hierarchy of so called positive curvature conditions, for instance: all the curvatures of all the crosse sections are positive, or: the average of the curvatures of the cross sections through a point is positive at each point. There are conditions in between and others altogether.    �    Intellectual Merit    This project set out to understand the relative effect that different curvature conditions have on the global shape, or topology, of a space. The PI addressed two types of questions. Can I arrange a given space into one which satisfies a given positive curvature condition? If so, in how many distinct ways can I perform such an arrangement? In the context of this project, two arrangements are considered the same if I can deform one into the other, preserving the positive curvature condition during the deformation.     This project revealed new spaces with the property that there are infinitely many distinct ways to arrange each space to satisfy one of the more stringent positive curvature conditions. Highlights include the first infinite family of five dimensional manifolds in the context of positive �Ricci� curvature, and in the context of the more stringent nonnegative �sectional� curvature, a set of seven dimensional manifolds which are �exotic� versions of the seven dimensional analogue of sphere.     Global topological properties of a space can can prevent it from being arranged it to satisfy certain of the most stringent, and least stringent positive curvature conditions. But few such properties, which are called �topological obstructions� are known which can distinguish between curvature conditions in between. We described a hierarchy of novel curvature conditions, each with a corresponding topological obstruction.     Using related tools we were also able to illuminate new relationships between curvature and size. On certain spaces, certain curvature quantities cannot be in- creased without shrinking the areas of two dimensional cross sections. We identified new four dimensional examples of such spaces, with distinct topological types from previous examples.     Broader Impact    �    The PI prepared talks about the project for undergraduate audiences including first year students. The PI delivered the talks at the University of California, Berke- ley, Colby College, and California Polytechnic State University, San Luis Obispo. Such talks introduce undergraduates to the ideas of differential geometry and topol- ogy, as well as the processes of mathematics research. They lower the barrier to learning about mathematics research, giving the opportunity to a broader audience.     The PI designed and led an undergraduate independent study in the graduate topic of Morse theory, and hands on introduction to advanced mathematics with opportunities for writing and original ideas.     The PI designed courses in Real and Complex Analysis at UC Berkeley, with the intention of broadening the audience for crucial and advanced mathematical disciplines. The courses served math majors getting a rigorous preparation for upper level and graduate study, as well as majors from other disciplines who sought an introduction to abstract mathematics and mathematical thinking. Similarly, they were useful for engineers and physicists interested in applications as well as math majors interested in the theory.           �     Last Modified: 12/30/2024       Submitted by: McfeelyJGoodman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

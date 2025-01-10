@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Principles of Geometrically-Frustrated Assembly]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>433337.00</AwardTotalIntnAmount>
+<AwardAmount>433337</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daryl Hess</SignBlockName>
+<PO_EMAI>dhess@nsf.gov</PO_EMAI>
+<PO_PHON>7032924942</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>NONTECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This award supports theoretical and computational research and education to advance fundamental understanding of geometrically frustrated self-assembly of soft materials. Self-assembly is a process by which nanoscale “building blocks” spontaneously associate into multi-unit structures, which underlies structure formation of a vast range of useful material structures in the biological and synthetic world.  This project aims to advance fundamental understanding of a new “class” of such systems, known as geometrically frustrated assemblies (GFAs).  &lt;br/&gt;&lt;br/&gt;Geometric-frustration occurs when the shape and interaction between building-blocks lead to “misfitting” arrangements when they aggregate.  Such frustrated building blocks are not unlike “warped puzzle pieces” that can fit together edge to edge, but whose shape misfit requires more and more straining to piece together larger and larger patches of the puzzle.   In the assemblies of these nanoscale analogs – such as polymers, proteins, or colloidal particles – frustration can give rise to new mechanisms for the assembly process to “sense its size”, which are not possible in assemblies without shape misfit.  The buildup of shape misfit in GFAs is related to a unique behavior known as self-limiting assembly, in which the self-assembly process can autonomously and robustly terminate a finite number of building blocks that are predetermined based on properties of the sub-unit shape, interactions and flexibility.  As such, GFAs pose a potential pathway to engineer new types of self-limiting assemblies, whose finite sizes can be “programmed” from the design and synthesis of building block properties.  So, realizing the ability to engineer the self-limiting size of material assemblies through programmed frustration would open up potentially transformative, bottom-up pathways to fabricate functional material architectures, for example injectable biomedical scaffolds or paintable photonic coatings, with the complexity and size control that is currently only accessible via top-down techniques, such as 3D printing and lithography.&lt;br/&gt;&lt;br/&gt;Capitalizing on this potential requires an understanding of the basic principles that connect the properties of nanoscale, frustrated building blocks to the emergent structures they form on size scales much bigger than those subunits. These properties include building block shape misfit, interactions, and flexibility. This project will develop theoretical frameworks that address this core objective.&lt;br/&gt;&lt;br/&gt;Beyond potential impacts on materials technology deriving from advancing the principles of GFA, the project will achieve several additional broader impacts.  These include the training and mentorship of undergraduate and graduate students and a postdoctoral researcher in statistical and computational approaches to materials physics, as well as efforts of the PI to advance participation of K12 student populations from under-resourced communities in graduate student-led STEM outreach and education.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This award supports theoretical and computational research and education to advance fundamental understanding of geometrically frustrated self-assembly of soft materials.  Geometrically frustrated assembly (GFA) is an emerging paradigm in which the local misfits between soft “building blocks" give rise to intra-domain stress gradients on size scales that far exceed the block dimensions.  The accumulation of long-range stresses in GFA underlies scale-dependent behaviors without counterpart in canonical assemblies that lack frustration, including the existence of self-limiting states where the equilibrium assembly dimensions are finite, yet much larger than the subunits themselves.  The current understanding of GFA derives from continuum based zero-temperature models developed to address seemingly distinct phenomena occurring in microscopically diverse systems, including 2D crystalline shells, chiral membranes, self-twisting fibers, and multi-layer stacks of curved sheets.  &lt;br/&gt;&lt;br/&gt;To date, GFA has been studied as a seemingly atypical phenomenon appearing in distinct&lt;br/&gt;systems. The broad objective of this project is to advance a unified theoretical perspective on GFA, capable of classifying and predicting behavior of microscopically distinct systems according to common mechanisms and emergent outcomes.  Project research addresses two key and unmet challenges.  First, how is the accumulation of frustration at the mesoscale controlled by the microscopic properties of the subunits, such as ill-fitting shapes and interactions, and how do these properties determine the escape size, the maximum size beyond which frustrated assemblies are driven to unlimited bulk states?  This will be addressed through the analytical and computational study of generic classes of “ill-fitting'' particles, which determine the map from particle shape and intra-assembly mechanics to the escape size of assemblies. Second, for a given frustration of mesoscale order, what role do thermal fluctuations play in setting the self-limiting size and shape of GFA, and how does finite temperature control phase boundaries between dispersed, self-limiting, and bulk escaped states?  This challenge will be addressed through the study of a minimal model for GFA that will establish the statistical mechanical foundation through its the finite-temperature description.&lt;br/&gt;&lt;br/&gt;While geometric frustration is a broad theme in condensed matter, it has heretofore been appreciated in bulk systems how its emergent properties derive from extensive arrays of defects required in infinite systems.   The physics of GFA introduces previously unexplored aspects of frustration, particularly associated with boundary degrees of freedom of finite domains and emergent length scales associated with competing mechanisms of frustration escape in soft systems. In so far that it has been studied, GFA has been approached as a largely isolated phenomenon appearing in microscopically distinct systems.  This research will advance a unified framework for understanding the emergent physics GFA across these distinct systems.  Scientific impacts of this research are further advanced through collaborations between PI with experimentalists studying both existing GFA systems as well as those targeting  “GFA by design".&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>10/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028885</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Grason</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory M Grason</PI_FULL_NAME>
+<EmailAddress><![CDATA[grason@mail.pse.umass.edu]]></EmailAddress>
+<NSF_ID>000497604</NSF_ID>
+<StartDate>10/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>010039252</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress><![CDATA[101 COMMONWEALTH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>Amherst</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010039263</ZipCode>
+<StreetAddress><![CDATA[120 Governors Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>176500</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~285525</FUND_OBLG>
+<FUND_OBLG>2022~147812</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Self-assembly refers to a spontaneous process in which multiple molecular or particulate building blocks self-organize into a single collective structure. This process underlies the formation of functional structures throughout biological and synthetic nanomaterials. Research in this project aimed to advance the theoretical principles underlying role of geometric frustration (GF) in self-assemblies.&nbsp; GF refers to a &ldquo;misfit&rdquo; between the local shapes and interactions of building blocks and geometric constraints imposed by forming a collective structure at the larger scale.&nbsp; Perhaps counterintuitively, rather than simply obstructing &ldquo;perfect&rdquo; self-assembly, it has recently been recognized that GF can give rise potentially useful properties for self assembling systems.&nbsp; These novel properties emerge from internal patterns of misfit between subunits that can build up within an assembled structure, leading to physical behaviors that are sensitive to its size and are not possible in standard, unfrustrated systems.&nbsp; Particularly attractive is the possibility that build-up of internal misfits within frustrated assemblies leads to a mechanism of <em>self-limitation</em>, in which the preferred size of assembly is finite but potentially much larger than single subunit.&nbsp; Motivated by this unique behavior, as well as recent advances in designing and fabricating synthetic shaped-defined self-assembly subunits, this developed theoretical frameworks to relate the emergent structure and thermodynamics of frustrated assemblies to microscopic descriptions of their properties (e.g. their misfit shape, interactions and deformability).</p>  <p>Key project results include a new heuristic theory that unifies seemingly distinct mechanisms of frustration in assembly and develops simple predictions for their growth of self-limiting size in terms of combinations of a relatively few key microscopic properties of assembling subunits.&nbsp; Additionally, the project developed and studied a minimal lattice-based model of frustrated self-assembly which enabled rigorous study of the effects of temperature on the assembly process for the first time.&nbsp; Simulations and theoretical study of this model yielded the comprehensive mapping of the distinct regimes of assembly, showing that self-limiting states become stable relative to dispersed or unlimited aggregates at an intermediate range of temperatures and degrees of &ldquo;misfit&rdquo;.&nbsp; &nbsp;</p>  <p>Additionally, the project developed and studied four new microscopic models of frustrated assembly, based on distinct classes of misfitting particles. &nbsp;These models led to theoretical predictions for self-assembly conditions, the preferred finite size of assemblies in terms of microscopic properties of particles and the complex mechanisms by which very soft assemblies &ldquo;escape frustration&rdquo; by elastically deforming their misfit shapes.&nbsp; Theoretical predictions for these models are tested and &nbsp;validated via comparison to discrete particle numerical simulations.&nbsp; Results of these theories provide valuable guidance for ongoing experimental efforts to engineer and test intentionally frustrated assemblies, laying the groundwork to harness the ability to program their self-limiting sizes.</p>  <p>Broader impacts of the project include training of 1 undergraduate, 2 postdoc and 3 graduate students involved in the research, resulting in the 2 Ph.D. dissertations completed during the period of the award.&nbsp; &nbsp;Additionally, the PI worked with partners at two public high schools that serve diverse student populations Springfield and Holyoke, MA to recruit participants for in a 5-week ASPIRE educational program at the UMass Polymer Science and Engineering (PSE) Department.&nbsp; ASPIRE (A Student-led Program in Research in Education), hosts high school students at PSE each winter in a series of laboratory experiments and discussions centered on soft materials. ASPIRE is conducted by current PSE graduate students, providing them a training opportunity in STEM education.&nbsp; Over the duration of the award, the PI worked with high school partners to facilitate application of 25 students who participated in ASPIRE, arranged for their transportation to and from UMass and facilitated post program feedback to participating students.</p><br> <p>  Last Modified: 12/20/2024<br> Modified by: Gregory&nbsp;M&nbsp;Grason</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Self-assembly refers to a spontaneous process in which multiple molecular or particulate building blocks self-organize into a single collective structure. This process underlies the formation of functional structures throughout biological and synthetic nanomaterials. Research in this project aimed to advance the theoretical principles underlying role of geometric frustration (GF) in self-assemblies. GF refers to a misfit between the local shapes and interactions of building blocks and geometric constraints imposed by forming a collective structure at the larger scale. Perhaps counterintuitively, rather than simply obstructing perfect self-assembly, it has recently been recognized that GF can give rise potentially useful properties for self assembling systems. These novel properties emerge from internal patterns of misfit between subunits that can build up within an assembled structure, leading to physical behaviors that are sensitive to its size and are not possible in standard, unfrustrated systems. Particularly attractive is the possibility that build-up of internal misfits within frustrated assemblies leads to a mechanism of self-limitation, in which the preferred size of assembly is finite but potentially much larger than single subunit. Motivated by this unique behavior, as well as recent advances in designing and fabricating synthetic shaped-defined self-assembly subunits, this developed theoretical frameworks to relate the emergent structure and thermodynamics of frustrated assemblies to microscopic descriptions of their properties (e.g. their misfit shape, interactions and deformability).    Key project results include a new heuristic theory that unifies seemingly distinct mechanisms of frustration in assembly and develops simple predictions for their growth of self-limiting size in terms of combinations of a relatively few key microscopic properties of assembling subunits. Additionally, the project developed and studied a minimal lattice-based model of frustrated self-assembly which enabled rigorous study of the effects of temperature on the assembly process for the first time. Simulations and theoretical study of this model yielded the comprehensive mapping of the distinct regimes of assembly, showing that self-limiting states become stable relative to dispersed or unlimited aggregates at an intermediate range of temperatures and degrees of misfit.     Additionally, the project developed and studied four new microscopic models of frustrated assembly, based on distinct classes of misfitting particles. These models led to theoretical predictions for self-assembly conditions, the preferred finite size of assemblies in terms of microscopic properties of particles and the complex mechanisms by which very soft assemblies escape frustration by elastically deforming their misfit shapes. Theoretical predictions for these models are tested and validated via comparison to discrete particle numerical simulations. Results of these theories provide valuable guidance for ongoing experimental efforts to engineer and test intentionally frustrated assemblies, laying the groundwork to harness the ability to program their self-limiting sizes.    Broader impacts of the project include training of 1 undergraduate, 2 postdoc and 3 graduate students involved in the research, resulting in the 2 Ph.D. dissertations completed during the period of the award. Additionally, the PI worked with partners at two public high schools that serve diverse student populations Springfield and Holyoke, MA to recruit participants for in a 5-week ASPIRE educational program at the UMass Polymer Science and Engineering (PSE) Department. ASPIRE (A Student-led Program in Research in Education), hosts high school students at PSE each winter in a series of laboratory experiments and discussions centered on soft materials. ASPIRE is conducted by current PSE graduate students, providing them a training opportunity in STEM education. Over the duration of the award, the PI worked with high school partners to facilitate application of 25 students who participated in ASPIRE, arranged for their transportation to and from UMass and facilitated post program feedback to participating students.     Last Modified: 12/20/2024       Submitted by: GregoryMGrason]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+<PO_EMAI>sgdewint@nsf.gov</PO_EMAI>
+<PO_PHON>7032922599</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist. The title of the project for this fellowship to Martin Bobb is "Convex Real Projective Geometry." The host institution for the fellowship is University of Michigan and the sponsoring scientist is Richard Canary.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002230</AwardID>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Bobb</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martin Bobb</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000810436</NSF_ID>
+<StartDate>03/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Bobb, Martin]]></Name>
+<CityName>Austin</CityName>
+<ZipCode>78712</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091043</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project studied the geometry of surfaces and their fundamental algebraic data in three distinct contexts. The theory of surfaces appears in many contexts in mathematics and physics, and many fundamental questions remain open.&nbsp;</p> <p><br />The PI, in joint work with James Farre, investigated the convex cocompact actions of surface groups on three-dimensional (co)-affine space. These geometric structures bridge hyperbolic and anti-de Sitter geometry, and contain totally new phenomena. The results of this work are a characterization of natural dynamical and measure theoretic data on laminations which control this space of representations.<br /><br />In collaboration with Max Riestenberg and Filippo Mazzoli, the PI studied the projective geometry of classical Riemannian symmetric spaces. This novel perspective reveals new structure from the actions of surface groups. The tools developed in this project have applications in higher dimensional Hitchin representations of surface groups, as well as other Anosov and convex cocompact representations of discrete groups.</p> <p><br />In joint work with James Farre and Peter Smillie, the PI used topological and algebro-geometric techniques to give a partial affirmative answer to Bowditch's question (and therefore Goldman's conjecture) in the case of euler number zero representations of surface groups into the projective special linear group PSL(2,R). This work was motivated by the recent surprising non-ergodicity results of March\'e and Wolff in genus 2, and the new result suggests that this low-genus case is truly exceptional.</p> <p><br />With Allison N. Miller, Siddhi Krishna, Tamunonye Cheetham-West, and Sally Collins, the PI created and organized four instances of the Nearly Carbon-Neutral Geometry and Topology Conference (NCNGT). This large, virtual conference filled the conference-void created by the COVID-19 pandemic and hosted hundreds of participants from many different kinds of institutions all over the world. Its mission was to connect early-career mathematicians, mostly graduate students, and to give them a platform to share their work with one another and form new connections.</p><br> <p>  Last Modified: 08/20/2024<br> Modified by: Martin&nbsp;Bobb</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project studied the geometry of surfaces and their fundamental algebraic data in three distinct contexts. The theory of surfaces appears in many contexts in mathematics and physics, and many fundamental questions remain open.    The PI, in joint work with James Farre, investigated the convex cocompact actions of surface groups on three-dimensional (co)-affine space. These geometric structures bridge hyperbolic and anti-de Sitter geometry, and contain totally new phenomena. The results of this work are a characterization of natural dynamical and measure theoretic data on laminations which control this space of representations.  In collaboration with Max Riestenberg and Filippo Mazzoli, the PI studied the projective geometry of classical Riemannian symmetric spaces. This novel perspective reveals new structure from the actions of surface groups. The tools developed in this project have applications in higher dimensional Hitchin representations of surface groups, as well as other Anosov and convex cocompact representations of discrete groups.    In joint work with James Farre and Peter Smillie, the PI used topological and algebro-geometric techniques to give a partial affirmative answer to Bowditch's question (and therefore Goldman's conjecture) in the case of euler number zero representations of surface groups into the projective special linear group PSL(2,R). This work was motivated by the recent surprising non-ergodicity results of March\'e and Wolff in genus 2, and the new result suggests that this low-genus case is truly exceptional.    With Allison N. Miller, Siddhi Krishna, Tamunonye Cheetham-West, and Sally Collins, the PI created and organized four instances of the Nearly Carbon-Neutral Geometry and Topology Conference (NCNGT). This large, virtual conference filled the conference-void created by the COVID-19 pandemic and hosted hundreds of participants from many different kinds of institutions all over the world. Its mission was to connect early-career mathematicians, mostly graduate students, and to give them a platform to share their work with one another and form new connections.     Last Modified: 08/20/2024       Submitted by: MartinBobb]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

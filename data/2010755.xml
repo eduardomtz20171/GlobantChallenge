@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Postdoctoral Fellowship in Biology FY 2020: Evolution of genomic regulatory  control of ctenophore development and regeneration]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>207000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joel Abraham</SignBlockName>
+<PO_EMAI>jkabraha@nsf.gov</PO_EMAI>
+<PO_PHON>7032924694</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>It is not yet known why some animals have remarkable abilities to regenerate (some can replace their whole body from just a small part that has been cut off), while others have very little regenerative capacity. Surprisingly, the ability to regenerate has been lost and gained many times independently across animals. This research uses two closely related invertebrate animals, ctenophores (known as comb jellies), one that can regenerate its whole body and one that cannot, to test the hypothesis that evolutionary changes in epigenomic regulation (differences in how the DNA of the genome is physically packaged) plays a major role in the gain and loss of regenerative abilities. The results of this project will contribute to understanding whether ctenophores have specialized stem cells, or if all body cells have the ability to regenerate. The results may help to identify ways to increase regeneration in other animals and ultimately to repair or replace damaged or diseased human tissues. This project includes a plan to help teachers and scientists work together to develop class activities that anyone can use so that a scientist does not need to live nearby to bring their knowledge to any classroom that wants it.&lt;br/&gt;&lt;br/&gt;The ctenophore Mnemiopsis has biological features that make it an ideal laboratory model to study the intersection of normal development and regeneration: it has stereotyped development with known cell lineages, optically clear embryos and juveniles, and can undergo whole-body regeneration. This research uses ctenophores’ highly stereotyped development to lineage trace the source of replacement cells in a regenerating ctenophore, focusing on both whole-body as well as organ-specific regeneration. Moreover, since competence to regenerate appears at a stereotyped developmental stage in Mnemiopsis, profiling chromatin accessibility with ATAC-seq in pre-competent and competent Mnemiopsis as well in as a non-regenerative ctenophore (Beroe) will identify open chromatin regions specifically associated with regenerative competence in ctenophores. These open chromatin regions can then be assessed for actual function in regeneration. The research is integrated with an outreach program to share both the results and underlying scientific concepts with students and interested members of the public. Conducting the research and outreach activities will prepare the fellow for an independent research career, contribute to the ongoing efforts to establish ctenophores a powerful model system, and directly benefit students and educators by creating and disseminating lesson plans.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010755</AwardID>
+<Investigator>
+<FirstName>Allison</FirstName>
+<LastName>Edgar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Allison Edgar</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000814752</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Edgar, Allison]]></Name>
+<CityName>Saint Augustine</CityName>
+<ZipCode>32080</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Edgar, Allison]]></Name>
+<CityName/>
+<StateCode>FL</StateCode>
+<ZipCode>320808610</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>727500</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>804900</Code>
+<Text>Biology Postdoctoral Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+<FUND_OBLG>2021~69000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p id="docs-internal-guid-1151e4cc-7fff-62fb-5cca-b1f264c6d36e" dir="ltr"><span>This NSF-funded fellowship primarily sought to uncover how regeneration operates in an early-branching animal lineage and how differences in genome-wide gene regulation could explain how some animals have lost the capacity for whole-body regeneration. The project focused on an animal group classically used in studies of regeneration, ctenophores. The primary aim was to develop the gonad and germ line of a species of ctenophore that regenerates extensively (</span><span>Mnemiopsis leidyi</span><span>) as a research system, and compare genome regulation after injury between this ctenophore and another ctenophore species (</span><span>Beroe ovata</span><span>), which has lost the ability to regenerate.</span></p> <p dir="ltr"><span>The fellow, Dr. Allison Edgar, performed this work at the Whitney Laboratory for Marine Bioscience (part of the University of Florida) in St. Augustine, FL, while working in the laboratory of Mark Q. Martindale during March 2021-December 2023.</span></p> <p dir="ltr"><span>Several discoveries along the way led to unanticipated but relevant research findings. The project has produced several impactful research publications, with more in preparation. These include 5 new research papers, 1 novel method paper, and 3 other publications. Most notably, one of these findings revised the understanding of the reproductive strategies used by ctenophores, which will further improve the opportunities for using these animals in the lab as well as inform management practices in their invasive range (outside North America). Another of these research findings led to an improved method for preservation and molecular investigation of ctenophore tissues.</span></p> <p dir="ltr"><span>Logistical accommodation to the Covid-19 pandemic shifted the broader impacts approach but not the goals as compared with the original proposal. The fellow worked closely with one NSF-funded Research Experiences for Undergraduates summer student and one full-time graduate student, and provided training and mentorship formally and informally to many early-career researchers during the completion of this work.&nbsp;</span></p> <p dir="ltr"><span>The fellow leveraged existing organizations including the University of Florida&rsquo;s Scientist in Every Florida School (SEFS) program (</span><a href="https://www.floridamuseum.ufl.edu/earth-systems/scientist-in-every-florida-school/about-sefs/"><span>https://www.floridamuseum.ufl.edu/earth-systems/scientist-in-every-florida-school/about-sefs/</span></a><span>) and other established outreach efforts such as the Skype a Scientist program (</span><a href="https://www.skypeascientist.com/"><span>https://www.skypeascientist.com/</span></a><span>).</span></p> <p dir="ltr"><span>In addition to virtual classroom visits and other outreach directly to students through these programs, Dr. Edgar built high-quality professional development opportunities for teachers. The fellow successfully recruited a team of Whitney Lab graduate students to co-create and lead a week-long professional development workshop for Florida science teachers administered for continuing education credit through SEFS.</span></p> <p dir="ltr"><span>The PRFB also allowed the fellow to receive extensive formal and informal career development mentoring from a variety of sources and develop an independent research program. Dr. Edgar accepted a tenure-track job offer at the New Jersey Institute of Technology (NJIT) that began in January 2024.</span></p> <p id="docs-internal-guid-5cb1ff2a-7fff-bd50-db9c-f025b7a9b9ca" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p><br> <p>  Last Modified: 06/03/2024<br> Modified by: Allison&nbsp;Edgar</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This NSF-funded fellowship primarily sought to uncover how regeneration operates in an early-branching animal lineage and how differences in genome-wide gene regulation could explain how some animals have lost the capacity for whole-body regeneration. The project focused on an animal group classically used in studies of regeneration, ctenophores. The primary aim was to develop the gonad and germ line of a species of ctenophore that regenerates extensively (Mnemiopsis leidyi) as a research system, and compare genome regulation after injury between this ctenophore and another ctenophore species (Beroe ovata), which has lost the ability to regenerate.   The fellow, Dr. Allison Edgar, performed this work at the Whitney Laboratory for Marine Bioscience (part of the University of Florida) in St. Augustine, FL, while working in the laboratory of Mark Q. Martindale during March 2021-December 2023.   Several discoveries along the way led to unanticipated but relevant research findings. The project has produced several impactful research publications, with more in preparation. These include 5 new research papers, 1 novel method paper, and 3 other publications. Most notably, one of these findings revised the understanding of the reproductive strategies used by ctenophores, which will further improve the opportunities for using these animals in the lab as well as inform management practices in their invasive range (outside North America). Another of these research findings led to an improved method for preservation and molecular investigation of ctenophore tissues.   Logistical accommodation to the Covid-19 pandemic shifted the broader impacts approach but not the goals as compared with the original proposal. The fellow worked closely with one NSF-funded Research Experiences for Undergraduates summer student and one full-time graduate student, and provided training and mentorship formally and informally to many early-career researchers during the completion of this work.   The fellow leveraged existing organizations including the University of Floridas Scientist in Every Florida School (SEFS) program (https://www.floridamuseum.ufl.edu/earth-systems/scientist-in-every-florida-school/about-sefs/) and other established outreach efforts such as the Skype a Scientist program (https://www.skypeascientist.com/).   In addition to virtual classroom visits and other outreach directly to students through these programs, Dr. Edgar built high-quality professional development opportunities for teachers. The fellow successfully recruited a team of Whitney Lab graduate students to co-create and lead a week-long professional development workshop for Florida science teachers administered for continuing education credit through SEFS.   The PRFB also allowed the fellow to receive extensive formal and informal career development mentoring from a variety of sources and develop an independent research program. Dr. Edgar accepted a tenure-track job offer at the New Jersey Institute of Technology (NJIT) that began in January 2024.        Last Modified: 06/03/2024       Submitted by: AllisonEdgar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

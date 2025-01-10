@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CC* Regional:  Promoting Research and Education at Small Colleges in Alabama through Network Architecture Enhancements]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1020000.00</AwardTotalIntnAmount>
+<AwardAmount>730545</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+<PO_EMAI>kthompso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924220</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Advancements in data-intensive scientific instrumentation have greatly surpassed the capability of some campus networking infrastructures to effectively connect data-producing facilities to powerful computing and storage systems. Georgia Tech (GT) working in partnership with Southern Light Rail (SLR) and its high-speed research network, Southern Crossroads (SoX), has established this project to increase connectivity to smaller and HBCU institutions in Alabama. As a result of this project, both Alabama Agricultural and Mechanical University (AAMU) and the University of South Alabama (USA) are able to transition their connectivity from a low-bandwidth ISP to a true high-speed R&amp;E network to help increase their research efforts. Since their IT networking staff and budget are smaller and do not possess the expertise or funding in procuring and managing multiple internet providers, this award is allowing GT to install pre-configured hardware appliances for connectivity, performance management, and large data transfers at SoX.&lt;br/&gt; &lt;br/&gt;With the enhancement of the network at AAMU, they are able to enhance their research on the following: UAVs to manage agricultural data collection and analysis, astrophysics visualization, and virtual mentoring research. Similarly at the University of South Alabama, this project is leading to an increase in the data transfer between their university and industry partners eliminating the need to exchange physical hard drives. This is expanding their research in the field of multi-spectral imaging for medical and other life science applications, as well as analysis of sensor data from airplanes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018811</AwardID>
+<Investigator>
+<FirstName>Damian</FirstName>
+<LastName>Clarke</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Damian A Clarke</PI_FULL_NAME>
+<EmailAddress><![CDATA[damian.clarke@aamu.edu]]></EmailAddress>
+<NSF_ID>000526374</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate>08/17/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kylie</FirstName>
+<LastName>Nash</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kylie Nash</PI_FULL_NAME>
+<EmailAddress><![CDATA[kylie.nash@aamu.edu]]></EmailAddress>
+<NSF_ID>000668711</NSF_ID>
+<StartDate>08/17/2022</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Bourrie</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Bourrie</PI_FULL_NAME>
+<EmailAddress><![CDATA[dbourrie@southalabama.edu]]></EmailAddress>
+<NSF_ID>000694166</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>D'Angelo</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Samuel C D'Angelo</PI_FULL_NAME>
+<EmailAddress><![CDATA[cas.dangelo@oit.gatech.edu]]></EmailAddress>
+<NSF_ID>000709726</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue, NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>723100</Code>
+<Text>CYBERINFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>808000</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~730545</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="Normal1">Major goals of this project inlcude providing advanced networking to Alabama A&amp;M Unuversity and the University of South Alabama.&nbsp; Significantly, this project eliminated the transfer of data by shipping hard drives through enabling transfer of data across the network.&nbsp; Both data that was collected on the campuses and data available to the campuses saw improved performance which resulted in better outcomes for students, researchers, and instructors.</p> <p class="Normal1">The project held workshops online and in person to demonstrate the advanced capabilities of the network.&nbsp; Facutly, staff, and students were able to take advantage of the high performance computing, data sources, and scientific instruments made available for research and instruction.</p> <p class="Normal1">This project provided the infrastructure where regular measurements can  be done to determine available enhanced bandwidth.&nbsp; By using these  regular measurements, advance troubleshooting and predictable results are used to demonstrate to researchers and instructors expected performance.</p> <p class="Normal1">Capabilities provided by R&amp;E network connectivity extend research and research training at current and future connecting institutions, lay the groundwork for expanding current and creating new programs.&nbsp;&nbsp; As Alabama is home to a total of 15 HBCUs, and, like the two universities involved in this project, have many campuses with student populations that are majority female, the implementation of this project has significant impact on engaging members of groups underrepresented in the CI community. This project provides a state-of-the-art cyberinfrastructure education and support allowing small colleges to become part of the 21st Century R&amp;E landscape and to collaborate on national and international projects requiring advanced networking capabilities .&nbsp;</p> <p class="Normal1">Through participation in SLR/SoX, each campus has taken advantage of the opportunity to develop relationships with researchers and IT professionals to assist with developing new partnerships, troubleshooting performance, and solving problems.</p> <p class="Normal1">This project has been invited to present in local and national forums to encourage wider adoption of advanced networking.&nbsp; By sharing the experiences and benefits, the project encourages others to take advantage and bring similar experiences to other campuses.</p><br> <p>  Last Modified: 10/29/2024<br> Modified by: Samuel&nbsp;C&nbsp;D'angelo</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Major goals of this project inlcude providing advanced networking to Alabama A&M Unuversity and the University of South Alabama. Significantly, this project eliminated the transfer of data by shipping hard drives through enabling transfer of data across the network. Both data that was collected on the campuses and data available to the campuses saw improved performance which resulted in better outcomes for students, researchers, and instructors.   The project held workshops online and in person to demonstrate the advanced capabilities of the network. Facutly, staff, and students were able to take advantage of the high performance computing, data sources, and scientific instruments made available for research and instruction.   This project provided the infrastructure where regular measurements can  be done to determine available enhanced bandwidth. By using these  regular measurements, advance troubleshooting and predictable results are used to demonstrate to researchers and instructors expected performance.   Capabilities provided by R&E network connectivity extend research and research training at current and future connecting institutions, lay the groundwork for expanding current and creating new programs. As Alabama is home to a total of 15 HBCUs, and, like the two universities involved in this project, have many campuses with student populations that are majority female, the implementation of this project has significant impact on engaging members of groups underrepresented in the CI community. This project provides a state-of-the-art cyberinfrastructure education and support allowing small colleges to become part of the 21st Century R&E landscape and to collaborate on national and international projects requiring advanced networking capabilities .   Through participation in SLR/SoX, each campus has taken advantage of the opportunity to develop relationships with researchers and IT professionals to assist with developing new partnerships, troubleshooting performance, and solving problems.   This project has been invited to present in local and national forums to encourage wider adoption of advanced networking. By sharing the experiences and benefits, the project encourages others to take advantage and bring similar experiences to other campuses.     Last Modified: 10/29/2024       Submitted by: SamuelCD'angelo]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

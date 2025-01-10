@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Probabilistic Debris Modeling in Coastal Storm Events: A Case of Complex Coupling Between Human-Built-Natural Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>228417.00</AwardTotalIntnAmount>
+<AwardAmount>228417</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daan Liang</SignBlockName>
+<PO_EMAI>dliang@nsf.gov</PO_EMAI>
+<PO_PHON>7032922441</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Natural disasters, like hurricanes, tropical storms, and flood events, can generate massive amounts of debris, posing significant challenges to coastal communities. Financial and logistical burdens related to debris removal account for nearly a third of reimbursed recovery costs, and threats to public safety range from impaired emergency response to health hazards. There is need for more accurate models to estimate debris presence and quantities after, and preferably prior to a storm, so communities can better prepare for and manage debris burdens. Knowledge about what drives debris patterns is limited, so current predictive models are not accurate enough to support planning or response, particularly for multi-hazard storm events. In addition, coastal landscapes are constantly changing, and as development patterns shift so do prospective debris volumes and locations. This project addresses the need for integrative models that reflect the complex coupling between human-built-natural systems that underpin debris generation in storm events and the cascading impacts on coastal communities. This project examines the drivers of debris patterns and also develops models that couple those insights with infrastructure, socio-demographic, and human health impacts, among others. Resulting insights can inform policy decisions, coastal planning and risk mitigation, and debris management.  Synthesis of model outcomes and policy implications will be shared via web hosted interactive story mapping.&lt;br/&gt;&lt;br/&gt;This project will transform our understanding of debris generation from coastal storms and its cascading consequences on communities by deriving coupled models of the interactions between human-built-natural systems. New methods will be developed for probabilistic modeling of debris presence and volumes, harnessing and fusing empirical data from past events, storm simulations, and physics-based estimates of fragility. A significant departure from traditional debris prediction models will be afforded by introducing nested statistical surrogate models informed by multi-resolution land use/land cover characteristics, physical vulnerability of structures or vegetation, and multi-hazard storm intensities. As a result, coupled models of development and debris potential are enabled for the first time to explore current and future storm risks and policy scenarios. By integrating models of the cascading consequences of debris with socio-demographic characteristics, this project will also shed new light on relationships between regional debris effects and social vulnerability that can inform future planning, management and mitigation efforts. Knowledge co-production and the practical viability of research methods will be advanced by working with stakeholders in testbed communities, to increase the likelihood that resulting models will be useful for future plans and decisions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002516</AwardID>
+<Investigator>
+<FirstName>Wesley</FirstName>
+<LastName>Highfield</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wesley Highfield</PI_FULL_NAME>
+<EmailAddress><![CDATA[highfiew@tamug.edu]]></EmailAddress>
+<NSF_ID>000514349</NSF_ID>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[400 HARVEY MITCHELL PKY S STE 30]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF6XLNB4CDJ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A &amp; M UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M University Galveston]]></Name>
+<CityName>Galveston</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>775531675</ZipCode>
+<StreetAddress><![CDATA[1001 Texas Clipper Rd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>14</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX14</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>163800</Code>
+<Text>HDBE-Humans, Disasters, and th</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~228417</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-d9c8d63f-7fff-cb31-5c47-2c4315c0e509">  <p dir="ltr"><span>This project is focused on understanding and managing hurricane debris impacts in coastal areas, especially as storms intensify with climate change and sea level rise. The team developed reliable, data-driven models to predict debris from future hurricanes, analyze how development and urban planning affected debris distribution, and study how debris impacts transportation and access to emergency services, particularly in vulnerable communities. Key goals include integrating predictions about future conditions&mdash;like land cover changes, population growth, and storm severity&mdash;into the models to improve planning and resilience. with coastal communities and the engineering community to enhance understanding and encourage proactive disaster preparedness.</span></p>  <p dir="ltr"><span>Major Achievements</span></p>  <p dir="ltr"><span>Researchers have created sophisticated models that blend data-driven insights with physics-based approaches to simulate debris patterns during hurricanes, incorporating Hurricanes such as Ike (2008) and others as reference scenarios. These models account for future sea level rise, allowing the team to predict how debris patterns could change over time. By using deep learning and a high-resolution debris distribution model, they can accurately estimate debris volumes and locations on a regional scale, including projections of debris dynamics under different future scenarios. This provides critical insights into the cascading effects of debris, particularly on transportation infrastructure, which directly impacts community accessibility and response times during emergencies.</span></p>  <p dir="ltr"><span>To further refine their predictions, the team evaluated future projections of socio-demographic variables, such as population trends and development patterns. This allows for better accuracy in estimating debris volumes and identifying critical areas for pre-event mitigation efforts and post-event debris management. These analyses enable the team to identify key areas where debris accumulation is most likely, allowing communities to prioritize their risk-informed decisions and resources more effectively.</span></p>  <p dir="ltr"><span>Practical Implications for Resilience and Planning</span></p>  <p dir="ltr"><span>By exploring the links between hurricane debris and the built environment, the project underscores the importance of urban planning in minimizing debris impacts. For instance, coastal areas with thoughtful urban design may experience reduced debris hazards, emphasizing how resilience can be influenced by development choices. The model&rsquo;s insights guide decisions for coastal urban planning and infrastructure, helping communities anticipate and mitigate debris-related risks more effectively.</span></p>  <p dir="ltr"><span>Educational and Professional Development</span></p>  <p dir="ltr"><span>The project provided valuable training opportunities for graduate students in civil engineering and coastal management. Over the past year, the team has grown, bringing on students who have developed future hurricane scenarios and used geospatial analysis to study how climate change and land cover shifts influence debris impacts. One former Ph.D. student, who played a significant role in this project, transitioned to an academic career, crediting this experience with providing the skills and mentorship needed for success. A second Ph.D. student was supported by this project and just successfully defended his dissertation that included methodological skills gained during this effort. Undergraduate students also gained hands-on experience in applying deep learning and disaster resilience techniques to real-world problems, contributing to their technical growth and professional readiness.</span></p>  <p dir="ltr"><span>Community Engagement and Data Sharing</span></p>  <p dir="ltr"><span>To ensure that the research benefits both local and broader communities, the team actively shares their findings with a network of stakeholders. They have presented results through national and international conferences, reaching diverse audiences. Collaborative partnerships with key organizations, such as the Houston-Galveston Area Council and Harris County, have been central to this process, aligning the project&rsquo;s goals with community needs in transportation planning, disaster management, and mitigation strategies. The project also contributes to federal initiatives through involvement with the Interagency Flood Risk Management group. By integrating regional data, such as future transportation and development plans, the team has been able to assess debris impacts under various future conditions, offering a realistic view of potential challenges for stakeholders.&nbsp; All datasets and resources developed in the project are hosted on the NHERI Cyberinfrastructure DesignSafe-CI platform and will be shared publicly, promoting open access for future research and resilience planning.</span></p>  <p dir="ltr"><span>This project exemplifies a multi-disciplinary approach to disaster research, combining engineering, data science, urban planning, and community engagement. By developing models that provide accurate, data-driven predictions, the project contributes to stronger, more informed coastal resilience strategies, helping communities face the growing challenges of a changing climate.</span></p>  <div><span><br /></span></div>  </span></p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/01/2024<br> Modified by: Wesley&nbsp;Highfield</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      This project is focused on understanding and managing hurricane debris impacts in coastal areas, especially as storms intensify with climate change and sea level rise. The team developed reliable, data-driven models to predict debris from future hurricanes, analyze how development and urban planning affected debris distribution, and study how debris impacts transportation and access to emergency services, particularly in vulnerable communities. Key goals include integrating predictions about future conditionslike land cover changes, population growth, and storm severityinto the models to improve planning and resilience. with coastal communities and the engineering community to enhance understanding and encourage proactive disaster preparedness.    Major Achievements    Researchers have created sophisticated models that blend data-driven insights with physics-based approaches to simulate debris patterns during hurricanes, incorporating Hurricanes such as Ike (2008) and others as reference scenarios. These models account for future sea level rise, allowing the team to predict how debris patterns could change over time. By using deep learning and a high-resolution debris distribution model, they can accurately estimate debris volumes and locations on a regional scale, including projections of debris dynamics under different future scenarios. This provides critical insights into the cascading effects of debris, particularly on transportation infrastructure, which directly impacts community accessibility and response times during emergencies.    To further refine their predictions, the team evaluated future projections of socio-demographic variables, such as population trends and development patterns. This allows for better accuracy in estimating debris volumes and identifying critical areas for pre-event mitigation efforts and post-event debris management. These analyses enable the team to identify key areas where debris accumulation is most likely, allowing communities to prioritize their risk-informed decisions and resources more effectively.    Practical Implications for Resilience and Planning    By exploring the links between hurricane debris and the built environment, the project underscores the importance of urban planning in minimizing debris impacts. For instance, coastal areas with thoughtful urban design may experience reduced debris hazards, emphasizing how resilience can be influenced by development choices. The models insights guide decisions for coastal urban planning and infrastructure, helping communities anticipate and mitigate debris-related risks more effectively.    Educational and Professional Development    The project provided valuable training opportunities for graduate students in civil engineering and coastal management. Over the past year, the team has grown, bringing on students who have developed future hurricane scenarios and used geospatial analysis to study how climate change and land cover shifts influence debris impacts. One former Ph.D. student, who played a significant role in this project, transitioned to an academic career, crediting this experience with providing the skills and mentorship needed for success. A second Ph.D. student was supported by this project and just successfully defended his dissertation that included methodological skills gained during this effort. Undergraduate students also gained hands-on experience in applying deep learning and disaster resilience techniques to real-world problems, contributing to their technical growth and professional readiness.    Community Engagement and Data Sharing    To ensure that the research benefits both local and broader communities, the team actively shares their findings with a network of stakeholders. They have presented results through national and international conferences, reaching diverse audiences. Collaborative partnerships with key organizations, such as the Houston-Galveston Area Council and Harris County, have been central to this process, aligning the projects goals with community needs in transportation planning, disaster management, and mitigation strategies. The project also contributes to federal initiatives through involvement with the Interagency Flood Risk Management group. By integrating regional data, such as future transportation and development plans, the team has been able to assess debris impacts under various future conditions, offering a realistic view of potential challenges for stakeholders. All datasets and resources developed in the project are hosted on the NHERI Cyberinfrastructure DesignSafe-CI platform and will be shared publicly, promoting open access for future research and resilience planning.    This project exemplifies a multi-disciplinary approach to disaster research, combining engineering, data science, urban planning, and community engagement. By developing models that provide accurate, data-driven predictions, the project contributes to stronger, more informed coastal resilience strategies, helping communities face the growing challenges of a changing climate.              Last Modified: 12/01/2024       Submitted by: WesleyHighfield]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: PPoSS: Planning: Integrated Scalable Platform for Privacy-aware Collaborative Learning and Inference]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Damian Dechev</SignBlockName>
+<PO_EMAI>ddechev@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Building scalable distributed heterogeneous systems of the future with easy-to-program software is broadly acknowledged to be a grand challenge. It is widely recognized that a major disruption is currently under way in the design of computer systems as processors strive to extend, and go beyond, the end-game of Moore’s Law. This disruption is manifest in new forms of heterogeneous and distributed processors and memories at all scales (on-chip, on-die, on-node, on-rack, on-cluster, and on-data-center), rendering scalability as a fundamental challenge at all levels.  Healthcare analytics offers a unique opportunity to explore scalable system design for the 21st century because there has been a tectonic shift in the ability of medical institutions to capture and store medical data, and to even stream data in real time. This shift has already contributed to an ecosystem of Machine Learning (ML) models being trained for a variety of clinical tasks. A new distributed heterogeneous architecture is required to build systems that can develop and deploy ML models based on distributed healthcare data that must necessarily be accessed with privacy-preserving constraints. Further, the proposed architecture must be accompanied by a software framework that can address the needs of domain-specific data scientists to develop and augment ML models being deployed in their hospitals.&lt;br/&gt;&lt;br/&gt;This planning grant project is exploring the foundational principles necessary in building integrated scalable distributed systems of the future, so as to prepare for submitting a full proposal to the PPoSS program.  It uses the domain of healthcare analytics to motivate and concretize the research agenda, but the principles developed in this research should be applicable to other application domains as well.  The exploration focuses on demonstrating an integrated platform that spans multiple levels of distribution and heterogeneity of computation and storage, while also obeying important  privacy constraints. While recent progress on the use of ML in healthcare applications has been encouraging, current approaches do not a) scale to the degrees of parallelism, heterogeneity, and distribution that will be required in future systems, or b) support the soft real-time responsiveness to streaming data that is needed in many clinical situations. The originality of this project can be seen in the integration of distribution, heterogeneity, and privacy considerations in a single unified software/hardware stack, which includes adaptive resource management that spans privacy-preserving federated continuous learning, automatic specialization of ML models at individual sites, and automatic selection of ML models best suited for specific clinical tasks that maximize accuracy subject to different latency and soft real-time constraints.&lt;br/&gt;&lt;br/&gt;This project’s end-to-end approach to develop foundational scalability principles will impact multiple areas of computer science through publications, tutorials and courses, thereby benefiting other researchers working on scalability challenges in future distributed heterogeneous systems. The use of healthcare analytics as a driving application has the potential to result in significant benefits to society, by demonstrating how knowledge distilled from multiple sources of data can be embodied in recommendation systems that can run onsite to provide time-critical decision support to physicians. As a further impact, the project will contribute to the training of Highly Qualified Personnel (HQP) at the intersection of Systems for ML and ML for Healthcare — two emerging inter-disciplinary communities that are currently growing independent of each other. Finally, this research will leverage existing activities at the PIs’ institutions that contribute to broadening participation of underrepresented groups in computing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029004</AwardID>
+<Investigator>
+<FirstName>Vivek</FirstName>
+<LastName>Sarkar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vivek Sarkar</PI_FULL_NAME>
+<EmailAddress><![CDATA[vsarkar@gatech.edu]]></EmailAddress>
+<NSF_ID>000762920</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexey</FirstName>
+<LastName>Tumanov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexey Tumanov</PI_FULL_NAME>
+<EmailAddress><![CDATA[atumanov@gatech.edu]]></EmailAddress>
+<NSF_ID>000811119</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tushar</FirstName>
+<LastName>Krishna</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tushar Krishna</PI_FULL_NAME>
+<EmailAddress><![CDATA[tushar@ece.gatech.edu]]></EmailAddress>
+<NSF_ID>000711282</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303186395</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress><![CDATA[926 DALNEY ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue, NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>042Y00</Code>
+<Text>PPoSS-PP of Scalable Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-88143f3e-7fff-cb9e-26d7-2f2de15ba047"> </span></p> <p dir="ltr"><span>This project's vision was that substantial research breakthroughs were needed to support privacy-aware machine model training and inference in soft real-time settings. There are many high-stakes applications that are increasingly dependent on using AI intelligence to make important assistive or mission-critical decisions in real time. Examples of such applications include clinical decision making, where multiple constraints, challenges, and objectives must be reconciled. These applications require high quality, high accuracy predictions, while also requiring a high level of responsiveness or timeliness. At the same time, these applications are strictly privacy-sensitive and are typically deployed in edge clusters or, more generally, under significantly resource-constrained deployment conditions.</span></p> <p dir="ltr"><span>Addressing these challenges required a multi-disciplinary approach spanning four levels of the Artificial Intelligence Systems stack: (1) healthcare applications, (2) ML/FL algorithms, (3) Systems, and (4) computer architecture. One of the challenges is to enable AI applications to use more than one model for a given prediction task. One of the key observations is that no single model can be optimal under all dynamic deployment conditions. The project addresses this challenge as a two-side equation: how to (a) </span><span>produce</span><span> and (b) </span><span>consume</span><span> a family of models, each &ndash; optimal with respect to the quality of predictions it can render and its computational cost. This requires innovations on the set of Machine Learning algorithms for training such a family of models cost efficiency to be able to </span><span>produce</span><span> them. Challenges there include new neural network architectures that help amortize the training cost across many possible models. Finally, hardware and systems software support was developed to consume (or serve) such model families for the benefit of better (accurate, faster, less expensive) clinical decision making.&nbsp;</span></p> <p dir="ltr"><span>Intellectual Merit:&nbsp;</span></p> <p dir="ltr"><span>The outcomes of this project include a set of novel contributions including conceptual contributions, algorithmic, and systems contributions. First, we were able to address the security and privacy challenges in the context of this work, by proposing Federated Learning algorithms that preserve patient data privacy to be able to train a family of models for image classification tasks in a distributed fashion. The project also studied the security of serving a set of models and came up with both a way to mount a model extraction attack and to defend against it. The project addressed scalability by showing that the proposed federated training algorithm scales to hundreds of clients, able to support cross-device training as well as the cross-silo training &ndash; both relevant in the clinical setting. For healthcare applications, the project showed that using a family of models as a replacement for a single, large, monolithic multi-class classifier is beneficial and leads to an order of magnitude less cost and earlier disease onset prediction. Systems and scheduling algorithms were also developed to be able to serve multiple models efficiently, culminating in an FPGA prototype able to serve a stream of queries, each annotated with a different time budget. This system was shown to improve both the responsiveness and the energy of serving a continuous stream of prediction queries.&nbsp;</span></p> <p dir="ltr"><span>Broader Impact:&nbsp;</span></p> <p dir="ltr"><span>First, we expect this project to influence how the ML community approaches training when targeting heterogeneous deployment scenarios. For example, in the Federated Learning literature we rarely see heterogeneity of deployment properly considered. Treatment and support for heterogeneity typically implies </span><span>statistical</span><span> heterogeneity of the training data itself, rarely heterogeneity of training compute devices, and not the heterogeneity of target post-training deployment. One of the outcomes of this project is to raise awareness about the systems aspects of distributed training, particularly Federated Learning, and how they influence algorithms for more efficient post-training performance.&nbsp;</span></p> <p dir="ltr"><span>Second, we believe this project&rsquo;s contributions move the medical discipline forward for healthcare data scientists, making AI-powered clinical applications easier to program and faster, cheaper, more efficient to run in realistic resource constrained environments with strict privacy and security requirements. Some of the outcomes we published are able to predict disease onset hours earlier for life-threatening conditions, like sepsis, which is clinically significant, as lives can be saved with earlier medical intervention. Furthermore, developing training and inference-efficient frameworks for serving medical applications robustly significantly lowers the barrier to entry for deploying such AI-powered solutions in the field or in resource-scarce rural settings.</span></p> <p dir="ltr"><span>Third, over the course of this project, two courses were created by the co-PIs focused on Systems for Machine Learning and Hardware-Software co-design for ML. Collectively these two courses attract at least 100 graduate students annually, most of which go to industry upon graduation. This accounts for the indirect technology transfer resulting from students applying their enhanced knowledge and skills drawn from these classes for developing efficient ML frameworks and AI-powered applications in the workforce. Additional educational and broad dissemination opportunities included lecturing on several of this project&rsquo;s topics at a number of seminars in top national and international academic institutions as well as nationally-acclaimed hospitals.</span></p><br> <p>  Last Modified: 06/04/2024<br> Modified by: Alexey&nbsp;Tumanov</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      This project's vision was that substantial research breakthroughs were needed to support privacy-aware machine model training and inference in soft real-time settings. There are many high-stakes applications that are increasingly dependent on using AI intelligence to make important assistive or mission-critical decisions in real time. Examples of such applications include clinical decision making, where multiple constraints, challenges, and objectives must be reconciled. These applications require high quality, high accuracy predictions, while also requiring a high level of responsiveness or timeliness. At the same time, these applications are strictly privacy-sensitive and are typically deployed in edge clusters or, more generally, under significantly resource-constrained deployment conditions.   Addressing these challenges required a multi-disciplinary approach spanning four levels of the Artificial Intelligence Systems stack: (1) healthcare applications, (2) ML/FL algorithms, (3) Systems, and (4) computer architecture. One of the challenges is to enable AI applications to use more than one model for a given prediction task. One of the key observations is that no single model can be optimal under all dynamic deployment conditions. The project addresses this challenge as a two-side equation: how to (a) produce and (b) consume a family of models, each  optimal with respect to the quality of predictions it can render and its computational cost. This requires innovations on the set of Machine Learning algorithms for training such a family of models cost efficiency to be able to produce them. Challenges there include new neural network architectures that help amortize the training cost across many possible models. Finally, hardware and systems software support was developed to consume (or serve) such model families for the benefit of better (accurate, faster, less expensive) clinical decision making.   Intellectual Merit:   The outcomes of this project include a set of novel contributions including conceptual contributions, algorithmic, and systems contributions. First, we were able to address the security and privacy challenges in the context of this work, by proposing Federated Learning algorithms that preserve patient data privacy to be able to train a family of models for image classification tasks in a distributed fashion. The project also studied the security of serving a set of models and came up with both a way to mount a model extraction attack and to defend against it. The project addressed scalability by showing that the proposed federated training algorithm scales to hundreds of clients, able to support cross-device training as well as the cross-silo training  both relevant in the clinical setting. For healthcare applications, the project showed that using a family of models as a replacement for a single, large, monolithic multi-class classifier is beneficial and leads to an order of magnitude less cost and earlier disease onset prediction. Systems and scheduling algorithms were also developed to be able to serve multiple models efficiently, culminating in an FPGA prototype able to serve a stream of queries, each annotated with a different time budget. This system was shown to improve both the responsiveness and the energy of serving a continuous stream of prediction queries.   Broader Impact:   First, we expect this project to influence how the ML community approaches training when targeting heterogeneous deployment scenarios. For example, in the Federated Learning literature we rarely see heterogeneity of deployment properly considered. Treatment and support for heterogeneity typically implies statistical heterogeneity of the training data itself, rarely heterogeneity of training compute devices, and not the heterogeneity of target post-training deployment. One of the outcomes of this project is to raise awareness about the systems aspects of distributed training, particularly Federated Learning, and how they influence algorithms for more efficient post-training performance.   Second, we believe this projects contributions move the medical discipline forward for healthcare data scientists, making AI-powered clinical applications easier to program and faster, cheaper, more efficient to run in realistic resource constrained environments with strict privacy and security requirements. Some of the outcomes we published are able to predict disease onset hours earlier for life-threatening conditions, like sepsis, which is clinically significant, as lives can be saved with earlier medical intervention. Furthermore, developing training and inference-efficient frameworks for serving medical applications robustly significantly lowers the barrier to entry for deploying such AI-powered solutions in the field or in resource-scarce rural settings.   Third, over the course of this project, two courses were created by the co-PIs focused on Systems for Machine Learning and Hardware-Software co-design for ML. Collectively these two courses attract at least 100 graduate students annually, most of which go to industry upon graduation. This accounts for the indirect technology transfer resulting from students applying their enhanced knowledge and skills drawn from these classes for developing efficient ML frameworks and AI-powered applications in the workforce. Additional educational and broad dissemination opportunities included lecturing on several of this projects topics at a number of seminars in top national and international academic institutions as well as nationally-acclaimed hospitals.     Last Modified: 06/04/2024       Submitted by: AlexeyTumanov]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

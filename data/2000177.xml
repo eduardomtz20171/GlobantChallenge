@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Bridging the Skills Gap in Smart Manufacturing through a New Technician Education Program]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>477868.00</AwardTotalIntnAmount>
+<AwardAmount>477868</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christine Delahanty</SignBlockName>
+<PO_EMAI>cdelahan@nsf.gov</PO_EMAI>
+<PO_PHON>7032928492</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>As the rapidly developing field of Smart Manufacturing introduces advanced technologies into traditional manufacturing facilities, technical education must keep pace. Such technologies include smart machines, advanced control systems, the industrial internet of things, and cloud services.  This project aims to address the growing gap between the skills employers need in Smart Manufacturing and the skills students develop from traditional technical education programs. By creating new academic pathways, this project plans to increase the number of skilled technicians who can meet the demand from key regional employers. The project will support professional development activities to help college and high school instructors understand new trends in manufacturing. The new curriculum will focus on enabling students to learn the skills needed to be successful in a Smart Manufacturing environment. This project may also provide a model for other colleges that want to implement a Smart Manufacturing technical education program.&lt;br/&gt;&lt;br/&gt;The primary goal of this project is to create a manufacturing industry-aligned technician education pathway in Smart Manufacturing, with the goal of increasing the supply of qualified technicians with proficiency in advanced technology applications. A job skills analysis will be performed to identify the set of technical skills that are needed in Smart Manufacturing facilities. Based on the results of the analysis, a curriculum in Smart Manufacturing will be developed to include multiple pathways leading to Associate of Applied Science degrees and certificates. The pathways will also include entry points and fast track options for incumbent workers in manufacturing and information technology fields. A Smart Manufacturing career pathway initiative will be designed to recruit underrepresented students, promote careers in manufacturing to high school students, and establish transfer agreements with four-year programs. The project will also organize an annual Smart Manufacturing Summit to bring together industry practitioners, community college instructors, and high school instructors to promote dissemination of best practices in technical education for Smart Manufacturing. This project is funded by the Advanced Technological Education program that focuses on the education of technicians for the advanced-technology fields that drive the nation's economy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2000177</AwardID>
+<Investigator>
+<FirstName>feng</FirstName>
+<LastName>hua</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>feng hua</PI_FULL_NAME>
+<EmailAddress><![CDATA[huaf@mtc.edu]]></EmailAddress>
+<NSF_ID>000811141</NSF_ID>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>White</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James White</PI_FULL_NAME>
+<EmailAddress><![CDATA[whitejm@mtc.edu]]></EmailAddress>
+<NSF_ID>000809709</NSF_ID>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Azhikannickal</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elizabeth Azhikannickal</PI_FULL_NAME>
+<EmailAddress><![CDATA[azhikannickale@mtc.edu]]></EmailAddress>
+<NSF_ID>000820579</NSF_ID>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Marion Technical College]]></Name>
+<CityName>MARION</CityName>
+<ZipCode>433025694</ZipCode>
+<PhoneNumber>7407254078</PhoneNumber>
+<StreetAddress><![CDATA[1467 MOUNT VERNON AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LZ7PGV6WGCH8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MARION TECHNICAL COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Marion Technical College]]></Name>
+<CityName>Marion</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>433025628</ZipCode>
+<StreetAddress><![CDATA[1467 Mt. Vernon Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>741200</Code>
+<Text>Advanced Tech Education Prog</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~477868</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In October 2020, Marion Technical College (MTC) was awarded a three-year National Science Foundation Advanced Technological Education (ATE) grant in the amount of $477,868 to support Creating a Model for Technician Education in Smart Manufacturing (SMT). Marion Technical College, in collaboration with its educational and industry partners, designed a smart manufacturing degree program and certificate to meet the growing demand for technicians skilled in advanced technology applications in the manufacturing sector.</p> <p>The project was led by Dr. Elizabeth Azhikannickal, P.I., two Co-P.I.s (Dr. Feng Hua and Mr. James (Michael) White), a part-time grant coordinator (Ms. Chelsea Glezen), and the authorized organizational representative (Dr.Bob Haas). Dr. Blake Urbach served as the external evaluator on the project. Leveraging the support of various departments within the institution, SMT evolved over the last three years and succeeded in meeting its stated outcomes by the conclusion of the initial performance period. A no-cost extension was granted by NSF to utilize the remaining funds. The project will officially closeout by September 30, 2024.</p> <p>The Electrical Engineering Technology - Smart Manufacturing Option A.A.S. Degree was lauched in fall 2021 and was phased out in fall 2022. This degree was replaced by the Smart Manufacturing Technology (SMT) A.A.S. Degree and launched in fall 2022. As of fall 2024, sixteen students declared the SMT A.A.S. Degree as their primary degree program. This number does not include students who may have added this degree as a secondary one.&nbsp;A total of three new smart manufacturing courses have been developed and approved:&nbsp;<em>Cybersecurity and Networking in Manufacturing</em>,&nbsp;<em>Instrumentation and Control</em>, and&nbsp;<em>iRVision Operation and Programming - 2D</em>. Upon completion of the SMT A.A.S. Degree, students will obtain three industry-recognized certifications: FANUC iRVision Operation and Programming - 2D, OSHA-10, and FANUC Handling Tool Operations and Programming. Through the Cybersecurity course, students will also receive a digital badge from the Cisco Networking Academy.</p> <p>The SMT degree represents the first earn-and-learn program at MTC. As part of this program, students complete the technical course work in the first year of the program. They are required to complete two earn-and-learn courses (i.e.on the job training) in the second year of the program. The first earn-and-learn course (fall term) involves at least 150 hours of on the job training and the second earn-and -learn course (Spring term) involves at least 300 hours. Among students who are currently employed in the field, the earn-and-learn component represents an opportunity for upskilling. Various industry partners located between Marion and Columbus, Ohio, have expressed interest in hosting students for the on the job training portion of the SMT A.A.S. Degree. Recruiting additional employers in the region who may be interested in providing on-the-job training to students will be a joint effort between Career Services staff and SMT project leaders.</p> <p>New college credit plus (CCP) or articulation agreements have been executed with Horizon Science Academy, Harding High School, and Pickerington High School (two campuses). During the three year grant period, the project team engaged in numerous activities with students, parents, teachers, community members, and industry to spread the word about the SMT program and build new partnerships. Engaging individuals in the mobile training lab at community events and at high schools was one way the project team effectively reached an audience of students who may not have previously considered college and/or who were unaware of career opportunities within the manufacturing sector.</p> <p>An SMT Professional Development Summit was held each year of the grant. These events were used to allow local middle and high school instructors and admininstrators to learn more about MTC's smart manufacturing educational pathways, the application of smart manufacturing in manufacturing operations as well as to hear from current SMT students about their experience in the program. Survey results, summarized by Dr. Urbach (external evaluator), indicated that the participants increased their understanding of smart manufacturing technology and feel prepared to share information about MTC&rsquo;s SMT degree with their students.</p> <p>A smart manufacturing summer camp was planned and delivered each year of the grant. MTC Engineering student volunteers assisted the faculty facilitators. The participants engaged in a series of engineering and IT activities (industrial electronic and robotics, Phython programming etc.) during the first three days of camp. They spent the fourth day gaming in the college&rsquo;s state-of-the-art Esports Arena. Survey results indicated that the students were more interested in studying smart manufacturing technology as a result of their participation, and that they developed a greater sense of confidence in their ability to succeed.&nbsp;</p> <p>The external evaluator worked closely with the P.I. and project team of SMT to track project activities and performance and to ensure effective implementation in order to achieve the stated outcomes. One-on-one stakeholder interviews, participant surveys, student focus groups and site visits were implemented throughout the project period.&nbsp;</p><br> <p>  Last Modified: 10/05/2024<br> Modified by: Elizabeth&nbsp;Azhikannickal</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728178454363_SMT_logo--rgov-214x142.png" original="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728178454363_SMT_logo--rgov-800width.png" title="Marion Technical College Smart Manufacturing Technology logo"><img src="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728178454363_SMT_logo--rgov-66x44.png" alt="Marion Technical College Smart Manufacturing Technology logo"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Marion Technical College Smart Manufacturing Technology logo</div> <div class="imageCredit">Marion Technical College</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Elizabeth&nbsp;Azhikannickal <div class="imageTitle">Marion Technical College Smart Manufacturing Technology logo</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728180190088_Dr._Hua_FANUC_iRVision_certification--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728180190088_Dr._Hua_FANUC_iRVision_certification--rgov-800width.jpg" title="Dr. Hua FANUC iRVision certification"><img src="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728180190088_Dr._Hua_FANUC_iRVision_certification--rgov-66x44.jpg" alt="Dr. Hua FANUC iRVision certification"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Dr. Hua receiving his FANUC iRVision robotics certification</div> <div class="imageCredit">Marion Technical College</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Elizabeth&nbsp;Azhikannickal <div class="imageTitle">Dr. Hua FANUC iRVision certification</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728180361395_SMT_summer_camp_pic_2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728180361395_SMT_summer_camp_pic_2--rgov-800width.jpg" title="SMT summer camp"><img src="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728180361395_SMT_summer_camp_pic_2--rgov-66x44.jpg" alt="SMT summer camp"></a> <div class="imageCaptionContainer"> <div class="imageCaption">SMT summer camp</div> <div class="imageCredit">Marion Technical College</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Elizabeth&nbsp;Azhikannickal <div class="imageTitle">SMT summer camp</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728179545090_Process_control_trainers_purchased_with_grant_funds--rgov-214x142.png" original="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728179545090_Process_control_trainers_purchased_with_grant_funds--rgov-800width.png" title="Process control trainers"><img src="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728179545090_Process_control_trainers_purchased_with_grant_funds--rgov-66x44.png" alt="Process control trainers"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Process control trainers purchased with grant funding</div> <div class="imageCredit">Marion Technical College</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Elizabeth&nbsp;Azhikannickal <div class="imageTitle">Process control trainers</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728180250457_SMT_summer_camp_pic_1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728180250457_SMT_summer_camp_pic_1--rgov-800width.jpg" title="SMT summer camp"><img src="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728180250457_SMT_summer_camp_pic_1--rgov-66x44.jpg" alt="SMT summer camp"></a> <div class="imageCaptionContainer"> <div class="imageCaption">SMT summer camp</div> <div class="imageCredit">Marion Technical College</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Elizabeth&nbsp;Azhikannickal <div class="imageTitle">SMT summer camp</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728180097764_SMT_Professional_Development_Summit--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728180097764_SMT_Professional_Development_Summit--rgov-800width.jpg" title="SMT professional development Summit"><img src="/por/images/Reports/POR/2024/2000177/2000177_10676116_1728180097764_SMT_Professional_Development_Summit--rgov-66x44.jpg" alt="SMT professional development Summit"></a> <div class="imageCaptionContainer"> <div class="imageCaption">SMT professional development Summit for middle and high school instructors and administrators</div> <div class="imageCredit">Marion Technical College</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Elizabeth&nbsp;Azhikannickal <div class="imageTitle">SMT professional development Summit</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In October 2020, Marion Technical College (MTC) was awarded a three-year National Science Foundation Advanced Technological Education (ATE) grant in the amount of $477,868 to support Creating a Model for Technician Education in Smart Manufacturing (SMT). Marion Technical College, in collaboration with its educational and industry partners, designed a smart manufacturing degree program and certificate to meet the growing demand for technicians skilled in advanced technology applications in the manufacturing sector.   The project was led by Dr. Elizabeth Azhikannickal, P.I., two Co-P.I.s (Dr. Feng Hua and Mr. James (Michael) White), a part-time grant coordinator (Ms. Chelsea Glezen), and the authorized organizational representative (Dr.Bob Haas). Dr. Blake Urbach served as the external evaluator on the project. Leveraging the support of various departments within the institution, SMT evolved over the last three years and succeeded in meeting its stated outcomes by the conclusion of the initial performance period. A no-cost extension was granted by NSF to utilize the remaining funds. The project will officially closeout by September 30, 2024.   The Electrical Engineering Technology - Smart Manufacturing Option A.A.S. Degree was lauched in fall 2021 and was phased out in fall 2022. This degree was replaced by the Smart Manufacturing Technology (SMT) A.A.S. Degree and launched in fall 2022. As of fall 2024, sixteen students declared the SMT A.A.S. Degree as their primary degree program. This number does not include students who may have added this degree as a secondary one.A total of three new smart manufacturing courses have been developed and approved:Cybersecurity and Networking in Manufacturing,Instrumentation and Control, andiRVision Operation and Programming - 2D. Upon completion of the SMT A.A.S. Degree, students will obtain three industry-recognized certifications: FANUC iRVision Operation and Programming - 2D, OSHA-10, and FANUC Handling Tool Operations and Programming. Through the Cybersecurity course, students will also receive a digital badge from the Cisco Networking Academy.   The SMT degree represents the first earn-and-learn program at MTC. As part of this program, students complete the technical course work in the first year of the program. They are required to complete two earn-and-learn courses (i.e.on the job training) in the second year of the program. The first earn-and-learn course (fall term) involves at least 150 hours of on the job training and the second earn-and -learn course (Spring term) involves at least 300 hours. Among students who are currently employed in the field, the earn-and-learn component represents an opportunity for upskilling. Various industry partners located between Marion and Columbus, Ohio, have expressed interest in hosting students for the on the job training portion of the SMT A.A.S. Degree. Recruiting additional employers in the region who may be interested in providing on-the-job training to students will be a joint effort between Career Services staff and SMT project leaders.   New college credit plus (CCP) or articulation agreements have been executed with Horizon Science Academy, Harding High School, and Pickerington High School (two campuses). During the three year grant period, the project team engaged in numerous activities with students, parents, teachers, community members, and industry to spread the word about the SMT program and build new partnerships. Engaging individuals in the mobile training lab at community events and at high schools was one way the project team effectively reached an audience of students who may not have previously considered college and/or who were unaware of career opportunities within the manufacturing sector.   An SMT Professional Development Summit was held each year of the grant. These events were used to allow local middle and high school instructors and admininstrators to learn more about MTC's smart manufacturing educational pathways, the application of smart manufacturing in manufacturing operations as well as to hear from current SMT students about their experience in the program. Survey results, summarized by Dr. Urbach (external evaluator), indicated that the participants increased their understanding of smart manufacturing technology and feel prepared to share information about MTCs SMT degree with their students.   A smart manufacturing summer camp was planned and delivered each year of the grant. MTC Engineering student volunteers assisted the faculty facilitators. The participants engaged in a series of engineering and IT activities (industrial electronic and robotics, Phython programming etc.) during the first three days of camp. They spent the fourth day gaming in the colleges state-of-the-art Esports Arena. Survey results indicated that the students were more interested in studying smart manufacturing technology as a result of their participation, and that they developed a greater sense of confidence in their ability to succeed.   The external evaluator worked closely with the P.I. and project team of SMT to track project activities and performance and to ensure effective implementation in order to achieve the stated outcomes. One-on-one stakeholder interviews, participant surveys, student focus groups and site visits were implemented throughout the project period.     Last Modified: 10/05/2024       Submitted by: ElizabethAzhikannickal]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

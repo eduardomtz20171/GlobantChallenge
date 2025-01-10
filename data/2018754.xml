@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CC* Integration-Large: Q-Factor: A Framework to Enable Ultra High-Speed Data Transfer Optimization based on Real-Time Network State Information provided by Programmable Data Planes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>749998.00</AwardTotalIntnAmount>
+<AwardAmount>760000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Communication networks are critical components of today’s scientific workflows. Researchers require long-distance, ultra high-speed networks to transfer huge data from acquisition sites (such as Vera C. Rubin Observatory, also knowns as Large Synoptic Survey Telescope in Chile) to processing sites, and to share measurements with scientists worldwide. However, while network bandwidth is continuously increasing, the majority of data transfers are unable to efficiently utilize the added capacity due to inherent limitations of parameter settings of the network transport protocols and the lack of network state information at the end hosts. To address these challenges, Q-Factor plans to use temporal network state data to dynamically configure current transport protocol parameters to reach higher network utilization and, as a result, to improve scientific workflows.&lt;br/&gt;&lt;br/&gt;Q-Factor leverages programmable network devices with the In-band Network Telemetry (INT) application and delivers a software solution to process in-band measurements at the end hosts. Using Q-Factor on Data Transfer Nodes (DTN)s, TCP/IP parameters will be configured according to temporal network characteristics, such as round-trip time, network utilization, and network congestion. This tuning is expected to result in increased network utilization, shorter flow completion times, and significantly fewer packet drops caused by network buffers overflow. Additionally, Q-Factor is geared to save host memory by tailoring kernel parameters and buffers to optimal sizes.&lt;br/&gt;&lt;br/&gt;Q-Factor targets a timely issue in communication networks: underutilization of ultra high-speed networks for science workflows. In order to keep scientific progress unconstrained, future science workflows need to support emerging data-intensive science experiments (e.g., the Vera Rubin Observatory, High Luminosity Large Hadron Collider) where data generation grows significantly, reaching exabytes of traffic each year. Results of this project will also allow better understanding of optimal buffer sizes of network devices for huge flows and the interaction of various congestion control algorithms.&lt;br/&gt;&lt;br/&gt;Experimental measurement data, network state information, network topology, software code, TCP tuning guidelines, and results will be available on the Q-Factor website https://q-factor.io, which will be maintained and indexed for at least three years after the completion of the project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/06/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018754</AwardID>
+<Investigator>
+<FirstName>Wenji</FirstName>
+<LastName>Wu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wenji Wu</PI_FULL_NAME>
+<EmailAddress><![CDATA[wenji@es.net]]></EmailAddress>
+<NSF_ID>000877583</NSF_ID>
+<StartDate>06/06/2022</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Cziva</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard Cziva</PI_FULL_NAME>
+<EmailAddress><![CDATA[rcziva@lbl.gov]]></EmailAddress>
+<NSF_ID>000798206</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate>06/06/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julio</FirstName>
+<LastName>Ibarra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julio Ibarra</PI_FULL_NAME>
+<EmailAddress><![CDATA[julio@fiu.edu]]></EmailAddress>
+<NSF_ID>000267168</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeronimo</FirstName>
+<LastName>Bezerra</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeronimo A Bezerra</PI_FULL_NAME>
+<EmailAddress><![CDATA[jbezerra@fiu.edu]]></EmailAddress>
+<NSF_ID>000673895</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress><![CDATA[11200 SW 8TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>Q3KCVK5S9CP1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331990001</ZipCode>
+<StreetAddress><![CDATA[11200 SW 8th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>289000</Code>
+<Text>CISE Research Resources</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~760000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-c631f4ce-7fff-b3d1-3111-c72d30788967"> </span></p> <p dir="ltr"><span>Many U.S. campuses have deployed ScienceDMZs and Data Transfer Nodes (DTNs) to improve data transfers using high-speed Research and Education (R&amp;E) networks, as a result of the success of the NSF CC* program. DTNs are normally purpose-built computers, dedicated to the function of wide-area data transfers. However, it is commonplace for DTNs to not use network bandwidth effectively, because they have not been programmed properly for their wide-area network (WAN) environment.&nbsp;</span></p> <p dir="ltr"><span>Effective use of the available network bandwidth is critical for the end-to-end performance of scientific applications. As a result, DTNs must be programmed/tuned to find the best combination of optimization parameters for data transfer over a WAN environment. Tuning DTNs for effective data transfers in a WAN environment has a high cost, because the process is manual, time consuming, and requires a broad set of skills and expertise normally not found at campuses or even network operators.&nbsp;</span></p> <p dir="ltr"><span>In response to the cost science facilities and campuses face to effectively tune DTNs for wide-area network data transfers, Florida International University (FIU) and the Energy Sciences Network (ESnet) developed Q-Factor: a framework to enable high-speed data transfer optimization based on real-time network state information provided by programmable data planes. Q-Factor addresses data transfer tuning and optimization processes by changing how network endpoints, including DTNs, consume network state information. By the source DTN knowing network state information of the end-to-end path, such as one-way delay, and instantaneous interface and network devices' queue utilization, it can dynamically adjust the transport protocol&rsquo;s transfer window, Maximum Segment Size (MSS), and buffer length to achieve optimum performance. As a result, the source and destination DTNs can avoid TCP congestion, slow start and tail drops along the path, and eventually even enable TCP pacing approaches. Major facilities, such as the Vera Rubin Observatory and other science workflow applications, would benefit from sub-second network state updates to adjust tuning parameters in real-time.</span></p> <h2 dir="ltr"><span>Intellectual Merit and Broader Impacts</span></h2> <p dir="ltr"><span>A significant contribution to the academic community by Q-Factor is an artifact referred to as the Telemetry Agent. The Telemetry Agent addresses two conditions: host tuning based on the end host's hardware and software configuration, and second, assessment of the condition of the network state where the end host is connected. The Telemetry Agent offloads from DTN operators the responsibility of manually tuning each hardware and software component. When conceptualized, the Telemetry Agent has three main modules in the scope of the Q-Factor project: the Collector Module, the Tuning Module, and the Remote Collector Module (see figure).</span></p> <p><span id="docs-internal-guid-ab509f58-7fff-c14b-acbb-3905f01c3f0f"> </span></p> <p dir="ltr"><span>The tools and artefacts from Q-Factor are being used by several academic communities. The Vera Rubin Observatory has deployed the Q-Factor Telemetry Agent on its DTN and PerfSonar nodes. The Telemetry Agent is being used to track changes on the DTN, manual or automated changes, that could lead to poor performance, as well as for logging network state changes that cause performance issues. The PerfSonar and iPerf communities collaborated with the Q-Factor project as a result of evaluations performed on the AmLIght production R&amp;E network. The HPN-SSH project collaborated with Q-Factor to enhance its TCP telemetry gathering information to improve data transfers over long distance networks, and to create a new lightweight approach for applications to consume network telemetry. This new approach will help Q-Factor increase adoption, and help HPN-SSH understand if performance issues are a result of network or host events.</span></p> <h2 dir="ltr"><span>Summary/Conclusion</span></h2> <p dir="ltr"><span>Q-Factor accomplished its major goal of dynamically adjusting data transfer tuning and optimization variables of the network endpoints by extending the network management plane to Data Transfer Nodes (DTNs). One of Q-Factor&rsquo;s main requirements was to create a solution that would not force network operators to change their network or telemetry systems, which could result in changes to their operations. The tools developed, knowledge acquired and shared, and methodologies developed to connect pieces of code at multiple layers has resulted in Q-Factor accomplishing the goals of the project. </span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p><span id="docs-internal-guid-c631f4ce-7fff-b3d1-3111-c72d30788967"> </span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/31/2024<br> Modified by: Julio&nbsp;Ibarra</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2018754/2018754_10681875_1722480017034_Telemetry_Agent_Screenshot_2024_07_31_at_22.37.59--rgov-214x142.png" original="/por/images/Reports/POR/2024/2018754/2018754_10681875_1722480017034_Telemetry_Agent_Screenshot_2024_07_31_at_22.37.59--rgov-800width.png" title="Q-Factor Telemetry Agent"><img src="/por/images/Reports/POR/2024/2018754/2018754_10681875_1722480017034_Telemetry_Agent_Screenshot_2024_07_31_at_22.37.59--rgov-66x44.png" alt="Q-Factor Telemetry Agent"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Q-Factor Telemetry Agent</div> <div class="imageCredit">Jeronimo Bezerra</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Julio&nbsp;Ibarra <div class="imageTitle">Q-Factor Telemetry Agent</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      Many U.S. campuses have deployed ScienceDMZs and Data Transfer Nodes (DTNs) to improve data transfers using high-speed Research and Education (R&E) networks, as a result of the success of the NSF CC* program. DTNs are normally purpose-built computers, dedicated to the function of wide-area data transfers. However, it is commonplace for DTNs to not use network bandwidth effectively, because they have not been programmed properly for their wide-area network (WAN) environment.   Effective use of the available network bandwidth is critical for the end-to-end performance of scientific applications. As a result, DTNs must be programmed/tuned to find the best combination of optimization parameters for data transfer over a WAN environment. Tuning DTNs for effective data transfers in a WAN environment has a high cost, because the process is manual, time consuming, and requires a broad set of skills and expertise normally not found at campuses or even network operators.   In response to the cost science facilities and campuses face to effectively tune DTNs for wide-area network data transfers, Florida International University (FIU) and the Energy Sciences Network (ESnet) developed Q-Factor: a framework to enable high-speed data transfer optimization based on real-time network state information provided by programmable data planes. Q-Factor addresses data transfer tuning and optimization processes by changing how network endpoints, including DTNs, consume network state information. By the source DTN knowing network state information of the end-to-end path, such as one-way delay, and instantaneous interface and network devices' queue utilization, it can dynamically adjust the transport protocols transfer window, Maximum Segment Size (MSS), and buffer length to achieve optimum performance. As a result, the source and destination DTNs can avoid TCP congestion, slow start and tail drops along the path, and eventually even enable TCP pacing approaches. Major facilities, such as the Vera Rubin Observatory and other science workflow applications, would benefit from sub-second network state updates to adjust tuning parameters in real-time. Intellectual Merit and Broader Impacts   A significant contribution to the academic community by Q-Factor is an artifact referred to as the Telemetry Agent. The Telemetry Agent addresses two conditions: host tuning based on the end host's hardware and software configuration, and second, assessment of the condition of the network state where the end host is connected. The Telemetry Agent offloads from DTN operators the responsibility of manually tuning each hardware and software component. When conceptualized, the Telemetry Agent has three main modules in the scope of the Q-Factor project: the Collector Module, the Tuning Module, and the Remote Collector Module (see figure).       The tools and artefacts from Q-Factor are being used by several academic communities. The Vera Rubin Observatory has deployed the Q-Factor Telemetry Agent on its DTN and PerfSonar nodes. The Telemetry Agent is being used to track changes on the DTN, manual or automated changes, that could lead to poor performance, as well as for logging network state changes that cause performance issues. The PerfSonar and iPerf communities collaborated with the Q-Factor project as a result of evaluations performed on the AmLIght production R&E network. The HPN-SSH project collaborated with Q-Factor to enhance its TCP telemetry gathering information to improve data transfers over long distance networks, and to create a new lightweight approach for applications to consume network telemetry. This new approach will help Q-Factor increase adoption, and help HPN-SSH understand if performance issues are a result of network or host events. Summary/Conclusion   Q-Factor accomplished its major goal of dynamically adjusting data transfer tuning and optimization variables of the network endpoints by extending the network management plane to Data Transfer Nodes (DTNs). One of Q-Factors main requirements was to create a solution that would not force network operators to change their network or telemetry systems, which could result in changes to their operations. The tools developed, knowledge acquired and shared, and methodologies developed to connect pieces of code at multiple layers has resulted in Q-Factor accomplishing the goals of the project.                       Last Modified: 07/31/2024       Submitted by: JulioIbarra]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

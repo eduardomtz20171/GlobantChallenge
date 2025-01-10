@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GOALI/Collaborative Research: Improving Incremental Sheet Forming by Ultrasonically Enhanced Material Deformation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Khershed Cooper</SignBlockName>
+<PO_EMAI>khcooper@nsf.gov</PO_EMAI>
+<PO_PHON>7032927017</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Grant Opportunity for Academic Liaison with Industry (GOALI) award supports research that contributes to the understanding of ultrasonically-enhanced incremental sheet forming with funding from the Advanced Manufacturing Program in the Civil, Mechanical, and Manufacturing Innovation Division and from the Metals and Metallic Nanostructures Program in the Division of Materials Research. Despite the rapid development of ultra-high strength materials, their readiness to use is limited by limitations in the associated manufacturing processes, especially in the field of sheet metal forming. One promising solution is to temporarily soften the material during the forming process, which can be achieved with the assistance of ultrasonic energy. However, the underlying principles of this softening phenomenon remain elusive. Another benefit of applying ultrasonic energy is improved tribological behavior. Among forming technologies, incremental sheet forming is advantageous in rapid prototyping based on its universal tooling and high flexibility, which meet the increasingly competitive market demands of product updates and customization. However, achieving high geometric accuracy and surface finish quality are challenging. In this aspect, both the ultrasonic softening and modified friction can be harnessed as a unique process and property enhancement solution. The fundamental research of ultrasonic effects on material behavior facilitates effective incorporation of ultrasonic energy into incremental sheet forming, which greatly benefits sheet metal applications in industries such as aerospace, automotive and biomedical. Students involved in the project gain multidisciplinary knowledge and research experiences in materials, mechanical engineering and manufacturing. Students, particularly women and underrepresented minorities, have the opportunity to interact with GOALI partner Boeing engineers.&lt;br/&gt;&lt;br/&gt;This project aims to advance the fundamental knowledge of ultrasonic softening mechanisms on material deformation behavior.  The research is to effectively utilize ultrasonic energy to enhance the incremental sheet forming (ISF) process based on both its bulk softening and modified surface tribological behavior. First, an innovative ultrasonically assisted (UA) micro-tensile testbed, equipped with an in situ high speed optical microscope imaging system, is developed. This enables digital image correlation analysis on the transient inter and intragranular strain field within the ultrasonic vibration cycle. Post mortem multiscale microstructure characterizations are then performed. A dislocation density-based crystal plasticity constitutive material model is developed to reveal the physical principles that are beyond experimental observations. Second, the UA-ISF process is comprehensively studied, in which relationships between the reduced forming force, increased forming accuracy, improved surface finish and the ISF and ultrasonic parameters are established. Finally, a coupled acousto-mechanical process model for UA-ISF is developed, which incorporates the ultrasonically affected material constitutive model developed in the first task. With experimental validations, this model would be utilized to optimize UA-ISF in forming parts with complex free-form geometries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/02/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018963</AwardID>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>Taub</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alan Taub</PI_FULL_NAME>
+<EmailAddress><![CDATA[alantaub@umich.edu]]></EmailAddress>
+<NSF_ID>000741928</NSF_ID>
+<StartDate>08/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ravi</FirstName>
+<LastName>Verma</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ravi Verma</PI_FULL_NAME>
+<EmailAddress><![CDATA[ravi.verma2@boeing.com]]></EmailAddress>
+<NSF_ID>000756292</NSF_ID>
+<StartDate>08/24/2020</StartDate>
+<EndDate>12/02/2020</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Rose</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott A Rose</PI_FULL_NAME>
+<EmailAddress><![CDATA[scott.a.rose4@boeing.com]]></EmailAddress>
+<NSF_ID>000804937</NSF_ID>
+<StartDate>12/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress><![CDATA[3003 S. State Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>088Y00</Code>
+<Text>AM-Advanced Manufacturing</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>150400</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>177100</Code>
+<Text>METAL &amp; METALLIC NANOSTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>082E</Code>
+<Text>MFG MACHINES &amp; METROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="WordSection1"> <p>&nbsp;<strong>Overview</strong></p> <p>The standard processes to form components from metallic sheets require large machines and expensive tooling. &nbsp;Incremental forming in which a tool is traversed across the sheet in a programmed path is advantageous due to its use of readily available CNC machines, universal tooling and high flexibility, which meet the increasingly competitive market demands of product updates and customization.&nbsp; The addition of ultrasonic vibration to other metal forming processes such as milling and drilling has been shown to improve tool life and component quality.&nbsp; The goal of this project was to improve the incremental sheet forming (ISF) process by adding ultrasonic vibration to the tool during the forming of the part.&nbsp; Enhancing our fundamental knowledge of ultrasonic effects on material behavior facilitated effective incorporation of ultrasonic energy into the incremental sheet forming process, which greatly benefits its applications in various industries such as aerospace, automotive and medical prosthesis.&nbsp; The outcomes of this project reflect the research performed at the University of Michigan, the Ohio State University and Boeing.</p> <p><strong>Intellectual Merit</strong></p> <p>The program addressed the following: 1) Generating &nbsp;fundamental understanding of physical principles of ultrasonic effects on material mechanical behavior; 2) Establishing a material deformation model that explicitly considers effects of applied ultrasonic energy; 3) Revealing the interaction mechanisms between ultrasonic vibration and the ISF process in terms of the reduced forming force and improved surface finish.&nbsp; The research found that the ability of ultrasonic vibration to reduce the force required to deform the metal depends strongly on the way in which the material is being deformed.&nbsp; We found that the reduction in forming force is highest in tension, less in compression, and lowest during incremental forming.&nbsp; This is due to the inability of the vibration, which is applied in one direction, to interact with the higher complexity of deformation modes during the forming process.&nbsp; The research resulted in the development of an amplitude strain parameter which improves the correlation of softening with applied vibration intensity for different materials.&nbsp; We were able to lower the forming force during incremental sheet forming which can lead to longer tool life and the use of lower cost dies.&nbsp; The surface finish of the formed components was also improved.</p> <p><strong>Broader Impacts</strong></p> <p>Incremental sheet forming offers the ability for rapid prototyping and cost-effective low volume manufacturing of metallic sheet components used in many industries.&nbsp; The fundamental insights gained by understanding how the ultrasonic vibration assists sheet forming can be applied to other manufacturing processes such as drilling.&nbsp; The collaboration with the Ohio State University allowed for expanding the research beyond aluminum alloys into studies of other metals.&nbsp; We also developed an apparatus that allows the simultaneous application of heat and ultrasonic vibration to enable forming of materials such as titanium that need to be done at elevated temperature.</p> <p>Direct educational benefits of this project included the training of undergraduate and graduate students in material forming processes, equipment design and process operation and state-of-the-art microstructure analysis techniques. The students benefitted from the multiscale nature of this research, the exposure to advanced research facilities, and the collaborations with the Ohio State University students. They also had the opportunity to interact directly with Boeing engineers working on real products.</p> </div><br> <p>  Last Modified: 06/29/2024<br> Modified by: Alan&nbsp;Taub</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718372380744_Figure_2_Outcomes_Report_NSF_Award_2018963--rgov-214x142.png" original="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718372380744_Figure_2_Outcomes_Report_NSF_Award_2018963--rgov-800width.png" title="Figure 2"><img src="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718372380744_Figure_2_Outcomes_Report_NSF_Award_2018963--rgov-66x44.png" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2 � Ultrasonic assisted ISF of AA7075-O lowers the forming force resulting in thickness reduction.  An improved surface finish is also obtained.</div> <div class="imageCredit">Randy Cheng Thesis, University of Michigan</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Alan&nbsp;Taub <div class="imageTitle">Figure 2</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718373062829_Figure_5_Outcomes_Report_NSF_Award_2018963--rgov-214x142.png" original="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718373062829_Figure_5_Outcomes_Report_NSF_Award_2018963--rgov-800width.png" title="Figure 5"><img src="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718373062829_Figure_5_Outcomes_Report_NSF_Award_2018963--rgov-66x44.png" alt="Figure 5"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 5 � Acoustic softening response compared to the amplitude strain parameter, where the amplitude strain is the applied amplitude, divided by the height of the specimen at a given strain.</div> <div class="imageCredit">Randy Cheng Thesis, University of Michigan</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Alan&nbsp;Taub <div class="imageTitle">Figure 5</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718373252325_Figure_4_Outcomes_Report_NSF_Award_2018963--rgov-214x142.png" original="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718373252325_Figure_4_Outcomes_Report_NSF_Award_2018963--rgov-800width.png" title="Figure 4"><img src="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718373252325_Figure_4_Outcomes_Report_NSF_Award_2018963--rgov-66x44.png" alt="Figure 4"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 4- The ultrasonic softening was measured in tension at OSU and integrated with the compression and incremental sheet forming (ISF) measurements at UM.  The softening is less during ISF due to the more complex loading conditions.</div> <div class="imageCredit">Alan Taub (UM) and Xun Liu (OSU)</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Alan&nbsp;Taub <div class="imageTitle">Figure 4</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718372685307_Figure_6_Outcomes_Report_NSF_Award_2018963--rgov-214x142.png" original="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718372685307_Figure_6_Outcomes_Report_NSF_Award_2018963--rgov-800width.png" title="Figure 6"><img src="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718372685307_Figure_6_Outcomes_Report_NSF_Award_2018963--rgov-66x44.png" alt="Figure 6"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 6 - Incremental Sheet Forming (ISF) heating apparatus.  The positive cable is attached to the forming tool.  The negative ground cable is attached to a plate but during forming will be attached to the die.</div> <div class="imageCredit">Alan Taub (UM)</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Alan&nbsp;Taub <div class="imageTitle">Figure 6</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718373348053_Figure_3_Outcomes_Report_NSF_Award_2018963--rgov-214x142.png" original="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718373348053_Figure_3_Outcomes_Report_NSF_Award_2018963--rgov-800width.png" title="Figure 3"><img src="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718373348053_Figure_3_Outcomes_Report_NSF_Award_2018963--rgov-66x44.png" alt="Figure 3"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 3- Comparison of the average ultrasonic softening across compression, indentation, and TPIF processes. Averages were taken from experiments with the same amplitude of 2.9-3.0�m.</div> <div class="imageCredit">Randy Cheng Thesis, University of Michigan</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Alan&nbsp;Taub <div class="imageTitle">Figure 3</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718372313743_Figure_1_Outcomes_Report_NSF_Award_2018963--rgov-214x142.png" original="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718372313743_Figure_1_Outcomes_Report_NSF_Award_2018963--rgov-800width.png" title="Figure 1"><img src="/por/images/Reports/POR/2024/2018963/2018963_10701320_1718372313743_Figure_1_Outcomes_Report_NSF_Award_2018963--rgov-66x44.png" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 1- Compression testing of AA2024-O with increasing vibration amplitudes. Compression specimens are loaded to ~1300N prior to turning the vibrations on for the remainder of the loading period. After the UA is turned on, the forces decrease almost instantaneously.</div> <div class="imageCredit">Randy Cheng Thesis, University of Michigan</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Alan&nbsp;Taub <div class="imageTitle">Figure 1</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Overview   The standard processes to form components from metallic sheets require large machines and expensive tooling. Incremental forming in which a tool is traversed across the sheet in a programmed path is advantageous due to its use of readily available CNC machines, universal tooling and high flexibility, which meet the increasingly competitive market demands of product updates and customization. The addition of ultrasonic vibration to other metal forming processes such as milling and drilling has been shown to improve tool life and component quality. The goal of this project was to improve the incremental sheet forming (ISF) process by adding ultrasonic vibration to the tool during the forming of the part. Enhancing our fundamental knowledge of ultrasonic effects on material behavior facilitated effective incorporation of ultrasonic energy into the incremental sheet forming process, which greatly benefits its applications in various industries such as aerospace, automotive and medical prosthesis. The outcomes of this project reflect the research performed at the University of Michigan, the Ohio State University and Boeing.   Intellectual Merit   The program addressed the following: 1) Generating fundamental understanding of physical principles of ultrasonic effects on material mechanical behavior; 2) Establishing a material deformation model that explicitly considers effects of applied ultrasonic energy; 3) Revealing the interaction mechanisms between ultrasonic vibration and the ISF process in terms of the reduced forming force and improved surface finish. The research found that the ability of ultrasonic vibration to reduce the force required to deform the metal depends strongly on the way in which the material is being deformed. We found that the reduction in forming force is highest in tension, less in compression, and lowest during incremental forming. This is due to the inability of the vibration, which is applied in one direction, to interact with the higher complexity of deformation modes during the forming process. The research resulted in the development of an amplitude strain parameter which improves the correlation of softening with applied vibration intensity for different materials. We were able to lower the forming force during incremental sheet forming which can lead to longer tool life and the use of lower cost dies. The surface finish of the formed components was also improved.   Broader Impacts   Incremental sheet forming offers the ability for rapid prototyping and cost-effective low volume manufacturing of metallic sheet components used in many industries. The fundamental insights gained by understanding how the ultrasonic vibration assists sheet forming can be applied to other manufacturing processes such as drilling. The collaboration with the Ohio State University allowed for expanding the research beyond aluminum alloys into studies of other metals. We also developed an apparatus that allows the simultaneous application of heat and ultrasonic vibration to enable forming of materials such as titanium that need to be done at elevated temperature.   Direct educational benefits of this project included the training of undergraduate and graduate students in material forming processes, equipment design and process operation and state-of-the-art microstructure analysis techniques. The students benefitted from the multiscale nature of this research, the exposure to advanced research facilities, and the collaborations with the Ohio State University students. They also had the opportunity to interact directly with Boeing engineers working on real products.      Last Modified: 06/29/2024       Submitted by: AlanTaub]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

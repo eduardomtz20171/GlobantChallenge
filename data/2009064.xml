@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FET: SHF: Small: Collaborative: Advanced Circuits, Architectures and Design Automation Technologies for Energy-efficient Single Flux Quantum Logic]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>299994.00</AwardTotalIntnAmount>
+<AwardAmount>299994</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The critical dependence of the world economy on energy-efficient operations in computing are now almost universally recognized. To this end, advances in “beyond-CMOS” device technologies and corresponding logic families are now seen as a key step towards achieving the next major leap in high-performance computing. The challenges and opportunities described in this research provide directions for developing many aspects of a very promising “beyond-CMOS” technology, which can result in extremely high-performance, yet energy-efficient, computing systems, and thereby ensure sustainability of the information-technology ecosystem.  SuperConductive Electronics (SCE) based on the Josephson junction (JJ) Single Flux Quantum (SFQ) logic cells have evolved into a within-reach “beyond-CMOS” technology, with switching speeds in the hundreds of GHz and energy dissipation of 10^-19 or less Joules per transition. The project will enhance business and societal opportunities by producing ultra-high performance and energy-efficient electronics for a wide range of computing fabrics, and in the process will also contribute to enhancing the technological capabilities of the US by providing education and research opportunities to undergraduate, graduate, and underrepresented students by including them in the planned research.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This research aims to achieve major strides in the development of advanced circuits, architectures and design-automation technologies in support of large-scale superconductive SFQ digital electronics to meet the needs of future energy-efficient, high-performance exa-scale computing systems. Research on design automation will enable large-scale SCE systems integration. Targeting both DC-powered energy-efficient Rapid SFQ and AC-powered Adiabatic Quantum-Flux-Parametron circuit families,  this research aims to solve four key problems associated with the design automation and optimization of SFQ logic circuits, namely: minimization of SFQ circuit retiming to the number of buffers for operating frequency improvement and/or clock-phase consistency; path-balancing technology mapping for sequential SFQ circuits with loops; timing-driven global placement using unique features of SFQ logic families and a powerful mathematical optimization tool; and circuit partitioning  to enable effective current recycling.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009064</AwardID>
+<Investigator>
+<FirstName>Massoud</FirstName>
+<LastName>Pedram</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Massoud Pedram</PI_FULL_NAME>
+<EmailAddress><![CDATA[pedram@usc.edu]]></EmailAddress>
+<NSF_ID>000266845</NSF_ID>
+<StartDate>06/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>90033</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress><![CDATA[3720 S FLOWER ST FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA34</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900892563</ZipCode>
+<StreetAddress><![CDATA[3740 McClintock Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>089Y00</Code>
+<Text>FET-Fndtns of Emerging Tech</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~299994</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This research focused on advancing circuits, architectures, and design automation technologies to support large-scale superconductive single-flux quantum (SFQ) digital electronics, aiming to meet the demands of future energy-efficient, high-performance exascale computing systems. The project resulted in significant advancements across several technical areas:</p> <ol> <li><strong>Deep      Learning Accelerator Development</strong>: We developed methods and automation      tools to facilitate the design of deep learning or deep neural network      (DNN) accelerators. </li> <li><strong>Path      Balancing Algorithm</strong>: A polynomial-time algorithm was created to assign      levels and perform full path balancing in sequential SCE circuits,      including SFQ finite state machines (FSMs).</li> <li><strong>Superconductor      Memory Cell</strong>: We introduced a novel superconductor memory cell and a      corresponding register file, named High-Capacity Destructive ReadOut,      capable of storing up to three fluxon pulses, thereby providing the      equivalent of 2-bit storage in a single SFQ memory cell.</li> <li><strong>Logical      Equivalence Checking (qLEC)</strong>: A framework was developed for the      automated verification of SCE circuits. This framework is compatible with      existing CMOS technologies and can evaluate features unique to SFQ logic.</li> <li><strong>Formal      Verification Framework (qMC)</strong>: We created the qMC framework to verify      the logical behavior and correctness of SFQ circuits using formal      techniques. qMC automates the construction of a SystemVerilog testbench      comprising formal assertions to verify SFQ-specific properties and      produces correctness results and counterexamples through model checking.</li> <li><strong>Machine      Learning-Based Optimization</strong>: An ML-based framework was devised for      post-routing optimization, enhancing standard maze routing tools by      reducing path lengths to maximize chip working frequency and creating      meandering paths to avoid hold time violations.</li> <li><strong>Conditional      Probability Density Function Tool (qSSTA)</strong>: We developed methods and a      software tool to determine the conditional probability density function of      the minimum workable clock period of SFQ circuits, accounting for      manufacturing-induced process variations targeting superconductor-based      electronic (SCE) circuits.</li> <li><strong>Physical      Design Flow</strong>: A variation-aware physical design flow was established      for inserting hold buffers in SFQ circuits, employing common path      pessimism removal and incremental placement to minimize timing fix      overhead while balancing layout area and timing yield.</li> </ol> <p>This research has significantly enhanced computing technology and the high-tech industry in the U.S. by producing a comprehensive set of design methodologies and tools that facilitate the development of SCE electronics as a post-CMOS solution for ultra-high performance and energy efficiency across numerous applications. The solutions developed pave the way for broader adoption of SCE circuits and computing systems in diverse fields, including big data analytics, cognitive systems, high-performance computing, and machine learning.</p> <p>Additionally, this research has positively impacted education and workforce development, evident in the graduation of two Ph.D. students, multiple master's and undergraduate students, and two high school students who received support from this NSF grant. Their contributions to the field underscore the broader impacts of this research endeavor.</p> <p>&nbsp;</p><br> <p>  Last Modified: 09/05/2024<br> Modified by: Massoud&nbsp;Pedram</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This research focused on advancing circuits, architectures, and design automation technologies to support large-scale superconductive single-flux quantum (SFQ) digital electronics, aiming to meet the demands of future energy-efficient, high-performance exascale computing systems. The project resulted in significant advancements across several technical areas:  Deep      Learning Accelerator Development: We developed methods and automation      tools to facilitate the design of deep learning or deep neural network      (DNN) accelerators.  Path      Balancing Algorithm: A polynomial-time algorithm was created to assign      levels and perform full path balancing in sequential SCE circuits,      including SFQ finite state machines (FSMs). Superconductor      Memory Cell: We introduced a novel superconductor memory cell and a      corresponding register file, named High-Capacity Destructive ReadOut,      capable of storing up to three fluxon pulses, thereby providing the      equivalent of 2-bit storage in a single SFQ memory cell. Logical      Equivalence Checking (qLEC): A framework was developed for the      automated verification of SCE circuits. This framework is compatible with      existing CMOS technologies and can evaluate features unique to SFQ logic. Formal      Verification Framework (qMC): We created the qMC framework to verify      the logical behavior and correctness of SFQ circuits using formal      techniques. qMC automates the construction of a SystemVerilog testbench      comprising formal assertions to verify SFQ-specific properties and      produces correctness results and counterexamples through model checking. Machine      Learning-Based Optimization: An ML-based framework was devised for      post-routing optimization, enhancing standard maze routing tools by      reducing path lengths to maximize chip working frequency and creating      meandering paths to avoid hold time violations. Conditional      Probability Density Function Tool (qSSTA): We developed methods and a      software tool to determine the conditional probability density function of      the minimum workable clock period of SFQ circuits, accounting for      manufacturing-induced process variations targeting superconductor-based      electronic (SCE) circuits. Physical      Design Flow: A variation-aware physical design flow was established      for inserting hold buffers in SFQ circuits, employing common path      pessimism removal and incremental placement to minimize timing fix      overhead while balancing layout area and timing yield.    This research has significantly enhanced computing technology and the high-tech industry in the U.S. by producing a comprehensive set of design methodologies and tools that facilitate the development of SCE electronics as a post-CMOS solution for ultra-high performance and energy efficiency across numerous applications. The solutions developed pave the way for broader adoption of SCE circuits and computing systems in diverse fields, including big data analytics, cognitive systems, high-performance computing, and machine learning.   Additionally, this research has positively impacted education and workforce development, evident in the graduation of two Ph.D. students, multiple master's and undergraduate students, and two high school students who received support from this NSF grant. Their contributions to the field underscore the broader impacts of this research endeavor.        Last Modified: 09/05/2024       Submitted by: MassoudPedram]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

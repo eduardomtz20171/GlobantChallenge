@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: P2C2--A Model/Proxy Synthesis of Walker Circulation Trends During the Last Millennium]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>149385.00</AwardTotalIntnAmount>
+<AwardAmount>149385</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Verardo</SignBlockName>
+<PO_EMAI>dverardo@nsf.gov</PO_EMAI>
+<PO_PHON>7032924695</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Pacific Walker circulation alters weather and climate extremes around the world, but its sensitivity to external climate forcings remains unknown.  In particular,  observational estimates of 20th century trends in the Walker circulation provide conflicting results, with some suggesting a strengthening and others a weakening or no trend, complicating the attribution of these trends to any specific forcing. &lt;br/&gt;&lt;br/&gt;Paleoclimate records can improve the detection and attribution of trends by providing longer-term context, but their use has been hindered by the lack of multi-proxy synthesis products and climate model simulations covering the last millennium.  This project aims to create new quantitative reconstructions of multiple Walker circulation metrics using the recently constructed PAGES Iso2k database, and to evaluate the mechanisms for variability and trends in these metrics using the Community Earth System Model Last Millennium Ensemble (LME) and new simulations with its isotope-enabled complement (iLME). The research seeks to apply these new tools to answer one central question: What are the mechanisms underlying Walker circulation variability and trends from the Last Millennium through the 20th century, and what are the relative roles of external forcings and internal variability?&lt;br/&gt;&lt;br/&gt;The potential Broader Impacts (B.I.) includes strong science and educational aspects. Climate variability in the tropical Pacific affects societies and ecosystems; understanding long-term variability of the Walker circulation is thus critical for improving projections of the impacts of 21st century climate change.  This scientifically-interdisciplinary research team is composed entirely of early-career researchers, two of whom are female.  The project will support a graduate student and postdoctoral researcher. High school students from underrepresented demographics will be recruited for summer internships and mentoring through a program that targets diversity in STEM. Finally, the project will produce multi-proxy synthesis reconstructions of tropical Pacific climate variability and iLME ensemble members, all of which will be made available as resources to the wider scientific and civil communities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041281</AwardID>
+<Investigator>
+<FirstName>Sloan</FirstName>
+<LastName>Coats</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sloan Coats</PI_FULL_NAME>
+<EmailAddress><![CDATA[scoats@hawaii.edu]]></EmailAddress>
+<NSF_ID>000761354</NSF_ID>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Hawaii]]></Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222247</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress><![CDATA[2425 CAMPUS RD SINCLAIR RM 1]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>HI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NSCKLFSSABF2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HAWAII</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Hawaii]]></Name>
+<CityName/>
+<StateCode>HI</StateCode>
+<ZipCode>968222234</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>HI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>153000</Code>
+<Text>Paleoclimate</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7754</Code>
+<Text>CLIMATE VARIABILITY &amp; CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8070</Code>
+<Text>P2C2 Proposals</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~149385</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p style="text-align: left;">The project's overarching goals were to produce a reconstruction of the Pacific Walker Circulation over the last ~800 years. The Pacific Walker Circulation impacts climate and weather across the globe and thus it is critical to better understand how it varies naturally, as well as how it has and will respond to anthropogenic climate change. We combined evidence from indirect indicators of climate variability (so-called paleoclimate proxies) with a comprehensive treatment of uncertainties, using corals, ice cores, speleothems, lake and marine sediments, and trees to complete the reconstruction. We then leveraged information from state-of-the-art climate models to better understand how the Pacific Walker Circulation has varied, and whether these variations have demonstrably changed in response to anthropogenic climate change. We found that to-date the response of the Pacific Walker Circulation to anthropogenic climate change is difficult to tease apart from its natural variations. By providing a longer-term perspective of the Pacific Walker Circulation, we were also able to clarify its response to volcanic eruptions, addressing an important outstanding question in the climate sciences. The results were published in the journal&nbsp;<em>Nature</em>&nbsp;in 2023.&nbsp;&nbsp;</p> <p style="text-align: left;">The main role of University of Hawai&#699;i&nbsp;at M&#257;noa (UHM)&nbsp;in this award was to help with the reconstruction of the Pacific Walker Circulation, specifically advising and assisting on the quantitative methods to be used, and to help with interpretation of the reconstruction, specifically using climate models to better understand the variability in the reconstruction and associated paleoclimate proxy records. Through these efforts we produced a new tool to&nbsp;provide the paleoclimate community with information on how climate impacts paleoclimate proxy records.</p> <p style="text-align: left;">Beyond scientific discoveries, UHM led the outreach activities associated with the proposal. Specifically, we developed a full day climate science module for an NSF-funded summer camp for high school students and teachers that has a special emphasis on connecting Native Hawaiian culture and Western science. The&nbsp;first part of the&nbsp;curriculum involved a lecture titled &ldquo;recipes for wind&rdquo; that explained the origins of the large-scale wind field around Hawai&#699;i, focusing on how these winds are used in traditional wayfinding. The&nbsp;second part of the curriculum started with&nbsp;a lecture&nbsp;titled&nbsp;"recipes for rainfall"&nbsp;that explained how winds lead to rainfall on Oahu.&nbsp;We&nbsp;then took a field&nbsp;trip to a nearby stream to talk about the&nbsp;October 30th, 2004&nbsp;flood on Oahu&nbsp;and to&nbsp;explain the weather conditions that caused the event.&nbsp;From there we returned to the UHM campus to speak with librarians&nbsp;about&nbsp;damage from the flood and to learn about the&nbsp;post-flood recovery effort, particularly the salvaging of&nbsp;rare&nbsp;maps&nbsp;of Oahu.&nbsp;We finished the day with a discussion of how rainfall is expected to change with climate change.</p><br> <p>  Last Modified: 10/29/2024<br> Modified by: Sloan&nbsp;Coats</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The project's overarching goals were to produce a reconstruction of the Pacific Walker Circulation over the last ~800 years. The Pacific Walker Circulation impacts climate and weather across the globe and thus it is critical to better understand how it varies naturally, as well as how it has and will respond to anthropogenic climate change. We combined evidence from indirect indicators of climate variability (so-called paleoclimate proxies) with a comprehensive treatment of uncertainties, using corals, ice cores, speleothems, lake and marine sediments, and trees to complete the reconstruction. We then leveraged information from state-of-the-art climate models to better understand how the Pacific Walker Circulation has varied, and whether these variations have demonstrably changed in response to anthropogenic climate change. We found that to-date the response of the Pacific Walker Circulation to anthropogenic climate change is difficult to tease apart from its natural variations. By providing a longer-term perspective of the Pacific Walker Circulation, we were also able to clarify its response to volcanic eruptions, addressing an important outstanding question in the climate sciences. The results were published in the journalNaturein 2023.   The main role of University of Hawai&#699;iat M&#257;noa (UHM)in this award was to help with the reconstruction of the Pacific Walker Circulation, specifically advising and assisting on the quantitative methods to be used, and to help with interpretation of the reconstruction, specifically using climate models to better understand the variability in the reconstruction and associated paleoclimate proxy records. Through these efforts we produced a new tool toprovide the paleoclimate community with information on how climate impacts paleoclimate proxy records.   Beyond scientific discoveries, UHM led the outreach activities associated with the proposal. Specifically, we developed a full day climate science module for an NSF-funded summer camp for high school students and teachers that has a special emphasis on connecting Native Hawaiian culture and Western science. Thefirst part of thecurriculum involved a lecture titled recipes for wind that explained the origins of the large-scale wind field around Hawai&#699;i, focusing on how these winds are used in traditional wayfinding. Thesecond part of the curriculum started witha lecturetitled"recipes for rainfall"that explained how winds lead to rainfall on Oahu.Wethen took a fieldtrip to a nearby stream to talk about theOctober 30th, 2004flood on Oahuand toexplain the weather conditions that caused the event.From there we returned to the UHM campus to speak with librariansaboutdamage from the flood and to learn about thepost-flood recovery effort, particularly the salvaging ofraremapsof Oahu.We finished the day with a discussion of how rainfall is expected to change with climate change.     Last Modified: 10/29/2024       Submitted by: SloanCoats]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

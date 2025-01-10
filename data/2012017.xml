@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Aluminum Gallium Arsenide Coatings to Improve LIGO Sensitivity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>299955.00</AwardTotalIntnAmount>
+<AwardAmount>299955</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The direct detection of gravitational waves from astronomical sources by the LIGO and Virgo detectors has opened the universe to a new type of investigation: gravitational astronomy. Gravitational astronomy relies on precise measurement of the position of mirrors using a laser, and any source of noise in the mirrors represents a limitation to our ability to observe gravitational phenomenon such as black holes, neutron starts, supernova, and the Big Bang. The thermal motions of atoms in the optical coatings that cover the surface of the mirrors is large enough to be a significant limitation on LIGO sensitivity. Aluminum gallium arsenide (AlGaAs) mirrors have been used as low noise coatings in other applications that require precision measurement of mirror positions, including the most accurate clocks and very precise lasers. This project explores using AlGaAs mirrors on the much larger LIGO optics to make sure the low noise benefits can be realized in gravitational astronomy as have been in other precision measurement applications. This project does this using undergraduate students as the laboratory researchers, and exposure of undergraduate students to high end research both enhances their careers and equips them with the skills to compete in the technical workplace of the 21st century. Development of large AlGaAs mirrors can also have benefits in other applications such as computer chip manufacturing and direct energy applications to national defense. This project will also continue the annual Optics Olympiad that brings over a hundred Washington DC middle school students to the university campus. The middle school students participate in optics demonstrations, discussions with university students as well as professional scientists and engineers, and compete in a game show style tournament.&lt;br/&gt;&lt;br/&gt;The primary challenge in using AlGaAs mirrors in LIGO is to scale up the size of these coatings. The group will work with vendors to increase the diameters of the coatings that can be grown and bonded onto silica substrates. They will also further study the material properties of AlGaAS, and especially the internal friction that is the source of thermal noise, to make sure AlGaAs will still be an attractive coating material at larger sizes. They will research AlGaAs internal friction using the established technique of normal mode quality factor measurements and finite element modeling. They will also share the AlGaAs samples with other members of the LIGO Optics Working Group for measurements of optical and other properties.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012017</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Harry</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory M Harry</PI_FULL_NAME>
+<EmailAddress><![CDATA[harry@american.edu]]></EmailAddress>
+<NSF_ID>000338971</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[American University]]></Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200168003</ZipCode>
+<PhoneNumber>2028853440</PhoneNumber>
+<StreetAddress><![CDATA[4400 MASSACHUSETTS AVE NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H4VNDUN2VWU5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AMERICAN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American University]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200168002</ZipCode>
+<StreetAddress><![CDATA[Physics Department, 4400 Massach]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125200</Code>
+<Text>LIGO RESEARCH SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~99984</FUND_OBLG>
+<FUND_OBLG>2021~99981</FUND_OBLG>
+<FUND_OBLG>2022~99990</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The primary goal of this project was to further develop the crystalline material aluminum-gallium-arsenide (AlGaAs) as an optical coating material for use in the LIGO gravitational wave detectors.&nbsp; Thermal vibrations from the mirror coatings are one of the most important noise sources that limit LIGO's ability to detect gravitational waves.&nbsp; Crystalline coatings like AlGaAs have lower thermal vibrations than the glass-like coatings currently used in LIGO.&nbsp; This improvement in sensitivity has been seen in other precision optical measurements that have switched from glassy coating to crystals.&nbsp; This project is to bring that benefit to LIGO.</p> <p><br />During this project we were able to determine that the mechanical loss of AlGaAs, the crucial material property that causes thermal vibrations, is very low thus predicts low vibrations and improved sensitivity.&nbsp; We also began to understand how to account for the crystalline nature of AlGaAs in these mechanical loss measurements, as it is more complicated than for the glass-like materials.&nbsp; This project also allowed for the first AlGaAs workshop that brought together researchers currently using AlGaAs in other precision measurements with LIGO scientists who were able to benefit from their experience.&nbsp; This workshop contained the first public discussions of two new noise sources that may be important to understand and reduce in practical AlGaAs coatings for LIGO.&nbsp; it is also possible that these noise sources are specific to non-LIGO applications that are at different temperatures, laser wavelengths, and mirror sizes.&nbsp; These discussions at the workshop have started a number of research projects both within and without LIGO.</p> <p><br />A secondary goal was to continue to hold the Optics Olympiad at American University which introduces middle school students to LIGO science and technology.&nbsp; The COVID pandemic and related public health policies made this difficult.&nbsp; The first year the Optics Olympiad was held just a week before Washington DC began mandatory lockdowns.&nbsp; The second year we tried an experimental online version of the Optics Olympiad, which was partially successful.&nbsp; Most middle schools chose not to participate in the online version.&nbsp; The final year we had prepared for an in person Optics Olympiad on campus at American which had to be cancelled close to the scheduled date because of campus public health policies.&nbsp; The physical infrastruture and expertise to hold the Optics Olympiad still exists and it may be able to be restarted in the future.</p><br> <p>  Last Modified: 07/11/2024<br> Modified by: Gregory&nbsp;M&nbsp;Harry</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2012017/2012017_10679289_1720723235476_20150922_162918--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2012017/2012017_10679289_1720723235476_20150922_162918--rgov-800width.jpg" title="AlGaAs samples"><img src="/por/images/Reports/POR/2024/2012017/2012017_10679289_1720723235476_20150922_162918--rgov-66x44.jpg" alt="AlGaAs samples"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Two AlGaAs samples used to determine mechanical loss.</div> <div class="imageCredit">Gregory M Harry</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Gregory&nbsp;M&nbsp;Harry <div class="imageTitle">AlGaAs samples</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2012017/2012017_10679289_1720723424803_20170224_160418--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2012017/2012017_10679289_1720723424803_20170224_160418--rgov-800width.jpg" title="Optics Olympiad Award Winners"><img src="/por/images/Reports/POR/2024/2012017/2012017_10679289_1720723424803_20170224_160418--rgov-66x44.jpg" alt="Optics Olympiad Award Winners"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Winners of the Optics Olympiad from Hardy Middle School</div> <div class="imageCredit">Gregory M Harry</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Gregory&nbsp;M&nbsp;Harry <div class="imageTitle">Optics Olympiad Award Winners</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The primary goal of this project was to further develop the crystalline material aluminum-gallium-arsenide (AlGaAs) as an optical coating material for use in the LIGO gravitational wave detectors. Thermal vibrations from the mirror coatings are one of the most important noise sources that limit LIGO's ability to detect gravitational waves. Crystalline coatings like AlGaAs have lower thermal vibrations than the glass-like coatings currently used in LIGO. This improvement in sensitivity has been seen in other precision optical measurements that have switched from glassy coating to crystals. This project is to bring that benefit to LIGO.    During this project we were able to determine that the mechanical loss of AlGaAs, the crucial material property that causes thermal vibrations, is very low thus predicts low vibrations and improved sensitivity. We also began to understand how to account for the crystalline nature of AlGaAs in these mechanical loss measurements, as it is more complicated than for the glass-like materials. This project also allowed for the first AlGaAs workshop that brought together researchers currently using AlGaAs in other precision measurements with LIGO scientists who were able to benefit from their experience. This workshop contained the first public discussions of two new noise sources that may be important to understand and reduce in practical AlGaAs coatings for LIGO. it is also possible that these noise sources are specific to non-LIGO applications that are at different temperatures, laser wavelengths, and mirror sizes. These discussions at the workshop have started a number of research projects both within and without LIGO.    A secondary goal was to continue to hold the Optics Olympiad at American University which introduces middle school students to LIGO science and technology. The COVID pandemic and related public health policies made this difficult. The first year the Optics Olympiad was held just a week before Washington DC began mandatory lockdowns. The second year we tried an experimental online version of the Optics Olympiad, which was partially successful. Most middle schools chose not to participate in the online version. The final year we had prepared for an in person Optics Olympiad on campus at American which had to be cancelled close to the scheduled date because of campus public health policies. The physical infrastruture and expertise to hold the Optics Olympiad still exists and it may be able to be restarted in the future.     Last Modified: 07/11/2024       Submitted by: GregoryMHarry]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

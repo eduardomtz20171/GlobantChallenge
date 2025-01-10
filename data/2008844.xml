@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Pade approximation, noise filtering, and quantum state transfer]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>210735.00</AwardTotalIntnAmount>
+<AwardAmount>210735</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Padé approximations have many applications in natural sciences and mathematics where they are used to approximate values of special functions. This project will develop the machinery and techniques so they can be used for gravitational wave detection, nuclear magnetic resonance spectroscopy as applied to nuclear waste, brain/breast cancer detection, and oil detection.  Another aspect of the project is to study all these objects in relation to problems of quantum information and quantum computers. The history of Padé approximants goes back to Charles Hermite’s proof that Euler's number is transcendental. Henri Padé, a doctoral student of Hermite, systematically extended these techniques. A Padé approximant is a rational function with the degrees of numerator and denominator n and m, respectively, and the power series expansion about a specific point agreeing with the power series expansion of the given function up to the (n+m)-th term. One of many attractive features of Padé approximants is their fast convergence and the phenomenon of global convergence. There are some pitfalls in the behavior of Padé approximants and many interesting open problems, which will be studied in this project. The PI plans to train graduate students and disseminate results publicly through publications, arXiv preprints, and at conferences.&lt;br/&gt;&lt;br/&gt;The first part of primary goals of this project includes developing the mathematical foundation for a denoising scheme based on Padé approximants, which was recently proposed by physicists Daniel Bessis and Luca Perotti. There are many noise filtering methods available, but most of the classical ones fail when the signal-to-noise ratio approaches 1. The Bessis-Perotti method has been shown to be computationally effective in several cases. The underlying mathematical problem consists in the analysis of behavior of poles of Padé approximants under rational perturbations. The PI proved some convergence results for Padé approximants of rational perturbations of Markov functions, which will be further extended and adapted to the denoising scheme. Orthogonal polynomials and Jacobi matrices are intimately related to Padé approximants, and are widely used tools in their own rights. The PI intends to explore and to use some recent asymptotic formulas for nonclassical orthogonal polynomials on the unit circle of Brian Simanek and the PI in relation to the noise filtering method. The second part of primary goals includes further investigations of the relation between quantum state transfers in 1D chains and in spin configurations on graphs, which was recently proposed by Gerald Dunne, Gamal Mograby, Sasha Teplyaev, and the PI. The PI also plans to use the theory of Jacobi matrices and orthogonal polynomials to find a systematic approach to designing 1D chains with non-nearest neighbor interactions and to adapt it to the case of some graphs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008844</AwardID>
+<Investigator>
+<FirstName>Maksym</FirstName>
+<LastName>Derevyagin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maksym Derevyagin</PI_FULL_NAME>
+<EmailAddress><![CDATA[maksym.derevyagin@uconn.edu]]></EmailAddress>
+<NSF_ID>000810167</NSF_ID>
+<StartDate>05/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>STORRS</CityName>
+<ZipCode>062699018</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress><![CDATA[438 WHITNEY RD EXTENSION UNIT 11]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>Storrs</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062691133</ZipCode>
+<StreetAddress><![CDATA[438 Whitney Road Ext.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~210735</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>&nbsp;</span>A qubit is a basic unit of quantum information, that is, the quantum version of the classic binary bit physically realized with a two-state device. For example, the spin of the electron in which the two levels can be taken as spin up and spin down, in which case spin down plays the role of the classical 0 and spin up is the classical 1. Now, let us consider a one dimensional chain of two-state devices that interact with one another as time passes. It is said that the transport of quantum state from one location to another is perfect if it is realized with probability 1, that is, without dissipation, which means that we do not lose the information when it travels between the locations. Although it might sound like it is not a big deal, one should keep in mind that the quantum world is described using probabilities and we can know only the probability of physical properties of a particle. Taking this into account, the perfect transfer happens rarely and one needs to figure out how to construct such configurations. One of the outcomes of the project is that the procedure on how to construct quantum configurations that realize perfect state transfer was proposed and studied in great detail. Also, another set of investigations has been performed in relation to denosing the information that comes from various measurements. The results that have been obtained in this direction give a deeper understanding of the mathematical tools, orthogonal polynomials and rational approximants, to be used for the denosing scheme. The findings have been published and disseminated at conferences and seminars.&nbsp;</p> <p><span>&nbsp;</span>Within the course of this project, 3 graduates students were trained and two of these students have already graduated, one of which got a tenure track position. Also, the PI directly worked on some research and educational topics with three undergraduate students who then proceeded with the graduate education. Besides, the PI worked with 2 middle schoolers and 5 high schoolers, one of which got into Harvard. On top of that, dozens of graduate and undergraduate students were given an exposition to various topics related to the project and applied mathematics in general. &nbsp;</p> <div><span><br /></span></div> <p>&nbsp;</p><br> <p>  Last Modified: 10/09/2024<br> Modified by: Maksym&nbsp;Derevyagin</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  A qubit is a basic unit of quantum information, that is, the quantum version of the classic binary bit physically realized with a two-state device. For example, the spin of the electron in which the two levels can be taken as spin up and spin down, in which case spin down plays the role of the classical 0 and spin up is the classical 1. Now, let us consider a one dimensional chain of two-state devices that interact with one another as time passes. It is said that the transport of quantum state from one location to another is perfect if it is realized with probability 1, that is, without dissipation, which means that we do not lose the information when it travels between the locations. Although it might sound like it is not a big deal, one should keep in mind that the quantum world is described using probabilities and we can know only the probability of physical properties of a particle. Taking this into account, the perfect transfer happens rarely and one needs to figure out how to construct such configurations. One of the outcomes of the project is that the procedure on how to construct quantum configurations that realize perfect state transfer was proposed and studied in great detail. Also, another set of investigations has been performed in relation to denosing the information that comes from various measurements. The results that have been obtained in this direction give a deeper understanding of the mathematical tools, orthogonal polynomials and rational approximants, to be used for the denosing scheme. The findings have been published and disseminated at conferences and seminars.   Within the course of this project, 3 graduates students were trained and two of these students have already graduated, one of which got a tenure track position. Also, the PI directly worked on some research and educational topics with three undergraduate students who then proceeded with the graduate education. Besides, the PI worked with 2 middle schoolers and 5 high schoolers, one of which got into Harvard. On top of that, dozens of graduate and undergraduate students were given an exposition to various topics related to the project and applied mathematics in general.           Last Modified: 10/09/2024       Submitted by: MaksymDerevyagin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

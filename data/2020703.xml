@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Development of a Data-driven Magnetohydrodynamic Simulation Model for Flux-Emerging Active Regions Leading to Coronal Mass Ejections]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>437188.00</AwardTotalIntnAmount>
+<AwardAmount>437188</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lisa Winter</SignBlockName>
+<PO_EMAI>lwinter@nsf.gov</PO_EMAI>
+<PO_PHON>7032928519</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Coronal mass ejections (CMEs) are major drivers of extreme space weather in the near-Earth space, hence a matter of serious concern for our modern, technologically-dependent society.  The development of advanced models that could simulate the CME generation and propagation through interplanetary space is an important step toward our capability to predict the arrival times of CMEs at the Earth and their geo-effectiveness.  CME generation models of varying complexity and accuracy have been developed for a number of decades now, ranging from over-pressured plasmoid models, such as the blob model, through to flux rope-based models with or without the necessity of energy build-up before the eruption.  In almost all the cases, they have model parameters that need to be adjusted from one event to another.  This 3-year project aims to develop a self-consistent, data-driven magnetohydrodynamics (MHD) simulation model for CMEs extending from lower chromosphere to 1 AU that is entirely based on first principles with minimum setup effort and free model parameters.  This 3-year research investigation is also expected to increase the public awareness about space weather.  As part of the project, the team will develop a website, which will be self-explanatory about CMEs and their role in space weather, including images based on the original project’s results that will be regularly posted.  As such, it will provide a valuable educational tool to the general public.  The project team will archive their data sets and share them with interested parties, such as different space physics and astrophysics groups on request.  Hence, their new model will contribute to the space weather forecasting modeling efforts as a valuable scientific tool for the solar-heliospheric community at large.  The PI of the project is the Program Coordinator of the Heliophysics REU program at the University of Alabama in Huntsville (UAH).  There are also other summer internship programs ongoing at the UAH’s Department of Space Science and Center for Space Plasma and Aeronomic Research (CSPAR).  Within the framework of these programs, the project team will offer compelling research projects to undergraduate students at the UAH, giving preference to students from underrepresented minorities.  The research and EPO agenda of this project supports the Strategic Goals of the AGS Division in discovery, learning, diversity, and interdisciplinary research.&lt;br/&gt;&lt;br/&gt;This 3-year project aims to develop a new data-driven MHD simulation model for CMEs extending from lower chromosphere to 1 AU that is entirely based on first principles with minimum setup effort and free model parameters.  This new model, which will be driven by vector magnetograms on the photosphere (taken by SDO’s HMI) through a physically-consistent characteristic boundary condition formulation, will track the evolution of active regions (ARs), mainly the build-up of free energy and magnetic helicity into the ARs through flux emergences.  The main goal of the project team is to obtain the formation of flux ropes near polarity inversion lines and eventually their eruptions resulting from the torus instability.  The investigators will then follow the CME propagation through the corona and inner heliosphere up to 1 AU and validate their results with various spacecraft data at every stage.  They have already developed separately their local simulation model consisting of lower chromosphere, transition region, and lower corona and global simulation model covering global corona and inner heliosphere within our Multi-Scale Fluid-Kinetic Simulation Suite (MS-FLUKSS) code.  During this project, the team will couple the local and global components of their simulation model.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2020703</AwardID>
+<Investigator>
+<FirstName>Nikolai</FirstName>
+<LastName>Pogorelov</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nikolai V Pogorelov</PI_FULL_NAME>
+<EmailAddress><![CDATA[np0002@uah.edu]]></EmailAddress>
+<NSF_ID>000489063</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Qiang</FirstName>
+<LastName>Hu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qiang Hu</PI_FULL_NAME>
+<EmailAddress><![CDATA[qh0001@uah.edu]]></EmailAddress>
+<NSF_ID>000086843</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mehmet</FirstName>
+<LastName>Yalim</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mehmet S Yalim</PI_FULL_NAME>
+<EmailAddress><![CDATA[msy0002@uah.edu]]></EmailAddress>
+<NSF_ID>000740404</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Avijeet</FirstName>
+<LastName>Prasad</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Avijeet Prasad</PI_FULL_NAME>
+<EmailAddress><![CDATA[ap0162@uah.edu]]></EmailAddress>
+<NSF_ID>000820688</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Alabama in Huntsville]]></Name>
+<CityName>HUNTSVILLE</CityName>
+<ZipCode>358051911</ZipCode>
+<PhoneNumber>2568242657</PhoneNumber>
+<StreetAddress><![CDATA[301 SPARKMAN DR NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HB6KNGVNJRU1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF ALABAMA IN HUNTSVILLE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama in Huntsville]]></Name>
+<CityName>Huntsville</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>358051911</ZipCode>
+<StreetAddress><![CDATA[320 Sparkman Drive NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152300</Code>
+<Text>SOLAR-TERRESTRIAL</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~437188</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="page" title="Page 19">  <div class="layoutArea">  <div class="column">  <p>Coronal mass ejections (CMEs) are major drivers of extreme space weather conditions, hence a matter of serious concern for our modern, technologically dependent society. They represent the magnetized plasma expelled into the interplanetary space with velocities ranging from hundreds up to few thousand kilometers per second. The high electromagnetic radiation, high energetic particles and the magnetic field produced by flares and carried by CMEs can affect interplanetary space weather and the magnetic environment of the Earth leading to satellite damages and failure of power grids located at high latitudes. Therefore, understanding characteristics of solar flares and CMEs is a crucial unsolved problem in solar physics with significant space weather implications.</p>  <p>The development of models that would simulate CME generation and propagation through the interplanetary space is an important step toward our capability to predict CME arrival times at Earth and how they interact with our magnetic environment.</p>  <p>CME generation models of varying complexity and accuracy have been developed for decades. In almost all cases, these models have parameters that need to be adjusted from one CME event to another.</p>  <p>In this project, we developed a data-driven magnetohydrodynamics (MHD) simulation model for generation and propagation of CMEs in the solar atmosphere with minimum setup effort and free model parameters. Our model can track the evolution of solar active regions (ARs), mainly the build-up of free energy and magnetic helicity into the ARs through flux emergences. Our main focus is to obtain formation of magnetic flux ropes by varying the observational data on the solar surface that we obtain from the Solar Dynamics Observatory spacecraft near active regions and eventually the eruption of these flux ropes as CMEs resulting from plasma instabilities.</p>  <p>We developed separately a local simulation model focusing on the active region where the flux rope forms and rises into the upper solar atmosphere layer called corona, and a global simulation model for corona where the rising flux rope from the local model propagates through into the interplanetary space eventually towards the Earth.</p>  <p>Coupling of these two models allowing the passage of the CME through the coupling boundary is a novel and significant contribution of our project to the existing literature on solar atmosphere modeling. Our coupling method allows utilization of external local simulation models. We used a well-known such model called EULAG MHD to couple with our global corona model code and together with these two models simulated the evolution of a CME which is a highly complex and challenging problem. &nbsp;</p>  <p>Our project also shed a light to the current topic of solar physics research on how solar atmosphere is heated by investigating heating mechanisms in different layers of the solar atmosphere based on Joule heating and turbulence.</p>  <p>This project also led to mentoring of undergraduate students that worked on related research projects through NSF's prestigious Research Experience for Undergraduates (REU) summer internship programs organized at the project team's institution, The University of Alabama in Huntsville.</p>  <p>Project related results (images and movies) can be found at the following website: <a href="https://space-science.uah.edu/yalim/AGS-2020703_Files/">https://space-science.uah.edu/yalim/AGS-2020703_Files/</a>.&nbsp;</p>  <p>&nbsp;</p>  </div>  </div>  </div><br> <p>  Last Modified: 11/28/2024<br> Modified by: Mehmet&nbsp;S&nbsp;Yalim</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2020703/2020703_10681781_1732854640670_Coupling_slice_merged--rgov-214x142.png" original="/por/images/Reports/POR/2024/2020703/2020703_10681781_1732854640670_Coupling_slice_merged--rgov-800width.png" title="Coupling boundary"><img src="/por/images/Reports/POR/2024/2020703/2020703_10681781_1732854640670_Coupling_slice_merged--rgov-66x44.png" alt="Coupling boundary"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Variation of the perpendicular magnetic field and the flux rope over the slice as the coupling boundary between the local and global simulation domains.</div> <div class="imageCredit">Avijeet Prasad</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Mehmet&nbsp;S&nbsp;Yalim <div class="imageTitle">Coupling boundary</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2020703/2020703_10681781_1732854114403_Cowling_resistivity_merged--rgov-214x142.png" original="/por/images/Reports/POR/2024/2020703/2020703_10681781_1732854114403_Cowling_resistivity_merged--rgov-800width.png" title="Joule heating"><img src="/por/images/Reports/POR/2024/2020703/2020703_10681781_1732854114403_Cowling_resistivity_merged--rgov-66x44.png" alt="Joule heating"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Variation of Joule heating due to Cowling resistivity in the vicinity of the solar active region AR 12241 during the formation of the flux rope.</div> <div class="imageCredit">Mehmet S Yalim</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Mehmet&nbsp;S&nbsp;Yalim <div class="imageTitle">Joule heating</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2020703/2020703_10681781_1732853852237_free_energy_and_twist_merged--rgov-214x142.png" original="/por/images/Reports/POR/2024/2020703/2020703_10681781_1732853852237_free_energy_and_twist_merged--rgov-800width.png" title="Flux rope"><img src="/por/images/Reports/POR/2024/2020703/2020703_10681781_1732853852237_free_energy_and_twist_merged--rgov-66x44.png" alt="Flux rope"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Formation of a flux rope at the solar active region AR 12241 resulting in a solar flare and a CME with variations of magnetic twist and free energy.</div> <div class="imageCredit">Avijeet Prasad</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Mehmet&nbsp;S&nbsp;Yalim <div class="imageTitle">Flux rope</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2020703/2020703_10681781_1732854347535_Global_Model_AR12241--rgov-214x142.png" original="/por/images/Reports/POR/2024/2020703/2020703_10681781_1732854347535_Global_Model_AR12241--rgov-800width.png" title="Global Corona"><img src="/por/images/Reports/POR/2024/2020703/2020703_10681781_1732854347535_Global_Model_AR12241--rgov-66x44.png" alt="Global Corona"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The solar active region AR 12241 as seen in the global corona model simulation domain.</div> <div class="imageCredit">Mehmet S Yalim</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Mehmet&nbsp;S&nbsp;Yalim <div class="imageTitle">Global Corona</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[        Coronal mass ejections (CMEs) are major drivers of extreme space weather conditions, hence a matter of serious concern for our modern, technologically dependent society. They represent the magnetized plasma expelled into the interplanetary space with velocities ranging from hundreds up to few thousand kilometers per second. The high electromagnetic radiation, high energetic particles and the magnetic field produced by flares and carried by CMEs can affect interplanetary space weather and the magnetic environment of the Earth leading to satellite damages and failure of power grids located at high latitudes. Therefore, understanding characteristics of solar flares and CMEs is a crucial unsolved problem in solar physics with significant space weather implications.    The development of models that would simulate CME generation and propagation through the interplanetary space is an important step toward our capability to predict CME arrival times at Earth and how they interact with our magnetic environment.    CME generation models of varying complexity and accuracy have been developed for decades. In almost all cases, these models have parameters that need to be adjusted from one CME event to another.    In this project, we developed a data-driven magnetohydrodynamics (MHD) simulation model for generation and propagation of CMEs in the solar atmosphere with minimum setup effort and free model parameters. Our model can track the evolution of solar active regions (ARs), mainly the build-up of free energy and magnetic helicity into the ARs through flux emergences. Our main focus is to obtain formation of magnetic flux ropes by varying the observational data on the solar surface that we obtain from the Solar Dynamics Observatory spacecraft near active regions and eventually the eruption of these flux ropes as CMEs resulting from plasma instabilities.    We developed separately a local simulation model focusing on the active region where the flux rope forms and rises into the upper solar atmosphere layer called corona, and a global simulation model for corona where the rising flux rope from the local model propagates through into the interplanetary space eventually towards the Earth.    Coupling of these two models allowing the passage of the CME through the coupling boundary is a novel and significant contribution of our project to the existing literature on solar atmosphere modeling. Our coupling method allows utilization of external local simulation models. We used a well-known such model called EULAG MHD to couple with our global corona model code and together with these two models simulated the evolution of a CME which is a highly complex and challenging problem.     Our project also shed a light to the current topic of solar physics research on how solar atmosphere is heated by investigating heating mechanisms in different layers of the solar atmosphere based on Joule heating and turbulence.    This project also led to mentoring of undergraduate students that worked on related research projects through NSF's prestigious Research Experience for Undergraduates (REU) summer internship programs organized at the project team's institution, The University of Alabama in Huntsville.    Project related results (images and movies) can be found at the following website: https://space-science.uah.edu/yalim/AGS-2020703_Files/.               Last Modified: 11/28/2024       Submitted by: MehmetSYalim]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

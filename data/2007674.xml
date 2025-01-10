@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FET: Small: Scalable transcriptional programs through feedback regulation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>460721.00</AwardTotalIntnAmount>
+<AwardAmount>460721</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephanie Gage</SignBlockName>
+<PO_EMAI>sgage@nsf.gov</PO_EMAI>
+<PO_PHON>7032924748</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The ability to reliably program living cells is going to have tremendous impact on a number of applications. For example, in biosensing and bioremediation, engineered microorganisms will sense and degrade environmental pollutants or pathogens; in personalized medicine, patient-derived cells will be reprogrammed to a cell type of interest to cure various diseases; in human performance, programmable probiotics will sense stress and fatigue level and release mitigating drugs. Programming biology to achieve these sophisticated functionalities requires complex computation to selectively classify environmental cues, process them, and enable appropriate cellular responses. Increased complexity often requires increased scale of the logic programs that implement function.  To augment the scale of the genetic programs that one can encode in living cells, many parts are required such that they do not interfere with one another. Although, many orthogonal parts can be designed, they often require a common resource for implementing their specified activation or repression function. It has become apparent only recently that, because of loads to this common resource, increased scale will often compromise functionality since individual parts will have insufficient amount of resources. The goal of this project is to address this problem, thus enabling scalable transcriptional programs. Specifically, this project will create feedback controllers of dCas9 level, a protein resource shared among many genetic parts, which compensate for load effects and distribute the required amount of dCas9 protein to each subsystem. As a consequence, increased system scale will be possible without compromising functionality. This, in turn, will enable reaching the level of sophistication and reliability of system’s function needed for concrete applications. The project will ultimately produce a broadly applicable tool that many labs will be able to readily use to achieve truly scalable transcriptional programs using dCas9.  This project will support interdisciplinary education of graduate and undergraduate students at the cross-roads of control design and synthetic biology. Education and outreach mechanisms will include research supervision, teaching a biomolecular feedback systems course including materials from this project, organizing a workshop bringing control theory and synthetic biology communities together, and presenting a booth on genetic circuits at the Cambridge Science Festival. &lt;br/&gt; &lt;br/&gt;The ultimate objective of this project is to enable robustness, modularity, and hence scalability of CRISPR/dCas9 transcriptional programs by ensuring that the composing logic gates retain their expected functionality when additional gates are included in the program. Engineered CRISPR/dCas9 systems are a promising tool to create large-scale transcriptional programs, given that one can design single guide RNAs (sgRNAs) to target dCas9 to any desired DNA sequence to perform transcriptional repression (CRISPRi) or activation (CRISPRa). This allows, in principle, an unlimited library of orthogonal parts. However, it has become apparent that increased numbers of sgRNAs in a circuit reduces each sgRNA’s ability to repress its targets, since sgRNAs load dCas9 such that when dCas9 is bound to one sgRNA it is not available for other sgRNAs. This loading phenomenon couples theoretically independent gates and results in severe performance degradation.  To solve these problems, it is necessary to devise engineering approaches to mitigate effects of dCas9 loads. This project will design regulated dCas9 generators, wherein a feedback controller regulates unbound dCas9 level to a constant value, independent of the presence of gRNA loads. Repression circuits will be considered first and activation circuits along with mixed circuits will be addressed in a second step. The performance of the regulated dCas9 generators will be demonstrated on increasingly complex layered logic gates, including cascades and NAND gates. These regulated generators will ensure that any one gate’s functionality is preserved when additional gates are included in a system. Ultimately, the use of regulated dCas9 generators will enable increased scale, complexity, and reliability of CRISPR/dCas9 programs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007674</AwardID>
+<Investigator>
+<FirstName>Domitilla</FirstName>
+<LastName>Del Vecchio</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Domitilla Del Vecchio</PI_FULL_NAME>
+<EmailAddress><![CDATA[ddv@mit.edu]]></EmailAddress>
+<NSF_ID>000488420</NSF_ID>
+<StartDate>07/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394307</ZipCode>
+<StreetAddress><![CDATA[77 Massachusetts Ave. E25-545]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>089Y00</Code>
+<Text>FET-Fndtns of Emerging Tech</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7946</Code>
+<Text>BIO COMPUTING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~460721</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>CRISRPR has revolutionized the way in which we can perturb biological systems at the genetic and epigenetic level to understand the function of key genes in important processes such as cancer, differentiation, and several diseases. At the same time, this technology is having a tremendous impact on cell engineering for applications ranging from biomanufacturing to gene and cell therapy. CRISPRi and CRISPRa allow to repress or activate any target gene by recruiting to the gene the dCas9 protein alone or the dCas9 protein bound to an activator protein, respectively. These are recruited to the gene via a sequence specific guide RNAs (gRNAs) that bind to the gene, thereby repressing or activating transcription. By concurrently activating and repressing many genes through multiple orthogonal gRNAs, we can create transcriptional programs to probe and engineer complex cellular functions. In this project, we have investigated the extent to which independent regulation of multiple genes concurrently is possible with orthogonal gRNAs. In fact, even with orthogonal gRNAs, all regulated genes require dCas9 and/or the activator protein. These can be regarded as resources that are shared by multiple gRNAs to exert regulation. In principle, when any gRNA recruits them to the corresponding target gene, these resources are not available for the regulation of other genes. Before our work in this project, the extent to which this resource loading could couple theoretically independent regulations of multiple genes was an open question.</p> <p>In this project, we have found that the effects of resource loading are not negligible in CRISPRi and in CRISPRa. We have discovered that the introduction of any gRNA that regulates a target gene also, undesirably, activates any other gene that is repressed by CRISPRi and represses any other gene that is activated by CRISPRa. Therefore, regulation of multiple genes concurrently cannot be independent and instead becomes coupled. Therefore, modularity fails in practice as theoretically independent input/output systems become coupled through sharing limited resources. &nbsp; To mitigate these effects, we have designed a dCas9 regulator that maintains dCas9 free level constant despite changes in the level of competing gRNAs that sequester it. We have shown that this recovers independent regulation of multiple genes by CRISPRi, thereby enabling modularity.</p> <p>Coupling of multiple regulatory paths in CRISPRi and CRISPRa has repercussions on the way in which gene expression perturbation data obtained by CRISPRi/a are interpreted. In fact, the presence of coupling between theoretically independent gene regulations can result into misleading conclusions on the effect of any perturbed gene on a specific biological observable. At the same time, in light of our findings, engineering applications of CRISPRi/a may want to use dCas9 expression systems where dCas9 is actively regulated, such as in our dCas9 regulator, instead of being constitutively produced. More broadly, the outcomes of our project will have an impact on the way in which CRISPRi/a is used for both biological discovery and engineering applications.</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/14/2024<br> Modified by: Domitilla&nbsp;Del Vecchio</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2007674/2007674_10686699_1723675604376_Image--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2007674/2007674_10686699_1723675604376_Image--rgov-800width.jpg" title="Regulated resource generator enables modularity in CRISPRi systems"><img src="/por/images/Reports/POR/2024/2007674/2007674_10686699_1723675604376_Image--rgov-66x44.jpg" alt="Regulated resource generator enables modularity in CRISPRi systems"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Left: unregulated resource generator is loaded by the modules. Loading of resources by module 2 causes an undesired change in the output of module 1. Right: Regulated resource generator keeps resource level constant despite loading from the modules. Hence the two modules are decoupled.</div> <div class="imageCredit">Domitilla Del Vecchio</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Domitilla&nbsp;Del Vecchio <div class="imageTitle">Regulated resource generator enables modularity in CRISPRi systems</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  CRISRPR has revolutionized the way in which we can perturb biological systems at the genetic and epigenetic level to understand the function of key genes in important processes such as cancer, differentiation, and several diseases. At the same time, this technology is having a tremendous impact on cell engineering for applications ranging from biomanufacturing to gene and cell therapy. CRISPRi and CRISPRa allow to repress or activate any target gene by recruiting to the gene the dCas9 protein alone or the dCas9 protein bound to an activator protein, respectively. These are recruited to the gene via a sequence specific guide RNAs (gRNAs) that bind to the gene, thereby repressing or activating transcription. By concurrently activating and repressing many genes through multiple orthogonal gRNAs, we can create transcriptional programs to probe and engineer complex cellular functions. In this project, we have investigated the extent to which independent regulation of multiple genes concurrently is possible with orthogonal gRNAs. In fact, even with orthogonal gRNAs, all regulated genes require dCas9 and/or the activator protein. These can be regarded as resources that are shared by multiple gRNAs to exert regulation. In principle, when any gRNA recruits them to the corresponding target gene, these resources are not available for the regulation of other genes. Before our work in this project, the extent to which this resource loading could couple theoretically independent regulations of multiple genes was an open question.   In this project, we have found that the effects of resource loading are not negligible in CRISPRi and in CRISPRa. We have discovered that the introduction of any gRNA that regulates a target gene also, undesirably, activates any other gene that is repressed by CRISPRi and represses any other gene that is activated by CRISPRa. Therefore, regulation of multiple genes concurrently cannot be independent and instead becomes coupled. Therefore, modularity fails in practice as theoretically independent input/output systems become coupled through sharing limited resources.  To mitigate these effects, we have designed a dCas9 regulator that maintains dCas9 free level constant despite changes in the level of competing gRNAs that sequester it. We have shown that this recovers independent regulation of multiple genes by CRISPRi, thereby enabling modularity.   Coupling of multiple regulatory paths in CRISPRi and CRISPRa has repercussions on the way in which gene expression perturbation data obtained by CRISPRi/a are interpreted. In fact, the presence of coupling between theoretically independent gene regulations can result into misleading conclusions on the effect of any perturbed gene on a specific biological observable. At the same time, in light of our findings, engineering applications of CRISPRi/a may want to use dCas9 expression systems where dCas9 is actively regulated, such as in our dCas9 regulator, instead of being constitutively produced. More broadly, the outcomes of our project will have an impact on the way in which CRISPRi/a is used for both biological discovery and engineering applications.        Last Modified: 08/14/2024       Submitted by: DomitillaDel Vecchio]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

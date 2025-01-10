@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Tracking magma accumulation and evolution in the Andean Central Volcanic Zone]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>238718.00</AwardTotalIntnAmount>
+<AwardAmount>256246</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Wade</SignBlockName>
+<PO_EMAI>jwade@nsf.gov</PO_EMAI>
+<PO_PHON>7032924739</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Continental arc volcanoes represent a dramatic surface expression of one of the most significant and fundamental phenomena in global tectonics: the subduction of an oceanic plate beneath a more buoyant continental plate resulting in recycling of crustal material into the convecting mantle, partial melting, and primary basalt production. Moreover, during passage through thick continental crust, subduction zone magmas may substantially differentiate and melt crustal rocks giving rise to the great diversity of igneous lithologies characteristic of earth. Explosive volcanic eruptions at continental arc can have devastating global effects and owe their explosiveness to the composition and volume of magma stored in the crust. The development of large magma storage systems remains largely unknown and very controversial among volcanologists. This project will investigate how accumulated magma is stored and evolves over time. The investigators seek to characterize the processes and timescales of magma storage in the modern magma chambers beneath volcanoes in the Andean Central Volcanic Zone of Chile and Bolivia. Growing evidence suggests that the massive magmatic reservoirs required for largest and most explosive eruptions, such as those in the Central Andean Altiplano-Puna Volcanic Complex, are built rapidly in hot crustal environment. Over the 3-year project, graduate and undergraduate students will expand their research skills by working collaboratively with an international team of geologists seeking to understand the dynamics of crustal melting and magma storage leading to volcanic eruptions. The project emphasizes training in analytical methods in the lab, in the field, and at collaborating facilities.&lt;br/&gt;&lt;br/&gt;This project will focus on young volcanic rocks from composite volcano complexes in the Andean Central Volcanic Zone of Chile and Bolivia (Aucanquilcha, Ollagüe, Uturuncu, San Pedro-Linzor, Licancabur, Lazufre and Lascar) linked closely in space and time, to address the processes and timescales leading to the buildup of magma and eventual volcanic eruption. The primary intent of this project is to investigate how accumulated magma is stored and evolves over time. This will be accomplished by characterizing the processes and timescales of magma differentiation in the modern magma chambers and determining the influence of regional magma bodies on Central Andes volcanoes. New and existing samples from each center will be used to address three basic questions: 1) how long does magma reside at active individual centers; 2) do magmatic sources and partial melting processes vary systematically with the geochemical evolution of volcanic products; and 3) what is the evidence for involvement regional-scale upper crustal magma reservoirs in controlling eruptive composition? The proposed research will use targeted field sampling, whole rock geochemistry, 40Ar/39Ar geochronology, high precision zircon geochronology/geochemistry and trace element diffusion in plagioclase to address these questions. Ultimately, the dataset produced in this study will provide insight into the generation and diversity of magmas that form continental crust.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/16/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006374</AwardID>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Michelfelder</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gary S Michelfelder</PI_FULL_NAME>
+<EmailAddress><![CDATA[garymichelfelder@missouristate.edu]]></EmailAddress>
+<NSF_ID>000698736</NSF_ID>
+<StartDate>07/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Missouri State University]]></Name>
+<CityName>SPRINGFIELD</CityName>
+<ZipCode>658970001</ZipCode>
+<PhoneNumber>4178365972</PhoneNumber>
+<StreetAddress><![CDATA[901 S NATIONAL AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CL7KJX2VFHS9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MISSOURI STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Missouri State University]]></Name>
+<CityName>Springfield</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>658970027</ZipCode>
+<StreetAddress><![CDATA[901 S. National Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157300</Code>
+<Text>Petrology and Geochemistry</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~238718</FUND_OBLG>
+<FUND_OBLG>2023~17528</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Five prominent low-velocity zones are present in the Central Andes of Chile, Bolivia and Argentina: the Altiplano-Puna Magma Body (APMB) at 520,000 km<sup>3</sup>, the Lazufre Magma Body (LMB) at ~54,000 km<sup>3</sup>, the Cerro Galan Magma Body (CGMB) at ~23,000 km<sup>3</sup>, and the Incahuasi Magma Body (IMB) at ~12,000 km<sup>3</sup> and the Incapillo-Bonete Magma Body (IBMB). Each are mostly crystalline and rheologically locked, but can be correlated with Holocene volcanoes, known ignimbrite source calderas, and INSAR-measured vertical surface deformation centers further supporting a magmatic/ plutonic interpretation. An estimated 3,100 km<sup>3</sup> of ignimbrites have erupted in the southern Puna which includes the LMB, CGMB, and IMB magma reservoirs (collectively referred to as the Southern Puna Magma Body [SPMB]). The Altiplano-Puna volcanic complex ignimbrite flare-up episode between 11-1 Ma, erupted over 15,000 km<sup>3</sup> of silicic volcanic rocks accounting for nearly half of the ignimbrite volume deposited during the Central Andean regional Neogene magmatic flare-up.</p> <p>&nbsp;</p> <p>This study focused on six potentially active or active volcanoes in the Central Andean Volcanic Zone of Bolivia and Chile: Lascar, Uturuncu, Ollag&uuml;e, Aucanquilcha, Licancabur, and Lastarria. The goal was to determine the link between magma accumulation and storage at each volcano and the relationship to large volume magma reservoirs. The project tested the hypothesis that rapid magma accumulation leading to eruption in shallow magmatic environments will retain diverse chemical and isotopic signatures and restrict modification of the crust over time, whereas slower rates of magma intrusion resulting in regional magma body formation will result in hybridization of the magmatic system and crust, creating more homogeneous magmatic systems with restricted and crustal chemical and isotopic signatures. We tested the hypothesis by looking at zircon and plagioclase mineral from each volcano. Zircon is a resilient mineral that records magmatic processes beneath volcanoes and can be used to trace changes in the magmatic system. Plagioclase, like zircon, also records these changes but is sensitive to different processes at shorter timescales. This provides critical piece of information to inform the hazard assessment for the region.</p> <p>&nbsp;</p> <p>Results obtained during this project shows that each volcanic system shows similar characteristics of how long it takes for magmas to accumulate and the magma processes leading up to an eruption. First, new U-Pb and U-Th isotope data in zircon from 20 samples show that magmas start to crystalize zircon 10&rsquo;s to 100&rsquo;s of thousands of years prior to eruption and that magma remains in the reservoir after each eruption. Plagioclase minerals record the events leading up to and just prior to an eruption. At Uturuncu and Ollag&uuml;e volcanoes lead up times to eruption took 100&rsquo;s to 1000&rsquo;s of years. At Lascar and Lastarria volcanoes the lead up times were only 10&rsquo;s of years and all samples showed evidence of magma mixing processes triggering the eruption. In comparison to the large volume ignimbrites, these volcanoes suggest that recharge rates are faster leading to diverse magma composition.</p> <p>&nbsp;</p> <p>This project has been fantastic training for eight graduate students and six undergraduate students from Missouri State University working with the PI, one additional Ph.D. student from the University of Texas at San Antonio, and collaborators including local scientists to continue to unravel this mystery to help expand our understanding of the potential hazards of CVZ stratovolcanoes. Seven female students, one Columbian student, and three students from other underrepresented groups received training in volcanology, analytical geochemistry and professional development through this project. Three of them gained valuable international experience through fieldwork as well as engagement with collaborators from Australia and Chile. All the students presented their research at professional conferences offering the opportunities to hone their written, oral and visual communication skills, necessary in today's global workplace. Three of the M.S. students who worked on aspects of this project are now in Ph.D. programs. The remaining four quickly found employment after finishing their M.S. degrees at Missouri State University. Furthermore, new collaborations with four other early career Chilean researchers and their students during this project further enhances our development of the next generation of geoscience researchers and broadens representation efforts of this project. Our work at Lascar and Ollag&uuml;e volcanoes have helped local volcanologist understand the timescales of magma accumulation leading up to future eruptions.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/04/2024<br> Modified by: Gary&nbsp;S&nbsp;Michelfelder</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Five prominent low-velocity zones are present in the Central Andes of Chile, Bolivia and Argentina: the Altiplano-Puna Magma Body (APMB) at 520,000 km3, the Lazufre Magma Body (LMB) at ~54,000 km3, the Cerro Galan Magma Body (CGMB) at ~23,000 km3, and the Incahuasi Magma Body (IMB) at ~12,000 km3 and the Incapillo-Bonete Magma Body (IBMB). Each are mostly crystalline and rheologically locked, but can be correlated with Holocene volcanoes, known ignimbrite source calderas, and INSAR-measured vertical surface deformation centers further supporting a magmatic/ plutonic interpretation. An estimated 3,100 km3 of ignimbrites have erupted in the southern Puna which includes the LMB, CGMB, and IMB magma reservoirs (collectively referred to as the Southern Puna Magma Body [SPMB]). The Altiplano-Puna volcanic complex ignimbrite flare-up episode between 11-1 Ma, erupted over 15,000 km3 of silicic volcanic rocks accounting for nearly half of the ignimbrite volume deposited during the Central Andean regional Neogene magmatic flare-up.      This study focused on six potentially active or active volcanoes in the Central Andean Volcanic Zone of Bolivia and Chile: Lascar, Uturuncu, Ollage, Aucanquilcha, Licancabur, and Lastarria. The goal was to determine the link between magma accumulation and storage at each volcano and the relationship to large volume magma reservoirs. The project tested the hypothesis that rapid magma accumulation leading to eruption in shallow magmatic environments will retain diverse chemical and isotopic signatures and restrict modification of the crust over time, whereas slower rates of magma intrusion resulting in regional magma body formation will result in hybridization of the magmatic system and crust, creating more homogeneous magmatic systems with restricted and crustal chemical and isotopic signatures. We tested the hypothesis by looking at zircon and plagioclase mineral from each volcano. Zircon is a resilient mineral that records magmatic processes beneath volcanoes and can be used to trace changes in the magmatic system. Plagioclase, like zircon, also records these changes but is sensitive to different processes at shorter timescales. This provides critical piece of information to inform the hazard assessment for the region.      Results obtained during this project shows that each volcanic system shows similar characteristics of how long it takes for magmas to accumulate and the magma processes leading up to an eruption. First, new U-Pb and U-Th isotope data in zircon from 20 samples show that magmas start to crystalize zircon 10s to 100s of thousands of years prior to eruption and that magma remains in the reservoir after each eruption. Plagioclase minerals record the events leading up to and just prior to an eruption. At Uturuncu and Ollage volcanoes lead up times to eruption took 100s to 1000s of years. At Lascar and Lastarria volcanoes the lead up times were only 10s of years and all samples showed evidence of magma mixing processes triggering the eruption. In comparison to the large volume ignimbrites, these volcanoes suggest that recharge rates are faster leading to diverse magma composition.      This project has been fantastic training for eight graduate students and six undergraduate students from Missouri State University working with the PI, one additional Ph.D. student from the University of Texas at San Antonio, and collaborators including local scientists to continue to unravel this mystery to help expand our understanding of the potential hazards of CVZ stratovolcanoes. Seven female students, one Columbian student, and three students from other underrepresented groups received training in volcanology, analytical geochemistry and professional development through this project. Three of them gained valuable international experience through fieldwork as well as engagement with collaborators from Australia and Chile. All the students presented their research at professional conferences offering the opportunities to hone their written, oral and visual communication skills, necessary in today's global workplace. Three of the M.S. students who worked on aspects of this project are now in Ph.D. programs. The remaining four quickly found employment after finishing their M.S. degrees at Missouri State University. Furthermore, new collaborations with four other early career Chilean researchers and their students during this project further enhances our development of the next generation of geoscience researchers and broadens representation efforts of this project. Our work at Lascar and Ollage volcanoes have helped local volcanologist understand the timescales of magma accumulation leading up to future eruptions.              Last Modified: 11/04/2024       Submitted by: GarySMichelfelder]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[ICE-T: RC: Millimeter Wave Communications and Edge Computing for Next Generation Tetherless Mobile Virtual Reality]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/20/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>279706.00</AwardTotalIntnAmount>
+<AwardAmount>279706</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alhussein Abouzeid</SignBlockName>
+<PO_EMAI>aabouzei@nsf.gov</PO_EMAI>
+<PO_PHON>7032927855</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Virtual and augmented reality (VR/AR) technologies hold tremendous potential to advance our society, having impact on quality of life, environmental and energy conservation, and the world economy. However, two main challenges stand in the way of realizing this vision. These applications are hyper-data-intensive and require ultra-low latency, neither of which can be met by current and upcoming conventional networking methods and systems. These presently limit VR/AR applications to an offline operation, synthetic content, high-end wired equipment, and gaming/entertainment settings. This project envision a novel system at the intersection of millimeter-wave communication (mmWave) and edge computing that aims to overcome these challenges to bring us closer to the next generation tetherless VR/AR societal applications. The project will make notable contributions to the emerging area of networked VR/AR application systems and communications, leading to advances in numerous socially relevant applications, e.g., search and rescue, and disaster response. It will also facilitate fundamental research in the general application area of high-volume high-speed/low-latency data transfer in emerging settings. Beyond the direct scientific and technology impacts and their broader effects on society, educational, outreach, international collaboration, and scientific leadership activities will be pursued as an integral part of the project.&lt;br/&gt;&lt;br/&gt;Overcoming the broad performance gap between present and upcoming networked systems capabilities and anticipated requirements of next generation applications will require novel holistic approaches to capture, coding, networking, and reconstruction/navigation of VR/AR data. Towards this objective, the project will investigate a futuristic 5G heterogeneous cellular network system that integrates radio frequency (RF) and millimeter wave communication, and viewport-adaptive space-time scalable VR signal tiling, for multi-path streaming of 360-degree tetherless mobile VR applications. In this setting, the project will pursue the following synergistic investigations: (1) Navigation-aware scalable VR signal tiling to enable interactive streaming of only the data truly needed by the user during navigation; (2) Deep machine learning for user navigation prediction to assist the envisioned resource allocation methods. (3) Space-time scalable rateless code construction for effective source-channel VR signal representation to protect against prospective transmission errors. (4) Dynamic rate-distortion optimized strategies for hybrid RF-mmWave multi-path VR streaming and analysis of the foundations of the interdependencies between the VR signal tiling design and the characteristics of the two network paths. (5) Analysis of the fundamental trade-offs between edge computing and communication that arise here and pursuit of optimization methods that will leverage them to maximize the system efficiency. (6) Graph-theoretic analysis of the problem of dynamic mmWave transmitter to VR user assignment. (7) Network slicing for parallel operation with other applications. Extensive integration and experimentation will be carried out to assess, validate, and prototype the enabled research advances in practical settings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032033</AwardID>
+<Investigator>
+<FirstName>Jacob</FirstName>
+<LastName>Chakareski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jacob Chakareski</PI_FULL_NAME>
+<EmailAddress><![CDATA[jacobcha@njit.edu]]></EmailAddress>
+<NSF_ID>000663351</NSF_ID>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New Jersey Institute of Technology]]></Name>
+<CityName>NEWARK</CityName>
+<ZipCode>071021824</ZipCode>
+<PhoneNumber>9735965275</PhoneNumber>
+<StreetAddress><![CDATA[323 DR MARTIN LUTHER KING JR BLV]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SGBMHQ7VXNH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW JERSEY INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Jersey Institute of Technology]]></Name>
+<CityName>Newark</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>071021982</ZipCode>
+<StreetAddress><![CDATA[University Heights]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>171400</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~279706</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Overcoming the broad performance gap between present and upcoming  networked systems capabilities and anticipated requirements of next  generation applications will require novel holistic approaches to  capture, coding, networking, and reconstruction/navigation of VR/AR data  that will operate synergistically. Towards this objective, we propose  to investigate a futuristic 5G heterogeneous cellular network system  that integrates RF and millimeter wave communication, and  viewport-adaptive space-time scalable VR signal tiling, for multi-path  streaming of 360&deg; tetherless mobile VR applications. The content is  initially delivered to an edge server, collocated with the macro base  station, which splits it into a baseline representation of the 360&deg;  remote scene it represents and a high quality enhancement targeting the  specific VR viewpoint of a mobile user. The former is transmitted by the  macro base station using RF communication to the user. The latter is  first delivered to his respective small cell base station via a backhaul  link and then transmitted to the user over the best mmWave link. Within  this setting, we will explore the following fundamental questions: <strong>(Q1)</strong> How should the 360&deg; data be partitioned into the two representations in  a scalable manner to maximize the quality of VR immersion for the  users? <strong>(Q2)</strong> How should the two representations be dynamically mapped to the two transmitting technologies for most effective streaming? <strong>(Q3)</strong> What are the tradeoffs between edge computing and communication that arise here? and <strong>(Q4)</strong> What is the optimal dynamic mmWave transmitter to VR user association?  To answer these questions, we will pursue these synergistic  investigations. In <strong>Thrust 1: Optimal VR signal representation</strong>, we  will explore navigation-aware scalable VR signal tiling that will  enable interactive streaming of only the data truly needed by the user  during navigation, to maximize his quality of experience, for the given  networking resources. Deep machine learning will be investigated for  user navigation prediction to assist our resource allocation methods.  Space-time scalable rateless code construction will be pursued to enable  effective source-channel VR signal representation to protect against  prospective transmission errors. In <strong>Thrust 2: RF-mmWave VR communications and edge computing</strong>,  we will study dynamic rate-distortion optimized strategies for hybrid  RF-mmWave multi-path VR streaming. We will analyze the foundations of  the interdependencies between the VR signal tiling design and the  characteristics of the two network paths. We will analyze the  fundamental trade-offs between edge computing and communication that  arise here and pursue optimization methods that will leverage them to  maximize the system efficiency. We will leverage graph-theoretic  concepts adapted to our setting to investigate the important problem of  dynamic mmWave transmitter to VR user assignment that arises here. Our  investigations will be complemented by extensive integration and  experimentation to asses, validate, and prototype our research advances  in practical settings (<strong>Thrust 3</strong>).</p><br> <p>  Last Modified: 10/24/2024<br> Modified by: Jacob&nbsp;Chakareski</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2032033/2032033_10581433_1729798740670_NSF_EU_ICE_T_May2018_ProjectOutcomesIllustration--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2032033/2032033_10581433_1729798740670_NSF_EU_ICE_T_May2018_ProjectOutcomesIllustration--rgov-800width.jpg" title="A future 5G hybrid RF-mmWave coordinated cellular system for remote 360&#9702; VR immersion"><img src="/por/images/Reports/POR/2024/2032033/2032033_10581433_1729798740670_NSF_EU_ICE_T_May2018_ProjectOutcomesIllustration--rgov-66x44.jpg" alt="A future 5G hybrid RF-mmWave coordinated cellular system for remote 360&#9702; VR immersion"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A future 5G hybrid RF-mmWave coordinated cellular system for remote 360&#9702; VR immersion. Applications include scientific exploration, first responders, and collaborative teleworking.</div> <div class="imageCredit">Jacob Chakareski</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jacob&nbsp;Chakareski <div class="imageTitle">A future 5G hybrid RF-mmWave coordinated cellular system for remote 360&#9702; VR immersion</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Overcoming the broad performance gap between present and upcoming  networked systems capabilities and anticipated requirements of next  generation applications will require novel holistic approaches to  capture, coding, networking, and reconstruction/navigation of VR/AR data  that will operate synergistically. Towards this objective, we propose  to investigate a futuristic 5G heterogeneous cellular network system  that integrates RF and millimeter wave communication, and  viewport-adaptive space-time scalable VR signal tiling, for multi-path  streaming of 360 tetherless mobile VR applications. The content is  initially delivered to an edge server, collocated with the macro base  station, which splits it into a baseline representation of the 360  remote scene it represents and a high quality enhancement targeting the  specific VR viewpoint of a mobile user. The former is transmitted by the  macro base station using RF communication to the user. The latter is  first delivered to his respective small cell base station via a backhaul  link and then transmitted to the user over the best mmWave link. Within  this setting, we will explore the following fundamental questions: (Q1) How should the 360 data be partitioned into the two representations in  a scalable manner to maximize the quality of VR immersion for the  users? (Q2) How should the two representations be dynamically mapped to the two transmitting technologies for most effective streaming? (Q3) What are the tradeoffs between edge computing and communication that arise here? and (Q4) What is the optimal dynamic mmWave transmitter to VR user association?  To answer these questions, we will pursue these synergistic  investigations. In Thrust 1: Optimal VR signal representation, we  will explore navigation-aware scalable VR signal tiling that will  enable interactive streaming of only the data truly needed by the user  during navigation, to maximize his quality of experience, for the given  networking resources. Deep machine learning will be investigated for  user navigation prediction to assist our resource allocation methods.  Space-time scalable rateless code construction will be pursued to enable  effective source-channel VR signal representation to protect against  prospective transmission errors. In Thrust 2: RF-mmWave VR communications and edge computing,  we will study dynamic rate-distortion optimized strategies for hybrid  RF-mmWave multi-path VR streaming. We will analyze the foundations of  the interdependencies between the VR signal tiling design and the  characteristics of the two network paths. We will analyze the  fundamental trade-offs between edge computing and communication that  arise here and pursue optimization methods that will leverage them to  maximize the system efficiency. We will leverage graph-theoretic  concepts adapted to our setting to investigate the important problem of  dynamic mmWave transmitter to VR user assignment that arises here. Our  investigations will be complemented by extensive integration and  experimentation to asses, validate, and prototype our research advances  in practical settings (Thrust 3).     Last Modified: 10/24/2024       Submitted by: JacobChakareski]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

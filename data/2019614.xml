@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Unraveling the physiological roles of multidrug efflux pumps in bacteria]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>350000.00</AwardTotalIntnAmount>
+<AwardAmount>350000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Cyr</SignBlockName>
+<PO_EMAI>rcyr@nsf.gov</PO_EMAI>
+<PO_PHON>7032928440</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will determine how a multidrug efflux (MDR) pump of the bacterium Escherichia coli, regulates gene expression and cell physiology. Efflux is an essential function in all life forms. Gram-negative bacteria such as E. coli possess MDR pumps that are highly-conserved and play a pivotal role in cell physiology and bacterial adaptation to internal and environmental changes. These MDR pumps have a unique ability to expel a wide range of molecules out of the cell. These molecules include toxic compounds entering the cells from the outside such as bile salts and antibiotics; as well as molecules internally produced by these bacteria involved in functions such as bacterial growth, signaling, and capturing iron or other limited nutrients. Among MDR pumps, the AcrAB-TolC pump of E. coli is the most well-known because it is the main MDR pump in this bacterium, which is an important model organism, gut commensal, pathogen, and is widely used in biotechnology. This pump was first studied because of its role in conferring antibiotic resistance by effluxing different antibiotics. Recent findings indicate that this pump also plays a central role in regulating gene expression and bacterial physiology; however, how this pump controls these functions remains unknown. By identifying the molecules internally produced by E. coli that are effluxed by the AcrAB-TolC pump, and how this pump and its regulators control gene expression and physiology, this project will make multiple significant contributions to science and the overall well-being of society. More specifically, this project will advance our understanding of how bacteria maintain their internal balance and adapt to new environments, and offer novel insights into how to bioengineer bacteria to improve the production of biofuels and other compounds of industrial interest. The broader outcomes of this project stem from its integration into a re-designed Microbial Physiology course at California State University, Northridge (CSUN). CSUN is a primarily undergraduate and minority-serving institution. Thus, this project will expand the number of students from diverse backgrounds that have access to hands-on research, which is essential to train and inspire the next generation of scientist and engineers.&lt;br/&gt;&lt;br/&gt;MDR pumps regulate gene expression, metabolism, stress responses, bacterial motility, and other physiological processes. However, the molecular mechanisms that allow these pumps to control all these processes remain unknown. Especially intriguing is the question of how MDR pumps, which are located in the cell envelope, can regulate gene expression. Our central hypothesis is that the main function of the AcrAB-TolC pump is to efflux cellular metabolites, whereas the transcriptional repressor AcrR senses the concentrations of different pump substrates and then acts as a global regulator of gene expression. This hypothesis is based on recent findings from the PI’s laboratory and other groups. To attain the overall objective, we will pursue two specific aims: 1) Identify the genes directly regulated by AcrR and the metabolites that control AcrR function; and 2) Identify the metabolites that bind to AcrAB-TolC and the effect of AcrB-AcrZ interactions in modulating the function of this pump. We will accomplish these aims by employing bioinformatics and electrophoretic mobility shift assays to identify genes directly regulated by AcrR; as well as fluorescence polarization binding assays to identify the cellular metabolites effluxed by AcrAB-TolC, determine the effect of the small protein AcrZ on substrate recognition by this pump, and identify which pump substrates bind to and regulate AcrR function. Ultimately, this project will uncover the functional link between pump function and gene regulation by identifying which cellular metabolites are both pump substrates and AcrR ligands.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019614</AwardID>
+<Investigator>
+<FirstName>CRISTIAN</FirstName>
+<LastName>RUIZ RUEDA</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>CRISTIAN RUIZ RUEDA</PI_FULL_NAME>
+<EmailAddress><![CDATA[cristian.ruiz-rueda@csun.edu]]></EmailAddress>
+<NSF_ID>000805941</NSF_ID>
+<StartDate>06/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[The University Corporation, Northridge]]></Name>
+<CityName>NORTHRIDGE</CityName>
+<ZipCode>913300001</ZipCode>
+<PhoneNumber>8186771403</PhoneNumber>
+<StreetAddress><![CDATA[18111 NORDHOFF ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA32</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LAGNHMC58DF3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California State University, Northridge]]></Name>
+<CityName>Northridge</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>913308303</ZipCode>
+<StreetAddress><![CDATA[18111 Nordhoff Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA32</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111400</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~232013</FUND_OBLG>
+<FUND_OBLG>2022~117987</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span style="font-family: Arial; font-size: x-small;">Bacteria are equipped with a variety of multidrug efflux pumps that play a central role in maintaining cell homeostasis. These pumps first gained interest because of their ability to export antibiotics out of cells, thus conferring resistance to multiple antibiotics. However, recent findings have shown that these pumps have a broad impact on gene expression, metabolism, bacterial motility, and other physiological processes. A mechanistic understanding of how these pumps control all these fundamental processes was still lacking. Especially puzzling was the question of how these pumps, which are located in the cell envelope, regulated gene expression. The major goals of this project were to uncover how the AcrAB-TolC multidrug efflux pump of the bacterium <em>Escherichia coli</em> </span><span style="font-family: Arial; font-size: x-small;">controls gene expression and physiology, and to integrate this research with the training of students traditionally underrepresented in STEM</span><span style="font-family: Arial; font-size: x-small;">. Despite the severe disruptions caused by the Covid-19 pandemic during 2020 and 2021, both goals were accomplished.</span><strong><span style="font-family: Arial; font-size: x-small;"> Intellectual merit:</span></strong><span style="font-family: Arial; font-size: x-small;"> On a pivotal study of particular relevance to this field of research, we found that the external antimicrobial and AcrAB-TolC substrate ethidium bromide, and three metabolites produced by <em>E. coli</em> </span><span style="font-family: Arial; font-size: x-small;">&mdash; the polyamines <span style="color: black;">putrescine, cadaverine and spermidine </span>&mdash;<span style="color: black;"> are functional ligands that control the activity of the efflux repressor AcrR</span></span><span style="color: black; font-family: Arial; font-size: x-small;">. This study also showed that: 1) AcrAB-TolC contributes to coping with excess spermidine; and 2) besides regulating<em> acrAB</em>, AcrR also contributes to coping with excess polyamines by directly regulating the expression of the MdtJI inner membrane spermidine efflux pump, and the putrescine degradation enzyme PuuA. This is the first report of AcrR directly regulating a metabolic gene. Next, we found that AcrR represses motility in <em>E. coli</em> by directly repressing transcription of the <em>flhDC</em> master regulator of flagellum biosynthesis and motility genes</span><span style="color: black; font-family: Arial; font-size: x-small;">, and that ethidium bromide regulates motility via AcrR. </span><span style="font-family: Arial; font-size: x-small;">Moreover, we have found several cellular metabolites (e.g. malonate) that inhibit and are likely substrates of the AcrAB-TolC pump. <span style="color: black;">We have also found that AcrR directly regulates four metabolic genes/operons involved in central metabolism. Finally, we have found that AcrAB-TolC and other related multidrug efflux pumps contribute to growth of bacteria under different stress conditions. </span>Overall, <span style="color: black;">these findings strongly support a central role of bacterial multidrug efflux pumps and their regulators in sensing and controlling bacterial metabolism and physiology. </span><strong>Broader Impacts:</strong> In addition to the intrinsic merit of this research, this project has supported the training of 6 graduate and 8 undergraduate students in the PI&rsquo;s research lab. To date, this award has led to 3 publications (with 3 students as first/co-authors) plus 2 manuscripts in preparation (all with student first-authors); 4 completed MS thesis plus 2 more in-progress; and 26 posters/oral presentations from the students in the PI&rsquo;s lab. In addition, this project has contributed to the education and training of 70 students in the 400-level Microbial Physiology lecture and lab course taught by the PI each Fall at California state University Northridge (CSUN). On average, 70% of them were from groups traditionally underrepresented in STEM. In total, 35 of the students that took this course joined or were retained in research labs at CSUN after taking the course, including 8 in the PI&rsquo;s own lab. To date, 18 students that took this course have entered MS or PhD programs, or other research positions in academic or industry labs; 4 more students from the Fall 2023 cohort have/are applying to PhD, MD, or MD/PhD programs.</span></p><br> <p>  Last Modified: 07/22/2024<br> Modified by: Cristian&nbsp;Ruiz Rueda</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Bacteria are equipped with a variety of multidrug efflux pumps that play a central role in maintaining cell homeostasis. These pumps first gained interest because of their ability to export antibiotics out of cells, thus conferring resistance to multiple antibiotics. However, recent findings have shown that these pumps have a broad impact on gene expression, metabolism, bacterial motility, and other physiological processes. A mechanistic understanding of how these pumps control all these fundamental processes was still lacking. Especially puzzling was the question of how these pumps, which are located in the cell envelope, regulated gene expression. The major goals of this project were to uncover how the AcrAB-TolC multidrug efflux pump of the bacterium Escherichia coli controls gene expression and physiology, and to integrate this research with the training of students traditionally underrepresented in STEM. Despite the severe disruptions caused by the Covid-19 pandemic during 2020 and 2021, both goals were accomplished. Intellectual merit: On a pivotal study of particular relevance to this field of research, we found that the external antimicrobial and AcrAB-TolC substrate ethidium bromide, and three metabolites produced by E. coli  the polyamines putrescine, cadaverine and spermidine  are functional ligands that control the activity of the efflux repressor AcrR. This study also showed that: 1) AcrAB-TolC contributes to coping with excess spermidine; and 2) besides regulating acrAB, AcrR also contributes to coping with excess polyamines by directly regulating the expression of the MdtJI inner membrane spermidine efflux pump, and the putrescine degradation enzyme PuuA. This is the first report of AcrR directly regulating a metabolic gene. Next, we found that AcrR represses motility in E. coli by directly repressing transcription of the flhDC master regulator of flagellum biosynthesis and motility genes, and that ethidium bromide regulates motility via AcrR. Moreover, we have found several cellular metabolites (e.g. malonate) that inhibit and are likely substrates of the AcrAB-TolC pump. We have also found that AcrR directly regulates four metabolic genes/operons involved in central metabolism. Finally, we have found that AcrAB-TolC and other related multidrug efflux pumps contribute to growth of bacteria under different stress conditions. Overall, these findings strongly support a central role of bacterial multidrug efflux pumps and their regulators in sensing and controlling bacterial metabolism and physiology. Broader Impacts: In addition to the intrinsic merit of this research, this project has supported the training of 6 graduate and 8 undergraduate students in the PIs research lab. To date, this award has led to 3 publications (with 3 students as first/co-authors) plus 2 manuscripts in preparation (all with student first-authors); 4 completed MS thesis plus 2 more in-progress; and 26 posters/oral presentations from the students in the PIs lab. In addition, this project has contributed to the education and training of 70 students in the 400-level Microbial Physiology lecture and lab course taught by the PI each Fall at California state University Northridge (CSUN). On average, 70% of them were from groups traditionally underrepresented in STEM. In total, 35 of the students that took this course joined or were retained in research labs at CSUN after taking the course, including 8 in the PIs own lab. To date, 18 students that took this course have entered MS or PhD programs, or other research positions in academic or industry labs; 4 more students from the Fall 2023 cohort have/are applying to PhD, MD, or MD/PhD programs.     Last Modified: 07/22/2024       Submitted by: CristianRuiz Rueda]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SWIFT: LARGE: Passive and Active Spectrum Sharing (PASS)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1446565.00</AwardTotalIntnAmount>
+<AwardAmount>1521560</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03060000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OSI</Abbreviation>
+<LongName>Office of Strategic Initiatives (OSI)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Chapin</SignBlockName>
+<PO_EMAI>jchapin@nsf.gov</PO_EMAI>
+<PO_PHON>7032928222</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Radio frequency (RF) spectrum has become a scarce resource.  The days of exclusive spectrum allocations are gone – the age of spectrum sharing is upon us.  Sharing between systems that transmit – active systems – can be performed using variations of a “listen before talking” protocol that checks whether a particular RF frequency band is being actively used and only transmits if the frequency band is unused.  Passive systems, such as radio telescopes and earth observation satellites, do not transmit. Sharing between passive and active systems is therefore particularly challenging, because sensors cannot determine if a passive system is in use.  Consequently, passive-active sharing is static, not dynamic, and performed by defining RF quiet zones around passive systems.  Additionally, many passive systems are sensitive to RF noise pollution, which may result from leakage from unshielded devices, or the aggregation of faint signals from a multitude of devices.  However, little work has been done on systematically surveying RF noise to understand where noise is increasing, the extent of the increase, and the changes over time.  The proposed Passive and Active Spectrum Sharing (PASS) project will systematically survey and characterize RF noise, and explore and evaluate alternatives for enabling spectrum sharing between passive and active systems.  The PASS research will be a significant step forward in understanding and mitigating RF noise, and will enable more dynamic and efficient sharing of spectrum.&lt;br/&gt;&lt;br/&gt;The proposed Passive and Active Spectrum Sharing (PASS) project will: (i) systematically survey RF noise across multiple environments; (ii) analyze and characterize RF noise and evaluate mechanisms to mitigate noise; (iii) explore new and innovative approaches to dynamic spectrum sharing between passive and active systems; (iv) analyze and quantitatively evaluate mechanisms to coordinate bi-directional spectrum sharing between passive and active systems; (v) explore hardware and software approaches to enhance the effectiveness and security of spectrum sharing; and (vi) define the requirements and initial processes to maintain a National Radio Dynamic Zone (NRDZ), a geographic region within which bi-lateral spectrum sharing takes place. The results from this project will provide experimental and analytical evidence on RF noise control and spectrum sharing; enable more effective dynamic utilization of spectrum, and inform the creation of an NRDZ.  Further, the project will develop data structures, processes, and software to enable future multi-institutional collaboration on RF noise measurement and modeling.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2030233</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Gifford</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin K Gifford</PI_FULL_NAME>
+<EmailAddress><![CDATA[kevin.gifford@colorado.edu]]></EmailAddress>
+<NSF_ID>000824936</NSF_ID>
+<StartDate>10/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Gifford</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin K Gifford</PI_FULL_NAME>
+<EmailAddress><![CDATA[kevin.gifford@colorado.edu]]></EmailAddress>
+<NSF_ID>000824936</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate>10/08/2020</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tamara</FirstName>
+<LastName>Lehman</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tamara S Lehman</PI_FULL_NAME>
+<EmailAddress><![CDATA[tamara.lehman@colorado.edu]]></EmailAddress>
+<NSF_ID>000824627</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Keith</FirstName>
+<LastName>Gremban</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Keith D Gremban</PI_FULL_NAME>
+<EmailAddress><![CDATA[keith.gremban@colorado.edu]]></EmailAddress>
+<NSF_ID>000824677</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate>10/08/2020</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803031058</ZipCode>
+<StreetAddress><![CDATA[2100 Marine Street, 572 UCB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>151Y00</Code>
+<Text>SII-Spectrum Innovation Initia</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096E</Code>
+<Text>High freq comm/sensing circuits</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>105E</Code>
+<Text>RF/Microwave &amp; mm-wave tech</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4650</Code>
+<Text>RADIO SPECTRUM MANAGEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8816</Code>
+<Text>Workforce Development</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~502001</FUND_OBLG>
+<FUND_OBLG>2021~944564</FUND_OBLG>
+<FUND_OBLG>2022~74995</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Key Outcomes or Other Achievements:</strong></p> <p>Over the course of the NSF SWIFT project CU-Boulder, UC-Berkeley and the Hat Creek Radio Observatory have developed a strong working relationship with a focus on operational capabilities to eliminate satellite RFI impairments to radio astronomy observations. This relationship, and the associated operational technologies and capabilities, have led to the submission of HCRO as a candidate RDZ for the SII- NRDZ Field Trial 1 activity.</p> <p>Key Outcomes include:</p> <ul> </ul> <ul> <li>Established a strong commercial/research emphasis with WinnForum as the owners of the CBRS spectrum sharing standard.</li> <li>Established strong, and continuing, relationships with Google (Spectrum Access System, SAS) and Utah PAWR/POWDER (OpenZMS) to ensure HCRO operational systems can successfully interface for spectrum sharing with both commercial SAS and research-active ZMS implementations.</li> <li>Co--chairmanship and leadership of the WinnForum Passive and Active Spectrum Sharing (PASS) working group.</li> <li>Submitted 20 research articles for publication on the subject of spectrum sharing with emphasis on protecting RA facilities (see Products for specific publications).</li> <li>Formed collaboration with NRAO to define a common RA observation schedule for external, third-party entities, to facilitate spectrum sharing coordination via TARDyS4/ODS (ODS: Operational Data System format specification).</li> <li>Formed collaboration with SpaceX/StarLink to test and verify spectrum sharing with StarLink at the HCRO&nbsp;facility&nbsp;and area.</li> <li>Formed collaboration with MIT-Haystack and NRAO to utilize and provide feedback to SOPP maturation and feature evolution.&nbsp; With MIT-Haystack S.O.P.P. is being evolved to (a) accommodate RA antenna sidelobe interference and (b) to predict anticipated satellite RFI interference levels.</li> </ul> <ul> </ul> <ul style="text-align: left;"> </ul> <ul style="text-align: left;"> </ul> <ul style="text-align: left;"> </ul> <ul style="text-align: left;"> </ul> <ul style="text-align: left;"> </ul> <ul> </ul> <p>The specific impact of the NSF SWIFT project to date has demonstrated the feasibility of utilizing geospatial-temporal frequency sharing, local area environmental radio frequency characterization, and the knowledge of satellite orbital dynamics, antenna patterns, and satellite ground station location, to minimize terrestrially-induced and satellite-induced radio frequency interference (RFI) to Radio Astronomy scientific observations. A recent project activity is the adoption and deployment of a Zero Trust Architecture to provide network and operational security to a small research enterprise.</p> <p>The spectrum sharing system enables radio astronomers to make observations outside the bands reserved for passive sensing and protects radio astronomy facilities from increasing interference from both commercial terrestrial wireless communications systems and from satellites.</p> <p>By helping protect passive users, the project supports better scientific return from observatory investments.</p> <p>By advancing the goal of secure, dynamic spectrum sharing between passive and active systems, the project supports the social and economic benefits that depend on continued growth in wireless usage.</p> <p>By serving as a pathfinder for the National Radio Dynamic Zone concept, the project delivers lessons learned that can be used to enhance spectrum sharing for other sites and applications.</p> <p>The Satellite Orbit Prediction Processor coupled with a geospatial-temporal spectrum zone management system minimizes satellite RFI for radio astronomy scientific observations.</p> <p>Future impacts are expected to include coordination of bidirectional spectrum sharing with commercial wireless carriers and minimization of terrestrially-generated RFI from commercial wireless systems to Earth Observing Satellites.</p> <p>The broad impact of the NSF SWIFT and HCRO-NRDZ projects will be felt in three primary domains: research and engineering, education and regulatory.</p> <ul> <li><em>The research and engineering domain:</em>&nbsp;HCRO-NRDZ has contributed data formats, datasets, analysis tools, and measurement survey processes to the greater community. In the future, RF noise and spectrum sharing will increasingly be of concern to academic researchers, engineers in government agencies, and engineers in the private sector. HCRO-NRDZ will also have an impact on the commercial sector, as the HCRO-NRDZ analyses and experiments on bi-lateral spectrum sharing will provide additional data and tools to organizations developing and deploying new systems that will be required to share spectrum. The results will improve the ability of radio astronomy to operate in environments with large amounts of radio frequency interference, particularly as RFI from satellite constellations increases.</li> </ul> <ul> <li><em>The education domain:</em>&nbsp;Over the foreseeable future, the demand for RF engineers and scientists is expected to increase. Similarly, issues with RF noise, wireless coexistence, and spectrum sharing will become more prevalent and more complex. HCRO-NRDZ has organized the best practices and lessons learned over the course of the project into a curriculum for educating the next generation of scientists and engineers in the basics of measurement surveys and analyses of both RF noise and spectrum sharing. The HCRO-NRDZ team will disseminate research results on these topics to the NRDZ and Radio Astronomy communities.</li> </ul> <ul> <li><em>The regulatory domain:</em>&nbsp;Spectrum regulatory agencies in the U.S., the FCC and the NTIA, are grappling with spectrum sharing. HCRO-NRDZ will further the understanding of the trades involved in spectrum sharing. The studies, analyses, simulations, and experiments conducted by HCRO-NRDZ will inform the spectrum community and the regulatory agencies in the U.S. and abroad about the effectiveness of mechanisms for dynamic spectrum sharing and bi-lateral spectrum sharing. While focusing on mechanisms to protect RA facilities, the results from HCRO-NRDZ will inform more general interactions between spectrum-dependent systems.</li> </ul><br> <p>  Last Modified: 06/30/2024<br> Modified by: Kevin&nbsp;K&nbsp;Gifford</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Key Outcomes or Other Achievements:   Over the course of the NSF SWIFT project CU-Boulder, UC-Berkeley and the Hat Creek Radio Observatory have developed a strong working relationship with a focus on operational capabilities to eliminate satellite RFI impairments to radio astronomy observations. This relationship, and the associated operational technologies and capabilities, have led to the submission of HCRO as a candidate RDZ for the SII- NRDZ Field Trial 1 activity.   Key Outcomes include:    Established a strong commercial/research emphasis with WinnForum as the owners of the CBRS spectrum sharing standard. Established strong, and continuing, relationships with Google (Spectrum Access System, SAS) and Utah PAWR/POWDER (OpenZMS) to ensure HCRO operational systems can successfully interface for spectrum sharing with both commercial SAS and research-active ZMS implementations. Co--chairmanship and leadership of the WinnForum Passive and Active Spectrum Sharing (PASS) working group. Submitted 20 research articles for publication on the subject of spectrum sharing with emphasis on protecting RA facilities (see Products for specific publications). Formed collaboration with NRAO to define a common RA observation schedule for external, third-party entities, to facilitate spectrum sharing coordination via TARDyS4/ODS (ODS: Operational Data System format specification). Formed collaboration with SpaceX/StarLink to test and verify spectrum sharing with StarLink at the HCROfacilityand area. Formed collaboration with MIT-Haystack and NRAO to utilize and provide feedback to SOPP maturation and feature evolution. With MIT-Haystack S.O.P.P. is being evolved to (a) accommodate RA antenna sidelobe interference and (b) to predict anticipated satellite RFI interference levels.                  The specific impact of the NSF SWIFT project to date has demonstrated the feasibility of utilizing geospatial-temporal frequency sharing, local area environmental radio frequency characterization, and the knowledge of satellite orbital dynamics, antenna patterns, and satellite ground station location, to minimize terrestrially-induced and satellite-induced radio frequency interference (RFI) to Radio Astronomy scientific observations. A recent project activity is the adoption and deployment of a Zero Trust Architecture to provide network and operational security to a small research enterprise.   The spectrum sharing system enables radio astronomers to make observations outside the bands reserved for passive sensing and protects radio astronomy facilities from increasing interference from both commercial terrestrial wireless communications systems and from satellites.   By helping protect passive users, the project supports better scientific return from observatory investments.   By advancing the goal of secure, dynamic spectrum sharing between passive and active systems, the project supports the social and economic benefits that depend on continued growth in wireless usage.   By serving as a pathfinder for the National Radio Dynamic Zone concept, the project delivers lessons learned that can be used to enhance spectrum sharing for other sites and applications.   The Satellite Orbit Prediction Processor coupled with a geospatial-temporal spectrum zone management system minimizes satellite RFI for radio astronomy scientific observations.   Future impacts are expected to include coordination of bidirectional spectrum sharing with commercial wireless carriers and minimization of terrestrially-generated RFI from commercial wireless systems to Earth Observing Satellites.   The broad impact of the NSF SWIFT and HCRO-NRDZ projects will be felt in three primary domains: research and engineering, education and regulatory.  The research and engineering domain:HCRO-NRDZ has contributed data formats, datasets, analysis tools, and measurement survey processes to the greater community. In the future, RF noise and spectrum sharing will increasingly be of concern to academic researchers, engineers in government agencies, and engineers in the private sector. HCRO-NRDZ will also have an impact on the commercial sector, as the HCRO-NRDZ analyses and experiments on bi-lateral spectrum sharing will provide additional data and tools to organizations developing and deploying new systems that will be required to share spectrum. The results will improve the ability of radio astronomy to operate in environments with large amounts of radio frequency interference, particularly as RFI from satellite constellations increases.   The education domain:Over the foreseeable future, the demand for RF engineers and scientists is expected to increase. Similarly, issues with RF noise, wireless coexistence, and spectrum sharing will become more prevalent and more complex. HCRO-NRDZ has organized the best practices and lessons learned over the course of the project into a curriculum for educating the next generation of scientists and engineers in the basics of measurement surveys and analyses of both RF noise and spectrum sharing. The HCRO-NRDZ team will disseminate research results on these topics to the NRDZ and Radio Astronomy communities.   The regulatory domain:Spectrum regulatory agencies in the U.S., the FCC and the NTIA, are grappling with spectrum sharing. HCRO-NRDZ will further the understanding of the trades involved in spectrum sharing. The studies, analyses, simulations, and experiments conducted by HCRO-NRDZ will inform the spectrum community and the regulatory agencies in the U.S. and abroad about the effectiveness of mechanisms for dynamic spectrum sharing and bi-lateral spectrum sharing. While focusing on mechanisms to protect RA facilities, the results from HCRO-NRDZ will inform more general interactions between spectrum-dependent systems.      Last Modified: 06/30/2024       Submitted by: KevinKGifford]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

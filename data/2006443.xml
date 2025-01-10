@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AF: Small: Intermediate models between communication complexity and query complexity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Brass</SignBlockName>
+<PO_EMAI>pbrass@nsf.gov</PO_EMAI>
+<PO_PHON>7032922182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Communication complexity has been a vibrant sub-field of computer science for more than 40 years. At its core, it studies distributed problems, where each player receives a part of a problem, and the players need to cooperate and share information in order to find a solution. Many of the celebrated results in the field involve figuring out exactly how much communication is needed to solve certain concrete important problems with relevance in many other domains in computer science. On the other hand, there are only few techniques to understand general communication problems.&lt;br/&gt;&lt;br/&gt;This is in contrast with the situation in simpler computational models, notably query complexity. It is safe to say that today there is a complete qualitative, and to a large extent quantitative, understanding of the query complexity of generic problems. The focus of this project is on intermediate models, which interpolate between communication complexity and query complexity. The goal is to to understand fundamental open problems in communication complexity in these restricted models, in order to develop new tools and techniques that then may be extended to general communication complexity.&lt;br/&gt;&lt;br/&gt;The main questions in communication complexity that this award aims to tackle are:&lt;br/&gt;* Which functions admit efficient communication protocols?&lt;br/&gt;* Are there algebraic, analytic or combinatorial properties that characterize such functions?&lt;br/&gt;* What is the structure of efficient communication protocols?&lt;br/&gt;* What is the power of randomness in communication complexity?&lt;br/&gt;&lt;br/&gt;The plan is to consider these questions restricted to a special class of problems, called lifted functions. These contain many natural examples of well-studied functions, and also give rise to natural intermediate models, such as parity decision trees and AND decision trees. These models are more powerful than standard query complexity, and more structured than general communication complexity, and as such are an ideal test bed to develop new techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006443</AwardID>
+<Investigator>
+<FirstName>Shachar</FirstName>
+<LastName>Lovett</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shachar Lovett</PI_FULL_NAME>
+<EmailAddress><![CDATA[slovett@ucsd.edu]]></EmailAddress>
+<NSF_ID>000633060</NSF_ID>
+<StartDate>07/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress><![CDATA[9500 GILMAN DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>La Jolla</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930404</ZipCode>
+<StreetAddress><![CDATA[9500 Gilman drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>779600</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>797000</Code>
+<Text>Combinatorics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Communication complexity is a vibrant area of research within theoretical computer science. It studies several interacting parties who try to jointly solve a computational problem, with the goal of minimizing the communication between them. It has many applications to problems in computer science where one can identify a "communication bottleneck" preventing us from developing more efficient algorithms.</p> <p>There are many fundamental problems in communication complexity that we still do not understand, even after nearly 50 years of research since the model was introdcued. The most basic and famous one is the "log rank conjecture", which speculates that in the most basic setting (two parties, no randomness allowed) the best protocols correspond to the rank of an associated matrix. If this conjecture is true, it establishes a remarkable connection between linear algebra (used to compute the matrix rank) and protocols for communication problems. Alas, this conjecture has refuted many approches to attack it over the last several decades.</p> <p>In this project, we explore a special case of this conjecture for functions with special structure, called "AND functions" and "XOR functions". The benefit of studying these special functions is that it suggests an approach based on connections to another well established area in theoretical computer science, called "query complexity". This area is much better understood, and the hope is that we can leverage known results and techniques there towards the much more challenging area of communication complexity.</p> <p>I worked on several concrete problems related to this approach as part of the award with 3 PhD students. We had good success in one direction, where we proved a result getting very close to the desired conjecture for one such family of special functions, called "AND functions". There are still technical gaps in proving the full conjecture even in this special case, and a lot of the work has been on trying to find approached to close this gap.</p> <p>In another direction, we explored recent emerging techniques in additive combinatorics towards another special case, called "XOR functions". Here so far we were not able to prove anything notable, but it still seems to me to be a promising direction for future research. However, we are able to refutre several directions suggested in the literate towards this special case.</p> <p>I another direction, we explored whether these and related techniques in the study of (boolean) functions can help shed light on another well-studied conjecture in quantum computation, called the Aaronson-Ambainis conjecture. This conjecture shares some technical similarities to the log-rank conjecture. With a colleague we are able to make some progress on this conjecture; more concretely, prove certain structural properties on the functions underlying this conjecture.</p> <p>To summarize, the outcomes of this project helped the CS theory community to better understand the log-rank conjecture in some special cases, but there is still much more work to be done towards a full resolution of this conjecture.</p><br> <p>  Last Modified: 07/02/2024<br> Modified by: Shachar&nbsp;Lovett</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Communication complexity is a vibrant area of research within theoretical computer science. It studies several interacting parties who try to jointly solve a computational problem, with the goal of minimizing the communication between them. It has many applications to problems in computer science where one can identify a "communication bottleneck" preventing us from developing more efficient algorithms.   There are many fundamental problems in communication complexity that we still do not understand, even after nearly 50 years of research since the model was introdcued. The most basic and famous one is the "log rank conjecture", which speculates that in the most basic setting (two parties, no randomness allowed) the best protocols correspond to the rank of an associated matrix. If this conjecture is true, it establishes a remarkable connection between linear algebra (used to compute the matrix rank) and protocols for communication problems. Alas, this conjecture has refuted many approches to attack it over the last several decades.   In this project, we explore a special case of this conjecture for functions with special structure, called "AND functions" and "XOR functions". The benefit of studying these special functions is that it suggests an approach based on connections to another well established area in theoretical computer science, called "query complexity". This area is much better understood, and the hope is that we can leverage known results and techniques there towards the much more challenging area of communication complexity.   I worked on several concrete problems related to this approach as part of the award with 3 PhD students. We had good success in one direction, where we proved a result getting very close to the desired conjecture for one such family of special functions, called "AND functions". There are still technical gaps in proving the full conjecture even in this special case, and a lot of the work has been on trying to find approached to close this gap.   In another direction, we explored recent emerging techniques in additive combinatorics towards another special case, called "XOR functions". Here so far we were not able to prove anything notable, but it still seems to me to be a promising direction for future research. However, we are able to refutre several directions suggested in the literate towards this special case.   I another direction, we explored whether these and related techniques in the study of (boolean) functions can help shed light on another well-studied conjecture in quantum computation, called the Aaronson-Ambainis conjecture. This conjecture shares some technical similarities to the log-rank conjecture. With a colleague we are able to make some progress on this conjecture; more concretely, prove certain structural properties on the functions underlying this conjecture.   To summarize, the outcomes of this project helped the CS theory community to better understand the log-rank conjecture in some special cases, but there is still much more work to be done towards a full resolution of this conjecture.     Last Modified: 07/02/2024       Submitted by: ShacharLovett]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

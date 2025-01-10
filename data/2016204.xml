@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Electrokinetic Flow on Nanostructured Superhydrophilic and Superhydrophobic Surfaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>300476.00</AwardTotalIntnAmount>
+<AwardAmount>348054</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Electrokinetic flows result from the coupling of hydrodynamic and electrodynamic effects when aqueous electrolyte solutions (e.g., saline) are confined by solid surfaces with net surface charge. This electro-hydrodynamic phenomenon enables numerous engineering applications that range from water treatment and membrane-based separation processes, to energy storage and biomedical devices for drug delivery and diagnostics. Conventional models for electrokinetic flows do not properly account for nanoscale physical or chemical heterogeneities found on the surface of typical engineering materials or on advanced nanostructured materials. This project aims to develop a better fundamental understanding of electrokinetic flows on nanostructured surfaces that are superhydrophilic (i.e., strongly water-attracting) or superhydrophobic (i.e., strongly water-repelling). The knowledge gained will help in the development of key technologies for sustainable production of drinking water, food, and energy, and the design of more effective nanofluidic devices for analytical chemistry and biomedicine. Two educational initiatives will be created with this project; the “Fluid Dynamics Day at Stony Brook University” and “The Nanoscale Simulation Online School”. Research and educational activities in this project will have strong focus on the professional development and participation of underrepresented minorities in STEM, which include undergraduate and graduate students from low-income households.&lt;br/&gt;&lt;br/&gt;The objectives of this research will be pursued through three specific aims: (1) formulation of a compact hydrodynamic description valid for electrokinetic flows on superhydrophilic and superhydrophobic nanostructured surfaces, which will be validated against experimental data and molecular dynamics simulations; (2) experimental characterization of electrokinetic flows on superhydrophilic and superhydrophobic nanostructured surfaces, to determine steady-state electroosmotic and pressure-driven flow rates as a function of the nanostructure period and height for different pH and electrolyte concentration; and (3) fabrication of surface samples having well-controlled periods (30-130 nm) and heights (20-200 nm) to enable the planned experimental study. In addition, the ionic composition of the liquid-solid/vapor interfaces formed on the studied nanostructured surfaces will be probed by x-ray and IR spectroscopy to unambiguously establish the origin of the zeta potentials measured in the electrokinetic flow experiments.  The proposed work will provide answers to open questions such as the specific mechanisms for electroosmotic flow and zeta potential enhancement on different hydrophobic surfaces.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016204</AwardID>
+<Investigator>
+<FirstName>Carlos</FirstName>
+<LastName>Colosqui</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carlos E Colosqui</PI_FULL_NAME>
+<EmailAddress><![CDATA[CARLOS.COLOSQUI@STONYBROOK.EDU]]></EmailAddress>
+<NSF_ID>000656725</NSF_ID>
+<StartDate>04/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName>STONY BROOK</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress><![CDATA[W5510 FRANKS MELVILLE MEMORIAL L]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M746VC6XMNH9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M746VC6XMNH9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName>Stony Brook</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>117940001</ZipCode>
+<StreetAddress><![CDATA[WEST 5510 FRK MEL LIB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>150400</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300476</FUND_OBLG>
+<FUND_OBLG>2022~47578</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Project Overview and Motivation</strong></p> <p>The goal of this project was to investigate the behavior of electrokinetic flow in microchannels with nanostructured glass and silica surfaces and its potential technical applications. A primary motivation of this research is the growing interest in electrokinetic energy conversion, a process where mechanical energy from fluid movement is transformed into electrical energy. Such technology offers a clean, efficient alternative to traditional energy sources, relying on sustainable and abundant materials. The primary objective was to analyze how the zeta potential and electrical surface conduction could be controlled to influence electrokinetic flow. A key challenge lies in understanding how different factors, such as electrolyte concentration and surface topography, affect the zeta potential and surface conductivity. Our study explored a broad range of electrolyte concentrations, from very dilute (0.01 mM) to moderately concentrated solutions (10 mM), to evaluate diverse operating conditions for future devices.</p> <p><strong>Approach and Key Findings</strong></p> <p>In our experiments, we used microfluidic channels with glass and silica surfaces featuring natural and engineered nanoscale topographies. Water and NaCl solutions were introduced at various concentrations, and the pressure head and electrical potential difference generated by the flow were measured to characterize the electrokinetic response. Our findings revealed that at low ionic concentrations (below 0.1 mM), a form of electrical surface conductivity arising from an &ldquo;excess&rdquo; concentration of mobile charges at the liquid-solid interface plays a critical role. This &ldquo;excess&rdquo; surface conductivity effectively limits the maximum achievable streaming potential and, consequently, the energy conversion and charge separation efficiency. At these low concentrations, the surface conductivity does not decrease with ionic strength as expected; instead, it remains nearly constant. This phenomenon was particularly significant for conventional silica surfaces, which have been widely studied yet still presented surprising results in terms of persistently high surface conductivity observed in a microscale system.</p> <p><strong>Influence of Surface Topography on Surface Conductivity</strong></p> <p>To further understand the role of surface properties on surface conductivity, we explored both unmodified and engineered surfaces. Micro- and nanoscale surface topographies were introduced by fabricating channels with nanostructured surfaces and segmented sections. These engineered surfaces demonstrated a significant impact on the excess surface conductivity. By modifying the surface topography or introducing segmentation, we observed a substantial reduction in surface conductivity, indicating that surface topography influences the distribution and mobility of interfacial ions. The physical explanation for this lies in the fact that structured surfaces can alter the local electric double layer. Nanoscale topographic features modify how charges accumulate and interact at the interface, thereby reducing the effective surface conductivity. This finding indicates a promising approach: by tailoring surface topography, it may be possible to design microchannels optimized for energy conversion and charge separation for different electrolyte concentration conditions.</p> <p><strong>Theoretical Model and Analysis</strong></p> <p>In parallel with the experimental work, we performed molecular dynamics simulations and developed a compact analytical model to quantitatively describe electrokinetic phenomena at the liquid-solid interface. The analytical model incorporates the contributions of both bulk and surface conductivities, streaming voltages, and zeta potentials to capture the overall electrical response of the system under varying electrolyte concentrations. The model demonstrated close agreement with experimental data from our microfluidic experiments, confirming its validity for predicting electrokinetic behavior across a wide range of conditions. The analytical model developed provides insights into the relative impacts of surface properties, channel geometry, and ionic strength on electrokinetic flow properties, offering a valuable tool to guide the rational design of practical applications.</p> <p><strong>Implications for Electrokinetic Flow Devices</strong></p> <p>The findings from this project have several notable implications for the design of systems based on electrokinetic flows. First, we identified that maintaining a low ionic concentration is beneficial for maximizing pressure-voltage conversion, but only if surface conductivity can be controlled. High surface conductivity at low ionic strength hinders the streaming potential, which is critical for efficient energy conversion and charge separation. Second, the results emphasize that surface engineering can be an effective strategy to enhance performance. By manipulating surface topography on the micro- or nanoscale, it is possible to lower excess surface conductivity and thereby improve pressure-voltage conversion.</p> <p><strong>Conclusion and Future Directions</strong></p> <p>In conclusion, this study advances the understanding of electrokinetic flow in microfluidic systems and offers practical strategies for improving energy conversion and separation efficiency. The persistent excess surface conductivity observed on silica surfaces at low ionic concentrations suggests that even simple surface modifications could yield significant performance benefits. Our findings support the potential of engineered surfaces to lower surface conductivity, enabling better control over the energy conversion process. Future work will focus on refining surface engineering techniques, such as developing scalable methods to fabricate nanostructured surfaces in microchannels. Additionally, extending the model to account for dynamic changes in ionic strength and flow rates would provide a more comprehensive framework for designing real-world electrokinetic devices.</p><br> <p>  Last Modified: 11/06/2024<br> Modified by: Carlos&nbsp;E&nbsp;Colosqui</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Overview and Motivation   The goal of this project was to investigate the behavior of electrokinetic flow in microchannels with nanostructured glass and silica surfaces and its potential technical applications. A primary motivation of this research is the growing interest in electrokinetic energy conversion, a process where mechanical energy from fluid movement is transformed into electrical energy. Such technology offers a clean, efficient alternative to traditional energy sources, relying on sustainable and abundant materials. The primary objective was to analyze how the zeta potential and electrical surface conduction could be controlled to influence electrokinetic flow. A key challenge lies in understanding how different factors, such as electrolyte concentration and surface topography, affect the zeta potential and surface conductivity. Our study explored a broad range of electrolyte concentrations, from very dilute (0.01 mM) to moderately concentrated solutions (10 mM), to evaluate diverse operating conditions for future devices.   Approach and Key Findings   In our experiments, we used microfluidic channels with glass and silica surfaces featuring natural and engineered nanoscale topographies. Water and NaCl solutions were introduced at various concentrations, and the pressure head and electrical potential difference generated by the flow were measured to characterize the electrokinetic response. Our findings revealed that at low ionic concentrations (below 0.1 mM), a form of electrical surface conductivity arising from an excess concentration of mobile charges at the liquid-solid interface plays a critical role. This excess surface conductivity effectively limits the maximum achievable streaming potential and, consequently, the energy conversion and charge separation efficiency. At these low concentrations, the surface conductivity does not decrease with ionic strength as expected; instead, it remains nearly constant. This phenomenon was particularly significant for conventional silica surfaces, which have been widely studied yet still presented surprising results in terms of persistently high surface conductivity observed in a microscale system.   Influence of Surface Topography on Surface Conductivity   To further understand the role of surface properties on surface conductivity, we explored both unmodified and engineered surfaces. Micro- and nanoscale surface topographies were introduced by fabricating channels with nanostructured surfaces and segmented sections. These engineered surfaces demonstrated a significant impact on the excess surface conductivity. By modifying the surface topography or introducing segmentation, we observed a substantial reduction in surface conductivity, indicating that surface topography influences the distribution and mobility of interfacial ions. The physical explanation for this lies in the fact that structured surfaces can alter the local electric double layer. Nanoscale topographic features modify how charges accumulate and interact at the interface, thereby reducing the effective surface conductivity. This finding indicates a promising approach: by tailoring surface topography, it may be possible to design microchannels optimized for energy conversion and charge separation for different electrolyte concentration conditions.   Theoretical Model and Analysis   In parallel with the experimental work, we performed molecular dynamics simulations and developed a compact analytical model to quantitatively describe electrokinetic phenomena at the liquid-solid interface. The analytical model incorporates the contributions of both bulk and surface conductivities, streaming voltages, and zeta potentials to capture the overall electrical response of the system under varying electrolyte concentrations. The model demonstrated close agreement with experimental data from our microfluidic experiments, confirming its validity for predicting electrokinetic behavior across a wide range of conditions. The analytical model developed provides insights into the relative impacts of surface properties, channel geometry, and ionic strength on electrokinetic flow properties, offering a valuable tool to guide the rational design of practical applications.   Implications for Electrokinetic Flow Devices   The findings from this project have several notable implications for the design of systems based on electrokinetic flows. First, we identified that maintaining a low ionic concentration is beneficial for maximizing pressure-voltage conversion, but only if surface conductivity can be controlled. High surface conductivity at low ionic strength hinders the streaming potential, which is critical for efficient energy conversion and charge separation. Second, the results emphasize that surface engineering can be an effective strategy to enhance performance. By manipulating surface topography on the micro- or nanoscale, it is possible to lower excess surface conductivity and thereby improve pressure-voltage conversion.   Conclusion and Future Directions   In conclusion, this study advances the understanding of electrokinetic flow in microfluidic systems and offers practical strategies for improving energy conversion and separation efficiency. The persistent excess surface conductivity observed on silica surfaces at low ionic concentrations suggests that even simple surface modifications could yield significant performance benefits. Our findings support the potential of engineered surfaces to lower surface conductivity, enabling better control over the energy conversion process. Future work will focus on refining surface engineering techniques, such as developing scalable methods to fabricate nanostructured surfaces in microchannels. Additionally, extending the model to account for dynamic changes in ionic strength and flow rates would provide a more comprehensive framework for designing real-world electrokinetic devices.     Last Modified: 11/06/2024       Submitted by: CarlosEColosqui]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Reverse engineering methods for elucidating the molecular assembly mechanisms of thermoresponsive peptide-based conjugates: computation and experiment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>518481.00</AwardTotalIntnAmount>
+<AwardAmount>518481</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rohit Ramachandran</SignBlockName>
+<PO_EMAI>rramacha@nsf.gov</PO_EMAI>
+<PO_PHON>7032927258</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nanostructures assembled from thermoresponsive synthetic and biological polymers are widely applicable as sensors, electronic devices, molecular machines, drug delivery systems, and matrices for tissue engineering. The design features of these polymers, such as molecular composition, sequence, molecular weight, and aqueous solution concentration, permit tuning of the temperature at which phase transitions take place. Furthermore, it has been demonstrated that conjugates of thermoresponsive polymers provide a means of encoding dual thermal transitions; this multi-temperature responsiveness can be used to direct the assembly and disassembly of nanostructures at specific temperatures, increasing their potential range of applications. However, there is a lack of fundamental understanding of how the molecular design of these thermoresponsive conjugates affects the molecular interactions that drive the multi-step nanostructural assembly and disassembly processes. Developing such an understanding is key to expanding thermoresponsive nanostructures in applications such as biochemical sensors, actuation, molecular cargo (e.g., drug) delivery, and spatiotemporally controlled catalysis. The ability to characterize conjugates during nanostructure (dis)assembly using small-angle X-ray and neutron scattering coupled to advanced computational methods for analyzing the scattering results will provide transformative opportunities in molecular design.&lt;br/&gt;&lt;br/&gt;The overarching objective of this proposal is to develop new approaches to interrogate molecular interactions, packing, and dynamics during the assembly and disassembly of technologically useful thermoresponsive conjugates. The research team has introduced dually thermoresponsive elastin-like peptide conjugates tethered to rod-like, oligomeric peptide domains. These molecules will be synthesized and characterized via X-ray and neutron scattering and microscopy. Experiments will be coupled to a new, coarse-grained model and simulations that will predict structural transitions with varying temperature for a range of molecular designs of the peptide conjugates. Temperature-controlled small-angle scattering experiments will probe structures at various temperatures in the assembly pathway. The intermediate structures, and potentially the final assembled structures, will not necessarily obey canonical structure and form factors, thus new computational methods that will elucidate the molecular underpinnings of the assembly process will be developed. The proposed work will leverage the knowledge gained from previous successful collaborations between the senior members of the research team. Interdisciplinary training of students in experiments and simulations will be enriched through this collaboration; the technical advances made through the proposed work will be integrated into the classroom. The researchers will build on their historical commitment in recruitment and retention of students from under-represented minority groups, contributing to curricula and outreach from the secondary through graduate levels.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2023668</AwardID>
+<Investigator>
+<FirstName>Kristi</FirstName>
+<LastName>Kiick</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kristi L Kiick</PI_FULL_NAME>
+<EmailAddress><![CDATA[kiick@udel.edu]]></EmailAddress>
+<NSF_ID>000226716</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arthi</FirstName>
+<LastName>Jayaraman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arthi Jayaraman</PI_FULL_NAME>
+<EmailAddress><![CDATA[arthij@udel.edu]]></EmailAddress>
+<NSF_ID>000516695</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197131324</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress><![CDATA[550 S COLLEGE AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>Newark</CityName>
+<StateCode>DE</StateCode>
+<ZipCode>197162553</ZipCode>
+<StreetAddress><![CDATA[210 Hullihen Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>140300</Code>
+<Text>Proc Sys, Reac Eng &amp; Mol Therm</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1403</Code>
+<Text>PROCESS &amp; REACTION ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~518481</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="Equation"><strong>Award <strong>2023668</strong></strong></p>  <p class="Equation"><strong>Reverse engineering methods for elucidating the molecular assembly mechanisms of thermoresponsive peptide-based conjugates: computation and experiment</strong></p>  <p><strong>PI: Arthi Jayaraman co-PI: Kristi Kiick</strong></p>  <p><strong>Project Outcomes</strong></p>  <p>Nanostructures assembled from thermoresponsive polymers have been widely employed for decades in sensors, actuators, and drug delivery vehicles in biomedical applications. Specifically, thermoresponsive synthetic polymers, such as poly(N-isopropyl acrylamide (PNIPAAM)), and biological molecules, such as elastin-like polypeptides (<strong>ELP</strong>s), which undergo lower critical solution temperature (LCST) phase behavior in aqueous solutions, have been extensively studied for these applications. Various design features of these polymers (e.g., molecular composition, sequence, molecular weight, concentration) permit tuning of the LCST phase transitions. This project builds off of our past work where we demonstrated that conjugation of ELPs to collagen-like peptides (<strong>CLP</strong>s) that exhibit melting/dissociation phase transitions provides a way to encode <em>dual</em> thermal transitions into &ldquo;diblock&rdquo; ELP-CLP polymers. Further, this dual temperature responsiveness was used to direct the assembly and disassembly of nanostructures at specific temperatures.<strong> </strong>This project tackled the next set of questions relating the molecular design of these thermoresponsive conjugates, their molecular structure, and the interactions, to the stages of multi-step nanostructural assembly and disassembly. We elucidated how the molecular features of ELP and CLP impact their interactions, packing, and dynamics within the ELP-domain and CLP domain both with and without drug loading.</p>  <p>Members in the labs of <strong>PI Arthi Jayaraman</strong> and <strong>co-PI Kristi Kiick</strong> conducted synergistic computational and experimental work to elucidate ELP-CLP conjugates assembly into nanostructures and describe effects of drug loading on the assembled structure shapes and sizes.</p>  <p><strong>Kiick</strong> lab members &ndash; Haofu Huang and Sirui Shen - synthesized different ELP-CLP designs and used a suite of characterization techniques - <sup>1</sup>H NMR, HPLC, DLS, TEM (with their in-house characterization facilities), and small-angle scattering (in collaboration with Brookhaven National Lab) &ndash; to identify transition temperatures of the ELP and CLP domains and shapes of the ELP-CLP assembled structures. These structures were characterized both without any drugs and with drug loading; the three drugs they considered were dexamethasone, doxorubicin, and methotrexate. To complement these experiments, <strong>Jayaraman</strong> lab members &ndash; Zijie Wu and Erik Anderson - simulated ELP-CLP vesicles with drugs using coarse-grained models and quantified where the drugs situate themselves within the vesicle wall as a function of the hydrophilicity or hydrophobicity of generic drugs and the drug loading. To tailor the interactions of the generic drugs to more specifically mimic the three drugs that <strong>Kiick</strong> lab members use, Jayaraman lab member (senior student Nina Borodin) used umbrella sampling to calculate potential of mean force to quantify effective interactions between the three drugs and ELP and CLP domains.</p>  <p><strong>Jayaraman</strong> lab members &ndash; Zijie Wu and Ziyu Ye - developed an extension of Computational Reverse-Engineering Analysis of Scattering Experiments (CREASE) approach to interpret scattering results from vesicle structures assembled from amphiphilic macromolecular solutions, with a focus on the ELP-CLP conjugates systems synthesized in the Kiick lab. With machine learning enhancement, CREASE is able to quantify the polydispersity in vesicle dimensions and enable analysis in such conditions where analytical models fail to fit the scattering data correctly. This CREASE (open-source) codes and vesicle-specific tutorials were shared on the Jayaraman lab github page as well as through an online workshop that Jayaraman and two graduate students from her lab directed in Fall 2022, it was attended by various members of the soft materials community who use scattering for characterization.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/16/2024<br> Modified by: Arthi&nbsp;Jayaraman</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Award 2023668    Reverse engineering methods for elucidating the molecular assembly mechanisms of thermoresponsive peptide-based conjugates: computation and experiment    PI: Arthi Jayaraman co-PI: Kristi Kiick    Project Outcomes    Nanostructures assembled from thermoresponsive polymers have been widely employed for decades in sensors, actuators, and drug delivery vehicles in biomedical applications. Specifically, thermoresponsive synthetic polymers, such as poly(N-isopropyl acrylamide (PNIPAAM)), and biological molecules, such as elastin-like polypeptides (ELPs), which undergo lower critical solution temperature (LCST) phase behavior in aqueous solutions, have been extensively studied for these applications. Various design features of these polymers (e.g., molecular composition, sequence, molecular weight, concentration) permit tuning of the LCST phase transitions. This project builds off of our past work where we demonstrated that conjugation of ELPs to collagen-like peptides (CLPs) that exhibit melting/dissociation phase transitions provides a way to encode dual thermal transitions into diblock ELP-CLP polymers. Further, this dual temperature responsiveness was used to direct the assembly and disassembly of nanostructures at specific temperatures. This project tackled the next set of questions relating the molecular design of these thermoresponsive conjugates, their molecular structure, and the interactions, to the stages of multi-step nanostructural assembly and disassembly. We elucidated how the molecular features of ELP and CLP impact their interactions, packing, and dynamics within the ELP-domain and CLP domain both with and without drug loading.    Members in the labs of PI Arthi Jayaraman and co-PI Kristi Kiick conducted synergistic computational and experimental work to elucidate ELP-CLP conjugates assembly into nanostructures and describe effects of drug loading on the assembled structure shapes and sizes.    Kiick lab members  Haofu Huang and Sirui Shen - synthesized different ELP-CLP designs and used a suite of characterization techniques - 1H NMR, HPLC, DLS, TEM (with their in-house characterization facilities), and small-angle scattering (in collaboration with Brookhaven National Lab)  to identify transition temperatures of the ELP and CLP domains and shapes of the ELP-CLP assembled structures. These structures were characterized both without any drugs and with drug loading; the three drugs they considered were dexamethasone, doxorubicin, and methotrexate. To complement these experiments, Jayaraman lab members  Zijie Wu and Erik Anderson - simulated ELP-CLP vesicles with drugs using coarse-grained models and quantified where the drugs situate themselves within the vesicle wall as a function of the hydrophilicity or hydrophobicity of generic drugs and the drug loading. To tailor the interactions of the generic drugs to more specifically mimic the three drugs that Kiick lab members use, Jayaraman lab member (senior student Nina Borodin) used umbrella sampling to calculate potential of mean force to quantify effective interactions between the three drugs and ELP and CLP domains.    Jayaraman lab members  Zijie Wu and Ziyu Ye - developed an extension of Computational Reverse-Engineering Analysis of Scattering Experiments (CREASE) approach to interpret scattering results from vesicle structures assembled from amphiphilic macromolecular solutions, with a focus on the ELP-CLP conjugates systems synthesized in the Kiick lab. With machine learning enhancement, CREASE is able to quantify the polydispersity in vesicle dimensions and enable analysis in such conditions where analytical models fail to fit the scattering data correctly. This CREASE (open-source) codes and vesicle-specific tutorials were shared on the Jayaraman lab github page as well as through an online workshop that Jayaraman and two graduate students from her lab directed in Fall 2022, it was attended by various members of the soft materials community who use scattering for characterization.         Last Modified: 12/16/2024       Submitted by: ArthiJayaraman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Measurements of Midlatitude Thermospheric Dynamics and Temperature]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>420807.00</AwardTotalIntnAmount>
+<AwardAmount>420807</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020201</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Roman Makarevich</SignBlockName>
+<PO_EMAI>rmakarev@nsf.gov</PO_EMAI>
+<PO_PHON>7032927207</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will continue the measurements of winds and temperatures in the thermosphere (a region of atmosphere between about 80 km to 600 km above sea level) at Arecibo Observatory, Puerto Rico (started in 1980) and at Haystack Observatory, Massachusetts (started in 1989) using a highly sensitive instrument called Fabry-Perot interferometers (FPIs).  The two observatories have two powerful radar systems called Incoherent Scatter Radars (ISRs) that can measure the ionized part of the atmosphere in the same region (also called ionosphere).  Combination of such measurements are needed for realistic, physics-based modeling of the thermosphere-ionosphere system, and for effective forecasting of Space Weather.&lt;br/&gt;&lt;br/&gt;This FPIs used at Haystack Observatory and Arecibo Observatory are dual-beam imaging systems sampling the OI 6300Å (red) and 5577Å (green) airglow emissions with spectral resolutions that resolve the Doppler shift associated with the bulk flow of neutral species in the thermosphere. The data products include airglow brightness, temperature, line-of-sight wind velocity, meridional and zonal components of the wind velocity and velocity gradients at the nominal emission altitudes of 240 km and 97 km. 200-300 nights of data will be generated each year during this three-year project. This initiative maintains the FPIs, performs the observations, analyses the data, and posts the data in the public Madrigal data base each morning after data collection stops. &lt;br/&gt;&lt;br/&gt;New and archived data (since 1980 at Arecibo Observatory and 1989 at Haystack Observatory) will be used to achieve four scientific goals: 1) Test the validity of vertical winds measured with a monostatic FPI by performing a bistatic experiment to unambiguously isolate the vertical wind vector. 2) Gather hundreds of vertical wind measurements each month (past and future) and establish monthly velocity versus local time empirical models from polynomial fits to the data. 3) Investigate whether a long-term rotation of the average F-region wind vector detected in the years 1980-2010 continues from 2011-2023. If so, the long-term migration of the magnetic field orientation will be evaluated as a possible cause. 4) Evaluate a possible correlation between the Midnight Temperature Maximum and strong, upward vertical winds in the F-region thermosphere.   A fifth project goal is an operational objective to establish real-time data product reporting for operational Space Weather forecasting.&lt;br/&gt;&lt;br/&gt;This research enhances infrastructures for research and education.  The FPIs are available for community use at the facilities, and users can design and perform independent experiments.  In addition, accurate and accessible (even in real-time) neutral wind measurements are an essential data element in responding to the challenge of Space Weather forecasting, which carries significant potential for broad societal benefit in the context of situational awareness for space-based navigation and communication assets.  The instruments maintained by this project are also commonly used for projects in the vigorous Research Experience for Undergraduates programs at each facility.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2030679</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Noto</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John Noto</PI_FULL_NAME>
+<EmailAddress><![CDATA[noto@cpi.com]]></EmailAddress>
+<NSF_ID>000152432</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Kerr</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert B Kerr</PI_FULL_NAME>
+<EmailAddress><![CDATA[rkerr@cpi.com]]></EmailAddress>
+<NSF_ID>000274111</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Computational Physics Inc]]></Name>
+<CityName>SPRINGFIELD</CityName>
+<ZipCode>221512115</ZipCode>
+<PhoneNumber>7037647501</PhoneNumber>
+<StreetAddress><![CDATA[8001 BRADDOCK RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>URK6XKBVSMU8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COMPUTATIONAL PHYSICS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Computational Physics Inc. - New England]]></Name>
+<CityName>North Chelmsford</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>018631570</ZipCode>
+<StreetAddress><![CDATA[55 Middlesex Street, Suite 210]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>152100</Code>
+<Text>AERONOMY</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~420807</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The nature of radio wave propagation in the ionosphere is critical to modern communication and navigation systems, and the ionosphere is a weak plasma embedded in the much denser neutral thermosphere.&nbsp; Winds and temperatures in the neutral thermosphere redistribute ionospheric plasma in ways that can alter and disrupt radio wave propagation.&nbsp; This project uses instruments in Westford, MA and Arecibo PR to sample the wind-driven Doppler shifts and temperatures of nighttime spectral emissions from the thermosphere. Winds and temperatures have been measured nightly for three years, with data generated on more than 90% of the nights at each site.&nbsp; This measurement archive is valuable context for many research initiatives in the upper atmosphere, and has produced multiple specific new outcomes:&nbsp;</p> <p>-&nbsp; Wind and temperature data from the neutral thermosphere now extends from 1989-2024 (not including 2003-2008) at the Massachusetts site, and from 1980-2023 (not including 2010 and 2011) at the Puerto Rico site. The processed data are publicly available from the CEDAR Madrigal datgabase. This is the longest and most precise database of thermospheric weather available to space physics researchers.</p> <p>-&nbsp; This research has established an ideal instrument design for avoiding insidious spectral contamination of similar data being acquired world-wide and permitting cogent data comparisons between these sites.&nbsp;</p> <p>-&nbsp; Project measurements demonstrate that vertical winds in the thermosphere are commonly in a domain of +/- 20 m/s, indicating that the thermosphere is generally outside of hydrostatic equilibrium with motions driven by wave activity from the atmosphere below.</p> <p>-&nbsp; Retrieval of processed wind and temperature data from a web-based source in &ldquo;real-time&rdquo; is achieved and available for the Massachusetts site.&nbsp; This outcome deposits data to the web within three minutes following completion of the raw measurement, and can be useful for operational Space Weather forecasting and &ldquo;nowcasting&rdquo;.</p> <p>-&nbsp; Climatology of the meridional and zonal components of the horizontal (parallel to the earth surface) neutral wind in the thermosphere and of the vertical neutral wind are now available from 2013-2022 at these sites.&nbsp; Monthly and seasonal variations demonstrate that a non-migrating (not solar triggered) tidal component strongly modulates the horizontal neutral winds, and is especially evident during low solar activity.&nbsp;</p> <p>Idealized instrument design and the establishment of thermospheric wind and temperature database are important broader impacts of this project that generally improve the data quality and applicability for Space Physics for years of research to come.&nbsp; The demonstrated ability to supply real-time neutral winds and temperatures for operational Space Weather forecasting is also a significant broader impact of this project.&nbsp; The specific finding of strong vertical winds in the thermosphere challenges the general perception of hydrostatic equilibrium in this atmospheric region, and has significant intellectual merit.&nbsp; The recognition of specific tidal influences in the climatology of thermospheric winds is also an important finding.&nbsp;</p><br> <p>  Last Modified: 06/27/2024<br> Modified by: Robert&nbsp;B&nbsp;Kerr</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The nature of radio wave propagation in the ionosphere is critical to modern communication and navigation systems, and the ionosphere is a weak plasma embedded in the much denser neutral thermosphere. Winds and temperatures in the neutral thermosphere redistribute ionospheric plasma in ways that can alter and disrupt radio wave propagation. This project uses instruments in Westford, MA and Arecibo PR to sample the wind-driven Doppler shifts and temperatures of nighttime spectral emissions from the thermosphere. Winds and temperatures have been measured nightly for three years, with data generated on more than 90% of the nights at each site. This measurement archive is valuable context for many research initiatives in the upper atmosphere, and has produced multiple specific new outcomes:   - Wind and temperature data from the neutral thermosphere now extends from 1989-2024 (not including 2003-2008) at the Massachusetts site, and from 1980-2023 (not including 2010 and 2011) at the Puerto Rico site. The processed data are publicly available from the CEDAR Madrigal datgabase. This is the longest and most precise database of thermospheric weather available to space physics researchers.   - This research has established an ideal instrument design for avoiding insidious spectral contamination of similar data being acquired world-wide and permitting cogent data comparisons between these sites.   - Project measurements demonstrate that vertical winds in the thermosphere are commonly in a domain of +/- 20 m/s, indicating that the thermosphere is generally outside of hydrostatic equilibrium with motions driven by wave activity from the atmosphere below.   - Retrieval of processed wind and temperature data from a web-based source in real-time is achieved and available for the Massachusetts site. This outcome deposits data to the web within three minutes following completion of the raw measurement, and can be useful for operational Space Weather forecasting and nowcasting.   - Climatology of the meridional and zonal components of the horizontal (parallel to the earth surface) neutral wind in the thermosphere and of the vertical neutral wind are now available from 2013-2022 at these sites. Monthly and seasonal variations demonstrate that a non-migrating (not solar triggered) tidal component strongly modulates the horizontal neutral winds, and is especially evident during low solar activity.   Idealized instrument design and the establishment of thermospheric wind and temperature database are important broader impacts of this project that generally improve the data quality and applicability for Space Physics for years of research to come. The demonstrated ability to supply real-time neutral winds and temperatures for operational Space Weather forecasting is also a significant broader impact of this project. The specific finding of strong vertical winds in the thermosphere challenges the general perception of hydrostatic equilibrium in this atmospheric region, and has significant intellectual merit. The recognition of specific tidal influences in the climatology of thermospheric winds is also an important finding.     Last Modified: 06/27/2024       Submitted by: RobertBKerr]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Combustion Behavior of Hydrochars from Wet Biomass]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>271309.00</AwardTotalIntnAmount>
+<AwardAmount>271309</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harsha Chelliah</SignBlockName>
+<PO_EMAI>hchellia@nsf.gov</PO_EMAI>
+<PO_PHON>7032927281</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Carbon-based waste from everyday sources, like landfills, agricultural processes, wastewater treatment, and more, are typically “wet” wastes, which makes them difficult to convert to biofuels using traditional methods. This work focuses on a process called “hydrothermal carbonization” (HTC), which converts these already wet bio-materials into high-grade fuels, which is both more efficient and cost effective than typical methods. The resultant fuel is known as “hydrochar,” a carbon-condensed solid often referred to as bio-coal for its “coal-like” properties. Compared to coal combustion, hydrochars emit fewer hazardous air pollutants and have a near net-zero CO2 impact. During the formation of these hydrochars, however, a tar-like substance forms on the surface, which initial research suggests could significantly change their combustion behavior. The goal of this work is two-fold: first, understand the formation pathways and chemical composition of the tar-like substance and second, understand the impact that the tar-like substance has on important combustion behaviors like ignition and particle burn-out. The work will include a close collaboration between different fields, bringing the fields of fuel synthesis and combustion closer through carefully-designed experiments. Significant outreach to both technical communities and the industries they support will support the adoption of hydrochars as a replacement for coal in energy production. The ability to use such renewable solid fuels for energy generation can help mitigate climate change and transform the U.S. into a green energy exporter and job opportunity creator. To fill such high-tech positions, we need a diverse workforce; the PIs – tenure-track female professors at Cornell and Penn State – both have strong track records training students from under-represented groups. At least two graduate and two undergraduate students will be trained on this project.&lt;br/&gt;&lt;br/&gt;Hydrothermal carbonization is widely touted for its ability to transform moist biomass streams into renewable solid fuels that could be used as replacements for coal in energy generation. Despite the potential benefits of HTC for waste management, a reactive amorphous secondary char often forms on the surface of the solid hydrochar during carbonization. This secondary char may hamper the ability of these “bio-coals” to be used as drop-in fuels for combustion due to the drastically different reactivity of the secondary char. To date, the renewable fuels literature characterizes hydrochars only through thermogravimetric analysis of rapid oxidation, not true combustion behavior. As such, we know little about their combustion behavior, relying only on basic fuel characterizations to gauge this renewable solid fuel’s potential. The goal of the work – the first study of its kind – is to understand the fundamental combustion behavior of biomass-based hydrochars, a solid fuel with unique burning characteristics. The work will improve our fundamental understanding of (1) the mechanisms of hydrothermal carbonization and (2) the combustion behavior of renewable solid fuels with condensed tarry phases. A key broader impact of the proposed work is to rigorously connect two (surprisingly) disparate fields – Renewable Fuel Science and Combustion Science. The closely-coupled work between the PIs will provide not only a scientific foundation for linking these two communities, but the PIs will actively participate in each other’s research communities to bridge the gap. The PIs will work with an HTC technology development firm to disseminate information to the designers of large-scale HTC processing equipment and potential customers interested in firing hydrochars for energy generation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031710</AwardID>
+<Investigator>
+<FirstName>Jacqueline</FirstName>
+<LastName>O'Connor</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jacqueline A O'Connor</PI_FULL_NAME>
+<EmailAddress><![CDATA[jxo22@psu.edu]]></EmailAddress>
+<NSF_ID>000664463</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName/>
+<StateCode>PA</StateCode>
+<ZipCode>168027000</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF>PA"</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>140700</Code>
+<Text>CFS-Combustion &amp; Fire Systems</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~271309</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Biomass combustion is an interim solution to increasing the share of renewable fuels in energy-generation portfolios. However, raw biomass has a lower heating value, higher ash content, and higher reactivity than conventional solid fuels such as coal. This results in: lower particle ignition and burnout temperatures; flame instability; loss of steam generation efficiency; and potential fouling, slagging, and corrosion of surfaces. Hydrothermal carbonization (HTC) is an economical method to convert wet biomass waste streams, including food, dairy, brewery, sludge, and digester wastes, to hydrochar, a carbon-condensed solid often referred to as bio-coal for its &ldquo;coal-like&rdquo; properties. Despite these potential benefits of converting problematic wet wastes into solid fuels via HTC, a reactive amorphous secondary char forms on the surface of the solid hydrochar during the HTC process. This secondary char may hamper the ability of these biomass-based &ldquo;substitute coals&rdquo; to be used as drop-in fuels for combustion due to the drastically different reactivity of the secondary char, which could alter key combustor operability characteristics. The goal of this work was to first determine the driving factors (biomass composition, HTC processing conditions) behind hydrochar characteristics that influence (a) combustion properties (composition, heating value, surface area/porosity, reactivity) and (b) secondary char formation. Second, understand the combustion behavior, from devolatilization to ignition through burn-out, of solid hydrochars both (a) as-carbonized and (b) following secondary char extraction. And finally, develop relationships between thermal analysis studies commonly performed in the fuel science literature and true combustion properties for this new class of solid biofuels. These goals were achieved through a close collaboration between researchers at Penn State and Cornell University.</p>  <p>&nbsp;</p>  <p>We used several simultaneous diagnostics to characterize the combustion process of hydrochars, including CH* chemiluminescence to indicate combustion, particle image velocimetry (PIV) to provide information on particle velocity so that timescales like ignition delay time and burnout time could be extracted from combustion imaging, and two-color pyrometry to identify the occurrence of surface burning of the chars. These techniques were applied to a Hencken burner experiment where the surrounding gas temperature and oxygen concentration could be varied independently, allowing for characterization of fundamental ignition and combustion processes for a range of chars. Several fuels were characterized in this way, including raw cellulose, several cellulose-based hydrochars and their primary chars, and hydrochars made from realistic feedstocks, including food waste, cow manure, and municipal solid waste. In all these cases, the removal of secondary char delayed ignition of the chars, as the secondary char was highly volatile and accelerated the initial devolatilization and ignition phases of combustion for each of the materials. Comparisons between the hydrochar combustion results and those from Illinois #6 coal were used to understand the potential applicability of these materials to industrial systems.</p>  <p>&nbsp;</p>  <p>One of the most important outcomes of this work was the development of methods for connecting the results of combustion experiments and thermogravimetric analysis (TGA), which is a commonly used diagnostic in the fuel science community that provides highly accurate and repeatable information about thermal degradation and oxidation of materials. However, the heating timescales in a TGA experiment are orders of magnitude slower than those in a combustion experiment, and so results of the two must be compared carefully. The team developed several ways to use results from TGA to interpret combustion results, providing a fuller understanding of hydrochar combustion properties. The two technical communities &ndash; combustion and fuel science &ndash; were brought together in other ways throughout the project, including guest lectures in the PIs courses, a book chapter written by PI Goldfarb in a book on renewable fuels edited by PI O&rsquo;Connor, and PI Goldfarb&rsquo;s plenary lecture at the 2024 Spring Technical Meeting of the Eastern States Section of the Combustion Institute on renewable fuel synthesis.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/14/2024<br> Modified by: Jacqueline&nbsp;A&nbsp;O'connor</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Biomass combustion is an interim solution to increasing the share of renewable fuels in energy-generation portfolios. However, raw biomass has a lower heating value, higher ash content, and higher reactivity than conventional solid fuels such as coal. This results in: lower particle ignition and burnout temperatures; flame instability; loss of steam generation efficiency; and potential fouling, slagging, and corrosion of surfaces. Hydrothermal carbonization (HTC) is an economical method to convert wet biomass waste streams, including food, dairy, brewery, sludge, and digester wastes, to hydrochar, a carbon-condensed solid often referred to as bio-coal for its coal-like properties. Despite these potential benefits of converting problematic wet wastes into solid fuels via HTC, a reactive amorphous secondary char forms on the surface of the solid hydrochar during the HTC process. This secondary char may hamper the ability of these biomass-based substitute coals to be used as drop-in fuels for combustion due to the drastically different reactivity of the secondary char, which could alter key combustor operability characteristics. The goal of this work was to first determine the driving factors (biomass composition, HTC processing conditions) behind hydrochar characteristics that influence (a) combustion properties (composition, heating value, surface area/porosity, reactivity) and (b) secondary char formation. Second, understand the combustion behavior, from devolatilization to ignition through burn-out, of solid hydrochars both (a) as-carbonized and (b) following secondary char extraction. And finally, develop relationships between thermal analysis studies commonly performed in the fuel science literature and true combustion properties for this new class of solid biofuels. These goals were achieved through a close collaboration between researchers at Penn State and Cornell University.        We used several simultaneous diagnostics to characterize the combustion process of hydrochars, including CH* chemiluminescence to indicate combustion, particle image velocimetry (PIV) to provide information on particle velocity so that timescales like ignition delay time and burnout time could be extracted from combustion imaging, and two-color pyrometry to identify the occurrence of surface burning of the chars. These techniques were applied to a Hencken burner experiment where the surrounding gas temperature and oxygen concentration could be varied independently, allowing for characterization of fundamental ignition and combustion processes for a range of chars. Several fuels were characterized in this way, including raw cellulose, several cellulose-based hydrochars and their primary chars, and hydrochars made from realistic feedstocks, including food waste, cow manure, and municipal solid waste. In all these cases, the removal of secondary char delayed ignition of the chars, as the secondary char was highly volatile and accelerated the initial devolatilization and ignition phases of combustion for each of the materials. Comparisons between the hydrochar combustion results and those from Illinois #6 coal were used to understand the potential applicability of these materials to industrial systems.        One of the most important outcomes of this work was the development of methods for connecting the results of combustion experiments and thermogravimetric analysis (TGA), which is a commonly used diagnostic in the fuel science community that provides highly accurate and repeatable information about thermal degradation and oxidation of materials. However, the heating timescales in a TGA experiment are orders of magnitude slower than those in a combustion experiment, and so results of the two must be compared carefully. The team developed several ways to use results from TGA to interpret combustion results, providing a fuller understanding of hydrochar combustion properties. The two technical communities  combustion and fuel science  were brought together in other ways throughout the project, including guest lectures in the PIs courses, a book chapter written by PI Goldfarb in a book on renewable fuels edited by PI OConnor, and PI Goldfarbs plenary lecture at the 2024 Spring Technical Meeting of the Eastern States Section of the Combustion Institute on renewable fuel synthesis.         Last Modified: 12/14/2024       Submitted by: JacquelineAO'connor]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

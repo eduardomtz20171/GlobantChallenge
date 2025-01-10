@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: RUI: Investigating Time-Varying Relationships Between Interseismic Coupling, Slow Slip, and Seismicity Along the Mexican Megathrust and Sliver Fault]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>171455.00</AwardTotalIntnAmount>
+<AwardAmount>171455</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Panero</SignBlockName>
+<PO_EMAI>wpanero@nsf.gov</PO_EMAI>
+<PO_PHON>7032925058</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Subduction zones are regions where one tectonic plate dives underneath another.  At the contact between the two plates, large thrust faults (megathrust faults) pose major seismic risks to nearby populations. The magnitude of earthquakes and the time between them depends on how the rocks grind past one another along the faults, as well as how this movement varies over time and space. Some of the rock movements can be transmitted within the continental plate through adjacent tectonic faults. Therefore, to better assess the earthquake hazards associated with subduction zones, one needs to study the plate boundary region as a system of key faults. Here the researchers analyze the earthquakes and ground movements associated with the subduction zone located on the west coast of Mexico. This plate boundary has experienced three large earthquakes (magnitude &gt; 7.0) in the last decade. Key portions of the megathrust fault lie under land and at relatively shallow depths.  This makes the fault particularly threatening for the population, yet easier to study than in other locations. To unveil the complex tectonics of the region, the team uses high-precision GPS and seismic recordings collected over two decades. The researchers measure the fault strength and identify patterns in space and time in the distribution of small earthquakes. They also investigate slow ground movements and track the interactions of the subduction zone with intracontinental faults. Outcomes of this project improve the understanding of subduction zone tectonics.  They also improve seismic hazard assessment in Mexico and other regions threatened by megathrust faults, as in Alaska and the northwestern US.  The project fosters a collaboration between The College of New Jersey and Miami University, as well as international collaboration with Mexico. It provides support for an early career female scientist, a graduate student, and training for undergraduate students notably from groups underrepresented in Science.&lt;br/&gt;&lt;br/&gt;This research furthers our understanding of subduction megathrust environments.  It takes advantage of decadal-long time series in Mexico as well as sophisticated analytical and modeling techniques, such as event template matching and 3D finite-element modeling. It also accounts for recent discoveries, as the observed correlated slow slip episodes (SSEs) and seismicity occurring on a crustal sliver fault that accommodates the partitioning of oblique convergence in Mexico. The Mexico subduction zone presents a shallow slab angle which brings seismogenic and slow-slip source regions close to and beneath land. The study benefits from this geometry which allows for accurate data acquisition. Moreover, SSEs and megathrust earthquakes in Mexico have short recurrence intervals. This enables studying multiple cycles of elastic rebound. The project has three main goals: 1) Investigate temporal variations in interseismic coupling along the Mexican megathrust and potential correlations with seismicity; 2) examine spatial-temporal relationships between SSEs and megathrust earthquakes in 2012, 2014, and 2018; 3) develop a modeling strategy to resolve SSEs and strain accumulation on both the megathrust and a crustal sliver fault. Results from each of these goals have important implications for seismic hazard and risk assessment, and on whether one can quantify how those hazards are changing over time.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025073</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Brudzinski</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael R Brudzinski</PI_FULL_NAME>
+<EmailAddress><![CDATA[brudzimr@miamioh.edu]]></EmailAddress>
+<NSF_ID>000300032</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Miami University]]></Name>
+<CityName>OXFORD</CityName>
+<ZipCode>450561846</ZipCode>
+<PhoneNumber>5135293600</PhoneNumber>
+<StreetAddress><![CDATA[501 E HIGH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T6J6AF3AM8M8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MIAMI UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Miami University]]></Name>
+<CityName>Oxford</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>450562473</ZipCode>
+<StreetAddress><![CDATA[250 S Patterson]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157400</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~171455</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The intellectual merit of this project was an improved understanding of how earthquakes cluster in space and time. Short-term operational earthquake forecasting based on changes in earthquake activity has become more widespread recently, but strategies are needed for distinguishing between mainshock-aftershock (MsAs) and swarms to improve effectiveness.&nbsp; This led to the development of a new algorithm for characterizing the degree to which a sequence is more swarm-like or aftershock-like through quantitative attributes: magnitude difference, mainshock order, rate decay, magnitude decay, ratio of magnitude range to number of events.&nbsp; Using this algorithm, we detected 677 sequences in Mexico from 2012 to 2020 with at least ten events. The automated results are similar to manual characterization, identifying average properties when there are discrepancies among manual ratings for complex sequences.&nbsp; This approach revealed twice as many swarms as aftershock sequences despite the prominence of large magnitude aftershock sequences. Spatially, swarms detected near Juchitan de Zaragoza revealed an extensional zone that accommodates the offset of a sliver fault in Oaxaca from that in Chiapas. Temporally, we found swarm activity appears to shut on or off following nearby large earthquakes, with less of a correlation to the timing of slow slip episodes.&nbsp; The algorithm was also assessed for its efficacy in rapid characterization using only the first five events to see whether it could help in determining which type of earthquake forecasting should be used. &nbsp;Considering that the USGS typically switches from MsAs to swarm forecasting within 24 hours, this technique shows promise in that over 50% of sequences exhibited at least five events within a 24-hour timeframe.&nbsp; Overall, the algorithm rapidly identified swarms with 93% accuracy and MsAs with 77% accuracy compared to evaluation of the full sequence.</p>  <p>&nbsp;</p>  <p>This project also contributed to a broader analysis of earthquake clustering in a wide range of field and laboratory settings.&nbsp; Although spatial and temporal clustering of earthquakes is well established, magnitude clustering is a matter of active debate.&nbsp; Magnitude clustering is that an earthquake&rsquo;s magnitude is more likely to be close to the preceding earthquake than the traditional Gutenberg-Richter frequency-magnitude distribution would suggest. This work provided some important findings that magnitude clustering exists throughout laboratory and field catalogs at spatial scales from millimeters to meters to kilometers.&nbsp; We developed a novel method of examining how seismic magnitude clustering occurs beyond the next event in the catalog and evolves with time and space between earthquake events.&nbsp; The signature persists for longer distances (more than 50 km) and times (several days) than previously thought, indicating that magnitude clustering is not driven solely by repeated rupture of an identical fault patch. The discovered patterns provide a new means to test theories about the seismogenic process and how faults behave over time. Incorporating magnitude clustering decay patterns into earthquake forecasting models such as ETAS would improve their accuracy.</p>  <p>&nbsp;</p>  <p>The broader impacts of this project were multifaceted. &nbsp;This project has specifically helped to train 3 undergraduate students, 5 graduate students, and a postdoctoral researcher.&nbsp; Seven of the 9 are from an underrepresented group in science.&nbsp; The early stages of this project also had a direct impact on developing the Seismology Skill Building Workshop that is now one of the premiere undergraduate research skill building opportunities. This open, online, asynchronous, 14-week training had over 700 undergraduates enrolled in the summer of 2020, and has been offered every summer since with an enrollment of 1400 in 2024. Participants complete 36 active-learning tutorial-based assignments to build skills with Linux, Generic Mapping Tools, Seismic Analysis Code, webservices, seismic network processing, Python, ObsPy, and Jupyter notebooks. Comparison of survey data before and after the workshop shows strong improvements in interest in geoscience and competitiveness for graduate school and employment.&nbsp; Approximately 30% of the enrollees had majors outside geology, indicating that it was recruiting students to consider the geosciences.</p>  <p>&nbsp;</p>  <p>This study also evaluated spatial visualization strategies for improving student understand of the elastic rebound theory of earthquakes. Recent studies identified incomplete student understanding of how elastic rebound causes earthquakes.&nbsp; We evaluated instructional strategies for presenting variations in ground motion, including map views of fence bending and GPS velocity vectors, in 4 undergraduate courses from introductory to upper level over 4 years.&nbsp; We identified two key misconceptions: 1) difficulty in recognizing velocity vector patterns when presented in a new reference frame, and 2) difficulty in reasoning that the fault must be locked for strain to accumulate and produce an earthquake.&nbsp; The largest performance increases occur with simple animations that demonstrate the bending, breaking, and rebending fence, along with associated GPS vectors, plotted successively in different reference frames. This suggests difficulties in understanding elastic rebound can be mitigated when spatial patterns are presented in a context with repeated opportunities to make predictions combined with animations to support mental models that connect the spatial patterns with ground movement.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/26/2024<br> Modified by: Michael&nbsp;R&nbsp;Brudzinski</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The intellectual merit of this project was an improved understanding of how earthquakes cluster in space and time. Short-term operational earthquake forecasting based on changes in earthquake activity has become more widespread recently, but strategies are needed for distinguishing between mainshock-aftershock (MsAs) and swarms to improve effectiveness. This led to the development of a new algorithm for characterizing the degree to which a sequence is more swarm-like or aftershock-like through quantitative attributes: magnitude difference, mainshock order, rate decay, magnitude decay, ratio of magnitude range to number of events. Using this algorithm, we detected 677 sequences in Mexico from 2012 to 2020 with at least ten events. The automated results are similar to manual characterization, identifying average properties when there are discrepancies among manual ratings for complex sequences. This approach revealed twice as many swarms as aftershock sequences despite the prominence of large magnitude aftershock sequences. Spatially, swarms detected near Juchitan de Zaragoza revealed an extensional zone that accommodates the offset of a sliver fault in Oaxaca from that in Chiapas. Temporally, we found swarm activity appears to shut on or off following nearby large earthquakes, with less of a correlation to the timing of slow slip episodes. The algorithm was also assessed for its efficacy in rapid characterization using only the first five events to see whether it could help in determining which type of earthquake forecasting should be used. Considering that the USGS typically switches from MsAs to swarm forecasting within 24 hours, this technique shows promise in that over 50% of sequences exhibited at least five events within a 24-hour timeframe. Overall, the algorithm rapidly identified swarms with 93% accuracy and MsAs with 77% accuracy compared to evaluation of the full sequence.        This project also contributed to a broader analysis of earthquake clustering in a wide range of field and laboratory settings. Although spatial and temporal clustering of earthquakes is well established, magnitude clustering is a matter of active debate. Magnitude clustering is that an earthquakes magnitude is more likely to be close to the preceding earthquake than the traditional Gutenberg-Richter frequency-magnitude distribution would suggest. This work provided some important findings that magnitude clustering exists throughout laboratory and field catalogs at spatial scales from millimeters to meters to kilometers. We developed a novel method of examining how seismic magnitude clustering occurs beyond the next event in the catalog and evolves with time and space between earthquake events. The signature persists for longer distances (more than 50 km) and times (several days) than previously thought, indicating that magnitude clustering is not driven solely by repeated rupture of an identical fault patch. The discovered patterns provide a new means to test theories about the seismogenic process and how faults behave over time. Incorporating magnitude clustering decay patterns into earthquake forecasting models such as ETAS would improve their accuracy.        The broader impacts of this project were multifaceted. This project has specifically helped to train 3 undergraduate students, 5 graduate students, and a postdoctoral researcher. Seven of the 9 are from an underrepresented group in science. The early stages of this project also had a direct impact on developing the Seismology Skill Building Workshop that is now one of the premiere undergraduate research skill building opportunities. This open, online, asynchronous, 14-week training had over 700 undergraduates enrolled in the summer of 2020, and has been offered every summer since with an enrollment of 1400 in 2024. Participants complete 36 active-learning tutorial-based assignments to build skills with Linux, Generic Mapping Tools, Seismic Analysis Code, webservices, seismic network processing, Python, ObsPy, and Jupyter notebooks. Comparison of survey data before and after the workshop shows strong improvements in interest in geoscience and competitiveness for graduate school and employment. Approximately 30% of the enrollees had majors outside geology, indicating that it was recruiting students to consider the geosciences.        This study also evaluated spatial visualization strategies for improving student understand of the elastic rebound theory of earthquakes. Recent studies identified incomplete student understanding of how elastic rebound causes earthquakes. We evaluated instructional strategies for presenting variations in ground motion, including map views of fence bending and GPS velocity vectors, in 4 undergraduate courses from introductory to upper level over 4 years. We identified two key misconceptions: 1) difficulty in recognizing velocity vector patterns when presented in a new reference frame, and 2) difficulty in reasoning that the fault must be locked for strain to accumulate and produce an earthquake. The largest performance increases occur with simple animations that demonstrate the bending, breaking, and rebending fence, along with associated GPS vectors, plotted successively in different reference frames. This suggests difficulties in understanding elastic rebound can be mitigated when spatial patterns are presented in a context with repeated opportunities to make predictions combined with animations to support mental models that connect the spatial patterns with ground movement.         Last Modified: 12/26/2024       Submitted by: MichaelRBrudzinski]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

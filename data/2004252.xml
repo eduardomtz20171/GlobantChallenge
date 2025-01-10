@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Investigation and Application of Pulse Shaping to High-Frequency Electron Paramagnetic Resonance (EPR) / Zero-field Optically Detected Magnetic Resonance (ODMR) Spectroscopy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>475003.00</AwardTotalIntnAmount>
+<AwardAmount>475003</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+<PO_EMAI>kcook@nsf.gov</PO_EMAI>
+<PO_PHON>7032927490</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemistry/Chemical Measurement &amp; Imaging and Physics/Quantum Information Sciences programs, Professor Takahashi and his group at the University of Southern California are improving magnetic resonance spectroscopic techniques - important tools for characterizing the structure and motions/changes (dynamics) of chemical systems.  They are working to improve our understanding and control of the energy states of matter in order to enhance the sensitivity and level of detail with which chemical systems can be probed.  Professor Takahashi is also developing programs to train graduate and undergraduate students in the principles of quantum information science, magnetic resonance spectrometry, and nanotechnology.  The team enhances programs of science, technology, engineering and math (STEM) education for high school and elementary school students in the South Los Angeles community.&lt;br/&gt;&lt;br/&gt;Pulsed electron paramagnetic resonance (EPR) spectroscopy can provide detailed information about molecular structure and dynamics. Like nuclear magnetic resonance spectroscopy, pulsed EPR spectroscopy becomes more powerful at high magnetic fields and frequencies. The spectral resolution, spin polarization, sensitivity, and time resolution of pulsed EPR all increase with increasing magnetic field and the associated Larmor precession frequency. However, the measurement science of high field/frequency pulsed EPR has yet to be explored due to technological challenges. In this project, Professor Takahashi is utilizing a high-speed arbitrary waveform generator (AWG) for improvement of quantum control and investigation of the measurement science and applications of AWG-driven pulsed EPR at high fields and frequencies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004252</AwardID>
+<Investigator>
+<FirstName>Susumu</FirstName>
+<LastName>Takahashi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Susumu Takahashi</PI_FULL_NAME>
+<EmailAddress><![CDATA[susumuta@usc.edu]]></EmailAddress>
+<NSF_ID>000576021</NSF_ID>
+<StartDate>07/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>90033</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress><![CDATA[3720 S FLOWER ST FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA34</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900890744</ZipCode>
+<StreetAddress><![CDATA[840 Downey, LJS 152]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>688000</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>728100</Code>
+<Text>QIS - Quantum Information Scie</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~475003</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This NSF grant supported a measurement science project to drastically improve the sensitivity of pulsed electron paramagnetic resonance (EPR) techniques-important tools for characterizing the structure and motions/changes (dynamics) of chemical systems. Pulsed EPR spectroscopy can provide detailed information about molecular structure and dynamics. Like nuclear magnetic resonance (NMR) spectroscopy, pulsed EPR spectroscopy becomes more powerful at high magnetic fields and frequencies. The spectral resolution, spin polarization, sensitivity, and time resolution of pulsed EPR all increase with increasing magnetic field and the associated Larmor precession frequency. However, the measurement science of high field/frequency pulsed EPR has yet to be explored due to technological challenges. Prof. Takahashi utilized a high-speed arbitrary waveform generator (AWG) for the improvement of quantum control and investigation of the measurement science and applications of AWG-driven pulsed EPR at high fields and frequencies. His group worked to improve our understanding and control of the energy states of matter to enhance the sensitivity and level of detail with which chemical systems can be probed. Prof. Takahashi also developed programs to train graduate and undergraduate students. During the present NSF funding, more than 25 students were trained to obtain knowledge and experience in quantum information science, magnetic resonance spectrometry, and nanotechnology. Moreover, Prof. Takahashi served STEM education for the South Los Angeles community. He organized a science outreach program for 1-3 grade students at USC&rsquo;s neighborhood schools. He also hosted local high school students for their summer chemistry research experiences in his lab.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/29/2024<br> Modified by: Susumu&nbsp;Takahashi</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2004252/2004252_10687353_1732829630856_AWGODMR--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2004252/2004252_10687353_1732829630856_AWGODMR--rgov-800width.jpeg" title="AWG-driven EPR system"><img src="/por/images/Reports/POR/2024/2004252/2004252_10687353_1732829630856_AWGODMR--rgov-66x44.jpeg" alt="AWG-driven EPR system"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Overview of the high field/freqeruncy EPR system.</div> <div class="imageCredit">Susumu Takahashi</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Susumu&nbsp;Takahashi <div class="imageTitle">AWG-driven EPR system</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2004252/2004252_10687353_1732829894675_YRP1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2004252/2004252_10687353_1732829894675_YRP1--rgov-800width.jpg" title="USC YRP"><img src="/por/images/Reports/POR/2024/2004252/2004252_10687353_1732829894675_YRP1--rgov-66x44.jpg" alt="USC YRP"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Poster presentation by a summer high school.</div> <div class="imageCredit">Susumu Takahashi</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Susumu&nbsp;Takahashi <div class="imageTitle">USC YRP</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2004252/2004252_10687353_1732829710939_SCout1--rgov-214x142.JPG" original="/por/images/Reports/POR/2024/2004252/2004252_10687353_1732829710939_SCout1--rgov-800width.JPG" title="USC SCout1"><img src="/por/images/Reports/POR/2024/2004252/2004252_10687353_1732829710939_SCout1--rgov-66x44.JPG" alt="USC SCout1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Classroom outreach by USC SCout.</div> <div class="imageCredit">Susumu Takahashi</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Susumu&nbsp;Takahashi <div class="imageTitle">USC SCout1</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2004252/2004252_10687353_1732829832899_SCout2--rgov-214x142.JPG" original="/por/images/Reports/POR/2024/2004252/2004252_10687353_1732829832899_SCout2--rgov-800width.JPG" title="USC SCout2"><img src="/por/images/Reports/POR/2024/2004252/2004252_10687353_1732829832899_SCout2--rgov-66x44.JPG" alt="USC SCout2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">USC SCout activity</div> <div class="imageCredit">Susumu Takahashi</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Susumu&nbsp;Takahashi <div class="imageTitle">USC SCout2</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This NSF grant supported a measurement science project to drastically improve the sensitivity of pulsed electron paramagnetic resonance (EPR) techniques-important tools for characterizing the structure and motions/changes (dynamics) of chemical systems. Pulsed EPR spectroscopy can provide detailed information about molecular structure and dynamics. Like nuclear magnetic resonance (NMR) spectroscopy, pulsed EPR spectroscopy becomes more powerful at high magnetic fields and frequencies. The spectral resolution, spin polarization, sensitivity, and time resolution of pulsed EPR all increase with increasing magnetic field and the associated Larmor precession frequency. However, the measurement science of high field/frequency pulsed EPR has yet to be explored due to technological challenges. Prof. Takahashi utilized a high-speed arbitrary waveform generator (AWG) for the improvement of quantum control and investigation of the measurement science and applications of AWG-driven pulsed EPR at high fields and frequencies. His group worked to improve our understanding and control of the energy states of matter to enhance the sensitivity and level of detail with which chemical systems can be probed. Prof. Takahashi also developed programs to train graduate and undergraduate students. During the present NSF funding, more than 25 students were trained to obtain knowledge and experience in quantum information science, magnetic resonance spectrometry, and nanotechnology. Moreover, Prof. Takahashi served STEM education for the South Los Angeles community. He organized a science outreach program for 1-3 grade students at USCs neighborhood schools. He also hosted local high school students for their summer chemistry research experiences in his lab.         Last Modified: 11/29/2024       Submitted by: SusumuTakahashi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

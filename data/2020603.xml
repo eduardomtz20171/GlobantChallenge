@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Isotope Fractionation During Multicomponent Diffusion in Molten Basalts]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>372151.00</AwardTotalIntnAmount>
+<AwardAmount>372151</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Wade</SignBlockName>
+<PO_EMAI>jwade@nsf.gov</PO_EMAI>
+<PO_PHON>7032924739</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Isotope ratios in nature can change during equilibrium or kinetic processes because different isotopes of the same element have slightly different physical and chemical properties. Isotope fractionation during diffusion is a fundamental process with multiple applications, including development of methods for separation of isotopes, correction for isotope ratios in isotope age determination, examination of atomic scale processes of diffusion, and inference of history and rate of rock formation. This project will investigate isotope fractionation during multicomponent diffusion in molten basalts with natural isotope compositions. Specifically, diffusive isotope fractionation of three major elements in rocks, K, Ti, and Mg, will be evaluated. The project will provide a research opportunity for a graduate student. New methodologies and analytical protocols will be developed that will be useful to many other researchers.&lt;br/&gt;&lt;br/&gt; Isotope ratios of K, Ti ad Mg in existing well-characterized experimental charges will be measured by pushing the limits of current SIMS instruments to resolve the isotope ratio variation in the quenched glass. The isotope data to be acquired will ultimately enable researchers to understand diffusion mechanisms at the fundamental molecular and ionic level. The project will also advance the SIMS technique for isotope ratio measurements and will have applications to isotope fractionation during natural processes of magma mixing as well as mineral dissolution and growth. This work will contribute to the fundamental understanding of diffusion and isotope fractionation in mafic silicate melts.  In addition, the results can be applied to understand magma mixing and mineral growth, and to infer cooling time scales of rocks. Graduate students will be trained and will attend scientific meetings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2020603</AwardID>
+<Investigator>
+<FirstName>Youxue</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Youxue Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[youxue@umich.edu]]></EmailAddress>
+<NSF_ID>000226809</NSF_ID>
+<StartDate>07/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[the University of Michigan]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091005</ZipCode>
+<StreetAddress><![CDATA[1100 N. University Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157300</Code>
+<Text>Petrology and Geochemistry</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~372151</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Project Outcome Report</p> <p><strong>Isotope fractionation during multicomponent diffusion in molten basalts</strong></p> <p>&nbsp;</p> <p>Federal Award ID: 2020603</p> <p>Award period: 08/01/2020 to 07/31/2024</p> <p>&nbsp;</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diffusion is due to random motion of ions, molecules and clusters. Normally, diffusion tends to erase heterogeneity in a stable phase. However, interestingly, diffusion may lead to large isotope fractionation (meaning difference in isotope ratios) in a phase with initially homogeneous isotope ratios but chemical heterogeneity. Such diffusive isotope fractionation is the result of greater mobility of the lighter isotope than the heavier isotope. The diffusivity difference between heavier and lighter isotopes is described by an empirical parameter &ldquo;beta&rdquo; that is theoretically between 0 and 0.5 and in silicate melts it was so far found to range from 0.03 to 0.23. Increasing beta means larger diffusivity difference between isotopes, leading to larger diffusive isotope fractionation. Experimental data show that diffusive isotope fractionation can be much larger than equilibrium isotope fractionation. Hence, diffusive isotope fractionation is often invoked to interpret observed large isotope ratio variations in rocks. Additionally, diffusive isotope fractionation of specific elements with radioactive isotopes such as potassium (K) and rubidium (Rb) may affect the accuracy of age determination.&nbsp;</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This grant supported three key studies on diffusive isotope fractionation as originally proposed. One is on diffusive K isotope fractionation. The beta parameter turned out to be fairly large (about 0.11), and it may be necessary to consider such fractionation in accurate K-Ar system dating. The second is on diffusive titanium (Ti) isotope fractionation. Ti is an element with high valence and small diffusivity in silicate melts. The beta parameter is expected to be small, and experimental data from this study confirms that beta for Ti is among the smallest (about 0.03) of all investigated elements. Nonetheless, diffusion is still able to generate significant Ti isotope ratio difference in rocks. The third is on diffusive magnesium (Mg) isotope fractionation. This work provided the opportunity to develop new analytical solution for diffusive isotope fractionation in melts during mineral dissolution. Results from this grant greatly expanded the fundamental knowledge on diffusive isotope fractionation, including the only data for two elements (K and Ti) and expansion of data for Mg. The beta values obtained also have deep implications on the diffusion mechanisms. Results from this grant have been applied to evaluate the effect of K isotope fractionation on age determination, to model K isotope fractionation in the Moon through diffusive loss, to interpret the observed depletion of heavy Ti isotopes in rocks, and to explore Mg isotope fractionation in melts during phenocryst growth. Other potential applications include modeling of magma mixing and inference of cooling time scales. This grant also supported additional research, including review papers that communicated the research findings to the broader scientific community.</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduate students were trained through the project in experimental and analytical techniques, theoretical and modeling skills, as well as independent thinking. Research results from this grant have been disseminated through scientific meetings and invited talks. Three papers were published and three additional manuscripts were submitted for publication. Relevant research findings will be incorporated into teaching.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/03/2024<br> Modified by: Youxue&nbsp;Zhang</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Outcome Report   Isotope fractionation during multicomponent diffusion in molten basalts      Federal Award ID: 2020603   Award period: 08/01/2020 to 07/31/2024      Diffusion is due to random motion of ions, molecules and clusters. Normally, diffusion tends to erase heterogeneity in a stable phase. However, interestingly, diffusion may lead to large isotope fractionation (meaning difference in isotope ratios) in a phase with initially homogeneous isotope ratios but chemical heterogeneity. Such diffusive isotope fractionation is the result of greater mobility of the lighter isotope than the heavier isotope. The diffusivity difference between heavier and lighter isotopes is described by an empirical parameter beta that is theoretically between 0 and 0.5 and in silicate melts it was so far found to range from 0.03 to 0.23. Increasing beta means larger diffusivity difference between isotopes, leading to larger diffusive isotope fractionation. Experimental data show that diffusive isotope fractionation can be much larger than equilibrium isotope fractionation. Hence, diffusive isotope fractionation is often invoked to interpret observed large isotope ratio variations in rocks. Additionally, diffusive isotope fractionation of specific elements with radioactive isotopes such as potassium (K) and rubidium (Rb) may affect the accuracy of age determination.   This grant supported three key studies on diffusive isotope fractionation as originally proposed. One is on diffusive K isotope fractionation. The beta parameter turned out to be fairly large (about 0.11), and it may be necessary to consider such fractionation in accurate K-Ar system dating. The second is on diffusive titanium (Ti) isotope fractionation. Ti is an element with high valence and small diffusivity in silicate melts. The beta parameter is expected to be small, and experimental data from this study confirms that beta for Ti is among the smallest (about 0.03) of all investigated elements. Nonetheless, diffusion is still able to generate significant Ti isotope ratio difference in rocks. The third is on diffusive magnesium (Mg) isotope fractionation. This work provided the opportunity to develop new analytical solution for diffusive isotope fractionation in melts during mineral dissolution. Results from this grant greatly expanded the fundamental knowledge on diffusive isotope fractionation, including the only data for two elements (K and Ti) and expansion of data for Mg. The beta values obtained also have deep implications on the diffusion mechanisms. Results from this grant have been applied to evaluate the effect of K isotope fractionation on age determination, to model K isotope fractionation in the Moon through diffusive loss, to interpret the observed depletion of heavy Ti isotopes in rocks, and to explore Mg isotope fractionation in melts during phenocryst growth. Other potential applications include modeling of magma mixing and inference of cooling time scales. This grant also supported additional research, including review papers that communicated the research findings to the broader scientific community.   Graduate students were trained through the project in experimental and analytical techniques, theoretical and modeling skills, as well as independent thinking. Research results from this grant have been disseminated through scientific meetings and invited talks. Three papers were published and three additional manuscripts were submitted for publication. Relevant research findings will be incorporated into teaching.        Last Modified: 10/03/2024       Submitted by: YouxueZhang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

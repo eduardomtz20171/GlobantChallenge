@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Coherence Control of Weak Localization in Cold Atoms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>299371.00</AwardTotalIntnAmount>
+<AwardAmount>299371</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John D. Gillaspy</SignBlockName>
+<PO_EMAI>jgillasp@nsf.gov</PO_EMAI>
+<PO_PHON>7032927173</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In recent years, scientists have fine-tuned their ability to lower the temperature of some atoms and molecules to close to absolute zero on the Kelvin temperature scale. Atoms cooled down to this level, often referred to as “ultracold” atoms, behave differently than atoms at room temperature, especially when interacting with laser light. It is even possible to use laser light to hold atoms in place, countering the force of gravity. Such atoms are referred to as “trapped.” Trapped atoms can be studied as part of fundamental science investigations or used for real-world applications, like building very precise sensors or even deployed for a new class of computers known as “quantum computers.” Trapped atoms interacting with laser light can also be used to model other physical systems, for example, how electrons might travel in solids. This project explores how laser light, whose color is carefully controlled, scatters off of an ensemble of trapped, ultracold atoms. The experimental objectives of this project are twofold: 1) to study laser light scattering under conditions that have not been explored before to better understand the intricate details of the fundamental light scattering dynamics, and 2) to use additional lasers to actually control the light scattering process – not just to observe it. Accompanying these experiments in the laboratory will be an effort to refine the theoretical understanding of all of the observed physical phenomena so that the findings can be applied to other basic scientific and applied research problems. &lt;br/&gt;&lt;br/&gt;The project is directed towards investigation of unexplored areas of light scattering and transport in weakly disordered, ultracold atomic gases. In particular, coherent backscattering (CBS), an interference effect sometimes referred to as “weak-localization,” that results in enhanced scattering of light in the backwards direction, will be investigated in conjunction with electromagnetically-induced transparency-like conditions to explore potential control aspects to the light scattering process. Modification to the CBS effect will be measured, using light polarization, applied magnetic fields and atomic density as the principal “control knobs.” In a related project, the CBS effect will be investigated when the laser light is off-resonance from an atomic transition, and with variable polarization and applied magnetic fields. Here, an effect known as “anti-localization,” arising from hyperfine coherences that build up over time, is predicted – theoretically - to reduce the observed CBS signal. Beyond observation of this phenomena, of particular interest is measurement of the detuning dependence of the process to enable comparison to theoretical predictions and validate scattering models in this regime.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011734</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Sukenik</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles I Sukenik</PI_FULL_NAME>
+<EmailAddress><![CDATA[csukenik@odu.edu]]></EmailAddress>
+<NSF_ID>000231304</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Old Dominion University Research Foundation]]></Name>
+<CityName>NORFOLK</CityName>
+<ZipCode>235082561</ZipCode>
+<PhoneNumber>7576834293</PhoneNumber>
+<StreetAddress><![CDATA[4111 MONARCH WAY STE 204]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DSLXBD7UWRV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OLD DOMINION UNIVERSITY RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DSLXBD7UWRV6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Old Dominion University]]></Name>
+<CityName>Norfolk</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>235290001</ZipCode>
+<StreetAddress><![CDATA[5115 Hampton Boulevard]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124100</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~92124</FUND_OBLG>
+<FUND_OBLG>2021~129079</FUND_OBLG>
+<FUND_OBLG>2022~78168</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="page" title="Page 1"> <div class="layoutArea"> <div class="column"> <p><span style="font-size: 12.000000pt; font-family: 'Aptos';">This project investigated, in two separate experiments, laser light scattering in ensembles of atoms that had been laser cooled to close to absolute zero in temperature. These atoms, known as "ultracold atoms," can also be confined spatially, i.e. held in place, using lasers. Our goal was to develop a better understanding of how to control light scattering processes under various experimental conditions and how this control may contribute to our ability to store quantum information in these ensembles of ultracold atoms. In other words, to control light scattering so ultracold atoms can be used to create "quantum memory."</span></p> <p><span style="font-size: 12.000000pt; font-family: 'Aptos';">In the first experiment, a dense sample of ultracold rubidium atoms was illuminated with a very short laser pulse - just a few nanoseconds - of nearly resonant light. A detector then recorded when photons were observed to exit the sample. Normally, a single atom illuminated with this laser would emit a photon after just tens of nanoseconds. But here, the photons were observed leaving the sample at much longer times - up to hundreds of nanoseconds later. This indicated that the light was essentially being stored in the sample of ultracold atoms - a process known as "subradiance." We also observed a related process known as "superradiance" when light emerges quicker than usual. The experiment explored the dynamics of this subradiance process as various laser parameters were adjusted, with an emphasis on how the light storage states were created and what other processes might also be involved in the long light emission times. By comparing experimental results with detailed calculations, the results enabled us to better understand the subradiance process in ensembles of ultracold atoms.</span></p> <p><span style="font-size: 12.000000pt; font-family: 'Aptos';">In a second experiment, a dilute sample of ultracold rubidium atoms was illuminated with a pulse of near resonant laser light while light scattered in the exact backwards direction was observed with a camera. Under certain experimental conditions, there is an enhancement in the amount of light that is backscattered. This enhancement manifests itself as a very narrow cone-shaped bright feature on the camera. This process is known as "coherent backscattering" (or CBS). Coherent backscattering in ultracold atoms, by itself, has been extensively studied for more than 20 years. In this experiment, though, a second laser was added, which when combined with the coherent backscattering laser creates a condition that normally reduces light scattering and simply increases the transmission of the CBS laser beam through the sample. This latter process is known as "electromagnetically-induced transparency" (or EIT). The experiment investigated how the CBS enhancement cone was modified as various parameters of the EIT laser were adjusted. As expected, a modification to the CBS enhancement was observed. With the aid of theoretical calculations, we gained a better understanding of how the EIT laser could be used to control the coherent backscattering process. This system, like in the first "subradiance" experiment, is a candidate for quantum information storage. </span></p> <p><span style="font-size: 12.000000pt; font-family: 'Aptos';">In addition to contributing to our understanding of fundamental light scattering processes in ultracold physics, the project also provided exceptional training for two doctoral students, thereby addressing the critical need for high level scientific workforce development. <br /></span></p> </div> </div> </div><br> <p>  Last Modified: 09/20/2024<br> Modified by: Charles&nbsp;I&nbsp;Sukenik</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     This project investigated, in two separate experiments, laser light scattering in ensembles of atoms that had been laser cooled to close to absolute zero in temperature. These atoms, known as "ultracold atoms," can also be confined spatially, i.e. held in place, using lasers. Our goal was to develop a better understanding of how to control light scattering processes under various experimental conditions and how this control may contribute to our ability to store quantum information in these ensembles of ultracold atoms. In other words, to control light scattering so ultracold atoms can be used to create "quantum memory."   In the first experiment, a dense sample of ultracold rubidium atoms was illuminated with a very short laser pulse - just a few nanoseconds - of nearly resonant light. A detector then recorded when photons were observed to exit the sample. Normally, a single atom illuminated with this laser would emit a photon after just tens of nanoseconds. But here, the photons were observed leaving the sample at much longer times - up to hundreds of nanoseconds later. This indicated that the light was essentially being stored in the sample of ultracold atoms - a process known as "subradiance." We also observed a related process known as "superradiance" when light emerges quicker than usual. The experiment explored the dynamics of this subradiance process as various laser parameters were adjusted, with an emphasis on how the light storage states were created and what other processes might also be involved in the long light emission times. By comparing experimental results with detailed calculations, the results enabled us to better understand the subradiance process in ensembles of ultracold atoms.   In a second experiment, a dilute sample of ultracold rubidium atoms was illuminated with a pulse of near resonant laser light while light scattered in the exact backwards direction was observed with a camera. Under certain experimental conditions, there is an enhancement in the amount of light that is backscattered. This enhancement manifests itself as a very narrow cone-shaped bright feature on the camera. This process is known as "coherent backscattering" (or CBS). Coherent backscattering in ultracold atoms, by itself, has been extensively studied for more than 20 years. In this experiment, though, a second laser was added, which when combined with the coherent backscattering laser creates a condition that normally reduces light scattering and simply increases the transmission of the CBS laser beam through the sample. This latter process is known as "electromagnetically-induced transparency" (or EIT). The experiment investigated how the CBS enhancement cone was modified as various parameters of the EIT laser were adjusted. As expected, a modification to the CBS enhancement was observed. With the aid of theoretical calculations, we gained a better understanding of how the EIT laser could be used to control the coherent backscattering process. This system, like in the first "subradiance" experiment, is a candidate for quantum information storage.    In addition to contributing to our understanding of fundamental light scattering processes in ultracold physics, the project also provided exceptional training for two doctoral students, thereby addressing the critical need for high level scientific workforce development.          Last Modified: 09/20/2024       Submitted by: CharlesISukenik]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

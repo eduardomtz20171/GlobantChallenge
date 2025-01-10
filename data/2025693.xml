@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Ecology of MERS-CoV in camels, humans, and wildlife in Ethiopia]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/25/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>2308746.00</AwardTotalIntnAmount>
+<AwardAmount>2308746</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrea Porras-Alfaro</SignBlockName>
+<PO_EMAI>aporrasa@nsf.gov</PO_EMAI>
+<PO_PHON>7032922944</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Zoonotic diseases are diseases that exist in animals and can be transmitted to humans. Zoonoses currently account for approximately 75 percent of all emerging infections worldwide. However, the factors that trigger zoonotic disease emergence and spread remain poorly understood, in part because they involve multiple species, complex inter-species and intra-species relationships, and many interacting environmental, behavioral, social, and economic factors. Middle Eastern Respiratory Syndrome-Coronavirus (MERS-CoV) presents a case in point. MERS-CoV was first identified in human beings in 2012 and has killed 36 percent of those infected, but little is known about what has led to its emergence. For example, several human cases have been traced to contact with camels imported from Africa; studies also have detected MERS-CoV in African wildlife; and while camels are a known reservoir host for MERS-CoV, it is not known if there are additional reservoirs or intermediate hosts, or how frequently and under what conditions MERS-CoV spillover occurs. This project will investigate the natural ecology of MERS-CoV in relation to broader social, economic, and environmental changes; its potential wildlife reservoirs in close contact with camels; and the potential for spillover to humans who consume, herd, and trade camels and camel products. This work is of direct importance to national security with respect to disease threats; MERS-CoV is currently on the World Health Organization's priority shortlist of diseases in urgent need of accelerated research.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;To understand when and under what conditions MERS-CoV emerges and spreads from animals to humans, the researchers ask, (1) How do social, cultural and behavioral characteristics of camel economics shape virus ecologies? (2) Which intra- and inter-species interactions increase MERS-CoV emergence and transmission? and (3) What climatic and environmental variables are associated with transmission? Researchers will conduct field studies of wild and domestic (camel) reservoirs, collecting roughly 800 samples from targeted wildlife (ungulates and eulipotyphlads) over two years at four locations. They will carry out socio-behavioral studies across the camel value chain and follow individual camels longitudinally to determine when the same individuals seroconvert to MERS-CoV positive status. They will conduct laboratory analyses and do viral sequencing. The researchers will integrate the data into mathematical models using the 'Method of Plausible Parameter Sets' (MPPS), which will determine which mechanistic scenarios are consistent with observed patterns of MERS-CoV in camels and humans. This broadly inclusive approach expands upon traditional studies of zoonotic disease emergence. The transmission models will be applicable to other zoonotic diseases linked to livestock production and will help to identify interventions to reduce disease emergence and transmission.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025693</AwardID>
+<Investigator>
+<FirstName>Amira</FirstName>
+<LastName>Roess</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amira Roess</PI_FULL_NAME>
+<EmailAddress><![CDATA[aroess@gmu.edu]]></EmailAddress>
+<NSF_ID>000679192</NSF_ID>
+<StartDate>04/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress><![CDATA[4400 UNIVERSITY DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EADLFP7Z72E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4NRWLFCDF43</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>Fairfax</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304422</ZipCode>
+<StreetAddress><![CDATA[4400 University Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>724200</Code>
+<Text>Ecology of Infectious Diseases</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7242</Code>
+<Text>ECOLOGY OF INFECTIOUS DISEASES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~2308745</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In 2018, the team received about $2.5 million for the project entitled, "Ecology of Middle East respiratory syndrome coronavirus (MERS-CoV) in camels, humans, and wildlife in Ethiopia."</p>  <p>The&nbsp;<em>study investigated the natural ecology of MERS-CoV in Ethiopia in relation to broader social, economic, and climatic changes; its potential wildlife reservoirs in close contact with camels; and the potential for spillover to humans who consume, herd, and trade camels and camel products.</em></p>  <p>The ultimate goal of this study was met and it was to demonstrate that emerging disease systems, where there are insufficient data to draw statistical conclusions about risk factors for trigger events, can still be understood via causal analysis. Because the social, cultural, and economic contexts in which diseases emerge and spread are often&nbsp;<em>black-boxed</em>, only theorized in retrospect, and rarely incorporated into mathematical models, it was important to systematically collect data about each of these contexts using multi-disciplinary research methods. We collected quantitative and qualitative data about the social, cultural, and economic factors that can be triggers for disease emergence and transmission and identified several that were associated with MERS-C0V. This was the first study to integrate social, cultural, economic, biological, environmental, and climatic factors of zoonotic disease emergence and transmission on a large scale and created a blueprint that can be used to continue to study MERS-CoV and other emerging zoonotic diseases.</p>  <p>We developed and applied the Method of Plausible Parameter Sets, an innovative new approach developed in the study team&rsquo;s lab to determine which mechanistic climate-animal-human scenarios are consistent with observed patterns of MERS-CoV emergence and transmission&nbsp;<em>and</em>&nbsp;are plausible.&nbsp; Our preliminary results uncovered that MERS-CoV emergence is dependent on season as it was only identified in less than 10% of samples and only during 1 season.&nbsp; Humans who had no direct contact with camels had active infection while camels who had a history of movement had evidence of previous MERS-CoV infection.</p>  <p>The models generated to understand MERS-CoV in African camel economies may also be applied to investigate other viral zoonotic diseases that are linked to camel economies. Camel economies are complex because they include both traditional and emergent practices. The study presents methods to study both and our results show how these two types of practices come together. The project led to several multi-disciplinary training opportunities for graduate and undergraduates from the fields of anthropology, biology, epidemiology, geography, and mathematics. This project was presented as a case study in 4 courses (1 to undergraduates and 3 to graduate students) reaching over 60 students. Two undergraduates, 6 graduate students, and 2 post-doctoral scientistis analyzed data that emerged from this study as part of research assistantships, thesis projects and indepnent studies. The protocols and case studies will be made publicly available as teaching modules on the use of anthropological and ecological theories for zoonotic disease research for use in medical, public health, veterinary, biology, and mathematics curricula. Maps of African camel economies have been developed for use in publications stemming from this project and highlight how changes in temperature and precipitation, food availability, and resources for camel production impact camel movement and their interaction with humans and wildlife. Results were disseminated to local communities in meetings with ministry officials and other interested parties in Ethiopia and elsewhere.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/31/2024<br> Modified by: Amira&nbsp;Roess</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In 2018, the team received about $2.5 million for the project entitled, "Ecology of Middle East respiratory syndrome coronavirus (MERS-CoV) in camels, humans, and wildlife in Ethiopia."    Thestudy investigated the natural ecology of MERS-CoV in Ethiopia in relation to broader social, economic, and climatic changes; its potential wildlife reservoirs in close contact with camels; and the potential for spillover to humans who consume, herd, and trade camels and camel products.    The ultimate goal of this study was met and it was to demonstrate that emerging disease systems, where there are insufficient data to draw statistical conclusions about risk factors for trigger events, can still be understood via causal analysis. Because the social, cultural, and economic contexts in which diseases emerge and spread are oftenblack-boxed, only theorized in retrospect, and rarely incorporated into mathematical models, it was important to systematically collect data about each of these contexts using multi-disciplinary research methods. We collected quantitative and qualitative data about the social, cultural, and economic factors that can be triggers for disease emergence and transmission and identified several that were associated with MERS-C0V. This was the first study to integrate social, cultural, economic, biological, environmental, and climatic factors of zoonotic disease emergence and transmission on a large scale and created a blueprint that can be used to continue to study MERS-CoV and other emerging zoonotic diseases.    We developed and applied the Method of Plausible Parameter Sets, an innovative new approach developed in the study teams lab to determine which mechanistic climate-animal-human scenarios are consistent with observed patterns of MERS-CoV emergence and transmissionandare plausible. Our preliminary results uncovered that MERS-CoV emergence is dependent on season as it was only identified in less than 10% of samples and only during 1 season. Humans who had no direct contact with camels had active infection while camels who had a history of movement had evidence of previous MERS-CoV infection.    The models generated to understand MERS-CoV in African camel economies may also be applied to investigate other viral zoonotic diseases that are linked to camel economies. Camel economies are complex because they include both traditional and emergent practices. The study presents methods to study both and our results show how these two types of practices come together. The project led to several multi-disciplinary training opportunities for graduate and undergraduates from the fields of anthropology, biology, epidemiology, geography, and mathematics. This project was presented as a case study in 4 courses (1 to undergraduates and 3 to graduate students) reaching over 60 students. Two undergraduates, 6 graduate students, and 2 post-doctoral scientistis analyzed data that emerged from this study as part of research assistantships, thesis projects and indepnent studies. The protocols and case studies will be made publicly available as teaching modules on the use of anthropological and ecological theories for zoonotic disease research for use in medical, public health, veterinary, biology, and mathematics curricula. Maps of African camel economies have been developed for use in publications stemming from this project and highlight how changes in temperature and precipitation, food availability, and resources for camel production impact camel movement and their interaction with humans and wildlife. Results were disseminated to local communities in meetings with ministry officials and other interested parties in Ethiopia and elsewhere.         Last Modified: 12/31/2024       Submitted by: AmiraRoess]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

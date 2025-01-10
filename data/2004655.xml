@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Understanding Domain Walls in a Two-Dimensional Ferroelectric Material]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>477793.00</AwardTotalIntnAmount>
+<AwardAmount>529617</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Lane</SignBlockName>
+<PO_EMAI>plane@nsf.gov</PO_EMAI>
+<PO_PHON>7032922453</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Summary:&lt;br/&gt;In materials that contain regions with different structures and properties, the interfaces that separate these regions not only influence the overall material characteristics, but also often feature unusual physical properties not present in the surrounding regions. This project investigates interfaces in a unique two-dimensional material consisting of regions characterized by different spatial separations of positive and negative electric charges. Knowledge of the behaviors of these interfaces lays the groundwork for realizing faster computing using high-speed logic and memory devices with large storage density and ultra-low power consumption, as well as for exploring next-generation devices whose functions can be modified on the fly to adapt to different demands and applications. Education and outreach activities are an integral part of this project. In addition to providing research training for students, this project involves the development of classroom demonstrations and experiments that are integrated into an undergraduate physics course. A week-long annual science camp for local middle and high school students is developed by the principal investigator and offered through the Parks and Recreation Department in the City of Pullman. The principal investigator also works with local organizations to integrate the developed activities into science exhibitions and science fairs that are open to the general public. &lt;br/&gt;&lt;br/&gt;Technical Summary:&lt;br/&gt;Two-dimensional indium selenide is a unique ferroelectric material, with the polarization sustained by covalent bonding and with interlinked out-of-plane and in-plane polarizations. The strong covalent bonding leads to highly robust ferroelectricity that persists down to the monolayer limit. The interlinked out-of-plane and in-plane polarizations allow for defining and manipulating charged domain walls using a local electric field. These domain walls have distinctive lattice structures and are expected to exhibit many interesting and novel characteristics. This project aims to develop a fundamental knowledge of the domain wall properties, with the specific objective to understand how the intricate coupling between the local polarization, lattice structure, and charge carriers affects the domain wall electronic and phonon properties. The experimental efforts utilize advanced electron microscopy and multi-functional scanning probe microscopy techniques, such as tip-enhanced Raman spectroscopy and various atomic force microscopy-based measurements with high spatial and temporal resolutions, to probe local properties in individual domain walls. Complementing these experimental investigations, density-functional-theory calculations are used to determine the crystal lattices, electronic and phonon structures, as well as charge carrier transport properties and dynamics in domain walls. The correlation between experimental and theoretical studies enables mechanistic insights and provides a fundamental basis for exploiting unique domain wall properties in electronic applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/13/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004655</AwardID>
+<Investigator>
+<FirstName>Yi</FirstName>
+<LastName>Gu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yi Gu</PI_FULL_NAME>
+<EmailAddress><![CDATA[yigu@wsu.edu]]></EmailAddress>
+<NSF_ID>000176947</NSF_ID>
+<StartDate>03/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Washington State University]]></Name>
+<CityName>PULLMAN</CityName>
+<ZipCode>991640001</ZipCode>
+<PhoneNumber>5093359661</PhoneNumber>
+<StreetAddress><![CDATA[240 FRENCH ADMINISTRATION BLDG]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XRJSGX384TD6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington State University]]></Name>
+<CityName>Pullman</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>991642814</ZipCode>
+<StreetAddress><![CDATA[1405 NE College Ave Webster 1245]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8615</Code>
+<Text>Nanoscale Devices and Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~477793</FUND_OBLG>
+<FUND_OBLG>2022~51824</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Intellectual Merit</strong></p> <p>The interface formed between different materials is almost always interesting as it often possesses new properties that are distinct from those of the adjoining materials. In ferroelectric materials, which have electric polarizations that can be controlled by an external electric field, the domain walls are the boundaries that separate areas (i.e. domains) with different electric polarization directions. It is of fundamental interest to explore and understand the potentially new properties of these interfaces; from a practical perspective, domain walls, which can be moved and manipulated by an external electric field, can act as active elements in novel reconfigurable electronics. In this project, by using a non-linear optical technique with very high spatial resolution, we were able to image the changes to the crystal structures at and surrounding domain walls in In<sub>2</sub>Se<sub>3</sub> layers, a novel two-dimensional van der Waals ferroelectric material. We have found significant changes to crystal structures not only in the immediate vicinity of the domain walls, but also in the relatively remote (~ ten of nanometers) regions, which is contrary to common expectations. These changes to the crystal structures are correlated with reduced ferroelectricity. As such, the domain walls might have stronger-than-expected effects on the overall ferroelectric properties. We have also investigated light-ferroelectric interactions in In<sub>2</sub>Se<sub>3</sub> layers. Particularly, we have found that optical excitations drive new domain formations, transforming the illuminated regions from single domain to disordered multi-domain state. This effect is reversible: applying an external electric field can revert the process and return the regions to the single-domain state. Accompanying the optically induced domain formations is the changes to the material surface potential, and this allows us to demonstrate optically modulated electrical resistance in devices. In addition, we have also explored the possibility of controlling light emissions via ferroelectric gating in ferroelectric-semiconductor heterostructures. Particularly, we have demonstrated that the electric polarization in ferroelectric In<sub>2</sub>Se<sub>3</sub> layers can be used to control the charged state of electron-hole pairs in overlaying semiconductor layers, resulting in light emissions with tunable wavelengths.</p> <p><strong>Broader Impacts:</strong></p> <p>The discovery of stronger-than-expected non-local effects of domain walls provides fundamental insight into how the emergence and motion of domain walls might affect material properties and device operations. It also provides the basis for further exploring using domain walls as the active element in nanoelectronics. The demonstrated optically driven domain formations can be used to define desirable electronic patterns tailored for various device applications; this process is scalable as it can be implemented using photolithography. In addition, the possibility to control light emissions using non-volatile ferroelectric polarizations opens up opportunities in novel electro-optical and opto-electronic applications. This project has provided research experience to graduate students; in addition, practical training in various semiconductor processing and device fabrication/characterizations, such as photolithography, dry and chemical etching, and electrical testing, has been an integral part of the project and has prepared the students well for careers in industry as well as academia. This project has also allowed a graduate student to conduct research and collaborate with researchers at the Pacific Northwest National Lab; this has been a unique learning experience for the student to be exposed to a different research environment and allows them to explore a wider range of career opportunities. &nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/24/2024<br> Modified by: Yi&nbsp;Gu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit   The interface formed between different materials is almost always interesting as it often possesses new properties that are distinct from those of the adjoining materials. In ferroelectric materials, which have electric polarizations that can be controlled by an external electric field, the domain walls are the boundaries that separate areas (i.e. domains) with different electric polarization directions. It is of fundamental interest to explore and understand the potentially new properties of these interfaces; from a practical perspective, domain walls, which can be moved and manipulated by an external electric field, can act as active elements in novel reconfigurable electronics. In this project, by using a non-linear optical technique with very high spatial resolution, we were able to image the changes to the crystal structures at and surrounding domain walls in In2Se3 layers, a novel two-dimensional van der Waals ferroelectric material. We have found significant changes to crystal structures not only in the immediate vicinity of the domain walls, but also in the relatively remote (~ ten of nanometers) regions, which is contrary to common expectations. These changes to the crystal structures are correlated with reduced ferroelectricity. As such, the domain walls might have stronger-than-expected effects on the overall ferroelectric properties. We have also investigated light-ferroelectric interactions in In2Se3 layers. Particularly, we have found that optical excitations drive new domain formations, transforming the illuminated regions from single domain to disordered multi-domain state. This effect is reversible: applying an external electric field can revert the process and return the regions to the single-domain state. Accompanying the optically induced domain formations is the changes to the material surface potential, and this allows us to demonstrate optically modulated electrical resistance in devices. In addition, we have also explored the possibility of controlling light emissions via ferroelectric gating in ferroelectric-semiconductor heterostructures. Particularly, we have demonstrated that the electric polarization in ferroelectric In2Se3 layers can be used to control the charged state of electron-hole pairs in overlaying semiconductor layers, resulting in light emissions with tunable wavelengths.   Broader Impacts:   The discovery of stronger-than-expected non-local effects of domain walls provides fundamental insight into how the emergence and motion of domain walls might affect material properties and device operations. It also provides the basis for further exploring using domain walls as the active element in nanoelectronics. The demonstrated optically driven domain formations can be used to define desirable electronic patterns tailored for various device applications; this process is scalable as it can be implemented using photolithography. In addition, the possibility to control light emissions using non-volatile ferroelectric polarizations opens up opportunities in novel electro-optical and opto-electronic applications. This project has provided research experience to graduate students; in addition, practical training in various semiconductor processing and device fabrication/characterizations, such as photolithography, dry and chemical etching, and electrical testing, has been an integral part of the project and has prepared the students well for careers in industry as well as academia. This project has also allowed a graduate student to conduct research and collaborate with researchers at the Pacific Northwest National Lab; this has been a unique learning experience for the student to be exposed to a different research environment and allows them to explore a wider range of career opportunities.         Last Modified: 10/24/2024       Submitted by: YiGu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

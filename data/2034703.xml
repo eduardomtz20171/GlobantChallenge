@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  High Energy Density Lithium-ion Battery Cells With Graphenic Anodes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>999913.00</AwardTotalIntnAmount>
+<AwardAmount>999913</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mara E. Schindelholz</SignBlockName>
+<PO_EMAI>marschin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924506</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is funded in whole or in part under the American Rescue Plan Act of 2021 (Public Law 117-2).&lt;br/&gt;&lt;br/&gt;The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is the development and adoption of next generation portable energy storage devices.  Lithium-ion batteries are the most common energy storage technology for a wide variety of applications. Most recently, they have been adopted by small to medium sized Unmanned Aerial Systems (UAS) and electric vehicles (EV). The weight carrying capacity and flight/operating time and range of these UAS and EV are issues mainly dependent on battery components and materials.  With the proposed lithium-ion battery technology, high-capacity, lightweight, and advanced batteries may store significantly more energy without increasing their weight. The development and integration of the next generation battery technology may significantly increase the performance of battery powered vehicles and their adoption by society. This technology has the potential to have a drastic commercial impact in the UAS/drone industry; For example, with successful batteries, medicine, blood, and organs can be quickly delivered to remote locations on unmanned platforms. Utility workers may be able to identify pipeline leaks or transmission line damages in advance of an accident and packages may be delivered faster, with significantly less carbon footprint, along with myriad of other applications.&lt;br/&gt;&lt;br/&gt;This SBIR Phase II project seeks to develop high capacity, lightweight lithium-ion battery (LIB) cells with a novel carbon-based anode component. Existing LIBs still utilize graphite with additives as the primary anode material due to their ability to restore the charge and provide consistency in voltage. However, graphite's limited capacity (theoretically, 372 mAh/g) prohibits the development of long lasting, higher energy density (over 340 Wh/kg) LIBs. Graphite's internal structure limits sufficient lithium diffusion into interlayer spaces. This project offers a new class of higher energy density (over 500 Wh/kg) LIBs, with an innovative multilayer graphenic anode.  Replacing graphite with the multilayer graphenic anode offers a solution in overcoming the issue of the  limited capacity of the carbon anode. This patent-pending, commercially feasible, only carbon-based anode has the unique capability of an intense lithium (Li) intercalation within its networks. The large Li/electrolyte interface contributes enhanced charge-transfer kinetics, resulting in effective charge/discharge cycling throughout hundreds of cycles with over 1500 mAh/g specific capacity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/07/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034703</AwardID>
+<Investigator>
+<FirstName>Tereza</FirstName>
+<LastName>Paronyan</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tereza M Paronyan</PI_FULL_NAME>
+<EmailAddress><![CDATA[T.Paronyan@hexalayer.com]]></EmailAddress>
+<NSF_ID>000764894</NSF_ID>
+<StartDate>09/07/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Hexalayer, LLC]]></Name>
+<CityName>LOUISVILLE</CityName>
+<ZipCode>402992102</ZipCode>
+<PhoneNumber>5028219439</PhoneNumber>
+<StreetAddress><![CDATA[1816 PRODUCTION CT]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KY03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PGPPWLHKFN76</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>HEXALAYER LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[HeXalayer, LLC]]></Name>
+<CityName>Louisville</CityName>
+<StateCode>KY</StateCode>
+<ZipCode>402992102</ZipCode>
+<StreetAddress><![CDATA[1816 Production Ct]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KY03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537300</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~999913</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The advancement of rechargeable battery technologies remains a key societal and economic issue. Lithium-ion batteries have been adopted as the main solution for energy storage in various industries, including Electric Vehicles, Aerospace, Defense, and Consumer Electronics. The key challenge for these mass-produced lithium-ion batteries has remained their weight and their ability to last in between charges, an issue stemming from materials used within the battery components.</p> <p>This this NSF SBIR Phase II project has set out to build upon successes of the previous project in the scale up and integration of the novel Rotated Multilayer Graphene anode component for lithium-ion batteries. The key benefit of Rotated Multilayer Graphene material is its ability to safely store four to six times more lithium, for the same amount of weight, as compared to the leading lithium-ion battery anode material graphite. The team a HeXalayer managed to increase both the synthesis volume and the yield of the material in question, and to successfully integrated and demonstrate the use of the Rotated Multilayer Graphene as a high capacity reversible all carbon anode material for use in lithium-ion batteries. The team also successfully utilized standard lithium-ion battery manufacturing machines, such as the roll-to-roll electrode coating machine, to demonstrate potential feasibility for mass manufacturing of this technology.</p> <p>Various other research groups, startups and corporations have tried to solve the battery energy density problem through other materials, mainly through use of Silicone and Lithium Metal as an anode component in the battery. Both materials present a challenge in the cycling reliability and safety aspects of the lithium-ion battery, as the expansion issue of Silicon and the volatility of the Lithium Metal are issues that have not been fully overcome. This is where the development of this new Rotated Multilayer Graphene material, and the cost-effective manufacturing method developed through this project, opens a new pathway for the manufacturing of advanced, high energy density lithium-ion battery cells with the use of high-capacity carbon material that does not include Silicon or Lithium Metal. Especially interesting is the application of this graphene-based battery cells in Aerospace and Defense, where safety and reliability is a paramount concern.</p> <p>The team successfully completed this project with a demonstration of a larger scale Graphene manufacturing machine, lowering the cost of the manufacturing method through chemical process improvement, and validation of Rotated Multilayer Graphene electrodes for Lithium-Ion Batteries. The team is continuing to build upon the success of this project through commercialization of the Graphene material and development of high density lithium-ion battery cells for various applications.</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/30/2024<br> Modified by: Tereza&nbsp;M&nbsp;Paronyan</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The advancement of rechargeable battery technologies remains a key societal and economic issue. Lithium-ion batteries have been adopted as the main solution for energy storage in various industries, including Electric Vehicles, Aerospace, Defense, and Consumer Electronics. The key challenge for these mass-produced lithium-ion batteries has remained their weight and their ability to last in between charges, an issue stemming from materials used within the battery components.   This this NSF SBIR Phase II project has set out to build upon successes of the previous project in the scale up and integration of the novel Rotated Multilayer Graphene anode component for lithium-ion batteries. The key benefit of Rotated Multilayer Graphene material is its ability to safely store four to six times more lithium, for the same amount of weight, as compared to the leading lithium-ion battery anode material graphite. The team a HeXalayer managed to increase both the synthesis volume and the yield of the material in question, and to successfully integrated and demonstrate the use of the Rotated Multilayer Graphene as a high capacity reversible all carbon anode material for use in lithium-ion batteries. The team also successfully utilized standard lithium-ion battery manufacturing machines, such as the roll-to-roll electrode coating machine, to demonstrate potential feasibility for mass manufacturing of this technology.   Various other research groups, startups and corporations have tried to solve the battery energy density problem through other materials, mainly through use of Silicone and Lithium Metal as an anode component in the battery. Both materials present a challenge in the cycling reliability and safety aspects of the lithium-ion battery, as the expansion issue of Silicon and the volatility of the Lithium Metal are issues that have not been fully overcome. This is where the development of this new Rotated Multilayer Graphene material, and the cost-effective manufacturing method developed through this project, opens a new pathway for the manufacturing of advanced, high energy density lithium-ion battery cells with the use of high-capacity carbon material that does not include Silicon or Lithium Metal. Especially interesting is the application of this graphene-based battery cells in Aerospace and Defense, where safety and reliability is a paramount concern.   The team successfully completed this project with a demonstration of a larger scale Graphene manufacturing machine, lowering the cost of the manufacturing method through chemical process improvement, and validation of Rotated Multilayer Graphene electrodes for Lithium-Ion Batteries. The team is continuing to build upon the success of this project through commercialization of the Graphene material and development of high density lithium-ion battery cells for various applications.        Last Modified: 07/30/2024       Submitted by: TerezaMParonyan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

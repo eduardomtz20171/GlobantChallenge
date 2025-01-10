@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Thermal conductivity of lower mantle minerals and outer core alloys studied by combined fast pulsed laser and optical spectroscopy techniques]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>307962.00</AwardTotalIntnAmount>
+<AwardAmount>327856</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Hearn</SignBlockName>
+<PO_EMAI>ehearn@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Thermal convection in the Earth’s mantle drives plate tectonics. This process transports heat from within the planet, in its core and mantle, to the surface.  Heat transport through the mantle is crucial for maintaining the geodynamo in the Earth's core, and the magnetic field which shields the surface from the solar wind. Mantle dynamics depends on the rate of heat transfer by convection, conduction (contact), and radiation (e.g., light). Quantifying the thermal conductivity of mantle and core materials is, thus, critical for understanding Earth’s thermal system, dynamics, and evolution. It is, however, challenging because of the extreme pressures and temperatures prevailing in Earth’s deep interior. Here, the researchers measure the thermal conductivity of lower-mantle minerals and core Fe-rich alloys. They carry out experiments on synthetic materials compressed at the tips of two opposing diamonds, which produces the relevant high pressures. They use high-power lasers to heat up the specimens and vary their temperature. Conductive and radiative thermal properties are extracted using state-of-the-art spectroscopic techniques previously developed by the team. The project gradually unveils the physics of thermal transport at extreme conditions. It advances the Earth Sciences field, as well as adjacent fields in Materials Sciences with potential energy applications. It provides support and training to one postdoctoral associate at Carnegie Institution of Washington, and outreach towards undergraduate and high-school students. The project also fosters an international collaboration with European scientists.&lt;br/&gt; &lt;br/&gt;The thermal conductivity of materials in Earth’s interior is a key parameter in controlling the thermal history and dynamics of the planet. Thermal properties constrain processes involved in planetary accretion and differentiation, the thermal evolution of mantle and core, and the generation of Earth’s magnetic field. Here, the team focusses on constraining more accurately the heat flow through the outer core and core-mantle boundary (CMB).  Experiments in the laser-heated diamond anvil cell (DAC) are combined with modeling of deep Earth temperature profiles. The team applies transient heating and broad band optical spectroscopy, two novel techniques they previously develop; these allow quantifying the conductive and radiative conductivities of the thermal boundary layer. The researchers develop a new technique – the "pulsed electric conductivity" technique – which applied in combination with transient heating allows quantifying the thermal conductivity of the outer core.  These experiments are performed on Fe-rich alloys (including the melts), and high-quality relevant minerals (e.g., single crystals of bridgmanite) synthesized in large-volume devices or in situ in the DAC. The starting materials are highly homogeneous glasses fused together in a gas-mixing aerodynamic levitation laser furnace. The project outcomes will provide accurate and consistent estimates of the heat flux through the core and the CMB. These results have strong implications for the understanding of the present-day heat flux at the CMB, the thermal history of Earth and heat transport mechanisms at the bottom of the lower mantle (e.g., via superplumes).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/25/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050, 47.079</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2049127</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Goncharov</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander F Goncharov</PI_FULL_NAME>
+<EmailAddress><![CDATA[agoncharov@carnegiescience.edu]]></EmailAddress>
+<NSF_ID>000475219</NSF_ID>
+<StartDate>03/25/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carnegie Institution of Washington]]></Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200151305</ZipCode>
+<PhoneNumber>2023876400</PhoneNumber>
+<StreetAddress><![CDATA[5241 BROAD BRANCH RD NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZQ12LY4L5H39</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE INSTITUTION OF WASHINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Earth and Planets Laboratory, Carnegie Institution of Washington]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200151305</ZipCode>
+<StreetAddress><![CDATA[5251 Broad Branch Road NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>054Y00</Code>
+<Text>GVF - Global Venture Fund</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>157400</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1031</Code>
+<Text>STUDIES OF THE EARTH'S DEEP INTERIOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5918</Code>
+<Text>FRANCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~154342</FUND_OBLG>
+<FUND_OBLG>2022~173514</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The thermal history of the core and mantle and their dynamics is one of the most fundamental topics in geophysics. It is related to the processes of planetary accretion and differentiation, the time evolution of mantle and core temperatures, and the generation of Earth&rsquo;s magnetic field. The thermal conductivity of materials in the Earth&rsquo;s and planetary interiors is the key to understanding these phenomena.</p> <p>In this project, we performed direct measurements of thermal conductivity of deep Earth&rsquo;s lower mantle and core materials alongside those of other terrestrial planets (Venus and Mars) using our pulsed laser in-house techniques as well as a new X-ray Free-Electron Laser (XFEL) technique applied to the samples in a laser-heated diamond anvil cells (DAC), which generate the relevant pressure-temperature (P-T) conditions. The results of such investigations can be utilized in model calculations of the thermal processes in the Earth, thus providing a crucial test of these models and our current understanding of the Earth&rsquo;s interior.</p> <p>Here, we concentrated in measurements of the conductive part of thermal conductivity.&nbsp;We applied the previously reported Transient Heating (TH) technique, which determines heat flux across the pulsed laser heated sample using time- resolved spectroradiometry. However, this technique is very challenging in the sample preparation and data analysis, which require a good knowledge of the sample thickness. Moreover, the application of this technique to liquid and metastable states is very difficult as the experiments require repeatable heating in identical conditions.&nbsp;</p> <p>To address this goal, we developed a new technique at the European XFEL in Hamburg (community efforts), where the samples of interest in a DAC are being heated by a train of MHz X-ray pulses absorbed by the material and deposited heat sequentially into the bulk of the sample (Fig. 1). The evolution of the sample temperature with time is being measured via the thermal expansion probed by instantaneous XRD measurements using the same X-ray pulses and by streaked optical pyrometry. Thermal conductivity of the material is determined by how fast the system reaches the steady state.</p> <p>We measured thermal conductivity of Fe at 15-60 GPa and 1700-2500 K using TH technique. Thermal conductivity of fcc-Fe increases linearly with pressure between 16 and 34 GPa (Fig. 2). At the central pressures of Mercury and Mars (35-40 GPa), the thermal conductivity of fcc-Fe is 52(7) W/m/K. &nbsp;At conditions where lattice thermal conductivity and electrical resistivity measurements overlap, quantitative agreement between <em>k </em>and k<em>el </em>can be found when using a close to conventional Lorenz number of L = 2.3 <em>&middot; </em>10<sup><em>-</em>8</sup> W <em>&middot;</em>&#8486;<em>&middot; </em>K<sup><em>-</em>2</sup>. These results have been used to construct thermal conductivity models of thermal evolution of Mercury&rsquo;s core, showing that some fraction of volatile elements (C and/or S) may be required to simultaneously describe the thermal evolution of the core and the characteristics of Mercury&rsquo;s present-day magnetic field.</p> <p>&nbsp;We measured thermal conductivity of FeS (which represents the end member composition for a sulfur-rich Martian core) from 19-119 GPa and up to 3000 K using TH technique (Fig. 3). The experiments were augmented by first-principles calculations from 20-150 GPa and up to 4000 K demonstrating that FeS exhibits finite magnetic moments at the conditions of the Martian core. The thermal conductivity of FeS is about 15-30 W/m/K at the conditions of the Martian core. With computed electrical resistivity values of about 120-180 <em>&micro;</em>&#8486;cm, FeS is metallic, but a poor metal at these conditions. These results indicate that sulfur-rich core compositions are compatible with constraints on the cessation time of Mars&rsquo; early dynamo.</p> <p>&nbsp;We measured thermal conductivity of bridgmanite, the primary constituent of the Earth's lower mantle, using DAC at pressures up to 85 GPa and temperatures up to 3100 K by combining in house TH and MHz XFEL techniques. The results demonstrate that Fe or Fe,Al incorporation in bridgmanite reduces thermal conductivity by about 50% in comparison to end&#8208;member MgSiO3 at the pressure&#8208;temperature conditions of Earth's lower mantle. The results yield thermal conductivity of 7.5&ndash;15 W/(m &times;K) in the thermal boundary layer of the lowermost mantle composed of Fe,Al&#8208;bearing bridgmanite (Fig. 4) providing a new reliable constraint, which is larger than previously reported&nbsp; but in agreement with a recent theory. This result makes the best CMB heat flux estimation in the 10&ndash;20 TW range, in broad agreement with recent geophysical estimations.</p> <p>The technical developments of this work enabled measurement of the lattice and radiative thermal conductivity of the deep Earth&rsquo;s materials, knowledge of which are important for understanding of the Earth thermal history and dynamics. A number of postdoctoral associates and summer students working on the projects have been trained in novel ultrafast laser spectroscopy techniques and their applications to geo- planetary and material sciences.</p><br> <p>  Last Modified: 07/15/2024<br> Modified by: Alexander&nbsp;F&nbsp;Goncharov</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2049127/2049127_10723998_1721056583682_TC_Fe_Fig3--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2049127/2049127_10723998_1721056583682_TC_Fe_Fig3--rgov-800width.jpg" title="Thermal conductivity of fcc-Fe as a function of pressure"><img src="/por/images/Reports/POR/2024/2049127/2049127_10723998_1721056583682_TC_Fe_Fig3--rgov-66x44.jpg" alt="Thermal conductivity of fcc-Fe as a function of pressure"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Comparison of the present study to literature values of thermal conductivity (k) literature and electrical conductivity (kel literature. Electrical resistivity data has been converted to thermal conductivity values using the  Sommerfeld value for the Lorenz number (L = 2.445 ?10-8 W ?&#8486;? K-2).</div> <div class="imageCredit">Eric Edmund</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Alexander&nbsp;F&nbsp;Goncharov <div class="imageTitle">Thermal conductivity of fcc-Fe as a function of pressure</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2049127/2049127_10723998_1721056007989_FeS_TC_Fig2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2049127/2049127_10723998_1721056007989_FeS_TC_Fig2--rgov-800width.jpg" title="Transient heating measurements of Thermal condutivity of FeS at extreme P-T conditions"><img src="/por/images/Reports/POR/2024/2049127/2049127_10723998_1721056007989_FeS_TC_Fig2--rgov-66x44.jpg" alt="Transient heating measurements of Thermal condutivity of FeS at extreme P-T conditions"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Temperature as a function of time as measured in an experiment (circles) and calculated using finite-element models lines). b) Intensity profile of laser pulse which generates the temperature perturbation. c) Focused Ion Beam cross section of the recovered sample.</div> <div class="imageCredit">Eric Edmund</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Alexander&nbsp;F&nbsp;Goncharov <div class="imageTitle">Transient heating measurements of Thermal condutivity of FeS at extreme P-T conditions</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2049127/2049127_10723998_1721056766260_BgmTCfig4--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2049127/2049127_10723998_1721056766260_BgmTCfig4--rgov-800width.jpg" title="Thermal conductivity of Fe,Al and Fe-bearing Bgm as a function of pressure at high temperatures (2100 K) determined in XFEL experiments in comparison with previous thermodynamic models."><img src="/por/images/Reports/POR/2024/2049127/2049127_10723998_1721056766260_BgmTCfig4--rgov-66x44.jpg" alt="Thermal conductivity of Fe,Al and Fe-bearing Bgm as a function of pressure at high temperatures (2100 K) determined in XFEL experiments in comparison with previous thermodynamic models."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Black rectangle corresponds to the best values of thermal conductivity of Fe,Al and Fe-bearing Bgm of this work at the pressure conditions of the thermal boundary layer in the base of the lower mantle.</div> <div class="imageCredit">Alexander Goncharov</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Alexander&nbsp;F&nbsp;Goncharov <div class="imageTitle">Thermal conductivity of Fe,Al and Fe-bearing Bgm as a function of pressure at high temperatures (2100 K) determined in XFEL experiments in comparison with previous thermodynamic models.</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2049127/2049127_10723998_1721055736510_XFEL--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2049127/2049127_10723998_1721055736510_XFEL--rgov-800width.jpg" title="XFEL heating and time resolved XRD probing of DAC samples"><img src="/por/images/Reports/POR/2024/2049127/2049127_10723998_1721055736510_XFEL--rgov-66x44.jpg" alt="XFEL heating and time resolved XRD probing of DAC samples"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Illustration of a new technique at the European XFEL in Hamburg (community efforts), where the samples of interest in a DAC are heated by a train of MHz X-ray pulses absorbed by the material and deposited heat sequentially into the bulk of the sample and XRD probed in situ by the same XFEL pulse</div> <div class="imageCredit">J. Mainberger (DESY) for image of XDR. Z. Konopkova for a photo</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Alexander&nbsp;F&nbsp;Goncharov <div class="imageTitle">XFEL heating and time resolved XRD probing of DAC samples</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The thermal history of the core and mantle and their dynamics is one of the most fundamental topics in geophysics. It is related to the processes of planetary accretion and differentiation, the time evolution of mantle and core temperatures, and the generation of Earths magnetic field. The thermal conductivity of materials in the Earths and planetary interiors is the key to understanding these phenomena.   In this project, we performed direct measurements of thermal conductivity of deep Earths lower mantle and core materials alongside those of other terrestrial planets (Venus and Mars) using our pulsed laser in-house techniques as well as a new X-ray Free-Electron Laser (XFEL) technique applied to the samples in a laser-heated diamond anvil cells (DAC), which generate the relevant pressure-temperature (P-T) conditions. The results of such investigations can be utilized in model calculations of the thermal processes in the Earth, thus providing a crucial test of these models and our current understanding of the Earths interior.   Here, we concentrated in measurements of the conductive part of thermal conductivity.We applied the previously reported Transient Heating (TH) technique, which determines heat flux across the pulsed laser heated sample using time- resolved spectroradiometry. However, this technique is very challenging in the sample preparation and data analysis, which require a good knowledge of the sample thickness. Moreover, the application of this technique to liquid and metastable states is very difficult as the experiments require repeatable heating in identical conditions.   To address this goal, we developed a new technique at the European XFEL in Hamburg (community efforts), where the samples of interest in a DAC are being heated by a train of MHz X-ray pulses absorbed by the material and deposited heat sequentially into the bulk of the sample (Fig. 1). The evolution of the sample temperature with time is being measured via the thermal expansion probed by instantaneous XRD measurements using the same X-ray pulses and by streaked optical pyrometry. Thermal conductivity of the material is determined by how fast the system reaches the steady state.   We measured thermal conductivity of Fe at 15-60 GPa and 1700-2500 K using TH technique. Thermal conductivity of fcc-Fe increases linearly with pressure between 16 and 34 GPa (Fig. 2). At the central pressures of Mercury and Mars (35-40 GPa), the thermal conductivity of fcc-Fe is 52(7) W/m/K. At conditions where lattice thermal conductivity and electrical resistivity measurements overlap, quantitative agreement between k and kel can be found when using a close to conventional Lorenz number of L = 2.3  10-8 W &#8486; K-2. These results have been used to construct thermal conductivity models of thermal evolution of Mercurys core, showing that some fraction of volatile elements (C and/or S) may be required to simultaneously describe the thermal evolution of the core and the characteristics of Mercurys present-day magnetic field.   We measured thermal conductivity of FeS (which represents the end member composition for a sulfur-rich Martian core) from 19-119 GPa and up to 3000 K using TH technique (Fig. 3). The experiments were augmented by first-principles calculations from 20-150 GPa and up to 4000 K demonstrating that FeS exhibits finite magnetic moments at the conditions of the Martian core. The thermal conductivity of FeS is about 15-30 W/m/K at the conditions of the Martian core. With computed electrical resistivity values of about 120-180 &#8486;cm, FeS is metallic, but a poor metal at these conditions. These results indicate that sulfur-rich core compositions are compatible with constraints on the cessation time of Mars early dynamo.   We measured thermal conductivity of bridgmanite, the primary constituent of the Earth's lower mantle, using DAC at pressures up to 85 GPa and temperatures up to 3100 K by combining in house TH and MHz XFEL techniques. The results demonstrate that Fe or Fe,Al incorporation in bridgmanite reduces thermal conductivity by about 50% in comparison to end&#8208;member MgSiO3 at the pressure&#8208;temperature conditions of Earth's lower mantle. The results yield thermal conductivity of 7.515 W/(m K) in the thermal boundary layer of the lowermost mantle composed of Fe,Al&#8208;bearing bridgmanite (Fig. 4) providing a new reliable constraint, which is larger than previously reported but in agreement with a recent theory. This result makes the best CMB heat flux estimation in the 1020 TW range, in broad agreement with recent geophysical estimations.   The technical developments of this work enabled measurement of the lattice and radiative thermal conductivity of the deep Earths materials, knowledge of which are important for understanding of the Earth thermal history and dynamics. A number of postdoctoral associates and summer students working on the projects have been trained in novel ultrafast laser spectroscopy techniques and their applications to geo- planetary and material sciences.     Last Modified: 07/15/2024       Submitted by: AlexanderFGoncharov]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

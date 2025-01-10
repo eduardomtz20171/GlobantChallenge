@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Iron(II)/Iron(III) and Cobalt(II) Complexes as Redox-tunable Probes for Magnetic Resonance Imaging (MRI)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>420000.00</AwardTotalIntnAmount>
+<AwardAmount>443200</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+<PO_EMAI>tli@nsf.gov</PO_EMAI>
+<PO_PHON>7032924949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Inflammation is a characteristic feature of many diseases including arteriosclerosis, multiple sclerosis, and cancer.  The development of probes to track inflammation could provide information towards the diagnosis and treatment of these diseases.  Magnetic resonance imaging (MRI) provides high resolution and deep tissue images, which in conjunction with MRI probes, may enable mapping of inflammation in disease states.  In this project, Dr. Morrow is developing new MRI probes that demonstrate a change in signal in the presence of certain molecules that are produced by the immune defense system of the body during inflammation. These MRI probes contain cobalt or iron switches that are part of small molecules or lipid nanoparticles.  This project involves the preparation of several new cobalt or iron containing molecules and their study in solution and in animal models of inflammation.  Dr. Morrow of the University at Buffalo, the State University of New York is actively engaged in outreach activities that build upon her research to promote engagement of students in science, technology, engineering and mathematics (STEM) disciplines. These activities, which include summer research internships for middle school and high school teachers in Dr. Morrow’s laboratory, are directed at improving education of K-12 students and encouraging their interest in STEM careers. &lt;br/&gt;&lt;br/&gt;With funding from the Chemical Structure, Dynamics and Mechanisms-B program of the Chemistry Division, Dr. Morrow of the University at Buffalo, the State University of New York is developing transition metal complexes as MRI contrast agents that respond to cellular redox imbalances attributed to inflammation. Inflammation that is associated with the defensive immune response is a characteristic of many diseases and injuries including arteriosclerosis, multiple sclerosis, and cancer.  For example, atherosclerotic lesions contain high levels of perioxidase activity.  Dr. Morrow is synthesizing new Co(II) and Fe(II)/Fe(III) complexes as MRI contrast agents that are responsive to inflammation.  Small molecule coordination complexes of Fe(II) are activated under these oxidizing conditions through the formation of high spin Fe(III) complexes that are relaxivity contrast agents.  Liposome systems loaded with Co(II) or Fe(II) show a shift in the position of the signal upon change in redox environment.  MRI studies are carried out both in solution and in mice.  Dr. Morrow is actively engaged in STEM outreach programs focused on summer research experiences and collaborative projects for middle and high school teachers and for undergraduates to improve education in the STEM fields, in support of broader impacts of the project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004135</AwardID>
+<Investigator>
+<FirstName>Janet</FirstName>
+<LastName>Morrow</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Janet R Morrow</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmorrow@buffalo.edu]]></EmailAddress>
+<NSF_ID>000441317</NSF_ID>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY at Buffalo]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>142282577</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress><![CDATA[520 LEE ENTRANCE STE 211]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMCJKRFW5R81</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GMZUKXFDJMA9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University at Buffalo, SUNY]]></Name>
+<CityName>Amherst</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>142603000</ZipCode>
+<StreetAddress><![CDATA[526 Natural Sciences Complex]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>910200</Code>
+<Text>CMFP-Chem Mech Funct, and Prop</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9232</Code>
+<Text>RES OPPOR AWARDS(ROA) (SUPPLEM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~420000</FUND_OBLG>
+<FUND_OBLG>2022~23200</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>There is renewed interest in the development of transition metal complexes as alternatives to gadolinium-based magnetic resonance imaging (MRI) contrast agents.&nbsp; Iron, as a naturally occurring element that can be recycled by the human body is a potential alternative to the clinically used gadolinium agents. Our research group developed two new classes of iron-based MRI contrast agents that contained macrocyclic ligands. The first class was based on iron agents incorporated into liposomal vesicles which were tested in mice MRI studies.&nbsp; This class of agent featured iron complexes incorporated into the lipid bilayer and the interior of the liposome as effective relaxivity agents. The second class included iron-based agents that are responsive to redox environment.&nbsp; These complexes produced signal upon oxidation of the iron center for applications in imaging of inflammation by MRI.&nbsp;</p> <p>Another abundant transition metal, cobalt, was studied for the development of MRI probes.&nbsp; Paramagnetic cobalt complexes were studied for chemical exchange saturation transfer (CEST) imaging with the goal of obtaining highly shifted CEST peaks.&nbsp; One class of cobalt complex showed very highly shifted and intense CEST peaks as a promising probe for future development.&nbsp; Another series of cobalt complexes had appended fluorophores to track their uptake into yeast cells towards the production of CEST in cells.&nbsp; A neutral cobalt complex was incorporated into liposomes to produce a shift of the water protons for liposomal CEST to produce agents of increased sensitivity.&nbsp; Research supported by this NSF grant was conducted by five graduate students and six undergraduate students. They were trained in the chemical synthesis of organic and inorganic compounds, the preparation of liposomal agents and their studies in aqueous solutions.&nbsp;</p> <p>Educational opportunities included the development of a general chemistry laboratory to study the effect of the uptake of paramagnetic complexes in yeast cells.&nbsp; This laboratory demonstrated coordination chemistry, principles of metal ions in biology and paramagnetic properties of transition metals.&nbsp; A high school teacher worked with our research group to develop hands on laboratory experiments for her students that featured the preparation and characterization of paramagnetic iron nanoparticles.&nbsp; &nbsp;&nbsp;&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/03/2024<br> Modified by: Janet&nbsp;R&nbsp;Morrow</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2004135/2004135_10668976_1720026570118_CoverArtSubmission_2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2004135/2004135_10668976_1720026570118_CoverArtSubmission_2--rgov-800width.jpg" title="Cobalt LipoCEST agents"><img src="/por/images/Reports/POR/2024/2004135/2004135_10668976_1720026570118_CoverArtSubmission_2--rgov-66x44.jpg" alt="Cobalt LipoCEST agents"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Encapsulation of paramagnetic cobalt complexes into a liposomal vesicle produces a shifted intraliposomal water proton resonance for magnetic resonance imaging</div> <div class="imageCredit">Jaclyn Raymond</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Janet&nbsp;R&nbsp;Morrow <div class="imageTitle">Cobalt LipoCEST agents</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  There is renewed interest in the development of transition metal complexes as alternatives to gadolinium-based magnetic resonance imaging (MRI) contrast agents. Iron, as a naturally occurring element that can be recycled by the human body is a potential alternative to the clinically used gadolinium agents. Our research group developed two new classes of iron-based MRI contrast agents that contained macrocyclic ligands. The first class was based on iron agents incorporated into liposomal vesicles which were tested in mice MRI studies. This class of agent featured iron complexes incorporated into the lipid bilayer and the interior of the liposome as effective relaxivity agents. The second class included iron-based agents that are responsive to redox environment. These complexes produced signal upon oxidation of the iron center for applications in imaging of inflammation by MRI.   Another abundant transition metal, cobalt, was studied for the development of MRI probes. Paramagnetic cobalt complexes were studied for chemical exchange saturation transfer (CEST) imaging with the goal of obtaining highly shifted CEST peaks. One class of cobalt complex showed very highly shifted and intense CEST peaks as a promising probe for future development. Another series of cobalt complexes had appended fluorophores to track their uptake into yeast cells towards the production of CEST in cells. A neutral cobalt complex was incorporated into liposomes to produce a shift of the water protons for liposomal CEST to produce agents of increased sensitivity. Research supported by this NSF grant was conducted by five graduate students and six undergraduate students. They were trained in the chemical synthesis of organic and inorganic compounds, the preparation of liposomal agents and their studies in aqueous solutions.   Educational opportunities included the development of a general chemistry laboratory to study the effect of the uptake of paramagnetic complexes in yeast cells. This laboratory demonstrated coordination chemistry, principles of metal ions in biology and paramagnetic properties of transition metals. A high school teacher worked with our research group to develop hands on laboratory experiments for her students that featured the preparation and characterization of paramagnetic iron nanoparticles.         Last Modified: 07/03/2024       Submitted by: JanetRMorrow]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

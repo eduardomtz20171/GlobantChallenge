@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Robust Bayesian Semiparametric Inference of Heterogeneous Causal Effects in Observational Studies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>A scientific mission of critical importance is to transform massive data into actionable knowledge, which largely centers on understanding causal relationships.  Causal inference has become one of three main tasks in data science, in addition to descriptive and predictive analyses.  This research project aims to close existing gaps in estimation of heterogeneous causal effects and will make more statistical tools available for analyzing massive observational data.  It will blend the conventional statistical approaches to causal inference with the fast-growing machine learning techniques and provide researchers and policy makers with powerful methodological tools to better evaluate the impact of interventions and thus to optimize decision making.  Doctoral students in Statistics and Biostatistics will be involved in the development and implementation of the methods.&lt;br/&gt;&lt;br/&gt;This project concerns the development of a stream of innovative Bayesian semiparametric methods for efficient and robust causal inference in the presence of effect heterogeneity in large observational datasets.  Conventional statistical approaches have a strong tie to randomized experiments, which enjoy easy causal interpretation but may suffer in terms of efficiency.  Moreover, recently developed nonparametric regression and machine learning methods focus primarily on outcome modelling and prediction, which may encounter troubles from confounding and are often more difficult to interpret.  Furthermore, hidden bias from unmeasured confounding is a major concern in observational studies.  The status quo sensitivity analysis for assessing hidden bias does not accommodate complex data structures.  The PIs will develop a robust Bayesian semiparametric framework for incorporating the treatment assignment process into the outcome modelling.  The framework can easily accommodate complex heterogenous effects or hierarchical structures in massive observational data, adequately take advantage of experts’ knowledge and existing causal theory on how the intervention might work, and effectively assess the impact due to potential unmeasured confounders.  Propensity scores will be incorporated in potential outcome models via Gaussian process priors and connections with the conventional matching estimators will be established.  Moreover, the impact of unmeasured confounding will be assessed through Bayesian sensitivity analysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015552</AwardID>
+<Investigator>
+<FirstName>Bo</FirstName>
+<LastName>Lu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bo Lu</PI_FULL_NAME>
+<EmailAddress><![CDATA[lu.232@osu.edu]]></EmailAddress>
+<NSF_ID>000662192</NSF_ID>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xinyi</FirstName>
+<LastName>Xu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xinyi Xu</PI_FULL_NAME>
+<EmailAddress><![CDATA[xinyi@stat.osu.edu]]></EmailAddress>
+<NSF_ID>000210686</NSF_ID>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>MacEachern</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven N MacEachern</PI_FULL_NAME>
+<EmailAddress><![CDATA[snm@stat.osu.edu]]></EmailAddress>
+<NSF_ID>000379898</NSF_ID>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>Columbus</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress><![CDATA[1958 Neil Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~250000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Intellectual Merit:</p> <p>Causal inference lies at the core of many scientific endeavors. For example, how effective will a new medication be for a specific group of patients, or how much can a new policy reduce the crime rate? These questions require moving beyond mere associations to address causality&mdash;if we intervene in a specific way, what will the outcome be?</p> <p>Traditionally, statistical developments have relied heavily on randomized experiments. However, in the era of big data, many large datasets are either entirely observational or have a significant observational component. Causal inference for observational datasets is more challenging than for randomized experiments for several reasons: key covariates may be distributed differently between intervention groups; unmeasured confounders might exist and are correlated with both the treatment and the outcome; and treated and control groups may exhibit different functional patterns with respect to the response. These differences contribute to two widely recognized challenges of causal inference &mdash; the adjustment for confounders and the modeling of outcomes &mdash; which must be addressed simultaneously.&nbsp;&nbsp;Moreover, the complexities of modern datasets necessitate flexible models to capture heterogeneity. However, both traditional design-based methods and many nonparametric regression-based approaches struggle to incorporate such information.</p> <p>We addressed causal inference for large observational datasets by developing innovative Bayesian semiparametric methods that account for effect heterogeneity. These methods remove confounding factors by incorporating propensity scores and model potential outcomes using flexible semiparametric Gaussian process regressions.&nbsp;&nbsp;They can accommodate complex subgroup or hierarchical structures within massive observational data and effectively integrate external information or expert knowledge about causal relationships.&nbsp;&nbsp;Our causal estimators align with conventional propensity score matching estimators under certain prior specifications, while offering substantially improved efficiency and better identification of heterogeneous effects in general scenarios. Moreover, they provide clearer interpretations and more robust estimates compared to many machine learning estimators.</p> <p>We also evaluated the impact of unmeasured confounding through Bayesian sensitivity analyses. In the presence of heterogeneity, the treatment effect is determined by a function of covariates rather than a single parameter, requiring more sophisticated evaluation strategies. We simulated and incorporated unmeasured confounders in both the response and treatment models, with coefficients serving as sensitivity parameters. The values of these sensitivity parameters were then compared with the marginal effects of observed covariates, providing researchers with a benchmark for determining problematic levels of confounding.</p> <p>This project effectively combined the potential outcome framework with semiparametric Bayesian models, making significant contributions in formalizing and solving complex causal inference problems in observational studies.</p> <p>&nbsp;</p> <p><strong>Broader Impacts:</strong></p> <p>The project has had a significant impact on human resource development, fostering the academic growth of eleven doctoral students in the Statistics and Biostatistics PhD programs at Ohio State University.&nbsp;&nbsp;Seven of these students are female, and four have since graduated and transitioned into industry or academic positions. Through their involvement in this project, they gained substantial experience in Bayesian causal inference, laying a strong foundation for their development into independent, analytically proficient statisticians with a comprehensive understanding of the field.</p> <p>Also, the project has provided valuable opportunities for training and professional development. The knowledge gained from this research was integrated into a graduate-level course on Causal Inference, attended by both master&rsquo;s and PhD students from diverse disciplines, including Statistics, Biostatistics, and Epidemiology. This course offered students firsthand exposure to cutting-edge research in causal inference.</p> <p>The models developed through this project have a broad range of applications, spanning sectors such as medicine, education, and business. Through the PIs' proactive engagement with various communities, the project's results have been widely disseminated through presentations, scholarly publications, and collaborative research initiatives. Furthermore, our Bayesian nonparametric causal inference model has been implemented in R, with the computational code freely accessible to the public, promoting openness and collaboration.</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/31/2024<br> Modified by: Xinyi&nbsp;Xu</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit:   Causal inference lies at the core of many scientific endeavors. For example, how effective will a new medication be for a specific group of patients, or how much can a new policy reduce the crime rate? These questions require moving beyond mere associations to address causalityif we intervene in a specific way, what will the outcome be?   Traditionally, statistical developments have relied heavily on randomized experiments. However, in the era of big data, many large datasets are either entirely observational or have a significant observational component. Causal inference for observational datasets is more challenging than for randomized experiments for several reasons: key covariates may be distributed differently between intervention groups; unmeasured confounders might exist and are correlated with both the treatment and the outcome; and treated and control groups may exhibit different functional patterns with respect to the response. These differences contribute to two widely recognized challenges of causal inference  the adjustment for confounders and the modeling of outcomes  which must be addressed simultaneously.Moreover, the complexities of modern datasets necessitate flexible models to capture heterogeneity. However, both traditional design-based methods and many nonparametric regression-based approaches struggle to incorporate such information.   We addressed causal inference for large observational datasets by developing innovative Bayesian semiparametric methods that account for effect heterogeneity. These methods remove confounding factors by incorporating propensity scores and model potential outcomes using flexible semiparametric Gaussian process regressions.They can accommodate complex subgroup or hierarchical structures within massive observational data and effectively integrate external information or expert knowledge about causal relationships.Our causal estimators align with conventional propensity score matching estimators under certain prior specifications, while offering substantially improved efficiency and better identification of heterogeneous effects in general scenarios. Moreover, they provide clearer interpretations and more robust estimates compared to many machine learning estimators.   We also evaluated the impact of unmeasured confounding through Bayesian sensitivity analyses. In the presence of heterogeneity, the treatment effect is determined by a function of covariates rather than a single parameter, requiring more sophisticated evaluation strategies. We simulated and incorporated unmeasured confounders in both the response and treatment models, with coefficients serving as sensitivity parameters. The values of these sensitivity parameters were then compared with the marginal effects of observed covariates, providing researchers with a benchmark for determining problematic levels of confounding.   This project effectively combined the potential outcome framework with semiparametric Bayesian models, making significant contributions in formalizing and solving complex causal inference problems in observational studies.      Broader Impacts:   The project has had a significant impact on human resource development, fostering the academic growth of eleven doctoral students in the Statistics and Biostatistics PhD programs at Ohio State University.Seven of these students are female, and four have since graduated and transitioned into industry or academic positions. Through their involvement in this project, they gained substantial experience in Bayesian causal inference, laying a strong foundation for their development into independent, analytically proficient statisticians with a comprehensive understanding of the field.   Also, the project has provided valuable opportunities for training and professional development. The knowledge gained from this research was integrated into a graduate-level course on Causal Inference, attended by both masters and PhD students from diverse disciplines, including Statistics, Biostatistics, and Epidemiology. This course offered students firsthand exposure to cutting-edge research in causal inference.   The models developed through this project have a broad range of applications, spanning sectors such as medicine, education, and business. Through the PIs' proactive engagement with various communities, the project's results have been widely disseminated through presentations, scholarly publications, and collaborative research initiatives. Furthermore, our Bayesian nonparametric causal inference model has been implemented in R, with the computational code freely accessible to the public, promoting openness and collaboration.        Last Modified: 08/31/2024       Submitted by: XinyiXu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

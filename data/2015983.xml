@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Control of Aeroelastic Structures via Prescribed Upstream Aerodynamic Disturbances]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>454209.00</AwardTotalIntnAmount>
+<AwardAmount>454209</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yue Wang</SignBlockName>
+<PO_EMAI>yuewang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924588</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This grant will advance the national prosperity and security through a scientific understanding of fluid-structure interactions that will advance the fields of aerodynamics, structural dynamics, and vibration control favorable for future high-efficiency aircraft, extended endurance in swarms of swimming or flying robots, enhanced wind and hydrokinetic energy generation, and protection of infrastructure like bridges and pipelines from fatigue damage due to wind and water flows. This award supports fundamental research on modifying and controlling fluid-structure interactions by way of introducing prescribed flow disturbances from an upstream disturbance generator. Depending on the application, it may be desirable to suppress a flutter instability or attenuate oscillations (as in an aircraft wing or turbine blade), increase the amplitude of oscillations (as in an oscillating flow energy harvester), or reshape an oscillation to beneficially affect fluid-structure energy transfer (as in a swarm of swimming or flying robots synchronizing to minimize energy consumption). The approach studied here will enable any of these distinct behaviors to be generated on-demand. The multi-disciplinary approach, and the education activities at the middle school through doctoral levels, will help broaden the participation of underrepresented groups in research and positively impact engineering education.&lt;br/&gt;&lt;br/&gt;The objective of this project is to enable distinct aeroelastic system behaviors including equilibrium stabilization / destabilization or limit cycle oscillation amplitude increase / decrease to be created, controlled, and modified on-demand by prescribing aerodynamic disturbances that interact with a target aeroelastic wing. The project aims to understand, model, and formulate control approaches for aeroelastic wings being affected by canonical flow disturbances such as convecting vortices. The first goal is to understand and map the spatiotemporal relationships between incoming flow disturbances and the unsteady aerodynamic forces and moments on a wing using a custom discrete vortex method with a model for external flow disturbances (LDVM-Disturbance) and wind tunnel experiments for validation. A second goal is to establish the effects of incoming flow disturbance topology, strength, frequency content, and phasing on the stability and nonlinear oscillation behavior of an aeroelastic wing. This will be investigated in simulation by coupling the LDVM-Disturbance model with an aeroelastic structural dynamics model, and in validation experiments by measuring the response of an aeroelastic wing section downstream of an actuated disturbance generator. A third goal is to create a sequence of feed-forward system inversions that allows required disturbance generator motions to be determined to produce desired responses in the downstream aeroelastic wing. The results will be used to demonstrate open-loop control of aeroelastic stability and oscillation phenomena in wind tunnel experiments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015983</AwardID>
+<Investigator>
+<FirstName>Ashok</FirstName>
+<LastName>Gopalarathnam</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ashok Gopalarathnam</PI_FULL_NAME>
+<EmailAddress><![CDATA[ashok_g@ncsu.edu]]></EmailAddress>
+<NSF_ID>000487690</NSF_ID>
+<StartDate>06/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Bryant</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew J Bryant</PI_FULL_NAME>
+<EmailAddress><![CDATA[mbryant@ncsu.edu]]></EmailAddress>
+<NSF_ID>000610026</NSF_ID>
+<StartDate>06/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress><![CDATA[2601 WOLF VILLAGE WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NVH931QJJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>Raleigh</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276957910</ZipCode>
+<StreetAddress><![CDATA[911 Oval Drive - 3407 EBIII, Cam]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>756900</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~454209</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Overview:</strong> This project has enhanced understanding of the stability, dynamics, motions, and control of aeroelastic structures interacting with upstream flow disturbances. Aeroelastic structures, which are defined as flexible bodies subject to external aerodynamic or hydrodynamic forces, can be found in a range of applications from aircraft wings, to bridge decks, to heat exchangers, to bird wings and fish fins. Establishing methods to controllably suppress or enhance oscillations in these structures can improve safety and flight performance in aircraft, enable new types of wind or underwater energy generation, or improve energy efficiency of swimming robots. As part of the effort, the work has studied and characterized pitch-oscillating cylinders with attached splitter plates as controllable flow disturbance generators and created nonlinear simulation methods for aeroelastic wings using low-order, unsteady aerodynamics models capable of modeling large amplitude motions and vortex interactions. We have used prescribed flow disturbances, namely vortex wakes of the disturbance generator, to excite or annihilate nonlinear limit cycle oscillations (LCOs) on-demand in an aeroelastic wing. We have also studied the effects of vortex frequency and phase on the range of conditions over which LCOs are possible and how quickly those LCOs can be annihilated. Additionally, simulations through both computational fluid dynamics (CFD) and low-order methods have allowed us to study the formation of vortices and model their behavior across a range of conditions. The low-order methods also present a fast modelling framework with will prove useful in further applications in aeroelastic research, especially in situations where aeroelasticity is one part of a larger analytical or control framework.</p> <p><strong>Intellectual Merit: </strong>This research effort has made the following contributions to the scientific and engineering community:</p> <ul> <li>We developed and implemented a variable frequency disturbance generator (VFDG) which can produced a tailored vortex wake with a range of shedding frequencies.</li> <li>We demonstrated amplitude modulation in aeroelastic wing limit cycle oscillations (LCOs) due to prescribed impinging vortices at frequencies near the inherent LCO frequency of the wing.</li> <li>We demonstrated LCO excitation and annihilation in an aeroelastic wing using prescribed impinging vortices from an upstream disturbance generator.</li> <li>We characterized the relationship between vortex frequency and phase and the ability to annihilate LCOs in an aeroelastic wing.</li> <li>We developed a low-order model that was shown to successfully predict the aeroelastic wing limit-cycle oscillation characteristics with comparable results to our experimental measurements.</li> <li>We built a recurrent neural network to identify and predict the aeroelastic state of a wing using experimental data gathered from an aeroelastic wing exposed to incoming flow disturbances.</li> <li>We used CFD to study the effects of different splitter plate lengths attached to oscillating cylinders on wake formation, vortex strength, and lift and drag enhancement.</li> </ul> <p><strong>Broader Impacts: </strong>This project benefits society through STEM outreach and educational activities carried out by the PIs&rsquo; labs including:</p> <ul> <li>Development of aeroelasticity educational modules to be used in conjunction with the NCSU MAE summer camps hosted each year on NCSU&rsquo;s Centennial Campus.</li> <li>Development and instruction of a virtual engineering summer camp which was attended by over 70 high school students during the summer of 2021.</li> <li>Provided research experience and mentoring to one post-doc student, six graduate students, nine undergraduate students, and ten high school students.</li> <li>Worked with a local high school student through a mentorship program with the North Carolina School of Science and Math (NCSSM), where they participated in semester-long research internships and received hands-on training to design and fabricate conceptual prototypes.</li> </ul> <p>The project also benefits society by creating a new mechanism for suppressing, enhancing, or altering aeroelastic interactions as desired in a variety of engineered systems. This could lead to aircraft with lighter weight and more efficient wing designs, which would reduce emissions from air transportation, bridges and buildings that are better protected from damaging wind and water flows in storms, more efficient and cost-competitive wind and hydrokinetic power devices, and groups of flying or swimming robots with extended range and endurance for disaster response missions like mapping oil spills or delivering medical supplies to impassable regions.</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/11/2024<br> Modified by: Matthew&nbsp;J&nbsp;Bryant</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2015983/2015983_10674968_1731361244791_Final_Report_Image_4--rgov-214x142.png" original="/por/images/Reports/POR/2024/2015983/2015983_10674968_1731361244791_Final_Report_Image_4--rgov-800width.png" title="Unsteady Airfoil Vortex Shedding"><img src="/por/images/Reports/POR/2024/2015983/2015983_10674968_1731361244791_Final_Report_Image_4--rgov-66x44.png" alt="Unsteady Airfoil Vortex Shedding"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Using Prescribed Motions to Obtain Desired Leading-Edge Vortex (LEV) Shedding Patterns for Unsteady Airfoils</div> <div class="imageCredit">Arun Visnhu Suresh Babu, Shreyas Narsipur, Matthew Bryant, Ashok Gopalarathnam</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Matthew&nbsp;J&nbsp;Bryant <div class="imageTitle">Unsteady Airfoil Vortex Shedding</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2015983/2015983_10674968_1731360990365_Final_Report_Image_2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2015983/2015983_10674968_1731360990365_Final_Report_Image_2--rgov-800width.png" title="Aeroelastic Wing Response"><img src="/por/images/Reports/POR/2024/2015983/2015983_10674968_1731360990365_Final_Report_Image_2--rgov-66x44.png" alt="Aeroelastic Wing Response"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Response of an Aeroelastic Wing in a Tailored Vortex Wake Produced by a Variable Frequency Disturbance Generator</div> <div class="imageCredit">Michael Hughes, Daniel Hall, Ashok Gopalarathnam, Matthew Bryant</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Matthew&nbsp;J&nbsp;Bryant <div class="imageTitle">Aeroelastic Wing Response</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2015983/2015983_10674968_1731363210775_Final_Report_Image_5--rgov-214x142.png" original="/por/images/Reports/POR/2024/2015983/2015983_10674968_1731363210775_Final_Report_Image_5--rgov-800width.png" title="Limit Cycle Model Predictions"><img src="/por/images/Reports/POR/2024/2015983/2015983_10674968_1731363210775_Final_Report_Image_5--rgov-66x44.png" alt="Limit Cycle Model Predictions"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Limit-Cycle Oscillation Predictions using the Discrete-Vortex Method (DVM) in State-Variable Form</div> <div class="imageCredit">Yi Tsung Lee, Michael Hughes, Matthew Bryant, Ashok Gopalarathnam</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Matthew&nbsp;J&nbsp;Bryant <div class="imageTitle">Limit Cycle Model Predictions</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2015983/2015983_10674968_1731360889665_Final_Report_Image_1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2015983/2015983_10674968_1731360889665_Final_Report_Image_1--rgov-800width.png" title="Variable Frequency Disturbance Generator"><img src="/por/images/Reports/POR/2024/2015983/2015983_10674968_1731360889665_Final_Report_Image_1--rgov-66x44.png" alt="Variable Frequency Disturbance Generator"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Using a Variable Frequency Disturbance Generator to Create Impinging Vortices for Aeroelastic Control</div> <div class="imageCredit">Michael Hughes, Ashok Gopalarathnam, and Matthew Bryant</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Matthew&nbsp;J&nbsp;Bryant <div class="imageTitle">Variable Frequency Disturbance Generator</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2015983/2015983_10674968_1731361140813_Final_Report_Image_3--rgov-214x142.png" original="/por/images/Reports/POR/2024/2015983/2015983_10674968_1731361140813_Final_Report_Image_3--rgov-800width.png" title="Cylinders with Splitter Plates"><img src="/por/images/Reports/POR/2024/2015983/2015983_10674968_1731361140813_Final_Report_Image_3--rgov-66x44.png" alt="Cylinders with Splitter Plates"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Cylinders with Trailing Edge Splitter Plates Produce Wakes with Minimal Cycle-to-Cycle Deviation in Vortex Strength</div> <div class="imageCredit">Michael Jenkins, Arun Vishnu Suresh Babu, Matthew Bryant, Ashok Gopalarathnam</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Matthew&nbsp;J&nbsp;Bryant <div class="imageTitle">Cylinders with Splitter Plates</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Overview: This project has enhanced understanding of the stability, dynamics, motions, and control of aeroelastic structures interacting with upstream flow disturbances. Aeroelastic structures, which are defined as flexible bodies subject to external aerodynamic or hydrodynamic forces, can be found in a range of applications from aircraft wings, to bridge decks, to heat exchangers, to bird wings and fish fins. Establishing methods to controllably suppress or enhance oscillations in these structures can improve safety and flight performance in aircraft, enable new types of wind or underwater energy generation, or improve energy efficiency of swimming robots. As part of the effort, the work has studied and characterized pitch-oscillating cylinders with attached splitter plates as controllable flow disturbance generators and created nonlinear simulation methods for aeroelastic wings using low-order, unsteady aerodynamics models capable of modeling large amplitude motions and vortex interactions. We have used prescribed flow disturbances, namely vortex wakes of the disturbance generator, to excite or annihilate nonlinear limit cycle oscillations (LCOs) on-demand in an aeroelastic wing. We have also studied the effects of vortex frequency and phase on the range of conditions over which LCOs are possible and how quickly those LCOs can be annihilated. Additionally, simulations through both computational fluid dynamics (CFD) and low-order methods have allowed us to study the formation of vortices and model their behavior across a range of conditions. The low-order methods also present a fast modelling framework with will prove useful in further applications in aeroelastic research, especially in situations where aeroelasticity is one part of a larger analytical or control framework.   Intellectual Merit: This research effort has made the following contributions to the scientific and engineering community:  We developed and implemented a variable frequency disturbance generator (VFDG) which can produced a tailored vortex wake with a range of shedding frequencies. We demonstrated amplitude modulation in aeroelastic wing limit cycle oscillations (LCOs) due to prescribed impinging vortices at frequencies near the inherent LCO frequency of the wing. We demonstrated LCO excitation and annihilation in an aeroelastic wing using prescribed impinging vortices from an upstream disturbance generator. We characterized the relationship between vortex frequency and phase and the ability to annihilate LCOs in an aeroelastic wing. We developed a low-order model that was shown to successfully predict the aeroelastic wing limit-cycle oscillation characteristics with comparable results to our experimental measurements. We built a recurrent neural network to identify and predict the aeroelastic state of a wing using experimental data gathered from an aeroelastic wing exposed to incoming flow disturbances. We used CFD to study the effects of different splitter plate lengths attached to oscillating cylinders on wake formation, vortex strength, and lift and drag enhancement.    Broader Impacts: This project benefits society through STEM outreach and educational activities carried out by the PIs labs including:  Development of aeroelasticity educational modules to be used in conjunction with the NCSU MAE summer camps hosted each year on NCSUs Centennial Campus. Development and instruction of a virtual engineering summer camp which was attended by over 70 high school students during the summer of 2021. Provided research experience and mentoring to one post-doc student, six graduate students, nine undergraduate students, and ten high school students. Worked with a local high school student through a mentorship program with the North Carolina School of Science and Math (NCSSM), where they participated in semester-long research internships and received hands-on training to design and fabricate conceptual prototypes.    The project also benefits society by creating a new mechanism for suppressing, enhancing, or altering aeroelastic interactions as desired in a variety of engineered systems. This could lead to aircraft with lighter weight and more efficient wing designs, which would reduce emissions from air transportation, bridges and buildings that are better protected from damaging wind and water flows in storms, more efficient and cost-competitive wind and hydrokinetic power devices, and groups of flying or swimming robots with extended range and endurance for disaster response missions like mapping oil spills or delivering medical supplies to impassable regions.        Last Modified: 11/11/2024       Submitted by: MatthewJBryant]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

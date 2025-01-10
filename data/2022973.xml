@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Calibrating quartz fabric intensity as a function of strain magnitude: a field-based investigation in the Snake Range core complex, Nevada]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>177094.00</AwardTotalIntnAmount>
+<AwardAmount>177094</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colin A. Shaw</SignBlockName>
+<PO_EMAI>cshaw@nsf.gov</PO_EMAI>
+<PO_PHON>7032927944</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Sixteen large tectonic plates cover the Earth’s surface and move relative to one another at rates of several millimeters to tens of millimeters per year. An important element for understanding the operation of plate tectonics is documenting the magnitude of deformation of rocks that has occurred at and near the boundaries of plates. However, rocks that have been deformed at high temperatures and deep within the crust often do not preserve geologic features that allow measuring the magnitude of deformation. To address this issue, and thereby better characterize the rock deformation processes that operate at plate boundaries, recent research has proposed that measuring the degree (or ‘intensity’) of alignment of the mineral quartz within rock samples can be used to delineate areas of relatively high- or low-magnitude deformation within the crust. This represents a promising new technique for understanding the spatial patterns of deformation. However, the intensity of alignment of quartz has not been directly correlated to the magnitude of deformation. The goal of this project is to generate an equation that relates the intensity of alignment of quartz to the magnitude of deformation. To accomplish this goal, we will document quartz intensity patterns and measure the magnitude of deformation associated with each intensity pattern in quartz-rich rocks in the Snake Range in Nevada. These rocks are ideal for this study because they have yielded well-defined intensity patterns in past studies, they preserve features that allow measuring the magnitude of deformation, and they exhibit a change from low-magnitude deformation in the western part of the range to high-magnitude deformation in the east. By collecting intensity and deformation magnitude measurements across the range, an equation relating these two parameters will be generated, which can then be applied globally to understand deformation magnitudes in any region that contains rocks deformed at high temperatures. This project will provide research projects for graduate and undergraduate students, thereby training the next generation of geoscientists. This project will also contribute to STEM education by presenting results in introductory geology courses that will reach 1,500 college students each year, giving talks at Great Basin National Park and at community colleges in eastern Washington and northern Idaho, and through a field trip for undergraduate students from both participating universities.&lt;br/&gt;&lt;br/&gt;Understanding how and where strain becomes localized during deformation is fundamental for illuminating the processes that thicken, thin, or accommodate strike-slip shearing within continental crust during tectonism. Researchers have proposed that statistical intensity parameters calculated from quartz crystallographic fabrics have the potential to delineate zones of high strain, by interpreting fabric intensity as a proxy for finite strain magnitude. Several recent studies in the Himalaya have successfully utilized intensity parameters such as cylindricity to elucidate the spatial patterns of relative strain magnitude across major shear zones. However, as these studies were performed within packages of pervasively recrystallized rocks that lack deformed markers from which finite strain can be measured, they cannot quantitatively relate fabric intensity to absolute strain magnitude. We propose that generating a calibration equation that expresses fabric intensity as a function of finite strain magnitude would be a critical step forward for expanding the utility of this new approach. In this project, we propose to perform such a calibration by investigating rocks exposed within a Cenozoic extensional shear zone in the Northern Snake Range metamorphic core complex in Nevada. This field locality is ideal because the shear zone contains a quartzite unit that yields well-developed crystallographic fabrics, preserves micro-, meso- and regional-scale strain markers, and exhibits a dramatic across-strike gradient in finite strain magnitude. We propose to obtain cylindricity values from quartzite samples collected along a 30 km-long across-strike transect, and to use micro- and meso-scale strain analyses to generate a detailed model of 3-dimensional finite strain of this quartzite unit across this transect. Integration of these two datasets will allow calculation of a calibration equation that expresses fabric intensity as a function of finite strain magnitude, which will provide an indispensable new tool with which to approach the kinematic and structural analysis of ductile deformation. The results of this project will have far-reaching implications, as we propose to test the veracity of a technique that can then be applied globally within any contractional, extensional, or strike-slip orogenic system, active or ancient. The calibration between cylindricity and finite strain magnitude can be applied as a benchmark within any orogen that contains quartz-rich tectonites, in order to illuminate the spatial patterns of strain localization within shear zones that exhibit ubiquitous recrystallization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022973</AwardID>
+<Investigator>
+<FirstName>Sean</FirstName>
+<LastName>Long</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sean P Long</PI_FULL_NAME>
+<EmailAddress><![CDATA[sean.p.long@wsu.edu]]></EmailAddress>
+<NSF_ID>000696802</NSF_ID>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Washington State University]]></Name>
+<CityName>PULLMAN</CityName>
+<ZipCode>991640001</ZipCode>
+<PhoneNumber>5093359661</PhoneNumber>
+<StreetAddress><![CDATA[240 FRENCH ADMINISTRATION BLDG]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XRJSGX384TD6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WASHINGTON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Washington State University]]></Name>
+<CityName>Pullman</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>991641060</ZipCode>
+<StreetAddress><![CDATA[280 Lighty]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>157200</Code>
+<Text>Tectonics</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~177094</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The goal of this project was to demonstrate a mathematical relationship between the degree of alignment of the mineral quartz in deformed quartz-rich rocks (which can often be measured) and the amount of deformation that these rocks have experienced (which is generally difficult to measure). To achieve this goal, we worked in a system of deformed rocks in a mountain range in eastern Nevada, which contains quartz-rich rocks that preserve features that allow us to measure their deformation, and transition from minimally deformed on the west to strongly deformed on the east. From west to east across the range, we collected measurements of the degree of alignment of quartz within 87 samples and we measured the degree of deformation in 49 samples. We calculated a best-fit relationship between alignment and deformation, which is expressed as a linear equation. The primary use of this equation is that it allows estimating the magnitude of deformation within any mountain belt worldwide (active or ancient), provided that it contains quartz-rich rocks from which quartz alignment can be measured. This equation is very useful to researchers who study how mountains belts are built and how plate tectonics operates in continental crust, as it provides an essential new tool with which to investigate the spatial patterns of deformation within Earth's deformed mountain belts.</p> <p>This grant supported the PhD research of Washington State University (WSU) PhD student Nolan Blackford, who completed his dissertation in 2022. The career training and research experience that Nolan received from this grant has led him to a promising teaching career at Pima Community College in Arizona, where he will apply his expertise to train the next generation of Earth scientists. This grant also supported research projects for two female WSU undergraduates, Julia Stevens and Hadeel Al Harthi, who graduated in 2022, thereby providing them valuable career preparation and increasing the involvement of people from groups that are currently under-represented in Earth science. In 2023, this grant supported a joint field trip for 11 WSU students and 6 Colorado School of Mines students, who spent a week viewing spectacular field sites and performing exercises in eastern Nevada. Finally, the results of this project will continue to be integrated into undergraduate and graduate courses at WSU as laboratory exercises and case-studies.</p><br> <p>  Last Modified: 11/12/2024<br> Modified by: Sean&nbsp;P&nbsp;Long</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2022973/2022973_10679701_1731459654299_IMG_9392--rgov-214x142.JPG" original="/por/images/Reports/POR/2024/2022973/2022973_10679701_1731459654299_IMG_9392--rgov-800width.JPG" title="2023 field trip picture 2"><img src="/por/images/Reports/POR/2024/2022973/2022973_10679701_1731459654299_IMG_9392--rgov-66x44.JPG" alt="2023 field trip picture 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Washington State University students and professor Sean Long hiking on a glacial moraine in the Southern Snake Range.</div> <div class="imageCredit">Sean Long</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Sean&nbsp;P&nbsp;Long <div class="imageTitle">2023 field trip picture 2</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2022973/2022973_10679701_1731459536410_IMG_9371--rgov-214x142.JPG" original="/por/images/Reports/POR/2024/2022973/2022973_10679701_1731459536410_IMG_9371--rgov-800width.JPG" title="2023 field trip picture 1"><img src="/por/images/Reports/POR/2024/2022973/2022973_10679701_1731459536410_IMG_9371--rgov-66x44.JPG" alt="2023 field trip picture 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Washington State University and Colorado School of Mines students visiting an outcrop in Marble Wash in the Northern Snake Range, Nevada</div> <div class="imageCredit">Sean Long</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Sean&nbsp;P&nbsp;Long <div class="imageTitle">2023 field trip picture 1</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The goal of this project was to demonstrate a mathematical relationship between the degree of alignment of the mineral quartz in deformed quartz-rich rocks (which can often be measured) and the amount of deformation that these rocks have experienced (which is generally difficult to measure). To achieve this goal, we worked in a system of deformed rocks in a mountain range in eastern Nevada, which contains quartz-rich rocks that preserve features that allow us to measure their deformation, and transition from minimally deformed on the west to strongly deformed on the east. From west to east across the range, we collected measurements of the degree of alignment of quartz within 87 samples and we measured the degree of deformation in 49 samples. We calculated a best-fit relationship between alignment and deformation, which is expressed as a linear equation. The primary use of this equation is that it allows estimating the magnitude of deformation within any mountain belt worldwide (active or ancient), provided that it contains quartz-rich rocks from which quartz alignment can be measured. This equation is very useful to researchers who study how mountains belts are built and how plate tectonics operates in continental crust, as it provides an essential new tool with which to investigate the spatial patterns of deformation within Earth's deformed mountain belts.   This grant supported the PhD research of Washington State University (WSU) PhD student Nolan Blackford, who completed his dissertation in 2022. The career training and research experience that Nolan received from this grant has led him to a promising teaching career at Pima Community College in Arizona, where he will apply his expertise to train the next generation of Earth scientists. This grant also supported research projects for two female WSU undergraduates, Julia Stevens and Hadeel Al Harthi, who graduated in 2022, thereby providing them valuable career preparation and increasing the involvement of people from groups that are currently under-represented in Earth science. In 2023, this grant supported a joint field trip for 11 WSU students and 6 Colorado School of Mines students, who spent a week viewing spectacular field sites and performing exercises in eastern Nevada. Finally, the results of this project will continue to be integrated into undergraduate and graduate courses at WSU as laboratory exercises and case-studies.     Last Modified: 11/12/2024       Submitted by: SeanPLong]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

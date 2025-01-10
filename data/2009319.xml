@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Inverse Cascade Pathways in Turbulent Convection - The Impact of Spatial Anisotropy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>194117.00</AwardTotalIntnAmount>
+<AwardAmount>194117</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The impact of rotation and thermal driving on stellar and planetary bodies is readily visible in far-field optical observations. Such observations reveal the presence of differentially rotating fluid atmospheres embedded with features in the form of large-scale eddies and jets that greatly influence the climate of the celestial body.  Understanding the formation, evolution and global momentum and energy balances of these features remains a challenging problem. Rotating Rayleigh-Benard convection, i.e., a rotating layer of fluid heated from below, represents a canonical paradigm for advancing our knowledge and is the subject of this project.  The ultimate aim of the project is to determine unambiguously whether the large scale vortices (LSVs) observed in rapidly rotating Rayleigh-Benard convection are a consequence of the proximity of the flow to shallow, approximately two-dimensional  turbulence or due to the ability of the LSVs to shape the correlations among the small scale three-dimensional fluctuations that appear to drive its formation. This determination appears to be fundamental to understanding the propensity for shallow layer geophysical and astrophysical flows to produce LSVs and jets and will open new directions for studying these natural flows. Broader impacts of the project include the involvement of graduate students and post-doctoral scholars in the research.   &lt;br/&gt;&lt;br/&gt;Large scale structures, including vortices and jets, are ubiquitous in geophysical flows and play a fundamental role in energy transport in the interiors and the atmospheres of minor planets, gas giants and stars. This project is dedicated to providing a detailed understanding of the basic mechanisms behind the spontaneous formation of large-scale structures from small scale turbulent fluctuations. The ultimate aim of the project is to determine unambiguously whether the large scale vortices (LSVs) observed in rapidly rotating Rayleigh-Benard convection are a consequence of the proximity of the flow to 2D turbulence or due to the ability of the LSVs to shape the correlations among the small scale fluctuations that appear to drive its formation. This determination appears to be fundamental to understanding the propensity for shallow layer geophysical and astrophysical flows to produce LSVs and jets and will open new directions for studying these natural flows. A comprehensive examination of the split (forward and inverse) energy cascade that appears characteristic of these flows is thus undertaken. This is accomplished by utilizing (i) novel reduced asymptotic models that extrapolate to extreme parameter settings, (ii) new reformulations of the Navier-Stokes fluid equations that extend the computational capabilities of direct numerical simulations, and (iii) theoretical analysis that dissects the amplitude-phase relationships between the teleconnected large-scale structures and small-scale turbulence.  The new asymptotic modeling and rescaling approaches to the fluid equations provide a unique capability of achieving physically realistic scale separation between large- and small-scale fluid motions. Importantly, the fundamental mechanisms of energy transport leading to the spontaneous formation of large-scale vortices and jets constitutes a complex problem that reaches across disciplines in the mathematical and physical sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009319</AwardID>
+<Investigator>
+<FirstName>Keith</FirstName>
+<LastName>Julien</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Keith Julien</PI_FULL_NAME>
+<EmailAddress><![CDATA[julien@colorado.edu]]></EmailAddress>
+<NSF_ID>000417232</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate>05/30/2024</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ian</FirstName>
+<LastName>Grooms</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ian G Grooms</PI_FULL_NAME>
+<EmailAddress><![CDATA[ian.grooms@colorado.edu]]></EmailAddress>
+<NSF_ID>000718167</NSF_ID>
+<StartDate>05/30/2024</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803031058</ZipCode>
+<StreetAddress><![CDATA[3100 Marine Street, Room 481]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~194117</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project partially supported the research of one PhD student in the Department of Applied Mathematics, University of Colorado, Boulder. Our work is largely motivated by geophysical and astrophysical processes related to fluid flows in the Earth's atmosphere and oceans, flows on the gas giant planets and their moons, and in stars like our Sun, focusing on fundamental principles governing these processes.</p>  <p>The key outcomes of the project are:</p>  <p>1. As part of this work the PIs studied the phenomenology of two-dimensional turbulence with both random forcing and state-dependent forcing we refer to as instability forcing. The latter forcing type is well physically motivated since it allows for feedback between the forcing and the turbulent state that results. The PIs and the postdoctoral research associate discovered that instability forcing may lead to a broken symmetry state with shielded vortices all of the same sign. The transition to this state resembles a first order phase transition, and allows the gradual and, beyond a threshold vortex density,&nbsp; explosive nucleation of more and more vortices of the same sign that crystallize into a high density chiral vortex crystal with hexagonal coordination as the instability contribution to the forcing is reduced. As a result the system exhibits bistability between this crystalline state and a dilute phase consisting of shielded vortices of both signs. The result indicates that the phenomenology of two-dimensional turbulence depends strongly on the nature of the applied forcing and so is fundamentally nonuniversal.</p>  <p>2. The PIs showed that writing the equations governing rapidly rotating convection in terms of the natural scales present in the limit of very rapid rotation enables one to reach unprecedented values of the Ekman number in fully resolved direct numerical simulations thereby allowing us to simulate geophysical flows at realistic rotation rates for the very first time. Using this approach we have extended numerical simulations by six orders of magnitude or more, from the current state of the art of 5.10^-9 in Ekman number to 10^-15 and showed that below 10^-9 the solutions are well described by the asymptotic limit of vanishingly small Ekman number. The work offers scope for similar studies of the dynamics at other values of the Prandtl number, incompressible and stratified flows, as well the rapidly rotating convection models that incorporate water vapor condensation in the dynamics, potentially allowing for more realistic simulations of large scale vortex structures such as hurricanes.</p>  <p>3. The PI and a graduate student extended the classical analysis of the viscous Ekman boundary layer to flows where the boundary is tilted obliquely compared to the rotation axis. An Ekman layer and its associated pumping occur in this configuration even for stress-free boundary conditions. The effect of this viscous boundary layer on marginal stability to thermal convection was studied.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/29/2024<br> Modified by: Ian&nbsp;G&nbsp;Grooms</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project partially supported the research of one PhD student in the Department of Applied Mathematics, University of Colorado, Boulder. Our work is largely motivated by geophysical and astrophysical processes related to fluid flows in the Earth's atmosphere and oceans, flows on the gas giant planets and their moons, and in stars like our Sun, focusing on fundamental principles governing these processes.    The key outcomes of the project are:    1. As part of this work the PIs studied the phenomenology of two-dimensional turbulence with both random forcing and state-dependent forcing we refer to as instability forcing. The latter forcing type is well physically motivated since it allows for feedback between the forcing and the turbulent state that results. The PIs and the postdoctoral research associate discovered that instability forcing may lead to a broken symmetry state with shielded vortices all of the same sign. The transition to this state resembles a first order phase transition, and allows the gradual and, beyond a threshold vortex density, explosive nucleation of more and more vortices of the same sign that crystallize into a high density chiral vortex crystal with hexagonal coordination as the instability contribution to the forcing is reduced. As a result the system exhibits bistability between this crystalline state and a dilute phase consisting of shielded vortices of both signs. The result indicates that the phenomenology of two-dimensional turbulence depends strongly on the nature of the applied forcing and so is fundamentally nonuniversal.    2. The PIs showed that writing the equations governing rapidly rotating convection in terms of the natural scales present in the limit of very rapid rotation enables one to reach unprecedented values of the Ekman number in fully resolved direct numerical simulations thereby allowing us to simulate geophysical flows at realistic rotation rates for the very first time. Using this approach we have extended numerical simulations by six orders of magnitude or more, from the current state of the art of 5.10^-9 in Ekman number to 10^-15 and showed that below 10^-9 the solutions are well described by the asymptotic limit of vanishingly small Ekman number. The work offers scope for similar studies of the dynamics at other values of the Prandtl number, incompressible and stratified flows, as well the rapidly rotating convection models that incorporate water vapor condensation in the dynamics, potentially allowing for more realistic simulations of large scale vortex structures such as hurricanes.    3. The PI and a graduate student extended the classical analysis of the viscous Ekman boundary layer to flows where the boundary is tilted obliquely compared to the rotation axis. An Ekman layer and its associated pumping occur in this configuration even for stress-free boundary conditions. The effect of this viscous boundary layer on marginal stability to thermal convection was studied.         Last Modified: 11/29/2024       Submitted by: IanGGrooms]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

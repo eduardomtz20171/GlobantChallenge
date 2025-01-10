@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Regulation of natural variation in maize (Zea mays) defense responses by jasmonate signaling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aardra Kachroo</SignBlockName>
+<PO_EMAI>akachroo@nsf.gov</PO_EMAI>
+<PO_PHON>7032927826</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Each year, global agriculture suffers significant yield losses due to attack by insect pests. The United States is estimated to lose 25-30% of its agricultural production to insect attack, while estimates for tropical countries are as high as 50%. Damage from insect feeding and implementation of methods to reduce this damage cost American farmers about $40 billion annually. However, all plants have varying levels of natural protection against insect herbivory, including both mechanical barriers such has hairs and thorns and chemical defenses that deter or kill insect pests. Additionally, plants can emit volatile signals to recruit predators that consume the attacking insects. Although some defenses are always present, others are turned on only when the plants detect insect feeding. This defense induction is orchestrated by a hormone signaling pathway that is highly conserved in the plant kingdom. The proposed research is focused on identifying and investigating novel components of the defense signaling pathway in maize, the most important food crop in the United States. The identification of natural variation in the resistance of maize to insect feeding will provide new opportunities for breeding plants that are more pest tolerant. In addition, the project will provide authentic research experiences to undergraduate students, including students from groups that are underrepresented in science. A proposed outreach component of the project will expose the broader community to research on plant-insect interactions.&lt;br/&gt; &lt;br/&gt;The jasmonic acid signaling cascade, which regulates the transcriptomic responses of plants to insect attack, influences the expression of thousands of genes. Despite the global importance of maize (Zea mays) as a crop species and the critical role of jasmonates in regulating plant defense responses, the maize jasmonic acid signaling cascade remains relatively uninvestigated compared to the corresponding pathways in well-studied model plant species such as Arabidopsis and tomato. Considering the evolutionary distance between these model dicots and maize, it is reasonable to expect distinct jasmonic acid regulatory mechanisms in the defense responses of this economically important monocot species. An integrated systems biology approach, involving transcriptomic, metabolomic, and genetic methods, will be used to uncover and characterize novel aspects of defense regulation in maize. A genetically diverse population of maize inbred lines will be used to assess natural variation in the accumulation of herbivore-induced jasmonate and jasmonate-like molecules, identify previously unknown regulators of defense responses, and elucidate their roles in maize defense against two lepidopteran pests, fall armyworms (Spodoptera frugiperda) and beet armyworms (Spodoptera exigua). In addition to providing the scientific community with insight into the regulation of defense responses in maize, the planned studies will generate high-quality transcriptomic and metabolomic data sets that will enable other researchers to conduct further investigations of natural variation in maize defense responses. A graduate student and a postdoc will receive research training and will gain mentoring experience by helping to supervise the experiments of undergraduate students contributing on this project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/06/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019516</AwardID>
+<Investigator>
+<FirstName>Melkamu</FirstName>
+<LastName>Woldemariam</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Melkamu Woldemariam</PI_FULL_NAME>
+<EmailAddress><![CDATA[woldemam@tcnj.edu]]></EmailAddress>
+<NSF_ID>000758431</NSF_ID>
+<StartDate>04/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sunita</FirstName>
+<LastName>Kramer</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sunita G Kramer</PI_FULL_NAME>
+<EmailAddress><![CDATA[kramers@tcnj.edu]]></EmailAddress>
+<NSF_ID>000925631</NSF_ID>
+<StartDate>10/06/2023</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[The College of New Jersey]]></Name>
+<CityName>EWING</CityName>
+<ZipCode>086181104</ZipCode>
+<PhoneNumber>6097713255</PhoneNumber>
+<StreetAddress><![CDATA[2000 PENNINGTON RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E4UZBXLPA2V3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLLEGE OF NEW JERSEY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The College of New Jersey]]></Name>
+<CityName>Ewing</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>086280718</ZipCode>
+<StreetAddress><![CDATA[P.O. Box 7718]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>047Y00</Code>
+<Text>Plant-Biotic Interactions</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1228</Code>
+<Text>MINORITY INVOLVEMENT -- BIO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Signaling pathways involving jasmonic acid play a central role in regulating plant defense against insect herbivory. Different aspects of jasmonic acid biosynthesis, perception, and degradation allow plants to fine-tune their defense responses against different threats. An analysis of natural variation in 280 maize inbred lines was used to identify genes that influence the abundance of jasmonic acid and related metabolites. Maize leaves were subjected to mechanical damage or fall armyworm caterpillar feeding, samples were collected, and leaf metabolites were analyzed by mass spectrometry. A comparison of metabolite content with known genetic variation in the 280 maize inbred lines showed that natural variation in a relatively small number of genes had large effects on the abundance of jasmonic acid and related metabolites in maize leaves. Knockout mutations in these previously identified genes confirmed their functions in jasmonic acid metabolism and maize defense against caterpillar feeding. In future plant breeding efforts, targeted manipulation of this gene expression can be used to increase maize resistance to insect attack.</p> <p>Previous experiments with several plant species demonstrated that jasmonic acid conjugated to the amino acid isoleucine is recognized by so-called COI proteins to initiate defense-related gene expression. Targeted knockout of six predicted <em>COI </em>genes in maize showed that, although two of them are likely to regulate plant defense, the other four are involved in the regulation of plant growth. A quadruple knockout of these four genes resulted in maize plants with shortened height but the same number of leaves as normal maize plants. Further experiments showed that the length of maize stem internodes was reduced due to alteration in the plants&rsquo; responses to the growth hormone gibberellic acid. This regulation of plant growth is a new finding that has not been previously associated with the function of COI proteins. There are potential practical applications to these results because maize with shorter stature is more resistant to lodging during high wind.</p> <p>In the course of this project, undergraduate students from The College of New Jersey received plant molecular biology research training, both at their home university and at the Boyce Thompson Institute, where they participated in an NSF-funded summer internship program. Three postdoctoral scholars helped to supervise the research of the undergraduate students and thereby became better prepared for future careers as research leaders.</p><br> <p>  Last Modified: 10/24/2024<br> Modified by: Sunita&nbsp;G&nbsp;Kramer</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2019516/2019516_10667386_1729794143261_maize_coi_mutant_plants--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2019516/2019516_10667386_1729794143261_maize_coi_mutant_plants--rgov-800width.jpg" title="Maize COI mutant plants"><img src="/por/images/Reports/POR/2024/2019516/2019516_10667386_1729794143261_maize_coi_mutant_plants--rgov-66x44.jpg" alt="Maize COI mutant plants"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A maize quadruple knockout of COI genes (left plant) has a shorter stature than wild type plants and those that are heterozygous for the mutation (right plants).</div> <div class="imageCredit">Leila Feiz</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sunita&nbsp;G&nbsp;Kramer <div class="imageTitle">Maize COI mutant plants</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Signaling pathways involving jasmonic acid play a central role in regulating plant defense against insect herbivory. Different aspects of jasmonic acid biosynthesis, perception, and degradation allow plants to fine-tune their defense responses against different threats. An analysis of natural variation in 280 maize inbred lines was used to identify genes that influence the abundance of jasmonic acid and related metabolites. Maize leaves were subjected to mechanical damage or fall armyworm caterpillar feeding, samples were collected, and leaf metabolites were analyzed by mass spectrometry. A comparison of metabolite content with known genetic variation in the 280 maize inbred lines showed that natural variation in a relatively small number of genes had large effects on the abundance of jasmonic acid and related metabolites in maize leaves. Knockout mutations in these previously identified genes confirmed their functions in jasmonic acid metabolism and maize defense against caterpillar feeding. In future plant breeding efforts, targeted manipulation of this gene expression can be used to increase maize resistance to insect attack.   Previous experiments with several plant species demonstrated that jasmonic acid conjugated to the amino acid isoleucine is recognized by so-called COI proteins to initiate defense-related gene expression. Targeted knockout of six predicted COI genes in maize showed that, although two of them are likely to regulate plant defense, the other four are involved in the regulation of plant growth. A quadruple knockout of these four genes resulted in maize plants with shortened height but the same number of leaves as normal maize plants. Further experiments showed that the length of maize stem internodes was reduced due to alteration in the plants responses to the growth hormone gibberellic acid. This regulation of plant growth is a new finding that has not been previously associated with the function of COI proteins. There are potential practical applications to these results because maize with shorter stature is more resistant to lodging during high wind.   In the course of this project, undergraduate students from The College of New Jersey received plant molecular biology research training, both at their home university and at the Boyce Thompson Institute, where they participated in an NSF-funded summer internship program. Three postdoctoral scholars helped to supervise the research of the undergraduate students and thereby became better prepared for future careers as research leaders.     Last Modified: 10/24/2024       Submitted by: SunitaGKramer]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

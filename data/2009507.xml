@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Adding a Magnetic Dimension to M-dwarf Stars Observed by APOGEE]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>277415.00</AwardTotalIntnAmount>
+<AwardAmount>277415</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gioia Rau</SignBlockName>
+<PO_EMAI>grau@nsf.gov</PO_EMAI>
+<PO_PHON>7032928729</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>M-dwarf stars are, by far, the most numerous type of star in the Milky Way, and they represent an important family of exoplanet hosts. In addition, their lifetimes exceed the age of the Galaxy itself, so detailed chemical abundance studies of large samples of M-dwarfs will yield important insights into Galactic history. This team will measure magnetic field strengths in a sample of ~30,000 M-dwarfs that have been observed as part of the APOGEE (Apache Point Observatory Galactic Evolution Experiment) survey. They will participate as mentors in the Sloan Foundation's Faculty and Student Team (FaST) initiative, which targets faculty and students at U.S. institutions with strong histories in serving underrepresented minority students. Faculty/student teams from these institutions are matched to established Sloan Digital Sky Survey partners or collaborators. &lt;br/&gt;&lt;br/&gt;The APOGEE spectral region, between 1.5 - 1.7 microns, observed at high resolution, contains significant diagnostic information for M-dwarfs, such as detailed chemical abundance patterns, as well as the possibility to detect stellar magnetic fields via Zeeman split or Zeeman enhanced lines. This team will develop the techniques necessary to derive accurate stellar parameters (effective temperatures and surface gravities), as well as detailed chemical abundances, while including magnetic Zeeman splitting in the analysis. This will result in the addition of a magnetic activity dimension for the M-dwarfs in the APOGEE survey, sampling a population of M-dwarfs covering a broad range in effective temperatures, metallicities and ages, and including a large number of exoplanet-hosting M-dwarfs.  This more encompassing view of the M-dwarf population will advance knowledge and understanding across the broad field of cool-star astrophysics, in general, while also providing knowledge about stellar magnetic fields in a sample of exoplanet-hosting M-dwarfs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009507</AwardID>
+<Investigator>
+<FirstName>Verne</FirstName>
+<LastName>Smith</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Verne V Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[verne.smith@noirlab.edu]]></EmailAddress>
+<NSF_ID>000404547</NSF_ID>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katia</FirstName>
+<LastName>Cunha</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katia Cunha</PI_FULL_NAME>
+<EmailAddress><![CDATA[kcunha@arizona.edu]]></EmailAddress>
+<NSF_ID>000366401</NSF_ID>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName>TUCSON</CityName>
+<ZipCode>85721</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress><![CDATA[845 N PARK AVE RM 538]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ED44Y3W6P7B9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ARIZONA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName/>
+<StateCode>AZ</StateCode>
+<ZipCode>857194824</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121500</Code>
+<Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~277415</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong><em>Intellectual Merit</em></strong></p>  <p>Magnetic fields (B-fields) play a key role in the astrophysics of cool dwarf stars, with their sources driven by a stellar dynamo that is created by stellar rotation interacting with the star's surface convective envelope. B-field determinations are needed to better understand the operation of stellar dynamos and their impact on stellar rotation, as well as on exoplanetary space weather. Quantitative measurements of stellar magnetic-field strengths are possible using high-resolution spectroscopy via an analysis of Zeeman-splitting, or Zeeman-broadening, of magnetically sensitive atomic or molecular spectral lines.&nbsp;&nbsp; This project developed techniques to perform detailed high-resolution near-infrared spectroscopic Zeeman analyses of B-fields in M-dwarf stars using high-resolution near-infrared spectra that were obtained as part of the Sloan Digital Sky Survey (SDSS) APOGEE-1 and APOGEE-2 (Apache Point Observatory Galactic Evolution Experiment) surveys. &nbsp;We found that Zeeman broadening of Fe I absorption lines is detectable in APOGEE M-dwarf spectra.&nbsp; &nbsp;We applied our analysis to measure mean surface magnetic fields, <strong>, </strong>in 62 M-dwarf members &nbsp;of the young (~10<sup>8</sup> years) Pleiades open star cluster, as well as in a sample of exoplanet-hosting M-dwarfs discovered as part of the K2 and TESS missions.&nbsp;&nbsp; Being relatively young stars, the Pleiades M-dwarfs are rather magnetically active and were thus an ideal sample in which to test our Zeeman analysis methodology, as well as having the advantage of being a coeval sample of stars having a uniform chemical composition. &nbsp;&nbsp;The exoplanet-hosting M-dwarfs, on the other hand, are field stars with an expected large range of ages (and likely to be much older, on average, than the Pleiades), with a range of chemical compositions, yet representing an important sample as they are all confirmed planet-hosting stars. Mean magnetic fields were derived via fits to a selected sample of Zeeman broadened Fe I lines using a Markov chain Monte Carlo (MCMC) fitting procedure.&nbsp; The weakest value of  measured in these two samples was ~200G, demonstrating that M dwarfs with low levels of magnetic activity can be measured using APOGEE spectra. We examined the relation between  and stellar rotational velocity. The Pleiades sample of young M-dwarfs, which are more active and have on average considerably higher rotational velocities than the older sample of planet-hosting field M-dwarfs, exhibit significantly larger, saturated values of  in comparison to the planet-hosting M-dwarfs, and show a small decline with decreasing stellar rotational velocity with very little scatter. In addition, we found a tight relation between our derived magnetic fields in Pleiades M-dwarfs and their activity levels, as measured by H&alpha;-luminosity relative to total luminosity, log(L<sub>H</sub>&alpha;/L<sub>star</sub>), demonstrating the close connection between surface magnetic fields and chromospheric activity. We also found that the derived stellar radii for the Pleiades M dwarfs were larger (by 3% to 7%) than predicted by models and that this correlated with their mean magnetic fields. The older population of field planet-hosting M dwarf stars have weaker surface magnetic fields that are not saturated and decrease in strength with decreasing rotational velocity. Given the measured mean magnetic fields for this sample, we estimated the minimum planetary magnetic field needed to protect the exoplanets Kepler-186f and TOI-700d (two planets that fall in their habitability zones) from their host star's magnetically driven winds, finding minimum values of B=0.05 and 0.24 G, respectively, which suggests that their planetary magnetic fields might be sufficiently strong to shield their atmospheres from the effects of stellar B-fields. We also investigated stellar radius inflation in M dwarfs from the Hyades open cluster and found lower levels of radius inflation when compared to the Pleiades M dwarfs. In addition, we found that rapidly rotating stars show larger radius inflation when compared to slow rotators, as well as a higher fraction of spot coverage as predicted by isochrone models that include star spots.</p>  <p>&nbsp;</p>  <p><em>&nbsp;</em></p>  <p><em>Broader Impact</em></p>  <p>One of the NSF Broader Impact criteria is involving participation and training in STEM. The PI, under the auspices of this project, provided mentoring of post-doctoral and early career astronomers, discussing scientific results, providing feedback and giving assistance to them in writing first author papers, as well as mentoring them as team members of a large collaboration. This project represented the main topic for a successful Ph.D. thesis of a student.&nbsp; In addition, the PI worked on a SDSS FaST collaboration with a faculty member and an undergraduate student at CUNY.&nbsp; The FaST initiative targets faculty and students at institutions with strong histories in serving underrepresented minority students. The PI is a strong advocate for equity and inclusion in STEM and during this period has participated in two Diversity, Equity and Inclusion committees.</p>  <p><strong><strong> </strong></strong></p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/30/2024<br> Modified by: Katia&nbsp;Cunha</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merit    Magnetic fields (B-fields) play a key role in the astrophysics of cool dwarf stars, with their sources driven by a stellar dynamo that is created by stellar rotation interacting with the star's surface convective envelope. B-field determinations are needed to better understand the operation of stellar dynamos and their impact on stellar rotation, as well as on exoplanetary space weather. Quantitative measurements of stellar magnetic-field strengths are possible using high-resolution spectroscopy via an analysis of Zeeman-splitting, or Zeeman-broadening, of magnetically sensitive atomic or molecular spectral lines. This project developed techniques to perform detailed high-resolution near-infrared spectroscopic Zeeman analyses of B-fields in M-dwarf stars using high-resolution near-infrared spectra that were obtained as part of the Sloan Digital Sky Survey (SDSS) APOGEE-1 and APOGEE-2 (Apache Point Observatory Galactic Evolution Experiment) surveys. We found that Zeeman broadening of Fe I absorption lines is detectable in APOGEE M-dwarf spectra. We applied our analysis to measure mean surface magnetic fields, , in 62 M-dwarf members of the young (~108 years) Pleiades open star cluster, as well as in a sample of exoplanet-hosting M-dwarfs discovered as part of the K2 and TESS missions. Being relatively young stars, the Pleiades M-dwarfs are rather magnetically active and were thus an ideal sample in which to test our Zeeman analysis methodology, as well as having the advantage of being a coeval sample of stars having a uniform chemical composition. The exoplanet-hosting M-dwarfs, on the other hand, are field stars with an expected large range of ages (and likely to be much older, on average, than the Pleiades), with a range of chemical compositions, yet representing an important sample as they are all confirmed planet-hosting stars. Mean magnetic fields were derived via fits to a selected sample of Zeeman broadened Fe I lines using a Markov chain Monte Carlo (MCMC) fitting procedure. The weakest value of  measured in these two samples was ~200G, demonstrating that M dwarfs with low levels of magnetic activity can be measured using APOGEE spectra. We examined the relation between  and stellar rotational velocity. The Pleiades sample of young M-dwarfs, which are more active and have on average considerably higher rotational velocities than the older sample of planet-hosting field M-dwarfs, exhibit significantly larger, saturated values of  in comparison to the planet-hosting M-dwarfs, and show a small decline with decreasing stellar rotational velocity with very little scatter. In addition, we found a tight relation between our derived magnetic fields in Pleiades M-dwarfs and their activity levels, as measured by H-luminosity relative to total luminosity, log(LH/Lstar), demonstrating the close connection between surface magnetic fields and chromospheric activity. We also found that the derived stellar radii for the Pleiades M dwarfs were larger (by 3% to 7%) than predicted by models and that this correlated with their mean magnetic fields. The older population of field planet-hosting M dwarf stars have weaker surface magnetic fields that are not saturated and decrease in strength with decreasing rotational velocity. Given the measured mean magnetic fields for this sample, we estimated the minimum planetary magnetic field needed to protect the exoplanets Kepler-186f and TOI-700d (two planets that fall in their habitability zones) from their host star's magnetically driven winds, finding minimum values of B=0.05 and 0.24 G, respectively, which suggests that their planetary magnetic fields might be sufficiently strong to shield their atmospheres from the effects of stellar B-fields. We also investigated stellar radius inflation in M dwarfs from the Hyades open cluster and found lower levels of radius inflation when compared to the Pleiades M dwarfs. In addition, we found that rapidly rotating stars show larger radius inflation when compared to slow rotators, as well as a higher fraction of spot coverage as predicted by isochrone models that include star spots.            Broader Impact    One of the NSF Broader Impact criteria is involving participation and training in STEM. The PI, under the auspices of this project, provided mentoring of post-doctoral and early career astronomers, discussing scientific results, providing feedback and giving assistance to them in writing first author papers, as well as mentoring them as team members of a large collaboration. This project represented the main topic for a successful Ph.D. thesis of a student. In addition, the PI worked on a SDSS FaST collaboration with a faculty member and an undergraduate student at CUNY. The FaST initiative targets faculty and students at institutions with strong histories in serving underrepresented minority students. The PI is a strong advocate for equity and inclusion in STEM and during this period has participated in two Diversity, Equity and Inclusion committees.              Last Modified: 12/30/2024       Submitted by: KatiaCunha]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

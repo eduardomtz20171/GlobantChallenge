@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FoMR: IPC-MASTA: Boosting IPC with Microarchitectural Support for Tightly-Coupled Accelerators]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>269888.00</AwardTotalIntnAmount>
+<AwardAmount>269888</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Over fifty years of advances in high-performance microprocessors have enabled countless benefits to society, including unprecedented advances in many scientific disciplines and healthcare delivery, improvements in economic efficiency and productivity, new forms of entertainment, and the creation of entirely new industries and business models. However, both the computing industry and semiconductor technology are at a cross-roads, and new approaches are needed to sustain the historical trend of performance increases and overcome the barriers faced by conventional approaches to improving processor performance. A promising approach employed in recent designs has been to integrate function-specific hardware accelerators next to the processor, enabling efficient and high-performance offloading of common, coarse-grained, compute-intensive operations—such as decoding of video data—from the general-purpose CPU. This project will explore an emerging variant of this approach, where the accelerators are designed to perform frequent, fine-grained operations, are coupled tightly to the processor core, and are expected to be more flexible, broadly applicable, and easier to integrate into the software development model familiar to the vast majority of today’s programmers. This research is expected to lead to several practical artifacts along with scientific and conceptual advances that will enable designers of future microprocessors to more easily integrate such accelerators, as well as preparation and training of graduate students with potential for direct technology transfer through their future employment.&lt;br/&gt;&lt;br/&gt;This project seeks to conduct a detailed study of tightly-coupled accelerators (TCAs), uncovering the trade-offs and complexities of integrating them into modern processors. To date, little has been done to characterize and optimize the many design considerations that can have critical impact on overall processor performance and power consumption. The project will approach this problem in three phases. The initial phase will develop an analytical model for assessing the impact of integrating TCAs in high-performance CPUs. Next, a comprehensive study of the microarchitectural implications of TCAs will uncover key design challenges, opportunities, and novel solutions for integrating TCAs. The final phase will investigate reconfigurable TCAs, which are intended to achieve the seemingly contradictory goals of specialized acceleration as well as broad applicability. The project will investigate several avenues for general-purpose acceleration using our reconfigurable TCA architecture, showing that it is possible to reap the best of both worlds of specialization and generalization without dedicating significant hardware real estate nor design effort.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010830</AwardID>
+<Investigator>
+<FirstName>Mikko</FirstName>
+<LastName>Lipasti</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mikko H Lipasti</PI_FULL_NAME>
+<EmailAddress><![CDATA[mikko@engr.wisc.edu]]></EmailAddress>
+<NSF_ID>000290802</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>San Miguel</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joshua San Miguel</PI_FULL_NAME>
+<EmailAddress><![CDATA[jsanmiguel@wisc.edu]]></EmailAddress>
+<NSF_ID>000770459</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName/>
+<StateCode>WI</StateCode>
+<ZipCode>537061607</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>021Z</Code>
+<Text>Industry Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8585</Code>
+<Text>NSF/Intel Partnership Projects</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~269888</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>Historically, general-purpose processors (or CPUs&mdash;central processing units) have been designed with a core set of functional primitives that are known to be sufficient to implement any software program or algorithm. More recently, the drive towards energy-efficiency has motivated the design of attached hardware blocks, called accelerators, that directly implement specific algorithms and provide significant savings in energy, but limited generality. Examples of such accelerators include hardware blocks that directly compress and decompress images and video, blocks that implement matrix multiplication (common in machine learning and artificial intelligence), or encryption and decryption for security.&nbsp; The goal of this project was to investigate a middle path between fully general instruction primitives and these dedicated. monolithic hardware accelerators, by inventing and evaluating what are known as tightly-coupled accelerators (TCAs).&nbsp; TCAs are defined as satisfying the following three requirements: First, the TCA must be invoked via a designated instruction in the ISA. Second, TCA instructions have the same in-order commit semantics as other instructions. Lastly, operands to the TCA are passed through either register files (RF) or the core's coherent cache hierarchy.&nbsp; These features make TCAs easier to integrate into the conventional sequential programming model that CPUs have used for decades, while still enabling higher efficiency than pure software realizations that rely only on the general-purpose instruction set.&nbsp; </span></p> <p><span>The design of TCAs is not trivial, since they have semantics that are far more complex than simple instructions, so integrating them into the datapath, memory system, and control structures of modern processors presents a number of challenges encompassing performance, efficiency, design complexity, and security.&nbsp; This project has taken the first steps towards identifying and proposing solutions to these problems, while also evaluating a broad range of algorithms that can be effectively accelerated using TCAs.</span></p> <p><span>Research to date has demonstrated the attractiveness and viability of a variety of tightly-coupled accelerators. An analytical performance model helps to explain the relationship between performance, invocation frequency, and the need to support out-of-order execution of accelerated instructions. Initial evaluations support the arguments that the best approach for delivering operands to memory-intensive accelerator units is to let the TCA fetch them directly from the memory subsystem, instead of the conventional approach that relies on software to load operands to the register file. </span></p> <p><span>TCAs are applicable to a broad set of algorithms; this project has investigated applications for mid-tier datacenter applications that are bottlenecked by dynamic languages like PHP, data-center front-ends that lose efficiency due to frequent interrupts and synchronization/serialization, numeric applications like dense matrix algebra and sparse matrix-matrix multiplication, and stochastic algorithms that generate pseudo-random numbers, perform computation with them, and access memory based on them in ways that dramatically reduce the effectiveness of modern memory hierarchies.</span></p> <p><span>TCAs also expose new security vulnerabilities. including a new attack model called speculative stashing and the potential to dramatically increase the rate of information leakage during an attack. Solutions that prevent this attack and mitigate these vulnerabilities consist of a set of design invariants that can be enforced by a design rule checker, which can be applied to both hard wired as well as reconfigurable tightly-coupled accelerators.</span></p> <p><span>Without the kinds of innovations described here, that dramatically alter the design and architecture of future computing substrates, the continued device scaling of future angstrom-scale semiconductor technologies will fail to provide substantial returns in terms of improvements in utility or performance. As a result, the semiconductor industry, and by extension, the computer industry as a whole. faces serious challenges in maintaining the growth-based business model that has sustained it for decades. This research has had broad industry- and economy-wide impact by helping to address or avert these impending challenges, while effectively training graduate students in the technical skills required to accomplish these goals and leading to technology transfer via internships and permanent employment.</span></p> <p><span>&nbsp;</span></p><br> <p>  Last Modified: 07/27/2024<br> Modified by: Mikko&nbsp;H&nbsp;Lipasti</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Historically, general-purpose processors (or CPUscentral processing units) have been designed with a core set of functional primitives that are known to be sufficient to implement any software program or algorithm. More recently, the drive towards energy-efficiency has motivated the design of attached hardware blocks, called accelerators, that directly implement specific algorithms and provide significant savings in energy, but limited generality. Examples of such accelerators include hardware blocks that directly compress and decompress images and video, blocks that implement matrix multiplication (common in machine learning and artificial intelligence), or encryption and decryption for security. The goal of this project was to investigate a middle path between fully general instruction primitives and these dedicated. monolithic hardware accelerators, by inventing and evaluating what are known as tightly-coupled accelerators (TCAs). TCAs are defined as satisfying the following three requirements: First, the TCA must be invoked via a designated instruction in the ISA. Second, TCA instructions have the same in-order commit semantics as other instructions. Lastly, operands to the TCA are passed through either register files (RF) or the core's coherent cache hierarchy. These features make TCAs easier to integrate into the conventional sequential programming model that CPUs have used for decades, while still enabling higher efficiency than pure software realizations that rely only on the general-purpose instruction set.    The design of TCAs is not trivial, since they have semantics that are far more complex than simple instructions, so integrating them into the datapath, memory system, and control structures of modern processors presents a number of challenges encompassing performance, efficiency, design complexity, and security. This project has taken the first steps towards identifying and proposing solutions to these problems, while also evaluating a broad range of algorithms that can be effectively accelerated using TCAs.   Research to date has demonstrated the attractiveness and viability of a variety of tightly-coupled accelerators. An analytical performance model helps to explain the relationship between performance, invocation frequency, and the need to support out-of-order execution of accelerated instructions. Initial evaluations support the arguments that the best approach for delivering operands to memory-intensive accelerator units is to let the TCA fetch them directly from the memory subsystem, instead of the conventional approach that relies on software to load operands to the register file.    TCAs are applicable to a broad set of algorithms; this project has investigated applications for mid-tier datacenter applications that are bottlenecked by dynamic languages like PHP, data-center front-ends that lose efficiency due to frequent interrupts and synchronization/serialization, numeric applications like dense matrix algebra and sparse matrix-matrix multiplication, and stochastic algorithms that generate pseudo-random numbers, perform computation with them, and access memory based on them in ways that dramatically reduce the effectiveness of modern memory hierarchies.   TCAs also expose new security vulnerabilities. including a new attack model called speculative stashing and the potential to dramatically increase the rate of information leakage during an attack. Solutions that prevent this attack and mitigate these vulnerabilities consist of a set of design invariants that can be enforced by a design rule checker, which can be applied to both hard wired as well as reconfigurable tightly-coupled accelerators.   Without the kinds of innovations described here, that dramatically alter the design and architecture of future computing substrates, the continued device scaling of future angstrom-scale semiconductor technologies will fail to provide substantial returns in terms of improvements in utility or performance. As a result, the semiconductor industry, and by extension, the computer industry as a whole. faces serious challenges in maintaining the growth-based business model that has sustained it for decades. This research has had broad industry- and economy-wide impact by helping to address or avert these impending challenges, while effectively training graduate students in the technical skills required to accomplish these goals and leading to technology transfer via internships and permanent employment.        Last Modified: 07/27/2024       Submitted by: MikkoHLipasti]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

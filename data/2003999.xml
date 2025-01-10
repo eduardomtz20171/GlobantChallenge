@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Lift regulation via kinematic maneuvering in uncertain gusts]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>220722.00</AwardTotalIntnAmount>
+<AwardAmount>220722</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>When a wing passes through a strong gust of wind, large amounts of lift are generated very quickly. The resulting lift transient, and the speed at which it builds, presents a challenge to maintaining vehicle control and can result in structural deformation or failure. It is therefore of interest to equip wings with ways to mitigate strong gust responses, i.e., to regulate lift. The long-term goal of this project is to assess the sensitivity of lift production to uncertainties in the gust flow, and to create new control strategies for mitigation of lift transients during detrimental unforeseen gust encounters. Results of this work will apply to a broad range of applications including wind and water turbines operating in tides, waves, and wakes; and air and water vehicles of all scales, from small aerial vehicles operating in urban environments to manned vehicles operating in complex terrain, air wakes, and extreme weather. The project will also encompass educational and outreach activities, including elementary and middle school visits and a research and mentoring program for undergraduate transfer students.&lt;br/&gt;&lt;br/&gt;The goal of this project is to apply tools from fluid dynamics, reduced-order modeling, and optimal and robust control theory to elucidate and model the underlying flow physics of an unsteady and uncertain large-amplitude transverse gust encounter, and to apply this knowledge to design control laws for regulation of lift production through kinematic actuation during and after this event. The technical approach is to (1) synthesize a physics-based low-order model that includes leading- and trailing-edge vortex dynamics based on high-resolution unsteady force, flow field, and surface pressure measurements on a rigid wing in a large-amplitude transverse gust encounter; (2) construct an optimal robust control framework for lift regulation in the gust that properly accounts for uncertainties in the gust flow (e.g., width and amplitude) and the wing's response thereto; and (3) implement the proposed closed-loop control framework in real-time gust encounter experiments in the laboratory. Research activities will explore methods of combining analytical and physics-based aerodynamic models with data-driven techniques for more robust and extensible models of wings passing through unsteady and uncertain large disturbances. Contributions to the scientific community include (1) a flow model designed for large-amplitude gust encounters with a high degree of uncertainty in the gust flow, and (2) integration of this model into a robust real-time feedback control loop for kinematic maneuvering in a wing-gust encounter without a priori knowledge of the gust parameters.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003999</AwardID>
+<Investigator>
+<FirstName>Francis</FirstName>
+<LastName>Lagor</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Francis Lagor</PI_FULL_NAME>
+<EmailAddress><![CDATA[flagor@buffalo.edu]]></EmailAddress>
+<NSF_ID>000772190</NSF_ID>
+<StartDate>03/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[SUNY at Buffalo]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>142282577</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress><![CDATA[520 LEE ENTRANCE STE 211]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMCJKRFW5R81</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GMZUKXFDJMA9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Buffalo]]></Name>
+<CityName>Buffalo</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>142604400</ZipCode>
+<StreetAddress><![CDATA[1010 Furnas Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~220722</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project focused on developing fundamental understanding of the flow physics and control during minimization of the forces felt by a wing as it moves through a gust encounter. &nbsp;This is an important problem that is relevant to flight in severe weather, complex terrains, or wakes of other aircraft. &nbsp;</p> <p>&nbsp;</p> <p>With collaborators at the University of Maryland, this project contributed new physical understanding into the aspects of the flow field around the wing during a gust encounter that have the greatest impact on the forces.&nbsp; This understanding was used in the creation and tuning of various model-based and model-free control strategies that effectively achieved closed-loop lift regulation in a gust encounter experiment for a gust that was previously unknown to the wing.&nbsp; Additionally, this project created a novel method for determining optimal maneuvers of a wing through repeated experiments.&nbsp; Such optimal maneuvers are useful for control design or analyzing the performance of a controller in experiment. &nbsp;&nbsp;Figure 1 shows an excerpt of the iterative maneuver optimization framework, and Figures 2 and 3 present the results of iteratively minimizing the lift felt by a wing through pitching of the wing.&nbsp; Additional details of the research can be found in the publications produced under this award. &nbsp;</p> <p>&nbsp;</p> <p>Research findings were shared in five refereed conference proceedings and seven archival journal publications. International research dissemination was bolstered through participation in the NATO research group AVT-347 on wing-gust encounters, which involved researchers from over 11 countries.&nbsp; Broader outreach impacts were achieved through participation in the Science is Elementary program at the University at Buffalo, which engaged students from a local middle school that has a large percentage of students from populations that are underrepresented in STEM in science-related experiences in a university setting.</p> <p>&nbsp;</p><br> <p>  Last Modified: 08/21/2024<br> Modified by: Francis&nbsp;Lagor</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2003999/2003999_10658930_1724270886668_Picture1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2003999/2003999_10658930_1724270886668_Picture1--rgov-800width.png" title="Simplified Iterative Maneuver Optimization"><img src="/por/images/Reports/POR/2024/2003999/2003999_10658930_1724270886668_Picture1--rgov-66x44.png" alt="Simplified Iterative Maneuver Optimization"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 1:  Iterative maneuver optimization framework developed in this project.</div> <div class="imageCredit">Theoretical and Computational Fluid Dynamics</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Francis&nbsp;Lagor <div class="imageTitle">Simplified Iterative Maneuver Optimization</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2003999/2003999_10658930_1724271171028_Picture3--rgov-214x142.png" original="/por/images/Reports/POR/2024/2003999/2003999_10658930_1724271171028_Picture3--rgov-800width.png" title="Pitch angle optimization during a gust encounter"><img src="/por/images/Reports/POR/2024/2003999/2003999_10658930_1724271171028_Picture3--rgov-66x44.png" alt="Pitch angle optimization during a gust encounter"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 3: Experimental results of the pitch angle of the wing during several maneuver optimization iterations in a repeated gust encounter.</div> <div class="imageCredit">Theoretical and Computational Fluid Dynamics</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Francis&nbsp;Lagor <div class="imageTitle">Pitch angle optimization during a gust encounter</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2003999/2003999_10658930_1724271034629_Picture2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2003999/2003999_10658930_1724271034629_Picture2--rgov-800width.png" title="Lift coefficient during maneuver optimization"><img src="/por/images/Reports/POR/2024/2003999/2003999_10658930_1724271034629_Picture2--rgov-66x44.png" alt="Lift coefficient during maneuver optimization"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2:  Experimental results of the lift coefficient during several maneuver optimization iterations in a repeated gust encounter.</div> <div class="imageCredit">Theoretical and Computational Fluid Dynamics</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Francis&nbsp;Lagor <div class="imageTitle">Lift coefficient during maneuver optimization</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project focused on developing fundamental understanding of the flow physics and control during minimization of the forces felt by a wing as it moves through a gust encounter. This is an important problem that is relevant to flight in severe weather, complex terrains, or wakes of other aircraft.       With collaborators at the University of Maryland, this project contributed new physical understanding into the aspects of the flow field around the wing during a gust encounter that have the greatest impact on the forces. This understanding was used in the creation and tuning of various model-based and model-free control strategies that effectively achieved closed-loop lift regulation in a gust encounter experiment for a gust that was previously unknown to the wing. Additionally, this project created a novel method for determining optimal maneuvers of a wing through repeated experiments. Such optimal maneuvers are useful for control design or analyzing the performance of a controller in experiment. Figure 1 shows an excerpt of the iterative maneuver optimization framework, and Figures 2 and 3 present the results of iteratively minimizing the lift felt by a wing through pitching of the wing. Additional details of the research can be found in the publications produced under this award.       Research findings were shared in five refereed conference proceedings and seven archival journal publications. International research dissemination was bolstered through participation in the NATO research group AVT-347 on wing-gust encounters, which involved researchers from over 11 countries. Broader outreach impacts were achieved through participation in the Science is Elementary program at the University at Buffalo, which engaged students from a local middle school that has a large percentage of students from populations that are underrepresented in STEM in science-related experiences in a university setting.        Last Modified: 08/21/2024       Submitted by: FrancisLagor]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

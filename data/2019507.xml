@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Viscoelastic Characterization of Multicellular Tissues in Physiologically Relevant Conditions through Probe Indentation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>492497.00</AwardTotalIntnAmount>
+<AwardAmount>492497</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shivani Sharma</SignBlockName>
+<PO_EMAI>shisharm@nsf.gov</PO_EMAI>
+<PO_PHON>7032924204</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award will produce new knowledge about the mechanical behavior of cancer tissues.  Specifically, microscopic measurements of mechanical behavior will be made as the disease progresses.  In this project, the focus will be on skin cancers.  However, the findings will be applicable to other diseases for which tissues undergo mechanical changes such as arteriosclerosis.  The project will deliver the new methods and sensors capable of use in the native liquid environment of biological materials. Establishing a link between cancer progression and mechanical changes in tissues could ultimately have applications to human health.  For example, the results of this work could enable the development of patient-specific disease databases, and standards for mechanical tissue behaviors.  These might eventually allow classification by individual patient history and information.  This could have a transformative effect on medicine and biology research, as mechanical information is not yet broadly considered, much less classified in engineering terms.  This research involves several disciplines, including medicine, biology, materials science and mechanical engineering.  The multi-disciplinary approach will help broaden participation of underrepresented groups in research and positively impact engineering education.&lt;br/&gt; &lt;br/&gt;Biological materials are viscoelastic and may respond according to multiple characteristic timescales which are generally not captured in existing mechanical characterization methods, especially micro- and nanoscale approaches.  Such methods often reduce the mechanical response to elastic quantities, such as the Young’s modulus, or combinations of a few quantities that empirically combine dissipative and elastic behaviors.  This project will develop viscoelastic property inversion methods, whereby the sample is probed using a microscale indenter, and the measured response is translated into a generalized viscoelastic model containing an arbitrary number of characteristic times.  This approach will allow quantification of material behaviors in engineering units, which will allow comparison of different specimens measured on different instruments by different researchers.  The project also includes development of the indentation apparatus, which will resemble an atomic force microscope, but will be tailored to the typical relaxation timescales observed in biological materials, which are significantly larger than those probed by commercial atomic force microscopes.  The project will involve computational and analytical modeling of the fluid dynamics surrounding the probe and sample to incorporate corrections due to fluid forces, which can in some cases obscure the probe-sample interactions for soft materials.  Finally, the new apparatus and methods will be employed to acquire the viscoelastic signature of melanoma cancer and healthy skin cell lines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019507</AwardID>
+<Investigator>
+<FirstName>Kausik</FirstName>
+<LastName>Sarkar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kausik Sarkar</PI_FULL_NAME>
+<EmailAddress><![CDATA[sarkar@gwu.edu]]></EmailAddress>
+<NSF_ID>000228546</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Santiago</FirstName>
+<LastName>Solares</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Santiago D Solares</PI_FULL_NAME>
+<EmailAddress><![CDATA[solares@cua.edu]]></EmailAddress>
+<NSF_ID>000484282</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[George Washington University]]></Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200520042</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress><![CDATA[1918 F ST NW]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECR5E2LU5BL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE WASHINGTON UNIVERSITY (THE)</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The George Washington University]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200520066</ZipCode>
+<StreetAddress><![CDATA[800 22nd St NW, Room 3900]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>747900</Code>
+<Text>BMMB-Biomech &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~492497</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The major goals of this project included the development of methods for measuring the viscoelastic (mechanical) properties of soft materials that are submerged in liquid environments, along with the development of an indentation apparatus to carry out these measurements.&nbsp; Typical examples of such materials include living cells and tissues, whose natural environment is an aqueous environment.&nbsp; Of particular importance in this project was the development of methodologies that could help differentiate healthy from cancerous cells.&nbsp; An example is the differentiation of melanoma cells from healthy skin cells.&nbsp; The new indentation apparatus performs some of the functions that existing atomic force microscopes can perform, but is designed specifically for the range of sample sizes and measurement times that are optimal for soft biological systems.&nbsp; The figure provided illustrates how the measurement is conducted: a spherical probe attached to a micro-lever pushes onto the cell, deforming it, while the bending of the micro-lever is detected using a laser beam and a position detector (position sensing diode).&nbsp; The measurement of how much the micro-lever gradually bends over a period of time is analyzed mathematically, using engineering definitions to quantify the mechanical properties of the cells.&nbsp; The engineering definitions used in this work describe the viscoelastic behavior of the system and represent how &ldquo;hard&rdquo; (stiff) and how &ldquo;viscous&rdquo; (resembling a thick fluid) the cell material is.&nbsp;</p> <p>&nbsp;</p> <p>The major technical outcomes of the project included:&nbsp;</p> <p>&nbsp;</p> <p>(i) The design, development, construction and testing of three measurement apparatuses with increasing degree of sophistication.&nbsp; These devices were tested on soft polymers resembling tissues.</p> <p>(ii) The development of a mathematical procedure for extracting the viscoelasticity of the materials under consideration, with explicit consideration of the fluid surrounding the material.&nbsp; This is significant, as previous measurement methods did not explicitly consider the liquid environment, and the interpretation of the measurements yields different results depending on whether the effect of the fluid is taken into account or not.&nbsp; Since the objective is to be able to differentiate cancerous from healthy tissues and cells, it is of utmost importance that the measurement take into account all relevant factors.</p> <p>&nbsp;</p> <p>Both of the above outcomes constitute tools that could enable to incorporation of rigorous mechanical measurements into medical practice, within the diagnosis and study of diseases in which the mechanical properties of the tissues involved change as the disease progresses.&nbsp; Besides cancer, this may include diseases such as arteriosclerosis, lupus, arthritis and glaucoma, among others.</p> <p>&nbsp;</p> <p>The major educational outcomes of the project included:</p> <p>&nbsp;</p> <p>(i) The training of three graduate students (two PhD students and one MS student) and one undergraduate student in a multidisciplinary environment that brought together mechanical engineering, electrical engineering, computational simulation, metrology, biology, medicine and instrumentation development.&nbsp; All three graduate students moved on to prestigious doctoral or postdoctoral positions.&nbsp; The undergraduate student moved on to a graduate research position and was also offered an internship at a Federal research laboratory.</p> <p>(ii) Concepts from this project's research, especially concerning soft material physics, mathematics, atomic force microscopy and fluid mechanics were incorporated into existing courses, including dynamics, fluid mechanics and multi-scale modeling, and constitute now regular content in these courses.</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/10/2024<br> Modified by: Santiago&nbsp;D&nbsp;Solares</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2019507/2019507_10668233_1720618910071_Outcomes_Figure--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2019507/2019507_10668233_1720618910071_Outcomes_Figure--rgov-800width.jpg" title="Cell mechanical property measurement"><img src="/por/images/Reports/POR/2024/2019507/2019507_10668233_1720618910071_Outcomes_Figure--rgov-66x44.jpg" alt="Cell mechanical property measurement"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Indentation of a living cell using atomic force microscopy techniques</div> <div class="imageCredit">Image created by Alan Hoofring, published in: Communications Biology 2022, 5, 17, and Beilstein Journal of Nanotechnology 2022, 13, 1483�1489.</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Santiago&nbsp;D&nbsp;Solares <div class="imageTitle">Cell mechanical property measurement</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The major goals of this project included the development of methods for measuring the viscoelastic (mechanical) properties of soft materials that are submerged in liquid environments, along with the development of an indentation apparatus to carry out these measurements. Typical examples of such materials include living cells and tissues, whose natural environment is an aqueous environment. Of particular importance in this project was the development of methodologies that could help differentiate healthy from cancerous cells. An example is the differentiation of melanoma cells from healthy skin cells. The new indentation apparatus performs some of the functions that existing atomic force microscopes can perform, but is designed specifically for the range of sample sizes and measurement times that are optimal for soft biological systems. The figure provided illustrates how the measurement is conducted: a spherical probe attached to a micro-lever pushes onto the cell, deforming it, while the bending of the micro-lever is detected using a laser beam and a position detector (position sensing diode). The measurement of how much the micro-lever gradually bends over a period of time is analyzed mathematically, using engineering definitions to quantify the mechanical properties of the cells. The engineering definitions used in this work describe the viscoelastic behavior of the system and represent how hard (stiff) and how viscous (resembling a thick fluid) the cell material is.      The major technical outcomes of the project included:      (i) The design, development, construction and testing of three measurement apparatuses with increasing degree of sophistication. These devices were tested on soft polymers resembling tissues.   (ii) The development of a mathematical procedure for extracting the viscoelasticity of the materials under consideration, with explicit consideration of the fluid surrounding the material. This is significant, as previous measurement methods did not explicitly consider the liquid environment, and the interpretation of the measurements yields different results depending on whether the effect of the fluid is taken into account or not. Since the objective is to be able to differentiate cancerous from healthy tissues and cells, it is of utmost importance that the measurement take into account all relevant factors.      Both of the above outcomes constitute tools that could enable to incorporation of rigorous mechanical measurements into medical practice, within the diagnosis and study of diseases in which the mechanical properties of the tissues involved change as the disease progresses. Besides cancer, this may include diseases such as arteriosclerosis, lupus, arthritis and glaucoma, among others.      The major educational outcomes of the project included:      (i) The training of three graduate students (two PhD students and one MS student) and one undergraduate student in a multidisciplinary environment that brought together mechanical engineering, electrical engineering, computational simulation, metrology, biology, medicine and instrumentation development. All three graduate students moved on to prestigious doctoral or postdoctoral positions. The undergraduate student moved on to a graduate research position and was also offered an internship at a Federal research laboratory.   (ii) Concepts from this project's research, especially concerning soft material physics, mathematics, atomic force microscopy and fluid mechanics were incorporated into existing courses, including dynamics, fluid mechanics and multi-scale modeling, and constitute now regular content in these courses.        Last Modified: 07/10/2024       Submitted by: SantiagoDSolares]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

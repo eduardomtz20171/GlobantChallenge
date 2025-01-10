@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[On Low-Rank Regularization for Ill-Posed Nonlinear Parameter Estimation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research has been inspired by numerous challenges in studying the transmission dynamics of infectious diseases. The investigator will focus on estimating parameters of data-enabled mathematical models of infectious disease aiming to generate forecasts of future incidence cases. The project will develop regularized computational algorithms for this data estimation which presents many challenges and includes uncertainties. The models and optimization methods to be used are important in anticipating the resources needed for disease management. Data on past and present infectious diseases will be studied, and the investigator will collaborate with the university's School of Public Health. Apart from applications in epidemiology, this project will have a broad impact on scientific disciplines including signal and image processing, biomedical imaging, gravitational sounding, chaos theory, ocean acoustics, and others. The project includes graduate student training through involvement in the research.&lt;br/&gt;&lt;br/&gt;The project aims to develop computational algorithms for estimating parameters using optimization. From an optimization standpoint, parameter estimation and forecasting from data comes down to solving an ill-posed minimization problem constrained by a system of ordinary or partial differential equations. For uncertainty quantification, multiple runs of the inversion algorithm must be carried out, preferably in real time. To address this challenge, the project will construct a family of trust-region optimization algorithms with low-rank updates for the Jacobian operator that will reduce the computational cost of a quasi-Newton step and, at the same time, incorporate an extra layer of stability in the iterative process. In case of nonlinear least squares with non-zero residuals, low-rank updates for stable Hessian evaluation will be investigated. Theoretical and numerical analysis of the new methods will be first carried out for normally solvable ill-posed operator equations and then extended to essentially ill-posed problems. The successful completion of this project will advance the understanding of ill-posed inverse problems and facilitate more stable and efficient simulations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/02/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011622</AwardID>
+<Investigator>
+<FirstName>Alexandra</FirstName>
+<LastName>Smirnova</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexandra Smirnova</PI_FULL_NAME>
+<EmailAddress><![CDATA[asmirnova@gsu.edu]]></EmailAddress>
+<NSF_ID>000406906</NSF_ID>
+<StartDate>06/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Georgia State University Research Foundation, Inc.]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303032921</ZipCode>
+<PhoneNumber>4044133570</PhoneNumber>
+<StreetAddress><![CDATA[58 EDGEWOOD AVE NE]]></StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MNS7B9CVKDN7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia State University]]></Name>
+<CityName/>
+<StateCode>GA</StateCode>
+<ZipCode>303032921</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>127100</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>745400</Code>
+<Text>MSPA-INTERDISCIPLINARY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~51939</FUND_OBLG>
+<FUND_OBLG>2021~73047</FUND_OBLG>
+<FUND_OBLG>2022~75014</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The PI conducted theoretical and numerical study of both suitable epidemic models and robust computational algorithms capable of real-time analysis of prevention measures, of identifying the most powerful response, and of a more accurate forecasting of disease progression. Regardless of a particular disease, fitting model predictions for an invading pathogen to reported incidence series yields an unstable inverse problem due to excessive noise propagation coupled with unavoidable delays in processing of epidemic data. To address this challenge, a special technique, known as regularization, must be incorporated in the optimization routine. The focus of this project was the development of fast and accurate optimization methods regularized by low-rank updates of the Jacobian and Hessian operators. This innovative strategy allows to reduce the computational cost of a quasi-Newton step while, at the same time, successfully stabilizing the associated iterative process. Thus, our inevitable loss due to regularization of the algorithm is also our gain in how it accelerates convergence and mitigates uncertainty.</p>  <p>In addition to rigorous convergence analysis, another significant component of this research was to assess the efficiency of the proposed low-rank regularization procedures through extensive numerical simulations with various epidemic models using synthetic and real data for past and current infectious diseases. The proposal was written and submitted before the start of COVID-19 pandemic. The ongoing pandemic offered unexpected challenges and enormous opportunities for the PI's project. The abundance of data and the urgency of COVID-19 research elevated the scope of the proposed work, especially in the part related to its applications to the transmission dynamics of infectious diseases. Apart from epidemiology, the findings of this project have a broad impact on a variety of scientific disciplines including hydraulics, acoustics, seismic imaging, diagnostics, and others.&nbsp;</p>  <p>The project advanced students' training and curriculum development at the PI's institution and played an important role in the development of educational programs. Several PhD students actively participated in this NSF funded research. Students received rigorous interdisciplinary training in optimization, regularization theory, and data processing. Students participated at all stages (theory, numerics, journal publications, and conference talks). The project resulted in 10 peer-reviewed journal publications (8 out of 10 publications are with PhD students). Mona Baroonian, a PhD student at Mathematics and Statistics Department, GSU, working under the direction of the PI, successfully defended her PhD dissertation in Summer 2024. &nbsp;</p>  <p>The research outcomes have been incorporated in undergraduate and graduate courses in scientific computing, optimization, numerical analysis, mathematical epidemiology, and others. The project contributed to the development of two new academic programs at the PI's institution: MS in Applied Statistics and PhD in Mathematics and Statistics with the concentration in Machine Learning and Data Science. These new programs align with NSF mission by equipping students from diverse backgrounds with critical data analysis skills, thus transforming their personal and professional lives. The new educational opportunities advance the frontiers of knowledge through training in data-driven computational algorithms, contributing to cutting-edge research across various fields. By preparing graduates for high-demand roles in the modern workforce, the programs not only strengthen future employment landscapes but also ready students for leadership positions and lifelong learning.</p>  <p>&nbsp;</p>  <p>&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/12/2024<br> Modified by: Alexandra&nbsp;Smirnova</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The PI conducted theoretical and numerical study of both suitable epidemic models and robust computational algorithms capable of real-time analysis of prevention measures, of identifying the most powerful response, and of a more accurate forecasting of disease progression. Regardless of a particular disease, fitting model predictions for an invading pathogen to reported incidence series yields an unstable inverse problem due to excessive noise propagation coupled with unavoidable delays in processing of epidemic data. To address this challenge, a special technique, known as regularization, must be incorporated in the optimization routine. The focus of this project was the development of fast and accurate optimization methods regularized by low-rank updates of the Jacobian and Hessian operators. This innovative strategy allows to reduce the computational cost of a quasi-Newton step while, at the same time, successfully stabilizing the associated iterative process. Thus, our inevitable loss due to regularization of the algorithm is also our gain in how it accelerates convergence and mitigates uncertainty.    In addition to rigorous convergence analysis, another significant component of this research was to assess the efficiency of the proposed low-rank regularization procedures through extensive numerical simulations with various epidemic models using synthetic and real data for past and current infectious diseases. The proposal was written and submitted before the start of COVID-19 pandemic. The ongoing pandemic offered unexpected challenges and enormous opportunities for the PI's project. The abundance of data and the urgency of COVID-19 research elevated the scope of the proposed work, especially in the part related to its applications to the transmission dynamics of infectious diseases. Apart from epidemiology, the findings of this project have a broad impact on a variety of scientific disciplines including hydraulics, acoustics, seismic imaging, diagnostics, and others.    The project advanced students' training and curriculum development at the PI's institution and played an important role in the development of educational programs. Several PhD students actively participated in this NSF funded research. Students received rigorous interdisciplinary training in optimization, regularization theory, and data processing. Students participated at all stages (theory, numerics, journal publications, and conference talks). The project resulted in 10 peer-reviewed journal publications (8 out of 10 publications are with PhD students). Mona Baroonian, a PhD student at Mathematics and Statistics Department, GSU, working under the direction of the PI, successfully defended her PhD dissertation in Summer 2024.     The research outcomes have been incorporated in undergraduate and graduate courses in scientific computing, optimization, numerical analysis, mathematical epidemiology, and others. The project contributed to the development of two new academic programs at the PI's institution: MS in Applied Statistics and PhD in Mathematics and Statistics with the concentration in Machine Learning and Data Science. These new programs align with NSF mission by equipping students from diverse backgrounds with critical data analysis skills, thus transforming their personal and professional lives. The new educational opportunities advance the frontiers of knowledge through training in data-driven computational algorithms, contributing to cutting-edge research across various fields. By preparing graduates for high-demand roles in the modern workforce, the programs not only strengthen future employment landscapes but also ready students for leadership positions and lifelong learning.                 Last Modified: 12/12/2024       Submitted by: AlexandraSmirnova]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

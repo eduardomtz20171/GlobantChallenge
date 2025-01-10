@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Uniting Lithographic Patterning and Topochemical Reaction for Processing of Functional Oxides for Electronic Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>329056.00</AwardTotalIntnAmount>
+<AwardAmount>329056</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Satish Bukkapatnam</SignBlockName>
+<PO_EMAI>sbukkapa@nsf.gov</PO_EMAI>
+<PO_PHON>7032924813</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This grant supports research into developing and understanding a new nanomanufacturing process to fabricate novel patterned materials, thereby generating fundamental innovations in advanced manufacturing and advancing the nation’s technological capabilities. Patterned materials are essential components in numerous societally-critical applications including electronics, communications, data storage, and sensing. However, current approaches to processing these structures result in patterns that are static and often limited in their functionality. This award supports fundamental research to provide the knowledge needed to realize new classes of patterned materials with properties that cannot be accessed through currently available processing approaches. This new manufacturing strategy combines industrially-relevant and scalable processes used to pattern materials with low-temperature chemical reactions to create oxide-based structures with tunable properties that can be reconfigured in response to external stimuli. The dynamic nature of these structures could serve as a platform for a new generation of adaptive devices. Therefore, the new manufacturing insights and approaches resulting from this project benefit the U.S. economy and society. The project provides research training to students on a variety of experimental skills sought by industry and engages local high school students in promoting engineering fields.&lt;br/&gt;&lt;br/&gt;Topochemical transformations are solid-state chemical reactions that alter composition but retain central features of the material structure. When carried out on lithographically-defined areas, these reactions enable the creation of oxide-based lateral patterns with controlled geometries, diverse chemistries, and new functionality not afforded by existing processing routes. However, the ability to harness the full technological potential of this manufacturing strategy rests on developing a fundamental scientific understanding of numerous aspects of the process. This research addresses these knowledge gaps to better understand the relevant mechanisms and kinetic limitations. The research team identifies the relationships between material composition, crystal structure and processing parameters by systematically varying the reactions on different patterned metal oxides.  The team establishes the kinetic factors that set the ultimate limit on feature sizes in nanoscale patterns and enable the formation of non-binary structures and elucidate the stability and reconfigurability of the structures under applied electric fields and through sequential reaction steps. In doing so, the research enables manufacturing of lateral structures including functional oxide and oxyfluoride ABO3/ABO2F, e.g., SrFeO3/SrFeO2F patterns that facilitate applications such as reconfigurable or transient electronics, diffraction gratings, and sensors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001888</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>May</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven J May</PI_FULL_NAME>
+<EmailAddress><![CDATA[smay@drexel.edu]]></EmailAddress>
+<NSF_ID>000546689</NSF_ID>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Drexel University]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191042875</ZipCode>
+<PhoneNumber>2158956342</PhoneNumber>
+<StreetAddress><![CDATA[3141 CHESTNUT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XF3XM9642N96</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DREXEL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Drexel University]]></Name>
+<CityName>Philadelphia</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191021119</ZipCode>
+<StreetAddress><![CDATA[3141 Chestnut St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>088Y00</Code>
+<Text>AM-Advanced Manufacturing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>081E</Code>
+<Text>NANO SCALE ASSEMBLY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>084E</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~329056</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Professor Steven May (Drexel University) recently completed research for award CMMI-2001888, developing approaches that combine of lithographic patterning and topochemical reactions to realize new ways to pattern materials with controlled geometries, diverse chemistries, and novel functionality not afforded by existing processing routes. Topochemical reactions are solid-to-solid transformations that leave a material's crystal framework intact while altering the material composition, such as reducing a metal oxide or replacing an anion in a ceramic material. This project focused on spatially controlled modification of the anion composition in metal oxide-based thin films through reduction, oxidation, and fluorination reactions. By targeting these reactions to lithographically defined areas, controlled lateral patterns of dissimilar oxide/oxide and oxide/oxyfluoride were realized with functions unique to this approach.</p>  <p>A central novelty of the project was combining microfabrication approaches commonly used in the electronics industry with topochemical reactions commonly used in fundamental material synthesis studies. Photolithography and metal deposition was used to create hard mask patterns in a variety of structures, such as stripes and circles, on epitaxial oxide films. These samples were then exposed to ozone or fluorine-containing vapors to realize spatially defined oxidation or fluorination reactions. After removal of the hard mask, the resultant sample exhibits the lateral pattern within its anionic composition, for example as a pattern of oxide/oxyfluoride materials. In addition to patterned materials, fluorination reactions were performed on unpatterned materials to determine the applicability of topochemical reactions on materials beyond perovskite-based oxides.</p>  <p>Many electronic, optical, and magnetic devices are based on switchable functionality. In epitaxial oxides like SrFeO<sub>3</sub>, this can be achieved through reversible redox reactions (insertion or removal of oxygen) using electrolytic gating. The researchers demonstrated that in structures with lateral oxide/oxyfluoride patterns, the pure oxide region can be manipulated by applying a voltage across an ion gel gate layer, while the fluorinated region remained unaffected. This was demonstrated in patterned samples of SrFeO<sub>2.5</sub>/SrFeO<sub>2</sub>F stripes. Upon negative voltage gating, the SrFeO<sub>2.5</sub> layers are oxidized to SrFeO<sub>3</sub>. In contrast, the SrFeO<sub>2</sub>F layers do not undergo any significant change upon either positive or negative gate bias. The transition between the oxide phases results in significant changes in optical absorption and electrical conductivity as SrFeO<sub>2.5</sub> is a semiconductor and SrFeO<sub>3</sub> is a metal. As a result, the samples exhibit voltage tunability of anisotropic in-plane electronic transport, up to a factor 1000x at room temperature. It is anticipated that the anisotropy of ionic and thermal conductivity can be similarly controlled by gate-induced electrochemical transformations allowing for reversible and dynamic control of charge or heat flow within the plane.</p>  <p>The project also advanced the broader applicability of topochemical fluorination reactions for processing other materials. The researchers demonstrated that fluorination of halide perovskite surfaces, as a means to passivate defects, can be achieved by laminating the perovskite with fluoropolymers and applying heat and pressure. The fluoropolymer-treated samples exhibited increased carrier lifetimes compared to control samples when processed at optimized conditions. For instance, a 150C treatment temperature for 30 minutes resulted in an 3x increase of the carrier lifetime, illustrating the potential benefit of F-based passivation for perovskite solar cell materials. The project also demonstrated that thin films of Ruddlesden-Popper metal oxides can be fluorinated using vapor-phase topochemistry, paving the way for new families of laterally patterned oxide materials. Finally, the researchers discovered a strong strain-dependence to the band gap expansion that occurs in oxyfluoride semiconductors after conversion from parent oxide films.</p>  <p>This grant provided the primary support for education and training of two PhD students, one of whom graduated during the course of the project and is now employed in the semiconductor industry, the second of whom is still a student. Additionally, five undergraduate students participated in this project, including two female students and three students from under-represented minority groups. Detailed research results have been disseminated to the research community and public through conference presentations, three papers published in peer reviewed journals, and a manuscript currently in review.&nbsp;</p><br> <p>  Last Modified: 12/12/2024<br> Modified by: Steven&nbsp;J&nbsp;May</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Professor Steven May (Drexel University) recently completed research for award CMMI-2001888, developing approaches that combine of lithographic patterning and topochemical reactions to realize new ways to pattern materials with controlled geometries, diverse chemistries, and novel functionality not afforded by existing processing routes. Topochemical reactions are solid-to-solid transformations that leave a material's crystal framework intact while altering the material composition, such as reducing a metal oxide or replacing an anion in a ceramic material. This project focused on spatially controlled modification of the anion composition in metal oxide-based thin films through reduction, oxidation, and fluorination reactions. By targeting these reactions to lithographically defined areas, controlled lateral patterns of dissimilar oxide/oxide and oxide/oxyfluoride were realized with functions unique to this approach.    A central novelty of the project was combining microfabrication approaches commonly used in the electronics industry with topochemical reactions commonly used in fundamental material synthesis studies. Photolithography and metal deposition was used to create hard mask patterns in a variety of structures, such as stripes and circles, on epitaxial oxide films. These samples were then exposed to ozone or fluorine-containing vapors to realize spatially defined oxidation or fluorination reactions. After removal of the hard mask, the resultant sample exhibits the lateral pattern within its anionic composition, for example as a pattern of oxide/oxyfluoride materials. In addition to patterned materials, fluorination reactions were performed on unpatterned materials to determine the applicability of topochemical reactions on materials beyond perovskite-based oxides.    Many electronic, optical, and magnetic devices are based on switchable functionality. In epitaxial oxides like SrFeO3, this can be achieved through reversible redox reactions (insertion or removal of oxygen) using electrolytic gating. The researchers demonstrated that in structures with lateral oxide/oxyfluoride patterns, the pure oxide region can be manipulated by applying a voltage across an ion gel gate layer, while the fluorinated region remained unaffected. This was demonstrated in patterned samples of SrFeO2.5/SrFeO2F stripes. Upon negative voltage gating, the SrFeO2.5 layers are oxidized to SrFeO3. In contrast, the SrFeO2F layers do not undergo any significant change upon either positive or negative gate bias. The transition between the oxide phases results in significant changes in optical absorption and electrical conductivity as SrFeO2.5 is a semiconductor and SrFeO3 is a metal. As a result, the samples exhibit voltage tunability of anisotropic in-plane electronic transport, up to a factor 1000x at room temperature. It is anticipated that the anisotropy of ionic and thermal conductivity can be similarly controlled by gate-induced electrochemical transformations allowing for reversible and dynamic control of charge or heat flow within the plane.    The project also advanced the broader applicability of topochemical fluorination reactions for processing other materials. The researchers demonstrated that fluorination of halide perovskite surfaces, as a means to passivate defects, can be achieved by laminating the perovskite with fluoropolymers and applying heat and pressure. The fluoropolymer-treated samples exhibited increased carrier lifetimes compared to control samples when processed at optimized conditions. For instance, a 150C treatment temperature for 30 minutes resulted in an 3x increase of the carrier lifetime, illustrating the potential benefit of F-based passivation for perovskite solar cell materials. The project also demonstrated that thin films of Ruddlesden-Popper metal oxides can be fluorinated using vapor-phase topochemistry, paving the way for new families of laterally patterned oxide materials. Finally, the researchers discovered a strong strain-dependence to the band gap expansion that occurs in oxyfluoride semiconductors after conversion from parent oxide films.    This grant provided the primary support for education and training of two PhD students, one of whom graduated during the course of the project and is now employed in the semiconductor industry, the second of whom is still a student. Additionally, five undergraduate students participated in this project, including two female students and three students from under-represented minority groups. Detailed research results have been disseminated to the research community and public through conference presentations, three papers published in peer reviewed journals, and a manuscript currently in review.     Last Modified: 12/12/2024       Submitted by: StevenJMay]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

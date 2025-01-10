@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SaTC: CORE: Small: A Deep Learning Framework for Intelligent Active and Passive Measurements in the Age of Internet of Things]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Xiaogang (Cliff)  Wang</SignBlockName>
+<PO_EMAI>xiawang@nsf.gov</PO_EMAI>
+<PO_PHON>7032922812</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The rapid proliferation of Internet-connected devices, specially Internet-of-Things (IoT) devices, has led to mounting concerns regarding their security and the security of the Internet. This project seeks to harness the power of big data analytics and machine/deep learning to enhance Internet measurement techniques and associated information processing, to make them more scalable, efficient, and produce more actionable information. It aims to develop techniques for automated monitoring and data analysis to gain insight into the range of Internet-connected devices, their security vulnerabilities, and the ever-changing activities of malicious entities on the public Internet. The ensuing information will help software/hardware vendors and Internet-connected entities identify vulnerabilities and protect themselves against cyber-attacks, and move toward a more secure and transparent Internet.&lt;br/&gt;&lt;br/&gt;This project aims to significantly advance the state of the art in using active and passive measurements to (1) effectively monitor and track Internet devices, (2) accelerate scanning and improve their efficacy, and design and develop an intelligent honeypot that can learn responses mimicking a wide range of vulnerable devices, in order to fool attackers into engaging and revealing their attack vector. The project seeks to develop software, as well as deep learning and other machine learning models to build new Internet measurement capabilities and process datasets captured from passive/active measurements to distill data consumable by machine learning algorithms and instrumental in security analysis and network monitoring. The resulting automated tools can monitor the Internet in a continuous manner, to maintain an up-to-date view of the devices/machines that comprise the Internet, susceptible and infected devices, and vulnerabilities that are being actively exploited in-the-wild. The final result of this project is a generalized framework of interconnected components that applies deep learning to active/passive network measurements to gain actionable insights with respect to the Internet and its security, a set of scalable tools that model and enable real-time decision making regarding Internet addresses and network traffic, and a large number of raw and curated datasets shared with the research community while protecting the privacy and security of all parties involved. Automatically detecting software/hardware vulnerabilities as exploits are observed by these techniques allows vendors and network administrators to address critical vulnerabilities while enhancing intrusion detection and DDoS mitigation techniques. The data can also transform risk assessment techniques for gauging the security of networks by exposing host-level risk factors, for self-assessment as well as assisting third-party assessment, e.g., by security vendors and cyber insurance underwriters.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012001</AwardID>
+<Investigator>
+<FirstName>Mingyan</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mingyan Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[mingyan@eecs.umich.edu]]></EmailAddress>
+<NSF_ID>000230014</NSF_ID>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Armin</FirstName>
+<LastName>Sarabi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Armin Sarabi</PI_FULL_NAME>
+<EmailAddress><![CDATA[arsarabi@umich.edu]]></EmailAddress>
+<NSF_ID>000814584</NSF_ID>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481092122</ZipCode>
+<StreetAddress><![CDATA[1301 Beal Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~500000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project sought to develop machine learning (ML) aided tools that enhance visibility into the Internet ecosystem through a diverse set of measurement and data analysis techniques. As the population of Internet-connected devices and entities continues to grow, it becomes increasingly important to create scalable solutions that can effectively observe the evolving Internet landscape and derive meaningful insights from the continuous streams of Internet measurement data.</p>  <p>To this end, this project has led to the following key outcomes:</p>  <ol>  <li><strong>ML-enabled Internet scanning</strong>: We devise and evaluate a novel type of Internet scanning technique guided by machine learning models. Traditional scanning methods rely on exhaustive scans (e.g., of the entire IPv4 address space). This is both bandwidth-inefficient and intrusive, as the majority of Internet addresses are unresponsive to external probes. In contrast, our ML-based approach predicts and preemptively omits probes to hosts that are likely unresponsive, thereby accelerating network scans and promoting better Internet citizenship by reducing their intrusiveness. Our experiments, conducted over global scans of the IPv4 space on 20 ports, demonstrate that we can cut scan bandwidth by 47.4&ndash;83.5% while still discovering 90&ndash;99% of active hosts.</li>  <li><strong>Analyzing Internet scan data using large language models</strong>: Internet scanning produces massive amounts of textual data, which researchers have traditionally processed using custom, application-specific techniques. We instead train universal large language models (LLMs) designed to understand the underlying semantics of Internet scan data and produce well-behaved embeddings for downstream analysis. We examine a key application of this approach by automatically clustering and fingerprinting software and hardware products deployed on Internet hosts. Our results show that, by building on our LLM-based embeddings, we can automatically produce novel fingerprints not present in existing manually curated databases, thereby complementing them and keeping them up-to-date.</li>  <li><strong>Summarizing privacy policies using AI chatbots</strong>: Going beyond host- and device-level analysis, we also examine organization-level policies by producing automatically generated summaries of their privacy policies. Privacy policies are often lengthy documents that are filled with complex legal language, making them difficult to read and digest by consumers. We therefore leverage state-of-the-art AI chatbots to automatically annotate key/critical information from privacy policies, including data collection, handling, and protection practices, as well as users' choices and rights with respect to their data. Our results show that, on average, our proposed framework can produce more than 80 annotations of these practices from a single privacy policy, and our manual validation shows that these annotations are highly (90% or above) accurate.</li>  </ol>  <p>To summarize, the innovations delivered by this project significantly improve transparency on the public Internet. Our accelerated, ML-driven scanning framework coupled with LLM-based analysis tools enable researchers and security experts to obtain up-to-date snapshots of Internet-facing networks and better understand attack surfaces by detecting public-facing software/hardware and their associated vulnerabilities. Standardizing privacy policies into a format understandable by both humans and machines fosters better consumer transparency. It also enables the large-scale analysis of these legal documents to identify and bring to light specific structural issues.</p>  <p>Ultimately, these advancements can assist organizations better understand and assess their cyber risk by identifying vulnerable or misconfigured devices, as well as uncovering suboptimal data privacy and security practices. Our techniques can also inform third-party evaluations, such as consumer assessments, due diligence by potential partners, and cyber-insurance underwriting.</p><br> <p>  Last Modified: 12/08/2024<br> Modified by: Armin&nbsp;Sarabi</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2012001/2012001_10703663_1733668735788_Analyzing_Internet_scan_data_using_LLMs--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2012001/2012001_10703663_1733668735788_Analyzing_Internet_scan_data_using_LLMs--rgov-800width.jpg" title="Analyzing Internet scan data using LLMs"><img src="/por/images/Reports/POR/2024/2012001/2012001_10703663_1733668735788_Analyzing_Internet_scan_data_using_LLMs--rgov-66x44.jpg" alt="Analyzing Internet scan data using LLMs"></a> <div class="imageCaptionContainer"> <div class="imageCaption">High-level diagram of our fingerprint generation pipeline, utilizing large language models (LLMs) to analyze textual data resulting from Internet scans.</div> <div class="imageCredit">Sarabi et al. "An LLM-based Framework for Fingerprinting Internet-connected Devices", Internet Measurement Conference (IMC), 2023.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Armin&nbsp;Sarabi <div class="imageTitle">Analyzing Internet scan data using LLMs</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2012001/2012001_10703663_1733668362710_ML_enabled_Internet_scanning--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2012001/2012001_10703663_1733668362710_ML_enabled_Internet_scanning--rgov-800width.jpg" title="ML-enabled Internet scanning"><img src="/por/images/Reports/POR/2024/2012001/2012001_10703663_1733668362710_ML_enabled_Internet_scanning--rgov-66x44.jpg" alt="ML-enabled Internet scanning"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Flowchart for performing predictive, ML-enabled Internet scans.</div> <div class="imageCredit">Armin Sarabi</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Armin&nbsp;Sarabi <div class="imageTitle">ML-enabled Internet scanning</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2012001/2012001_10703663_1733669014325_Summarizing_privacy_policies_using_AI_chatbots--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2012001/2012001_10703663_1733669014325_Summarizing_privacy_policies_using_AI_chatbots--rgov-800width.jpg" title="Summarizing privacy policies using AI chatbots"><img src="/por/images/Reports/POR/2024/2012001/2012001_10703663_1733669014325_Summarizing_privacy_policies_using_AI_chatbots--rgov-66x44.jpg" alt="Summarizing privacy policies using AI chatbots"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Overview of our privacy policy annotation pipeline. We leverage an AI chatbot  to process crawled privacy policies from company websites  and produce labeled annotations.</div> <div class="imageCredit">Huang et al. "Analyzing Corporate Privacy Policies using AI Chatbots", Internet Measurement Conference (IMC), 2024.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Armin&nbsp;Sarabi <div class="imageTitle">Summarizing privacy policies using AI chatbots</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project sought to develop machine learning (ML) aided tools that enhance visibility into the Internet ecosystem through a diverse set of measurement and data analysis techniques. As the population of Internet-connected devices and entities continues to grow, it becomes increasingly important to create scalable solutions that can effectively observe the evolving Internet landscape and derive meaningful insights from the continuous streams of Internet measurement data.    To this end, this project has led to the following key outcomes:    ML-enabled Internet scanning: We devise and evaluate a novel type of Internet scanning technique guided by machine learning models. Traditional scanning methods rely on exhaustive scans (e.g., of the entire IPv4 address space). This is both bandwidth-inefficient and intrusive, as the majority of Internet addresses are unresponsive to external probes. In contrast, our ML-based approach predicts and preemptively omits probes to hosts that are likely unresponsive, thereby accelerating network scans and promoting better Internet citizenship by reducing their intrusiveness. Our experiments, conducted over global scans of the IPv4 space on 20 ports, demonstrate that we can cut scan bandwidth by 47.483.5% while still discovering 9099% of active hosts.  Analyzing Internet scan data using large language models: Internet scanning produces massive amounts of textual data, which researchers have traditionally processed using custom, application-specific techniques. We instead train universal large language models (LLMs) designed to understand the underlying semantics of Internet scan data and produce well-behaved embeddings for downstream analysis. We examine a key application of this approach by automatically clustering and fingerprinting software and hardware products deployed on Internet hosts. Our results show that, by building on our LLM-based embeddings, we can automatically produce novel fingerprints not present in existing manually curated databases, thereby complementing them and keeping them up-to-date.  Summarizing privacy policies using AI chatbots: Going beyond host- and device-level analysis, we also examine organization-level policies by producing automatically generated summaries of their privacy policies. Privacy policies are often lengthy documents that are filled with complex legal language, making them difficult to read and digest by consumers. We therefore leverage state-of-the-art AI chatbots to automatically annotate key/critical information from privacy policies, including data collection, handling, and protection practices, as well as users' choices and rights with respect to their data. Our results show that, on average, our proposed framework can produce more than 80 annotations of these practices from a single privacy policy, and our manual validation shows that these annotations are highly (90% or above) accurate.      To summarize, the innovations delivered by this project significantly improve transparency on the public Internet. Our accelerated, ML-driven scanning framework coupled with LLM-based analysis tools enable researchers and security experts to obtain up-to-date snapshots of Internet-facing networks and better understand attack surfaces by detecting public-facing software/hardware and their associated vulnerabilities. Standardizing privacy policies into a format understandable by both humans and machines fosters better consumer transparency. It also enables the large-scale analysis of these legal documents to identify and bring to light specific structural issues.    Ultimately, these advancements can assist organizations better understand and assess their cyber risk by identifying vulnerable or misconfigured devices, as well as uncovering suboptimal data privacy and security practices. Our techniques can also inform third-party evaluations, such as consumer assessments, due diligence by potential partners, and cyber-insurance underwriting.     Last Modified: 12/08/2024       Submitted by: ArminSarabi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

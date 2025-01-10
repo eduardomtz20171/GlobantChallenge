@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Islands no more: the important mergers of nearby galaxies and their effects]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>454023.00</AwardTotalIntnAmount>
+<AwardAmount>454023</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Glen Langston</SignBlockName>
+<PO_EMAI>glangsto@nsf.gov</PO_EMAI>
+<PO_PHON>7032924937</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Galaxy shapes can change dramatically as galaxies interact and collide with each other. In these collisions, the smaller of the two galaxies is torn to pieces and is spread into a faint ‘stellar halo’ that surrounds the larger of the two galaxies. The larger of the two galaxies survives but can be scarred by the collision. The largest collisions can cause new stars to form and can destroy galaxy disks. This research group at the University of Michigan will combine new observations with computer modeling of the past collisions experienced by nearby, well-studied galaxies. This insight will improve our understanding of galaxy growth, and these methods will be used by other astronomers using huge new datasets from the Vera C. Rubin Observatory. The investigators will measure the positive effects of adding research experiences to large introductory college science courses. If scaled-up to other institutions, this approach has the potential to enhance interest in science and science literacy.&lt;br/&gt;&lt;br/&gt;During this project, the investigators will use Hyper Suprime-Cam on the Subaru optical telescope in Hawaii.  They will construct deep and wide-area maps of the stellar halos and satellite systems of a diverse sample of five galaxies with masses similar to the Milky Way mass.  They plan to use these new data and models of galaxy growth to develop new metrics of the collisions experienced by a galaxy. With knowledge of these collisions in hand, they can better understand the long-term effects of these collisions on these five specific galaxies. Importantly, they seek to confirm, or refute, tentative correlations between past collisions and satellite galaxy numbers. These properties may signal important missing ingredients in small-scale cosmology and galaxy formation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007065</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Bell</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric F Bell</PI_FULL_NAME>
+<EmailAddress><![CDATA[ericbell@umich.edu]]></EmailAddress>
+<NSF_ID>000515827</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091107</ZipCode>
+<StreetAddress><![CDATA[1085 S University Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121600</Code>
+<Text>GALACTIC ASTRONOMY PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~454023</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Project Overview and Goals: Our universe is dynamic, with galaxies and galaxy groups constantly merging and accreting. For galaxies akin to our Milky Way (MW), these mergers significantly impact their structure and evolution. This project aimed to uncover the hidden aspects of galaxy growth by: a) revealing the history of galaxy mergers through deep star surveys of the diffuse outskirts of those galaxies (their 'stellar halos'), b) analyzing the effects of these mergers on galaxies and their satellites, and c) laying the groundwork for future studies using advanced observatories like the NSF-supported Vera C. Rubin Observatory.<br />Intellectual Merit: As part of this award, the project team detected and characterized the stellar halos of two Milky Way mass galaxies, finding in one case evidence for a very quiet merger history, and in another strong evidence for a recent galaxy collision that created an extremely unusual disk of gas that rotates backwards compared to the rest of the galaxy (M64, the Blackeye galaxy). In addition, the project team developed and deployed new measures for stellar halo age and motions, uncovering a predicted but never before seen scattered trend between the mass of a galaxy merger and when the merger happens, such that (for galaxies like the Milky Way) more massive mergers tend to happen closer to the present day. Going forwards, these measurements, and methods to infer merger mass from these measures, promises the ability to connect merger history to present-day galaxy properties - a long sought-after but elusive goal in the study of galaxy growth and development.&nbsp;<br />In parallel, advances were made in the discovery of faint satellite galaxies around large galaxies like the Milky Way. The least luminous satellite galaxies are the best way that we can learn about how dark matter and galaxy formation physical processes work on small, low-mass scales that are otherwise totally inaccessible to observation. We were, until recently, able to discover such incredibly faint galaxies in the immediate vicinity of the Milky Way and the Andromeda Galaxy. Yet, already we see systematic differences between the faint satellites of the Milky Way and Andromeda - we do not understand why those satellites are different. As part of this project, we developed datasets, sophisticated dwarf search methods, and discovered candidate satellite galaxies around nearby Milky Way-like galaxies. In addition to these discoveries, this effort led to the development that will be crucial for supporting search and characterization efforts with next-generation observatories like the NSF-supported Vera C. Rubin Observatory.&nbsp;<br />Broader Impacts: Over the grant period, we trained 2 graduate students and involved 22 undergraduate and post-bacc students in research projects. These students worked on defining their projects, data analysis, and presenting at conferences. This experience significantly enhanced their skills and engagement in STEM fields.<br />Originally, we had planned a project aimed at reducing the high attrition rate in first-year STEM students; instead, our broader impact initiatives pivoted during the pandemic to assess equity in undergraduate learning using institutional data (an initiative that did not require in-person classes). We analyzed grade distributions and enrollment trends based on demographic variables, producing equity reports that help departments understand and address disparities.</p><br> <p>  Last Modified: 08/22/2024<br> Modified by: Eric&nbsp;F&nbsp;Bell</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Overview and Goals: Our universe is dynamic, with galaxies and galaxy groups constantly merging and accreting. For galaxies akin to our Milky Way (MW), these mergers significantly impact their structure and evolution. This project aimed to uncover the hidden aspects of galaxy growth by: a) revealing the history of galaxy mergers through deep star surveys of the diffuse outskirts of those galaxies (their 'stellar halos'), b) analyzing the effects of these mergers on galaxies and their satellites, and c) laying the groundwork for future studies using advanced observatories like the NSF-supported Vera C. Rubin Observatory. Intellectual Merit: As part of this award, the project team detected and characterized the stellar halos of two Milky Way mass galaxies, finding in one case evidence for a very quiet merger history, and in another strong evidence for a recent galaxy collision that created an extremely unusual disk of gas that rotates backwards compared to the rest of the galaxy (M64, the Blackeye galaxy). In addition, the project team developed and deployed new measures for stellar halo age and motions, uncovering a predicted but never before seen scattered trend between the mass of a galaxy merger and when the merger happens, such that (for galaxies like the Milky Way) more massive mergers tend to happen closer to the present day. Going forwards, these measurements, and methods to infer merger mass from these measures, promises the ability to connect merger history to present-day galaxy properties - a long sought-after but elusive goal in the study of galaxy growth and development. In parallel, advances were made in the discovery of faint satellite galaxies around large galaxies like the Milky Way. The least luminous satellite galaxies are the best way that we can learn about how dark matter and galaxy formation physical processes work on small, low-mass scales that are otherwise totally inaccessible to observation. We were, until recently, able to discover such incredibly faint galaxies in the immediate vicinity of the Milky Way and the Andromeda Galaxy. Yet, already we see systematic differences between the faint satellites of the Milky Way and Andromeda - we do not understand why those satellites are different. As part of this project, we developed datasets, sophisticated dwarf search methods, and discovered candidate satellite galaxies around nearby Milky Way-like galaxies. In addition to these discoveries, this effort led to the development that will be crucial for supporting search and characterization efforts with next-generation observatories like the NSF-supported Vera C. Rubin Observatory. Broader Impacts: Over the grant period, we trained 2 graduate students and involved 22 undergraduate and post-bacc students in research projects. These students worked on defining their projects, data analysis, and presenting at conferences. This experience significantly enhanced their skills and engagement in STEM fields. Originally, we had planned a project aimed at reducing the high attrition rate in first-year STEM students; instead, our broader impact initiatives pivoted during the pandemic to assess equity in undergraduate learning using institutional data (an initiative that did not require in-person classes). We analyzed grade distributions and enrollment trends based on demographic variables, producing equity reports that help departments understand and address disparities.     Last Modified: 08/22/2024       Submitted by: EricFBell]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative research: CIBR: Computational resources for modeling and analysis of realistic cell membranes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>791094.00</AwardTotalIntnAmount>
+<AwardAmount>791094</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reed Beaman</SignBlockName>
+<PO_EMAI>rsbeaman@nsf.gov</PO_EMAI>
+<PO_PHON>7032927163</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Biological membranes are semi-permeable barriers that separate living cells from the environment and create intracellular compartments. They are composed of many types of lipids and are crowded with numerous transmembrane and peripheral membrane proteins. These proteins participate in all vital cellular processes, including biogenesis, energy and signal transduction, molecular transport, vesicular trafficking, cell motility, recognition, adhesion, and shape regulation. Despite the growing number of atomic structures of membrane proteins, the lack of information about their spatial positions and protein-lipid interactions in their native membranes impedes our understanding of molecular mechanisms of their folding, stability, function, and regulation. Motivated by rising demands in realistic representation of proteins in non-planar and deformable membranes with natural lipid compositions, we propose a creation of a high-capacity cyberinfrastructure for fast and reproducible assembly of membrane proteins with natural lipids to build flexible multicomponent biomembranes for subsequent structural analysis and molecular dynamics (MD) simulations. This project will promote synergy between scientific research and education by training computer science students in developing bioinformatics resources, by using the developed toolbox for teaching, and by providing training materials and web-based workshops for students and the user community to promote research experience in membrane simulations.&lt;br/&gt;&lt;br/&gt;This collaborative project will enhance and combine capabilities of the highly recognized and widely used PPM/OPM and CHARMM-GUI resources that have been developed by the research teams from the University of Michigan and Lehigh University. The project has three main components. First, the PPM (Positioning of Proteins in Membranes) method will be advanced for calculating the spatial arrangement and binding energy of proteins in deformable membranes characterized by diverse polarity profiles, asymmetry, charge, and curvature. Second, a new PPM/CHARMM-GUI toolbox will be developed by integrating the improved PPM method and CHARMM-GUI Membrane Builder to assemble native-like protein-lipid systems and provide input files for realistic simulations of biomembranes by various MD simulation packages. The open web-based platform will allow users of diverse expertise to easily setup and perform simulations of membrane proteins with known three-dimensional (3D) structures in deformable membranes with complex lipid composition. Third, native-like all-atom membrane systems for thousands of known membrane protein structures with natural lipids from eukaryotic and prokaryotic cells and organelles will be produced using this toolbox. The generated protein-lipid systems together with the inputs for MD simulations will be deposited in the improved and expanded OPM database (at opm.phar.umich.edu). These inputs can be directly used for state-of-the-art MD simulations of realistic cell membranes to assist in planning and interpreting experimental studies. The proposed toolbox (at charmm-gui.org) will significantly enhance the capacity of existing web resources for biomolecular simulations, while ensuring the long-awaited transition from modeling only transmembrane proteins to simulations of both transmembrane and peripheral proteins and their complexes in membranes; from artificial lipid&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/02/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010851</AwardID>
+<Investigator>
+<FirstName>Andrei</FirstName>
+<LastName>Lomize</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrei Lomize</PI_FULL_NAME>
+<EmailAddress><![CDATA[almz@umich.edu]]></EmailAddress>
+<NSF_ID>000318468</NSF_ID>
+<StartDate>06/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Irina</FirstName>
+<LastName>Pogozheva</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Irina Pogozheva</PI_FULL_NAME>
+<EmailAddress><![CDATA[irinap@umich.edu]]></EmailAddress>
+<NSF_ID>000320141</NSF_ID>
+<StartDate>06/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress><![CDATA[3003 S. State St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>085Y00</Code>
+<Text>Infrastructure Capacity for Bi</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~791094</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Disclaimer</strong></p> <p>This Project Outcomes Report for the General Public is displayed verbatim as submitted by the Principal Investigator (PI) for this award. Any opinions, findings, and conclusions or recommendations expressed in this Report are those of the PI and do not necessarily reflect the views of the National Science Foundation; NSF has not approved or endorsed its content.</p> <p>Biological membranes serve as protective barriers for living cells and intracellular compartments. These membranes consist of thousands of lipid types and are densely packed with diverse membrane proteins, which can either span the lipid bilayer or be inserted permanently or transiently from one side. Lipid membranes provide distinct anisotropic environments for membrane proteins, where various lipids modulate protein structures and functions through specific or non-specific interactions. Understanding the atomic structures of membrane proteins within their native membrane environments is vital for deciphering the molecular mechanisms underlying their folding, stability, function, and regulation. Recent advancements in structure determination techniques have led to an almost exponential increase in the number of three-dimensional (3D) structures of membrane proteins and their complexes. However, the spatial positions of proteins within membranes are not immediately apparent from experimental 3D structures but can be computationally derived.</p> <p>The intellectual merit of this work lies in the development, validation, and application of an innovative infrastructure for fast and reliable modeling and deposition of realistic multicomponent lipid-protein systems suitable for subsequent structural analysis and molecular dynamics (MD) simulations. This infrastructure includes the significantly advanced PPM web tool and the new OPRLM (Orientations of Proteins in Realistic Lipid Membranes) web server and database, accessible at <a href="https://oprlm.org/" target="_blank">https://oprlm.org/</a>. The newly developed PPM 3.0 web server calculates the spatial positions of proteins in flat, curved, and multiple membranes. The OPRLM web server integrates the PPM method with the widely recognized CHARM-GUI platform. For each membrane protein with an experimental or modeled 3D structure, the OPRLM web server generates atomic coordinates for a system comprising proteins and explicit lipids that mimic membranes from cells and organelles of mammals, plants, fungi, bacteria, and archaea. It also provides all necessary files required for future MD simulations and can accommodate numerous small molecule ligands present in membrane protein structures. The new OPRLM database, an advanced and expanded successor of the OPM database, includes coordinates of lipid-protein systems calculated by the OPRLM web server, as well as experimental structures of integral and peripheral membrane proteins from the Protein Data Bank oriented within membranes by PPM. The database offers protein classification and information about preferred intracellular localization and protein topology in membranes, along with services for protein search, retrieval, and visualization.</p> <p>This project has a broader impact through the worldwide use of the database and web servers by researchers, teachers, and students in fields such as biophysics, structural and evolutionary biology, medicinal chemistry, and bioinformatics. The PPM and OPRLM web tools are user-friendly, making them accessible to non-experts and experimentalists. The OPRLM database is a unique resource that aggregates integral and peripheral protein structures oriented within implicit membrane models of variable curvature and pre-calculated realistic biomembranes composed of native-like explicit lipid mixtures. This infrastructure facilitates membrane protein research, significantly enhancing our understanding of biomolecular processes in native-like membrane contexts.</p><br> <p>  Last Modified: 09/27/2024<br> Modified by: Andrei&nbsp;Lomize</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Disclaimer   This Project Outcomes Report for the General Public is displayed verbatim as submitted by the Principal Investigator (PI) for this award. Any opinions, findings, and conclusions or recommendations expressed in this Report are those of the PI and do not necessarily reflect the views of the National Science Foundation; NSF has not approved or endorsed its content.   Biological membranes serve as protective barriers for living cells and intracellular compartments. These membranes consist of thousands of lipid types and are densely packed with diverse membrane proteins, which can either span the lipid bilayer or be inserted permanently or transiently from one side. Lipid membranes provide distinct anisotropic environments for membrane proteins, where various lipids modulate protein structures and functions through specific or non-specific interactions. Understanding the atomic structures of membrane proteins within their native membrane environments is vital for deciphering the molecular mechanisms underlying their folding, stability, function, and regulation. Recent advancements in structure determination techniques have led to an almost exponential increase in the number of three-dimensional (3D) structures of membrane proteins and their complexes. However, the spatial positions of proteins within membranes are not immediately apparent from experimental 3D structures but can be computationally derived.   The intellectual merit of this work lies in the development, validation, and application of an innovative infrastructure for fast and reliable modeling and deposition of realistic multicomponent lipid-protein systems suitable for subsequent structural analysis and molecular dynamics (MD) simulations. This infrastructure includes the significantly advanced PPM web tool and the new OPRLM (Orientations of Proteins in Realistic Lipid Membranes) web server and database, accessible at https://oprlm.org/. The newly developed PPM 3.0 web server calculates the spatial positions of proteins in flat, curved, and multiple membranes. The OPRLM web server integrates the PPM method with the widely recognized CHARM-GUI platform. For each membrane protein with an experimental or modeled 3D structure, the OPRLM web server generates atomic coordinates for a system comprising proteins and explicit lipids that mimic membranes from cells and organelles of mammals, plants, fungi, bacteria, and archaea. It also provides all necessary files required for future MD simulations and can accommodate numerous small molecule ligands present in membrane protein structures. The new OPRLM database, an advanced and expanded successor of the OPM database, includes coordinates of lipid-protein systems calculated by the OPRLM web server, as well as experimental structures of integral and peripheral membrane proteins from the Protein Data Bank oriented within membranes by PPM. The database offers protein classification and information about preferred intracellular localization and protein topology in membranes, along with services for protein search, retrieval, and visualization.   This project has a broader impact through the worldwide use of the database and web servers by researchers, teachers, and students in fields such as biophysics, structural and evolutionary biology, medicinal chemistry, and bioinformatics. The PPM and OPRLM web tools are user-friendly, making them accessible to non-experts and experimentalists. The OPRLM database is a unique resource that aggregates integral and peripheral protein structures oriented within implicit membrane models of variable curvature and pre-calculated realistic biomembranes composed of native-like explicit lipid mixtures. This infrastructure facilitates membrane protein research, significantly enhancing our understanding of biomolecular processes in native-like membrane contexts.     Last Modified: 09/27/2024       Submitted by: AndreiLomize]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

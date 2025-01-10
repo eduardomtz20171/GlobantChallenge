@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Nonlinear Wave Motion]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>260000.00</AwardTotalIntnAmount>
+<AwardAmount>260000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nonlinear wave motion relates to the study of how high-power signals are transmitted and occur widely in applications. Some of the applications include surface water waves, rogue waves in the ocean, tsunamis, optical waves such as those that occur in waveguides and lasers, acoustic waves, and associated shock waves. This research effort focuses on solving a number of open problems that will substantially extend the ability of mathematicians to explain the behavior of large power wave phenomena that arise widely in applications while developing a deeper understanding of this behavior. A postdoctoral associate and undergraduate students will be trained through active participation in this research.&lt;br/&gt;&lt;br/&gt;The mathematical analysis of nonlinear wave motion presents difficulties because the underlying equations are nonlinear for which there is far less mathematical understanding than small power linear waves. One of the methods that can be used to analyze a class of nonlinear wave equations discussed in this proposal is termed the inverse scattering transform (IST). The PI has experience with this method and has found new classes of physically significant equations with interesting underlying symmetries to which IST can be applied. The method also applies to multidimensional equations and associated solutions which decay in all directions. Key properties of these latter solutions will be understood, and they can be connected to fundamental equations in quantum mechanics and optics. Research will also be conducted on a class of waves called dispersive shock waves (DSWs). DSWs are shock waves that are dispersive in nature; the underlying equations are dispersive not dissipative. Consequently, DSWs are not like atmospheric shock waves which are are strongly affected by dissipation. DSWs arise in many applications including water waves, nonlinear optics, plasma physics, and Bose-Einstein condensation amongst many others. The theory of DSWs will be extended in order to obtain improved approximations to the underlying equations in one dimension and a detailed multidimensional analysis will be developed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005343</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Ablowitz</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark J Ablowitz</PI_FULL_NAME>
+<EmailAddress><![CDATA[mark.ablowitz@colorado.edu]]></EmailAddress>
+<NSF_ID>000168824</NSF_ID>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803031058</ZipCode>
+<StreetAddress><![CDATA[3100 Marine Street, Room 481]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126600</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~173158</FUND_OBLG>
+<FUND_OBLG>2022~86842</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>Nonlinear wave motion is broadly based; this wave phenomena occurs virtually everywhere in the world. The PI has been studying a class of nonlinear equations which are widely applicable; some of the application areas include&nbsp; water waves, fluid dynamics, electromagnetics, nonlinear optics, Bose-Einstein condensation and PT-symmetric physics.</span></p> <p><span>&nbsp;</span></p> <p><span>While most nonlinear wave equations cannot be solved or linearized exactly, there are some that can.&nbsp; These are termed integrable or solvable equations. Consequently we understand&nbsp; much more about the details and qualitative properties of these equations than most nonlinear equations.</span></p> <p><span>&nbsp;</span></p> <p><span>The PI has found new integrable equations which admit wide classes of solutions. The method of solution is&nbsp; referred to as the inverse scattering transform, or IST for short. The IST method has been extensively&nbsp;studied &nbsp;by researchers worldwide. &nbsp;This method has been strongly influenced by the PIs past and current research. The new equations that have been identified and their&nbsp; solutions have&nbsp; been studied and used by researchers worldwide.</span></p> <p><span>&nbsp;</span></p> <p><span>The PI and collaborators have found the following.</span></p> <p><span>i) new classes of integrable nonlinear equations including nonlocal and fractional nonlinear equations. These equations greatly expand the known class of integrable nonlinear equations;</span></p> <p><span>ii) the classical water wave equations lead to six-wave and nonlocal three wave interaction equations.&nbsp; A special case includes the well-known three wave interaction equations which were derived many years ago;</span></p> <p><span>iii) The details of the nonlocal three wave interaction equations were mathematically analyzed in a separate paper;</span></p> <p><span>iv) A class of waves that propagate unidirectionally with minimal backscatter have been identified. These waves are related to underlying topology.&nbsp; A paper discussing the dynamics and underlying approximations was published;&nbsp; an overview of this remarkable phenomena was also published.</span></p> <p><span>&nbsp;</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 10/17/2024<br> Modified by: Mark&nbsp;J&nbsp;Ablowitz</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Nonlinear wave motion is broadly based; this wave phenomena occurs virtually everywhere in the world. The PI has been studying a class of nonlinear equations which are widely applicable; some of the application areas include water waves, fluid dynamics, electromagnetics, nonlinear optics, Bose-Einstein condensation and PT-symmetric physics.      While most nonlinear wave equations cannot be solved or linearized exactly, there are some that can. These are termed integrable or solvable equations. Consequently we understand much more about the details and qualitative properties of these equations than most nonlinear equations.      The PI has found new integrable equations which admit wide classes of solutions. The method of solution is referred to as the inverse scattering transform, or IST for short. The IST method has been extensivelystudied by researchers worldwide. This method has been strongly influenced by the PIs past and current research. The new equations that have been identified and their solutions have been studied and used by researchers worldwide.      The PI and collaborators have found the following.   i) new classes of integrable nonlinear equations including nonlocal and fractional nonlinear equations. These equations greatly expand the known class of integrable nonlinear equations;   ii) the classical water wave equations lead to six-wave and nonlocal three wave interaction equations. A special case includes the well-known three wave interaction equations which were derived many years ago;   iii) The details of the nonlocal three wave interaction equations were mathematically analyzed in a separate paper;   iv) A class of waves that propagate unidirectionally with minimal backscatter have been identified. These waves are related to underlying topology. A paper discussing the dynamics and underlying approximations was published; an overview of this remarkable phenomena was also published.           Last Modified: 10/17/2024       Submitted by: MarkJAblowitz]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Material and Device Building Blocks for Hardware Acceleration of Machine Learning and Artificial Intelligence Algorithms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>350000.00</AwardTotalIntnAmount>
+<AwardAmount>350000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yaroslav Koshka</SignBlockName>
+<PO_EMAI>ykoshka@nsf.gov</PO_EMAI>
+<PO_PHON>7032924986</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Non-technical description: &lt;br/&gt;Artificial intelligence (AI) algorithms have emerged as key drivers of technology and innovation. These algorithms enable large amounts of data to be distilled down to valuable insights. Nearly all industries have been transformed by these technologies, and new industries only possible due to these technologies are emerging. Unfortunately, the general-purpose hardware that enabled the past 50 years of computing is fundamentally unsuited to run AI algorithms efficiently. This research focuses on developing material growth techniques and specialized devices specifically tailored to addressing the needs of next generation computing algorithms. The outcome of this research is materials and devices that can be integrated directly with traditional hardware to improve the performance of AI with respect to speed and power. Thus, the results of this work can impact a wide variety of fields, ranging from semiconductors to self-driving cars. Graduate students working on this project are trained in materials, devices, and algorithms for AI, a critical need for the workforce of the future. Activities to bolster high school students’ math and science skills are incorporated to encourage their interest in science and engineering related fields. A focus of these activities is the inclusion of underrepresented groups. The results of this research are published in journals, presented at conferences, and incorporated into both undergraduate and graduate level classes.&lt;br/&gt;&lt;br/&gt;Technical description: &lt;br/&gt;The primary goal of this project is to utilize crystalline III-V semiconductors on amorphous substrates as the material and device building blocks for future generations of neuromorphic processors. Neuromorphic computing architectures and systems have the potential to rapidly generate insight from massive datasets with very-low power compared to current von Neumann processor architectures. However, current implementations of analog accelerators based on non-volatile memory elements exhibit unacceptably low classification accuracy on model problems. Additionally, artificial neural network architectures still exhibit ~6-8 orders of magnitude greater energy consumption as compared to the brain. Here, an algorithm driven approach is used to design devices for artificial neural network and spiking neural network accelerators. These devices are fabricated and characterized using III-V high-mobility channels directly grown on amorphous substrates below 400 oC, enabling CMOS back-end integration compatibility. First, the performance limits of III-V’s grown on amorphous substrates are identified. Next, memory devices for artificial neural network synapses are designed, fabricated and characterized. Finally, spiking synaptic devices—artificial devices which mimic biological synapses are explored. The results of this work have the potential to enable specialized hardware for AI to be fabricated directly on traditional processors impacting all areas that presently utilize AI.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004791</AwardID>
+<Investigator>
+<FirstName>Rehan</FirstName>
+<LastName>Kapadia</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rehan Kapadia</PI_FULL_NAME>
+<EmailAddress><![CDATA[rkapadia@usc.edu]]></EmailAddress>
+<NSF_ID>000676279</NSF_ID>
+<StartDate>05/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>90033</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress><![CDATA[3720 S FLOWER ST FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>34</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA34</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900890001</ZipCode>
+<StreetAddress><![CDATA[3737 Watt Way Powell Hall 510]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>094Z</Code>
+<Text>Materials Data</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~125000</FUND_OBLG>
+<FUND_OBLG>2021~115000</FUND_OBLG>
+<FUND_OBLG>2022~110000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Our project focused on developing new technologies that improve energy efficiency and enhance the capabilities of modern computing and communication systems. By combining innovative approaches to materials, electronics, and computation, we achieved significant results that contribute to both scientific advancement and practical applications.</p>  <p>One key area of our research was the integration of specialized semiconductor materials with a crystal called lithium niobate, which is widely used in optical devices. Traditional methods for combining these materials are expensive and difficult to scale, but we developed a new process that is simpler and more cost-effective. This process allows the creation of high-quality materials that can be used in advanced devices like lasers, sensors, and communication tools. These improvements could make technologies like faster internet, better medical imaging, and more precise scientific instruments more accessible and affordable.</p>  <p>We also explored how to make computing hardware more like the human brain, which processes information efficiently and uses very little energy. Using a design inspired by how neurons in the brain work, we built a system that converts electrical signals into rapid bursts, or "spikes," similar to how nerve cells communicate. This system uses extremely low power&mdash;far less than traditional computing hardware&mdash;making it ideal for tasks like artificial intelligence in small devices, such as smartphones or autonomous vehicles, where energy efficiency is essential.</p>  <p>Another breakthrough was the development of computing systems that perform tasks directly where data is collected, such as in a camera or a sensor. This approach eliminates the need to send data back and forth between devices, saving time and energy. We built devices that process images in real-time, performing operations like detecting edges or identifying objects in a scene. These systems are not only fast but also consume very little energy, making them a powerful tool for applications like robotics, surveillance, and environmental monitoring.</p>  <p>The broader impact of this work extends beyond the laboratory. Energy-efficient technologies like those we developed could help reduce the environmental footprint of data centers and computing devices, contributing to global sustainability efforts. Our cost-effective methods for building optical and electronic devices could make high-tech tools more widely available, benefiting fields like healthcare, education, and telecommunications, especially in underserved communities.</p>  <p>This project also provided valuable training opportunities for students and researchers, helping them develop skills in materials science, electronics, and computer hardware. By working on these interdisciplinary challenges, participants gained experience in solving real-world problems and contributed to advancements that will shape the future of technology.</p>  <p>In summary, this research bridges the gap between cutting-edge science and practical solutions, offering new ways to build smarter, more efficient, and more accessible technologies. By addressing challenges like energy use, sustainability, and technological access, our work has the potential to make a lasting difference in both science and society.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 11/28/2024<br> Modified by: Rehan&nbsp;Kapadia</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Our project focused on developing new technologies that improve energy efficiency and enhance the capabilities of modern computing and communication systems. By combining innovative approaches to materials, electronics, and computation, we achieved significant results that contribute to both scientific advancement and practical applications.    One key area of our research was the integration of specialized semiconductor materials with a crystal called lithium niobate, which is widely used in optical devices. Traditional methods for combining these materials are expensive and difficult to scale, but we developed a new process that is simpler and more cost-effective. This process allows the creation of high-quality materials that can be used in advanced devices like lasers, sensors, and communication tools. These improvements could make technologies like faster internet, better medical imaging, and more precise scientific instruments more accessible and affordable.    We also explored how to make computing hardware more like the human brain, which processes information efficiently and uses very little energy. Using a design inspired by how neurons in the brain work, we built a system that converts electrical signals into rapid bursts, or "spikes," similar to how nerve cells communicate. This system uses extremely low powerfar less than traditional computing hardwaremaking it ideal for tasks like artificial intelligence in small devices, such as smartphones or autonomous vehicles, where energy efficiency is essential.    Another breakthrough was the development of computing systems that perform tasks directly where data is collected, such as in a camera or a sensor. This approach eliminates the need to send data back and forth between devices, saving time and energy. We built devices that process images in real-time, performing operations like detecting edges or identifying objects in a scene. These systems are not only fast but also consume very little energy, making them a powerful tool for applications like robotics, surveillance, and environmental monitoring.    The broader impact of this work extends beyond the laboratory. Energy-efficient technologies like those we developed could help reduce the environmental footprint of data centers and computing devices, contributing to global sustainability efforts. Our cost-effective methods for building optical and electronic devices could make high-tech tools more widely available, benefiting fields like healthcare, education, and telecommunications, especially in underserved communities.    This project also provided valuable training opportunities for students and researchers, helping them develop skills in materials science, electronics, and computer hardware. By working on these interdisciplinary challenges, participants gained experience in solving real-world problems and contributed to advancements that will shape the future of technology.    In summary, this research bridges the gap between cutting-edge science and practical solutions, offering new ways to build smarter, more efficient, and more accessible technologies. By addressing challenges like energy use, sustainability, and technological access, our work has the potential to make a lasting difference in both science and society.         Last Modified: 11/28/2024       Submitted by: RehanKapadia]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

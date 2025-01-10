@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Three-Dimensional Spatial and Polarization Modes in Classical and Quantum Light Fields]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>399640.00</AwardTotalIntnAmount>
+<AwardAmount>413640</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John D. Gillaspy</SignBlockName>
+<PO_EMAI>jgillasp@nsf.gov</PO_EMAI>
+<PO_PHON>7032927173</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>General audience abstract:&lt;br/&gt;&lt;br/&gt;The beam of light coming from a laser is typically brightest in the middle becoming dimmer towards the edges and keeps that basic pattern as it moves through space.  It is possible to manipulate such a beam to produce one with much more complicated patterns across and along the beam.  The PI and his students will be continuing the exploration of such novel light beams and their applications. Such studies may have an impact in the creation of new types of imaging for medical diagnosis and new ways for increasing the amount of information carried by light in communications. The PI and his team will investigate one type of novel light beam, known as a non-diffracting beam which has the interesting property of not spreading or shrinking, at least over a limited distance.  Such beams can be used to simulate physical situations that may be intractable to investigate by other means, or give complementary perspectives to present-day studies. This type of research will offer new approaches for the creation of novel light-based technologies. In this research the PI and co-workers, mostly undergraduates, will use emerging technologies in light manipulation to reshape and study light in new ways. Immediate byproducts beyond the main research include creating new instructional laboratories designed to educate an emerging workforce that must understand the quantum physics used in new technologies.&lt;br/&gt;&lt;br/&gt;Technical audience abstract:&lt;br/&gt;&lt;br/&gt;In this study the PI and coworkers aim at manipulating light beams to study scalar and vectorial light patterns in new spatial arrangements of amplitude, phase and polarization, which evolve and redistribute as the light propagates. These patterns are known as non-diffracting beams. The group will study optical singularities in these beams, such as optical vortices and caustics, in arrangements that have not been previously investigated. These new configurations of fields are important because they unravel underlying phenomena that are not easily predicted. A particular problem that will be investigated uses light to simulate quantum mechanical problems due to similarities between the Helmholtz wave equation and the Schrodinger equation. The researchers will also study new polarization patterns in three dimensions that involve rotations of the polarization ellipse that mimic twisted patterns of spins. They will do these investigations classically as well as quantum mechanically via experiments with single photons. At the quantum level, the studies will involve new spatial correlations that involve the propagation dimension. These studies open new paradigms for understanding light-wave patterns and to use them in photonic applications such as imaging, manipulation and communications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011937</AwardID>
+<Investigator>
+<FirstName>Enrique</FirstName>
+<LastName>Galvez</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Enrique J Galvez</PI_FULL_NAME>
+<EmailAddress><![CDATA[Egalvez@colgate.edu]]></EmailAddress>
+<NSF_ID>000293729</NSF_ID>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Colgate University]]></Name>
+<CityName>HAMILTON</CityName>
+<ZipCode>133461386</ZipCode>
+<PhoneNumber>3152287457</PhoneNumber>
+<StreetAddress><![CDATA[13 OAK DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY22</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D4P7H8NWZER7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLGATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colgate University]]></Name>
+<CityName>Hamilton</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>133461398</ZipCode>
+<StreetAddress><![CDATA[13 Oak Drive Physics and Astrono]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY22</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124100</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~173562</FUND_OBLG>
+<FUND_OBLG>2021~160067</FUND_OBLG>
+<FUND_OBLG>2022~66011</FUND_OBLG>
+<FUND_OBLG>2024~14000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This research involved the study of novel light beams in various settings. One is to simulate the deflection of light by gravity to study the wave aspects of this phenomenon (Image 1), which has not been possible to observe due to light-coherency conditions in astrophysical imaging. It is also a case where the patterns of light rays, also known as caustics, meet the patterns of light waves, known as interference, with both types appearing in the same light beam, and provided by the curvature of space caused by gravity. It constitutes a new platform in laboratory astrophysics, which will inform gravitational-wave imaging when it becomes available.</p>  <p>&nbsp;</p>  <p>In certain situations, the mathematics of wave propagation is identical to the equation of quantum physics. By properly preparing a light beam via computational holography, its intensity pattern revealed the predictions of quantum mechanics, showing instantaneous outcomes in the transverse light pattern, but changing axially, with the propagation direction playing the role of time (Image 2). Thus displaying the temporal dynamics of a quantum-mechanical problem. It constituted a form of analog quantum simulation using light.</p>  <p>&nbsp;</p>  <p>This research also involved table-top research problems amenable to study in the undergraduate setting and done by undergraduates. It included problems such as encoding information in the rotation of patterns encoded in optical beams, of use in new forms of communication. Other studies included harnessing quantum entanglement in a new type of metrology by demonstrating a traditional type of material diagnosis with the added quantum aspect of nonlocality or spooky action-at-a-distance (Image 3); and demonstrating new types of delayed quantum erasing, a type of quantum measurement that avoids the order that is present in traditional methods involving sequential measurements.</p>  <p>&nbsp;</p>  <p>The broader impact component of this work involved the development of three undergraduate quantum optics laboratories that illustrated fundamental aspects of quantum physics. These laboratories included the recreation quantum key distribution with quantum-entangled photons&mdash;a quantum form of information encoding; the interference of single photons traversing two slits&mdash;illustrating the wave-particle aspect of nature (Image 4); and the Hong-Ou-Mandel interference&mdash;a nonclassical form of two-particle interference (Image 5). These laboratories serve as hands-on experiences to support teaching quantum mechanics in physics and engineering program</p><br> <p>  Last Modified: 11/29/2024<br> Modified by: Enrique&nbsp;J&nbsp;Galvez</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2011937/2011937_10683785_1732901627792_Image1Outcomes--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2011937/2011937_10683785_1732901627792_Image1Outcomes--rgov-800width.jpg" title="Gravitational lensing in the laboratory."><img src="/por/images/Reports/POR/2024/2011937/2011937_10683785_1732901627792_Image1Outcomes--rgov-66x44.jpg" alt="Gravitational lensing in the laboratory."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Apparatus (a) uses digital phase encoding (b) to deflect light according to gravitational lensing, showing Einstein rings (c), and wave patterns due to stars (d), galaxies (e), binary black holes (f), highlighting invariant ray outlines and variant wave structures within (g,h).</div> <div class="imageCredit">E. Galvez</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Enrique&nbsp;J&nbsp;Galvez <div class="imageTitle">Gravitational lensing in the laboratory.</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2011937/2011937_10683785_1732901020641_Image2Outcomes--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2011937/2011937_10683785_1732901020641_Image2Outcomes--rgov-800width.jpg" title="Quantum Simulations with Light"><img src="/por/images/Reports/POR/2024/2011937/2011937_10683785_1732901020641_Image2Outcomes--rgov-66x44.jpg" alt="Quantum Simulations with Light"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Using a digital holography apparatus (a) we created a beam that in 2 dimensions showed the quantum probability for a quantum rotor, but in 3 dimensions showed its motion as a function of time (b).</div> <div class="imageCredit">E. Galvez</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Enrique&nbsp;J&nbsp;Galvez <div class="imageTitle">Quantum Simulations with Light</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2011937/2011937_10683785_1732901278514_Image3Outcomes--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2011937/2011937_10683785_1732901278514_Image3Outcomes--rgov-800width.jpg" title="Nonlocal Mueller Polarimetry"><img src="/por/images/Reports/POR/2024/2011937/2011937_10683785_1732901278514_Image3Outcomes--rgov-66x44.jpg" alt="Nonlocal Mueller Polarimetry"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This technique involves measuring the polarization properties of   materials by analyzing how the material modifies the polarization   of the light going through a sample. Quantum correlations divides the sequential measurements into two non-sequential on the two photons.</div> <div class="imageCredit">E. Galvez</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Enrique&nbsp;J&nbsp;Galvez <div class="imageTitle">Nonlocal Mueller Polarimetry</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2011937/2011937_10683785_1732901773417_Image4Outcomes--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2011937/2011937_10683785_1732901773417_Image4Outcomes--rgov-800width.jpg" title="Broader Impacts: Developing Quantum Optics Laboratories Double-slit interference of single photons on a table-top"><img src="/por/images/Reports/POR/2024/2011937/2011937_10683785_1732901773417_Image4Outcomes--rgov-66x44.jpg" alt="Broader Impacts: Developing Quantum Optics Laboratories Double-slit interference of single photons on a table-top"></a> <div class="imageCaptionContainer"> <div class="imageCaption">We developed a table-top (a) laboratory demonstration of Young�s double-slit experiment with single photons, showing interference, (b) and the quantum eraser (c) highlighting the wave-particle duality.</div> <div class="imageCredit">E. Galvez</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Enrique&nbsp;J&nbsp;Galvez <div class="imageTitle">Broader Impacts: Developing Quantum Optics Laboratories Double-slit interference of single photons on a table-top</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2011937/2011937_10683785_1732901909140_Image5Outcomes--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2011937/2011937_10683785_1732901909140_Image5Outcomes--rgov-800width.jpg" title="Development of a Hong-Ou-Mandel laboratory"><img src="/por/images/Reports/POR/2024/2011937/2011937_10683785_1732901909140_Image5Outcomes--rgov-66x44.jpg" alt="Development of a Hong-Ou-Mandel laboratory"></a> <div class="imageCaptionContainer"> <div class="imageCaption">We developed a simple and easy-to-align demonstration laboratory (a) of an important experiment of quantum optics. It yields the famous �dip� in the joint detection of two photons after a beam splitter due to the interference of two indistinguishable photons (b).</div> <div class="imageCredit">E. Galvez</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Enrique&nbsp;J&nbsp;Galvez <div class="imageTitle">Development of a Hong-Ou-Mandel laboratory</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This research involved the study of novel light beams in various settings. One is to simulate the deflection of light by gravity to study the wave aspects of this phenomenon (Image 1), which has not been possible to observe due to light-coherency conditions in astrophysical imaging. It is also a case where the patterns of light rays, also known as caustics, meet the patterns of light waves, known as interference, with both types appearing in the same light beam, and provided by the curvature of space caused by gravity. It constitutes a new platform in laboratory astrophysics, which will inform gravitational-wave imaging when it becomes available.        In certain situations, the mathematics of wave propagation is identical to the equation of quantum physics. By properly preparing a light beam via computational holography, its intensity pattern revealed the predictions of quantum mechanics, showing instantaneous outcomes in the transverse light pattern, but changing axially, with the propagation direction playing the role of time (Image 2). Thus displaying the temporal dynamics of a quantum-mechanical problem. It constituted a form of analog quantum simulation using light.        This research also involved table-top research problems amenable to study in the undergraduate setting and done by undergraduates. It included problems such as encoding information in the rotation of patterns encoded in optical beams, of use in new forms of communication. Other studies included harnessing quantum entanglement in a new type of metrology by demonstrating a traditional type of material diagnosis with the added quantum aspect of nonlocality or spooky action-at-a-distance (Image 3); and demonstrating new types of delayed quantum erasing, a type of quantum measurement that avoids the order that is present in traditional methods involving sequential measurements.        The broader impact component of this work involved the development of three undergraduate quantum optics laboratories that illustrated fundamental aspects of quantum physics. These laboratories included the recreation quantum key distribution with quantum-entangled photonsa quantum form of information encoding; the interference of single photons traversing two slitsillustrating the wave-particle aspect of nature (Image 4); and the Hong-Ou-Mandel interferencea nonclassical form of two-particle interference (Image 5). These laboratories serve as hands-on experiences to support teaching quantum mechanics in physics and engineering program     Last Modified: 11/29/2024       Submitted by: EnriqueJGalvez]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

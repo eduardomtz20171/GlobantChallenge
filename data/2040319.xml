@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Substorm Particle Injection into the Ring Current--MagnetoHydroDynamic (MHD) with Embedded Particle-In-Cell (PIC) Simulation Approach]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>417305.00</AwardTotalIntnAmount>
+<AwardAmount>417305</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chia-Lin Huang</SignBlockName>
+<PO_EMAI>chihuang@nsf.gov</PO_EMAI>
+<PO_PHON>7032927544</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Magnetic storms generate energetic particles and strong wave activity in the magnetosphere. Modeling this system is of critical importance both for its societal and scientific relevance. This work will use a combined fluid-particle modeling approach to understand the role of kinetic processes in the inner magnetosphere. A graduate student will be trained and a new more realistic model of the storm time inner magnetosphere magnetic field, including the ring current, will be made publicly available to the space weather community.&lt;br/&gt;&lt;br/&gt;The project will study the process of particle injection from the magnetotail by developing, validating, and using a self-consistent particle-in-cell (PIC) simulation embedded in a global magetohydrodynamic (MHD) simulation of the solar wind-magnetosphere-ionosphere system. By using the multi-scale particle-in-cell (MSPIC) approach featuring an implicit PIC system that encompasses a large fraction of the inner magnetosphere, they will investigate ring current injection and acceleration during magnetic storm related substorms. This will enable the study of wave-particle interactions missing from other large-scale ring current simulation models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/04/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040319</AwardID>
+<Investigator>
+<FirstName>Raymond</FirstName>
+<LastName>Walker</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Raymond J Walker</PI_FULL_NAME>
+<EmailAddress><![CDATA[rwalker@igpp.ucla.edu]]></EmailAddress>
+<NSF_ID>000460849</NSF_ID>
+<StartDate>11/05/2020</StartDate>
+<EndDate>07/15/2021</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Raymond</FirstName>
+<LastName>Walker</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Raymond J Walker</PI_FULL_NAME>
+<EmailAddress><![CDATA[rwalker@igpp.ucla.edu]]></EmailAddress>
+<NSF_ID>000460849</NSF_ID>
+<StartDate>07/15/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mostafa</FirstName>
+<LastName>El-Alaoui</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mostafa El-Alaoui</PI_FULL_NAME>
+<EmailAddress><![CDATA[mostafa@igpp.ucla.edu]]></EmailAddress>
+<NSF_ID>000487700</NSF_ID>
+<StartDate>11/05/2020</StartDate>
+<EndDate>07/15/2021</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244200</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>900951406</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>575000</Code>
+<Text>MAGNETOSPHERIC PHYSICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~417305</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>During intervals of increased solar activity, the magnetic field in Earth&rsquo;s stretched night-side tail undergoes intense reconfiguration that can energize particles. This process is called magnetic reconnection. During magnetospheric substorms, the plasma from magnetic reconnection in the magnetotail is thought to reach the inner magnetosphere and form a partial ring current. In this research, we simulated this process using a novel model (a fully kinetic 3D particle-in-cell (PIC) numerical code combined with a global magnetohydrodynamics (MHD) model that includes Earth&rsquo;s global magnetic field configuration. The PIC code self-consistently models particle physics for both electrons and ions. The PIC simulation extends from the solar wind outside the bow shock to beyond the reconnection region in the tail, while the MHD code extends much further. We first run the MHD code with typical solar wind parameters and a southward interplanetary magnetic field. When we load the PIC box with plasma based on the MHD parameters and follow the particles and fields by using the PIC code. We find that the particles are accelerated significantly near the sites of magnetic field reconfiguration with ions gaining 10s of keV energy. During the simulation particles from tail reconnection reached XGSM~8RE. &nbsp;As they propagate earthward, they end up contributing energetically to the formation of a ring current system partially encircling Earth.</p>  <p>Figure 1 follows the trajectory of a particle that starts in the dawn side magnetotail, moves across the tail and is accelerated at a secondary reconnection site at about XGSM=-20RE. &nbsp;The panel at the bottom of the figure shows the energy of the particle. It gains nearly 60 keV most of it near the secondary reconnection site. Particles like this one form&nbsp; channels as they move toward the inner magnetosphere. These are very like the bursty bulk flows observed by spacecraft. Four of these flow channels form during the simulation and two of them enter the inner magnetosphere. Figure 2 shows the power density (W/m<sup>3</sup>&nbsp;) along these flow channels. The total power comes mainly in the form of bulk (kinetic) energy not thermal energy. The power density for ions increases on the dawn side of the flow channel and decreases on the dusk side. This results from particle drift motions. The net power to the inner magnetosphere is ~2X10<sup>11 </sup>W and is consistent with observations. Recent work shows that in addition to the acceleration at the tail reconnection sites the particles are accelerated along the flow channels.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/30/2024<br> Modified by: Raymond&nbsp;J&nbsp;Walker</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2040319/2040319_10708654_1734571195817_Figure11--rgov-214x142.png" original="/por/images/Reports/POR/2024/2040319/2040319_10708654_1734571195817_Figure11--rgov-800width.png" title="Trajectory of Magnetotail Ion"><img src="/por/images/Reports/POR/2024/2040319/2040319_10708654_1734571195817_Figure11--rgov-66x44.png" alt="Trajectory of Magnetotail Ion"></a> <div class="imageCaptionContainer"> <div class="imageCaption">1 Three views of an ion trajectory that gains most of its energy by interaction with secondary reconnection where the dusk-side BBF starts. The bottom panel gives the energy of the ion as a function of time (black). The same panel shows Edotv in orange where E is the electric field and v is velocity</div> <div class="imageCredit">Rusiatis et al. (https://doi. org/10.1029/2024JA032821</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Raymond&nbsp;J&nbsp;Walker <div class="imageTitle">Trajectory of Magnetotail Ion</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2040319/2040319_10708654_1734572922239_Figure_2f--rgov-214x142.png" original="/por/images/Reports/POR/2024/2040319/2040319_10708654_1734572922239_Figure_2f--rgov-800width.png" title="Ion Power Density"><img src="/por/images/Reports/POR/2024/2040319/2040319_10708654_1734572922239_Figure_2f--rgov-66x44.png" alt="Ion Power Density"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2. The ion power density in the equatorial plan. The left panel gives the total power density, the middle panel the bulk power density and the right panel the thermal power density. J is the current density, E the electric field, Q the energy flux, u the velocity and P the pressure tensor.</div> <div class="imageCredit">R. Walker</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Raymond&nbsp;J&nbsp;Walker <div class="imageTitle">Ion Power Density</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  During intervals of increased solar activity, the magnetic field in Earths stretched night-side tail undergoes intense reconfiguration that can energize particles. This process is called magnetic reconnection. During magnetospheric substorms, the plasma from magnetic reconnection in the magnetotail is thought to reach the inner magnetosphere and form a partial ring current. In this research, we simulated this process using a novel model (a fully kinetic 3D particle-in-cell (PIC) numerical code combined with a global magnetohydrodynamics (MHD) model that includes Earths global magnetic field configuration. The PIC code self-consistently models particle physics for both electrons and ions. The PIC simulation extends from the solar wind outside the bow shock to beyond the reconnection region in the tail, while the MHD code extends much further. We first run the MHD code with typical solar wind parameters and a southward interplanetary magnetic field. When we load the PIC box with plasma based on the MHD parameters and follow the particles and fields by using the PIC code. We find that the particles are accelerated significantly near the sites of magnetic field reconfiguration with ions gaining 10s of keV energy. During the simulation particles from tail reconnection reached XGSM~8RE. As they propagate earthward, they end up contributing energetically to the formation of a ring current system partially encircling Earth.    Figure 1 follows the trajectory of a particle that starts in the dawn side magnetotail, moves across the tail and is accelerated at a secondary reconnection site at about XGSM=-20RE. The panel at the bottom of the figure shows the energy of the particle. It gains nearly 60 keV most of it near the secondary reconnection site. Particles like this one form channels as they move toward the inner magnetosphere. These are very like the bursty bulk flows observed by spacecraft. Four of these flow channels form during the simulation and two of them enter the inner magnetosphere. Figure 2 shows the power density (W/m3) along these flow channels. The total power comes mainly in the form of bulk (kinetic) energy not thermal energy. The power density for ions increases on the dawn side of the flow channel and decreases on the dusk side. This results from particle drift motions. The net power to the inner magnetosphere is ~2X1011 W and is consistent with observations. Recent work shows that in addition to the acceleration at the tail reconnection sites the particles are accelerated along the flow channels.         Last Modified: 12/30/2024       Submitted by: RaymondJWalker]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

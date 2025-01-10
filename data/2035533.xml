@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Fostering Collaborative Breakthroughs in Heritage Science through Machine Learning and Data Science]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>82510.00</AwardTotalIntnAmount>
+<AwardAmount>82510</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tatiana Korelsky</SignBlockName>
+<PO_EMAI>tkorelsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>A quarter century ago, NSF’s investment in the Digital Library Initiative stimulated the digitization of cultural collections, and the development of tools to analyze those collections in ways that were not possible before. This conference brings together experts in heritage and computer science to examine the state of the art in this effort and to identify specific needs and opportunities for novel research on collections of culturally significant artifacts using the whole range of tools and techniques from data science, artificial intelligence, machine learning and imaging. &lt;br/&gt;&lt;br/&gt;The conference is focused on the how AI systems can be designed and implemented to deal with critical problems for heritage collections such as dealing with damage, extracting useful data without causing additional damage, enabling data from disparate collections to be meaningfully compared and labeling data to support machine learning, and developing standards for representational frameworks to support scholarly advances.  The conference organizers will produce and disseminate a consensus report summarizing the pathways to new technical approaches and solutions to long-standing problems within entire classes of cultural heritage collections.  The dialog and synergistic activities of the meeting will expand the conventional thinking and the analysis framework around imaging, artificial intelligence, and data science, which will address fundamental challenges with the potential for rapid diffusion into cultural heritage.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/17/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035533</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Learner</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas J Learner</PI_FULL_NAME>
+<EmailAddress><![CDATA[tlearner@getty.edu]]></EmailAddress>
+<NSF_ID>000827095</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Seales</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>William B Seales</PI_FULL_NAME>
+<EmailAddress><![CDATA[seales@uky.edu]]></EmailAddress>
+<NSF_ID>000123418</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Kentucky Research Foundation]]></Name>
+<CityName>LEXINGTON</CityName>
+<ZipCode>405260001</ZipCode>
+<PhoneNumber>8592579420</PhoneNumber>
+<StreetAddress><![CDATA[500 S LIMESTONE]]></StreetAddress>
+<StreetAddress2><![CDATA[109 KINKEAD HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KY06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H1HYA8Z1NTM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Kentucky Research Foundation]]></Name>
+<CityName/>
+<StateCode>KY</StateCode>
+<ZipCode>405260001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KY06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>749500</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~82510</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-2fe13b90-7fff-c94c-1a12-e20cc836df1e"> </span></p> <p><span id="docs-internal-guid-542f283b-7fff-6d33-aa75-8acbbd446c49"> </span></p> <p dir="ltr"><span>&ldquo;Fostering Collaborative Breakthroughs In Heritage Science via Machine Learning and Data Science&rdquo;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>The convergence of several trends in Computer Science is making it possible to frame new challenges in natural and cultural heritage &ndash; and reframe old ones &ndash; through the emerging potent "lens" of artificial intelligence and machine learning. However, such scholarly discovery will not occur without the intention and cooperation on the part of the experts and associated funding agencies from all sides of the academy.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>To that end, this meeting assembled computer scientists and heritage scholars from universities, museums, libraries, industry, and funding agencies for a pair of two-day workshops sponsored by the National Science Foundation in the summers of 2022 and 2023. These workshops featured intense, focused dialog that explored ways to leverage artificial intelligence and data science to enhance research and conservation efforts in natural and cultural heritage. The goal was a cooperative refinement of ideas, practices, and technical approaches that would lead to more durable advancements in AI-enabled heritage science. This summary, backed by a more extensive report (to be disseminated through the websites of the Principal Investigators), notes the primary challenges and opportunities identified by the experts in attendance and offers recommendations for future advancement.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>This landscape of opportunity has become fertile with the recent maturation of Artificial Intelligence (AI). Previously unthinkable or unsolvable challenges in cultural heritage are now approachable with these new tools. In addition, complementary benefits accrue to the technological development community, as the heritage arena provides a unique and fruitful environment within which to develop increasingly sophisticated AI techniques that are sure to achieve wider application than in the heritage sector alone. For example, the most recent AI technologies were born out of the humanities domain yet have achieved widespread usage in a variety of fields. ChatGPT is a large language model (LLM) that achieves astonishing results because of its voracious ingestion of massive human corpora of digitized written words, while DALL-E and other image generator models like it mine the web&rsquo;s digital images to create a variety of visual options from textual descriptions, thus combining language and art in one high-powered tool. A productive symbiotic relationship between new technical approaches and the humanities has emerged as the words and images manifested by our common cultural heritage have driven research and discovery in AI and machine learning environments.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>The &ldquo;Fostering Collaborative Breakthroughs in Heritage Science via Machine Learning and Data Science&rdquo; (Fostering) workshops sought to encourage this symbiosis by interfacing scientists with humanists to promote durable advances in AI-enabled heritage science.&nbsp; Discussions among participants revealed that this burgeoning community and the work at the interface of AI and heritage science remains quite nascent. The more recent deployment of data science, artificial intelligence, imaging science, and visualization techniques remains largely unsystematic.&nbsp; Technology researchers seek to form compelling, important lines of inquiry around cultural collections, but they often lack a thorough knowledge of the objects, culture, and practices of the heritage community, which stymies their creativity. On the other hand, cultural heritage researchers intuitively and enthusiastically employ the complex tools available to them, but they often possess limited technical knowledge, a situation that can lead to misunderstandings and unproductive, stilted work.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Thematic takeaways from the many discussions centered on collaboration as key to advancement of the field.&nbsp; In addition, image-based collections and new digital models offer the greatest opportunity for immediate advances, and the acquisition, management, stewardship, and storage of that data is the behemoth that threatens progress.&nbsp; Other prominent takeaways:</span></p> <p>&nbsp;</p> <ul> <li dir="ltr"> <p dir="ltr"><span>Science (and AI) must be applied to cultural heritage. The continued threat of loss, destruction, and damage to heritage sites/objects begs for ever more advanced scientific approaches to preservation, safeguarding, and continued scholarly analysis.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Relative to European counterparts (with their own struggles), there is a dearth of available funding for heritage science in the United States.&nbsp; Funding should be increasing to foster and acknowledge the tremendous promise - in advancements and broader impacts - of scholarly work at the intersection of heritage science and AI.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>The heritage community, the scientific community, and especially computer science and artificial intelligence communities, are separated by a wide gulf of differing communities of practice. There needs to be a strong focus on bridging gaps and building new and creative mechanisms to inspire and foster collaborative progress.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Heritage science is a crucially important crosscutting area for immediate NSF involvement, investment, and demonstrated leadership, and should not be seen as &ldquo;not science&rdquo; because of a focus on heritage.&nbsp; The broader impacts for cultural and societal dialog and the potential for transformational work based on new methods in data science and artificial intelligence is enormous.</span></p> </li> </ul> <p>&nbsp;</p> <p dir="ltr">&nbsp;</p><br> <p>  Last Modified: 06/24/2024<br> Modified by: William&nbsp;B&nbsp;Seales</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[          Fostering Collaborative Breakthroughs In Heritage Science via Machine Learning and Data Science      The convergence of several trends in Computer Science is making it possible to frame new challenges in natural and cultural heritage  and reframe old ones  through the emerging potent "lens" of artificial intelligence and machine learning. However, such scholarly discovery will not occur without the intention and cooperation on the part of the experts and associated funding agencies from all sides of the academy.      To that end, this meeting assembled computer scientists and heritage scholars from universities, museums, libraries, industry, and funding agencies for a pair of two-day workshops sponsored by the National Science Foundation in the summers of 2022 and 2023. These workshops featured intense, focused dialog that explored ways to leverage artificial intelligence and data science to enhance research and conservation efforts in natural and cultural heritage. The goal was a cooperative refinement of ideas, practices, and technical approaches that would lead to more durable advancements in AI-enabled heritage science. This summary, backed by a more extensive report (to be disseminated through the websites of the Principal Investigators), notes the primary challenges and opportunities identified by the experts in attendance and offers recommendations for future advancement.      This landscape of opportunity has become fertile with the recent maturation of Artificial Intelligence (AI). Previously unthinkable or unsolvable challenges in cultural heritage are now approachable with these new tools. In addition, complementary benefits accrue to the technological development community, as the heritage arena provides a unique and fruitful environment within which to develop increasingly sophisticated AI techniques that are sure to achieve wider application than in the heritage sector alone. For example, the most recent AI technologies were born out of the humanities domain yet have achieved widespread usage in a variety of fields. ChatGPT is a large language model (LLM) that achieves astonishing results because of its voracious ingestion of massive human corpora of digitized written words, while DALL-E and other image generator models like it mine the webs digital images to create a variety of visual options from textual descriptions, thus combining language and art in one high-powered tool. A productive symbiotic relationship between new technical approaches and the humanities has emerged as the words and images manifested by our common cultural heritage have driven research and discovery in AI and machine learning environments.      The Fostering Collaborative Breakthroughs in Heritage Science via Machine Learning and Data Science (Fostering) workshops sought to encourage this symbiosis by interfacing scientists with humanists to promote durable advances in AI-enabled heritage science. Discussions among participants revealed that this burgeoning community and the work at the interface of AI and heritage science remains quite nascent. The more recent deployment of data science, artificial intelligence, imaging science, and visualization techniques remains largely unsystematic. Technology researchers seek to form compelling, important lines of inquiry around cultural collections, but they often lack a thorough knowledge of the objects, culture, and practices of the heritage community, which stymies their creativity. On the other hand, cultural heritage researchers intuitively and enthusiastically employ the complex tools available to them, but they often possess limited technical knowledge, a situation that can lead to misunderstandings and unproductive, stilted work.      Thematic takeaways from the many discussions centered on collaboration as key to advancement of the field. In addition, image-based collections and new digital models offer the greatest opportunity for immediate advances, and the acquisition, management, stewardship, and storage of that data is the behemoth that threatens progress. Other prominent takeaways:        Science (and AI) must be applied to cultural heritage. The continued threat of loss, destruction, and damage to heritage sites/objects begs for ever more advanced scientific approaches to preservation, safeguarding, and continued scholarly analysis.     Relative to European counterparts (with their own struggles), there is a dearth of available funding for heritage science in the United States. Funding should be increasing to foster and acknowledge the tremendous promise - in advancements and broader impacts - of scholarly work at the intersection of heritage science and AI.     The heritage community, the scientific community, and especially computer science and artificial intelligence communities, are separated by a wide gulf of differing communities of practice. There needs to be a strong focus on bridging gaps and building new and creative mechanisms to inspire and foster collaborative progress.     Heritage science is a crucially important crosscutting area for immediate NSF involvement, investment, and demonstrated leadership, and should not be seen as not science because of a focus on heritage. The broader impacts for cultural and societal dialog and the potential for transformational work based on new methods in data science and artificial intelligence is enormous.             Last Modified: 06/24/2024       Submitted by: WilliamBSeales]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

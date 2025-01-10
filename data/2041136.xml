@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Understanding and Mitigating Misinformation in Visualizations on Social Media]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In a time of crisis, such as during a hurricane or a global pandemic, social media is an important source of information for the general population. In these scenarios, data visualizations are often used to convey information that is critical for decision making by individuals. For example, a visualization of the path of a hurricane can inform the affected population about the need to prepare or evacuate; while a visualization about the prevalence of a disease in a certain area can inform personal choices, such as limiting interactions with others during a relevant time period. Visualizations, however, can be flawed, which can lead to misinterpretation of the data, and, in a crisis, lead to decisions with negative consequences. This project seeks to identify aspects of visualizations that makes them widely shared, identify flaws a visualization might have, and warn social media users about them. Ultimately, this project can lead to better responses to a crisis by the general population, and contribute to improving visualization literacy. Finally, this project will also enable the training of two graduate students, provide opportunities for undergraduate research, and curate material that can be leveraged by educators teaching about visualization design.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;These goals will be achieved by applying existing and novel methods, such as topic modeling and calculating measures of social attention, to three large dataset of social media posts related to recent crisis. Using a qualitative coding approach, a taxonomy of design problems will be developed. This taxonomy will be used to label a large dataset. Finally, a prototype intervention in the form of a plug-in that warns of problematic visualizations, but also enables users to classify problems with visualizations they encounter, will be developed. The dataset and the annotations compiled in the course of this project will be shared publicly. The software created will be released under a permissive, non-viral open source license.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041136</AwardID>
+<Investigator>
+<FirstName>Marina</FirstName>
+<LastName>Kogan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marina Kogan</PI_FULL_NAME>
+<EmailAddress><![CDATA[kogan@cs.utah.edu]]></EmailAddress>
+<NSF_ID>000784315</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Lex</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander Lex</PI_FULL_NAME>
+<EmailAddress><![CDATA[alex@sci.utah.edu]]></EmailAddress>
+<NSF_ID>000720214</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>Salt Lake City</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841129056</ZipCode>
+<StreetAddress><![CDATA[201 S 1460 E RM 250N Salt Lake City, UT]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736400</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-bdb98ec5-7fff-b25d-f83f-bd39101452b9"> <p dir="ltr"><span>Data visualizations are a major component of dis- and misinformation in online discourse.&nbsp;</span></p> <p dir="ltr"><span>Critiques of deceptive charts typically center on visual tricks: not-so-great design elements or choices, such as unnecessarily truncated axes, excessive embellishments, or 3-dimensional elements. But if misleading charts are so widely discussed and their flaws are pointed out by the masses, are they still misleading? And how common are misleading charts in practice? And what can we do about it? In this project, we investigate these questions and develop solutions.&nbsp;</span></p> <br /> <p dir="ltr"><span>How Common Are Misleading Visualizations and Visual Tricks?</span></p> <p dir="ltr"><span>Based on analyzing 10,000 Twitter posts with data visualizations about COVID-19, we evaluate whether a visualization is deceptive or not. We define misleading posts as ones that contain reasoning errors: unsupported assertions or logical fallacies as basis of the argument. Of all posts that offer an interpretation of COVID-19 visualizations (as opposed to those that just state facts), we find that 84% are misleading.</span></p> <br /> <p dir="ltr"><span>Importantly though, only 11% of such misleading visualization posts violate common visualization design guidelines&mdash;use truncated or dual axes, pie charts, and other commonly-cited &ldquo;chart crimes&rdquo;. And less than 1% of charts were incorrectly interpreted by the tweet author because of visual tricks.&nbsp;</span></p> <br /> <p dir="ltr"><span>What Makes a Visualization Misleading?</span></p> <p dir="ltr"><span>We define 6 common types of reasoning errors among COVID-19 posts: cherry-picking, setting an arbitrary threshold, incorrectly inferring causality, issues caused by data validity, failing to account for statistical nuance, and misrepresenting scientific results.&nbsp;</span></p> <br /> <p dir="ltr"><span>Do Misleading Visualizations Drive Engagement?</span></p> <p dir="ltr"><span>We found that misleading charts get more engagement than accurate charts, but that audiences point out nuanced issues with the charts. Based on these findings, we argue that traditional fact-checking is not the right solution to combat data-driven misinformation, because data is always an imperfect and ambiguous representation of the world, and that we should instead identify and highlight caveats and limitations of data-driven reasoning.&nbsp;</span></p> <br /> <p dir="ltr"><span>What Can We Do About Misleading Visualizations?</span></p> <p dir="ltr"><span>We designed interventions that can make abusing reputable data exploration platforms more difficult. We introduced a theoretical threat model for vulnerable visualizations that others can use to guide them in designing resilient charts.&nbsp; We also specifically looked at cherry-picking of time series data (stocks, COVID-19 data), and identified a design space for interventions (&ldquo;guardrails&rdquo;) by either juxtaposing or superimposing contextual data. We evaluated our interventions in a series of crowdsourced studies to test whether the guardrails make it more difficult to create cherry-picked charts, and whether the guardrails lead to a more skeptical reading of the chart. We found that some of the guardrails are indeed successful and are a viable option for integration in such platforms.&nbsp;</span></p> </span></p> <p>&nbsp;</p><br> <p>  Last Modified: 11/02/2024<br> Modified by: Alexander&nbsp;Lex</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     Data visualizations are a major component of dis- and misinformation in online discourse.   Critiques of deceptive charts typically center on visual tricks: not-so-great design elements or choices, such as unnecessarily truncated axes, excessive embellishments, or 3-dimensional elements. But if misleading charts are so widely discussed and their flaws are pointed out by the masses, are they still misleading? And how common are misleading charts in practice? And what can we do about it? In this project, we investigate these questions and develop solutions.     How Common Are Misleading Visualizations and Visual Tricks?   Based on analyzing 10,000 Twitter posts with data visualizations about COVID-19, we evaluate whether a visualization is deceptive or not. We define misleading posts as ones that contain reasoning errors: unsupported assertions or logical fallacies as basis of the argument. Of all posts that offer an interpretation of COVID-19 visualizations (as opposed to those that just state facts), we find that 84% are misleading.     Importantly though, only 11% of such misleading visualization posts violate common visualization design guidelinesuse truncated or dual axes, pie charts, and other commonly-cited chart crimes. And less than 1% of charts were incorrectly interpreted by the tweet author because of visual tricks.     What Makes a Visualization Misleading?   We define 6 common types of reasoning errors among COVID-19 posts: cherry-picking, setting an arbitrary threshold, incorrectly inferring causality, issues caused by data validity, failing to account for statistical nuance, and misrepresenting scientific results.     Do Misleading Visualizations Drive Engagement?   We found that misleading charts get more engagement than accurate charts, but that audiences point out nuanced issues with the charts. Based on these findings, we argue that traditional fact-checking is not the right solution to combat data-driven misinformation, because data is always an imperfect and ambiguous representation of the world, and that we should instead identify and highlight caveats and limitations of data-driven reasoning.     What Can We Do About Misleading Visualizations?   We designed interventions that can make abusing reputable data exploration platforms more difficult. We introduced a theoretical threat model for vulnerable visualizations that others can use to guide them in designing resilient charts. We also specifically looked at cherry-picking of time series data (stocks, COVID-19 data), and identified a design space for interventions (guardrails) by either juxtaposing or superimposing contextual data. We evaluated our interventions in a series of crowdsourced studies to test whether the guardrails make it more difficult to create cherry-picked charts, and whether the guardrails lead to a more skeptical reading of the chart. We found that some of the guardrails are indeed successful and are a viable option for integration in such platforms.         Last Modified: 11/02/2024       Submitted by: AlexanderLex]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

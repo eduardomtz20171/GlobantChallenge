@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI-TT: Development of Miniature Induction Heaters for Cancer Treatment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>249516.00</AwardTotalIntnAmount>
+<AwardAmount>345056</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Partnerships for Innovation - Technology Translation (PFI-TT) project is the development of novel, miniature, induction-heating devices for medical applications.  More specifically, the broader impact of the project lies in the availability of smaller, more focused magnetic field applicators that can be used in patients with metallic implants (i.e., hip replacement implants, stents, etc.) that would otherwise be ineligible to receive magnetic nanoparticle-based cancer therapies.  Magnetic nanoparticle-based cancer treatments require the development of new medical procedures requiring in situ, non-contact heating of electrically conductive materials in hard to reach places within the human body.  The project will also provide education and leadership development in innovation and entrepreneurship to the faculty, postdoctoral scholar, and students involved in the proposed activities.&lt;br/&gt;&lt;br/&gt;The proposed project envisions the design, development, characterization, and testing of a series of miniature,  induction-heating devices for medical applications.  Such devices may be used in magnetic fluid hyperthermia (MFH) prostate cancer treatment. The value proposition of the technology lies in offering patients with metallic implants near the pelvis the possibility of undergoing MFH prostate cancer therapy. The intellectual merit of the proposed research encompasses the development of magnetic field generators that do not currently exist and that may allow a more localized MFH prostate cancer therapy due to the ability to heat electrically conductive materials in hard-to-reach places within the human body.  The team will determine the capabilities of the proposed technology in heating magnetic nanoparticles to kill cancer cells in vitro and determine the devices' capabilities in heating magnetic nanoparticles to ablate porcine tissues and estimate the severity and extent of tissue damage under different operating conditions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/30/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016495</AwardID>
+<Investigator>
+<FirstName>Eduardo</FirstName>
+<LastName>Juan</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eduardo J Juan</PI_FULL_NAME>
+<EmailAddress><![CDATA[ejuan@ece.uprm.edu]]></EmailAddress>
+<NSF_ID>000479819</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Madeline</FirstName>
+<LastName>Torres-Lugo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Madeline Torres-Lugo</PI_FULL_NAME>
+<EmailAddress><![CDATA[madeline@ece.uprm.edu]]></EmailAddress>
+<NSF_ID>000484938</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Puerto Rico Mayaguez]]></Name>
+<CityName>MAYAGUEZ</CityName>
+<ZipCode>006806475</ZipCode>
+<PhoneNumber>7878312065</PhoneNumber>
+<StreetAddress><![CDATA[259 BLVD ALFONSO VALDES]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<StateCode>PR</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PR00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GZRNJ1GZDBM1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PUERTO RICO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>RD8QJEHNYLJ7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Puerto Rico Mayaguez]]></Name>
+<CityName>Mayaguez</CityName>
+<StateCode>PR</StateCode>
+<ZipCode>006809000</ZipCode>
+<StreetAddress><![CDATA[Call Box 9000, Road 108 km. 1.0]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PR00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>166200</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~249516</FUND_OBLG>
+<FUND_OBLG>2021~16000</FUND_OBLG>
+<FUND_OBLG>2022~63540</FUND_OBLG>
+<FUND_OBLG>2024~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Significance and Motivation<br /><br />Prostate cancer remains the most prevalent cancer type among men in the US, as well as the 2nd deadliest, with over 183,000 new cases and more than 28,000 deaths annually.&nbsp; The current standard of care for prostate cancer consists of one or more of the following: a) surgery (prostatectomy), b) radiotherapy, c) hormone therapy and d) chemotherapy.&nbsp; Although effective in many cases, these therapies have undesired side effects such as urinary problems, impotence and weakened bones.&nbsp; Some therapies that are now under development or have just recently been approved by the FDA include cryosurgery, high-intensity focused ultrasound (HIFU), proton beam radiation therapy and photodynamic therapy. A new cancer therapy currently under investigation is magnetic fluid hyperthermia (MFH), a technique that consists of applying a high intensity, high frequency magnetic field to magnetic nanoparticles (MNPs) that dissipate heat when exposed to such magnetic fields.&nbsp; There is a vast number of published manuscripts related to MFH that focus on areas such as MNP synthesis and characterization, mechanisms of action, targeting approaches and in vitro and in vivo experiments.&nbsp; Two companies currently comercialize MFH related products, including magnetic particles, magnetic field generators and treatment planning software.&nbsp; Current magnetic field applicators are large machines capable of appying a high intensity magnetic field to large regions of the body. Since the areas of the body that are treated with these devices is relatively large, their use will not be suitable for patients having metallic implants near the treatment region. &nbsp;<br /><br />Thus, there will be a societal and clinical need for a smaller, more focused magnetic field applicator that can be used in patients having metallic implants (ie. hip replacement implants, stents, etc.) that would otherwise be ineligible to receive the MFH therapy.&nbsp; Thus, to address the aforementioned clinical need, this project entailed the design, development, characterization and testing of a series of miniature induction-heating devices for MFH prostate cancer treatment.&nbsp; The value proposition of our technology lies in offering patients with metallic implants near the pelvis the possibility of undergoing MFH prostate cancer therapy. &nbsp;<br /><br />Research Outcomes<br /><br />The team was able to design and implement embodiments suitable for MFH prostate cancer treatment.&nbsp; The current version of the instrument can generate a magnetic field with a maximum intensity of 27kA/m at the surface of the coil, with the intensity decreasing to 4 kA/m at a distance of 1.2 cm from the coil&rsquo;s surface.&nbsp; The operating frequency is 290 kHz, but can be adjusted to any value in the desired 100-300 kHz range.<br /><br />Two prostate cancer cell lines (PC-3 and LNCap) were used to test the device&rsquo;s capabilities in killing cancer cells. Cells were exposed to Synomag-D nanoparticles from MicroMod using a concentration of 0.72 mgFe/mL. Nanoparticles were then excited with the transrectal and laparoscopic induction heaters. Experimental samples were exposed to an alternating magnetic field of approximately 26.3 kA/m at 303 kHz for a maximum of 40 minutes.&nbsp; Cell viability ratios of 55.2% and 44.5% were obtained for PC-3 and LNCaP cell lines, respectively. Therefore, we were successful in demonstrating that our device can kill prostate cancer cells in vitro.</p><br> <p>  Last Modified: 09/03/2024<br> Modified by: Eduardo&nbsp;J&nbsp;Juan</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Significance and Motivation  Prostate cancer remains the most prevalent cancer type among men in the US, as well as the 2nd deadliest, with over 183,000 new cases and more than 28,000 deaths annually. The current standard of care for prostate cancer consists of one or more of the following: a) surgery (prostatectomy), b) radiotherapy, c) hormone therapy and d) chemotherapy. Although effective in many cases, these therapies have undesired side effects such as urinary problems, impotence and weakened bones. Some therapies that are now under development or have just recently been approved by the FDA include cryosurgery, high-intensity focused ultrasound (HIFU), proton beam radiation therapy and photodynamic therapy. A new cancer therapy currently under investigation is magnetic fluid hyperthermia (MFH), a technique that consists of applying a high intensity, high frequency magnetic field to magnetic nanoparticles (MNPs) that dissipate heat when exposed to such magnetic fields. There is a vast number of published manuscripts related to MFH that focus on areas such as MNP synthesis and characterization, mechanisms of action, targeting approaches and in vitro and in vivo experiments. Two companies currently comercialize MFH related products, including magnetic particles, magnetic field generators and treatment planning software. Current magnetic field applicators are large machines capable of appying a high intensity magnetic field to large regions of the body. Since the areas of the body that are treated with these devices is relatively large, their use will not be suitable for patients having metallic implants near the treatment region.   Thus, there will be a societal and clinical need for a smaller, more focused magnetic field applicator that can be used in patients having metallic implants (ie. hip replacement implants, stents, etc.) that would otherwise be ineligible to receive the MFH therapy. Thus, to address the aforementioned clinical need, this project entailed the design, development, characterization and testing of a series of miniature induction-heating devices for MFH prostate cancer treatment. The value proposition of our technology lies in offering patients with metallic implants near the pelvis the possibility of undergoing MFH prostate cancer therapy.   Research Outcomes  The team was able to design and implement embodiments suitable for MFH prostate cancer treatment. The current version of the instrument can generate a magnetic field with a maximum intensity of 27kA/m at the surface of the coil, with the intensity decreasing to 4 kA/m at a distance of 1.2 cm from the coils surface. The operating frequency is 290 kHz, but can be adjusted to any value in the desired 100-300 kHz range.  Two prostate cancer cell lines (PC-3 and LNCap) were used to test the devices capabilities in killing cancer cells. Cells were exposed to Synomag-D nanoparticles from MicroMod using a concentration of 0.72 mgFe/mL. Nanoparticles were then excited with the transrectal and laparoscopic induction heaters. Experimental samples were exposed to an alternating magnetic field of approximately 26.3 kA/m at 303 kHz for a maximum of 40 minutes. Cell viability ratios of 55.2% and 44.5% were obtained for PC-3 and LNCaP cell lines, respectively. Therefore, we were successful in demonstrating that our device can kill prostate cancer cells in vitro.     Last Modified: 09/03/2024       Submitted by: EduardoJJuan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

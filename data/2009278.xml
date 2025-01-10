@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Addressing the Burning Questions in the Baryon Cycle at z~2]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>381039.00</AwardTotalIntnAmount>
+<AwardAmount>381039</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>ANDREAS BERLIND</SignBlockName>
+<PO_EMAI>aberlind@nsf.gov</PO_EMAI>
+<PO_PHON>7032925387</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Astronomers want to understand how galaxies grow. In particular they want to know why the rate of star formation was highest when the Universe was young. Shapley, Reddy, and Steidel will analyze observations of thousands of distant galaxies obtained with the Keck Telescopes. They will investigate how material flowing into and out of a galaxy can affect the rate of star formation and other key galaxy properties. In partnership with the WorldWide Telescope Ambassadors Program the PIs will develop interactive tours across the night sky. One tour will demonstrate how telescopes act as time machines. Local high school students and their teachers will be invited to participate in a Summer Research Connection program at Caltech. The PI and her team will train the students to be future scientists.&lt;br/&gt;&lt;br/&gt;Shapley, Reddy, and Steidel have identified a representative sample of galaxies at the epoch of peak star formation in the universe (z~1.5-3.5) in the Keck Baryonic Structure Survey (KBSS) and the MOSFIRE Deep Evolution Field (MOSDEF) Survey. A subset of ~20% also have deep Keck/LRIS rest-UV spectra, and ~100 galaxies have integral- field unit maps from the Keck KCWI instrument. The co-PIs will establish robust metallicity measurements of gas and stars within galaxies at this epoch; they will determine the kinematics and geometry of gas outflow and inflow based on "down the barrel" galaxy spectroscopy; they will map the gas distribution and kinematics in the more extended circumgalactic medium (CGM), connecting the CGM-scale properties with those on the galaxy scale. Collectively, these results will test and inform forefront models of baryonic cycling in galaxy evolution. A legacy dataset consisting of the reduced Keck MOSFIRE, LRIS, and KCWI spectroscopic data will be available in a public archive.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009278</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Steidel</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Charles C Steidel</PI_FULL_NAME>
+<EmailAddress><![CDATA[ccs@astro.caltech.edu]]></EmailAddress>
+<NSF_ID>000212339</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250001</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress><![CDATA[1200 E CALIFORNIA BLVD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>Pasadena</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911250006</ZipCode>
+<StreetAddress><![CDATA[1200 E. Calfiornia Blvd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121700</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~381039</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Some 10-12 billion years ago, galaxies in the Universe were undergoing a period of very rapid growth as gravity brought plentiful supplies of fresh gas from the intergalactic medium, out of which generations of new stars were formed.&nbsp; Meanwhile, the most massive new stars burned through their short lifetimes and exploded as supernovae, injecting newly-formed elements into the interstellar gas, out of which the next generation of stars would form. The energy produced by the rapid succession of supernova explosions acted as a kind of ``thermostat'', in that it suppresses the formation of new stars by either heating the interstellar gas or blowing it out of the galaxy altogether.&nbsp; The battle between this type of ``feedback'' and the rapid accretion of new gas is waged in the so-called circum-galactic medium -- beyond the central regions of galaxies that are illuminated by starlight and thus very hard to detect even with large telescopes. The project has been geared toward revealing in detail the physical conditions in the CGM battleground -- e.g., the speed and direction of gas moving through it, the total mass involved, the chemical content, temperature, and density of the gas, and how these properties relate to what is observed in the visible portions of the same galaxies.&nbsp;</p> <p><br />Our study takes advantage of 3D maps of galaxy locations as they appeared 11 billion years ago, some of which we had compiled based on years of surveying. These maps were used to select optimal&nbsp;locations to point the Keck telescopes on Maunakea, Hawaii equipped with a new instrument capable of measuring the spectrum at every point in the field of view simultaneously. Ordinarily, spectroscopic observations of distant galaxies would focus on the locations of starlight that had already been detected in deep images of the sky; the new instrument allows measurement of extremely faint signals beyond the ordinary star-lit regions without needing to know in advance where to expect them. In other words, the resulting maps include the known galaxy's starlight but also the region extending to more than 300,000 light years beyond the starlight, into the CGM.&nbsp;</p> <p><br />The most significant detections of emission from the CGM of the distant galaxies is from the Lyman-alpha line of hydrogen. The emission of Lyman-alpha light originates in the luminous portions of the galaxies, the result of young stars ionizing hydrogen atoms, which then recombine with electrons a short time later, with roughly one Lyman-alpha photon emitted for every atom ionized by stars. Some of the Lyman alpha photons escape in our direction soon after their initial production, but most of them are trapped in a labyrinth of neutral hydrogen atoms that absorb and then re-emit them. This process of absorption and then re-emission is called resonant scattering, which has the effect of producing, for any observer, a diffuse ``halo'' of Lyman-alpha emission whose shape and extent depend on the distribution and velocities of neutral hydrogen atoms in the circum-galactic gas. Thus, precise measurements of the Lyman-alpha halo can be used to map otherwise invisible gas layers that extend far beyond the luminous galaxy, somewhat akin to revealing the shape and size of an entire iceberg and not just the small region above the water line. We used the shapes and sizes of Lyman-alpha halos surrounding more than 100 rapidly forming galaxies, together with sophisticated computer models capable of reproducing the observations, to successfully describe the structure and net motions (velocity and direction) of previously invisible gas.&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 06/03/2024<br> Modified by: Charles&nbsp;C&nbsp;Steidel</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2009278/2009278_10681542_1717433761446_BX587_demo--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2009278/2009278_10681542_1717433761446_BX587_demo--rgov-800width.jpg" title="Lyman alpha halos"><img src="/por/images/Reports/POR/2024/2009278/2009278_10681542_1717433761446_BX587_demo--rgov-66x44.jpg" alt="Lyman alpha halos"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Two example galaxies: the left panel shows the galaxies' starlight images (central object in the two lefhand panels); the righthand panels show the same galaxies in the light of the Lyman alpha emission line, revealing much larger spatial extent.</div> <div class="imageCredit">Charles C Steidel</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Charles&nbsp;C&nbsp;Steidel <div class="imageTitle">Lyman alpha halos</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Some 10-12 billion years ago, galaxies in the Universe were undergoing a period of very rapid growth as gravity brought plentiful supplies of fresh gas from the intergalactic medium, out of which generations of new stars were formed. Meanwhile, the most massive new stars burned through their short lifetimes and exploded as supernovae, injecting newly-formed elements into the interstellar gas, out of which the next generation of stars would form. The energy produced by the rapid succession of supernova explosions acted as a kind of ``thermostat'', in that it suppresses the formation of new stars by either heating the interstellar gas or blowing it out of the galaxy altogether. The battle between this type of ``feedback'' and the rapid accretion of new gas is waged in the so-called circum-galactic medium -- beyond the central regions of galaxies that are illuminated by starlight and thus very hard to detect even with large telescopes. The project has been geared toward revealing in detail the physical conditions in the CGM battleground -- e.g., the speed and direction of gas moving through it, the total mass involved, the chemical content, temperature, and density of the gas, and how these properties relate to what is observed in the visible portions of the same galaxies.    Our study takes advantage of 3D maps of galaxy locations as they appeared 11 billion years ago, some of which we had compiled based on years of surveying. These maps were used to select optimallocations to point the Keck telescopes on Maunakea, Hawaii equipped with a new instrument capable of measuring the spectrum at every point in the field of view simultaneously. Ordinarily, spectroscopic observations of distant galaxies would focus on the locations of starlight that had already been detected in deep images of the sky; the new instrument allows measurement of extremely faint signals beyond the ordinary star-lit regions without needing to know in advance where to expect them. In other words, the resulting maps include the known galaxy's starlight but also the region extending to more than 300,000 light years beyond the starlight, into the CGM.    The most significant detections of emission from the CGM of the distant galaxies is from the Lyman-alpha line of hydrogen. The emission of Lyman-alpha light originates in the luminous portions of the galaxies, the result of young stars ionizing hydrogen atoms, which then recombine with electrons a short time later, with roughly one Lyman-alpha photon emitted for every atom ionized by stars. Some of the Lyman alpha photons escape in our direction soon after their initial production, but most of them are trapped in a labyrinth of neutral hydrogen atoms that absorb and then re-emit them. This process of absorption and then re-emission is called resonant scattering, which has the effect of producing, for any observer, a diffuse ``halo'' of Lyman-alpha emission whose shape and extent depend on the distribution and velocities of neutral hydrogen atoms in the circum-galactic gas. Thus, precise measurements of the Lyman-alpha halo can be used to map otherwise invisible gas layers that extend far beyond the luminous galaxy, somewhat akin to revealing the shape and size of an entire iceberg and not just the small region above the water line. We used the shapes and sizes of Lyman-alpha halos surrounding more than 100 rapidly forming galaxies, together with sophisticated computer models capable of reproducing the observations, to successfully describe the structure and net motions (velocity and direction) of previously invisible gas.            Last Modified: 06/03/2024       Submitted by: CharlesCSteidel]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

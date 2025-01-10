@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI-TT: Enabling More Scans per Machine through in Magnetic Resonance Imaging Data Processing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>249585.00</AwardTotalIntnAmount>
+<AwardAmount>296558</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+<PO_EMAI>jsoriano@nsf.gov</PO_EMAI>
+<PO_PHON>7032927795</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Partnerships for Innovation - Technology Translation (PFI-TT) project is to reduce Magnetic Resonance Imaging (MRI) scan-times and improve patient throughput.  This techology will be beneficial for patients as well as healthcare providers. Shorter scan-times will improve patient comfort, especially for patients that are young, elderly, and/or claustrophobic. Improved throughput will increase accessibility, allow patients to receive MRI scans in a timely manner with less wait-time, and contribute to better healthcare outcomes. For healthcare providers and imaging facilities, shorter scans and better throughput will increase operational efficiency, revenue potential, and patient satisfaction. The technology can be leveraged to help accommodate rising healthcare demand from an aging population. The graduate student selected for technology development will obtain research experience and educational training to pursue entrepreneurship following the completion of the project. A team of 10 undergraduate students from underrepresented groups will also participate in the applied research and software development. &lt;br/&gt;&lt;br/&gt;The proposed project will provide a novel signal processing approach that inputs the poor quality (noisy) images obtained at short scan-times and outputs a noise-free image, similar to what would have been obtained after a long data acquisition time. In MRI, image quality is usually inversely proportional to scan-time. Longer scan-time yields better image quality and vice versa. The algorithm isolates noise from raw MRI data by distinguishing between their distinct characteristics: noise is random while raw MRI data contains patterns/features. There are two novel features of the approach: 1) ability to identify and separate noise; and 2) the application in denoising raw MRI data. Compared to conventional signal processing methods such as filtering methods, the team's proprietary wavelet-shrinkage-based denoising method can process low signal-to-noise ratio signals without the limitations of inadequate noise removal or signal distortion.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/21/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2044599</AwardID>
+<Investigator>
+<FirstName>Madhur</FirstName>
+<LastName>Srivastava</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Madhur Srivastava</PI_FULL_NAME>
+<EmailAddress><![CDATA[ms2736@cornell.edu]]></EmailAddress>
+<NSF_ID>000802172</NSF_ID>
+<StartDate>04/21/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress><![CDATA[341 PINE TREE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>Ithaca</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148502820</ZipCode>
+<StreetAddress><![CDATA[373 Pine Tree Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>150400</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>166200</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~249585</FUND_OBLG>
+<FUND_OBLG>2022~46973</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>We have developed a <strong>novel patented wavelet-based signal processing algorithm</strong> capable of denoising signals with extremely low signal-to-noise ratios.&nbsp; We explored a number of potential applications for this technology and one <strong>high-impact application</strong> that emerged from this exploration was <strong>MRI</strong>.&nbsp; The idea is that if raw MRI signals can be denoised in real-time prior to image generation, high quality images can potentially be obtained at drastically <strong>shorter scan-times</strong>, thereby <strong>improving patient comfort</strong> and <strong>increasing imaging throughput</strong>. To date, we have demonstrated proof-of-concept of our technology by&nbsp;developing a <strong>two-dimensional algorithm</strong> capable of denoising raw MRI data in real-time, which demonstrated that application of our denoising algorithm can yield equivalent data quality at up to 80% shorter data acquisition times. Successful development of a real-time denoising algorithm will allow our team to form a startup company and seek partnership with <strong>MRI equipment manufacturers</strong> for clinical validation and <strong>commercial rollout of our technology</strong>.</p> <p>During the process, we spoke to MRI technologists, radiologists, and radiology administrators around the country and have discovered patient throughput to be a major pain-point. <strong>Demand for MRI scans</strong> almost always exceeds unit availability, which results in patient backlogs ranging from days to weeks.&nbsp; In analyzing patient flow, we identified the <strong>per-patient scan-time as a fundamental bottleneck</strong> that limits daily patient throughput. This bottleneck is difficult to address without purchasing an additional MRI unit, which would cause the imaging facility to incur expenses in the multi-million-dollar range.&nbsp;</p> <p>As a software-based approach, our denoising algorithm can potentially be integrated with existing instrumentation without any hardware modifications.&nbsp; This represents a unique opportunity to <strong>increase MRI throughput</strong> with minimal disruptions to existing infrastructure. While conventional signal processing methods are often limited by inadequate noise removal or signal distortion, our proprietary method does not suffer from such drawbacks.&nbsp; Since our technology is focused on the novel application of denoising raw data before construction of the MRI image, it exists in <strong>a unique position</strong> within the image generation process and is <strong>complementary with other solutions</strong> that are in development (such as artificial intelligence/deep learning) for reducing scan-time.</p> <p>We have initiated <strong>partnerships</strong> with the Cornell Center for Advanced Computing, Department of Radiology at Weill Cornell Medicine, and Cornell&rsquo;s MRI Research Facility.&nbsp; The <strong>graduate student</strong> involved in the project had numerous opportunities to <strong>interact and seek feedback from our partners and industry mentors</strong> during technology development. The student deepened his understanding of the commercialization process through <strong>a mixture of</strong> <strong>relevant coursework and campus activities</strong>.</p><br> <p>  Last Modified: 07/01/2024<br> Modified by: Madhur&nbsp;Srivastava</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  We have developed a novel patented wavelet-based signal processing algorithm capable of denoising signals with extremely low signal-to-noise ratios. We explored a number of potential applications for this technology and one high-impact application that emerged from this exploration was MRI. The idea is that if raw MRI signals can be denoised in real-time prior to image generation, high quality images can potentially be obtained at drastically shorter scan-times, thereby improving patient comfort and increasing imaging throughput. To date, we have demonstrated proof-of-concept of our technology bydeveloping a two-dimensional algorithm capable of denoising raw MRI data in real-time, which demonstrated that application of our denoising algorithm can yield equivalent data quality at up to 80% shorter data acquisition times. Successful development of a real-time denoising algorithm will allow our team to form a startup company and seek partnership with MRI equipment manufacturers for clinical validation and commercial rollout of our technology.   During the process, we spoke to MRI technologists, radiologists, and radiology administrators around the country and have discovered patient throughput to be a major pain-point. Demand for MRI scans almost always exceeds unit availability, which results in patient backlogs ranging from days to weeks. In analyzing patient flow, we identified the per-patient scan-time as a fundamental bottleneck that limits daily patient throughput. This bottleneck is difficult to address without purchasing an additional MRI unit, which would cause the imaging facility to incur expenses in the multi-million-dollar range.   As a software-based approach, our denoising algorithm can potentially be integrated with existing instrumentation without any hardware modifications. This represents a unique opportunity to increase MRI throughput with minimal disruptions to existing infrastructure. While conventional signal processing methods are often limited by inadequate noise removal or signal distortion, our proprietary method does not suffer from such drawbacks. Since our technology is focused on the novel application of denoising raw data before construction of the MRI image, it exists in a unique position within the image generation process and is complementary with other solutions that are in development (such as artificial intelligence/deep learning) for reducing scan-time.   We have initiated partnerships with the Cornell Center for Advanced Computing, Department of Radiology at Weill Cornell Medicine, and Cornells MRI Research Facility. The graduate student involved in the project had numerous opportunities to interact and seek feedback from our partners and industry mentors during technology development. The student deepened his understanding of the commercialization process through a mixture of relevant coursework and campus activities.     Last Modified: 07/01/2024       Submitted by: MadhurSrivastava]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

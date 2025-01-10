@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Geometry and topology of 4-manifolds]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>284129.00</AwardTotalIntnAmount>
+<AwardAmount>284129</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+<PO_EMAI>snaik@nsf.gov</PO_EMAI>
+<PO_PHON>7032924876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The overarching goal of this project  is to develop a deeper understanding of the structure of four dimensional manifolds, which are geometric objects locally modeled on the four-dimensional space-time we live in. Smooth, symplectic and complex structures on these objects are broadly featured in theoretical physics: for example, in classical mechanics, particle physics, string theory, and quantum field theory. This project combines modern mathematical tools to explore similarities and differences of four dimensional manifolds equipped with such structures. The research program will invoke various new ideas and techniques that create leverage to address a number of important problems through a study of algebraic relations between curves on surfaces, which is fairly accessible to graduate and advanced undergraduate students. The broader impacts of this endeavor are through mentoring and outreach. &lt;br/&gt;&lt;br/&gt;This is a research project in low dimensional geometry and topology, aiming to provide new insight to a variety of profound questions on smooth and symplectic four-manifolds, contact three-manifolds and their fillings. A central goal of the project is to explore the existence of exotic smooth and symplectic structures in dimension four, with an eye towards deriving sensible classification schemes. Some of the projects are contriving novel constructions of exotic rational and ruled surfaces, fake symplectic projective planes, ball quotients and Calabi-Yau surfaces, an in-depth study of the geography of surface bundles over surfaces, and investigations of various stable classification schemes in dimension four. The research program will draw from the fields of topology, geometry, analysis and algebra, where gauge theory, new mapping class group techniques and symplectic surgeries recently discovered by the PI and his collaborators will play vital roles.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005327</AwardID>
+<Investigator>
+<FirstName>R. Inanc</FirstName>
+<LastName>Baykur</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>R. Inanc Baykur</PI_FULL_NAME>
+<EmailAddress><![CDATA[baykur@math.umass.edu]]></EmailAddress>
+<NSF_ID>000655893</NSF_ID>
+<StartDate>04/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>AMHERST</CityName>
+<ZipCode>010039252</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress><![CDATA[101 COMMONWEALTH AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName/>
+<StateCode>MA</StateCode>
+<ZipCode>010039305</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126700</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~284129</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div dir="ltr">  <p>The PI carried out various research projects related to the proposal, several of which were in collaboration with mathematicians in the US and abroad. The results appeared in 14 research articles written and/or published during this period and were disseminated in nearly 40 invited seminar, conference, and colloquium talks at close to 30 different institutions. The PI mentored several graduate and undergraduate students and postdocs who carried out related research projects. The PI co-organized two week-long conferences and has been a co-organizer of a weekly research seminar and reading seminar.</p>  <p>The PI's research focuses on a variety of profound questions involving the geometry and topology of 4-manifolds. Some of the projects on 4-manifolds pertain to novel constructions of exotic and symplectic 4-manifolds, Lefschetz pencils, and relations in mapping class groups of surfaces, as well as Stein fillings of contact 3-manifolds and the generation of 2- and 4-dimensional smooth and symplectic mapping class groups.</p>  <p>During the grant period, the PI and his collaborators explored several new techniques involving algebraic relations in mapping class groups of surfaces and (equivariant) surgeries to address geography and botany questions regarding smooth structures on 4-manifolds, symplectic 4-manifolds, and Lefschetz fibrations. The PI and Hamada developed new methods to construct Lefschetz fibrations over the 2-sphere with arbitrary signatures and spin types. This work, in particular, disproved a long-standing conjecture of Stipsicz on the signatures of Lefschetz fibrations. Building on this approach, the PI and Hamada discovered the smallest exotic closed 4-manifolds with signature zero known to date, including both spin and non-spin examples. Following the same research program, the PI and collaborators presented new constructions of symplectic Calabi-Yau surfaces and exotic smooth structures on rational surfaces through Lefschetz pencils.</p>  <p>Notably, the PI, Stipsicz, and Szab&oacute;, employing various equivariant surgeries, proved that in a large class of (nearly all) closed oriented four-manifolds with finite cyclic groups admit either no or infinitely many distinct smooth structures. They also constructed infinite families of non-complex irreducible fake projective planes with diverse fundamental groups. In collaborative works with Arabadji, Korkmaz, and Simone, the PI addressed several questions on the geography of symplectic Lefschetz fibrations. Most significantly, the PI and Korkmaz proved the existence of surface bundles over surfaces with positive signatures for all but 19 possible pairs of fiber and base genera. In separate work, they proved that the mapping class group of a closed orientable surface (of genus not too small) is generated by only two commutators.</p>  <p>There were additional results obtained during this grant period by the PI and his collaborators on several other topics. Arabadji and the PI demonstrated that there are numerous non-spin 4-manifolds for which the smooth Nielsen realization problem fails, investigating projective twists and showing that the symplectic Torelli group is often not generated by squared Dehn twists. Nemethi, Plamenevskaya, and the PI explored topological constraints on the Stein fillings of a link of a normal surface singularity versus its Milnor fillings. In an AIM collaboration, the PI and his collaborators showed that any closed, simply connected, smooth 4-manifold is a 16-fold branched cover of a product of an orientable surface with the 2-torus, thereby solving Problem 4.113(C) in Kirby's 1997 list. The PI also showed that infinitely many irreducible, closed, simply connected 4-manifolds with prescribed signature and spin type admit handle decompositions without 1- and 3-handles, in particular answering Problem 4.91 on Kirby's list.</p>  </div>  <p>&nbsp;</p><br> <p>  Last Modified: 12/27/2024<br> Modified by: R. Inanc&nbsp;Baykur</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[    The PI carried out various research projects related to the proposal, several of which were in collaboration with mathematicians in the US and abroad. The results appeared in 14 research articles written and/or published during this period and were disseminated in nearly 40 invited seminar, conference, and colloquium talks at close to 30 different institutions. The PI mentored several graduate and undergraduate students and postdocs who carried out related research projects. The PI co-organized two week-long conferences and has been a co-organizer of a weekly research seminar and reading seminar.    The PI's research focuses on a variety of profound questions involving the geometry and topology of 4-manifolds. Some of the projects on 4-manifolds pertain to novel constructions of exotic and symplectic 4-manifolds, Lefschetz pencils, and relations in mapping class groups of surfaces, as well as Stein fillings of contact 3-manifolds and the generation of 2- and 4-dimensional smooth and symplectic mapping class groups.    During the grant period, the PI and his collaborators explored several new techniques involving algebraic relations in mapping class groups of surfaces and (equivariant) surgeries to address geography and botany questions regarding smooth structures on 4-manifolds, symplectic 4-manifolds, and Lefschetz fibrations. The PI and Hamada developed new methods to construct Lefschetz fibrations over the 2-sphere with arbitrary signatures and spin types. This work, in particular, disproved a long-standing conjecture of Stipsicz on the signatures of Lefschetz fibrations. Building on this approach, the PI and Hamada discovered the smallest exotic closed 4-manifolds with signature zero known to date, including both spin and non-spin examples. Following the same research program, the PI and collaborators presented new constructions of symplectic Calabi-Yau surfaces and exotic smooth structures on rational surfaces through Lefschetz pencils.    Notably, the PI, Stipsicz, and Szab, employing various equivariant surgeries, proved that in a large class of (nearly all) closed oriented four-manifolds with finite cyclic groups admit either no or infinitely many distinct smooth structures. They also constructed infinite families of non-complex irreducible fake projective planes with diverse fundamental groups. In collaborative works with Arabadji, Korkmaz, and Simone, the PI addressed several questions on the geography of symplectic Lefschetz fibrations. Most significantly, the PI and Korkmaz proved the existence of surface bundles over surfaces with positive signatures for all but 19 possible pairs of fiber and base genera. In separate work, they proved that the mapping class group of a closed orientable surface (of genus not too small) is generated by only two commutators.    There were additional results obtained during this grant period by the PI and his collaborators on several other topics. Arabadji and the PI demonstrated that there are numerous non-spin 4-manifolds for which the smooth Nielsen realization problem fails, investigating projective twists and showing that the symplectic Torelli group is often not generated by squared Dehn twists. Nemethi, Plamenevskaya, and the PI explored topological constraints on the Stein fillings of a link of a normal surface singularity versus its Milnor fillings. In an AIM collaboration, the PI and his collaborators showed that any closed, simply connected, smooth 4-manifold is a 16-fold branched cover of a product of an orientable surface with the 2-torus, thereby solving Problem 4.113(C) in Kirby's 1997 list. The PI also showed that infinitely many irreducible, closed, simply connected 4-manifolds with prescribed signature and spin type admit handle decompositions without 1- and 3-handles, in particular answering Problem 4.91 on Kirby's list.           Last Modified: 12/27/2024       Submitted by: R. InancBaykur]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

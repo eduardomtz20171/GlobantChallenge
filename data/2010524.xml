@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dynamical Inference of Forces in Dusty Plasmas using Three-Dimensional Laser Sheet Tomography]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>599981</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vyacheslav (Slava) Lukin</SignBlockName>
+<PO_EMAI>vlukin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927382</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award will enable novel studies of complex "dusty" plasmas using machine learning techniques on data from laboratory experiments. Some of the most pressing scientific and societal issues involve the dynamics of complex systems, such as Earth's variable climate, global financial markets, urban environments, and the migration of animals. These systems have many interacting components, yet it is unclear how they are entangled together to produce the resulting dynamics. In the emerging era of Big Data, these systems and their components can be measured exceedingly well, resulting in a vast amount of data.  In the pursuit to provide a deeper understanding of such systems, dynamical inference has emerged as an important field in physics and computer science. However, many state-of-the-art computational techniques for teasing apart complex dynamics are tested on simulated data. This award will combine machine learning techniques from this emerging field with high-resolution data from laboratory experiments of dusty plasmas, which consist of levitated, micron-sized dust particles embedded in a plasma of electrons and ions. By simultaneously tracking the motion of hundreds of particles, the fundamental, nonequilibrium forces that drive their motion will be "learned" using Artificial Intelligence techniques, exploring the boundary between physical, human intuition and the limits of what physics can be uncovered through machine learning. In parallel to this research effort, the project includes continuation of an after-school science club at a local elementary school in Dekalb county, which hosts the 3rd largest school system and is the most diverse county in Georgia.&lt;br/&gt;&lt;br/&gt;The motion of dust particles in plasma has been studied for nearly 30 years and lead to the discovery of strongly coupled crystalline structures and nonequilibrium dynamics governed by gravitational, hydrodynamic, and electromagnetic forces. Many of the interparticle forces are complex; they can be non-reciprocal, and non-additive. Deciphering the mélange of potential interactions between many particles is a challenging task, and could open a new paradigm of understanding in dusty plasmas in extreme environments. This award aims to tease apart both the known and unknown forces that drive dusty plasmas using high-resolution, three-dimensional imaging and particle tracking coupled with modern dynamical inference techniques. This will effectively turn every dust particle into a local probe of the plasma environment and can be applied in a diverse array of experimental settings. To accomplish this, a new scanning laser-sheet tomography technique will be developed that utilizes a single high-speed camera. In systems of ~100 particles or less levitated above a biased electrode in an rf plasma, the motion of single particles will be tracked for 30 s or longer. A detailed analysis of their movement will reveal in-situ information about the plasma environment, including the plasma sheath, and the local stochastic fluctuations of charge on the particles. For highly dynamic systems of many particles, the large quantity of data acquired over long times will be analyzed using a variety of machine learning techniques. The team will compute quantities such as the effective pair potential between particles, and more complex, three-body interactions and non-reciprocal forces will be extracted using neural networks with varying hierarchies. More broadly, this award aims to test the limit of what a machine can "learn" from noisy, experimental data, and explore new physics from complex, big data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010524</AwardID>
+<Investigator>
+<FirstName>Ilya</FirstName>
+<LastName>Nemenman</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ilya M Nemenman</PI_FULL_NAME>
+<EmailAddress><![CDATA[ilya.nemenman@emory.edu]]></EmailAddress>
+<NSF_ID>000489348</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Justin</FirstName>
+<LastName>Burton</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Justin C Burton</PI_FULL_NAME>
+<EmailAddress><![CDATA[justin.c.burton@emory.edu]]></EmailAddress>
+<NSF_ID>000656197</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303221061</ZipCode>
+<PhoneNumber>4047272503</PhoneNumber>
+<StreetAddress><![CDATA[201 DOWMAN DR NE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>S352L5PJLMP8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EMORY UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Emory University]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303224250</ZipCode>
+<StreetAddress><![CDATA[1599 Clifton Rd NE, 4th Floor]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>124200</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>171000</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>762100</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1062</Code>
+<Text>BASIC PLASMA SCIENCE &amp; ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7621</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~170000</FUND_OBLG>
+<FUND_OBLG>2021~165000</FUND_OBLG>
+<FUND_OBLG>2022~165000</FUND_OBLG>
+<FUND_OBLG>2023~99981</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Dusty plasma, a mixture of ions, electrons, and charged dust particles, is common throughout the universe. It exists in Earth&rsquo;s ionosphere, the moon&rsquo;s surface, and other planetary environments. Dust is also a common contaminant in plasma processes and cleaning applications in laboratory environments. Understanding and modelling dusty plasma requires precise knowledge of the complex interactions between dust particles, but machine learning (ML) is a promising approach to learn such interactions. The major goal of this research is to combine ML techniques with a new three-dimensional imaging and tracking technique for particles in a dusty plasma. Together, this combination of experimental data and ML allows precise measurements of the forces that drive particles in a dusty plasma and can learn new physics that would challenging with direct experimental approaches.</p> <p>The three-dimensional tracking method uses a visible laser expanded into a sheet of light to image a single plane of the cloud of levitated dust particles. The laser sheet is scanned up and down at 200 times per second to reconstruct the full cloud of particles and measure their positions in time using a high-speed camera. In simulated data where the &ldquo;ground truth&rdquo; is known, ML models excel at making short-term predictions or inferring governing equations, yet there are few examples where new physical laws have been learned from real experimental data. Here, the acceleration of each particle in the experiment is directly compared to a ML model where three separate forces act on the particles: an interaction force between each pair of particles, environmental forces such as gravity, and drag forces from the surrounding gas that slow particles down. Each force is modeled using a neural network, and the networks act a universal approximators to the mathematical form of each complex force.</p> <p>The main intellectual merit of this research was some of the first measurements of non-reciprocal forces between dust particles. More plainly, although Newton&rsquo;s 3<sup>rd</sup> law says the forces should be equal and opposite, here the forces are mediated by the plasma environment, and thus Newton&rsquo;s 3<sup>rd</sup> law doesn&rsquo;t strictly apply. We found that one particle can feel a net attraction to a partner particle, whereas the partner feels a net repulsion. This has been predicted in dusty plasmas for more than a decade, but never measured in a collective group of dust particles. We also found that the interaction and charge of the dust particles deviated significantly from basic theories of dusty plasma in certain environments, for example, in the presence of a magnetic field. This ML-powered research opens the way for dusty plasma measurements that were not possible before and exemplifies how ML-powered approaches can learn new physics from experimental data.</p> <p>The research also had several broader impacts. The ML approached developed here can be easily adapted to other many-body systems, such as collections of cells and simple biological organisms. Additionally, the research contributed to new methods in artificial intelligence, namely, identifying the most important dynamical variables that describe a system using only observations of its motion. There we also several outreach efforts that the principal investigators and graduate students spearheaded: a yearly exhibit at the Atlanta Science Festival (which has over 20,000 attendees), and the continuation of a monthly after-school science club for 4<sup>th</sup> and 5<sup>th</sup> grade students in Dekalb County, GA.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 10/03/2024<br> Modified by: Justin&nbsp;C&nbsp;Burton</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2010524/2010524_10688644_1728006964913_Clipboard--rgov-214x142.png" original="/por/images/Reports/POR/2024/2010524/2010524_10688644_1728006964913_Clipboard--rgov-800width.png" title="Experiments and Model for Dusty Plasma"><img src="/por/images/Reports/POR/2024/2010524/2010524_10688644_1728006964913_Clipboard--rgov-66x44.png" alt="Experiments and Model for Dusty Plasma"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(A) Levitated particles are imaged from above using a laser from the side. (B-C) The particles can be tracked in time and the positions three-dimensions can be measured with high accuracy. (D) The equation (yellow box) contains 3 terms, each modeled using a neural network.</div> <div class="imageCredit">Justin Burton</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Justin&nbsp;C&nbsp;Burton <div class="imageTitle">Experiments and Model for Dusty Plasma</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2010524/2010524_10688644_1728006507221_img_9139--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2010524/2010524_10688644_1728006507221_img_9139--rgov-800width.jpg" title="Laurel Ridge Elementary Scienc Club"><img src="/por/images/Reports/POR/2024/2010524/2010524_10688644_1728006507221_img_9139--rgov-66x44.jpg" alt="Laurel Ridge Elementary Scienc Club"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Squishy circuits with playdoh!</div> <div class="imageCredit">Justin Burton</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Justin&nbsp;C&nbsp;Burton <div class="imageTitle">Laurel Ridge Elementary Scienc Club</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2010524/2010524_10688644_1728006673785_PXL_20230325_143143209--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2010524/2010524_10688644_1728006673785_PXL_20230325_143143209--rgov-800width.jpg" title="Atlanta Science Festival"><img src="/por/images/Reports/POR/2024/2010524/2010524_10688644_1728006673785_PXL_20230325_143143209--rgov-66x44.jpg" alt="Atlanta Science Festival"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Emory students, staff, and Alex the Astronaut</div> <div class="imageCredit">Justin Burton</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Justin&nbsp;C&nbsp;Burton <div class="imageTitle">Atlanta Science Festival</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Dusty plasma, a mixture of ions, electrons, and charged dust particles, is common throughout the universe. It exists in Earths ionosphere, the moons surface, and other planetary environments. Dust is also a common contaminant in plasma processes and cleaning applications in laboratory environments. Understanding and modelling dusty plasma requires precise knowledge of the complex interactions between dust particles, but machine learning (ML) is a promising approach to learn such interactions. The major goal of this research is to combine ML techniques with a new three-dimensional imaging and tracking technique for particles in a dusty plasma. Together, this combination of experimental data and ML allows precise measurements of the forces that drive particles in a dusty plasma and can learn new physics that would challenging with direct experimental approaches.   The three-dimensional tracking method uses a visible laser expanded into a sheet of light to image a single plane of the cloud of levitated dust particles. The laser sheet is scanned up and down at 200 times per second to reconstruct the full cloud of particles and measure their positions in time using a high-speed camera. In simulated data where the ground truth is known, ML models excel at making short-term predictions or inferring governing equations, yet there are few examples where new physical laws have been learned from real experimental data. Here, the acceleration of each particle in the experiment is directly compared to a ML model where three separate forces act on the particles: an interaction force between each pair of particles, environmental forces such as gravity, and drag forces from the surrounding gas that slow particles down. Each force is modeled using a neural network, and the networks act a universal approximators to the mathematical form of each complex force.   The main intellectual merit of this research was some of the first measurements of non-reciprocal forces between dust particles. More plainly, although Newtons 3rd law says the forces should be equal and opposite, here the forces are mediated by the plasma environment, and thus Newtons 3rd law doesnt strictly apply. We found that one particle can feel a net attraction to a partner particle, whereas the partner feels a net repulsion. This has been predicted in dusty plasmas for more than a decade, but never measured in a collective group of dust particles. We also found that the interaction and charge of the dust particles deviated significantly from basic theories of dusty plasma in certain environments, for example, in the presence of a magnetic field. This ML-powered research opens the way for dusty plasma measurements that were not possible before and exemplifies how ML-powered approaches can learn new physics from experimental data.   The research also had several broader impacts. The ML approached developed here can be easily adapted to other many-body systems, such as collections of cells and simple biological organisms. Additionally, the research contributed to new methods in artificial intelligence, namely, identifying the most important dynamical variables that describe a system using only observations of its motion. There we also several outreach efforts that the principal investigators and graduate students spearheaded: a yearly exhibit at the Atlanta Science Festival (which has over 20,000 attendees), and the continuation of a monthly after-school science club for 4th and 5th grade students in Dekalb County, GA.              Last Modified: 10/03/2024       Submitted by: JustinCBurton]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

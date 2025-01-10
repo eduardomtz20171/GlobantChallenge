@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Operational Seasonal Forecasting of Environmental Data using Machine Learning and Statistical Methods]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this SBIR Phase I project is to extend weather forecasting capabilities beyond the current 14-day window. The project will leverage publicly available information from global gridded seasonal forecasting numerical models and in-situ observations from sensors for the Internet of Things (IoT) for a machine-learning based forecasting system that delivers seasonal and sub-seasonal forecasts.  This asset-specific information is needed as weather, especially extreme weather events, continue to affect various industries and a wide range of individual assets.  Accurate forecasting can improve logistics, supply-chain, labor scheduling and affect seed selection of a variety of crops important in the US economy, including stone-fruits, apples and pears.  In addition, the technical innovation has the potential to improve local estimates of environmental variables relevant to the agricultural, energy and insurance industries.&lt;br/&gt;&lt;br/&gt;This project will bring into operation an in-situ seasonal and sub-seasonal forecasting system of environmental variables.   The proposed innovation includes systems and methods for environmental forecasting using data-driven analog forecasting methods based on machine learning approximation of Koopman operators, governing the evolution of observables in nonlinear dynamical systems. The project will improve the forecasting accuracy beyond that of coarse resolution dynamical models by exploring sub-monthly timescales and a by expanding the predictor set beyond the traditional sea surface temperature used by most statistical approaches. Specifically, the project will create transfer functions that link the coarse resolution predictors from the dynamical models with local information (predictands) from IoT enabled environmental sensors. Furthermore, the project will apply and assess this framework for seasonal and regional predictions of the U.S. Pacific Northwest and Hawaii’s climate such as cumulative precipitation or onset of the given season, and probabilistic forecast of extreme events such as frosty days or drought, across a range of sectors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/20/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2042853</AwardID>
+<Investigator>
+<FirstName>Carlos</FirstName>
+<LastName>Gaitan Ospina</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carlos F Gaitan Ospina</PI_FULL_NAME>
+<EmailAddress><![CDATA[carlos@benchmarklabs.com]]></EmailAddress>
+<NSF_ID>000821855</NSF_ID>
+<StartDate>04/20/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[BENCHMARK LABS, INC.]]></Name>
+<CityName>SAN DIEGO</CityName>
+<ZipCode>921312351</ZipCode>
+<PhoneNumber>6507613282</PhoneNumber>
+<StreetAddress><![CDATA[10428 LES ARBRES PL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>51</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA51</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YDJRNQJMHTP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BENCHMARK LABS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Benchmark Labs, Inc.]]></Name>
+<CityName>San Diego</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>921224606</ZipCode>
+<StreetAddress><![CDATA[4660 La Jolla Village Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537100</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-7a1feb1b-7fff-96a8-f3bc-6a66f6f1619d"> </span></p> <p dir="ltr"><span>PROJECT OUTCOMES REPORT&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Operational Seasonal Forecasting of Environmental Data using Machine Learning and Statistical Methods</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Key Points:</span></p> <ol> <li dir="ltr"> <p dir="ltr"><span>Our seasonal forecasting models outscored alternatives and benchmark models for El Nino3.4 forecasts from 3 to 12 months, with improvements of 33% at 6-9 months and 50% at 9-12 months.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We found that our models can also improve the temperature forecasting skill from day 6 to day 12.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Early results helped to secure Letters of Intent from potential customers and partnership agreements from distribution channels.</span></p> </li> </ol> <p>&nbsp;</p> <p dir="ltr"><span>Summary</span></p> <p dir="ltr"><span>The broader impact of this SBIR Phase I project was to extend weather forecasting capabilities&nbsp;</span>beyond the 14-day ahead window available from weather models and create skillful seasonal and/or sub-seasonal forecasting models for specific locations. The project successfully leveraged publicly available information from global gridded seasonal forecasting numerical models and in-situ observations from internet of things (IoT)-enabled environmental sensors to produce a machine-learning based forecasting system that delivers seasonal and sub-seasonal forecasts at asset-specific level. This asset-specific information is needed as weather, especially extreme weather events, continue to affect various industries and a wide range of individual assets. The technical innovation met the National Science Foundation&rsquo;s current mandate to support research and development of unproven and high-impact innovations, as accurate seasonal and sub-seasonal forecasting can improve logistics, supply-chain, labor scheduling and affect seed selection of a variety of crops, including stone-fruits, apples, and pears - crops of significant importance to the U.S. economy-. In addition, this technical innovation has the potential to improve local estimates of environmental variables relevant to the agricultural, energy and insurance industries.</p> <p dir="ltr">&nbsp;</p> <p dir="ltr"><span>Project Outcomes</span></p> <p dir="ltr"><span>This SBIR Phase I project was successful in extending weather forecasting capabilities. beyond the 14-day ahead window available from weather models and create skillful seasonal and/or sub-seasonal forecasting models for specific locations. Our seasonal forecasting models reduced the errors of the dynamical models used by around 1 Kelvin (~20% improvement) and reduced the bias to ~0.&nbsp; Therefore, this NSF-supported technical development and the implemented methodology shows that our machine learning based models can improve the forecasting skill of coarser numerical models - developed by government agencies and academic institutions- and provide useful visualizations and analytics to end-users interested in post 15-day forecasts.</span></p> <p dir="ltr"><span>Also, when comparing our machine learning-based models to long-term climate averages (climatology), we were able to outperform air temperature forecasts in 5 of the 10 cities we tested, Although, the results are location dependent, they highlight a case example where one of our proposed machine learning models would be preferred over climatology for long term forecasting.</span></p> <p dir="ltr"><span>It is worth highlighting that one of our forecasting models outperformed 1-to-3-month persistence values (average of the last N months) at predicting El Nino3.4 from 3 -to- 12 months in advance, with improvements of 33% at 6-9 months and 50% at 9-12 months. Although this testing was done for only a single teleconnection index (El Nino 3.4), it can be expanded to model other indexes to aid in seasonal forecasting. This is a promising development as El Nino affects agricultural and energy production globally. &ndash; See Figure 1-.</span></p> <p><br /><br /></p> <p dir="ltr"><span><span><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdP9EBPdht-GFrpj4fJYTSd4UyHitx3Uz8QaKddYg4M7BXbkLtzL3bQht-Kl6m1T04jor-rYPVp2EgxfbXtvL83MBsMzrq7VD6p3ROg_URFhLPjJ6g7La6dkerPcZLP8orHV-_FqPNk3vQljHEFim3E63X2?key=Z118dapMHCr2zL53EW7-xw" alt=" width="624" height="339" /></span></span></p> <p dir="ltr"><span>Figure 1: Mean absolute error between estimated value and historical value for Nino3.4 index. Estimated value includes our Koopman based model, a 1-month persistence value, and a 3-month persistence value. The index is unitless.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>In comparing our sub-seasonal forecasts, we were able to improve the ensemble mean absolute error of a publicly available numerical model by around 1K (~22% improvement) and extend the skill over climatology by ~6 days (~66-100% improvement). these results provided an unexpected source of additional information and skill which can be used to improve&nbsp; weather forecasting on the 1-to-15-day timescales. &ndash; See Figure 2.</span></p> <p>&nbsp;</p> <p dir="ltr"><span><span><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXc1auCFaeRnCxWeG7uj5uY3nSMAgMsnMm2wXHTM_ANPiRiRlcoULSI_kPZ2SZrjZivQ2I7rBTySQ5Q9ASmu2Y-s2hd7HjRVRNUQCJyGehSsd0mDcImS_URZ3gMSB_h-13R0qQ-TOVjMnupzgQSd1hq_nyQ?key=Z118dapMHCr2zL53EW7-xw" alt=" width="624" height="293" /></span></span></p> <p dir="ltr"><span>Figure 2: Skill vs lead time (days) for the UFS model (green), the ML boosted model (orange), and climatology (blue). UFS and the ML boosted model outperform climatology on short lead times, but not on subseasonal timescales.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>The project allowed us to develop a web-app -Figure 3 - to visualize and showcase environmental forecasting data at different lead times. This web-app was designed with multi-lingual support (English, Spanish, Portuguese, French) and can display the forecasts in different measurement systems (English, International, Hybrid) to remove potential barriers of entry and accessibility for agricultural workers. Finally, the project also allowed us to train two interns from historically underserved backgrounds.</span></p> <p>&nbsp;</p> <p dir="ltr"><span><span><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXd3s3-Vppht5Em2DnYlNsSV7lfY1ubuiTcVI2_4chC1FyKMC-Ta3mfU9fMbf9YZSYWiioszr-xhhgTfAa1Zw4EznXaSrOnnCpggZGwFqCBVnAwfACjEaZgnhLO2M9I2VfEcSZueGnaebPzQgb5dNUGE0TAj?key=Z118dapMHCr2zL53EW7-xw" alt=" width="624" height="337" /></span></span></p> <p dir="ltr"><span>Figure 3: Web-app beta-version developed showing forecast information from environmental variables. Notice the capability to show weekly and monthly data.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Disclaimer</span></p> <p dir="ltr"><span>&ldquo;This Project Outcomes Report for the General Public is displayed verbatim as submitted by the Principal Investigator (PI) for this award. Any opinions, findings, and conclusions or recommendations expressed in this Report are those of the PI and do not necessarily &nbsp; reflect the views of the National Science Foundation; NSF has not approved or endorsed its content.&rdquo;</span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 07/01/2024<br> Modified by: Carlos&nbsp;F&nbsp;Gaitan Ospina</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      PROJECT OUTCOMES REPORT      Operational Seasonal Forecasting of Environmental Data using Machine Learning and Statistical Methods      Key Points:     Our seasonal forecasting models outscored alternatives and benchmark models for El Nino3.4 forecasts from 3 to 12 months, with improvements of 33% at 6-9 months and 50% at 9-12 months.     We found that our models can also improve the temperature forecasting skill from day 6 to day 12.     Early results helped to secure Letters of Intent from potential customers and partnership agreements from distribution channels.        Summary   The broader impact of this SBIR Phase I project was to extend weather forecasting capabilitiesbeyond the 14-day ahead window available from weather models and create skillful seasonal and/or sub-seasonal forecasting models for specific locations. The project successfully leveraged publicly available information from global gridded seasonal forecasting numerical models and in-situ observations from internet of things (IoT)-enabled environmental sensors to produce a machine-learning based forecasting system that delivers seasonal and sub-seasonal forecasts at asset-specific level. This asset-specific information is needed as weather, especially extreme weather events, continue to affect various industries and a wide range of individual assets. The technical innovation met the National Science Foundations current mandate to support research and development of unproven and high-impact innovations, as accurate seasonal and sub-seasonal forecasting can improve logistics, supply-chain, labor scheduling and affect seed selection of a variety of crops, including stone-fruits, apples, and pears - crops of significant importance to the U.S. economy-. In addition, this technical innovation has the potential to improve local estimates of environmental variables relevant to the agricultural, energy and insurance industries.      Project Outcomes   This SBIR Phase I project was successful in extending weather forecasting capabilities. beyond the 14-day ahead window available from weather models and create skillful seasonal and/or sub-seasonal forecasting models for specific locations. Our seasonal forecasting models reduced the errors of the dynamical models used by around 1 Kelvin (~20% improvement) and reduced the bias to ~0. Therefore, this NSF-supported technical development and the implemented methodology shows that our machine learning based models can improve the forecasting skill of coarser numerical models - developed by government agencies and academic institutions- and provide useful visualizations and analytics to end-users interested in post 15-day forecasts.   Also, when comparing our machine learning-based models to long-term climate averages (climatology), we were able to outperform air temperature forecasts in 5 of the 10 cities we tested, Although, the results are location dependent, they highlight a case example where one of our proposed machine learning models would be preferred over climatology for long term forecasting.   It is worth highlighting that one of our forecasting models outperformed 1-to-3-month persistence values (average of the last N months) at predicting El Nino3.4 from 3 -to- 12 months in advance, with improvements of 33% at 6-9 months and 50% at 9-12 months. Although this testing was done for only a single teleconnection index (El Nino 3.4), it can be expanded to model other indexes to aid in seasonal forecasting. This is a promising development as El Nino affects agricultural and energy production globally.  See Figure 1-.           Figure 1: Mean absolute error between estimated value and historical value for Nino3.4 index. Estimated value includes our Koopman based model, a 1-month persistence value, and a 3-month persistence value. The index is unitless.      In comparing our sub-seasonal forecasts, we were able to improve the ensemble mean absolute error of a publicly available numerical model by around 1K (~22% improvement) and extend the skill over climatology by ~6 days (~66-100% improvement). these results provided an unexpected source of additional information and skill which can be used to improve weather forecasting on the 1-to-15-day timescales.  See Figure 2.         Figure 2: Skill vs lead time (days) for the UFS model (green), the ML boosted model (orange), and climatology (blue). UFS and the ML boosted model outperform climatology on short lead times, but not on subseasonal timescales.      The project allowed us to develop a web-app -Figure 3 - to visualize and showcase environmental forecasting data at different lead times. This web-app was designed with multi-lingual support (English, Spanish, Portuguese, French) and can display the forecasts in different measurement systems (English, International, Hybrid) to remove potential barriers of entry and accessibility for agricultural workers. Finally, the project also allowed us to train two interns from historically underserved backgrounds.         Figure 3: Web-app beta-version developed showing forecast information from environmental variables. Notice the capability to show weekly and monthly data.      Disclaimer   This Project Outcomes Report for the General Public is displayed verbatim as submitted by the Principal Investigator (PI) for this award. Any opinions, findings, and conclusions or recommendations expressed in this Report are those of the PI and do not necessarily  reflect the views of the National Science Foundation; NSF has not approved or endorsed its content.              Last Modified: 07/01/2024       Submitted by: CarlosFGaitan Ospina]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

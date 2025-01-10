@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PostDoctoral Research Fellowship]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is made as part of the FY 2020 Mathematical Sciences Postdoctoral Research Fellowships Program. Each of the fellowships supports a research and training project at a host institution in the mathematical sciences, including applications to other disciplines, under the mentorship of a sponsoring scientist.  The title of the project for this fellowship to Jorge L Gonzalez is "Rigorous mathematics and computational tools for the study of systems motivated by the sciences."  The host institution for the fellowship is Georgia Institute of Technology, and the sponsoring scientist is Rafael de la Llave.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001758</AwardID>
+<Investigator>
+<FirstName>Jorge</FirstName>
+<LastName>Gonzalez</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jorge L Gonzalez</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000812358</NSF_ID>
+<StartDate>03/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Gonzalez, Jorge L]]></Name>
+<CityName>Boca Raton</CityName>
+<ZipCode>33431</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL23</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>060Y00</Code>
+<Text>Workforce (MSPRF) MathSciPDFel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9219</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS IN MATH SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="Default"><strong>Intellectual merit and impact:</strong>&nbsp;</p>  <p><span style="white-space: pre;"> </span>Renormalization techniques are powerful tools for understanding transitions in models in applied mathematics and the physical sciences. One of the major goals of this project is to understand the global properties of renormalization operators. These properties can explain the fundamental behavior of the underlying dynamical systems. A fascinating phenomenon was first noticed by Feigenbaum in the late 70s, in the context of population dynamics modeled by iterations of a one parameter quadratic function. He discovered that some ratios of these parameters, in a diagram describing how periodic orbits double (period doubling bifurcation), were universal, in the sense that they did not depend on the specific quadratic model used. &nbsp;The reason was that the equilibrium (fixed point) of the iteration and rescaling procedure (renormalization operator) satisfied certain technical conditions. These observations were rigorously proven in this case by Landford, Eckmann, Wittwer and others. Moreover, these universal constants are not exclusive to periodic doubling bifurcations or to iterations of quadratic polynomials; and have been numerically observed in many other contexts with important applications. &nbsp;</p>  <p><span style="white-space: pre;"> </span>A decade or so ago, De La Llave and collaborators proposed the existence of infinitely many renormalization fixed points along connecting orbits and a combinatorial principle to approximate their universal constants. These constants characterize the different routes to chaotic behavior in the model and are said to be as significant to Dynamical Systems as pi is to Geometry or e is to Analysis. We have taken the first steps to rigorously establish these observations. Mathematical rigor is imperative in the presence of strong nonlinearities like the ones encountered in this project. There are multiple examples where numerical observations turn out to be no more than illusions.</p>  <p><span style="white-space: pre;"> </span>We developed a unified mathematical approach to proving the existence and isolation of fixed points for general order renormalization operators over very general families of functions. We demonstrate the methods for several cases; some were completely out of reach before our work. We also compute the classical Feigenbaum constants up to 500 correct digits with an ordinary laptop in order to further showcase the effectiveness of our methods. We have also computed connecting orbits for some of these fixed points. The validation of these orbits is the next step to mathematically establish the global properties needed to explain the observations of De La Llave et al. We also rigorously show an important property of the Schwarzian derivate in our examples which has important implications for their dynamics. The manuscript containing these works was submitted for publication in a peer reviewed journal. The preprint is available at <a href="https://arxiv.org/pdf/2409.20457">https://arxiv.org/pdf/2409.20457</a>. A software package containing the scripts for the project is available to the community at <a href="https://github.com/joluigonza/renor">https://github.com/joluigonza/renor</a>.</p>  <p><strong>Other outcomes and broader impact:</strong></p>  <p><span style="white-space: pre;"> </span>The PI participated in the summer 2021 REU at the hosting institution mentoring two undergraduate students on a project titled "Dynamical systems with computer assistance". The undergraduate students proved the existence of periodic orbits in excitable media models. The program provided raspberry pi computers to the students (<a href="https://math.gatech.edu/undergraduate-research">https://math.gatech.edu/undergraduate-research</a>).</p>  <p><span style="white-space: pre;"> </span>The PI organized and mentored in a semester long workshop (M@th Hub workshop) with collaborators from Georgia Tech, George Mason University, UNC Chapel Hill, and Florida Atlantic University, with the goal of introducing undergraduate and early graduate students to research in dynamical systems and scientific computing. The title of the workshop and seminar was "Overcoming the Computational Complexity of Large Dynamical Systems with Parallel Computations". We were motivated to involve the students in technologically challenging projects in the physical sciences in order to familiarize them with multiple elements of STEM research. The group met at Georgia Tech at the end of the semester to conclude the workshop with student presentations, and a visit to the fluid dynamics lab and the computer cluster (<a href="https://joluigonza.github.io/workshop_2022.html">https://joluigonza.github.io/workshop_2022.html</a>).</p>  <p><span style="white-space: pre;"> </span>The PI also coorganized the CDSNS colloquium at Georgia Tech, School of Mathematics in the Fall 2022 and the Spring of 2023 (<a href="https://math.gatech.edu/seminars-and-colloquia-by-series?series_tid=60">https://math.gatech.edu/seminars-and-colloquia-by-series?series_tid=60</a>).</p>  <p><span style="white-space: pre;"> </span>In the Spring of 2021, the PI coorganized a special session for the AMS sectorial meeting at Atlanta Georgia titled "Advances in Computational Dynamics" with collaborators from Florida Atlantic University and Georgia State University (<a href="https://www.ams.org/meetings/sectional/2287_program_ss6.html#title">https://www.ams.org/meetings/sectional/2287_program_ss6.html#title</a>).</p>  <p>The PI also presented in several conferences and seminars. For example:</p>  <ul>  <li>2024 Spring Eastern Sectional Meeting, Howard University, April 6-7, 2024</li>  <li>ICIAM 2023, Tokyo Japan, August 21, 2023</li>  <li>SIAM Conference on Applications of Dynamical Systems (DS23), Portland Oregon, May 14-18, 2023</li>  <li>SIAM Conference on Applications of Dynamical Systems (DS21), Virtual, May 26, 2021. </li>  </ul>  <p><span style="white-space: pre;"> </span>Finally, the project facilitated the collaboration of young researchers with experts in the field of dynamical systems and computer assisted proofs. This was the first experience doing research for some of the participating students. The PI would like to sincerely thank the sponsoring scientist Rafael De La Llave, the School of Mathematics at Georgia Tech as the hosting institution, and NSF for the generous support during the project.</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/28/2024<br> Modified by: Jorge&nbsp;L&nbsp;Gonzalez</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2001758/2001758_10658452_1735420636756_figure1--rgov-214x142.PNG" original="/por/images/Reports/POR/2024/2001758/2001758_10658452_1735420636756_figure1--rgov-800width.PNG" title="Fixed points of renormalization"><img src="/por/images/Reports/POR/2024/2001758/2001758_10658452_1735420636756_figure1--rgov-66x44.PNG" alt="Fixed points of renormalization"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The sub-figures are arranged in increasing order, with an m= 2 fixed point depicted in the top left, and an m=10 fixed point in the bottom right. In each frame the black line is the graph of the approximate fixed point. The red curve illustrates the composition of the fixed point with itself m times</div> <div class="imageCredit">Maxime Breden, Jorge Gonzalez, JD Mireles James</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jorge&nbsp;L&nbsp;Gonzalez <div class="imageTitle">Fixed points of renormalization</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2001758/2001758_10658452_1735421089869_figure2--rgov-214x142.PNG" original="/por/images/Reports/POR/2024/2001758/2001758_10658452_1735421089869_figure2--rgov-800width.PNG" title="Trippling cascade"><img src="/por/images/Reports/POR/2024/2001758/2001758_10658452_1735421089869_figure2--rgov-66x44.PNG" alt="Trippling cascade"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Tripling cascade from a stable period three orbit. We consider the quadratic family and focus on the period three orbit which is born in a fold or tangency bifurcation near \mu = 1.75. This gives rise to a stable and unstable branch of period three, shown as three yellow curves.</div> <div class="imageCredit">Maxime Breden, Jorge Gonzalez, JD Mireles James</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jorge&nbsp;L&nbsp;Gonzalez <div class="imageTitle">Trippling cascade</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual merit and impact:     Renormalization techniques are powerful tools for understanding transitions in models in applied mathematics and the physical sciences. One of the major goals of this project is to understand the global properties of renormalization operators. These properties can explain the fundamental behavior of the underlying dynamical systems. A fascinating phenomenon was first noticed by Feigenbaum in the late 70s, in the context of population dynamics modeled by iterations of a one parameter quadratic function. He discovered that some ratios of these parameters, in a diagram describing how periodic orbits double (period doubling bifurcation), were universal, in the sense that they did not depend on the specific quadratic model used. The reason was that the equilibrium (fixed point) of the iteration and rescaling procedure (renormalization operator) satisfied certain technical conditions. These observations were rigorously proven in this case by Landford, Eckmann, Wittwer and others. Moreover, these universal constants are not exclusive to periodic doubling bifurcations or to iterations of quadratic polynomials; and have been numerically observed in many other contexts with important applications.      A decade or so ago, De La Llave and collaborators proposed the existence of infinitely many renormalization fixed points along connecting orbits and a combinatorial principle to approximate their universal constants. These constants characterize the different routes to chaotic behavior in the model and are said to be as significant to Dynamical Systems as pi is to Geometry or e is to Analysis. We have taken the first steps to rigorously establish these observations. Mathematical rigor is imperative in the presence of strong nonlinearities like the ones encountered in this project. There are multiple examples where numerical observations turn out to be no more than illusions.     We developed a unified mathematical approach to proving the existence and isolation of fixed points for general order renormalization operators over very general families of functions. We demonstrate the methods for several cases; some were completely out of reach before our work. We also compute the classical Feigenbaum constants up to 500 correct digits with an ordinary laptop in order to further showcase the effectiveness of our methods. We have also computed connecting orbits for some of these fixed points. The validation of these orbits is the next step to mathematically establish the global properties needed to explain the observations of De La Llave et al. We also rigorously show an important property of the Schwarzian derivate in our examples which has important implications for their dynamics. The manuscript containing these works was submitted for publication in a peer reviewed journal. The preprint is available at https://arxiv.org/pdf/2409.20457. A software package containing the scripts for the project is available to the community at https://github.com/joluigonza/renor.    Other outcomes and broader impact:     The PI participated in the summer 2021 REU at the hosting institution mentoring two undergraduate students on a project titled "Dynamical systems with computer assistance". The undergraduate students proved the existence of periodic orbits in excitable media models. The program provided raspberry pi computers to the students (https://math.gatech.edu/undergraduate-research).     The PI organized and mentored in a semester long workshop (M@th Hub workshop) with collaborators from Georgia Tech, George Mason University, UNC Chapel Hill, and Florida Atlantic University, with the goal of introducing undergraduate and early graduate students to research in dynamical systems and scientific computing. The title of the workshop and seminar was "Overcoming the Computational Complexity of Large Dynamical Systems with Parallel Computations". We were motivated to involve the students in technologically challenging projects in the physical sciences in order to familiarize them with multiple elements of STEM research. The group met at Georgia Tech at the end of the semester to conclude the workshop with student presentations, and a visit to the fluid dynamics lab and the computer cluster (https://joluigonza.github.io/workshop_2022.html).     The PI also coorganized the CDSNS colloquium at Georgia Tech, School of Mathematics in the Fall 2022 and the Spring of 2023 (https://math.gatech.edu/seminars-and-colloquia-by-series?series_tid=60).     In the Spring of 2021, the PI coorganized a special session for the AMS sectorial meeting at Atlanta Georgia titled "Advances in Computational Dynamics" with collaborators from Florida Atlantic University and Georgia State University (https://www.ams.org/meetings/sectional/2287_program_ss6.html#title).    The PI also presented in several conferences and seminars. For example:    2024 Spring Eastern Sectional Meeting, Howard University, April 6-7, 2024  ICIAM 2023, Tokyo Japan, August 21, 2023  SIAM Conference on Applications of Dynamical Systems (DS23), Portland Oregon, May 14-18, 2023  SIAM Conference on Applications of Dynamical Systems (DS21), Virtual, May 26, 2021.        Finally, the project facilitated the collaboration of young researchers with experts in the field of dynamical systems and computer assisted proofs. This was the first experience doing research for some of the participating students. The PI would like to sincerely thank the sponsoring scientist Rafael De La Llave, the School of Mathematics at Georgia Tech as the hosting institution, and NSF for the generous support during the project.         Last Modified: 12/28/2024       Submitted by: JorgeLGonzalez]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

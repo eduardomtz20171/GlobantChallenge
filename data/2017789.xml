@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Equity and Sustainability: A framework for Equitable Energy Transition Analyses]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>399915.00</AwardTotalIntnAmount>
+<AwardAmount>447915</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+<PO_EMAI>bhamilto@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Decisions regarding transitions from traditional energy sources such as fossil fuels to more sustainable, renewable energy systems impact multiple constituencies, including the most vulnerable members of society. This research addresses two questions: (1) What are transition pathways from non-renewable energy sources (such as fossil fuels) to renewable energy sources (such as wind and solar) for the US electricity sector that can best balance the (sometimes conflicting) objectives of the transition, while accounting for social equity and sustainability? (2) How can transition to a low-carbon electricity system be done in a way that minimizes adverse impacts on the most vulnerable members of society? This research targets creating a new way to account for social equity in the sustainability analysis of transitions to new energy systems, which may help guide decision-makers.  &lt;br/&gt;&lt;br/&gt;There are many decision makers and constituencies in energy system planning, each of which may make decisions or influence decisions according to their own versions of the desired goals. This research builds and expands upon previous research in three key ways that permit a more robust sustainability assessment of future electricity systems, and incorporates social equity into the energy transition discussion. First, an electricity system expansion model is coupled with a system sustainability model and then examined to ask how increasing carbon constraints are likely to impact power system development, and how important regional cooperation is likely to be in achieving a fully decarbonized US electricity system. Second, social equity will be an integral part of the sustainability analysis framework, thus displaying how other facets of sustainability impede or support an equitable energy transition. Third, to illuminate the social equity trade-offs, how regional cooperation may impact job and price equity around the country will be investigated. This research will be a system sustainability analysis for the entire US that incorporates multiple metrics for social equity, while capturing impacts of integrating intermittent renewables in the grid. The PI will develop an open-source data analysis tool for electricity sustainability analysis, enriching the discussion and uncovering the interactions among sustainability criterion at a national scale. The social equity focused framework is targeted to facilitate national discussions about how energy transition will impact communities in the US. This framework may also help support planning for job recovery of those most affected by the retirement of fossil fuel generation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2017789</AwardID>
+<Investigator>
+<FirstName>Destenie</FirstName>
+<LastName>Nock</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Destenie S Nock</PI_FULL_NAME>
+<EmailAddress><![CDATA[dnock@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000814167</NSF_ID>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie Mellon University]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133890</ZipCode>
+<StreetAddress><![CDATA[5000 Forbes Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>764300</Code>
+<Text>EnvS-Environmtl Sustainability</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~399915</FUND_OBLG>
+<FUND_OBLG>2021~16000</FUND_OBLG>
+<FUND_OBLG>2022~16000</FUND_OBLG>
+<FUND_OBLG>2023~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Project Outcomes Report</strong></p> <p>This project aimed to create a framework that evaluates the trade-offs between economic, social, and environmental sustainability in U.S. decarbonization policies. As the U.S. moves toward renewable energy, it is crucial to ensure that the transition is not only environmentally sustainable but also socially equitable, meaning it benefits all communities, especially those who have historically been left out of the conversation.</p> <p><br /><strong>Intellectual Merit:</strong></p> <p><strong></strong>Our work developed a forward-looking model that helps policymakers and researchers analyze how different decarbonization pathways might impact air pollution, jobs, and costs across diverse communities. Most energy transition studies assess outcomes retroactively, but our model allows for proactive analysis, showing potential environmental and social impacts before decisions are made. This approach bridges a critical gap between environmental sustainability and social equity, providing a tool to ensure that the most vulnerable populations are considered in energy policy decisions.</p> <p>We created and analyzed eight unique scenarios for decarbonizing the U.S. electricity sector, each incorporating different policies such as carbon caps and renewable energy mandates. Our results show that, while all decarbonization strategies reduce overall greenhouse gas emissions, they do not equally benefit all communities. For example, our research revealed that low-income and minority groups could face higher concentrations of air pollutants in some scenarios, despite reductions in overall emissions.</p> <p><strong>Broader Impacts:</strong></p> <p><strong></strong>This project has significant implications for the fields of energy policy, urban planning, and social justice. By demonstrating the importance of considering social equity in energy transition plans, our research helps decision-makers identify solutions that are both sustainable and fair. One of our key findings is that equitable outcomes&mdash;such as reducing air pollution in vulnerable communities&mdash;are achievable when strict renewable energy mandates are implemented. However, trade-offs exist, and higher costs in some regions may be necessary to achieve broader equality in environmental benefits.</p> <p><br />Our work also contributed to the development of human resources by training two women graduate students and multiple undergraduate students in energy modeling, data analysis, and sustainability metrics. These students gained experience in cutting-edge research and contributed to papers that have been published in high-impact journals. Several students have gone on to prestigious internships and graduate programs, further expanding their knowledge in sustainable energy and social justice issues.</p> <p>Overall, this project has provided new tools and insights for balancing sustainability and equity in energy transitions, ensuring that future policies are better designed to meet the needs of all communities.</p><br> <p>  Last Modified: 10/23/2024<br> Modified by: Destenie&nbsp;S&nbsp;Nock</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2017789/2017789_10668774_1729659735013_racial_implications--rgov-214x142.png" original="/por/images/Reports/POR/2024/2017789/2017789_10668774_1729659735013_racial_implications--rgov-800width.png" title="Racial Disparities Under Decarbonization Plans"><img src="/por/images/Reports/POR/2024/2017789/2017789_10668774_1729659735013_racial_implications--rgov-66x44.png" alt="Racial Disparities Under Decarbonization Plans"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Air pollution disparities between racial groups persist unless strict technology mandates are met.</div> <div class="imageCredit">Teagan Goforth and Destenie Nock</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Destenie&nbsp;S&nbsp;Nock <div class="imageTitle">Racial Disparities Under Decarbonization Plans</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2017789/2017789_10668774_1729659634636_Census_air_pollution--rgov-214x142.png" original="/por/images/Reports/POR/2024/2017789/2017789_10668774_1729659634636_Census_air_pollution--rgov-800width.png" title="Air Pollution"><img src="/por/images/Reports/POR/2024/2017789/2017789_10668774_1729659634636_Census_air_pollution--rgov-66x44.png" alt="Air Pollution"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Here we show the air pollution analysis for key decarbonization scenarios. Our work highlights where air pollution emissions might settle.</div> <div class="imageCredit">Teagan Goforth and Destenie Nock</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Destenie&nbsp;S&nbsp;Nock <div class="imageTitle">Air Pollution</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Outcomes Report   This project aimed to create a framework that evaluates the trade-offs between economic, social, and environmental sustainability in U.S. decarbonization policies. As the U.S. moves toward renewable energy, it is crucial to ensure that the transition is not only environmentally sustainable but also socially equitable, meaning it benefits all communities, especially those who have historically been left out of the conversation.    Intellectual Merit:   Our work developed a forward-looking model that helps policymakers and researchers analyze how different decarbonization pathways might impact air pollution, jobs, and costs across diverse communities. Most energy transition studies assess outcomes retroactively, but our model allows for proactive analysis, showing potential environmental and social impacts before decisions are made. This approach bridges a critical gap between environmental sustainability and social equity, providing a tool to ensure that the most vulnerable populations are considered in energy policy decisions.   We created and analyzed eight unique scenarios for decarbonizing the U.S. electricity sector, each incorporating different policies such as carbon caps and renewable energy mandates. Our results show that, while all decarbonization strategies reduce overall greenhouse gas emissions, they do not equally benefit all communities. For example, our research revealed that low-income and minority groups could face higher concentrations of air pollutants in some scenarios, despite reductions in overall emissions.   Broader Impacts:   This project has significant implications for the fields of energy policy, urban planning, and social justice. By demonstrating the importance of considering social equity in energy transition plans, our research helps decision-makers identify solutions that are both sustainable and fair. One of our key findings is that equitable outcomessuch as reducing air pollution in vulnerable communitiesare achievable when strict renewable energy mandates are implemented. However, trade-offs exist, and higher costs in some regions may be necessary to achieve broader equality in environmental benefits.    Our work also contributed to the development of human resources by training two women graduate students and multiple undergraduate students in energy modeling, data analysis, and sustainability metrics. These students gained experience in cutting-edge research and contributed to papers that have been published in high-impact journals. Several students have gone on to prestigious internships and graduate programs, further expanding their knowledge in sustainable energy and social justice issues.   Overall, this project has provided new tools and insights for balancing sustainability and equity in energy transitions, ensuring that future policies are better designed to meet the needs of all communities.     Last Modified: 10/23/2024       Submitted by: DestenieSNock]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

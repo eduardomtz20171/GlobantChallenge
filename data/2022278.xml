@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CBET-EPSRC Efficient Surrogate Modeling for Sustainable Management of Complex Seawater Intrusion-Impacted Aquifers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>319950.00</AwardTotalIntnAmount>
+<AwardAmount>319950</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+<PO_EMAI>krockne@nsf.gov</PO_EMAI>
+<PO_PHON>7032927293</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Water management in densely populated coastal regions is one of the most pressing sustainability challenges worldwide. Coastal groundwater is especially vulnerable to climate change and sea level rise due to the potential for seawater intrusion into groundwater aquifers. Seawater intrusion has reduced water supply in all coastal regions of the US. This has resulted in high costs to society. Groundwater affected by seawater intrusion requires expensive desalination processes to be made drinkable, while irrigation water could be rendered unusable leading to the abandonment of farmland. Future climate projections suggest the problem of seawater intrusion will worsen. However, the scale of the problem is unclear, making it difficult to devise responses. While computer models of coastal groundwater aquifers can be useful for predicting seawater intrusion, these modeling efforts challenge the capability of even the fastest computers. We propose to address this challenge by developing models that are orders of magnitude faster than current models. This will allow for a much broader consideration of potential solutions. These modeling advances will be made in collaboration with water supply agencies, with the goal of increasing the utility of groundwater modeling for coastal communities. Successful development and adoption of these approaches will help agencies tasked with the protection of coastal aquifers devise sustainable management strategies to protect scarce water resources.&lt;br/&gt;&lt;br/&gt;Solutions to seawater intrusion problems involve combinations of more efficient pumping schemes, demand reduction, and technological interventions such as desalination. However, determining optimal solutions for these problems poses extreme computational demands. This project will greatly advance the development and application of simulation-optimization (SO) by developing computationally efficient, robust, and accurate surrogate models for coastal groundwater systems. The limited literature on SO and surrogate modeling in seawater intrusion problems has focused on simplified hydrogeological settings and mathematical representations of management strategies. However, realistic seawater intrusion problems involve hydrogeological complexities, including discrete lithological facies, faults and fractures, and saltwater-freshwater mixing zone dynamics. Solutions necessitate nonlinear objective functions and continuous and discrete decision variables, representing a wide range of engineering components. We hypothesize that these hydrogeologic and management features determine the building of accurate and efficient surrogates, and accurate surrogate SO models for seawater intrusion problems can be at least an order of magnitude faster than full-scale models. The reduction in computational effort will allow us to investigate a broader range of potential sea level rise and climate change impacts and a wider range of potential management responses to these impacts. To achieve this goal, the specific project objectives are to: i) develop SO test problems to provide robust evaluation of model surrogates; ii) formulate management objectives and constraints based on management of the test case aquifers, and identify scenarios relevant to the test cases; and iii) program, train, and evaluate the performance of ?data-driven? and ?model-driven? surrogates to identify optimal management schemes for the test case aquifers, a range of sea level rates, climatology, and groundwater demand scenarios.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022278</AwardID>
+<Investigator>
+<FirstName>Alex</FirstName>
+<LastName>Mayer</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alex S Mayer</PI_FULL_NAME>
+<EmailAddress><![CDATA[amayer2@utep.edu]]></EmailAddress>
+<NSF_ID>000262386</NSF_ID>
+<StartDate>02/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at El Paso]]></Name>
+<CityName>EL PASO</CityName>
+<ZipCode>799688900</ZipCode>
+<PhoneNumber>9157475680</PhoneNumber>
+<StreetAddress><![CDATA[500 W UNIVERSITY AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C1DEGMMKC7W7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF TEXAS AT EL PASO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>C1DEGMMKC7W7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at El Paso]]></Name>
+<CityName>El Paso</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>799680001</ZipCode>
+<StreetAddress><![CDATA[500 West University]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144000</Code>
+<Text>EnvE-Environmental Engineering</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~319950</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The overarching goal of the research is the sustainable management of water resources in coastal regions with diverse geological, hydro-technical and governance settings. Pressures on water resources in coastal regions are already great and are expected to intensify due to increasing populations, standards of living and impacts from climate change and sea level rise (SLR). We will focus on coastal areas where aquifer over-drafting has caused seawater intrusion (SWI), thus deteriorating groundwater quality, and where SLR is expected to further reduce availability of fresh groundwater. Solutions to these problems will involve combinations of more efficient pumping schemes, demand reduction, and technological interventions such as desalination. However, determining optimal solutions for these problems poses extreme computational demands. This project has advanced the development and application of simulation-optimization&nbsp; by developing computationally efficient, robust, and accurate surrogate models for coastal groundwater systems.</p>  <p>&nbsp;</p>  <p>We developed a variable density groundwater model using SEAWAT that couples fluid flow and solute transport to simulate a modified Henry&rsquo;s problem, by adding a single pumping well located in the central part of the aquifer &nbsp;and 2D heterogeneous hydraulic conductivity fields that are spatially correlated. For the most part, the response of state variables to pumping for the ensemble of realizations tends to group around the mean response of state variables to pumping. However, anomalous responses occur as a function of the lateral extent and vertical position of especially low or high hydraulic conductivity materials. We find that low hydraulic conductivity materials contrast greater than 10<sup>3</sup> of the geometric mean at vertical locations at the same location as the well and within 3 times the vertical correlation scale are especially prone to fingering that will produce well concentrations close to seawater. The sensitivity to vertical position is related to density effects and the anomalies are much greater for the total salinity in the aquifer (as opposed to well concentrations).</p>  <p>&nbsp;</p>  <p>We present a surrogate model for SWI stimulation by employing the proper orthogonal decomposition (POD) method, a projection-based technique. The finite difference method is applied to the PDEs, resulting in a system of linear equations with the size of the number of cells in the domain. In the POD approach, the coefficient matrix and right-hand side matrix, derived from the finite difference procedure, are mapped onto a reduced space. Instead of solving a large system of linear equations, a new, smaller system is created. The model yields results comparable to traditional methods, showcasing its efficacy in capturing the essential dynamics of density-dependent flow and solute transport. Moreover, while minor discrepancies exist, the overall computational gains outweigh these, emphasizing the model's ability to strike a balance between efficiency and accuracy. The POD-based reduced-order model makes it a cost-effective solution for simulating SWI in coastal aquifers. Moreover, its accuracy ensures reliable simulations while simplifying the computational complexity of variable-density flow dynamics.</p>  <p>&nbsp;</p>  <p>We developed an offline machine-learning (ML) algorithm that ranks candidate training points by scoring them based on their distance to the closest training point and on the local gradient of the surrogate estimate and then choosing the highest-rank point. This method is applied to develop surrogates for solving a two-objective groundwater pumping optimization problem formulated on a three-dimensional (3D) island aquifer, using hydrogeological conditions representative of San Salvador Island, Bahamas. The objectives are to minimize the supply cost resulting from groundwater pumping and desalination and maximize fresh groundwater supply, subject to constraints on seawater intrusion (SWI) control expressed in terms of aquifer drawdown at pumping locations and aquifer salt mass increase. Gaussian Process (GP) is applied to construct surrogates of objectives and constraints, alongside the estimation of uncertainties. The findings revealed that, compared to traditional training approaches the proposed strategy can generate more reliable optimal schemes and consume a lower computational cost.</p>  <p>&nbsp;</p>  <p>&nbsp;</p><br> <p>  Last Modified: 12/23/2024<br> Modified by: Alex&nbsp;S&nbsp;Mayer</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The overarching goal of the research is the sustainable management of water resources in coastal regions with diverse geological, hydro-technical and governance settings. Pressures on water resources in coastal regions are already great and are expected to intensify due to increasing populations, standards of living and impacts from climate change and sea level rise (SLR). We will focus on coastal areas where aquifer over-drafting has caused seawater intrusion (SWI), thus deteriorating groundwater quality, and where SLR is expected to further reduce availability of fresh groundwater. Solutions to these problems will involve combinations of more efficient pumping schemes, demand reduction, and technological interventions such as desalination. However, determining optimal solutions for these problems poses extreme computational demands. This project has advanced the development and application of simulation-optimization by developing computationally efficient, robust, and accurate surrogate models for coastal groundwater systems.        We developed a variable density groundwater model using SEAWAT that couples fluid flow and solute transport to simulate a modified Henrys problem, by adding a single pumping well located in the central part of the aquifer and 2D heterogeneous hydraulic conductivity fields that are spatially correlated. For the most part, the response of state variables to pumping for the ensemble of realizations tends to group around the mean response of state variables to pumping. However, anomalous responses occur as a function of the lateral extent and vertical position of especially low or high hydraulic conductivity materials. We find that low hydraulic conductivity materials contrast greater than 103 of the geometric mean at vertical locations at the same location as the well and within 3 times the vertical correlation scale are especially prone to fingering that will produce well concentrations close to seawater. The sensitivity to vertical position is related to density effects and the anomalies are much greater for the total salinity in the aquifer (as opposed to well concentrations).        We present a surrogate model for SWI stimulation by employing the proper orthogonal decomposition (POD) method, a projection-based technique. The finite difference method is applied to the PDEs, resulting in a system of linear equations with the size of the number of cells in the domain. In the POD approach, the coefficient matrix and right-hand side matrix, derived from the finite difference procedure, are mapped onto a reduced space. Instead of solving a large system of linear equations, a new, smaller system is created. The model yields results comparable to traditional methods, showcasing its efficacy in capturing the essential dynamics of density-dependent flow and solute transport. Moreover, while minor discrepancies exist, the overall computational gains outweigh these, emphasizing the model's ability to strike a balance between efficiency and accuracy. The POD-based reduced-order model makes it a cost-effective solution for simulating SWI in coastal aquifers. Moreover, its accuracy ensures reliable simulations while simplifying the computational complexity of variable-density flow dynamics.        We developed an offline machine-learning (ML) algorithm that ranks candidate training points by scoring them based on their distance to the closest training point and on the local gradient of the surrogate estimate and then choosing the highest-rank point. This method is applied to develop surrogates for solving a two-objective groundwater pumping optimization problem formulated on a three-dimensional (3D) island aquifer, using hydrogeological conditions representative of San Salvador Island, Bahamas. The objectives are to minimize the supply cost resulting from groundwater pumping and desalination and maximize fresh groundwater supply, subject to constraints on seawater intrusion (SWI) control expressed in terms of aquifer drawdown at pumping locations and aquifer salt mass increase. Gaussian Process (GP) is applied to construct surrogates of objectives and constraints, alongside the estimation of uncertainties. The findings revealed that, compared to traditional training approaches the proposed strategy can generate more reliable optimal schemes and consume a lower computational cost.             Last Modified: 12/23/2024       Submitted by: AlexSMayer]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

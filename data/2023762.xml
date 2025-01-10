@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CHS: Small: Computational Modeling of Human Rhythms to Improve Health and Quality of Life]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/17/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>448237.00</AwardTotalIntnAmount>
+<AwardAmount>480237</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>According to recent research, balance is a significant contributor to health and well-being. Health challenges are associated with work and personal imbalances, in the form of overload, that exceed human capability to manage their own natural pace. Part of these overloads are due to the imposition of activities and mis-timed or incompatible demands on biological and psychological needs, or lack of attention to synchronization or receptivity of mental and physical states when meeting work and life demands. Advice about life management and health is often generic (for example, have 8 hours sleep a day) rather than tailored to individual lifestyles. This research proposes to improve health and wellbeing in individuals through awareness of their personal rhythms, which are repeated cycles of internal and external events including biological, mental, social, and environmental. The investigators seek to design and evaluate a data analytic and modeling method to make people aware of what they could be doing at any given time to align with their biological clock and to achieve high performance in daily life and work without burning out or developing stress-related disorders. &lt;br/&gt;&lt;br/&gt;The research provides an intelligent platform for collecting longitudinal data and modeling human rhythms to enable detection of current, and prediction of future states in each rhythm to provide optimal action recommendations and interventions. The work leverages advances in wearable devices, sensing technology, and online sources to proactively collect and analyze physiological, psychological, behavioral, social, and environmental data to identify personal rhythms, to explore their relationship to positive physical, mental, and behavioral outcomes, and to provide people with tools to reason about these relationships and to improve outcomes. In addition to advancing the state of the art in modeling rhythmic patterns, the research will demonstrate the impact of rhythm-aware technology in changing people?s perceptions and behavior and directing them towards a more balanced and successful life. Integration of personal rhythms in daily lives of individuals will transform societal activities and the overall performance of people and contributes to creating a healthier society.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/24/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2023762</AwardID>
+<Investigator>
+<FirstName>Afsaneh</FirstName>
+<LastName>Doryab</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Afsaneh Doryab</PI_FULL_NAME>
+<EmailAddress><![CDATA[ad4ks@virginia.edu]]></EmailAddress>
+<NSF_ID>000704586</NSF_ID>
+<StartDate>05/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress><![CDATA[1001 EMMET ST N]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Rector & Visitors of the University of Virginia]]></Name>
+<CityName>Charlottesville</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229034833</ZipCode>
+<StreetAddress><![CDATA[1001 N. Emmet St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736700</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~448237</FUND_OBLG>
+<FUND_OBLG>2019~16000</FUND_OBLG>
+<FUND_OBLG>2021~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-3246295a-7fff-3094-16ff-ebc1d00c26ac"> </span></p> <p dir="ltr"><span><strong>Project Overview</strong>: <span id="docs-internal-guid-9ba3aafb-7fff-cda7-70d7-03636480ebc0"><span><span id="docs-internal-guid-9b0cb345-7fff-d0fa-5474-6d63b7cf258e"><span>The project aimed to improve people's health and well-being by raising their awareness of biobehavioral rhythms, which include biological, mental, social, and environmental cycles. This research used mobile and wearable devices to gather, model, and analyze multimodal sensor data. The goal was to gain a better understanding of human rhythms and their effects on health, well-being, and performance.</span></span></span></span></span></p> <p dir="ltr"><strong>Key Objectives and Achievements:</strong></p> <p dir="ltr"><strong>1 -&nbsp;<span id="docs-internal-guid-51c76757-7fff-244e-4bfb-eb422ed2db53"><span>Develop an Intelligent Platform for Modeling Analyzing Biobehavioral Rhythms:&nbsp;</span></span></strong><span id="docs-internal-guid-51c76757-7fff-244e-4bfb-eb422ed2db53"><span id="docs-internal-guid-7d4d235f-7fff-e81b-2cfd-34ce0f6bd66d">A computational framework (CoRhythmo) was created to process diverse sensor data streams, identify periodic characteristics, and build micro machine learning models for sensor features<sup>1</sup>. CoRhythmo sheds light on the connections between biobehavioral rhythms, mental health, and productivity. An extensive multimodal dataset on biobehavioral rhythms was also generated, enabling the examination of various cyclic patterns. Both software and dataset are accessible on GitHub<sup>2</sup><span>.</span></span></span></p> <p><strong>2 - Advance the Understanding of Biobehavioral Rhythms:&nbsp;</strong><span id="docs-internal-guid-d852781b-7fff-992b-b26e-2446b11ddeab">The research uncovered various cyclic behaviors&rsquo; impact on human health and performance. Innovative methods measured rhythm stability and correlated regular behavioral patterns with resilience and productivity<sup>3,8</sup>. Significant disruptions in biobehavioral rhythms were found in cancer patients, and machine learning models using rhythm features outperformed traditional medical measures in predicting readmission rates<sup>4</sup>. The project also made strides in mental health prediction by identifying recurring behavior patterns in college students<sup>1,5</sup>. These findings highlight the potential of mobile and wearable technology in modeling human behavior.</span></p> <p><strong>3 - Integrate Rhythm-awareness into Technology for Behavior Improvement:&nbsp;</strong>Personalized music melodies were developed based on sensor data to communicate biobehavioral patterns, leading to positive behavior changes. We also explored circadian-based scheduling approaches, which resulted in improved wellbeing when participants adhered to circadian schedules<span><sup>6,7</sup></span>.</p> <p><strong>Disciplinary Imapct:&nbsp;</strong>The project introduced a flexible computational framework within the Ubiquitous Computing community, allowing for the observation of short- and long-term cyclic behaviors and impact assessment. It also generated the first-ever longitudinal mobile and wearable dataset focused on biobehavioral rhythms, benefiting research in Human-Centered Computing and related fields. The resulting software and dataset are shared with the research community to promote collaboration and further advancements in the study of biobehavioral rhythms.</p> <p dir="ltr"><span><strong>Impact on Other Disciplines:</strong>&nbsp;<span id="docs-internal-guid-c5ad160d-7fff-55a8-4790-bb1968978ca5"><span><span id="docs-internal-guid-8d19abd4-7fff-d2a0-2881-6ac6c86bdeac">The computational framework and methods we have developed have significant implications for psychology, behavioral science, and medicine. For instance, our research on biobehavioral rhythms in cancer patients has uncovered disruptions during treatment, particularly in hospitals, and their correlation with readmission after discharge<sup>4</sup>. These findings have led to new interdisciplinary collaborations.</span></span></span></span></p> <p dir="ltr"><span><strong>Impact on Human Resources:</strong> The project provided valuable training to more than 30 graduate and undergraduate students (17 female), enhancing their skills in critical thinking, research design, data analysis, and collaboration. These skills are essential for their future careers in academia and industry.&nbsp;</span></p> <p dir="ltr"><span id="docs-internal-guid-3555ec1e-7fff-80d4-10db-36eddca6ce2f"><strong>Impact on Technology Transfer</strong>:&nbsp;<span id="docs-internal-guid-0ba04e9d-7fff-6bbc-562d-d318d5ae0116"><span>The research has advanced our understanding of biobehavioral rhythms and their impact on health and wellbeing. It has also opened the door for technology transfer and industry collaborations, showcasing the potential for real-world applications to enhance lives through rhythm-aware technology. New partnerships have been formed to transfer the technology developed in this project to hospital care, dementia care, and employee wellness programs.</span></span></span></p> <p dir="ltr"><strong>Selected Publications and products:</strong></p> <p dir="ltr">1.&nbsp;Yan, R., Liu, X., Dutcher, J., Tumminia, M., Villalba, D., Cohen, S., ... &amp; Doryab, A. (2022). A computational framework for modeling biobehavioral rhythms from mobile and wearable data streams.&nbsp;<em>ACM Transactions on Intelligent Systems and Technology (TIST)</em>,&nbsp;<em>13</em>(3), 1-27.</p> <p dir="ltr">2.&nbsp;https://github.com/HAI-lab-UVA</p> <p dir="ltr">3.&nbsp;<span id="docs-internal-guid-4db677b0-7fff-09ee-89e8-38d538b2cef6">Gao, J., Yan, R. &amp; Doryab A. (2023). Modeling Regularity and Predictability in Human Behavior from Multidimensional Sensing Signals and Personal Characteristics. Proceedings of 22nd International Conference in Machine Learning and Applications.&nbsp;</span></p> <p dir="ltr">4. Doryab, A., Dey, A. K., Kao, G., &amp; Low, C. (2019). Modeling biobehavioral rhythms with passive sensing in the wild: a case study to predict readmission risk after pancreatic surgery.&nbsp;<em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</em>,&nbsp;<em>3</em>(1), 1-21.</p> <p dir="ltr">5. Doryab, A., Villalba, D. K., Chikersal, P., Dutcher, J. M., Tumminia, M., Liu, X., ... &amp; Dey, A. K. (2019). Identifying behavioral phenotypes of loneliness and social isolation with passive sensing: statistical analysis, data mining and machine learning of smartphone and fitbit data.&nbsp;<em>JMIR mHealth and uHealth</em>,&nbsp;<em>7</em>(7), e13209.</p> <p dir="ltr">6. Clark, M., &amp; Doryab, A. (2023). Sounds of Health: Using Personalized Sonification Models to Communicate Health Information.&nbsp;<em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</em>,&nbsp;<em>6</em>(4), 1-31.</p> <p dir="ltr">7. Clark, M., &amp; Doryab, A. (2024). Changing Your Tune: Lessons for Using Music to Encourage Physical Activity.&nbsp;<em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</em>,&nbsp;<em>6</em>(4), 1-31.</p> <p dir="ltr"><span>8. Yan, R., Liu, X., Dutcher, J. M., Tumminia, M. J., Villalba, D., Cohen, S., ... &amp; Doryab, A. (2024). Identifying Links Between Productivity and Biobehavioral Rhythms Modeled From Multimodal Sensor Streams: Exploratory Quantitative Study.&nbsp;</span><em>JMIR AI</em><span>,&nbsp;</span><em>3</em><span>, e47194.</span></p> <p>9.&nbsp;Doryab, A., Yan, R., &amp; Liu, X. (2022).&nbsp;<em>U.S. Patent Application No. 17/398,097</em>.</p> <p dir="ltr">&nbsp;</p><br> <p>  Last Modified: 08/09/2024<br> Modified by: Afsaneh&nbsp;Doryab</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      Project Overview: The project aimed to improve people's health and well-being by raising their awareness of biobehavioral rhythms, which include biological, mental, social, and environmental cycles. This research used mobile and wearable devices to gather, model, and analyze multimodal sensor data. The goal was to gain a better understanding of human rhythms and their effects on health, well-being, and performance.   Key Objectives and Achievements:   1 -Develop an Intelligent Platform for Modeling Analyzing Biobehavioral Rhythms:A computational framework (CoRhythmo) was created to process diverse sensor data streams, identify periodic characteristics, and build micro machine learning models for sensor features1. CoRhythmo sheds light on the connections between biobehavioral rhythms, mental health, and productivity. An extensive multimodal dataset on biobehavioral rhythms was also generated, enabling the examination of various cyclic patterns. Both software and dataset are accessible on GitHub2.   2 - Advance the Understanding of Biobehavioral Rhythms:The research uncovered various cyclic behaviors impact on human health and performance. Innovative methods measured rhythm stability and correlated regular behavioral patterns with resilience and productivity3,8. Significant disruptions in biobehavioral rhythms were found in cancer patients, and machine learning models using rhythm features outperformed traditional medical measures in predicting readmission rates4. The project also made strides in mental health prediction by identifying recurring behavior patterns in college students1,5. These findings highlight the potential of mobile and wearable technology in modeling human behavior.   3 - Integrate Rhythm-awareness into Technology for Behavior Improvement:Personalized music melodies were developed based on sensor data to communicate biobehavioral patterns, leading to positive behavior changes. We also explored circadian-based scheduling approaches, which resulted in improved wellbeing when participants adhered to circadian schedules6,7.   Disciplinary Imapct:The project introduced a flexible computational framework within the Ubiquitous Computing community, allowing for the observation of short- and long-term cyclic behaviors and impact assessment. It also generated the first-ever longitudinal mobile and wearable dataset focused on biobehavioral rhythms, benefiting research in Human-Centered Computing and related fields. The resulting software and dataset are shared with the research community to promote collaboration and further advancements in the study of biobehavioral rhythms.   Impact on Other Disciplines:The computational framework and methods we have developed have significant implications for psychology, behavioral science, and medicine. For instance, our research on biobehavioral rhythms in cancer patients has uncovered disruptions during treatment, particularly in hospitals, and their correlation with readmission after discharge4. These findings have led to new interdisciplinary collaborations.   Impact on Human Resources: The project provided valuable training to more than 30 graduate and undergraduate students (17 female), enhancing their skills in critical thinking, research design, data analysis, and collaboration. These skills are essential for their future careers in academia and industry.   Impact on Technology Transfer:The research has advanced our understanding of biobehavioral rhythms and their impact on health and wellbeing. It has also opened the door for technology transfer and industry collaborations, showcasing the potential for real-world applications to enhance lives through rhythm-aware technology. New partnerships have been formed to transfer the technology developed in this project to hospital care, dementia care, and employee wellness programs.   Selected Publications and products:   1.Yan, R., Liu, X., Dutcher, J., Tumminia, M., Villalba, D., Cohen, S., ... & Doryab, A. (2022). A computational framework for modeling biobehavioral rhythms from mobile and wearable data streams.ACM Transactions on Intelligent Systems and Technology (TIST),13(3), 1-27.   2.https://github.com/HAI-lab-UVA   3.Gao, J., Yan, R. & Doryab A. (2023). Modeling Regularity and Predictability in Human Behavior from Multidimensional Sensing Signals and Personal Characteristics. Proceedings of 22nd International Conference in Machine Learning and Applications.   4. Doryab, A., Dey, A. K., Kao, G., & Low, C. (2019). Modeling biobehavioral rhythms with passive sensing in the wild: a case study to predict readmission risk after pancreatic surgery.Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies,3(1), 1-21.   5. Doryab, A., Villalba, D. K., Chikersal, P., Dutcher, J. M., Tumminia, M., Liu, X., ... & Dey, A. K. (2019). Identifying behavioral phenotypes of loneliness and social isolation with passive sensing: statistical analysis, data mining and machine learning of smartphone and fitbit data.JMIR mHealth and uHealth,7(7), e13209.   6. Clark, M., & Doryab, A. (2023). Sounds of Health: Using Personalized Sonification Models to Communicate Health Information.Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies,6(4), 1-31.   7. Clark, M., & Doryab, A. (2024). Changing Your Tune: Lessons for Using Music to Encourage Physical Activity.Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies,6(4), 1-31.   8. Yan, R., Liu, X., Dutcher, J. M., Tumminia, M. J., Villalba, D., Cohen, S., ... & Doryab, A. (2024). Identifying Links Between Productivity and Biobehavioral Rhythms Modeled From Multimodal Sensor Streams: Exploratory Quantitative Study.JMIR AI,3, e47194.   9.Doryab, A., Yan, R., & Liu, X. (2022).U.S. Patent Application No. 17/398,097.        Last Modified: 08/09/2024       Submitted by: AfsanehDoryab]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

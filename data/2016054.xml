@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Deconstructing the contributions of muscle intrinsic mechanics to control of locomotion using a novel Muscle Avatar approach]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>551791.00</AwardTotalIntnAmount>
+<AwardAmount>558287</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Miriam Ashley-Ross</SignBlockName>
+<PO_EMAI>mashleyr@nsf.gov</PO_EMAI>
+<PO_PHON>7032924997</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Moving animals achieve impressive athletic feats of endurance, speed, and agility in complex environments. Animal locomotion is particularly impressive in contrast to that of human-engineered machines. The stability, agility and energy economy of current robots, prostheses and exoskeletons remains poor compared to animals. This pronounced gap between animal performance and technology stems, in part, from fundamental gaps in the understanding of muscle physiology and mechanical function. Muscle is the only actively controlled tissue in animal musculoskeletal systems, and therefore plays a central role in enabling and controlling movement. Yet, developments over the past 20 years have led to growing recognition that important problems in muscle physiology and movement sciences remain unsolved and the theoretical foundation of the field remains incomplete. In particular, the ability to model and predict muscle function under dynamic and perturbed locomotor conditions remains poor. This project will combine innovative experimental techniques with modeling approaches to develop new muscle models that can explain and predict muscle movement under a broad range of conditions.  The findings have potential to transform numerous fields— enabling neuroscientists, biologists, clinicians and biomedical engineers to ask questions about human and animal behavior, control of motion, function of muscles and bones, and capacity of the nervous system and muscles to change. The research team will collaborate with colleagues in clinical and engineering fields to translate the findings into applications in human rehabilitation, treatment of disease and injury, and the design and control of assistive technology such as prosthetics and exoskeleton devices.&lt;br/&gt;&lt;br/&gt;In the field of animal neuromechanics, a pronounced gap exists between ‘top down’ approaches — those that focus on whole-animal behavior but lack insight into underlying mechanisms— vs ‘bottom-up’ approaches — those that characterize mechanisms but lack insight into their contributions to animal behavior. The team will develop new tools to bridge this gap: 1) predictive muscle models that include intrinsic viscoelastic properties; and 2) experimental approaches that integrate across levels. This project’s novel ‘muscle avatar’ approach will help bridge this gap, and enable rigorous analysis of intrinsic muscle property and neural activation contributions to control of locomotion. Aim 1 tests the ability of the muscle avatar approach to replicate steady and perturbed in vivo work loop patterns in mouse and guinea fowl muscles. In Aim 2, in vivo muscle strain, activation, and force will be measured during steady and perturbed running in guinea fowl muscles, and the muscle avatar will be used to quantitatively assess how intrinsic muscle properties and neural drive each contribute to stabilizing responses. In Aim 3, alternative muscle models will be developed, and the ability of each model to predict in vivo muscle function in high strain and perturbed contraction conditions will be compared. Computationally tractable muscle models are essential for closed loop neuromechanical simulations of locomotion, which are increasingly used to understand how muscle function and sensorimotor control change in response to aging, injury and neuromuscular disorders. The findings could inform clinical rehabilitation strategies and the design of assistive devices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/10/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016054</AwardID>
+<Investigator>
+<FirstName>Kiisa</FirstName>
+<LastName>Nishikawa</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kiisa C Nishikawa</PI_FULL_NAME>
+<EmailAddress><![CDATA[kiisa.nishikawa@nau.edu]]></EmailAddress>
+<NSF_ID>000188886</NSF_ID>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northern Arizona University]]></Name>
+<CityName>FLAGSTAFF</CityName>
+<ZipCode>86011</ZipCode>
+<PhoneNumber>9285230886</PhoneNumber>
+<StreetAddress><![CDATA[601 S KNOLES DR RM 220]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MXHAS3AKPRN1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHERN ARIZONA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northern Arizona University]]></Name>
+<CityName>Flagstaff</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>860110001</ZipCode>
+<StreetAddress><![CDATA[617 S Beaver]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>765800</Code>
+<Text>Physiol Mechs &amp; Biomechanics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~551791</FUND_OBLG>
+<FUND_OBLG>2023~6496</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Moving animals achieve impressive athletic feats of endurance, speed, and agility in complex environments. A pronounced gap exists in understanding of animal neuromechanics, between &lsquo;top down&rsquo; approaches &ndash; that focus on whole-animal behavior but lack insight into underlying mechanisms, vs &lsquo;bottom-up&rsquo; approaches &ndash; that characterize neuromuscular mechanisms but lack insight into their contributions to whole-animal behavior. This award developed new tools to bridge this gap: 1) computationally tractable muscle models that include intrinsic viscoelastic properties; and 2) experimental approaches that integrate across levels. This award developed novel &lsquo;avatar&rsquo; approach for ex vivo work loop experiments that enables dissection of the contributions of intrinsic and neural factors to control of animal locomotion. The approach combines&nbsp;in vivo&nbsp;measures of muscle strain, activation and force during steady and perturbed running with novel&nbsp;ex vivo&nbsp;experiments in muscles from laboratory mice, in which&nbsp;in vivo&nbsp;strain trajectories and activation timing serve as inputs to work loop experiments on&nbsp;ex vivo&nbsp;and&nbsp;in situ&nbsp;muscles, with force and work as measured outputs. Published results demonstrate that an&nbsp;ex vivo avatar using muscles from laboratory mice reproduces&nbsp;in vivo&nbsp;work loops measured from steady and perturbed walking, trotting, running and galloping in guinea fowl and laboratory rats. The avatar allows manipulation of&nbsp;in vivo&nbsp;patterns to dissect the contributions of strain and activation to force output. Preliminary data suggest that, due to differences between ex vivo and in situ experiments, the ex vivo mouse extensor digitorum longus avatar does as well at predicting in vivo muscle forces as the in situ guinea fowl lateral gastrocnemius validating the muscle avatar technique. In ongoing work, we developed and tested alternative muscle models, comparing the ability of Hill-type and titin-clutch models to predict&nbsp;in vivo&nbsp;muscle dynamics. Recently, system identification to estimate how muscle stiffness and damping constants depend on muscle length and activation. The results demonstrated that the muscle viscoelastic response is well predicted by two Kelvin-Voigt elements in series. we are in the process of incorporating these results into the evolving titin inspired muscle models.</p> <p>The results to date demonstrate that when ex vivo muscles from laboratory rodents are subjected to in vivo strain and activation patterns from other organisms, their pattern of force production is more similar to in vivo muscle forces than predictions of Hill-type muscle models given the same strain and activation inputs. This observation suggests that strain transients associated with changes in load, for example when the foot hits the ground, are important determinants of muscle force production. The effects of these transients on muscle force are not predicted by traditional muscle models and are<br />often omitted from ex vivo work loop experiments due to over-smoothing of the input data. The results support a paradigm shift in muscle mechanics from the view of muscles-as-motors to the view of muscles as active materials, in which activation tunes muscle viscoelastic properties but resistance to deformation determines the actual force produced. These results have significant implications for understanding muscle mechanics during in vivo locomotion.</p> <p>The completed work has significant potential for clinical and engineering applications, in terms of diagnosis and rehabilitation strategies for neuromuscular disease and injury, for engineering applications in actuator design and control of wearable assistive devices, and for the design of artificial muscles. From this award, even undergraduate students, two biology doctoral students, one bioengineering doctoral student and on biology MS student received opportunities for professional development, including research experience, research training, participation in international professional conferences, and mentoring in writing, presentation skills, and data analysis. Results were integrated into graduate and undergraduate courses at Northern Arizona University. The results were disseminated to broad audiences through standard mechanisms of publication (10 papers total) and diverse public media, as well as participation in interdisciplinary conferences in engineering, biomechanics, and physiology (32 presentations total).&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 11/04/2024<br> Modified by: Kiisa&nbsp;C&nbsp;Nishikawa</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Moving animals achieve impressive athletic feats of endurance, speed, and agility in complex environments. A pronounced gap exists in understanding of animal neuromechanics, between top down approaches  that focus on whole-animal behavior but lack insight into underlying mechanisms, vs bottom-up approaches  that characterize neuromuscular mechanisms but lack insight into their contributions to whole-animal behavior. This award developed new tools to bridge this gap: 1) computationally tractable muscle models that include intrinsic viscoelastic properties; and 2) experimental approaches that integrate across levels. This award developed novel avatar approach for ex vivo work loop experiments that enables dissection of the contributions of intrinsic and neural factors to control of animal locomotion. The approach combinesin vivomeasures of muscle strain, activation and force during steady and perturbed running with novelex vivoexperiments in muscles from laboratory mice, in whichin vivostrain trajectories and activation timing serve as inputs to work loop experiments onex vivoandin situmuscles, with force and work as measured outputs. Published results demonstrate that anex vivo avatar using muscles from laboratory mice reproducesin vivowork loops measured from steady and perturbed walking, trotting, running and galloping in guinea fowl and laboratory rats. The avatar allows manipulation ofin vivopatterns to dissect the contributions of strain and activation to force output. Preliminary data suggest that, due to differences between ex vivo and in situ experiments, the ex vivo mouse extensor digitorum longus avatar does as well at predicting in vivo muscle forces as the in situ guinea fowl lateral gastrocnemius validating the muscle avatar technique. In ongoing work, we developed and tested alternative muscle models, comparing the ability of Hill-type and titin-clutch models to predictin vivomuscle dynamics. Recently, system identification to estimate how muscle stiffness and damping constants depend on muscle length and activation. The results demonstrated that the muscle viscoelastic response is well predicted by two Kelvin-Voigt elements in series. we are in the process of incorporating these results into the evolving titin inspired muscle models.   The results to date demonstrate that when ex vivo muscles from laboratory rodents are subjected to in vivo strain and activation patterns from other organisms, their pattern of force production is more similar to in vivo muscle forces than predictions of Hill-type muscle models given the same strain and activation inputs. This observation suggests that strain transients associated with changes in load, for example when the foot hits the ground, are important determinants of muscle force production. The effects of these transients on muscle force are not predicted by traditional muscle models and are often omitted from ex vivo work loop experiments due to over-smoothing of the input data. The results support a paradigm shift in muscle mechanics from the view of muscles-as-motors to the view of muscles as active materials, in which activation tunes muscle viscoelastic properties but resistance to deformation determines the actual force produced. These results have significant implications for understanding muscle mechanics during in vivo locomotion.   The completed work has significant potential for clinical and engineering applications, in terms of diagnosis and rehabilitation strategies for neuromuscular disease and injury, for engineering applications in actuator design and control of wearable assistive devices, and for the design of artificial muscles. From this award, even undergraduate students, two biology doctoral students, one bioengineering doctoral student and on biology MS student received opportunities for professional development, including research experience, research training, participation in international professional conferences, and mentoring in writing, presentation skills, and data analysis. Results were integrated into graduate and undergraduate courses at Northern Arizona University. The results were disseminated to broad audiences through standard mechanisms of publication (10 papers total) and diverse public media, as well as participation in interdisciplinary conferences in engineering, biomechanics, and physiology (32 presentations total).        Last Modified: 11/04/2024       Submitted by: KiisaCNishikawa]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

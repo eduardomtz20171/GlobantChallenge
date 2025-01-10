@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Developing in operando structure-property-function guidelines for small molecule organic electron acceptors and its implication on device performance and charge carrier mobility]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>403070.00</AwardTotalIntnAmount>
+<AwardAmount>403070</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carole Read</SignBlockName>
+<PO_EMAI>cread@nsf.gov</PO_EMAI>
+<PO_PHON>7032922418</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Organic photovoltaic (OPV) technology has the potential for significant economic impact due to unique features such as flexibility, low weight, and short energy payback time (i.e. the time needed to produce the energy that was required for its production). To achieve greater commercial application, OPVs need to overcome technology challenges in efficiency, stability, durability, and safe and sustainable production.   This project will investigate the processes responsible for the limited lifetime and efficiency of OPVs under operating conditions. These studies will be carried out using a suite of in-house and synchrotron diffraction and spectroscopy tools coupled with device fabrication. The project team will engage the Salt Lake City community in energy and organic electronic topics through an innovative education and outreach effort involving high school teachers. Also, the project team will provide professional mentoring and short research activities in STEM to economically disadvantaged young female students in the Valley through the Young &amp; WISE (Women in Science and Engineering) outreach effort.&lt;br/&gt;&lt;br/&gt;The rational design and investigation of the physical and chemical properties of well-controlled non-fullerene electron acceptors are critical for enabling high efficiency, flexible, and solution processable organic photovoltaics (OPVs). Although, power conversion efficiencies are approaching 15% for OPVs comprising a p-type donor polymer and an n-type small molecule acceptor in a conventional bulk-heterojunction architecture, there are still major fundamental knowledge gaps (i.e., morphology changes, appropriate donor-acceptor coupling, energy level mismatches) that impede their accelerated development and commercialization. Furthermore, there is little to no fundamental knowledge on how morphology, donor-acceptor interfaces, energy level alignments, and device characteristics evolve under operando conditions and bias stress effects. In this fundamental research project, the research team will 1) design a model system based on thionated contorted quaternary perylene diimide propellers as efficient electron acceptors; 2) develop diffraction and spectroscopy characterization approaches to elucidate energy level alignment, molecular orientation, and morphology of electron acceptors when interfaced with other molecules under operating conditions; and 3) investigate exciton interactions and spin processes that could enhance power conversion efficiencies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016191</AwardID>
+<Investigator>
+<FirstName>Luisa</FirstName>
+<LastName>Whittaker-Brooks</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luisa Whittaker-Brooks</PI_FULL_NAME>
+<EmailAddress><![CDATA[luisa.whittaker@utah.edu]]></EmailAddress>
+<NSF_ID>000681879</NSF_ID>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>Salt Lake City</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841128930</ZipCode>
+<StreetAddress><![CDATA[75 S 2000 E]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>764400</Code>
+<Text>EchemS-Electrochemical Systems</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~403070</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>During our funding period, we trained 3 PhD students and 2 undergraduate researchers who published 8 manuscripts in high-impact factor journals and a journal cover (<strong>Figure 1</strong>). From a research perspective, we developed structure-property relationships to understand how morphology, carrier mobility, and device performance are affected as a function of doping in n-type organic small molecules. &nbsp;We described the unique properties of self-n-doped perylene diimides (PDIs), delineated structure-function relationships, and investigated the performance of self-n-doped PDIs when assembled into devices. In particular, we focused on the impact of the incorporation of amine/ammonium functional groups into the PDI scaffold on doping efficiency regarding attachment mode, tether distance, counterion selection, and steric encumbrance. Self-n-doped PDIs are a unique set of PDI structural derivatives whose properties are amenable to various applications such as biochemistry, solar energy conversion, thermoelectric modules, batteries, and photocatalysis. We were able to conceive synthesis and characterization procedures to fabricate thionated PDIs and thionated contorted quaternary PDI propellers. We have taken a modular approach to understanding the impact of functionalization on thin-film structure and device properties, independently tuning the solubilizing groups and peripheral aromatic substituents. We have found that thionation and the addition of branched groups at the bay position of the PDI molecule promote enhanced crystallinity and high photocurrents, yielding devices with power-conversion efficiencies exceeding 8%. We know that the efficiencies can be easily increased given that replacing C=O for C=S (thionation) as well as the addition of pendant functional groups are efficient at breaking up edge-to-face aggregation, which is critical to fabricating continuous and pinhole-free thin films thus, enhancing short-circuit current density in devices. Further device improvements are seen for acceptor derivatives that also increase the overall &pi;-surface of the molecule (in part due to increasing strong absorption through the visible spectrum). Further, the best results are found where the solubilizing substituents yield materials that crystallize only upon thermal annealing of the bulk-heterojunction active layer, which likely provides the most appropriate phase separation and domain sizes.</p> <p>Given that we can obtain molecules that are 130% doped with no morphological disruptions, we investigated spin formations in both thin films and in solutions to enable the tuning of radicals and biradical formation upon changing the concentration of our doped PDIs (<strong>Figure 2</strong>).</p> <p>Moreover, direct thermal activation of dopants in organic small molecules is very challenging. The free energy change for charge transfer &Delta;<em>G</em><sub>CT</sub>&nbsp;from an amine donor to a neutral PDI acceptor is &sim;+1.4 eV in the solid state, which is a barrier that far exceeds the &sim;25-40 meV thermal excitation present when annealing samples, leading us to propose a secondary pathway involving sample decomposition. In testing a series of n-doped PDIs, we have identified numerous examples of dopants that both do and do not degrade yet still show a marked increase in electronic doping even when degradation does not occur. Chemical structures for a selection of these compounds are shown in&nbsp;<strong>Figure 3A</strong>. Absorption spectra for these compounds collected before and after thermal annealing at 120 <sup>o</sup>C under an inert atmosphere are shown in&nbsp;<strong>Figure 3B</strong>, which shows the conversion of the ground state species (415-570 nm) to the radical anion (570-1100 nm) following annealing. Doping occurs for all compounds in this series following thermal annealing and is most pronounced in B6OH and D6OH. X-ray photoelectron spectroscopy (XPS) spectra of the nitrogen edge collected before and after annealing are shown in&nbsp;<strong>Figure 3C</strong>. Both A6OH and B6OH show signs of amine degradation, but C6OH and D6OH are stable. From this data, we are able to conclude that degradation is thus an intrinsic property to the structural motif of the dopant in question, with certain structures being more prone to dealkylation. Instead of degradation, the increase in doping observed upon annealing is related to the residual presence of solvent. Absorption spectra of A2I measured in both DMF and water are shown in&nbsp;<strong>Figure 3D.</strong> In water, the PDIs form H-aggregates and all remain in their neutral state. In DMF, monomers are present and radical anions easily form, as evidenced by the characteristic radical peak at 700 nm. We also observed solvent selection during thin film processing which affected radical anion formation. Methanol residue completely suppressed radical anion formation, while methanol/water mixtures favored radical anion formation following annealing. Additionally, thermal activation may reduce the energy gap between the HOMO and HOMO&minus;1, shown in&nbsp;<strong>Fig. 3E&nbsp;</strong>to promote photoinduced electron transfer.</p> <p>In terms of broader impacts, our outreach program included research participation of underrepresented parties via the ACS project SEED and the L'Oreal Changing the Face of STEM programs as well as demonstrations and research talks to local high schools on how organic electronics can contribute to the urge societal plea for more sustainable energy technologies.</p><br> <p>  Last Modified: 10/29/2024<br> Modified by: Luisa&nbsp;Whittaker-Brooks</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2016191/2016191_10675485_1730225934887_Figure_1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2016191/2016191_10675485_1730225934887_Figure_1--rgov-800width.png" title="Figure 1"><img src="/por/images/Reports/POR/2024/2016191/2016191_10675485_1730225934887_Figure_1--rgov-66x44.png" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 1. Front cover for our work on doped organic semiconductors highlighted in Advanced Materials.</div> <div class="imageCredit">Daniel Powell and Ella Maru</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Luisa&nbsp;Whittaker-Brooks <div class="imageTitle">Figure 1</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2016191/2016191_10675485_1730226021129_Figure_2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2016191/2016191_10675485_1730226021129_Figure_2--rgov-800width.png" title="Figure 2"><img src="/por/images/Reports/POR/2024/2016191/2016191_10675485_1730226021129_Figure_2--rgov-66x44.png" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2. Radical and biradical formation are dependent on the concentration of self-n-doped PDIs as evidenced by performing EPR studies.</div> <div class="imageCredit">Daniel Powell</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Luisa&nbsp;Whittaker-Brooks <div class="imageTitle">Figure 2</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2016191/2016191_10675485_1730226167418_Figure_3--rgov-214x142.png" original="/por/images/Reports/POR/2024/2016191/2016191_10675485_1730226167418_Figure_3--rgov-800width.png" title="Figure 3"><img src="/por/images/Reports/POR/2024/2016191/2016191_10675485_1730226167418_Figure_3--rgov-66x44.png" alt="Figure 3"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 3. (A) PDI structures. (B) Absorption spectra for each compound. (C) XPS spectra. (D) Absorption spectra for PDIs in water and methanol. (E) HOMO/LUMO Gaussian calculations.</div> <div class="imageCredit">Daniel Powell</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Luisa&nbsp;Whittaker-Brooks <div class="imageTitle">Figure 3</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  During our funding period, we trained 3 PhD students and 2 undergraduate researchers who published 8 manuscripts in high-impact factor journals and a journal cover (Figure 1). From a research perspective, we developed structure-property relationships to understand how morphology, carrier mobility, and device performance are affected as a function of doping in n-type organic small molecules. We described the unique properties of self-n-doped perylene diimides (PDIs), delineated structure-function relationships, and investigated the performance of self-n-doped PDIs when assembled into devices. In particular, we focused on the impact of the incorporation of amine/ammonium functional groups into the PDI scaffold on doping efficiency regarding attachment mode, tether distance, counterion selection, and steric encumbrance. Self-n-doped PDIs are a unique set of PDI structural derivatives whose properties are amenable to various applications such as biochemistry, solar energy conversion, thermoelectric modules, batteries, and photocatalysis. We were able to conceive synthesis and characterization procedures to fabricate thionated PDIs and thionated contorted quaternary PDI propellers. We have taken a modular approach to understanding the impact of functionalization on thin-film structure and device properties, independently tuning the solubilizing groups and peripheral aromatic substituents. We have found that thionation and the addition of branched groups at the bay position of the PDI molecule promote enhanced crystallinity and high photocurrents, yielding devices with power-conversion efficiencies exceeding 8%. We know that the efficiencies can be easily increased given that replacing C=O for C=S (thionation) as well as the addition of pendant functional groups are efficient at breaking up edge-to-face aggregation, which is critical to fabricating continuous and pinhole-free thin films thus, enhancing short-circuit current density in devices. Further device improvements are seen for acceptor derivatives that also increase the overall -surface of the molecule (in part due to increasing strong absorption through the visible spectrum). Further, the best results are found where the solubilizing substituents yield materials that crystallize only upon thermal annealing of the bulk-heterojunction active layer, which likely provides the most appropriate phase separation and domain sizes.   Given that we can obtain molecules that are 130% doped with no morphological disruptions, we investigated spin formations in both thin films and in solutions to enable the tuning of radicals and biradical formation upon changing the concentration of our doped PDIs (Figure 2).   Moreover, direct thermal activation of dopants in organic small molecules is very challenging. The free energy change for charge transfer GCTfrom an amine donor to a neutral PDI acceptor is +1.4 eV in the solid state, which is a barrier that far exceeds the 25-40 meV thermal excitation present when annealing samples, leading us to propose a secondary pathway involving sample decomposition. In testing a series of n-doped PDIs, we have identified numerous examples of dopants that both do and do not degrade yet still show a marked increase in electronic doping even when degradation does not occur. Chemical structures for a selection of these compounds are shown inFigure 3A. Absorption spectra for these compounds collected before and after thermal annealing at 120 oC under an inert atmosphere are shown inFigure 3B, which shows the conversion of the ground state species (415-570 nm) to the radical anion (570-1100 nm) following annealing. Doping occurs for all compounds in this series following thermal annealing and is most pronounced in B6OH and D6OH. X-ray photoelectron spectroscopy (XPS) spectra of the nitrogen edge collected before and after annealing are shown inFigure 3C. Both A6OH and B6OH show signs of amine degradation, but C6OH and D6OH are stable. From this data, we are able to conclude that degradation is thus an intrinsic property to the structural motif of the dopant in question, with certain structures being more prone to dealkylation. Instead of degradation, the increase in doping observed upon annealing is related to the residual presence of solvent. Absorption spectra of A2I measured in both DMF and water are shown inFigure 3D. In water, the PDIs form H-aggregates and all remain in their neutral state. In DMF, monomers are present and radical anions easily form, as evidenced by the characteristic radical peak at 700 nm. We also observed solvent selection during thin film processing which affected radical anion formation. Methanol residue completely suppressed radical anion formation, while methanol/water mixtures favored radical anion formation following annealing. Additionally, thermal activation may reduce the energy gap between the HOMO and HOMO1, shown inFig. 3Eto promote photoinduced electron transfer.   In terms of broader impacts, our outreach program included research participation of underrepresented parties via the ACS project SEED and the L'Oreal Changing the Face of STEM programs as well as demonstrations and research talks to local high schools on how organic electronics can contribute to the urge societal plea for more sustainable energy technologies.     Last Modified: 10/29/2024       Submitted by: LuisaWhittaker-Brooks]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

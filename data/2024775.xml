@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NRI: FND: Immersive whole-body teleoperation of wheeled humanoid robots for dynamic mobil manipulation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>750000.00</AwardTotalIntnAmount>
+<AwardAmount>750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cang Ye</SignBlockName>
+<PO_EMAI>cye@nsf.gov</PO_EMAI>
+<PO_PHON>7032924702</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Physically demanding labor is required of workers in construction and logistics, as well as dangerous jobs such as disaster relief, firefighting, policework, logging, and mining. Many of these workers in the US are injured, disabled, or die due to workplace incidents.  Although robots have the potential to protect the well-being of these workers, they do not yet possess the capability to perform the demanding physical tasks which are inherent to these activities. A key missing aspect is the intelligence to intuitively coordinate their body to amplify the forces that they apply to objects, such as when humans naturally lean against a heavy door to open it. This project focuses on developing the technology to combine the control intelligence of humans with the physical strength and endurance of machines. In this framework, a wearable device measures the posture of the entire body of a human operator such that the remote human-like robot may reproduce the same whole-body position at the same time. The novelty of this project is to enable the human operator to simultaneously feel the forces that the robot applies to its surroundings. For instance, a firefighter commands the robot to push heavy debris by performing the motion herself, while simultaneously feeling whether the robot is exerting insufficient force and the object isn’t moving, or whether it is exerting excessive effort and losing balance. The impact of this research is the protection of the well-being of human workers by taking them away from danger, while leveraging their domain expertise and their motor intelligence to perform physically demanding labor. This research promotes the inclusion of undergraduate and underrepresented minorities in research, creates outreach activities with K-12 students, and proposes demonstrations of the system during conferences and University events.&lt;br/&gt;&lt;br/&gt;This project explores a novel bilateral teleoperation framework which enables a human operator to control a remote wheeled humanoid robot to perform Dynamic Mobile Manipulation (DMM). DMM are physical tasks which combine forceful manipulation and agile locomotion. The key hypothesis in this proposal is that bilateral teleoperation via a whole-body haptic device can achieve safe and intuitive DMM in unstructured field environments. To validate this hypothesis, three specific aims will be pursued over three years. Aim 1: Implement the hardware that enables this research, composed of (i) a prototype whole-body haptic device which reads the operator’s posture to control the remote robot, and provides rich kinesthetic, visual, and audial feedback from the robot’s interaction with its environment, and (ii) the robot named SATYRR, which combines advantages of legged systems, wheeled locomotion, and an anthropomorphic upper-body for dual-arm manipulation. Aim 2: Study whole-body bilateral teleoperation strategies for DMM. Devise a human-to-robot motion mapping for intuitive, high-bandwidth control, and implement force feedback schemes that deliver interpretable feedback to the operator even under large impacts. And Aim 3: Improve DMM safety using shared autonomy. Devise model predictive control schemes to follow the user's input as closely as possible while preventing operator inputs that would damage the robot. To evaluate the planned framework, a realistic laboratory task environment will be built with an obstacle course that includes pushing large objects, opening blocked doors, balancing under external disturbances, and carrying and throwing a payload.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2024775</AwardID>
+<Investigator>
+<FirstName>Kris</FirstName>
+<LastName>Hauser</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kris Hauser</PI_FULL_NAME>
+<EmailAddress><![CDATA[kkhauser@illinois.edu]]></EmailAddress>
+<NSF_ID>000554065</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate>08/21/2023</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kris</FirstName>
+<LastName>Hauser</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kris Hauser</PI_FULL_NAME>
+<EmailAddress><![CDATA[kkhauser@illinois.edu]]></EmailAddress>
+<NSF_ID>000554065</NSF_ID>
+<StartDate>08/21/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joao</FirstName>
+<LastName>Ramos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joao Ramos</PI_FULL_NAME>
+<EmailAddress><![CDATA[jlramos@illinois.edu]]></EmailAddress>
+<NSF_ID>000822236</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate>08/21/2023</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joao</FirstName>
+<LastName>Ramos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joao Ramos</PI_FULL_NAME>
+<EmailAddress><![CDATA[jlramos@illinois.edu]]></EmailAddress>
+<NSF_ID>000822236</NSF_ID>
+<StartDate>08/21/2023</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>V2PHZ2CSCH63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Board of Trustees of the University of Illinois]]></Name>
+<CityName>Urbana</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S. Wright Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>801300</Code>
+<Text>NRI-National Robotics Initiati</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8086</Code>
+<Text>Natl Robotics Initiative (NRI)</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~750000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project investigated control and feedback techniques for humans to teleoperate, i.e., remote control, dynamic mobile manipulator robots using whole-body human-machine interfaces. Such robots could be useful in search and rescue or disaster scenarios where it could be hazardous for humans to be present in the environment. It is challenging for human operators to teleoperate complex manipulation skills, especially those involved in dynamic manipulation, which moves the body at high speed to help move heavy loads and apply large impact forces. The purpose of this research is to investigate methods to improve the proficientcy of human operators while performing dynamic mobile manipulation.</p>  <p><br />The intellectual merit of the project includes results from human subjects studies showing that adaptive navigation and balance control is superior to direct control, likely because it removes the need for fine motor adjustments and cognitive load in response to external disturbances. In contrast, results found that direct control is sufficient for high accuracy control of the robot arms. Other results indicate that the utility of haptic feedback for obstacle avoidance is improved if feedback is provided more strongly for obstacles that the operator is less likely to be aware of, such as those outside of the operator's field of view. This project also contributed to substantial research infrastructure, including the SATYRR miniature wheeled humanoid and a whole-body Human-Machine Interface (HMI) that were used in this research&nbsp; project and continue to be useful equipment for ongoing research at the University of Illinois.</p>  <p><br />Broader impacts of the project include the involvement of a female graduate student and undergraduate student in research, as well as the development of educational kits for robotics coursework which were used during the COVID-19 quarantine period.&nbsp; Two students received their Master's degree under support of this grant.</p><br> <p>  Last Modified: 01/01/2025<br> Modified by: Kris&nbsp;Hauser</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2025/2024775/2024775_10706623_1735766783572_HMIPushing--rgov-214x142.png" original="/por/images/Reports/POR/2025/2024775/2024775_10706623_1735766783572_HMIPushing--rgov-800width.png" title="Pushing using the HMI"><img src="/por/images/Reports/POR/2025/2024775/2024775_10706623_1735766783572_HMIPushing--rgov-66x44.png" alt="Pushing using the HMI"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Controlling the SATYRR robot to push a box using force feedback through the HMI</div> <div class="imageCredit">Joao Ramos</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kris&nbsp;Hauser <div class="imageTitle">Pushing using the HMI</div> </div> </li><li> <a href="/por/images/Reports/POR/2025/2024775/2024775_10706623_1735766687712_HMI--rgov-214x142.png" original="/por/images/Reports/POR/2025/2024775/2024775_10706623_1735766687712_HMI--rgov-800width.png" title="Human-machine interface"><img src="/por/images/Reports/POR/2025/2024775/2024775_10706623_1735766687712_HMI--rgov-66x44.png" alt="Human-machine interface"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The whole-body teleoperation human-machine interface (HMI) developed by this project</div> <div class="imageCredit">Joao Ramos</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kris&nbsp;Hauser <div class="imageTitle">Human-machine interface</div> </div> </li><li> <a href="/por/images/Reports/POR/2025/2024775/2024775_10706623_1735766732127_Satyrr--rgov-214x142.png" original="/por/images/Reports/POR/2025/2024775/2024775_10706623_1735766732127_Satyrr--rgov-800width.png" title="SATYRR wheeled humanoid"><img src="/por/images/Reports/POR/2025/2024775/2024775_10706623_1735766732127_Satyrr--rgov-66x44.png" alt="SATYRR wheeled humanoid"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The SATYRR wheeled humanoid developed by this project.</div> <div class="imageCredit">Joao Ramos</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kris&nbsp;Hauser <div class="imageTitle">SATYRR wheeled humanoid</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project investigated control and feedback techniques for humans to teleoperate, i.e., remote control, dynamic mobile manipulator robots using whole-body human-machine interfaces. Such robots could be useful in search and rescue or disaster scenarios where it could be hazardous for humans to be present in the environment. It is challenging for human operators to teleoperate complex manipulation skills, especially those involved in dynamic manipulation, which moves the body at high speed to help move heavy loads and apply large impact forces. The purpose of this research is to investigate methods to improve the proficientcy of human operators while performing dynamic mobile manipulation.     The intellectual merit of the project includes results from human subjects studies showing that adaptive navigation and balance control is superior to direct control, likely because it removes the need for fine motor adjustments and cognitive load in response to external disturbances. In contrast, results found that direct control is sufficient for high accuracy control of the robot arms. Other results indicate that the utility of haptic feedback for obstacle avoidance is improved if feedback is provided more strongly for obstacles that the operator is less likely to be aware of, such as those outside of the operator's field of view. This project also contributed to substantial research infrastructure, including the SATYRR miniature wheeled humanoid and a whole-body Human-Machine Interface (HMI) that were used in this research project and continue to be useful equipment for ongoing research at the University of Illinois.     Broader impacts of the project include the involvement of a female graduate student and undergraduate student in research, as well as the development of educational kits for robotics coursework which were used during the COVID-19 quarantine period. Two students received their Master's degree under support of this grant.     Last Modified: 01/01/2025       Submitted by: KrisHauser]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>
