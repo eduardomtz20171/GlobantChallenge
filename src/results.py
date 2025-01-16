@@ -38,7 +38,7 @@ def get_top_words_per_cluster(texts, cluster_labels, n_clusters, top_n=10, outpu
     base_stops = set(stopwords.words('english'))
     base_stops = base_stops.union(set(custom_stopwords))
 
-    vectorizer = TfidfVectorizer(max_features=5000, stop_words=base_stops)
+    vectorizer = TfidfVectorizer(max_features=5000, stop_words=list(base_stops))
     tfidf_matrix = vectorizer.fit_transform(texts)
     feature_names = vectorizer.get_feature_names_out()
 
